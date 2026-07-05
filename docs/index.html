@@ -126,9 +126,11 @@ function renderMkt(g){
     if(!q) return `<div class="card"><div class="row1"><span class="nm">${n}<span class="code">${c}</span></span><span class="px flat">—</span></div></div>`;
     const pos = (q.yh>q.yl)? ((q.p-q.yl)/(q.yh-q.yl)*100) : null;
     const gap50 = q.a50? ((q.p/q.a50-1)*100) : null;
+    const iv = (DATA.inst && DATA.inst.byCode && DATA.inst.byCode[c]) || null;
+    const instLine = iv ? `<div class="row2" style="margin-top:3px"><span>法人(${(DATA.inst.date||"").slice(5)})：外資 <b class="${iv.f>0?"up":iv.f<0?"down":"flat"}">${iv.f>0?"+":""}${iv.f.toLocaleString()}張</b>　投信 <b class="${iv.t>0?"up":iv.t<0?"down":"flat"}">${iv.t>0?"+":""}${iv.t.toLocaleString()}張</b></span></div>` : "";
     return `<div class="card">
       <div class="row1"><span class="nm">${n}<span class="code">${c}</span></span><span class="px">${fmt(q.p)}</span></div>
-      <div class="row2"><span>${sig(q)}${gap50!=null?` <span style="margin-left:6px">50日乖離 ${gap50>0?"+":""}${gap50.toFixed(1)}%${Math.abs(gap50)>20?" ⚠️":""}</span>`:""}</span>${chg(q.c)}</div>
+      <div class="row2"><span>${sig(q)}${gap50!=null?` <span style="margin-left:6px">50日乖離 ${gap50>0?"+":""}${gap50.toFixed(1)}%${Math.abs(gap50)>20?" ⚠️":""}</span>`:""}</span>${chg(q.c)}</div>${instLine}
       ${pos!=null?`<div class="bar"><i style="left:${Math.min(99,Math.max(1,pos)).toFixed(1)}%"></i></div><div class="bar-lab"><span>52週低 ${fmt(q.yl)}</span><span>52週高 ${fmt(q.yh)}</span></div>`:""}
     </div>`;
   }).join("");
@@ -173,7 +175,9 @@ document.getElementById("seg").addEventListener("click",e=>{
 (async()=>{
   try{
     DATA = await (await fetch("data.json?t="+Date.now())).json();
-    document.getElementById("gen").textContent = "數據時間："+DATA.generatedAt+"（每日 07:00 自動更新）";
+    let genTxt = "數據時間："+DATA.generatedAt;
+    if(DATA.inst && DATA.inst.totalNetE!=null) genTxt += `　｜　三大法人(${(DATA.inst.date||"").slice(5)}) 全市場${DATA.inst.totalNetE>0?"買超":"賣超"} ${Math.abs(DATA.inst.totalNetE).toLocaleString()} 億`;
+    document.getElementById("gen").textContent = genTxt;
     renderMkt("all"); renderNews();
   }catch(e){ document.getElementById("gen").textContent="數據載入失敗"; }
   loadBriefs(); loadWl();
