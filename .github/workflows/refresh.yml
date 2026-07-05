@@ -1,0 +1,31 @@
+name: 更新行情數據
+
+on:
+  workflow_dispatch:        # 手機/網頁一鍵手動更新
+  schedule:                 # 盤中自動更新（UTC）
+    - cron: '15 1,2,3,4,5 * * 1-5'    # 台股 09:15–13:15（台北）每小時
+    - cron: '35 14,16,18,20 * * 1-5'  # 美股時段（台北 22:35–04:35）每兩小時
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install --quiet yfinance
+      - run: python scripts/refresh_data.py
+      - run: |
+          git config user.name "market-refresh-bot"
+          git config user.email "lin7125@gmail.com"
+          git add docs/data.json
+          git diff --cached --quiet || git commit -m "盤中行情更新 $(TZ=Asia/Taipei date +'%F %H:%M')"
+          git push
