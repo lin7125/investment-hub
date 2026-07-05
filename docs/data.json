@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-07-05 19:59 (台北時間)",
+  "quotes": [
+    {"s":"2330.TW","p":2445,"c":-0.81,"a50":2310.7,"a200":1815,"yh":2535,"yl":1065},
+    {"s":"2317.TW","p":240.5,"c":0.63,"a50":255.65,"a200":231.81,"yh":314,"yl":158.5},
+    {"s":"2308.TW","p":2075,"c":5.33,"a50":2165.4,"a200":1409.08,"yh":2585,"yl":440},
+    {"s":"2454.TW","p":4195,"c":-3.45,"a50":3838,"a200":2103.3,"yh":4970,"yl":1130},
+    {"s":"2327.TW","p":1045,"c":-0.95,"a50":695.25,"a200":356.52,"yh":1220,"yl":119.75},
+    {"s":"1802.TW","p":68.8,"c":-2.27,"a50":68.48,"a200":48.89,"yh":81.2,"yl":15.75},
+    {"s":"6862.TW","p":195,"c":1.56,"a50":187.26,"a200":179.01,"yh":248,"yl":126.5},
+    {"s":"3701.TW","p":45.45,"c":5.7,"a50":55.02,"a200":49.22,"yh":79.8,"yl":29.25},
+    {"s":"4722.TW","p":277,"c":0,"a50":248.07,"a200":192.59,"yh":313,"yl":61.3},
+    {"s":"6706.TW","p":154,"c":3.01,"a50":168.34,"a200":121.82,"yh":225,"yl":57.7},
+    {"s":"2305.TW","p":38.8,"c":3.19,"a50":23.81,"a200":15.47,"yh":41,"yl":10},
+    {"s":"6442.TW","p":1640,"c":0.31,"a50":1903.6,"a200":1551.62,"yh":2540,"yl":429},
+    {"s":"6515.TW","p":9900,"c":6.34,"a50":9364.3,"a200":5411.65,"yh":11490,"yl":1000},
+    {"s":"6446.TW","p":1395,"c":0,"a50":912.72,"a200":664.89,"yh":1430,"yl":440.65},
+    {"s":"3324.TWO","p":1020,"c":-1.92,"a50":1067.8,"a200":998.88,"yh":1305,"yl":621},
+    {"s":"3491.TWO","p":1340,"c":5.93,"a50":1685.5,"a200":1115.12,"yh":2200,"yl":305},
+    {"s":"3585.TWO","p":73.6,"c":1.94,"a50":86.85,"a200":36.6,"yh":190,"yl":5.18},
+    {"s":"6223.TWO","p":7380,"c":1.72,"a50":5882,"a200":3405.7,"yh":7400,"yl":984},
+    {"s":"6750.TWO","p":66.2,"c":0.61,"a50":67.18,"a200":55.4,"yh":77.8,"yl":36.5},
+    {"s":"AAPL","p":308.63,"c":4.84,"a50":293.52,"a200":270.69,"yh":317.4,"yl":201.5},
+    {"s":"NVDA","p":194.83,"c":-1.39,"a50":209.8,"a200":191.03,"yh":236.54,"yl":157.34},
+    {"s":"TSLA","p":393.45,"c":-7.49,"a50":406.42,"a200":418.61,"yh":498.83,"yl":288.77},
+    {"s":"META","p":582.9,"c":-4.9,"a50":605.23,"a200":646.51,"yh":796.25,"yl":520.26},
+    {"s":"^TWII","p":46780.62,"c":0.08,"a50":43329.17,"a200":33246.27,"yh":48218.87,"yl":22190.46},
+    {"s":"^GSPC","p":7483.24,"c":0,"a50":7394.74,"a200":6942.91,"yh":7620.9,"yl":6201},
+    {"s":"^VIX","p":15.81,"c":-2.11,"a50":17.63,"a200":18.67,"yh":35.3,"yl":13.38},
+    {"s":"TWDUSD","p":0.03130562,"c":-0.03,"a50":0.03167613,"a200":0.03186483,"yh":0.0353,"yl":0.03052}
+  ],
+  "news": [
+    {"t":"OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering","pub":"WSJ","d":"2026-07-05 07:24","u":"https://www.wsj.com/business/energy-oil/opec-allies-hike-output-again-as-hormuz-traffic-starts-recovering-0094a1a4"},
+    {"t":"The Week Ahead: Fed Minutes and Early Earnings Take Center Stage","pub":"FXEmpire","d":"2026-07-05 06:04","u":"https://www.fxempire.com/forecasts/article/the-week-ahead-fed-minutes-and-early-earnings-take-center-stage-1608355"},
+    {"t":"Dow Jones: Can the Record Rally Survive the Start of Earnings Season?","pub":"FXEmpire","d":"2026-07-05 02:42","u":"https://www.fxempire.com/forecasts/article/dow-jones-can-the-record-rally-survive-the-start-of-earnings-season-1608350"},
+    {"t":"This Bull Market Should Charge Into 2027","pub":"Seeking Alpha","d":"2026-07-05 03:29","u":"https://seekingalpha.com/article/4919885-this-bull-market-should-charge-into-2027"},
+    {"t":"Liquor Stocks Are Priced for a Big Tobacco Moment","pub":"WSJ","d":"2026-07-05 05:30","u":"https://www.wsj.com/business/retail/liquor-stocks-are-priced-for-a-big-tobacco-moment-e3bb0481"},
+    {"t":"Iraq approves preliminary agreements to study strategic oil export pipeline projects","pub":"Reuters","d":"2026-07-04 21:13","u":"https://www.reuters.com/business/energy/iraq-approves-preliminary-agreements-study-strategic-oil-export-pipeline-2026-07-05/"},
+    {"t":"How Rogue Nations Are Using Cryptocurrencies to Evade Sanctions","pub":"WSJ","d":"2026-07-04 17:31","u":"https://www.wsj.com/world/cryptocurrency-sanctions-evasion-d02b60f1"},
+    {"t":"The 1-Minute Market Report, July 4, 2026","pub":"Seeking Alpha","d":"2026-07-04 13:13","u":"https://seekingalpha.com/article/4919859-the-1-minute-market-report-july-4-2026"}
+  ]
+}

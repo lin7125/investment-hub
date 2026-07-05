@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="投資中心">
+<title>Ray 投資中心</title>
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+  body { font-family: -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif; background: #f2f3f7; color: #1a1d24; padding-bottom: 70px; }
+  header { background: #fff; padding: 14px 16px 0; position: sticky; top: 0; z-index: 20; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
+  h1 { font-size: 18px; }
+  .gen { font-size: 11.5px; color: #9ca3af; margin: 2px 0 10px; }
+  .tabs { display: flex; gap: 4px; }
+  .tabs button { flex: 1; border: none; background: none; padding: 9px 0; font-size: 14px; color: #6b7280; border-bottom: 2.5px solid transparent; cursor: pointer; }
+  .tabs button.on { color: #1a1d24; font-weight: 700; border-color: #1a1d24; }
+  main { padding: 12px; max-width: 720px; margin: 0 auto; }
+  .macro { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; margin-bottom: 12px; }
+  .mcard { background: #fff; border-radius: 12px; padding: 10px 12px; box-shadow: 0 1px 3px rgba(0,0,0,.05); }
+  .mcard .t { font-size: 11.5px; color: #6b7280; }
+  .mcard .v { font-size: 18px; font-weight: 800; margin: 2px 0; }
+  .mcard .d { font-size: 12.5px; }
+  .card { background: #fff; border-radius: 12px; margin-bottom: 8px; padding: 11px 13px; box-shadow: 0 1px 3px rgba(0,0,0,.05); }
+  .row1 { display: flex; justify-content: space-between; align-items: baseline; }
+  .nm { font-size: 15px; font-weight: 700; }
+  .code { color: #9ca3af; font-size: 12px; font-weight: 400; margin-left: 4px; }
+  .px { font-size: 16px; font-weight: 800; }
+  .row2 { display: flex; justify-content: space-between; align-items: center; margin-top: 5px; font-size: 12px; color: #6b7280; }
+  .up { color: #dc2626; font-weight: 700; }
+  .down { color: #059669; font-weight: 700; }
+  .flat { color: #6b7280; }
+  .sig { font-size: 11px; padding: 2px 8px; border-radius: 999px; }
+  .sig.bull { background: #fee2e2; color: #b91c1c; }
+  .sig.bear { background: #d1fae5; color: #047857; }
+  .sig.mix { background: #f3f4f6; color: #6b7280; }
+  .bar { height: 5px; border-radius: 999px; background: #eef0f4; position: relative; margin-top: 8px; }
+  .bar i { position: absolute; top: -2.5px; width: 10px; height: 10px; border-radius: 50%; background: #1a1d24; transform: translateX(-50%); }
+  .bar-lab { display: flex; justify-content: space-between; font-size: 10px; color: #b6bcc6; margin-top: 3px; }
+  .news a { display: block; background: #fff; border-radius: 12px; margin-bottom: 8px; padding: 11px 13px; text-decoration: none; color: inherit; box-shadow: 0 1px 3px rgba(0,0,0,.05); }
+  .news .nt { font-size: 14px; font-weight: 600; line-height: 1.45; }
+  .news .nmeta { font-size: 11.5px; color: #9ca3af; margin-top: 4px; }
+  .blist button { display: block; width: 100%; text-align: left; background: #fff; border: none; border-radius: 12px; margin-bottom: 8px; padding: 13px; font-size: 14.5px; font-weight: 600; cursor: pointer; box-shadow: 0 1px 3px rgba(0,0,0,.05); }
+  #bview { background: #fff; border-radius: 12px; padding: 16px 15px; line-height: 1.75; font-size: 14.5px; display: none; }
+  #bview h1,#bview h2,#bview h3 { margin: 14px 0 6px; line-height: 1.4; }
+  #bview h1 { font-size: 18px; } #bview h2 { font-size: 16px; } #bview h3 { font-size: 15px; }
+  #bview ul,#bview ol { padding-left: 20px; margin: 6px 0; }
+  #bview a { color: #2563eb; }
+  #bview table { border-collapse: collapse; width: 100%; font-size: 12.5px; margin: 8px 0; display: block; overflow-x: auto; }
+  #bview td,#bview th { border: 1px solid #e5e7eb; padding: 4px 7px; white-space: nowrap; }
+  .back { background: #1a1d24; color: #fff; border: none; border-radius: 999px; padding: 7px 18px; font-size: 13px; margin-bottom: 10px; cursor: pointer; }
+  .editbtn { display: block; text-align: center; background: #1a1d24; color: #fff; border-radius: 12px; padding: 13px; text-decoration: none; font-size: 14.5px; font-weight: 600; margin-bottom: 8px; }
+  .hint { font-size: 12px; color: #9ca3af; line-height: 1.7; margin: 10px 2px; }
+  .seg { display: flex; gap: 6px; margin-bottom: 10px; }
+  .seg button { border: 1px solid #d1d5db; background: #fff; border-radius: 999px; padding: 5px 14px; font-size: 12.5px; color: #374151; cursor: pointer; }
+  .seg button.on { background: #1a1d24; color: #fff; border-color: #1a1d24; }
+  .loading { text-align: center; color: #9ca3af; padding: 30px 0; font-size: 13px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>📈 Ray 投資中心</h1>
+  <div class="gen" id="gen">數據載入中…</div>
+  <div class="tabs" id="tabs">
+    <button data-t="mkt" class="on">行情</button>
+    <button data-t="news">新聞</button>
+    <button data-t="brief">簡報</button>
+    <button data-t="wl">自選股</button>
+  </div>
+</header>
+<main>
+  <section id="p-mkt">
+    <div class="macro" id="macro"></div>
+    <div class="seg" id="seg">
+      <button data-g="all" class="on">全部</button>
+      <button data-g="tw">台股</button>
+      <button data-g="us">美股</button>
+    </div>
+    <div id="stocks"></div>
+    <div class="hint">均線訊號＝現價 vs 50/200日線。圓點＝現價在 52 週區間的位置。數據每日 07:00 隨簡報自動更新。紅漲綠跌。僅供研究參考，非投資建議。</div>
+  </section>
+  <section id="p-news" style="display:none"><div class="news" id="newslist"></div><div class="hint">全球市場焦點，每日 07:00 更新。</div></section>
+  <section id="p-brief" style="display:none">
+    <div id="blist" class="blist"><div class="loading">載入簡報列表…</div></div>
+    <div id="bview"></div>
+  </section>
+  <section id="p-wl" style="display:none">
+    <a class="editbtn" href="https://github.com/lin7125/investment-hub/edit/main/watchlist.md">✏️ 編輯自選股清單（GitHub）</a>
+    <div id="wlview" class="card" style="line-height:1.9; font-size:14px"><div class="loading">載入清單…</div></div>
+    <div class="hint">加一行＝新增、刪一行＝刪除，Commit 後隔天簡報與本頁自動生效。</div>
+  </section>
+</main>
+<script>
+const REPO = "lin7125/investment-hub";
+const NAMES = {
+  "2330.TW":["台積電","2330"],"2317.TW":["鴻海","2317"],"2308.TW":["台達電","2308"],"2454.TW":["聯發科","2454"],
+  "2327.TW":["國巨","2327"],"1802.TW":["台玻","1802"],"6862.TW":["三集瑞-KY","6862"],"3701.TW":["大眾控","3701"],
+  "4722.TW":["國精化","4722"],"6706.TW":["惠特","6706"],"2305.TW":["全友","2305"],"6442.TW":["光聖","6442"],
+  "6515.TW":["穎崴","6515"],"6446.TW":["藥華藥","6446"],"3324.TWO":["雙鴻","3324"],"3491.TWO":["昇達科","3491"],
+  "3585.TWO":["聯致","3585"],"6223.TWO":["旺矽","6223"],"6750.TWO":["泰創工程","6750"],
+  "AAPL":["Apple","AAPL"],"NVDA":["NVIDIA","NVDA"],"TSLA":["Tesla","TSLA"],"META":["Meta","META"]
+};
+const MACROS = {"^TWII":"台股加權","^GSPC":"S&P 500","^VIX":"VIX 恐慌指數","TWDUSD":"美元兌台幣"};
+let DATA = null;
+function esc(t){const d=document.createElement("div");d.textContent=t||"";return d.innerHTML;}
+function chg(v){ if(v==null) return '<span class="flat">—</span>'; const c=v>0.005?"up":v<-0.005?"down":"flat"; return `<span class="${c}">${v>0?"+":""}${v.toFixed(2)}%</span>`; }
+function sig(q){ if(!q.a50||!q.a200) return '<span class="sig mix">—</span>'; if(q.p>q.a50&&q.p>q.a200) return '<span class="sig bull">多頭</span>'; if(q.p<q.a50&&q.p<q.a200) return '<span class="sig bear">空頭</span>'; return '<span class="sig mix">整理</span>'; }
+function fmt(v){ return v>=1000 ? v.toLocaleString(undefined,{maximumFractionDigits:0}) : v.toLocaleString(undefined,{maximumFractionDigits:2}); }
+function renderMkt(g){
+  const qs = {}; (DATA.quotes||[]).forEach(q=>qs[q.s]=q);
+  document.getElementById("macro").innerHTML = Object.keys(MACROS).map(s=>{
+    const q=qs[s]; if(!q) return "";
+    const fx = s==="TWDUSD";
+    const v = fx ? (1/q.p).toFixed(2) : fmt(q.p);
+    return `<div class="mcard"><div class="t">${MACROS[s]}</div><div class="v">${v}</div><div class="d">${chg(fx?-q.c:q.c)}</div></div>`;
+  }).join("");
+  document.getElementById("stocks").innerHTML = Object.keys(NAMES).filter(s=>{
+    if(g==="tw") return /\.TWO?$/.test(s); if(g==="us") return !/\.TWO?$/.test(s); return true;
+  }).map(s=>{
+    const q=qs[s]; const [n,c]=NAMES[s];
+    if(!q) return `<div class="card"><div class="row1"><span class="nm">${n}<span class="code">${c}</span></span><span class="px flat">—</span></div></div>`;
+    const pos = (q.yh>q.yl)? ((q.p-q.yl)/(q.yh-q.yl)*100) : null;
+    const gap50 = q.a50? ((q.p/q.a50-1)*100) : null;
+    return `<div class="card">
+      <div class="row1"><span class="nm">${n}<span class="code">${c}</span></span><span class="px">${fmt(q.p)}</span></div>
+      <div class="row2"><span>${sig(q)}${gap50!=null?` <span style="margin-left:6px">50日乖離 ${gap50>0?"+":""}${gap50.toFixed(1)}%${Math.abs(gap50)>20?" ⚠️":""}</span>`:""}</span>${chg(q.c)}</div>
+      ${pos!=null?`<div class="bar"><i style="left:${Math.min(99,Math.max(1,pos)).toFixed(1)}%"></i></div><div class="bar-lab"><span>52週低 ${fmt(q.yl)}</span><span>52週高 ${fmt(q.yh)}</span></div>`:""}
+    </div>`;
+  }).join("");
+}
+function renderNews(){
+  document.getElementById("newslist").innerHTML = (DATA.news||[]).map(n=>
+    `<a href="${esc(n.u)}" target="_blank"><div class="nt">${esc(n.t)}</div><div class="nmeta">${esc(n.pub)} ・ ${esc(n.d)}（美東）</div></a>`).join("") || '<div class="loading">暫無新聞</div>';
+}
+async function loadBriefs(){
+  const el = document.getElementById("blist");
+  try{
+    const r = await fetch(`https://api.github.com/repos/${REPO}/contents/briefings`);
+    const files = (await r.json()).filter(f=>/^\d{4}-\d{2}-\d{2}\.md$/.test(f.name)).sort((a,b)=>b.name.localeCompare(a.name));
+    el.innerHTML = files.length ? files.slice(0,30).map(f=>`<button data-p="${esc(f.path)}">📄 ${f.name.replace(".md","")} 每日簡報</button>`).join("") : '<div class="loading">尚無簡報——明早 07:00 後出現第一份</div>';
+    el.querySelectorAll("button").forEach(b=>b.addEventListener("click",async()=>{
+      const v=document.getElementById("bview");
+      el.style.display="none"; v.style.display="block";
+      v.innerHTML='<div class="loading">載入中…</div>';
+      const md = await (await fetch(`https://raw.githubusercontent.com/${REPO}/main/${b.dataset.p}`)).text();
+      v.innerHTML = `<button class="back" onclick="document.getElementById('bview').style.display='none';document.getElementById('blist').style.display='block'">← 返回列表</button>` + marked.parse(md);
+    }));
+  }catch(e){ el.innerHTML='<div class="loading">載入失敗（repo 需為 Public）</div>'; }
+}
+async function loadWl(){
+  try{
+    const md = await (await fetch(`https://raw.githubusercontent.com/${REPO}/main/watchlist.md`)).text();
+    document.getElementById("wlview").innerHTML = marked.parse(md);
+  }catch(e){ document.getElementById("wlview").innerHTML='<div class="loading">載入失敗</div>'; }
+}
+document.getElementById("tabs").addEventListener("click",e=>{
+  if(e.target.tagName!=="BUTTON") return;
+  document.querySelectorAll("#tabs button").forEach(b=>b.classList.remove("on"));
+  e.target.classList.add("on");
+  ["mkt","news","brief","wl"].forEach(t=>document.getElementById("p-"+t).style.display = t===e.target.dataset.t?"block":"none");
+});
+document.getElementById("seg").addEventListener("click",e=>{
+  if(e.target.tagName!=="BUTTON") return;
+  document.querySelectorAll("#seg button").forEach(b=>b.classList.remove("on"));
+  e.target.classList.add("on");
+  renderMkt(e.target.dataset.g);
+});
+(async()=>{
+  try{
+    DATA = await (await fetch("data.json?t="+Date.now())).json();
+    document.getElementById("gen").textContent = "數據時間："+DATA.generatedAt+"（每日 07:00 自動更新）";
+    renderMkt("all"); renderNews();
+  }catch(e){ document.getElementById("gen").textContent="數據載入失敗"; }
+  loadBriefs(); loadWl();
+})();
+</script>
+</body>
+</html>
