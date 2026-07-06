@@ -110,7 +110,16 @@ let DATA = null;
 // ── 一鍵更新：呼叫 GitHub API 觸發 refresh workflow；token 只存在本機 localStorage，不進 repo ──
 function _curG(){ const b=document.querySelector('#seg button.on'); return b?b.dataset.g:'all'; }
 function _applyGen(){ let t="數據時間："+DATA.generatedAt; if(DATA.inst&&DATA.inst.totalNetE!=null) t+=`　｜　三大法人(${(DATA.inst.date||'').slice(5)}) 全市場${DATA.inst.totalNetE>0?'買超':'賣超'} ${Math.abs(DATA.inst.totalNetE).toLocaleString()} 億`; document.getElementById('gen').textContent=t; }
-function setToken(){ const cur=localStorage.getItem('gh_pat')?'（已有一組，貼新的可覆蓋）':''; const t=prompt('貼上 GitHub token'+cur+'\n只存在本機、不會上傳。需 fine-grained token，Actions=Read and write，套用到 investment-hub'); if(t!==null){ const v=t.trim(); if(v){ localStorage.setItem('gh_pat',v); alert('已儲存到本機。'); } else { localStorage.removeItem('gh_pat'); alert('已清除本機權杖。'); } } }
+function setToken(){
+  var old=document.getElementById('tokbox'); if(old){ old.remove(); return; }
+  var d=document.createElement('div'); d.id='tokbox';
+  d.style.cssText='position:fixed;top:16px;left:16px;right:16px;z-index:99999;background:#fff;border:2px solid #1a1d24;border-radius:12px;padding:16px;box-shadow:0 6px 24px rgba(0,0,0,.25);font-family:-apple-system,sans-serif;max-width:520px;margin:0 auto';
+  var has=localStorage.getItem('gh_pat')?'（已有一組，貼新的可覆蓋）':'';
+  d.innerHTML='<div style="font-weight:700;font-size:15px;margin-bottom:8px">貼上 GitHub token'+has+'</div><div style="font-size:12px;color:#6b7280;margin-bottom:8px">只存在本機、不會上傳。fine-grained token，Actions=Read and write，套用到 investment-hub。</div><input id="tokfield" type="password" placeholder="github_pat_..." autocomplete="off" style="width:100%;padding:12px;font-size:16px;border:1px solid #bbb;border-radius:8px"/><div style="margin-top:12px;display:flex;align-items:center;gap:10px"><button id="toksave" style="background:#1a1d24;color:#fff;border:none;border-radius:8px;padding:11px 22px;font-size:16px;font-weight:600;cursor:pointer">儲存</button><button id="tokclose" style="background:#eee;border:none;border-radius:8px;padding:11px 16px;font-size:15px;cursor:pointer">關閉</button><span id="tokmsg" style="font-size:14px;font-weight:600"></span></div>';
+  document.body.appendChild(d);
+  document.getElementById('tokclose').onclick=function(){ d.remove(); };
+  document.getElementById('toksave').onclick=function(){ var f=document.getElementById('tokfield'); var v=(f.value||'').trim(); var m=document.getElementById('tokmsg'); if(v.indexOf('github_pat_')===0||v.indexOf('ghp_')===0){ localStorage.setItem('gh_pat',v); f.value=''; m.style.color='#059669'; m.textContent='已儲存 ✓'; setTimeout(function(){ d.remove(); },1200); } else if(v){ m.style.color='#dc2626'; m.textContent='格式怪怪的（應以 github_pat_ 開頭），請重貼'; } else { m.style.color='#dc2626'; m.textContent='欄位是空的'; } };
+}
 async function updateNow(){
   const btn=document.getElementById('updbtn'); const set=t=>{btn.textContent=t;};
   let tok=localStorage.getItem('gh_pat');
