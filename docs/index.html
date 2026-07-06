@@ -63,7 +63,7 @@
 <header>
   <div style="display:flex; justify-content:space-between; align-items:center">
     <h1>📈 Ray 投資中心</h1>
-    <a href="https://github.com/lin7125/investment-hub/actions/workflows/refresh.yml" target="_blank" style="background:#1a1d24;color:#fff;border-radius:999px;padding:6px 14px;font-size:12.5px;text-decoration:none;font-weight:600">🔄 立即更新</a>
+    <button id="updbtn" onclick="updateNow()" style="background:#1a1d24;color:#fff;border:none;border-radius:999px;padding:6px 14px;font-size:12.5px;font-weight:600;cursor:pointer">🔄 立即更新</button>
   </div>
   <div class="gen" id="gen">數據載入中…</div>
   <div class="tabs" id="tabs">
@@ -82,7 +82,7 @@
       <button data-g="us">美股</button>
     </div>
     <div id="stocks"></div>
-    <div class="hint">均線訊號＝現價 vs 50/200日線。圓點＝現價在 52 週區間的位置。紅漲綠跌。<br>更新機制：每日 08:00 完整更新（FMP）＋台美股盤中自動更新（Yahoo）＋右上「🔄 立即更新」→ 按綠色 Run workflow → 約 1 分鐘後重新整理本頁。僅供研究參考，非投資建議。</div>
+    <div class="hint">均線訊號＝現價 vs 50/200日線。圓點＝現價在 52 週區間的位置。紅漲綠跌。<br>更新機制：每日 08:00 完整更新（FMP）＋盤中自動更新（Yahoo）＋右上「🔄 立即更新」一鍵觸發（約 40 秒後自動刷新，免離開本頁）。<br><a href="#" onclick="setToken();return false" style="color:#2563eb">🔑 設定／更新權杖</a>　僅供研究參考，非投資建議。</div>
   </section>
   <section id="p-news" style="display:none"><div class="news" id="newslist"></div><div class="hint">全球市場焦點，每日 08:00 更新。</div></section>
   <section id="p-brief" style="display:none">
@@ -107,6 +107,32 @@ const NAMES = {
 };
 const MACROS = {"^TWII":"台股加權","^GSPC":"S&P 500","^VIX":"VIX 恐慌指數","TWDUSD":"美元兌台幣"};
 let DATA = null;
+// ── 一鍵更新：呼叫 GitHub API 觸發 refresh workflow；token 只存在本機 localStorage，不進 repo ──
+function _curG(){ const b=document.querySelector('#seg button.on'); return b?b.dataset.g:'all'; }
+function _applyGen(){ let t="數據時間："+DATA.generatedAt; if(DATA.inst&&DATA.inst.totalNetE!=null) t+=`　｜　三大法人(${(DATA.inst.date||'').slice(5)}) 全市場${DATA.inst.totalNetE>0?'買超':'賣超'} ${Math.abs(DATA.inst.totalNetE).toLocaleString()} 億`; document.getElementById('gen').textContent=t; }
+function setToken(){ const cur=localStorage.getItem('gh_pat')?'（已有一組，貼新的可覆蓋）':''; const t=prompt('貼上 GitHub token'+cur+'\n只存在本機、不會上傳。需 fine-grained token，Actions=Read and write，套用到 investment-hub'); if(t!==null){ const v=t.trim(); if(v){ localStorage.setItem('gh_pat',v); alert('已儲存到本機。'); } else { localStorage.removeItem('gh_pat'); alert('已清除本機權杖。'); } } }
+async function updateNow(){
+  const btn=document.getElementById('updbtn'); const set=t=>{btn.textContent=t;};
+  let tok=localStorage.getItem('gh_pat');
+  if(!tok){ setToken(); tok=localStorage.getItem('gh_pat'); if(!tok) return; }
+  const before=DATA?DATA.generatedAt:'';
+  set('🔄 觸發中…');
+  try{
+    const r=await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/refresh.yml/dispatches`,{
+      method:'POST', headers:{'Authorization':'Bearer '+tok,'Accept':'application/vnd.github+json'},
+      body:JSON.stringify({ref:'main'}) });
+    if(r.status===401||r.status===403){ localStorage.removeItem('gh_pat'); set('🔄 立即更新'); alert('Token 無效或權限不足（需 Actions 讀寫）。已清除，請用「🔑 設定／更新權杖」重設。'); return; }
+    if(r.status!==204){ set('🔄 立即更新'); alert('觸發失敗：HTTP '+r.status); return; }
+  }catch(e){ set('🔄 立即更新'); alert('網路錯誤：'+e.message); return; }
+  const RAW=`https://raw.githubusercontent.com/${REPO}/main/docs/data.json`;
+  for(let i=0;i<40;i++){
+    await new Promise(s=>setTimeout(s,5000)); set('🔄 更新中…'+((i+1)*5)+'s');
+    try{ const d=await (await fetch(RAW+'?t='+Date.now(),{cache:'no-store'})).json();
+      if(d.generatedAt && d.generatedAt!==before){ DATA=d; renderMkt(_curG()); renderNews(); _applyGen(); set('✅ 已更新'); setTimeout(()=>set('🔄 立即更新'),3000); return; }
+    }catch(e){}
+  }
+  set('🔄 立即更新'); alert('已觸發更新，但資料還沒回來，稍等一下再點一次或重整。');
+}
 function esc(t){const d=document.createElement("div");d.textContent=t||"";return d.innerHTML;}
 function chg(v){ if(v==null) return '<span class="flat">—</span>'; const c=v>0.005?"up":v<-0.005?"down":"flat"; return `<span class="${c}">${v>0?"+":""}${v.toFixed(2)}%</span>`; }
 function sig(q){ if(!q.a50||!q.a200) return '<span class="sig mix">—</span>'; if(q.p>q.a50&&q.p>q.a200) return '<span class="sig bull">多頭</span>'; if(q.p<q.a50&&q.p<q.a200) return '<span class="sig bear">空頭</span>'; return '<span class="sig mix">整理</span>'; }
