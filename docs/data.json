@@ -1,386 +1,304 @@
 {
- "generatedAt": "2026-07-07 08:40（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-07 08:55（台北時間・7/6 收盤數據，開盤前補發）",
  "quotes": [
   {
    "s": "2330.TW",
    "p": 2460.0,
    "c": 0.61,
-   "a50": 2318.3,
-   "a200": 1791.22,
-   "yh": 2510.0,
-   "yl": 1080.0
+   "a50": 2310.7,
+   "a200": 1815.0,
+   "yh": 2535.0,
+   "yl": 1065.0
   },
   {
    "s": "2317.TW",
    "p": 242.0,
    "c": 0.62,
-   "a50": 255.99,
-   "a200": 231.1,
-   "yh": 309.0,
-   "yl": 159.0
+   "a50": 255.65,
+   "a200": 231.81,
+   "yh": 314.0,
+   "yl": 158.5
   },
   {
    "s": "2308.TW",
    "p": 1995.0,
    "c": -3.86,
-   "a50": 2165.7,
-   "a200": 1394.33,
-   "yh": 2520.0,
-   "yl": 450.0
+   "a50": 2165.4,
+   "a200": 1409.08,
+   "yh": 2585.0,
+   "yl": 440.0
   },
   {
    "s": "2454.TW",
    "p": 4125.0,
    "c": -1.67,
-   "a50": 3876.2,
-   "a200": 2101.22,
-   "yh": 4640.0,
-   "yl": 1145.0
+   "a50": 3838.0,
+   "a200": 2103.3,
+   "yh": 4970.0,
+   "yl": 1130.0
   },
   {
    "s": "2327.TW",
    "p": 1005.0,
    "c": -3.83,
-   "a50": 709.45,
-   "a200": 355.92,
-   "yh": 1140.0,
-   "yl": 120.38
+   "a50": 695.25,
+   "a200": 356.52,
+   "yh": 1220.0,
+   "yl": 119.75
   },
   {
    "s": "1802.TW",
    "p": 67.9,
    "c": -1.31,
-   "a50": 68.52,
-   "a200": 48.24,
-   "yh": 76.6,
-   "yl": 15.9
+   "a50": 68.48,
+   "a200": 48.89,
+   "yh": 81.2,
+   "yl": 15.75
   },
   {
    "s": "6862.TW",
    "p": 195.0,
    "c": 0.0,
-   "a50": 187.71,
-   "a200": 178.09,
-   "yh": 228.0,
-   "yl": 127.5
+   "a50": 187.26,
+   "a200": 179.01,
+   "yh": 248.0,
+   "yl": 126.5
   },
   {
    "s": "3701.TW",
    "p": 44.8,
    "c": -1.43,
-   "a50": 54.49,
-   "a200": 48.98,
-   "yh": 78.6,
-   "yl": 29.4
+   "a50": 55.02,
+   "a200": 49.22,
+   "yh": 79.8,
+   "yl": 29.25
   },
   {
    "s": "4722.TW",
    "p": 268.0,
    "c": -3.25,
-   "a50": 251.32,
-   "a200": 191.67,
-   "yh": 306.5,
-   "yl": 61.9
+   "a50": 249.72,
+   "a200": 193.32,
+   "yh": 313.0,
+   "yl": 61.3
   },
   {
    "s": "6706.TW",
    "p": 147.0,
    "c": -4.55,
-   "a50": 168.65,
-   "a200": 120.25,
-   "yh": 216.5,
-   "yl": 58.5
+   "a50": 168.34,
+   "a200": 121.82,
+   "yh": 225.0,
+   "yl": 57.7
   },
   {
    "s": "2305.TW",
    "p": 42.65,
    "c": 9.92,
-   "a50": 24.34,
-   "a200": 15.58,
+   "a50": 23.81,
+   "a200": 15.47,
    "yh": 42.65,
-   "yl": 10.1
+   "yl": 10.0
   },
   {
    "s": "6442.TW",
    "p": 1595.0,
    "c": -2.74,
-   "a50": 1895.1,
-   "a200": 1513.49,
-   "yh": 2370.0,
-   "yl": 437.5
+   "a50": 1903.6,
+   "a200": 1551.62,
+   "yh": 2540.0,
+   "yl": 429.0
   },
   {
    "s": "6515.TW",
    "p": 8915.0,
    "c": -9.95,
-   "a50": 9328.0,
-   "a200": 5312.12,
-   "yh": 10795.0,
+   "a50": 9364.3,
+   "a200": 5411.65,
+   "yh": 11490.0,
    "yl": 1000.0
   },
   {
    "s": "6446.TW",
    "p": 1445.0,
    "c": 3.58,
-   "a50": 920.42,
-   "a200": 656.37,
-   "yh": 1445.0,
-   "yl": 442.0
+   "a50": 912.72,
+   "a200": 664.89,
+   "yh": 1470.0,
+   "yl": 440.65
   },
   {
    "s": "3324.TWO",
    "p": 1010.0,
    "c": -0.98,
-   "a50": 1065.9,
-   "a200": 985.12,
-   "yh": 1280.0,
-   "yl": 633.0
+   "a50": 1067.8,
+   "a200": 998.88,
+   "yh": 1305.0,
+   "yl": 621.0
   },
   {
    "s": "3491.TWO",
    "p": 1300.0,
    "c": -2.99,
-   "a50": 1680.5,
-   "a200": 1078.43,
+   "a50": 1685.5,
+   "a200": 1115.12,
    "yh": 2200.0,
-   "yl": 320.5
+   "yl": 305.0
   },
   {
    "s": "3585.TWO",
-   "p": 71.0,
-   "c": -3.53,
-   "a50": 85.84,
-   "a200": 36.32,
-   "yh": 165.0,
-   "yl": 5.4
+   "p": 71.1,
+   "c": -3.4,
+   "a50": 86.85,
+   "a200": 36.6,
+   "yh": 190.0,
+   "yl": 5.18
   },
   {
    "s": "6223.TWO",
    "p": 6855.0,
    "c": -7.11,
-   "a50": 5923.3,
-   "a200": 3378.7,
-   "yh": 7380.0,
-   "yl": 994.0
+   "a50": 5882.0,
+   "a200": 3405.7,
+   "yh": 7700.0,
+   "yl": 984.0
   },
   {
    "s": "6750.TWO",
    "p": 67.0,
-   "c": 1.36,
-   "a50": 67.17,
-   "a200": 55.12,
-   "yh": 74.3,
-   "yl": 37.6
+   "c": 1.21,
+   "a50": 67.18,
+   "a200": 55.4,
+   "yh": 77.8,
+   "yl": 36.5
   },
   {
    "s": "AAPL",
    "p": 312.66,
    "c": 1.31,
-   "a50": 294.31,
-   "a200": 271.06,
-   "yh": 315.2,
-   "yl": 202.38
+   "a50": 293.52,
+   "a200": 270.69,
+   "yh": 317.4,
+   "yl": 201.5
   },
   {
    "s": "NVDA",
    "p": 195.55,
    "c": 0.37,
-   "a50": 209.66,
-   "a200": 191.13,
-   "yh": 235.74,
-   "yl": 158.24
+   "a50": 209.8,
+   "a200": 191.03,
+   "yh": 236.54,
+   "yl": 157.34
   },
   {
    "s": "TSLA",
    "p": 419.77,
    "c": 6.69,
-   "a50": 407.07,
-   "a200": 418.6,
-   "yh": 489.88,
-   "yl": 293.94
+   "a50": 406.42,
+   "a200": 418.61,
+   "yh": 498.83,
+   "yl": 288.77
   },
   {
    "s": "META",
    "p": 600.29,
    "c": 2.98,
-   "a50": 603.74,
-   "a200": 645.62,
-   "yh": 790.0,
-   "yl": 525.72
+   "a50": 605.23,
+   "a200": 646.51,
+   "yh": 796.25,
+   "yl": 520.26
   },
   {
    "s": "^TWII",
-   "p": 46780.62,
-   "c": 0.08,
+   "p": 46556.39,
+   "c": -0.48,
    "a50": 43329.17,
    "a200": 33246.27,
-   "yh": 47741.51,
-   "yl": 22362.27
+   "yh": 48218.87,
+   "yl": 22190.46
   },
   {
    "s": "^GSPC",
-   "p": 7537.43,
-   "c": 0.72,
-   "a50": 7402.74,
-   "a200": 6947.56,
-   "yh": 7609.78,
-   "yl": 6225.52
+   "p": 7538.34,
+   "c": 0.74,
+   "a50": 7394.74,
+   "a200": 6942.91,
+   "yh": 7620.9,
+   "yl": 6201.0
   },
   {
    "s": "^VIX",
    "p": 15.57,
-   "c": -3.59,
-   "a50": 17.55,
+   "c": -1.52,
+   "a50": 17.63,
    "a200": 18.67,
-   "yh": 31.05,
-   "yl": 13.47
+   "yh": 35.3,
+   "yl": 13.38
   },
   {
    "s": "TWDUSD",
-   "p": 0.03121099,
-   "c": -0.34,
-   "a50": 0.03164557,
-   "a200": 0.03183699,
-   "yh": 0.034211,
-   "yl": 0.031095
+   "p": 0.03121488,
+   "c": 0.02,
+   "a50": 0.03166809,
+   "a200": 0.03185642,
+   "yh": 0.03460088,
+   "yl": 0.03051665
   }
  ],
  "news": [
   {
-   "t": "Semiconductors Winners And Losers At The Start Of H2 2026",
-   "pub": "Seeking Alpha",
-   "d": "2026-07-05 21:10",
-   "u": "https://seekingalpha.com/article/4919939-semiconductors-winners-and-losers-at-the-start-of-h2-2026"
+   "t": "U.S. Stocks Rise as Investors Brace for Busy Week of AI Stocks",
+   "pub": "WSJ",
+   "d": "2026-07-06 16:30",
+   "u": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-investors-brace-for-busy-week-of-ai-stocks-664c036b"
   },
   {
-   "t": "Semiconductor Stocks Slide Amid AI Spending Concerns",
+   "t": "Stocks Push Higher Led by Chipmakers | Closing Bell",
    "pub": "Bloomberg",
-   "d": "2026-07-05 08:25",
-   "u": "https://www.youtube.com/watch?v=sS-eWNxmyvI"
+   "d": "2026-07-06 16:27",
+   "u": "https://www.youtube.com/watch?v=zL46G05SuOw"
   },
   {
-   "t": "Stock Futures Kick Off Week that Includes Fed Minutes",
-   "pub": "Barron's",
-   "d": "2026-07-05 16:56",
-   "u": "https://www.barrons.com/articles/stock-futures-fed-minutes-pepsi-delta-earnings-47dbcac0"
-  },
-  {
-   "t": "U.S. stock futures rise as Wall Street looks to extend its rally",
-   "pub": "MarketWatch",
-   "d": "2026-07-05 18:14",
-   "u": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102"
-  },
-  {
-   "t": "OPEC, Allies Hike Output Again as Hormuz Traffic Starts Recovering",
-   "pub": "WSJ",
-   "d": "2026-07-05 07:24",
-   "u": "https://www.wsj.com/business/energy-oil/opec-allies-hike-output-again-as-hormuz-traffic-starts-recovering-0094a1a4"
-  },
-  {
-   "t": "A Sudden Glut of Oil Threatens to Weaken Iran's Hand in Talks",
-   "pub": "WSJ",
-   "d": "2026-07-05 09:54",
-   "u": "https://www.wsj.com/finance/commodities-futures/a-sudden-glut-of-oil-threatens-to-weaken-irans-hand-in-talks-adfcf7c0"
-  },
-  {
-   "t": "A $350 Billion Liquidity Drain Is Set To Hit Markets This Summer",
+   "t": "DRAM Prices Likely To Drop 80%-90% In 3 Years",
    "pub": "Seeking Alpha",
-   "d": "2026-07-05 09:55",
-   "u": "https://seekingalpha.com/article/4919883-350-billion-liquidity-drain-set-to-hit-markets-this-summer"
+   "d": "2026-07-06 15:41",
+   "u": "https://seekingalpha.com/article/4920140-dram-prices-likely-to-drop-80-90-percent-in-3-years"
   },
   {
-   "t": "Why the stock-market's red-hot momentum trade might be headed for a violent unwind",
-   "pub": "MarketWatch",
-   "d": "2026-07-05 09:00",
-   "u": "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397"
+   "t": "Jim Cramer: 5 stocks to buy during this market rotation",
+   "pub": "CNBC",
+   "d": "2026-07-06 18:29",
+   "u": "https://www.cnbc.com/2026/07/06/jim-cramer-stocks-buy-during-market-rotation.html"
   },
   {
-   "t": "Asian Currencies Consolidate Amid Possible Position Adjustments",
+   "t": "Oil Rises Before Expected Resumption of U.S.-Iran Talks",
    "pub": "WSJ",
-   "d": "2026-07-05 20:44",
-   "u": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-possible-position-adjustments-a259ca37"
+   "d": "2026-07-06 20:09",
+   "u": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-possible-position-adjustments-before-expected-resumption-of-u-s-iran-talks-ead21cdc"
   },
   {
-   "t": "Gold (XAUUSD): Can Fed Minutes Lift Gold Above the 52-Week MA?",
-   "pub": "FXEmpire",
-   "d": "2026-07-05 17:11",
-   "u": "https://www.fxempire.com/forecasts/article/gold-xauusd-price-forecast-can-fed-minutes-lift-gold-above-the-52-week-ma-1608398"
-  }
- ],
- "inst": {
-  "date": "2026-07-03",
-  "byCode": {
-   "2317": {
-    "f": 586,
-    "t": 1103,
-    "all": 2602
-   },
-   "2305": {
-    "f": 137,
-    "t": 0,
-    "all": 136
-   },
-   "6515": {
-    "f": -101,
-    "t": 151,
-    "all": 45
-   },
-   "2308": {
-    "f": 437,
-    "t": -455,
-    "all": 39
-   },
-   "6446": {
-    "f": 9,
-    "t": 32,
-    "all": 23
-   },
-   "6862": {
-    "f": 10,
-    "t": 0,
-    "all": 9
-   },
-   "6706": {
-    "f": -242,
-    "t": 0,
-    "all": -63
-   },
-   "4722": {
-    "f": -68,
-    "t": 0,
-    "all": -65
-   },
-   "6442": {
-    "f": -183,
-    "t": 40,
-    "all": -124
-   },
-   "2327": {
-    "f": -183,
-    "t": -81,
-    "all": -263
-   },
-   "3701": {
-    "f": -269,
-    "t": 0,
-    "all": -266
-   },
-   "2454": {
-    "f": -3367,
-    "t": -70,
-    "all": -3272
-   },
-   "2330": {
-    "f": -12537,
-    "t": 820,
-    "all": -11063
-   },
-   "1802": {
-    "f": -15033,
-    "t": -351,
-    "all": -15565
-   }
+   "t": "Saudis Slash Main Oil Price to Rare Discount",
+   "pub": "Bloomberg",
+   "d": "2026-07-06 16:07",
+   "u": "https://www.youtube.com/watch?v=1OGnd2EYHKE"
   },
-  "totalNetE": -735.4
- }
+  {
+   "t": "What Will Happen To The Market If Tech Cracks, Corrects Or Crashes?",
+   "pub": "Seeking Alpha",
+   "d": "2026-07-06 16:15",
+   "u": "https://seekingalpha.com/article/4920155-what-will-happen-to-market-if-tech-cracks-corrects-or-crashes"
+  },
+  {
+   "t": "Beyond The AI Bubble Debate",
+   "pub": "Seeking Alpha",
+   "d": "2026-07-06 16:50",
+   "u": "https://seekingalpha.com/article/4920162-beyond-ai-bubble-debate"
+  },
+  {
+   "t": "JPMorgan, BofA and Other Banks Explore a Deal to Shake Up Payments",
+   "pub": "WSJ",
+   "d": "2026-07-06 19:00",
+   "u": "https://www.wsj.com/finance/banking/jpmorgan-bank-of-america-and-other-banks-explore-a-deal-to-shake-up-payments-world-9d8639fb"
+  }
+ ]
 }
