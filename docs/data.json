@@ -1,176 +1,167 @@
 {
- "generatedAt": "2026-07-09 16:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-09 18:05（台北時間・盤後 FMP 數據）",
  "quotes": [
   {
    "s": "2330.TW",
    "p": 2415.0,
    "c": -2.03,
-   "a50": 2331.4,
-   "a200": 1810.22,
-   "yh": 2510.0,
-   "yl": 1090.0
+   "a50": 2327.4,
+   "a200": 1832.75,
+   "yh": 2535,
+   "yl": 1065
   },
   {
    "s": "2317.TW",
    "p": 237.5,
    "c": 0.0,
-   "a50": 256.73,
-   "a200": 231.6,
-   "yh": 309.0,
-   "yl": 160.5
+   "a50": 256.49,
+   "a200": 232.18,
+   "yh": 314,
+   "yl": 159
   },
   {
    "s": "2308.TW",
    "p": 1880.0,
    "c": -0.27,
-   "a50": 2154.4,
-   "a200": 1411.89,
-   "yh": 2520.0,
-   "yl": 451.0
+   "a50": 2159.3,
+   "a200": 1424.85,
+   "yh": 2585,
+   "yl": 440
   },
   {
    "s": "2454.TW",
    "p": 3925.0,
    "c": -1.75,
-   "a50": 3965.5,
-   "a200": 2139.72,
-   "yh": 4640.0,
-   "yl": 1145.0
+   "a50": 3939.3,
+   "a200": 2141.28,
+   "yh": 4970,
+   "yl": 1130
   },
   {
    "s": "2327.TW",
    "p": 900.0,
    "c": 1.01,
-   "a50": 744.8,
-   "a200": 367.36,
-   "yh": 1140.0,
-   "yl": 121.75
+   "a50": 733.33,
+   "a200": 368.21,
+   "yh": 1220,
+   "yl": 120.75
   },
   {
    "s": "1802.TW",
    "p": 65.0,
    "c": -1.52,
-   "a50": 68.43,
-   "a200": 48.8,
-   "yh": 76.6,
-   "yl": 16.25
+   "a50": 68.54,
+   "a200": 49.49,
+   "yh": 81.2,
+   "yl": 15.8
   },
   {
    "s": "6862.TW",
    "p": 181.5,
    "c": 1.11,
-   "a50": 188.27,
-   "a200": 178.55,
-   "yh": 228.0,
-   "yl": 127.5
+   "a50": 188.13,
+   "a200": 179.59,
+   "yh": 248,
+   "yl": 126.5
   },
   {
    "s": "3701.TW",
    "p": 41.65,
    "c": -1.54,
-   "a50": 53.09,
-   "a200": 48.93,
-   "yh": 78.6,
-   "yl": 29.4
+   "a50": 53.6,
+   "a200": 49.22,
+   "yh": 79.8,
+   "yl": 29.25
   },
   {
    "s": "4722.TW",
    "p": 256.5,
    "c": -1.16,
-   "a50": 255.87,
-   "a200": 193.52,
-   "yh": 306.5,
-   "yl": 62.2
+   "a50": 254.37,
+   "a200": 195.11,
+   "yh": 313,
+   "yl": 61.5
   },
   {
    "s": "6706.TW",
    "p": 139.0,
    "c": -2.11,
-   "a50": 169.42,
-   "a200": 121.4,
-   "yh": 216.5,
-   "yl": 59.0
+   "a50": 169.32,
+   "a200": 122.84,
+   "yh": 225,
+   "yl": 58.2
   },
   {
    "s": "2305.TW",
    "p": 36.0,
    "c": 2.42,
-   "a50": 25.57,
-   "a200": 15.94,
+   "a50": 25.17,
+   "a200": 15.87,
    "yh": 42.65,
-   "yl": 10.1
+   "yl": 10
   },
   {
    "s": "6442.TW",
    "p": 1480.0,
    "c": -0.34,
-   "a50": 1874.0,
-   "a200": 1521.82,
-   "yh": 2370.0,
+   "a50": 1882.5,
+   "a200": 1562.16,
+   "yh": 2540,
    "yl": 437.5
   },
   {
    "s": "6515.TW",
    "p": 7765.0,
    "c": 0.78,
-   "a50": 9202.4,
-   "a200": 5404.32,
-   "yh": 10795.0,
-   "yl": 1000.0
+   "a50": 9249.8,
+   "a200": 5508.4,
+   "yh": 11490,
+   "yl": 1000
   },
   {
    "s": "6446.TW",
    "p": 1285.0,
-   "c": -6.84,
-   "a50": 876.65,
-   "a200": 605.48,
-   "yh": 1379.28,
-   "yl": 398.46
+   "c": -16.01,
+   "a50": 870.31,
+   "a200": 613.81,
+   "yh": 1415.34,
+   "yl": 397.24
   },
   {
    "s": "3324.TWO",
    "p": 920.0,
    "c": -0.54,
-   "a50": 1051.4,
-   "a200": 988.98,
-   "yh": 1280.0,
-   "yl": 633.0
+   "a50": 1055.9,
+   "a200": 1000.38,
+   "yh": 1305,
+   "yl": 631
   },
   {
    "s": "3491.TWO",
    "p": 1270.0,
    "c": 0.0,
-   "a50": 1659.3,
-   "a200": 1090.6,
-   "yh": 2200.0,
-   "yl": 320.5
+   "a50": 1666.3,
+   "a200": 1127.45,
+   "yh": 2200,
+   "yl": 305
   },
   {
    "s": "3585.TWO",
    "p": 64.7,
-   "c": -2.27,
-   "a50": 85.2,
-   "a200": 37.11,
-   "yh": 165.0,
-   "yl": 5.4
+   "c": -3.86,
+   "a50": 86.33,
+   "a200": 37.36,
+   "yh": 190,
+   "yl": 5.18
   },
   {
    "s": "6223.TWO",
    "p": 7080.0,
    "c": 9.6,
-   "a50": 6032.1,
-   "a200": 3455.8,
-   "yh": 7380.0,
-   "yl": 994.0
-  },
-  {
-   "s": "6750.TWO",
-   "p": 64.4,
-   "c": -1.23,
-   "a50": 67.03,
-   "a200": 55.43,
-   "yh": 74.3,
-   "yl": 37.6
+   "a50": 5988.1,
+   "a200": 3481.1,
+   "yh": 7700,
+   "yl": 984
   },
   {
    "s": "AAPL",
@@ -178,8 +169,8 @@
    "c": 0.88,
    "a50": 295.9,
    "a200": 271.8,
-   "yh": 315.2,
-   "yl": 202.38
+   "yh": 317.4,
+   "yl": 201.5
   },
   {
    "s": "NVDA",
@@ -187,8 +178,8 @@
    "c": 3.65,
    "a50": 209.52,
    "a200": 191.4,
-   "yh": 235.74,
-   "yl": 162.88
+   "yh": 236.54,
+   "yl": 161.16
   },
   {
    "s": "TSLA",
@@ -196,8 +187,8 @@
    "c": -2.19,
    "a50": 408.0,
    "a200": 418.37,
-   "yh": 489.88,
-   "yl": 295.88
+   "yh": 498.83,
+   "yl": 293.55
   },
   {
    "s": "META",
@@ -205,182 +196,106 @@
    "c": -2.02,
    "a50": 601.43,
    "a200": 643.93,
-   "yh": 790.0,
-   "yl": 525.72
+   "yh": 796.25,
+   "yl": 520.26
   },
   {
    "s": "^TWII",
    "p": 45354.61,
    "c": -0.83,
-   "a50": 43875.96,
-   "a200": 33675.28,
-   "yh": 47741.51,
-   "yl": 22527.01
+   "a50": 43759.31,
+   "a200": 33571.24,
+   "yh": 48218.87,
+   "yl": 22211.1
   },
   {
    "s": "^GSPC",
    "p": 7482.71,
    "c": -0.28,
-   "a50": 7417.0,
+   "a50": 7416.997,
    "a200": 6956.33,
-   "yh": 7609.78,
-   "yl": 6238.01
+   "yh": 7620.9,
+   "yl": 6201.59
   },
   {
    "s": "^VIX",
-   "p": 16.71,
-   "c": -1.12,
-   "a50": 17.46,
+   "p": 16.93,
+   "c": 0.18,
+   "a50": 17.48,
    "a200": 18.68,
-   "yh": 31.05,
-   "yl": 13.47
+   "yh": 35.3,
+   "yl": 13.38
   },
   {
    "s": "TWDUSD",
-   "p": 0.03109453,
-   "c": -0.09,
-   "a50": 0.03162555,
-   "a200": 0.03182686,
-   "yh": 0.034211,
-   "yl": 0.031095
+   "p": 31.5,
+   "c": 0.0,
+   "a50": 31.6,
+   "a200": 32.0,
+   "yh": 32.5,
+   "yl": 28.5
   }
  ],
  "news": [
   {
-   "t": "Trump: US Ceasefire With Iran Is 'Over'",
-   "pub": "Bloomberg",
-   "d": "2026-07-08 07:59",
-   "u": "https://www.youtube.com/watch?v=7u5bO_dHJkc"
-  },
-  {
-   "t": "US Strikes Iran and Blocks Oil Sales",
-   "pub": "Bloomberg",
-   "d": "2026-07-08 08:04",
-   "u": "https://www.youtube.com/watch?v=VVQBCZhNHMw"
-  },
-  {
-   "t": "Treasury Yields Rise as Hopes of Middle East Peace Fade",
-   "pub": "WSJ",
-   "d": "2026-07-08 08:57",
-   "u": "https://www.wsj.com/finance/jgbs-fall-tracking-declines-in-u-s-treasurys-168e6a33"
-  },
-  {
-   "t": "Fed meeting minutes to show 'family fight' over rates",
+   "t": "美伊停火破局再交火，油價逼近$80，荷莫茲海峽航運風險升溫",
    "pub": "CNBC",
-   "d": "2026-07-08 07:40",
-   "u": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html"
+   "d": "2026-07-08",
+   "u": "https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html"
   },
   {
-   "t": "Gold retreats below $4,100 after Trump says Iran ceasefire is 'over'",
-   "pub": "FX Street",
-   "d": "2026-07-08 07:23",
-   "u": "https://www.fxstreet.com/news/gold-retreats-below-4-100-after-us-president-trump-says-iran-ceasefire-is-over-202607081123"
+   "t": "台灣央行總裁警告AI泡沫風險真實存在",
+   "pub": "Reuters",
+   "d": "2026-07-09",
+   "u": "https://www.reuters.com/world/asia-pacific/taiwan-central-bank-chief-warns-ai-bubble-risk-2026-07-09/"
   },
   {
-   "t": "IMF trims global growth forecast to 3% for 2026, drops recession warning",
+   "t": "中國考慮限制美企愛用的本土AI模型",
    "pub": "WSJ",
-   "d": "2026-07-08 09:00",
-   "u": "https://www.wsj.com/economy/global/imf-drops-recession-warning-in-wake-of-june-ceasefire-795f1831"
+   "d": "2026-07-09",
+   "u": "https://www.wsj.com/tech/ai/china-weighs-limits-on-the-ai-models-american-companies-love-c3ad8f2b"
   },
   {
-   "t": "The AI Trade Is No Longer Easy Pickins (chip/hardware sold off, hyperscalers resilient)",
-   "pub": "Seeking Alpha",
-   "d": "2026-07-08 08:51",
-   "u": "https://seekingalpha.com/article/4920585-ai-trade-is-no-longer-easy-pickins"
+   "t": "油價因美伊升溫走高，美股期指仍上揚",
+   "pub": "WSJ",
+   "d": "2026-07-09",
+   "u": "https://www.wsj.com/finance/stocks/oil-steadies-following-u-s-iran-escalation-stock-futures-rise-cd345b8f"
   },
   {
-   "t": "Bezos' Blue Origin valued at $130 billion in first outside fundraising round",
+   "t": "中國6月CPI+1%不如預期、PPI+4.1%回升",
    "pub": "CNBC",
-   "d": "2026-07-08 08:36",
-   "u": "https://www.cnbc.com/2026/07/08/blue-origin-bezos-fundraising.html"
+   "d": "2026-07-08",
+   "u": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html"
   },
   {
-   "t": "三大法人7/7合計賣超946.91億元 外資賣超547億",
-   "pub": "Yahoo/MoneyDJ",
-   "d": "2026-07-07",
-   "u": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A1946-91%E5%84%84%E5%85%83-071745672.html"
+   "t": "油價預測：WTI與布蘭特挑戰$80，伊朗風險回歸",
+   "pub": "FXEmpire",
+   "d": "2026-07-09",
+   "u": "https://www.fxempire.com/forecasts/article/oil-price-forecast-wti-and-brent-eye-80-breakout-as-iran-risk-returns-1609149"
   },
   {
-   "t": "Iran war will leave an inflation scar on the U.S. through 2027, IMF says",
-   "pub": "MarketWatch",
-   "d": "2026-07-08 09:03",
-   "u": "https://www.marketwatch.com/story/iran-war-will-leave-an-inflation-scar-on-the-u-s-through-2027-imf-says-909818b8"
+   "t": "中東緊張壓抑金價，現貨連二日回落至約$4,030",
+   "pub": "Action Forex",
+   "d": "2026-07-09",
+   "u": "https://www.actionforex.com/contributors/technical-analysis/646647-middle-east-tensions-weigh-on-gold/"
+  },
+  {
+   "t": "銅、鈾、鋰測試支撐，白銀逼近買進區",
+   "pub": "FXEmpire",
+   "d": "2026-07-09",
+   "u": "https://www.fxempire.com/forecasts/article/copper-uranium-and-lithium-test-support-as-silver-nears-buy-zone-1609197"
+  },
+  {
+   "t": "德國出口意外回升+0.9%，無視伊朗戰事疑慮",
+   "pub": "WSJ",
+   "d": "2026-07-09",
+   "u": "https://www.wsj.com/economy/trade/german-exports-rise-shrugging-off-iran-war-concerns-16c47883"
+  },
+  {
+   "t": "FOMC紀要偏鷹，美元指數守穩100.75",
+   "pub": "FXEmpire",
+   "d": "2026-07-09",
+   "u": "https://www.fxempire.com/forecasts/article/us-dollar-price-forecast-dollar-reacts-to-fomc-minutes-on-policy-divergence-gbp-usd-and-eur-usd-next-move-1609184"
   }
- ],
- "inst": {
-  "date": "2026-07-09",
-  "byCode": {
-   "2317": {
-    "f": 5743,
-    "t": -38,
-    "all": 5584
-   },
-   "6515": {
-    "f": -45,
-    "t": 36,
-    "all": -8
-   },
-   "3701": {
-    "f": -7,
-    "t": 0,
-    "all": -9
-   },
-   "6442": {
-    "f": -4,
-    "t": 1,
-    "all": -14
-   },
-   "6862": {
-    "f": -23,
-    "t": 0,
-    "all": -23
-   },
-   "6706": {
-    "f": -118,
-    "t": 0,
-    "all": -142
-   },
-   "4722": {
-    "f": -325,
-    "t": 0,
-    "all": -340
-   },
-   "2305": {
-    "f": -460,
-    "t": -1,
-    "all": -472
-   },
-   "2308": {
-    "f": -816,
-    "t": 31,
-    "all": -777
-   },
-   "2454": {
-    "f": -690,
-    "t": -218,
-    "all": -792
-   },
-   "6446": {
-    "f": -1298,
-    "t": -107,
-    "all": -1433
-   },
-   "2327": {
-    "f": -4491,
-    "t": 1738,
-    "all": -2876
-   },
-   "1802": {
-    "f": -2697,
-    "t": -3,
-    "all": -2968
-   },
-   "2330": {
-    "f": -12749,
-    "t": -80,
-    "all": -12739
-   }
-  },
-  "totalNetE": -393.9
- }
+ ]
 }
