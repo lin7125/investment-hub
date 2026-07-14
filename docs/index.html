@@ -57,9 +57,12 @@
   .seg button { border: 1px solid #d1d5db; background: #fff; border-radius: 999px; padding: 5px 14px; font-size: 12.5px; color: #374151; cursor: pointer; }
   .seg button.on { background: #1a1d24; color: #fff; border-color: #1a1d24; }
   .loading { text-align: center; color: #9ca3af; padding: 30px 0; font-size: 13px; }
+  #ptrind { position: fixed; top: 10px; left: 50%; transform: translate(-50%,-50px); z-index: 999; background: #1a1d24; color: #fff; font-size: 13px; border-radius: 999px; padding: 8px 18px; opacity: 0; transition: all .2s; box-shadow: 0 3px 10px rgba(0,0,0,.25); pointer-events: none; white-space: nowrap; }
+  #ptrind.on { opacity: 1; transform: translate(-50%,0); }
 </style>
 </head>
 <body>
+<div id="ptrind"></div>
 <header>
   <div style="display:flex; justify-content:space-between; align-items:center">
     <h1>📈 Ray 投資中心</h1>
@@ -82,7 +85,7 @@
       <button data-g="us">美股</button>
     </div>
     <div id="stocks"></div>
-    <div class="hint">均線訊號＝現價 vs 50/200日線。圓點＝現價在 52 週區間的位置。紅漲綠跌。<br>更新機制：每日 08:00 完整更新（FMP）＋盤中自動更新（Yahoo）＋右上「🔄 立即更新」一鍵觸發（約 40 秒後自動刷新，免離開本頁）。<br><a href="#" onclick="setToken();return false" style="color:#2563eb">🔑 設定／更新權杖</a>　僅供研究參考，非投資建議。</div>
+    <div class="hint">均線訊號＝現價 vs 50/200日線。圓點＝現價在 52 週區間的位置。紅漲綠跌。<br>更新機制：頁面頂端「下拉」即可更新（先載最新存檔，有權杖再觸發即時抓價）；或點右上「🔄 立即更新」。另有每日 08:00 完整更新＋盤中自動更新。<br><a href="#" onclick="setToken();return false" style="color:#2563eb">🔑 設定／更新權杖</a>　僅供研究參考，非投資建議。</div>
   </section>
   <section id="p-news" style="display:none"><div class="news" id="newslist"></div><div class="hint">全球市場焦點，每日 08:00 更新。</div></section>
   <section id="p-brief" style="display:none">
@@ -120,28 +123,51 @@ function setToken(){
   document.getElementById('tokclose').onclick=function(){ d.remove(); };
   document.getElementById('toksave').onclick=function(){ var f=document.getElementById('tokfield'); var v=(f.value||'').trim(); var m=document.getElementById('tokmsg'); if(v.indexOf('github_pat_')===0||v.indexOf('ghp_')===0){ localStorage.setItem('gh_pat',v); f.value=''; m.style.color='#059669'; m.textContent='已儲存 ✓'; setTimeout(function(){ d.remove(); },1200); } else if(v){ m.style.color='#dc2626'; m.textContent='格式怪怪的（應以 github_pat_ 開頭），請重貼'; } else { m.style.color='#dc2626'; m.textContent='欄位是空的'; } };
 }
-async function updateNow(){
-  const btn=document.getElementById('updbtn'); const set=t=>{btn.textContent=t;};
-  let tok=localStorage.getItem('gh_pat');
-  if(!tok){ setToken(); tok=localStorage.getItem('gh_pat'); if(!tok) return; }
+let _busy=false;
+function _showInd(t){ const el=document.getElementById('ptrind'); if(t){ el.textContent=t; el.classList.add('on'); } else el.classList.remove('on'); }
+function updateNow(){ doRefresh(false); }
+async function doRefresh(fromPull){
+  if(_busy) return; _busy=true;
+  const btn=document.getElementById('updbtn');
+  const set=t=>{ btn.textContent='🔄 '+t; if(fromPull) _showInd(t); };
+  const RAW=`https://raw.githubusercontent.com/${REPO}/main/docs/data.json`;
   const before=DATA?DATA.generatedAt:'';
-  set('🔄 觸發中…');
+  // 步驟1：先直接載入 GitHub 上最新存檔（排程/別台裝置可能已更新過）
+  set('載入最新存檔…');
+  try{ const d=await (await fetch(RAW+'?t='+Date.now(),{cache:'no-store'})).json();
+    if(d.generatedAt && d.generatedAt!==before){ DATA=d; renderMkt(_curG()); renderNews(); _applyGen(); }
+  }catch(e){}
+  // 步驟2：有權杖 → 觸發 GitHub Action 現抓行情
+  let tok=localStorage.getItem('gh_pat');
+  if(!tok){ _finish(fromPull,'✅ 已載入存檔（設權杖可觸發即時抓價）'); if(!fromPull) setToken(); return; }
+  set('觸發即時抓價…');
+  const before2=DATA?DATA.generatedAt:'';
   try{
     const r=await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/refresh.yml/dispatches`,{
       method:'POST', headers:{'Authorization':'Bearer '+tok,'Accept':'application/vnd.github+json'},
       body:JSON.stringify({ref:'main'}) });
-    if(r.status===401||r.status===403){ localStorage.removeItem('gh_pat'); set('🔄 立即更新'); alert('Token 無效或權限不足（需 Actions 讀寫）。已清除，請用「🔑 設定／更新權杖」重設。'); return; }
-    if(r.status!==204){ set('🔄 立即更新'); alert('觸發失敗：HTTP '+r.status); return; }
-  }catch(e){ set('🔄 立即更新'); alert('網路錯誤：'+e.message); return; }
-  const RAW=`https://raw.githubusercontent.com/${REPO}/main/docs/data.json`;
-  for(let i=0;i<40;i++){
-    await new Promise(s=>setTimeout(s,5000)); set('🔄 更新中…'+((i+1)*5)+'s');
+    if(r.status===401||r.status===403){ localStorage.removeItem('gh_pat'); _finish(fromPull,'⚠️ 權杖失效已清除，請重新設定'); if(!fromPull) setToken(); return; }
+    if(r.status!==204){ _finish(fromPull,'⚠️ 觸發失敗 HTTP '+r.status); return; }
+  }catch(e){ _finish(fromPull,'⚠️ 網路錯誤：'+e.message); return; }
+  // 步驟3：輪詢直到新數據回來（最長 5 分鐘）
+  for(let i=0;i<60;i++){
+    await new Promise(s=>setTimeout(s,5000)); set('抓價中…'+((i+1)*5)+'s');
     try{ const d=await (await fetch(RAW+'?t='+Date.now(),{cache:'no-store'})).json();
-      if(d.generatedAt && d.generatedAt!==before){ DATA=d; renderMkt(_curG()); renderNews(); _applyGen(); set('✅ 已更新'); setTimeout(()=>set('🔄 立即更新'),3000); return; }
+      if(d.generatedAt && d.generatedAt!==before2){ DATA=d; renderMkt(_curG()); renderNews(); _applyGen(); _finish(fromPull,'✅ 行情已更新'); return; }
     }catch(e){}
   }
-  set('🔄 立即更新'); alert('已觸發更新，但資料還沒回來，稍等一下再點一次或重整。');
+  _finish(fromPull,'⚠️ 已觸發但資料未回，稍後再下拉一次');
 }
+function _finish(fromPull,msg){
+  _busy=false; document.getElementById('updbtn').textContent='🔄 立即更新';
+  _showInd(msg); setTimeout(()=>_showInd(''),3000);
+}
+// ── 下拉更新（手機）──
+let _ptrY=null,_ptrPull=0;
+document.addEventListener('touchstart',e=>{ _ptrY=(window.scrollY<=0&&!_busy)?e.touches[0].clientY:null; _ptrPull=0; },{passive:true});
+document.addEventListener('touchmove',e=>{ if(_ptrY==null||_busy) return; _ptrPull=e.touches[0].clientY-_ptrY;
+  if(_ptrPull>15&&window.scrollY<=0) _showInd(_ptrPull>70?'放開立即更新 ⟳':'↓ 再往下拉…'); },{passive:true});
+document.addEventListener('touchend',()=>{ const go=(_ptrY!=null&&_ptrPull>70&&!_busy); if(!go) _showInd(''); _ptrY=null; _ptrPull=0; if(go) doRefresh(true); },{passive:true});
 function esc(t){const d=document.createElement("div");d.textContent=t||"";return d.innerHTML;}
 function chg(v){ if(v==null) return '<span class="flat">—</span>'; const c=v>0.005?"up":v<-0.005?"down":"flat"; return `<span class="${c}">${v>0?"+":""}${v.toFixed(2)}%</span>`; }
 function sig(q){ if(!q.a50||!q.a200) return '<span class="sig mix">—</span>'; if(q.p>q.a50&&q.p>q.a200) return '<span class="sig bull">多頭</span>'; if(q.p<q.a50&&q.p<q.a200) return '<span class="sig bear">空頭</span>'; return '<span class="sig mix">整理</span>'; }
