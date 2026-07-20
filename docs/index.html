@@ -92,9 +92,18 @@
     <div id="bview"></div>
   </section>
   <section id="p-wl" style="display:none">
-    <a class="editbtn" href="https://github.com/lin7125/investment-hub/edit/main/watchlist.md">✏️ 編輯自選股清單（GitHub）</a>
+    <div class="card" style="padding:12px">
+      <div style="display:flex;gap:8px">
+        <input id="wladd" placeholder="代號或名稱：2603、長榮、AMD…" autocomplete="off" style="flex:1;min-width:0;padding:11px;font-size:16px;border:1px solid #ccc;border-radius:10px"/>
+        <button id="wladdbtn" style="background:#1a1d24;color:#fff;border:none;border-radius:10px;padding:0 18px;font-size:15px;font-weight:600;cursor:pointer;white-space:nowrap">新增</button>
+      </div>
+      <div id="wlpick" style="margin-top:8px;display:flex;flex-wrap:wrap;gap:6px"></div>
+    </div>
+    <div style="display:flex;justify-content:flex-end;margin:10px 0 4px">
+      <button id="wledit" style="background:#eee;border:none;border-radius:999px;padding:6px 16px;font-size:13px;font-weight:600;cursor:pointer">✏️ 編輯</button>
+    </div>
     <div id="wlview" class="card" style="line-height:1.9; font-size:14px"><div class="loading">載入清單…</div></div>
-    <div class="hint">加一行＝新增、刪一行＝刪除，Commit 後隔天簡報與本頁自動生效。</div>
+    <div class="hint">新增：輸入代號或名稱，自動判斷上市/上櫃/美股。刪除：點「編輯」後按 ✕。改動即時存回雲端，隔日簡報自動生效；新股票報價於下次抓價後出現在行情頁。</div>
   </section>
 </main>
 <script>
@@ -117,7 +126,7 @@ function setToken(){
   var d=document.createElement('div'); d.id='tokbox';
   d.style.cssText='position:fixed;top:16px;left:16px;right:16px;z-index:99999;background:#fff;border:2px solid #1a1d24;border-radius:12px;padding:16px;box-shadow:0 6px 24px rgba(0,0,0,.25);font-family:-apple-system,sans-serif;max-width:520px;margin:0 auto';
   var has=localStorage.getItem('gh_pat')?'（已有一組，貼新的可覆蓋）':'';
-  d.innerHTML='<div style="font-weight:700;font-size:15px;margin-bottom:8px">貼上 GitHub token'+has+'</div><div style="font-size:12px;color:#6b7280;margin-bottom:8px">只存在本機、不會上傳。fine-grained token，Actions=Read and write，套用到 investment-hub。</div><input id="tokfield" type="password" placeholder="github_pat_..." autocomplete="off" style="width:100%;padding:12px;font-size:16px;border:1px solid #bbb;border-radius:8px"/><div style="margin-top:12px;display:flex;align-items:center;gap:10px"><button id="toksave" style="background:#1a1d24;color:#fff;border:none;border-radius:8px;padding:11px 22px;font-size:16px;font-weight:600;cursor:pointer">儲存</button><button id="tokclose" style="background:#eee;border:none;border-radius:8px;padding:11px 16px;font-size:15px;cursor:pointer">關閉</button><span id="tokmsg" style="font-size:14px;font-weight:600"></span></div>';
+  d.innerHTML='<div style="font-weight:700;font-size:15px;margin-bottom:8px">貼上 GitHub token'+has+'</div><div style="font-size:12px;color:#6b7280;margin-bottom:8px">只存在本機、不會上傳。fine-grained token，權限開 Actions=Read and write ＋ Contents=Read and write，套用到 investment-hub。（自選股頁內編輯需要 Contents 權限）</div><input id="tokfield" type="password" placeholder="github_pat_..." autocomplete="off" style="width:100%;padding:12px;font-size:16px;border:1px solid #bbb;border-radius:8px"/><div style="margin-top:12px;display:flex;align-items:center;gap:10px"><button id="toksave" style="background:#1a1d24;color:#fff;border:none;border-radius:8px;padding:11px 22px;font-size:16px;font-weight:600;cursor:pointer">儲存</button><button id="tokclose" style="background:#eee;border:none;border-radius:8px;padding:11px 16px;font-size:15px;cursor:pointer">關閉</button><span id="tokmsg" style="font-size:14px;font-weight:600"></span></div>';
   document.body.appendChild(d);
   document.getElementById('tokclose').onclick=function(){ d.remove(); };
   document.getElementById('toksave').onclick=function(){ var f=document.getElementById('tokfield'); var v=(f.value||'').trim(); var m=document.getElementById('tokmsg'); if(v.indexOf('github_pat_')===0||v.indexOf('ghp_')===0){ localStorage.setItem('gh_pat',v); f.value=''; m.style.color='#059669'; m.textContent='已儲存 ✓'; setTimeout(function(){ d.remove(); },1200); } else if(v){ m.style.color='#dc2626'; m.textContent='格式怪怪的（應以 github_pat_ 開頭），請重貼'; } else { m.style.color='#dc2626'; m.textContent='欄位是空的'; } };
@@ -178,10 +187,11 @@ function renderMkt(g){
     const v = fx ? (1/q.p).toFixed(2) : fmt(q.p);
     return `<div class="mcard"><div class="t">${MACROS[s]}</div><div class="v">${v}</div><div class="d">${chg(fx?-q.c:q.c)}</div></div>`;
   }).join("");
-  document.getElementById("stocks").innerHTML = Object.keys(NAMES).filter(s=>{
+  const NM = RNAMES || NAMES;
+  document.getElementById("stocks").innerHTML = Object.keys(NM).filter(s=>{
     if(g==="tw") return /\.TWO?$/.test(s); if(g==="us") return !/\.TWO?$/.test(s); return true;
   }).map(s=>{
-    const q=qs[s]; const [n,c]=NAMES[s];
+    const q=qs[s]; const [n,c]=NM[s];
     if(!q) return `<div class="card"><div class="row1"><span class="nm">${n}<span class="code">${c}</span></span><span class="px flat">—</span></div></div>`;
     const pos = (q.yh>q.yl)? ((q.p-q.yl)/(q.yh-q.yl)*100) : null;
     const gap50 = q.a50? ((q.p/q.a50-1)*100) : null;
@@ -214,12 +224,118 @@ async function loadBriefs(){
     if(files.length && !loadBriefs._opened){ loadBriefs._opened=true; el.querySelector("button").click(); }
   }catch(e){ el.innerHTML='<div class="loading">載入失敗（repo 需為 Public）</div>'; }
 }
-async function loadWl(){
-  try{
-    const md = await (await fetch(`https://raw.githubusercontent.com/${REPO}/main/watchlist.md`)).text();
-    document.getElementById("wlview").innerHTML = marked.parse(md);
-  }catch(e){ document.getElementById("wlview").innerHTML='<div class="loading">載入失敗</div>'; }
+// ── 自選股：頁內編輯（讀寫 watchlist.md，走 GitHub API）──
+let WL=null, RNAMES=null, _wlEdit=false;
+function _b64d(s){ return decodeURIComponent(escape(atob(s.replace(/\n/g,'')))); }
+function _b64e(s){ return btoa(unescape(encodeURIComponent(s))); }
+function wlParse(text){
+  const lines=text.split('\n'); const head=[]; const secs=[]; let cur=null;
+  for(const ln of lines){
+    if(ln.startsWith('## ')){ cur={title:ln, suffix: ln.includes('上市')?'.TW': ln.includes('上櫃')?'.TWO': ln.includes('美股')?'US':null, items:[]}; secs.push(cur); continue; }
+    if(!cur){ head.push(ln); continue; }
+    const m=ln.match(/^([0-9A-Za-z.\-]+)\s*\|\s*([^|]+?)\s*(?:\|\s*(.*))?$/);
+    if(m) cur.items.push({code:m[1],name:m[2].trim(),note:(m[3]||'').trim()});
+  }
+  while(head.length && head[head.length-1]==='') head.pop();
+  return {head, secs};
 }
+function wlSerialize(p){
+  let out=p.head.join('\n')+'\n';
+  for(const s of p.secs){ out+='\n'+s.title+'\n'; for(const it of s.items) out+=`${it.code} | ${it.name}${it.note?' | '+it.note:''}\n`; }
+  return out;
+}
+function wlSymbols(p){ const m={}; for(const s of p.secs){ if(s.suffix===null) continue; for(const it of s.items){ const sym = s.suffix==='US' ? it.code.toUpperCase() : it.code+s.suffix; m[sym]=[it.name,it.code]; } } return m; }
+async function wlFetch(){
+  const r=await fetch(`https://api.github.com/repos/${REPO}/contents/watchlist.md?ref=main&nc=`+Date.now(),{cache:'no-store'});
+  if(!r.ok) throw new Error('HTTP '+r.status);
+  const j=await r.json(); return {sha:j.sha, text:_b64d(j.content)};
+}
+async function wlSave(msg){
+  const tok=localStorage.getItem('gh_pat');
+  if(!tok){ _showInd('⚠️ 請先設定權杖（含 Contents 權限）'); setTimeout(()=>_showInd(''),3500); setToken(); return false; }
+  const body={message:msg, content:_b64e(wlSerialize(WL.p)), sha:WL.sha, branch:'main'};
+  const r=await fetch(`https://api.github.com/repos/${REPO}/contents/watchlist.md`,{method:'PUT',headers:{'Authorization':'Bearer '+tok,'Accept':'application/vnd.github+json'},body:JSON.stringify(body)});
+  if(r.status===401||r.status===403){ _showInd('⚠️ 權杖無 Contents 寫入權限，請重設'); setTimeout(()=>_showInd(''),4500); setToken(); return false; }
+  if(r.status===409){ _showInd('⚠️ 雲端已變動，已重載請再試一次'); setTimeout(()=>_showInd(''),4000); await loadWl(); return false; }
+  if(!r.ok){ _showInd('⚠️ 儲存失敗 HTTP '+r.status); setTimeout(()=>_showInd(''),4000); return false; }
+  const j=await r.json(); WL.sha=j.content.sha;
+  _showInd('✅ '+msg+'，隔日簡報生效'); setTimeout(()=>_showInd(''),3500);
+  try{ fetch(`https://api.github.com/repos/${REPO}/actions/workflows/refresh.yml/dispatches`,{method:'POST',headers:{'Authorization':'Bearer '+tok,'Accept':'application/vnd.github+json'},body:JSON.stringify({ref:'main'})}); }catch(e){}
+  return true;
+}
+async function twDir(){
+  try{ const c=JSON.parse(localStorage.getItem('twdir_v1')||'null'); if(c && Date.now()-c.ts<864e5) return c; }catch(e){}
+  const pick=(row)=>{ let code=null,abbr=null,full=null;
+    for(const [k,v] of Object.entries(row)){ if(typeof v!=='string'||!v.trim()) continue;
+      if(!code && /^[0-9]{4,6}$/.test(v.trim()) && /代號|Code/i.test(k)) code=v.trim();
+      if(!abbr && /簡稱|Abbreviation/i.test(k)) abbr=v.trim();
+      if(!full && /名稱|Name/i.test(k)) full=v.trim(); }
+    return code?[code,abbr||full||code]:null; };
+  const get=async u=>{ try{ const r=await fetch(u); if(!r.ok) return []; return (await r.json()).map(pick).filter(Boolean); }catch(e){ return []; } };
+  const [L,O]=await Promise.all([ get('https://openapi.twse.com.tw/v1/opendata/t187ap03_L'), get('https://www.tpex.org.tw/openapi/v1/t187ap03_O') ]);
+  const d={ts:Date.now(),L,O}; if(L.length||O.length){ try{ localStorage.setItem('twdir_v1',JSON.stringify(d)); }catch(e){} }
+  return d;
+}
+function wlHas(code){ return WL.p.secs.some(s=>s.items.some(it=>it.code.toUpperCase()===code.toUpperCase())); }
+async function wlAddEntry(code,name,secSuffix){
+  if(wlHas(code)){ _showInd('ℹ️ '+code+' 已在清單'); setTimeout(()=>_showInd(''),2500); return; }
+  let sec=WL.p.secs.find(s=>s.suffix===secSuffix);
+  if(!sec){ sec={title: secSuffix==='US'?'## 美股': secSuffix==='.TW'?'## 台股上市（.TW）':'## 台股上櫃（.TWO）', suffix:secSuffix, items:[]}; WL.p.secs.push(sec); }
+  sec.items.push({code,name,note:'手動新增'});
+  const ok=await wlSave(`新增 ${code} ${name}`);
+  if(ok){ wlRender(); } else { sec.items=sec.items.filter(it=>it.code!==code); }
+}
+async function wlAdd(){
+  const inp=document.getElementById('wladd'); const q=inp.value.trim(); const pickEl=document.getElementById('wlpick'); pickEl.innerHTML='';
+  if(!q) return;
+  const askSec=(code,name)=>{ pickEl.innerHTML='<span style="font-size:13px;color:#6b7280;align-self:center">「'+esc(code)+'」不在官方清單，請選市場：</span>';
+    [['.TW','上市'],['.TWO','上櫃'],['US','美股']].forEach(([sfx,lab])=>{ const b=document.createElement('button'); b.textContent=lab; b.style.cssText='background:#eee;border:none;border-radius:8px;padding:8px 14px;font-size:14px;cursor:pointer';
+      b.onclick=()=>{ pickEl.innerHTML=''; wlAddEntry(code,name||code,sfx); inp.value=''; }; pickEl.appendChild(b); }); };
+  if(/^[0-9]{4,6}[A-Za-z]?$/.test(q)){
+    _showInd('查詢代號中…'); const d=await twDir(); _showInd('');
+    const hitL=d.L.find(x=>x[0]===q), hitO=d.O.find(x=>x[0]===q);
+    if(hitL) { wlAddEntry(q,hitL[1],'.TW'); inp.value=''; }
+    else if(hitO) { wlAddEntry(q,hitO[1],'.TWO'); inp.value=''; }
+    else askSec(q,null);
+    return;
+  }
+  if(/^[A-Za-z.\-]+$/.test(q)){ wlAddEntry(q.toUpperCase(),q.toUpperCase(),'US'); inp.value=''; return; }
+  _showInd('搜尋名稱中…'); const d=await twDir(); _showInd('');
+  const hits=[...d.L.map(x=>[...x,'.TW']),...d.O.map(x=>[...x,'.TWO'])].filter(x=>x[1].includes(q)).slice(0,8);
+  if(!hits.length){ _showInd('找不到「'+q+'」，可改輸入代號'); setTimeout(()=>_showInd(''),3000); return; }
+  if(hits.length===1){ wlAddEntry(hits[0][0],hits[0][1],hits[0][2]); inp.value=''; return; }
+  hits.forEach(([code,name,sfx])=>{ const b=document.createElement('button'); b.textContent=name+' '+code+(sfx==='.TWO'?'（上櫃）':'（上市）');
+    b.style.cssText='background:#eee;border:none;border-radius:8px;padding:8px 14px;font-size:14px;cursor:pointer';
+    b.onclick=()=>{ pickEl.innerHTML=''; wlAddEntry(code,name,sfx); inp.value=''; }; pickEl.appendChild(b); });
+}
+async function wlDel(si,ii){
+  const it=WL.p.secs[si].items[ii];
+  if(!confirm('刪除 '+it.name+'（'+it.code+'）？')) return;
+  const bak=WL.p.secs[si].items.splice(ii,1)[0];
+  const ok=await wlSave(`刪除 ${bak.code} ${bak.name}`);
+  if(ok){ wlRender(); } else { WL.p.secs[si].items.splice(ii,0,bak); }
+}
+function wlRender(){
+  const el=document.getElementById('wlview');
+  if(!WL){ el.innerHTML='<div class="loading">載入失敗</div>'; return; }
+  el.innerHTML = WL.p.secs.map((s,si)=>
+    '<div style="font-weight:700;margin:'+(si?'14px':'0')+' 0 6px">'+esc(s.title.replace(/^#+\s*/,''))+'</div>'+
+    (s.items.map((it,ii)=>
+      '<div style="display:flex;align-items:center;gap:8px;padding:3px 0;border-bottom:1px solid #f1f2f4">'+
+      '<span style="flex:1"><b>'+esc(it.name)+'</b> <span style="color:#6b7280">'+esc(it.code)+'</span>'+(it.note?'<span style="color:#9ca3af;font-size:12px">　'+esc(it.note)+'</span>':'')+'</span>'+
+      (_wlEdit?'<button data-si="'+si+'" data-ii="'+ii+'" class="wldel" style="background:#fee2e2;color:#dc2626;border:none;border-radius:8px;width:30px;height:30px;font-size:15px;cursor:pointer">✕</button>':'')+
+      '</div>').join('')||'<div style="color:#9ca3af;font-size:13px">（空）</div>')
+  ).join('');
+  el.querySelectorAll('.wldel').forEach(b=>b.addEventListener('click',()=>wlDel(+b.dataset.si,+b.dataset.ii)));
+  RNAMES=wlSymbols(WL.p); if(DATA) renderMkt(_curG());
+}
+async function loadWl(){
+  try{ const r=await wlFetch(); WL={sha:r.sha,p:wlParse(r.text)}; wlRender(); }
+  catch(e){ document.getElementById('wlview').innerHTML='<div class="loading">載入失敗</div>'; }
+}
+document.getElementById('wladdbtn').addEventListener('click',wlAdd);
+document.getElementById('wladd').addEventListener('keydown',e=>{ if(e.key==='Enter'){ e.preventDefault(); wlAdd(); } });
+document.getElementById('wledit').addEventListener('click',()=>{ _wlEdit=!_wlEdit; document.getElementById('wledit').textContent=_wlEdit?'✔ 完成':'✏️ 編輯'; wlRender(); });
 document.getElementById("tabs").addEventListener("click",e=>{
   if(e.target.tagName!=="BUTTON") return;
   document.querySelectorAll("#tabs button").forEach(b=>b.classList.remove("on"));
