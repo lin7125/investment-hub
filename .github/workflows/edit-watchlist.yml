@@ -1,0 +1,98 @@
+name: 編輯自選股
+
+on:
+  workflow_dispatch:
+    inputs:
+      op:
+        description: 'add 或 del'
+        required: true
+      code:
+        description: '股票代號'
+        required: true
+      name:
+        description: '名稱'
+        required: false
+        default: ''
+      market:
+        description: '.TW / .TWO / US'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: watchlist-edit
+
+jobs:
+  edit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 修改 watchlist.md
+        env:
+          OP: ${{ inputs.op }}
+          CODE: ${{ inputs.code }}
+          SNAME: ${{ inputs.name }}
+          MARKET: ${{ inputs.market }}
+        run: |
+          python3 << 'PYEOF'
+          import os, re, sys
+          op = os.environ['OP'].strip()
+          code = os.environ['CODE'].strip()
+          name = os.environ.get('SNAME', '').strip() or code
+          market = os.environ.get('MARKET', '').strip()
+          lines = open('watchlist.md', encoding='utf-8').read().split('\n')
+
+          def sec_of(l):
+              if not l.startswith('## '): return None
+              if '上市' in l: return '.TW'
+              if '上櫃' in l: return '.TWO'
+              if '美股' in l: return 'US'
+              return 'other'
+
+          def code_of(l):
+              m = re.match(r'^([0-9A-Za-z.\-]+)\s*\|', l)
+              return m.group(1).upper() if m else None
+
+          if op == 'del':
+              out = [l for l in lines if code_of(l) != code.upper()]
+              if out == lines:
+                  print('not found, no-op'); sys.exit(0)
+              lines = out
+          elif op == 'add':
+              if any(code_of(l) == code.upper() for l in lines):
+                  print('already exists, no-op'); sys.exit(0)
+              target = market if market in ('.TW', '.TWO', 'US') else ('US' if code[:1].isalpha() else '.TW')
+              entry = f"{code} | {name} | 手動新增"
+              hdr = next((i for i, l in enumerate(lines) if sec_of(l) == target), None)
+              if hdr is None:
+                  title = {'US': '## 美股', '.TW': '## 台股上市（.TW）', '.TWO': '## 台股上櫃（.TWO）'}[target]
+                  while lines and lines[-1] == '': lines.pop()
+                  lines += ['', title, entry, '']
+              else:
+                  end = next((j for j in range(hdr + 1, len(lines)) if lines[j].startswith('## ')), len(lines))
+                  ins = hdr
+                  for j in range(hdr + 1, end):
+                      if lines[j].strip(): ins = j
+                  lines.insert(ins + 1, entry)
+          else:
+              print('bad op'); sys.exit(1)
+          open('watchlist.md', 'w', encoding='utf-8').write('\n'.join(lines))
+          print('updated')
+          PYEOF
+      - name: 提交並觸發抓價
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "Ray's Claude Assistant"
+          git config user.email "lin7125@gmail.com"
+          git add watchlist.md
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "自選股：${{ inputs.op }} ${{ inputs.code }} ${{ inputs.name }}"
+            git push
+            gh workflow run refresh.yml || true
+          fi

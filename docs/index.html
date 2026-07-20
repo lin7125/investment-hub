@@ -126,7 +126,7 @@ function setToken(){
   var d=document.createElement('div'); d.id='tokbox';
   d.style.cssText='position:fixed;top:16px;left:16px;right:16px;z-index:99999;background:#fff;border:2px solid #1a1d24;border-radius:12px;padding:16px;box-shadow:0 6px 24px rgba(0,0,0,.25);font-family:-apple-system,sans-serif;max-width:520px;margin:0 auto';
   var has=localStorage.getItem('gh_pat')?'（已有一組，貼新的可覆蓋）':'';
-  d.innerHTML='<div style="font-weight:700;font-size:15px;margin-bottom:8px">貼上 GitHub token'+has+'</div><div style="font-size:12px;color:#6b7280;margin-bottom:8px">只存在本機、不會上傳。fine-grained token，權限開 Actions=Read and write ＋ Contents=Read and write，套用到 investment-hub。（自選股頁內編輯需要 Contents 權限）</div><input id="tokfield" type="password" placeholder="github_pat_..." autocomplete="off" style="width:100%;padding:12px;font-size:16px;border:1px solid #bbb;border-radius:8px"/><div style="margin-top:12px;display:flex;align-items:center;gap:10px"><button id="toksave" style="background:#1a1d24;color:#fff;border:none;border-radius:8px;padding:11px 22px;font-size:16px;font-weight:600;cursor:pointer">儲存</button><button id="tokclose" style="background:#eee;border:none;border-radius:8px;padding:11px 16px;font-size:15px;cursor:pointer">關閉</button><span id="tokmsg" style="font-size:14px;font-weight:600"></span></div>';
+  d.innerHTML='<div style="font-weight:700;font-size:15px;margin-bottom:8px">貼上 GitHub token'+has+'</div><div style="font-size:12px;color:#6b7280;margin-bottom:8px">只存在本機、不會上傳。fine-grained token，權限開 Actions=Read and write（若再加 Contents=Read and write，自選股編輯會更快；沒有也能用，會自動走雲端代改）。套用到 investment-hub。</div><input id="tokfield" type="password" placeholder="github_pat_..." autocomplete="off" style="width:100%;padding:12px;font-size:16px;border:1px solid #bbb;border-radius:8px"/><div style="margin-top:12px;display:flex;align-items:center;gap:10px"><button id="toksave" style="background:#1a1d24;color:#fff;border:none;border-radius:8px;padding:11px 22px;font-size:16px;font-weight:600;cursor:pointer">儲存</button><button id="tokclose" style="background:#eee;border:none;border-radius:8px;padding:11px 16px;font-size:15px;cursor:pointer">關閉</button><span id="tokmsg" style="font-size:14px;font-weight:600"></span></div>';
   document.body.appendChild(d);
   document.getElementById('tokclose').onclick=function(){ d.remove(); };
   document.getElementById('toksave').onclick=function(){ var f=document.getElementById('tokfield'); var v=(f.value||'').trim(); var m=document.getElementById('tokmsg'); if(v.indexOf('github_pat_')===0||v.indexOf('ghp_')===0){ localStorage.setItem('gh_pat',v); f.value=''; m.style.color='#059669'; m.textContent='已儲存 ✓'; setTimeout(function(){ d.remove(); },1200); } else if(v){ m.style.color='#dc2626'; m.textContent='格式怪怪的（應以 github_pat_ 開頭），請重貼'; } else { m.style.color='#dc2626'; m.textContent='欄位是空的'; } };
@@ -250,18 +250,32 @@ async function wlFetch(){
   if(!r.ok) throw new Error('HTTP '+r.status);
   const j=await r.json(); return {sha:j.sha, text:_b64d(j.content)};
 }
-async function wlSave(msg){
+async function wlSave(msg, change){
   const tok=localStorage.getItem('gh_pat');
-  if(!tok){ _showInd('⚠️ 請先設定權杖（含 Contents 權限）'); setTimeout(()=>_showInd(''),3500); setToken(); return false; }
+  if(!tok){ _showInd('⚠️ 請先設定權杖'); setTimeout(()=>_showInd(''),3500); setToken(); return false; }
+  const hdrs={'Authorization':'Bearer '+tok,'Accept':'application/vnd.github+json'};
   const body={message:msg, content:_b64e(wlSerialize(WL.p)), sha:WL.sha, branch:'main'};
-  const r=await fetch(`https://api.github.com/repos/${REPO}/contents/watchlist.md`,{method:'PUT',headers:{'Authorization':'Bearer '+tok,'Accept':'application/vnd.github+json'},body:JSON.stringify(body)});
-  if(r.status===401||r.status===403){ _showInd('⚠️ 權杖無 Contents 寫入權限，請重設'); setTimeout(()=>_showInd(''),4500); setToken(); return false; }
+  let r=null;
+  try{ r=await fetch(`https://api.github.com/repos/${REPO}/contents/watchlist.md`,{method:'PUT',headers:hdrs,body:JSON.stringify(body)}); }catch(e){ _showInd('⚠️ 網路錯誤'); setTimeout(()=>_showInd(''),3500); return false; }
+  if(r.ok){
+    const j=await r.json(); WL.sha=j.content.sha;
+    _showInd('✅ '+msg+'，隔日簡報生效'); setTimeout(()=>_showInd(''),3500);
+    try{ fetch(`https://api.github.com/repos/${REPO}/actions/workflows/refresh.yml/dispatches`,{method:'POST',headers:hdrs,body:JSON.stringify({ref:'main'})}); }catch(e){}
+    return true;
+  }
   if(r.status===409){ _showInd('⚠️ 雲端已變動，已重載請再試一次'); setTimeout(()=>_showInd(''),4000); await loadWl(); return false; }
-  if(!r.ok){ _showInd('⚠️ 儲存失敗 HTTP '+r.status); setTimeout(()=>_showInd(''),4000); return false; }
-  const j=await r.json(); WL.sha=j.content.sha;
-  _showInd('✅ '+msg+'，隔日簡報生效'); setTimeout(()=>_showInd(''),3500);
-  try{ fetch(`https://api.github.com/repos/${REPO}/actions/workflows/refresh.yml/dispatches`,{method:'POST',headers:{'Authorization':'Bearer '+tok,'Accept':'application/vnd.github+json'},body:JSON.stringify({ref:'main'})}); }catch(e){}
-  return true;
+  if(r.status===401){ localStorage.removeItem('gh_pat'); _showInd('⚠️ 權杖失效已清除，請重新設定'); setTimeout(()=>_showInd(''),4500); setToken(); return false; }
+  // 403/404 = 權杖沒有 Contents 權限 → 改走雲端 Action 代改（只需 Actions 權限）
+  if(!change){ _showInd('⚠️ 儲存失敗 HTTP '+r.status); setTimeout(()=>_showInd(''),4000); return false; }
+  let d=null;
+  try{ d=await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/edit-watchlist.yml/dispatches`,{method:'POST',headers:hdrs,body:JSON.stringify({ref:'main',inputs:{op:change.op,code:change.code,name:change.name||'',market:change.market||''}})}); }catch(e){ _showInd('⚠️ 網路錯誤'); setTimeout(()=>_showInd(''),3500); return false; }
+  if(d.status!==204){ _showInd('⚠️ 雲端儲存失敗 HTTP '+d.status); setTimeout(()=>_showInd(''),4000); return false; }
+  const oldSha=WL.sha;
+  for(let i=0;i<20;i++){
+    await new Promise(s=>setTimeout(s,4000)); _showInd('☁️ 雲端處理中…'+((i+1)*4)+'s');
+    try{ const f=await wlFetch(); if(f.sha!==oldSha){ WL={sha:f.sha,p:wlParse(f.text)}; wlRender(); _showInd('✅ '+msg+'，隔日簡報生效'); setTimeout(()=>_showInd(''),3500); return true; } }catch(e){}
+  }
+  _showInd('⚠️ 雲端處理逾時，稍後下拉或重整查看'); setTimeout(()=>_showInd(''),4500); return false;
 }
 async function twDir(){
   try{ const c=JSON.parse(localStorage.getItem('twdir_v1')||'null'); if(c && Date.now()-c.ts<864e5) return c; }catch(e){}
@@ -282,7 +296,7 @@ async function wlAddEntry(code,name,secSuffix){
   let sec=WL.p.secs.find(s=>s.suffix===secSuffix);
   if(!sec){ sec={title: secSuffix==='US'?'## 美股': secSuffix==='.TW'?'## 台股上市（.TW）':'## 台股上櫃（.TWO）', suffix:secSuffix, items:[]}; WL.p.secs.push(sec); }
   sec.items.push({code,name,note:'手動新增'});
-  const ok=await wlSave(`新增 ${code} ${name}`);
+  const ok=await wlSave(`新增 ${code} ${name}`,{op:'add',code,name,market:secSuffix});
   if(ok){ wlRender(); } else { sec.items=sec.items.filter(it=>it.code!==code); }
 }
 async function wlAdd(){
@@ -312,7 +326,7 @@ async function wlDel(si,ii){
   const it=WL.p.secs[si].items[ii];
   if(!confirm('刪除 '+it.name+'（'+it.code+'）？')) return;
   const bak=WL.p.secs[si].items.splice(ii,1)[0];
-  const ok=await wlSave(`刪除 ${bak.code} ${bak.name}`);
+  const ok=await wlSave(`刪除 ${bak.code} ${bak.name}`,{op:'del',code:bak.code});
   if(ok){ wlRender(); } else { WL.p.secs[si].items.splice(ii,0,bak); }
 }
 function wlRender(){
