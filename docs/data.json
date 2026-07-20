@@ -223,8 +223,8 @@
    "c": -1.01,
    "a50": 7464.88,
    "a200": 6987.23,
-   "yh": 7609.78,
-   "yl": 6238.01
+   "yh": 7620.9,
+   "yl": 6212.69
   },
   {
    "s": "^VIX",
@@ -247,70 +247,64 @@
  ],
  "news": [
   {
-   "t": "台積電Q2淨利224億美元大增77%創紀錄、上調資本支出，ADR反跌逾5%「利多出盡」",
-   "pub": "2026-07-16",
-   "d": "TSMC財報超預期但AI族群獲利了結，記憶體股重挫",
-   "u": "https://www.proactiveinvestors.com/companies/news/1095573"
+   "t": "Oil prices surge, stock futures dip as fighting between U.S. and Iran intensifies",
+   "pub": "MarketWatch",
+   "d": "2026-07-19",
+   "u": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79"
   },
   {
-   "t": "記憶體股跟隨TSMC後賣壓重挫：美光、SK海力士下跌",
-   "pub": "2026-07-16",
-   "d": "半導體賣壓擴散，AI交易高檔震盪",
-   "u": "https://invezz.com/news/2026/07/16/micron-sk-hynix-other-memory-stocks-fall-as-tsmc-outlook-sparks-chip-selloff/"
+   "t": "Stock Futures Likely to Reflect Latest Escalation in Iran War",
+   "pub": "Barrons",
+   "d": "2026-07-19",
+   "u": "https://www.barrons.com/articles/stock-futures-trading-sunday-dea89b32"
   },
   {
-   "t": "Fed主席Warsh國會證詞獲肯定：通膨與央行獨立性立場",
-   "pub": "2026-07-16",
-   "d": "本週CPI/PPI偏弱但就業韌性推升殖利率",
-   "u": "https://www.cnbc.com/2026/07/16/mike-rounds-senate-banking-warsh-interest-rates.html"
+   "t": "Semiconductor stocks enter bear market: Is bubble burst next?",
+   "pub": "Finbold",
+   "d": "2026-07-19",
+   "u": "https://finbold.com/semiconductor-stocks-enter-bear-market-is-bubble-burst-next/"
   },
   {
-   "t": "油市供給緊縮：伊朗戰事＋俄羅斯煉油受限，WTI逼近80",
-   "pub": "2026-07-16",
-   "d": "JPM警告供給面危機未解",
-   "u": "https://www.marketwatch.com/story/oil-is-facing-a-supply-crunch-and-the-war-in-iran-isnt-the-only-problem-60ce7e74"
+   "t": "台股收盤下跌2,953點創最大跌點紀錄 台積電收低180元跌幅逾7%",
+   "pub": "聯合新聞網",
+   "d": "2026-07-17",
+   "u": "https://udn.com/news/story/7251/9634161"
   },
   {
-   "t": "黃金測試4,000美元支撐，能源通膨使升息預期升溫",
-   "pub": "2026-07-16",
-   "d": "金價跌破20日EMA，偏弱",
-   "u": "https://www.fxempire.com/forecasts/article/gold-price-analysis-gold-tests-4000-support-amid-death-cross-threat-1610879"
+   "t": "外資單日賣超台股1,890億創紀錄、本週累計提款逾3,100億",
+   "pub": "Newtalk",
+   "d": "2026-07-17",
+   "u": "https://newtalk.tw/news/view/2026-07-17/1047794"
   },
   {
-   "t": "美6月零售銷售增速放緩、成屋待完成銷售-5.4%遠遜預期",
-   "pub": "2026-07-16",
-   "d": "消費仍具韌性但房市持續轉弱",
-   "u": "https://www.wsj.com/economy/housing/u-s-pending-home-sales-fell-in-june-5370cc55"
+   "t": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
+   "pub": "Barrons",
+   "d": "2026-07-19",
+   "u": "https://www.barrons.com/articles/jobs-gm-tesla-alphabet-intel-verizon-and-more-to-watch-this-week-3dd9de07"
   },
   {
-   "t": "台股三大法人7/16賣超431億元，外資連7賣、轉進軍工漢翔",
-   "pub": "2026-07-16",
-   "d": "外資買超力積電居冠",
-   "u": "https://cmnews.com.tw/article/cmoneyaicurator-585e47e0-80f3-11f1-a0df-f6aeb3e41b96"
+   "t": "Wall Street Brunch: Tesla Reports With Earnings In Full Swing",
+   "pub": "Seeking Alpha",
+   "d": "2026-07-19",
+   "u": "https://seekingalpha.com/article/4923315-wall-street-brunch-tesla-reports-with-earnings-in-full-swing"
   },
   {
-   "t": "昇達科漲停1310：大客戶次太赫茲導入開始出貨＋SpaceX申請10萬顆V3 Starlink",
-   "pub": "2026-07-16",
-   "d": "低軌衛星題材重燃",
-   "u": "https://udn.com/news/story/7252/9631629"
+   "t": "Institutional demand for CXMT 8.6 bln Shanghai IPO dented by chip stock selloff",
+   "pub": "Reuters",
+   "d": "2026-07-19",
+   "u": "https://www.reuters.com/world/china/institutional-demand-cxmts-86-bln-shanghai-ipo-dented-by-chip-stock-selloff-2026-07-19/"
   },
   {
-   "t": "SpaceX Starship Flight 13發射：首度部署Starlink V3衛星",
-   "pub": "2026-07-16",
-   "d": "FAA放行後復飛，Booster 20+Ship 40",
-   "u": "https://spaceflightnow.com/2026/07/16/live-coverage-spacex-to-deploy-first-starlink-v3-satellites-on-suborbital-starship-super-heavy-flight/"
+   "t": "A 90 Billion Liquidity Storm May Hit Markets This Week",
+   "pub": "Seeking Alpha",
+   "d": "2026-07-19",
+   "u": "https://seekingalpha.com/article/4923255-80-billion-liquidity-storm-may-hit-markets-this-week"
   },
   {
-   "t": "NVIDIA股息25倍上調至0.25美元＋新增800億美元回購",
-   "pub": "2026-07-16",
-   "d": "股東回饋大幅提升",
-   "u": "https://247wallst.com/investing/2026/07/16/this-single-nvidia-policy-keeps-me-hitting-the-buy-button/"
-  },
-  {
-   "t": "小型股Russell 2000今年+20%，35年來最佳上半年",
-   "pub": "2026-07-16",
-   "d": "降息與景氣寬度改善支撐",
-   "u": "https://www.cnbc.com/2026/07/16/best-stock-market-trades-small-caps.html"
+   "t": "Goldman Sachs Warns on AI Debt Tsunami",
+   "pub": "24/7 Wall St",
+   "d": "2026-07-19",
+   "u": "https://247wallst.com/investing/2026/07/19/goldman-sachs-warns-on-ais-debt-tsunami-is-the-ai-boom/"
   }
  ],
  "inst": {
