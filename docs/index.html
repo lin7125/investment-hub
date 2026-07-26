@@ -86,7 +86,7 @@
     <div id="stocks"></div>
     <div class="hint">均線訊號＝現價 vs 50/200日線。圓點＝現價在 52 週區間的位置。紅漲綠跌。<br>更新機制：頁面頂端「下拉」即可更新（先載最新存檔，有權杖再觸發即時抓價）。另有每日 08:00 完整更新＋盤中自動更新。<br><a href="#" onclick="setToken();return false" style="color:#2563eb">🔑 設定／更新權杖</a>　僅供研究參考，非投資建議。</div>
   </section>
-  <section id="p-news" style="display:none"><div class="news" id="newslist"></div><div class="hint">全球市場焦點，每日 08:00 更新。</div></section>
+  <section id="p-news" style="display:none"><div class="news" id="newslist"></div><div class="hint">全球市場焦點，隨行情自動更新（RSS）。</div></section>
   <section id="p-brief" style="display:none">
     <div id="blist" class="blist"><div class="loading">載入簡報列表…</div></div>
     <div id="bview"></div>
@@ -116,7 +116,7 @@ const NAMES = {
   "3585.TWO":["聯致","3585"],"6223.TWO":["旺矽","6223"],"6750.TWO":["泰創工程","6750"],
   "AAPL":["Apple","AAPL"],"NVDA":["NVIDIA","NVDA"],"TSLA":["Tesla","TSLA"],"META":["Meta","META"]
 };
-const MACROS = {"^TWII":"台股加權","^GSPC":"S&P 500","^VIX":"VIX 恐慌指數","TWDUSD":"美元兌台幣"};
+const MACROS = {"^TWII":"台股加權","^GSPC":"S&P 500","^VIX":"VIX 恐慌指數","TWDUSD":"美元兌台幣","BZ=F":"布蘭特原油","GC=F":"黃金","HG=F":"銅"};
 let DATA = null;
 // ── 一鍵更新：呼叫 GitHub API 觸發 refresh workflow；token 只存在本機 localStorage，不進 repo ──
 function _curG(){ const b=document.querySelector('#seg button.on'); return b?b.dataset.g:'all'; }

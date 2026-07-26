@@ -14,6 +14,7 @@ import yfinance as yf
 
 TPE = timezone(timedelta(hours=8))
 INDICES = ["^TWII", "^GSPC", "^VIX"]
+CMDTY = ["BZ=F", "GC=F", "HG=F"]  # 布蘭特原油、黃金、銅（免費 Yahoo 期貨連續月）
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 
 
@@ -47,6 +48,15 @@ def _quote_from_closes(sym, closes):
     last252 = closes[-252:]
     last50 = closes[-50:]
     last200 = closes[-200:]
+    last20 = closes[-20:]
+    rsi = None
+    if len(closes) >= 15:
+        deltas = [closes[i] - closes[i - 1] for i in range(1, len(closes))]
+        g = [max(d, 0) for d in deltas]; l = [-min(d, 0) for d in deltas]
+        ag, al = sum(g[:14]) / 14, sum(l[:14]) / 14
+        for i in range(14, len(deltas)):
+            ag = (ag * 13 + g[i]) / 14; al = (al * 13 + l[i]) / 14
+        rsi = round(100 - 100 / (1 + ag / al), 1) if al else 100.0
     return {
         "s": sym,
         "p": _round(p),
@@ -55,6 +65,8 @@ def _quote_from_closes(sym, closes):
         "a200": round(sum(last200) / len(last200), 2) if last200 else None,
         "yh": round(max(last252), 2),
         "yl": round(min(last252), 2),
+        "a20": round(sum(last20) / len(last20), 2),
+        "r": rsi,
     }
 
 
@@ -169,7 +181,7 @@ def fetch_tw_mis(tw_symbols):
     return out
 
 
-STOOQ_MAP = {"^GSPC": "^spx", "^VIX": "^vix", "TWD=X": "usdtwd"}
+STOOQ_MAP = {"^GSPC": "^spx", "^VIX": "^vix", "TWD=X": "usdtwd", "BZ=F": "cb.f", "GC=F": "gc.f", "HG=F": "hg.f"}
 
 def fetch_stooq(symbols):
     """Stooq 免費報價（美股/指數/匯率，延遲約15分）。回 {sym:(price,chgpct)}"""
@@ -204,11 +216,47 @@ def fetch_stooq(symbols):
     return out
 
 
+RSS_FEEDS = [
+    ("中央社財經", "https://feeds.feedburner.com/rsscna/finance"),
+    ("Yahoo Finance", "https://finance.yahoo.com/news/rssindex"),
+]
+
+def fetch_news(limit=12, per_feed=6):
+    """免費 RSS → data.json news。任一源失敗不影響其他源；全部失敗回空（呼叫端保留舊 news）。"""
+    import xml.etree.ElementTree as ET
+    from email.utils import parsedate_to_datetime
+    per = []
+    for pub, url in RSS_FEEDS:
+        items = []
+        try:
+            r = requests.get(url, headers={"User-Agent": UA}, timeout=25)
+            for it in ET.fromstring(r.content).iter("item"):
+                t = (it.findtext("title") or "").strip()
+                u = (it.findtext("link") or "").strip()
+                d = ""
+                pd = it.findtext("pubDate")
+                if pd:
+                    try: d = parsedate_to_datetime(pd).astimezone(TPE).strftime("%Y-%m-%d")
+                    except Exception: pass
+                if t and u:
+                    items.append({"t": t, "pub": pub, "d": d, "u": u})
+                if len(items) >= per_feed: break
+        except Exception as e:
+            print("rss", pub, e, file=sys.stderr)
+        per.append(items)
+    out, seen = [], set()
+    for pair in zip(*per) if all(per) else [(x,) for lst in per for x in lst]:
+        for it in pair:
+            if it["u"] not in seen:
+                seen.add(it["u"]); out.append(it)
+    return out[:limit]
+
+
 def main():
     data = json.load(open("docs/data.json", encoding="utf-8"))
     old_by = {q["s"]: q for q in data.get("quotes", [])}
     wl = parse_watchlist()
-    symbols = wl + INDICES + ["TWD=X"]
+    symbols = wl + INDICES + CMDTY + ["TWD=X"]
 
     quotes_by_sym = fetch_batch(symbols)
     for sym in symbols:
@@ -237,7 +285,7 @@ def main():
             quotes_by_sym[sym] = base
             fb_used += 1
 
-    quotes = [quotes_by_sym[s] for s in wl + INDICES if s in quotes_by_sym]
+    quotes = [quotes_by_sym[s] for s in wl + INDICES + CMDTY if s in quotes_by_sym]
 
     fx = quotes_by_sym.get("TWD=X")
     if fx and fx.get("p"):
@@ -263,6 +311,9 @@ def main():
     inst = twse_inst(tw_codes)
     if inst:
         data["inst"] = inst
+    news = fetch_news()
+    if len(news) >= 4:
+        data["news"] = news
     tag = "盤中更新 Yahoo＋證交所數據" if not fb_used else f"盤中更新・含 {fb_used} 檔官方/Stooq 備援即時價"
     data["generatedAt"] = datetime.now(TPE).strftime("%Y-%m-%d %H:%M") + f"（台北時間・{tag}）"
     json.dump(data, open("docs/data.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
