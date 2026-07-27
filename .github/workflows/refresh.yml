@@ -2,18 +2,19 @@ name: 更新行情數據
 
 on:
   workflow_dispatch:        # 手機/網頁一鍵手動更新
-  schedule:                 # 盤中自動更新（UTC）
-    - cron: '*/10 1-5 * * 1-5'   # 台股盤中 09:00–13:50（台北）每 10 分
+  schedule:                 # 註：GitHub 免費版排程會被延遲甚至略過，高頻 cron 掉得更兇；
+                            # 實測 */10 幾乎不執行，故降頻求穩。要即時請用網頁「⟳ 更新」手動觸發。
+    - cron: '5,35 1-5 * * 1-5'   # 台股盤中（台北 09:05–13:35）每 30 分
     - cron: '31 6 * * 1-5'       # 台股收盤後完整快照 14:31（台北）
-    - cron: '*/15 13-20 * * 1-5' # 美股盤中（台北 21:30–04:00）每 15 分
+    - cron: '5,35 13-20 * * 1-5' # 美股盤中（台北 21:05–04:35）每 30 分
     - cron: '35 21 * * 1-5'      # 美股收盤後快照 05:35（台北）
 
 permissions:
   contents: write
 
 concurrency:
-  group: refresh
-  cancel-in-progress: true
+  group: refresh-${{ github.event_name }}
+  cancel-in-progress: false
 
 jobs:
   refresh:
@@ -23,7 +24,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install --quiet --upgrade 'yfinance>=0.2.60' requests curl_cffi
+          cache: 'pip'
+      - run: pip install --quiet --upgrade -r requirements.txt
       - run: python scripts/refresh_data.py
       - run: |
           git config user.name "market-refresh-bot"

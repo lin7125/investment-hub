@@ -9,6 +9,7 @@
 <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
 <style>
   :root { color-scheme: light; }
+  html, body { overscroll-behavior-y: contain; }
   * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
   body { font-family: -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif; background: #f2f3f7; color: #1a1d24; padding-bottom: 70px; }
   header { background: #fff; padding: 14px 16px 0; position: sticky; top: 0; z-index: 20; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
@@ -66,6 +67,7 @@
 <header>
   <div style="display:flex; justify-content:space-between; align-items:center">
     <h1>📈 Ray 投資中心</h1>
+    <button id="btnrf" onclick="doRefresh(false)" style="border:none;background:#1a1d24;color:#fff;border-radius:999px;padding:7px 14px;font-size:14px;font-weight:600;cursor:pointer">⟳ 更新</button>
   </div>
   <div class="gen" id="gen">數據載入中…</div>
   <div class="tabs" id="tabs">
@@ -84,7 +86,7 @@
       <button data-g="us">美股</button>
     </div>
     <div id="stocks"></div>
-    <div class="hint">均線訊號＝現價 vs 50/200日線。圓點＝現價在 52 週區間的位置。紅漲綠跌。<br>更新機制：頁面頂端「下拉」即可更新（先載最新存檔，有權杖再觸發即時抓價）。另有每日 08:00 完整更新＋盤中自動更新。<br><a href="#" onclick="setToken();return false" style="color:#2563eb">🔑 設定／更新權杖</a>　僅供研究參考，非投資建議。</div>
+    <div class="hint">均線訊號＝現價 vs 50/200日線。圓點＝現價在 52 週區間的位置。紅漲綠跌。<br>更新機制：按右上「⟳ 更新」或頁面頂端下拉（先讀最新存檔，有權杖再觸發即時抓價，約需 60-90 秒）。標題下方會顯示數據幾分鐘前——超過 20 分鐘轉橘、45 分鐘轉紅。註：GitHub 免費版的排程常被延遲或略過，盤中自動更新實測約 2-6 小時一次，要即時請自己按更新。<br><a href="#" onclick="setToken();return false" style="color:#2563eb">🔑 設定／更新權杖</a>　僅供研究參考，非投資建議。</div>
   </section>
   <section id="p-news" style="display:none"><div class="news" id="newslist"></div><div class="hint">全球市場焦點，隨行情自動更新（RSS）。</div></section>
   <section id="p-brief" style="display:none">
@@ -120,7 +122,11 @@ const MACROS = {"^TWII":"台股加權","^GSPC":"S&P 500","^VIX":"VIX 恐慌指�
 let DATA = null;
 // ── 一鍵更新：呼叫 GitHub API 觸發 refresh workflow；token 只存在本機 localStorage，不進 repo ──
 function _curG(){ const b=document.querySelector('#seg button.on'); return b?b.dataset.g:'all'; }
-function _applyGen(){ let t="數據時間："+DATA.generatedAt; if(DATA.inst&&DATA.inst.totalNetE!=null) t+=`　｜　三大法人(${(DATA.inst.date||'').slice(5)}) 全市場${DATA.inst.totalNetE>0?'買超':'賣超'} ${Math.abs(DATA.inst.totalNetE).toLocaleString()} 億`; document.getElementById('gen').textContent=t; }
+function _ageMin(){ if(!DATA||!DATA.generatedAt) return null;
+  const m=DATA.generatedAt.match(/(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2})/); if(!m) return null;
+  return Math.round((Date.now()-Date.UTC(+m[1],+m[2]-1,+m[3],+m[4]-8,+m[5]))/60000); }
+function _ageTxt(a){ if(a==null) return ''; if(a<1) return '剛剛'; if(a<60) return a+' 分鐘前'; if(a<1440) return Math.floor(a/60)+' 小時前'; return Math.floor(a/1440)+' 天前'; }
+function _applyGen(){ const a=_ageMin(); let t="數據時間："+DATA.generatedAt+(a!=null?"（"+_ageTxt(a)+"）":""); if(DATA.inst&&DATA.inst.totalNetE!=null) t+=`　｜　三大法人(${(DATA.inst.date||'').slice(5)}) 全市場${DATA.inst.totalNetE>0?'買超':'賣超'} ${Math.abs(DATA.inst.totalNetE).toLocaleString()} 億`; const el=document.getElementById('gen'); el.textContent=t; el.style.color=(a!=null&&a>45)?'#dc2626':(a!=null&&a>20)?'#d97706':'#9ca3af'; }
 function setToken(){
   var old=document.getElementById('tokbox'); if(old){ old.remove(); return; }
   var d=document.createElement('div'); d.id='tokbox';
@@ -146,7 +152,7 @@ async function doRefresh(fromPull){
   }catch(e){}
   // 步驟2：有權杖 → 觸發 GitHub Action 現抓行情
   let tok=localStorage.getItem('gh_pat');
-  if(!tok){ _finish(fromPull, gotNew?('✅ 已更新：'+(DATA.generatedAt||'').slice(5,16)):'ℹ️ 目前已是最新存檔（'+(DATA&&DATA.generatedAt?DATA.generatedAt.slice(5,16):'')+'）'); return; }
+  if(!tok){ _finish(fromPull, gotNew?('✅ 已更新：'+(DATA.generatedAt||'').slice(5,16)):'⚠️ 未設權杖，只能讀存檔（'+_ageTxt(_ageMin())+'）→ 點🔑設定才能即時抓價'); return; }
   set('觸發即時抓價…');
   const before2=DATA?DATA.generatedAt:'';
   try{
@@ -157,8 +163,9 @@ async function doRefresh(fromPull){
     if(r.status!==204){ _finish(fromPull,'⚠️ 觸發失敗 HTTP '+r.status); return; }
   }catch(e){ _finish(fromPull,'⚠️ 網路錯誤：'+e.message); return; }
   // 步驟3：輪詢直到新數據回來（最長 5 分鐘）
-  for(let i=0;i<60;i++){
-    await new Promise(s=>setTimeout(s,5000)); set('抓價中…'+((i+1)*5)+'s');
+  localStorage.setItem('last_dispatch',String(Date.now()));
+  for(let i=0;i<75;i++){
+    await new Promise(s=>setTimeout(s,4000)); set('抓價中…'+((i+1)*4)+'s');
     try{ const d=await fetchLatest();
       if(d.generatedAt && d.generatedAt!==before2){ DATA=d; renderMkt(_curG()); renderNews(); _applyGen(); _finish(fromPull,'✅ 行情已更新：'+d.generatedAt.slice(5,16)); return; }
     }catch(e){}
@@ -175,6 +182,13 @@ document.addEventListener('touchstart',e=>{ _ptrY=(window.scrollY<=0&&!_busy)?e.
 document.addEventListener('touchmove',e=>{ if(_ptrY==null||_busy) return; _ptrPull=e.touches[0].clientY-_ptrY;
   if(_ptrPull>15&&window.scrollY<=0) _showInd(_ptrPull>70?'放開立即更新 ⟳':'↓ 再往下拉…'); },{passive:true});
 document.addEventListener('touchend',()=>{ const go=(_ptrY!=null&&_ptrPull>70&&!_busy); if(!go) _showInd(''); _ptrY=null; _ptrPull=0; if(go) doRefresh(true); },{passive:true});
+async function _softCheck(){ if(_busy) return; try{ const d=await fetchLatest();
+    if(d.generatedAt && (!DATA||d.generatedAt!==DATA.generatedAt)){ DATA=d; renderMkt(_curG()); renderNews(); _applyGen(); } else if(DATA) _applyGen();
+  }catch(e){} }
+function _maybeAuto(){ const a=_ageMin(); const last=+(localStorage.getItem('last_dispatch')||0);
+  if(a!=null && a>20 && localStorage.getItem('gh_pat') && Date.now()-last>10*60*1000) doRefresh(false); }
+document.addEventListener('visibilitychange',()=>{ if(!document.hidden) _softCheck(); });
+setInterval(()=>{ if(!document.hidden) _softCheck(); }, 120000);
 function esc(t){const d=document.createElement("div");d.textContent=t||"";return d.innerHTML;}
 function chg(v){ if(v==null) return '<span class="flat">—</span>'; const c=v>0.005?"up":v<-0.005?"down":"flat"; return `<span class="${c}">${v>0?"+":""}${v.toFixed(2)}%</span>`; }
 function sig(q){ if(!q.a50||!q.a200) return '<span class="sig mix">—</span>'; if(q.p>q.a50&&q.p>q.a200) return '<span class="sig bull">多頭</span>'; if(q.p<q.a50&&q.p<q.a200) return '<span class="sig bear">空頭</span>'; return '<span class="sig mix">整理</span>'; }
@@ -364,11 +378,11 @@ document.getElementById("seg").addEventListener("click",e=>{
 });
 (async()=>{
   try{
-    DATA = await (await fetch("data.json?t="+Date.now())).json();
-    let genTxt = "數據時間："+DATA.generatedAt;
-    if(DATA.inst && DATA.inst.totalNetE!=null) genTxt += `　｜　三大法人(${(DATA.inst.date||"").slice(5)}) 全市場${DATA.inst.totalNetE>0?"買超":"賣超"} ${Math.abs(DATA.inst.totalNetE).toLocaleString()} 億`;
-    document.getElementById("gen").textContent = genTxt;
+    try{ DATA = await fetchLatest(); }
+    catch(e){ DATA = await (await fetch("data.json?t="+Date.now())).json(); }
+    _applyGen();
     renderMkt("all"); renderNews();
+    _maybeAuto();
   }catch(e){ document.getElementById("gen").textContent="數據載入失敗"; }
   loadBriefs(); loadWl();
 })();
