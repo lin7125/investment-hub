@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 04:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 04:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 18.87,
-   "c": 1.56,
-   "a50": 17.38,
-   "a200": 18.74,
+   "p": 18.66,
+   "c": 0.43,
+   "a50": 17.37,
+   "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.98,
-   "r": 55.6
+   "a20": 16.97,
+   "r": 54.9
   },
   {
    "s": "BZ=F",
-   "p": 87.74,
-   "c": -9.34,
+   "p": 87.75,
+   "c": -9.33,
    "a50": 88.22,
    "a200": 80.16,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4088.1,
-   "c": 0.5,
-   "a50": 4242.64,
-   "a200": 4478.83,
+   "p": 4084.2,
+   "c": 0.41,
+   "a50": 4242.57,
+   "a200": 4478.81,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4068.16,
-   "r": 47.5
+   "a20": 4067.97,
+   "r": 47.2
   },
   {
    "s": "HG=F",
-   "p": 6.41,
-   "c": 1.38,
+   "p": 6.4,
+   "c": 1.28,
    "a50": 6.3,
    "a200": 5.76,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.25,
-   "r": 55.8
+   "r": 55.6
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607270306.aspx"
   },
   {
-   "t": "FIRE movement followers aren't chasing early retirement anymore — they're after something that's harder to get",
+   "t": "Warren Buffett says 'humans love to gamble' as he takes digs at a speculative market — so why do investors ignore him?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/fire-movement-followers-arent-chasing-110000782.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-says-humans-love-110500071.html"
   },
   {
    "t": "威力彩第115060期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607270305.aspx"
   },
   {
-   "t": "Warren Buffett says 'humans love to gamble' as he takes digs at a speculative market — so why do investors ignore him?",
+   "t": "FIRE movement followers aren't chasing early retirement anymore — they're after something that's harder to get",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-says-humans-love-110500071.html"
+   "u": "https://finance.yahoo.com/small-business/articles/fire-movement-followers-arent-chasing-110000782.html"
   },
   {
    "t": "網傳中聯借豆靠後台關係　經部澄清：穩供原料協調週轉",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607270298.aspx"
   },
   {
-   "t": "Freeport-McMoRan Inc. (FCX) and Digital Realty Trust, Inc. (DLR) Highlight the Companies Cashing In on AI Infrastructure",
+   "t": "Does Boeing’s (BA) FAA Win Signal the 737 MAX Turnaround Is Finally Underway?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/freeport-mcmoran-inc-fcx-digital-104751465.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/does-boeing-ba-faa-win-111941439.html"
   },
   {
    "t": "威力彩第115060期開獎",
