@@ -2,11 +2,11 @@ name: 更新行情數據
 
 on:
   workflow_dispatch:        # 手機/網頁一鍵手動更新
-  schedule:                 # 註：GitHub 免費版排程會被延遲甚至略過，高頻 cron 掉得更兇；
-                            # 實測 */10 幾乎不執行，故降頻求穩。要即時請用網頁「⟳ 更新」手動觸發。
-    - cron: '5,35 1-5 * * 1-5'   # 台股盤中（台北 09:05–13:35）每 30 分
+  schedule:                 # 這裡只留「單次快照」與備援；盤中每 10 分鐘的密集更新
+                            # 已改由 market-loop.yml 的長跑迴圈負責（cron 只需成功觸發 1 次）。
+    - cron: '20 1-5 * * 1-5'     # 台股盤中備援（長跑迴圈萬一沒被觸發時的保險）
     - cron: '31 6 * * 1-5'       # 台股收盤後完整快照 14:31（台北）
-    - cron: '5,35 13-20 * * 1-5' # 美股盤中（台北 21:05–04:35）每 30 分
+    - cron: '20 13-20 * * 1-5'   # 美股盤中備援
     - cron: '35 21 * * 1-5'      # 美股收盤後快照 05:35（台北）
 
 permissions:
@@ -31,5 +31,20 @@ jobs:
           git config user.name "market-refresh-bot"
           git config user.email "lin7125@gmail.com"
           git add docs/data.json
-          git diff --cached --quiet || git commit -m "盤中行情更新 $(TZ=Asia/Taipei date +'%F %H:%M')"
-          git push
+          if git diff --cached --quiet; then echo "資料無變化"; exit 0; fi
+          git commit -q -m "盤中行情更新 $(TZ=Asia/Taipei date +'%F %H:%M')"
+          # 與長跑迴圈可能同時推送，衝突時重整後重試
+          for i in 1 2 3 4 5; do
+            if git push -q 2>/dev/null; then echo "✅ 已推送"; exit 0; fi
+            echo "push 被拒（第 $i 次）→ 重整重試"
+            git fetch -q origin main
+            if ! git rebase -X theirs origin/main >/dev/null 2>&1; then
+              git rebase --abort >/dev/null 2>&1 || true
+              git reset --hard -q origin/main
+              python scripts/refresh_data.py || true
+              git add docs/data.json
+              git diff --cached --quiet || git commit -q -m "盤中行情更新(重整後) $(TZ=Asia/Taipei date +'%F %H:%M')"
+            fi
+            sleep 5
+          done
+          echo "⚠️ 推送失敗"; exit 1

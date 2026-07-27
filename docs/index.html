@@ -86,7 +86,7 @@
       <button data-g="us">美股</button>
     </div>
     <div id="stocks"></div>
-    <div class="hint">均線訊號＝現價 vs 50/200日線。圓點＝現價在 52 週區間的位置。紅漲綠跌。<br>更新機制：按右上「⟳ 更新」或頁面頂端下拉（先讀最新存檔，有權杖再觸發即時抓價，約需 60-90 秒）。標題下方會顯示數據幾分鐘前——超過 20 分鐘轉橘、45 分鐘轉紅。註：GitHub 免費版的排程常被延遲或略過，盤中自動更新實測約 2-6 小時一次，要即時請自己按更新。<br><a href="#" onclick="setToken();return false" style="color:#2563eb">🔑 設定／更新權杖</a>　僅供研究參考，非投資建議。</div>
+    <div class="hint">均線訊號＝現價 vs 50/200日線。圓點＝現價在 52 週區間的位置。紅漲綠跌。<br>更新機制：按右上「⟳ 更新」或頁面頂端下拉（先讀最新存檔，有權杖再觸發即時抓價，約需 60-90 秒）。標題下方會顯示數據幾分鐘前——超過 20 分鐘轉橘、45 分鐘轉紅。盤中由長跑迴圈每 10 分鐘自動更新（GitHub 免費排程只需成功觸發 1 次，之後由該 job 自己跑到收盤）。<br><a href="#" onclick="setToken();return false" style="color:#2563eb">🔑 設定／更新權杖</a>　僅供研究參考，非投資建議。</div>
   </section>
   <section id="p-news" style="display:none"><div class="news" id="newslist"></div><div class="hint">全球市場焦點，隨行情自動更新（RSS）。</div></section>
   <section id="p-brief" style="display:none">
