@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 07:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 07:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4074.9,
+   "p": 4075.0,
    "c": 0.18,
    "a50": 4242.38,
    "a200": 4478.77,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.5,
+   "a20": 4067.51,
    "r": 46.5
   },
   {
    "s": "HG=F",
    "p": 6.39,
-   "c": 1.15,
+   "c": 1.16,
    "a50": 6.3,
    "a200": 5.76,
    "yh": 6.65,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03095975,
-   "c": 0.06,
+   "c": 0.07,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607270307.aspx"
   },
   {
-   "t": "American Airlines Stock Plunges as Fuel Costs Surge. How to Play AAL Now.",
+   "t": "Elon Musk Just Revealed a Quiet Win for Tesla’s AI Ambitions",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-stock-plunges-fuel-150002420.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/elon-musk-just-revealed-quiet-150002342.html"
   },
   {
    "t": "美伊暫停交戰提振市場信心　美股開高那指漲逾1%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607270306.aspx"
   },
   {
-   "t": "Elon Musk Just Revealed a Quiet Win for Tesla’s AI Ambitions",
+   "t": "American Airlines Stock Plunges as Fuel Costs Surge. How to Play AAL Now.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/elon-musk-just-revealed-quiet-150002342.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-stock-plunges-fuel-150002420.html"
   },
   {
    "t": "威力彩第115060期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607270305.aspx"
   },
   {
-   "t": "Elizabeth Warren says House stock trading ban has 'major loopholes' — 48% of Congress still owns individual stocks",
+   "t": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/elizabeth-warren-says-house-stock-143000935.html"
+   "u": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-mag-7-and-the-fed-but-its-all-about-the-cash/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
