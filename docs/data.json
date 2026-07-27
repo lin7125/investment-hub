@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 05:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 05:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.5,
-   "c": -9.59,
+   "p": 87.68,
+   "c": -9.4,
    "a50": 88.21,
    "a200": 80.16,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 82.53,
-   "r": 51.6
+   "r": 51.8
   },
   {
    "s": "GC=F",
-   "p": 4079.4,
-   "c": 0.29,
-   "a50": 4242.47,
-   "a200": 4478.79,
+   "p": 4078.6,
+   "c": 0.27,
+   "a50": 4242.45,
+   "a200": 4478.78,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.73,
-   "r": 46.9
+   "a20": 4067.69,
+   "r": 46.8
   },
   {
    "s": "HG=F",
    "p": 6.4,
-   "c": 1.23,
+   "c": 1.21,
    "a50": 6.3,
    "a200": 5.76,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.25,
-   "r": 55.5
+   "r": 55.4
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607270307.aspx"
   },
   {
-   "t": "GE HealthCare Technologies Inc. (GEHC) Beats Q2 Expectations, Reaffirms 2026 Outlook Despite CFO Transition",
+   "t": "Dave Ramsey says this 'really, extremely' stupid purchase is the No. 1 thing new college graduates get wrong",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/ge-healthcare-technologies-inc-gehc-115820182.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-says-really-extremely-120000045.html"
   },
   {
    "t": "美伊暫停交戰提振市場信心　美股開高那指漲逾1%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607270306.aspx"
   },
   {
-   "t": "Dave Ramsey says this 'really, extremely' stupid purchase is the No. 1 thing new college graduates get wrong",
+   "t": "Wall Street Wants Alternatives in 401(k)s. Advisors Aren’t Convinced",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-says-really-extremely-120000045.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/wall-street-wants-alternatives-401-120000633.html"
   },
   {
    "t": "威力彩第115060期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607270305.aspx"
   },
   {
-   "t": "Wall Street Wants Alternatives in 401(k)s. Advisors Aren’t Convinced",
+   "t": "GE HealthCare Technologies Inc. (GEHC) Beats Q2 Expectations, Reaffirms 2026 Outlook Despite CFO Transition",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/wall-street-wants-alternatives-401-120000633.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/ge-healthcare-technologies-inc-gehc-115820182.html"
   },
   {
    "t": "網傳中聯借豆靠後台關係　經部澄清：穩供原料協調週轉",
