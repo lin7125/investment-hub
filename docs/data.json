@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-27 21:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-27 21:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -234,14 +234,14 @@
   },
   {
    "s": "TSLA",
-   "p": 313.03,
-   "c": -2.08,
-   "a50": 402.56,
-   "a200": 414.71,
+   "p": 319.69,
+   "c": -14.52,
+   "a50": 404.97,
+   "a200": 415.41,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 388.72,
-   "r": 28.0
+   "a20": 391.83,
+   "r": 29.1
   },
   {
    "s": "META",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 17.73,
-   "c": -4.57,
+   "p": 17.74,
+   "c": -4.52,
    "a50": 17.35,
    "a200": 18.73,
    "yh": 31.05,
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 90.78,
-   "c": -6.2,
+   "p": 90.9,
+   "c": -6.08,
    "a50": 88.28,
    "a200": 80.18,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 82.69,
-   "r": 55.9
+   "a20": 82.7,
+   "r": 56.1
   },
   {
    "s": "GC=F",
-   "p": 4084.3,
-   "c": 0.41,
-   "a50": 4242.57,
-   "a200": 4478.81,
+   "p": 4086.2,
+   "c": 0.46,
+   "a50": 4242.61,
+   "a200": 4478.82,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.97,
-   "r": 47.2
+   "a20": 4068.07,
+   "r": 47.4
   },
   {
    "s": "HG=F",
-   "p": 6.38,
-   "c": 1.02,
+   "p": 6.4,
+   "c": 1.21,
    "a50": 6.3,
    "a200": 5.76,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.25,
-   "r": 54.9
+   "r": 55.4
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607270283.aspx"
   },
   {
-   "t": "Why another shocking Meta capex number may keep the stock underwater",
+   "t": "D-Wave leads quantum stocks higher as AT&T expands computing deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/why-another-shocking-meta-capex-number-may-keep-the-stock-underwater-130420154.html"
+   "u": "https://finance.yahoo.com/markets/article/d-wave-leads-quantum-stocks-higher-as-att-expands-computing-deal-131336800.html"
   },
   {
    "t": "富士康工業互聯擬砸逾人民幣10億元　競價回購股份",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607270278.aspx"
   },
   {
-   "t": "Quantum Computing Stocks: D-Wave, AT&T Expand Quantum Agreement",
+   "t": "Fanatics to buy BGC Group assets to launch prediction market exchange",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/quantum-computing-stocks-d-wave-att-expand-quantum-agreement/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/options/articles/fanatics-buy-bgc-group-assets-130941346.html"
   },
   {
    "t": "國銀新南向授信　澳洲上半年大增885億最熱門",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607270275.aspx"
   },
   {
-   "t": "Silver prices today, Monday, July 27, 2026: Silver prices trend higher as Iran airatrikes on pause",
+   "t": "Flex Ltd. (FLEX) Outgrew the Fund’s Small-Cap Mandate on AI Data Center Strength",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-july-27-2026-silver-prices-trend-higher-as-iran-airatrikes-on-pause-125654584.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/flex-ltd-flex-outgrew-fund-130621301.html"
   },
   {
    "t": "有廣法黨政軍條款擬鬆綁　凱擘：有助資金活水進入產業",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607270266.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Jumps 575 Points On U.S.-Iran Hopes; Oil Prices Plunge (Live Coverage)",
+   "t": "Why another shocking Meta capex number may keep the stock underwater",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices-plunge/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/article/why-another-shocking-meta-capex-number-may-keep-the-stock-underwater-130420154.html"
   },
   {
    "t": "環球晶違約交割1103萬　今年櫃買第11起達揭露標準案件",
