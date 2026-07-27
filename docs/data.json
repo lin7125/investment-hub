@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 02:52（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 02:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,107 +212,107 @@
   },
   {
    "s": "AAPL",
-   "p": 335.2,
-   "c": 0.65,
-   "a50": 306.96,
-   "a200": 276.37,
-   "yh": 335.2,
+   "p": 335.66,
+   "c": 0.79,
+   "a50": 306.97,
+   "a200": 276.38,
+   "yh": 335.66,
    "yl": 202.38,
-   "a20": 316.96,
-   "r": 66.4
+   "a20": 316.98,
+   "r": 66.7
   },
   {
    "s": "NVDA",
-   "p": 196.77,
-   "c": -4.87,
-   "a50": 208.6,
+   "p": 197.25,
+   "c": -4.64,
+   "a50": 208.61,
    "a200": 192.97,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.54,
-   "r": 42.6
+   "a20": 203.57,
+   "r": 43.0
   },
   {
    "s": "TSLA",
-   "p": 306.5,
-   "c": -2.09,
-   "a50": 399.78,
+   "p": 307.05,
+   "c": -1.91,
+   "a50": 399.79,
    "a200": 414.08,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 385.06,
-   "r": 26.9
+   "a20": 385.09,
+   "r": 27.0
   },
   {
    "s": "META",
-   "p": 596.7,
-   "c": 0.25,
-   "a50": 605.68,
+   "p": 597.29,
+   "c": 0.35,
+   "a50": 605.69,
    "a200": 637.49,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 623.29,
-   "r": 44.3
+   "a20": 623.32,
+   "r": 44.4
   },
   {
    "s": "^TWII",
-   "p": 44850.81,
-   "c": 0.06,
-   "a50": 44522.68,
-   "a200": 34534.75,
+   "p": 43654.84,
+   "c": -2.67,
+   "a50": 44568.29,
+   "a200": 34623.62,
    "yh": 47741.51,
    "yl": 23201.52,
-   "a20": 45301.33,
-   "r": 50.1
+   "a20": 45171.31,
+   "r": 44.4
   },
   {
    "s": "^GSPC",
-   "p": 7400.96,
-   "c": -0.15,
-   "a50": 7471.15,
-   "a200": 7009.16,
+   "p": 7408.25,
+   "c": -0.05,
+   "a50": 7471.29,
+   "a200": 7009.2,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7492.24,
-   "r": 44.0
+   "a20": 7492.6,
+   "r": 44.6
   },
   {
    "s": "^VIX",
-   "p": 19.45,
-   "c": 4.68,
+   "p": 19.42,
+   "c": 4.52,
    "a50": 17.39,
    "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.01,
-   "r": 57.4
+   "r": 57.3
   },
   {
    "s": "BZ=F",
-   "p": 88.18,
-   "c": -8.89,
-   "a50": 88.22,
+   "p": 88.25,
+   "c": -8.81,
+   "a50": 88.23,
    "a200": 80.16,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 82.56,
-   "r": 52.4
+   "r": 52.5
   },
   {
    "s": "GC=F",
-   "p": 4079.9,
-   "c": 0.3,
-   "a50": 4242.48,
-   "a200": 4478.79,
+   "p": 4078.3,
+   "c": 0.26,
+   "a50": 4242.45,
+   "a200": 4478.78,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.75,
-   "r": 46.9
+   "a20": 4067.67,
+   "r": 46.8
   },
   {
    "s": "HG=F",
    "p": 6.39,
-   "c": 1.09,
+   "c": 1.08,
    "a50": 6.3,
    "a200": 5.76,
    "yh": 6.65,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03096934,
-   "c": 0.02,
+   "c": 0.03,
    "a50": 0.03144654,
    "a200": 0.03172589,
    "yh": 0.033546,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607270305.aspx"
   },
   {
-   "t": "CSX Corporation (CSX) and Knight-Swift Transportation Holdings Inc. (KNX) Show the Freight Cycle Is Turning. Southwest Airlines Co. (LUV) Shows Fuel Costs Still Hurt Airlines.",
+   "t": "These 22-year-old billionaire Peter Thiel proteges pay professionals $2M a day to train the AI that could replace them",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/csx-corporation-csx-knight-swift-092337474.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/22-old-billionaire-peter-thiel-101000953.html"
   },
   {
    "t": "網傳中聯借豆靠後台關係　經部澄清：穩供原料協調週轉",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607270298.aspx"
   },
   {
-   "t": "These 22-year-old billionaire Peter Thiel proteges pay professionals $2M a day to train the AI that could replace them",
+   "t": "CSX Corporation (CSX) and Knight-Swift Transportation Holdings Inc. (KNX) Show the Freight Cycle Is Turning. Southwest Airlines Co. (LUV) Shows Fuel Costs Still Hurt Airlines.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/22-old-billionaire-peter-thiel-101000953.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/csx-corporation-csx-knight-swift-092337474.html"
   },
   {
    "t": "威力彩第115060期開獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607270293.aspx"
   },
   {
-   "t": "Analyst Report: 3M Co",
+   "t": "Analyst Report: Kinder Morgan Inc",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_3200_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_3637_AnalystReport_1785174452000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
