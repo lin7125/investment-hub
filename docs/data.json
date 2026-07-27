@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 05:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 06:09（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03097893,
-   "c": 0.07,
+   "p": 0.03096934,
+   "c": 0.03,
    "a50": 0.03144654,
    "a200": 0.03172589,
    "yh": 0.033546,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "美國與伊朗暫停交火　歐洲股市收漲",
+   "t": "中東供應威脅緩解　國際油價重挫",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280002.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607280008.aspx"
   },
   {
    "t": "52-year-old international restaurant chain closing all locations",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html"
   },
   {
-   "t": "中國傳開始生產自研DUV　ASML股價應聲下跌4.6%",
+   "t": "美國與伊朗暫停交火　歐洲股市收漲",
    "pub": "中央社財經",
-   "d": "2026-07-27",
-   "u": "https://www.cna.com.tw/news/aopl/202607270313.aspx"
+   "d": "2026-07-28",
+   "u": "https://www.cna.com.tw/news/afe/202607280002.aspx"
   },
   {
    "t": "After 80 stores close, 63-year-old chain gives Chapter 11 warning",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/80-stores-close-63-old-150700367.html"
   },
   {
-   "t": "今彩539第115181期　頭獎1注中獎",
+   "t": "中國傳開始生產自研DUV　ASML股價應聲下跌4.6%",
    "pub": "中央社財經",
    "d": "2026-07-27",
-   "u": "https://www.cna.com.tw/news/ahel/202607270307.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202607270313.aspx"
   },
   {
    "t": "What a Major Anthropic Chip Deal Really Means for AMD Stock",
@@ -368,16 +368,28 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/major-anthropic-chip-deal-really-130002547.html"
   },
   {
-   "t": "美伊暫停交戰提振市場信心　美股開高那指漲逾1%",
+   "t": "今彩539第115181期　頭獎1注中獎",
    "pub": "中央社財經",
    "d": "2026-07-27",
-   "u": "https://www.cna.com.tw/news/afe/202607270306.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202607270307.aspx"
   },
   {
    "t": "5 crystal-clear signs you’re (very) well prepared for retirement. Can you finally stop stressing?",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/markets/articles/5-crystal-clear-signs-very-125500900.html"
+  },
+  {
+   "t": "美伊暫停交戰提振市場信心　美股開高那指漲逾1%",
+   "pub": "中央社財經",
+   "d": "2026-07-27",
+   "u": "https://www.cna.com.tw/news/afe/202607270306.aspx"
+  },
+  {
+   "t": "Intel Corp Shows Strong Q2 Results and Free Cash Flow - Shorting INTC Puts is Still the Best Play",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/intel-corp-shows-strong-q2-133002161.html"
   },
   {
    "t": "威力彩第115060期　頭獎槓龜",
@@ -390,18 +402,6 @@
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/markets/articles/dave-ramsey-says-save-money-124500438.html"
-  },
-  {
-   "t": "網傳中聯借豆靠後台關係　經部澄清：穩供原料協調週轉",
-   "pub": "中央社財經",
-   "d": "2026-07-27",
-   "u": "https://www.cna.com.tw/news/afe/202607270298.aspx"
-  },
-  {
-   "t": "Kiyosaki says ‘greatest depression in world history’ is starting — with boomers facing disaster. Protect your money now",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/kiyosaki-says-greatest-depression-world-121500890.html"
   }
  ],
  "inst": {
