@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 06:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 07:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.74,
-   "c": -9.34,
+   "p": 87.76,
+   "c": -9.32,
    "a50": 88.22,
    "a200": 80.16,
    "yh": 118.35,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4075.8,
-   "c": 0.2,
-   "a50": 4242.4,
+   "p": 4075.0,
+   "c": 0.18,
+   "a50": 4242.38,
    "a200": 4478.77,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.55,
-   "r": 46.6
+   "a20": 4067.51,
+   "r": 46.5
   },
   {
    "s": "HG=F",
    "p": 6.39,
-   "c": 1.15,
+   "c": 1.16,
    "a50": 6.3,
    "a200": 5.76,
    "yh": 6.65,
@@ -323,9 +323,9 @@
   {
    "s": "TWDUSD",
    "p": 0.03096934,
-   "c": 0.02,
-   "a50": 0.03144654,
-   "a200": 0.03172589,
+   "c": 0.09,
+   "a50": 0.03142678,
+   "a200": 0.03171583,
    "yh": 0.033546,
    "yl": 0.030883
   }
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607270313.aspx"
   },
   {
-   "t": "ICE uses a $125 million Thomson Reuters deal to access your credit card data without a warrant",
+   "t": "Elizabeth Warren says House stock trading ban has 'major loopholes' — 48% of Congress still owns individual stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/ice-uses-125-million-thomson-140000150.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/elizabeth-warren-says-house-stock-143000935.html"
   },
   {
    "t": "今彩539第115181期　頭獎1注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607270306.aspx"
   },
   {
-   "t": "Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO",
+   "t": "ICE uses a $125 million Thomson Reuters deal to access your credit card data without a warrant",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/shein-reveals-key-financials-ahead-134128865.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/ice-uses-125-million-thomson-140000150.html"
   },
   {
    "t": "威力彩第115060期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607270305.aspx"
   },
   {
-   "t": "Intel Corp Shows Strong Q2 Results and Free Cash Flow - Shorting INTC Puts is Still the Best Play",
+   "t": "Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intel-corp-shows-strong-q2-133002161.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/shein-reveals-key-financials-ahead-134128865.html"
   }
  ],
  "inst": {
