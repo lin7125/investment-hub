@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 04:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 04:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 18.21,
-   "c": -2.46,
+   "p": 18.32,
+   "c": -1.87,
    "a50": 17.37,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.95,
-   "r": 53.1
+   "a20": 16.96,
+   "r": 53.5
   },
   {
    "s": "BZ=F",
-   "p": 83.84,
-   "c": -5.12,
+   "p": 83.89,
+   "c": -5.06,
    "a50": 87.79,
    "a200": 80.25,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.1,
-   "r": 47.1
+   "a20": 83.11,
+   "r": 47.2
   },
   {
    "s": "GC=F",
-   "p": 4025.7,
-   "c": -1.2,
-   "a50": 4229.32,
-   "a200": 4478.68,
+   "p": 4022.8,
+   "c": -1.27,
+   "a50": 4229.27,
+   "a200": 4478.66,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.65,
-   "r": 43.2
+   "a20": 4067.51,
+   "r": 43.0
   },
   {
    "s": "HG=F",
    "p": 6.34,
-   "c": 0.01,
+   "c": -0.05,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 53.0
+   "r": 52.8
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280370.aspx"
   },
   {
-   "t": "A 61-year-old stashed Roblox shares in his IRA before the company went public — now it reportedly holds $68 million",
+   "t": "Mag 7 Q2 Earnings Haven’t Been So ‘Magnificent.’ What META, MSFT, and AMZN Need to Report to Turn the Tide.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/61-old-stashed-roblox-shares-110000968.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mag-7-q2-earnings-haven-113002049.html"
   },
   {
    "t": "今彩539第115182期　頭獎2注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280358.aspx"
   },
   {
-   "t": "Option Volatility And Earnings Report For July 27-31",
+   "t": "Dollar General’s Q2 2027 Earnings: What to Expect",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/option-volatility-earnings-report-july-110002130.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-q2-2027-earnings-112824025.html"
   },
   {
    "t": "大樂透頭獎9.1億元1注獨得　獎落北市松山",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280357.aspx"
   },
   {
-   "t": "Salesforce's Quarterly Earnings Preview: What You Need to Know",
+   "t": "What Do Monday Morning's Markets Bring to Mind?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/salesforces-quarterly-earnings-preview-know-110608209.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/monday-mornings-markets-bring-mind-112310421.html"
   },
   {
    "t": "傳Visa裁員約2600人　占全球員工7%",
