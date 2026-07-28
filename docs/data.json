@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 18:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 18:26（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -268,51 +268,51 @@
   {
    "s": "^GSPC",
    "p": 7413.18,
-   "c": 0.07,
-   "a50": 7472.04,
-   "a200": 7005.74,
+   "c": 0.02,
+   "a50": 7471.39,
+   "a200": 7009.23,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7489.95,
+   "a20": 7492.85,
    "r": 45.0
   },
   {
    "s": "^VIX",
-   "p": 18.93,
-   "c": 1.39,
+   "p": 18.98,
+   "c": 1.66,
    "a50": 17.38,
    "a200": 18.75,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.04,
-   "r": 55.8
+   "r": 56.0
   },
   {
    "s": "BZ=F",
-   "p": 86.11,
-   "c": -2.55,
+   "p": 86.15,
+   "c": -2.5,
    "a50": 87.84,
    "a200": 80.26,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 83.22,
-   "r": 49.7
+   "r": 49.8
   },
   {
    "s": "GC=F",
-   "p": 4024.4,
-   "c": -1.23,
-   "a50": 4229.3,
+   "p": 4024.9,
+   "c": -1.22,
+   "a50": 4229.31,
    "a200": 4478.67,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.59,
+   "a20": 4067.61,
    "r": 43.1
   },
   {
    "s": "HG=F",
    "p": 6.32,
-   "c": -0.29,
+   "c": -0.28,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.0308642,
-   "c": -0.25,
+   "c": -0.22,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aipl/202607280210.aspx"
   },
   {
-   "t": "Ford's guidance is all that matters in light of GM's results: Q2 preview",
+   "t": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/fords-guidance-is-all-that-matters-in-light-of-gms-results-q2-preview-174508466.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
   },
   {
    "t": "仁寶啟動員工持股信託　提存等額獎勵金留才",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280202.aspx"
   },
   {
-   "t": "World stocks hit one-month low as chip rout worsens",
+   "t": "Best high-yield savings interest rates today, Tuesday, July 28, 2026: You can earn up to 4.15% APY",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/ai-anxiety-sparks-tech-rout-023132715.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-july-28-2026-you-can-earn-up-to-415-apy-100000612.html"
   },
   {
    "t": "日本熊本地震　台積電：JASM廠區啟動人員疏散",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280201.aspx"
   },
   {
-   "t": "Dollar hovers near four-week peak as markets mull Fed hike odds",
+   "t": "Mortgage and refinance interest rates today, Tuesday, July 28, 2026: Rates lower as fighting in Iran on pause",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-hits-one-month-high-003619965.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-28-2026-rates-lower-as-fighting-in-iran-on-pause-100000181.html"
   },
   {
    "t": "AI疑慮引發科技股賣壓　韓股收盤重挫逾10%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280192.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
+   "t": "HELOC and home equity loan rates today, Tuesday, July 28, 2026: Besides rates, how to choose between a HELOC or HEL",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-july-28-2026-besides-rates-how-to-choose-between-a-heloc-or-hel-100000292.html"
   },
   {
    "t": "新台幣貶7.9分　收32.384元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280191.aspx"
   },
   {
-   "t": "Mango H1 2026 turnover grows to $2.1bn as store network expands",
+   "t": "US distributor RNDC files for Chapter 11",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mango-h1-2026-turnover-grows-094929573.html"
+   "u": "https://finance.yahoo.com/small-business/articles/us-distributor-rndc-files-chapter-101404576.html"
   }
  ],
  "inst": {
