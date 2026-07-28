@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 06:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 06:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.85,
-   "c": -2.84,
-   "a50": 87.83,
-   "a200": 80.26,
+   "p": 87.0,
+   "c": -1.54,
+   "a50": 87.85,
+   "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.2,
-   "r": 49.4
+   "a20": 83.26,
+   "r": 50.9
   },
   {
    "s": "GC=F",
-   "p": 4025.0,
-   "c": -1.21,
-   "a50": 4229.31,
-   "a200": 4478.67,
+   "p": 4017.7,
+   "c": -1.39,
+   "a50": 4229.16,
+   "a200": 4478.64,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.62,
-   "r": 43.1
+   "a20": 4067.25,
+   "r": 42.7
   },
   {
    "s": "HG=F",
-   "p": 6.34,
-   "c": -0.01,
+   "p": 6.33,
+   "c": -0.09,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 52.9
+   "r": 52.7
   },
   {
    "s": "TWDUSD",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "企業財報佳油價回落　歐洲股市收漲",
+   "t": "市場對AI熱潮疑慮加深　美股收盤走勢不一",
    "pub": "中央社財經",
    "d": "2026-07-29",
-   "u": "https://www.cna.com.tw/news/afe/202607290002.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607290013.aspx"
   },
   {
    "t": "52-year-old international restaurant chain closing all locations",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html"
   },
   {
-   "t": "空軍一號改裝成本增　波音第2季虧近139億元大於預期",
+   "t": "蘋果市值觸及5兆美元　繼輝達後史上第二家",
    "pub": "中央社財經",
-   "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/aopl/202607280371.aspx"
+   "d": "2026-07-29",
+   "u": "https://www.cna.com.tw/news/aopl/202607290012.aspx"
   },
   {
    "t": "Influencer sells 2 Ferraris to buy Bitcoin dip",
@@ -356,52 +356,52 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/influencer-sells-2-ferraris-buy-183000659.html"
   },
   {
+   "t": "中東局勢降溫　國際油價創2020年以來最大3日跌幅",
+   "pub": "中央社財經",
+   "d": "2026-07-29",
+   "u": "https://www.cna.com.tw/news/afe/202607290011.aspx"
+  },
+  {
+   "t": "Procore Technologies (PCOR) Slid Amid AI Disruption Concerns",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/procore-technologies-pcor-slid-amid-141517010.html"
+  },
+  {
+   "t": "企業財報佳油價回落　歐洲股市收漲",
+   "pub": "中央社財經",
+   "d": "2026-07-29",
+   "u": "https://www.cna.com.tw/news/afe/202607290002.aspx"
+  },
+  {
+   "t": "Jabil's Quarterly Earnings Preview: What You Need to Know",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jabils-quarterly-earnings-preview-know-141631185.html"
+  },
+  {
+   "t": "空軍一號改裝成本增　波音第2季虧近139億元大於預期",
+   "pub": "中央社財經",
+   "d": "2026-07-28",
+   "u": "https://www.cna.com.tw/news/aopl/202607280371.aspx"
+  },
+  {
+   "t": "JFrog Ltd. (FROG) Overcomes AI Challenges and Gains Momentum",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jfrog-ltd-frog-overcomes-ai-141218122.html"
+  },
+  {
    "t": "英國美食大賞　台灣原民部落苦茶油獲卓越星級獎章",
    "pub": "中央社財經",
    "d": "2026-07-28",
    "u": "https://www.cna.com.tw/news/ahel/202607280370.aspx"
   },
   {
-   "t": "Stocks Rally as Middle East Tensions Ease",
+   "t": "Here’s Why Ollie’s Bargain Outlet Holdings (OLLI) Traded Lower in Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-middle-east-tensions-140620334.html"
-  },
-  {
-   "t": "今彩539第115182期　頭獎2注中獎",
-   "pub": "中央社財經",
-   "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/ahel/202607280358.aspx"
-  },
-  {
-   "t": "Short-Seller Concerns Hurt Ensign Group (ENSG) in Q2",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/short-seller-concerns-hurt-ensign-140716702.html"
-  },
-  {
-   "t": "大樂透頭獎9.1億元1注獨得　獎落北市松山",
-   "pub": "中央社財經",
-   "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/ahel/202607280357.aspx"
-  },
-  {
-   "t": "Porsche ramps up job cuts to 9,000 by 2035",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/porsche-ramps-job-cuts-9-140200262.html"
-  },
-  {
-   "t": "傳Visa裁員約2600人　占全球員工7%",
-   "pub": "中央社財經",
-   "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/aopl/202607280356.aspx"
-  },
-  {
-   "t": "Beijing Just Aimed at Taiwan Semiconductor Manufacturing Company (NYSE:TSM). Here’s Why the Bull Case Still Wins",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/beijing-just-aimed-taiwan-semiconductor-140827384.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-ollie-bargain-outlet-holdings-141015086.html"
   }
  ],
  "inst": {
