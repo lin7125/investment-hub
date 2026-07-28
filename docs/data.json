@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 20:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 20:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 18.81,
-   "c": 0.75,
+   "p": 18.8,
+   "c": 0.7,
    "a50": 17.38,
-   "a200": 18.75,
+   "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.03,
+   "a20": 16.98,
    "r": 55.4
   },
   {
    "s": "BZ=F",
-   "p": 86.96,
-   "c": -1.58,
-   "a50": 87.85,
+   "p": 87.12,
+   "c": -1.4,
+   "a50": 87.86,
    "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.26,
-   "r": 50.8
+   "a20": 83.27,
+   "r": 51.0
   },
   {
    "s": "GC=F",
-   "p": 4026.0,
-   "c": -1.19,
-   "a50": 4229.33,
+   "p": 4027.0,
+   "c": -1.17,
+   "a50": 4229.35,
    "a200": 4478.68,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.67,
-   "r": 43.2
+   "a20": 4067.72,
+   "r": 43.3
   },
   {
    "s": "HG=F",
-   "p": 6.31,
-   "c": -0.42,
+   "p": 6.32,
+   "c": -0.38,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 51.5
+   "r": 51.7
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280275.aspx"
   },
   {
-   "t": "Meta to report Q2 earnings amid AI investing concerns",
+   "t": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/meta-to-report-q2-earnings-amid-ai-investing-concerns-121325403.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html"
   },
   {
    "t": "健生擬8月3日興櫃　強攻智慧車載視覺方案",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280271.aspx"
   },
   {
-   "t": "Earnings live: PayPal stock slides amid turnaround, Corning plunges",
+   "t": "Meta to report Q2 earnings amid AI investing concerns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/earnings-live-paypal-stock-slides-amid-turnaround-corning-plunges-115207214.html"
+   "u": "https://finance.yahoo.com/news/meta-to-report-q2-earnings-amid-ai-investing-concerns-121325403.html"
   },
   {
    "t": "大聯大通過處分日電貿1892張　出清持股",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280268.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens, but Dow rises",
+   "t": "Earnings live: PayPal stock slides amid turnaround, Corning plunges",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
+   "u": "https://finance.yahoo.com/markets/live/earnings-live-paypal-stock-slides-amid-turnaround-corning-plunges-115207214.html"
   },
   {
    "t": "精測第2季獲利續創新高　連2季賺逾1個資本額",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280262.aspx"
   },
   {
-   "t": "Boeing Q2 revenue tops estimates as jet deliveries climb, cash turns positive",
+   "t": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens, but Dow rises",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/boeing-q2-revenue-tops-estimates-as-jet-deliveries-climb-cash-turns-positive-120622920.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
   },
   {
    "t": "外資賣超台股875億　法人：橫盤築底觀察半年線支撐",
