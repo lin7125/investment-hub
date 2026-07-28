@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 07:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 07:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,20 +289,20 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.41,
-   "c": -1.08,
-   "a50": 87.86,
+   "p": 87.62,
+   "c": -0.84,
+   "a50": 87.87,
    "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.28,
-   "r": 51.4
+   "a20": 83.29,
+   "r": 51.7
   },
   {
    "s": "GC=F",
-   "p": 4017.3,
-   "c": -1.4,
-   "a50": 4229.16,
+   "p": 4017.2,
+   "c": -1.41,
+   "a50": 4229.15,
    "a200": 4478.63,
    "yh": 5318.4,
    "yl": 3293.2,
@@ -318,12 +318,12 @@
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 52.7
+   "r": 52.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.0308928,
-   "c": -0.2,
+   "p": 0.03090235,
+   "c": -0.18,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290011.aspx"
   },
   {
-   "t": "Inflated AI Risk Hurt Autodesk (ADSK)",
+   "t": "Dear Bloom Energy Stock Fans, Mark Your Calendars for July 28",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/inflated-ai-risk-hurt-autodesk-144509816.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-bloom-energy-stock-fans-150315179.html"
   },
   {
    "t": "企業財報佳油價回落　歐洲股市收漲",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290002.aspx"
   },
   {
-   "t": "Excessive Extrapolation Pressured Globant S.A. (GLOB)",
+   "t": "The ACA Coverage Debate Just Became a $50 Billion Question for Intuitive Surgical",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/excessive-extrapolation-pressured-globant-glob-144301263.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/aca-coverage-debate-just-became-150943507.html"
   },
   {
    "t": "空軍一號改裝成本增　波音第2季虧近139億元大於預期",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280371.aspx"
   },
   {
-   "t": "Intel Stock: AI Is Bringing Its Biggest Strength Back to Life",
+   "t": "MKS (MKSI) Gains from Surging Demand for High Band Memory (HBM)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/intel-stock-ai-bringing-biggest-144152156.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mks-mksi-gains-surging-demand-150045433.html"
   },
   {
    "t": "英國美食大賞　台灣原民部落苦茶油獲卓越星級獎章",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280370.aspx"
   },
   {
-   "t": "PTC (PTC): A Mispriced Opportunity?",
+   "t": "Pentagon Suppliers Warn U.S. Won't Have Magnet Capacity By 2027",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ptc-ptc-mispriced-opportunity-144841368.html"
+   "u": "https://finance.yahoo.com/energy/articles/pentagon-suppliers-warn-u-wont-150000087.html"
   }
  ],
  "inst": {
