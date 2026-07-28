@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 14:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 18:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 40.6,
-   "c": -15.15,
+   "p": 40.4,
+   "c": -15.57,
    "a50": 70.29,
    "a200": 39.4,
    "yh": 165.0,
    "yl": 5.4,
-   "a20": 58.49,
-   "r": 26.9
+   "a20": 58.48,
+   "r": 26.8
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 57.2,
-   "c": 0.7,
-   "a50": 64.64,
-   "a200": 56.27,
+   "p": 54.0,
+   "c": -4.93,
+   "a50": 64.57,
+   "a200": 56.25,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 61.53,
-   "r": 35.1
+   "a20": 61.37,
+   "r": 28.1
   },
   {
    "s": "AAPL",
@@ -268,62 +268,62 @@
   {
    "s": "^GSPC",
    "p": 7413.18,
-   "c": 0.02,
-   "a50": 7471.39,
-   "a200": 7009.23,
+   "c": 0.07,
+   "a50": 7472.04,
+   "a200": 7005.74,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7492.85,
+   "a20": 7489.95,
    "r": 45.0
   },
   {
    "s": "^VIX",
-   "p": 18.67,
-   "c": 0.48,
-   "a50": 17.37,
-   "a200": 18.73,
+   "p": 18.93,
+   "c": 1.39,
+   "a50": 17.38,
+   "a200": 18.75,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.97,
-   "r": 54.9
+   "a20": 17.04,
+   "r": 55.8
   },
   {
    "s": "BZ=F",
-   "p": 86.93,
-   "c": -1.62,
-   "a50": 87.85,
-   "a200": 80.27,
+   "p": 86.11,
+   "c": -2.55,
+   "a50": 87.84,
+   "a200": 80.26,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.26,
-   "r": 50.8
+   "a20": 83.22,
+   "r": 49.7
   },
   {
    "s": "GC=F",
-   "p": 4048.6,
-   "c": -0.64,
-   "a50": 4229.78,
-   "a200": 4478.79,
+   "p": 4024.4,
+   "c": -1.23,
+   "a50": 4229.3,
+   "a200": 4478.67,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4068.8,
-   "r": 44.7
+   "a20": 4067.59,
+   "r": 43.1
   },
   {
    "s": "HG=F",
-   "p": 6.34,
-   "c": 0.06,
+   "p": 6.32,
+   "c": -0.29,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 53.1
+   "r": 52.0
   },
   {
    "s": "TWDUSD",
    "p": 0.0308642,
-   "c": -0.24,
+   "c": -0.25,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "8月電子期金融期齊跌",
+   "t": "亞德客上調今年業績成長　電子電池車用拉貨看佳",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280128.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607280216.aspx"
   },
   {
    "t": "52-year-old international restaurant chain closing all locations",
@@ -344,140 +344,140 @@
    "u": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html"
   },
   {
-   "t": "8月台股期指跌2267點",
+   "t": "外交部宣布停止進口巴紐現貨天然氣　經部：配合辦理",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280126.aspx"
+   "u": "https://www.cna.com.tw/news/aipl/202607280210.aspx"
   },
   {
-   "t": "Argentina’s Oil Production Soars as Vaca Muerta Breaks New Records",
+   "t": "Ford's guidance is all that matters in light of GM's results: Q2 preview",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/argentina-oil-production-soars-vaca-190000618.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/fords-guidance-is-all-that-matters-in-light-of-gms-results-q2-preview-174508466.html"
   },
   {
-   "t": "商業署推3大策略　助68個餐飲品牌布局12國",
+   "t": "仁寶啟動員工持股信託　提存等額獎勵金留才",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280125.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607280202.aspx"
   },
   {
-   "t": "Dear SpaceX Stock Fans, Mark Your Calendars for August 6",
+   "t": "World stocks hit one-month low as chip rout worsens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-spacex-stock-fans-mark-202259800.html"
+   "u": "https://finance.yahoo.com/news/ai-anxiety-sparks-tech-rout-023132715.html"
   },
   {
-   "t": "台股跌2030.83點",
+   "t": "日本熊本地震　台積電：JASM廠區啟動人員疏散",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280123.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607280201.aspx"
   },
   {
-   "t": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
+   "t": "Dollar hovers near four-week peak as markets mull Fed hike odds",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/u-jet-fuel-costs-soar-210000933.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-hits-one-month-high-003619965.html"
   },
   {
-   "t": "台股重挫2030點歷史第3大跌點　台積電收2280元失守季線",
+   "t": "AI疑慮引發科技股賣壓　韓股收盤重挫逾10%",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280122.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607280192.aspx"
   },
   {
-   "t": "Tesla Missed by 38% But Elon Musk Is Not Worried. Here’s What TSLA Investors Should Make of That.",
+   "t": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tesla-missed-38-elon-musk-213818116.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
   },
   {
-   "t": "純網銀攜手VASP業者　推綁定扣款服務",
+   "t": "新台幣貶7.9分　收32.384元",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280103.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607280191.aspx"
   },
   {
-   "t": "Fed Faces Growing Pressure to Hike Rates as Price Risks Rebound",
+   "t": "Mango H1 2026 turnover grows to $2.1bn as store network expands",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fed-faces-growing-pressure-to-hike-rates-as-price-risks-rebound-190000450.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mango-h1-2026-turnover-grows-094929573.html"
   }
  ],
  "inst": {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "byCode": {
-   "2317": {
-    "f": 522,
-    "t": 737,
-    "all": 1915
-   },
-   "1802": {
-    "f": 1329,
-    "t": 0,
-    "all": 1310
-   },
-   "2327": {
-    "f": 4671,
-    "t": -3989,
-    "all": 832
-   },
-   "6706": {
-    "f": 350,
-    "t": 0,
-    "all": 356
-   },
-   "3701": {
-    "f": 99,
-    "t": 0,
-    "all": 102
+   "6442": {
+    "f": 242,
+    "t": 33,
+    "all": 279
    },
    "4722": {
-    "f": 42,
+    "f": 281,
     "t": 0,
-    "all": 23
+    "all": 226
+   },
+   "6706": {
+    "f": 320,
+    "t": 0,
+    "all": 208
+   },
+   "3701": {
+    "f": 81,
+    "t": 0,
+    "all": 78
    },
    "6862": {
-    "f": 11,
+    "f": 41,
     "t": 0,
-    "all": 8
+    "all": 26
    },
    "6515": {
-    "f": -10,
-    "t": 4,
-    "all": -4
-   },
-   "6442": {
-    "f": -229,
-    "t": 32,
-    "all": -178
+    "f": -13,
+    "t": 6,
+    "all": -8
    },
    "6446": {
-    "f": -458,
-    "t": 125,
-    "all": -314
-   },
-   "2308": {
-    "f": 897,
-    "t": -1085,
-    "all": -345
-   },
-   "2330": {
-    "f": -2662,
-    "t": 566,
-    "all": -685
+    "f": -353,
+    "t": 0,
+    "all": -355
    },
    "2305": {
-    "f": -701,
-    "t": 5,
-    "all": -694
+    "f": -547,
+    "t": 0,
+    "all": -471
+   },
+   "1802": {
+    "f": -732,
+    "t": 1,
+    "all": -885
    },
    "2454": {
-    "f": -443,
-    "t": -378,
-    "all": -921
+    "f": -2056,
+    "t": -287,
+    "all": -2342
+   },
+   "2327": {
+    "f": -954,
+    "t": -2377,
+    "all": -3079
+   },
+   "2308": {
+    "f": -5959,
+    "t": -22,
+    "all": -5761
+   },
+   "2330": {
+    "f": -14660,
+    "t": 280,
+    "all": -9256
+   },
+   "2317": {
+    "f": -20087,
+    "t": 1194,
+    "all": -17039
    }
   },
-  "totalNetE": 6.6
+  "totalNetE": -1169.4
  }
 }
