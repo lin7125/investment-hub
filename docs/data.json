@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 21:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 22:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 338.94,
-   "c": 0.6,
-   "a50": 307.81,
-   "a200": 276.79,
-   "yh": 338.94,
+   "p": 337.76,
+   "c": 0.25,
+   "a50": 307.78,
+   "a200": 276.78,
+   "yh": 337.76,
    "yl": 202.38,
-   "a20": 319.9,
-   "r": 68.3
+   "a20": 319.84,
+   "r": 67.7
   },
   {
    "s": "NVDA",
-   "p": 193.69,
-   "c": -1.44,
-   "a50": 207.76,
+   "p": 194.42,
+   "c": -1.06,
+   "a50": 207.77,
    "a200": 192.99,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.47,
-   "r": 40.4
+   "a20": 203.5,
+   "r": 40.9
   },
   {
    "s": "TSLA",
-   "p": 305.47,
-   "c": -1.21,
-   "a50": 397.08,
+   "p": 304.95,
+   "c": -1.38,
+   "a50": 397.07,
    "a200": 413.42,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 379.88,
-   "r": 26.7
+   "a20": 379.85,
+   "r": 26.6
   },
   {
    "s": "META",
-   "p": 593.71,
-   "c": -0.03,
-   "a50": 605.12,
-   "a200": 636.85,
+   "p": 594.33,
+   "c": 0.08,
+   "a50": 605.14,
+   "a200": 636.86,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 624.71,
-   "r": 43.5
+   "a20": 624.74,
+   "r": 43.7
   },
   {
    "s": "^TWII",
@@ -267,75 +267,75 @@
   },
   {
    "s": "^GSPC",
-   "p": 7394.3,
-   "c": -0.25,
-   "a50": 7469.25,
-   "a200": 7012.43,
+   "p": 7395.92,
+   "c": -0.23,
+   "a50": 7469.29,
+   "a200": 7012.44,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7490.54,
-   "r": 43.4
+   "a20": 7490.62,
+   "r": 43.5
   },
   {
    "s": "^VIX",
-   "p": 18.98,
-   "c": 1.66,
-   "a50": 17.38,
-   "a200": 18.74,
+   "p": 19.46,
+   "c": 4.23,
+   "a50": 17.39,
+   "a200": 18.75,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.99,
-   "r": 56.0
+   "a20": 17.06,
+   "r": 57.6
   },
   {
    "s": "BZ=F",
-   "p": 86.18,
-   "c": -2.47,
-   "a50": 87.84,
-   "a200": 80.26,
+   "p": 86.95,
+   "c": -1.6,
+   "a50": 87.85,
+   "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.22,
-   "r": 49.8
+   "a20": 83.26,
+   "r": 50.8
   },
   {
    "s": "GC=F",
-   "p": 4020.7,
-   "c": -1.32,
-   "a50": 4229.22,
-   "a200": 4478.65,
+   "p": 4025.0,
+   "c": -1.21,
+   "a50": 4229.31,
+   "a200": 4478.67,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.4,
-   "r": 42.9
+   "a20": 4067.62,
+   "r": 43.1
   },
   {
    "s": "HG=F",
-   "p": 6.3,
-   "c": -0.54,
+   "p": 6.31,
+   "c": -0.53,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 51.1
+   "r": 51.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03088326,
-   "c": -0.19,
+   "p": 0.03087373,
+   "c": -0.2,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
-   "yl": 0.030883
+   "yl": 0.030874
   }
  ],
  "news": [
   {
-   "t": "X平台在美推X Money銀行服務　馬斯克擬打造萬能App",
+   "t": "壽險業外幣保單前5月新契約保費2334億　創4年新高",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/aopl/202607280343.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607280351.aspx"
   },
   {
    "t": "52-year-old international restaurant chain closing all locations",
@@ -344,46 +344,22 @@
    "u": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html"
   },
   {
-   "t": "上銀：義大利子公司遭駭客網路攻擊　營運無重大影響",
+   "t": "熊本強震　台積電：JASM人員建築確認安全、逐步回線",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280342.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607280346.aspx"
   },
   {
-   "t": "Apple tops $5 trillion market cap, only second company to hit the milestone",
+   "t": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/apple-tops-5-trillion-market-cap-only-second-company-to-hit-the-milestone-134013795.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html"
   },
   {
-   "t": "金管會：7銀行申請內部評等法過關　今年第4季適用",
+   "t": "易威：股份轉換完成　健亞終止上櫃成全資子公司",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280340.aspx"
-  },
-  {
-   "t": "Boeing Q2 revenue tops estimates as jet deliveries climb, cash turns positive",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/boeing-q2-revenue-tops-estimates-as-jet-deliveries-climb-cash-turns-positive-120622920.html"
-  },
-  {
-   "t": "大樂透第115074期開獎",
-   "pub": "中央社財經",
-   "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/ahel/202607280338.aspx"
-  },
-  {
-   "t": "SpaceX stock poised for another all-time low as stock sinks on Tuesday",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-poised-for-another-all-time-low-as-stock-sinks-on-tuesday-144351570.html"
-  },
-  {
-   "t": "今彩539第115182期開獎",
-   "pub": "中央社財經",
-   "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/ahel/202607280336.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607280345.aspx"
   },
   {
    "t": "Stock market today: Nasdaq declines as chip sell-off deepens, but Dow rises",
@@ -392,16 +368,40 @@
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
   },
   {
-   "t": "大豐電：大大寬頻規劃第3季遞件申請上市",
+   "t": "X平台在美推X Money銀行服務　馬斯克擬打造萬能App",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280334.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202607280343.aspx"
   },
   {
-   "t": "Intuit downgrade, Intuitive Surgical upgraded: Wall Street's top analyst calls",
+   "t": "Apple tops $5 trillion market cap, only second company to hit the milestone",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intuit-downgrade-intuitive-surgical-upgraded-133424214.html"
+   "u": "https://finance.yahoo.com/technology/article/apple-tops-5-trillion-market-cap-only-second-company-to-hit-the-milestone-134013795.html"
+  },
+  {
+   "t": "上銀：義大利子公司遭駭客網路攻擊　營運無重大影響",
+   "pub": "中央社財經",
+   "d": "2026-07-28",
+   "u": "https://www.cna.com.tw/news/afe/202607280342.aspx"
+  },
+  {
+   "t": "Boeing Q2 revenue tops estimates as jet deliveries climb, cash turns positive",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/article/boeing-q2-revenue-tops-estimates-as-jet-deliveries-climb-cash-turns-positive-120622920.html"
+  },
+  {
+   "t": "金管會：7銀行申請內部評等法過關　今年第4季適用",
+   "pub": "中央社財經",
+   "d": "2026-07-28",
+   "u": "https://www.cna.com.tw/news/afe/202607280340.aspx"
+  },
+  {
+   "t": "Reddit Considers a Bold Move: Cutting Off Google's Access for AI Training",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/technology/ai/articles/reddit-considers-bold-move-cutting-134750642.html"
   }
  ],
  "inst": {
