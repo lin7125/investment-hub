@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 04:40（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 04:50（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.95,
-   "c": -4.99,
+   "p": 83.91,
+   "c": -5.04,
    "a50": 87.79,
    "a200": 80.25,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4027.3,
-   "c": -1.16,
-   "a50": 4229.36,
-   "a200": 4478.68,
+   "p": 4028.3,
+   "c": -1.13,
+   "a50": 4229.38,
+   "a200": 4478.69,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.73,
-   "r": 43.3
+   "a20": 4067.78,
+   "r": 43.4
   },
   {
    "s": "HG=F",
    "p": 6.34,
-   "c": 0.02,
+   "c": -0.05,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 53.0
+   "r": 52.8
   },
   {
    "s": "TWDUSD",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280357.aspx"
   },
   {
-   "t": "Saudi PE dealmaking bounces back from 2025 trough",
+   "t": "IDEXX Laboratories (IDXX) Looks Attractive on Recurring Revenue and High Customer Retention",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/saudi-pe-dealmaking-bounces-back-120221006.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/idexx-laboratories-idxx-looks-attractive-120000793.html"
   },
   {
    "t": "傳Visa裁員約2600人　占全球員工7%",
