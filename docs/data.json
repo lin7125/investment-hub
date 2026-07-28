@@ -289,24 +289,24 @@
   },
   {
    "s": "BZ=F",
-   "p": 86.5,
-   "c": -2.11,
+   "p": 86.43,
+   "c": -2.18,
    "a50": 87.84,
    "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.24,
-   "r": 50.2
+   "a20": 83.23,
+   "r": 50.1
   },
   {
    "s": "GC=F",
-   "p": 4021.7,
-   "c": -1.3,
-   "a50": 4229.24,
-   "a200": 4478.66,
+   "p": 4021.2,
+   "c": -1.31,
+   "a50": 4229.23,
+   "a200": 4478.65,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.45,
+   "a20": 4067.43,
    "r": 42.9
   },
   {
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.0308642,
-   "c": -0.24,
+   "c": -0.23,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280275.aspx"
   },
   {
-   "t": "Fitch warns AI market correction emerging as major global credit risk",
+   "t": "Mercedes gets shares boost on stable second quarter despite China woes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/fitch-warns-ai-market-correction-103630010.html"
+   "u": "https://finance.yahoo.com/news/mercedes-cuts-sales-outlook-weak-064932045.html"
   },
   {
    "t": "健生擬8月3日興櫃　強攻智慧車載視覺方案",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280271.aspx"
   },
   {
-   "t": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports",
+   "t": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/amazon-winds-down-most-flagship-103406019.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
   },
   {
    "t": "大聯大通過處分日電貿1892張　出清持股",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280268.aspx"
   },
   {
-   "t": "Mercedes gets shares boost on stable second quarter despite China woes",
+   "t": "FAA Says Airlines Should Check Seat Installation on Some Boeing Planes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/mercedes-cuts-sales-outlook-weak-064932045.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-28-2026-rates-lower-as-fighting-in-iran-on-pause-100000181.html"
   },
   {
    "t": "精測第2季獲利續創新高　連2季賺逾1個資本額",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280262.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
+   "t": "HELOC and home equity loan rates today, Tuesday, July 28, 2026: Besides rates, how to choose between a HELOC or HEL",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-july-28-2026-besides-rates-how-to-choose-between-a-heloc-or-hel-100000292.html"
   },
   {
    "t": "外資賣超台股875億　法人：橫盤築底觀察半年線支撐",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280259.aspx"
   },
   {
-   "t": "FAA Says Airlines Should Check Seat Installation on Some Boeing Planes",
+   "t": "Eat Happy, Hana finalise sushi merger",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/business/airlines/u-s-regulator-says-airlines-should-check-seat-installation-on-some-boeing-models-0ff06e11?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/small-business/articles/eat-happy-hana-finalise-sushi-102402982.html"
   }
  ],
  "inst": {
