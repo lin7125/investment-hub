@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 06:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 06:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.59,
-   "c": -3.13,
+   "p": 85.85,
+   "c": -2.84,
    "a50": 87.83,
    "a200": 80.26,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.19,
-   "r": 49.1
+   "a20": 83.2,
+   "r": 49.4
   },
   {
    "s": "GC=F",
-   "p": 4025.5,
-   "c": -1.2,
-   "a50": 4229.32,
+   "p": 4025.0,
+   "c": -1.21,
+   "a50": 4229.31,
    "a200": 4478.67,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.64,
-   "r": 43.2
+   "a20": 4067.62,
+   "r": 43.1
   },
   {
    "s": "HG=F",
    "p": 6.34,
-   "c": -0.02,
+   "c": -0.01,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280370.aspx"
   },
   {
-   "t": "Buyback Announcement Makes Allot (ALLT) Attractive",
+   "t": "Stocks Rally as Middle East Tensions Ease",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/buyback-announcement-makes-allot-allt-135409976.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-middle-east-tensions-140620334.html"
   },
   {
    "t": "今彩539第115182期　頭獎2注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280358.aspx"
   },
   {
-   "t": "Here’s Why the Fund Trimmed Mama’s Creations (MAMA)",
+   "t": "Short-Seller Concerns Hurt Ensign Group (ENSG) in Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-fund-trimmed-mama-creations-135528727.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/short-seller-concerns-hurt-ensign-140716702.html"
   },
   {
    "t": "大樂透頭獎9.1億元1注獨得　獎落北市松山",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280357.aspx"
   },
   {
-   "t": "Uranium Royalty (UROY) Fell Despite Stable Uranium Spot Prices",
+   "t": "Porsche ramps up job cuts to 9,000 by 2035",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/uranium-royalty-uroy-fell-despite-135126437.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/porsche-ramps-job-cuts-9-140200262.html"
   },
   {
    "t": "傳Visa裁員約2600人　占全球員工7%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280356.aspx"
   },
   {
-   "t": "CRA International (CRAI) Looks Attractive Amid Market Misconceptions",
+   "t": "Beijing Just Aimed at Taiwan Semiconductor Manufacturing Company (NYSE:TSM). Here’s Why the Bull Case Still Wins",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cra-international-crai-looks-attractive-135856253.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/beijing-just-aimed-taiwan-semiconductor-140827384.html"
   }
  ],
  "inst": {
