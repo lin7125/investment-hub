@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 06:34（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 06:44（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.0,
-   "c": -1.54,
-   "a50": 87.85,
+   "p": 87.91,
+   "c": -0.51,
+   "a50": 87.87,
    "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.26,
-   "r": 50.9
+   "a20": 83.31,
+   "r": 52.0
   },
   {
    "s": "GC=F",
-   "p": 4017.7,
-   "c": -1.39,
-   "a50": 4229.16,
-   "a200": 4478.64,
+   "p": 4016.1,
+   "c": -1.43,
+   "a50": 4229.13,
+   "a200": 4478.63,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.25,
-   "r": 42.7
+   "a20": 4067.17,
+   "r": 42.6
   },
   {
    "s": "HG=F",
    "p": 6.33,
-   "c": -0.09,
+   "c": -0.07,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290011.aspx"
   },
   {
-   "t": "Procore Technologies (PCOR) Slid Amid AI Disruption Concerns",
+   "t": "3 realities from the summer tech stock rout you are probably overlooking",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/procore-technologies-pcor-slid-amid-141517010.html"
+   "u": "https://finance.yahoo.com/markets/article/3-realities-from-the-summer-tech-stock-rout-you-are-probably-overlooking-142723054.html"
   },
   {
    "t": "企業財報佳油價回落　歐洲股市收漲",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290002.aspx"
   },
   {
-   "t": "Jabil's Quarterly Earnings Preview: What You Need to Know",
+   "t": "Despite Challenges, AST SpaceMobile Stock Could Make a Compelling Options Trade for Contrarians Here",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jabils-quarterly-earnings-preview-know-141631185.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/despite-challenges-ast-spacemobile-stock-142525095.html"
   },
   {
    "t": "空軍一號改裝成本增　波音第2季虧近139億元大於預期",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280371.aspx"
   },
   {
-   "t": "JFrog Ltd. (FROG) Overcomes AI Challenges and Gains Momentum",
+   "t": "Data Centre Cooling Demand Boosted AAON (AAON)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jfrog-ltd-frog-overcomes-ai-141218122.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/data-centre-cooling-demand-boosted-142442906.html"
   },
   {
    "t": "英國美食大賞　台灣原民部落苦茶油獲卓越星級獎章",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280370.aspx"
   },
   {
-   "t": "Here’s Why Ollie’s Bargain Outlet Holdings (OLLI) Traded Lower in Q2",
+   "t": "Everus Construction Group (ECG) Strengthens from Long-Term Infrastructure Demand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-ollie-bargain-outlet-holdings-141015086.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/everus-construction-group-ecg-strengthens-142305939.html"
   }
  ],
  "inst": {
