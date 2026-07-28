@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 19:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 19:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 19.07,
-   "c": 2.14,
+   "p": 18.97,
+   "c": 1.61,
    "a50": 17.38,
-   "a200": 18.74,
+   "a200": 18.75,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.0,
-   "r": 56.3
+   "a20": 17.04,
+   "r": 56.0
   },
   {
    "s": "BZ=F",
-   "p": 86.38,
-   "c": -2.24,
-   "a50": 87.84,
+   "p": 86.58,
+   "c": -2.01,
+   "a50": 87.85,
    "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.23,
-   "r": 50.1
+   "a20": 83.24,
+   "r": 50.3
   },
   {
    "s": "GC=F",
-   "p": 4027.3,
-   "c": -1.16,
-   "a50": 4229.36,
+   "p": 4026.7,
+   "c": -1.17,
+   "a50": 4229.34,
    "a200": 4478.68,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.73,
-   "r": 43.3
+   "a20": 4067.7,
+   "r": 43.2
   },
   {
    "s": "HG=F",
    "p": 6.32,
-   "c": -0.29,
+   "c": -0.35,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 52.0
+   "r": 51.7
   },
   {
    "s": "TWDUSD",
    "p": 0.0308642,
-   "c": -0.24,
+   "c": -0.23,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280259.aspx"
   },
   {
-   "t": "Prediction: This Dividend ETF Will Thrive After 20 Years No Matter What the Market Does",
+   "t": "Mastercard and NBE introduce USD corporate debit card in Egypt",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/prediction-dividend-etf-thrive-20-105000083.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/mastercard-nbe-introduce-usd-corporate-110340043.html"
   }
  ],
  "inst": {
