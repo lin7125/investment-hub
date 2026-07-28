@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 03:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 03:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 339.48,
-   "c": 0.76,
-   "a50": 307.82,
+   "p": 339.25,
+   "c": 0.69,
+   "a50": 307.81,
    "a200": 276.79,
-   "yh": 339.48,
+   "yh": 339.25,
    "yl": 202.38,
-   "a20": 319.93,
-   "r": 68.6
+   "a20": 319.92,
+   "r": 68.5
   },
   {
    "s": "NVDA",
-   "p": 197.51,
-   "c": 0.51,
+   "p": 197.43,
+   "c": 0.47,
    "a50": 207.83,
    "a200": 193.01,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.66,
+   "a20": 203.65,
    "r": 43.4
   },
   {
    "s": "TSLA",
-   "p": 306.06,
-   "c": -1.02,
+   "p": 306.03,
+   "c": -1.03,
    "a50": 397.09,
    "a200": 413.43,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 594.71,
-   "c": 0.14,
-   "a50": 605.14,
-   "a200": 636.86,
+   "p": 593.55,
+   "c": -0.05,
+   "a50": 605.12,
+   "a200": 636.85,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 624.76,
-   "r": 43.8
+   "a20": 624.7,
+   "r": 43.4
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7441.13,
-   "c": 0.38,
-   "a50": 7471.98,
-   "a200": 7009.37,
+   "p": 7437.78,
+   "c": 0.33,
+   "a50": 7471.91,
+   "a200": 7009.35,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7494.31,
-   "r": 47.6
+   "a20": 7494.14,
+   "r": 47.3
   },
   {
    "s": "^VIX",
-   "p": 18.21,
-   "c": -2.46,
+   "p": 18.2,
+   "c": -2.52,
    "a50": 17.37,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.95,
-   "r": 53.1
+   "r": 53.0
   },
   {
    "s": "BZ=F",
-   "p": 84.05,
-   "c": -4.88,
+   "p": 83.97,
+   "c": -4.97,
    "a50": 87.79,
    "a200": 80.25,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 83.11,
-   "r": 47.3
+   "r": 47.2
   },
   {
    "s": "GC=F",
-   "p": 4022.9,
-   "c": -1.27,
-   "a50": 4229.27,
-   "a200": 4478.66,
+   "p": 4024.3,
+   "c": -1.23,
+   "a50": 4229.3,
+   "a200": 4478.67,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.51,
-   "r": 43.0
+   "a20": 4067.58,
+   "r": 43.1
   },
   {
    "s": "HG=F",
    "p": 6.34,
-   "c": -0.04,
+   "c": -0.03,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280371.aspx"
   },
   {
-   "t": "Roth IRAs offer tax-free retirement income — but for some retirees, a traditional IRA saves more money",
+   "t": "What to Expect From Hewlett Packard Enterprise's Next Quarterly Earnings Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/roth-iras-offer-tax-free-100000479.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/expect-hewlett-packard-enterprises-next-101152076.html"
   },
   {
    "t": "英國美食大賞　台灣原民部落苦茶油獲卓越星級獎章",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280370.aspx"
   },
   {
-   "t": "27-year-old NYC locksmith spent $7,000 to launch her business — then one TikTok brought in 60 jobs a week",
+   "t": "Should You Buy Lockheed Martin After Its Strong Q2 Earnings Rally?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/27-old-nyc-locksmith-spent-100000048.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/buy-lockheed-martin-strong-q2-102651148.html"
   },
   {
    "t": "今彩539第115182期　頭獎2注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280358.aspx"
   },
   {
-   "t": "Best CD rates today, Monday, July 27, 2026: Lock in up to 4.20% APY",
+   "t": "A paid-off inherited home can still cost thousands per month — attorneys explain how to protect yourself",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-27-2026-lock-in-up-to-420-apy-100000874.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/paid-off-inherited-home-still-103000569.html"
   },
   {
    "t": "大樂透頭獎9.1億元1注獨得　獎落北市松山",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280357.aspx"
   },
   {
-   "t": "What time is this week's Fed meeting?",
+   "t": "Shein will struggle to justify up to $50 billion Hong Kong IPO valuation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-time-is-this-weeks-fed-meeting-120032072.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/shein-struggle-justify-40-50-103111229.html"
   },
   {
    "t": "傳Visa裁員約2600人　占全球員工7%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280356.aspx"
   },
   {
-   "t": "U.S. markets eye earnings season as Middle East tensions ease: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+   "t": "Oil prices tumble as U.S.-Iran tensions show signs of easing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/u-markets-eye-earnings-season-095326735.html"
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-tumble-u-iran-101038467.html"
   }
  ],
  "inst": {
