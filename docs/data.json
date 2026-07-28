@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 04:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 04:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.9,
-   "c": -5.05,
+   "p": 83.95,
+   "c": -4.99,
    "a50": 87.79,
    "a200": 80.25,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4026.3,
-   "c": -1.18,
-   "a50": 4229.34,
+   "p": 4027.3,
+   "c": -1.16,
+   "a50": 4229.36,
    "a200": 4478.68,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.68,
-   "r": 43.2
+   "a20": 4067.73,
+   "r": 43.3
   },
   {
    "s": "HG=F",
    "p": 6.34,
-   "c": -0.05,
+   "c": 0.02,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 52.8
+   "r": 53.0
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280370.aspx"
   },
   {
-   "t": "Tapping into your 401(k) to buy out your home during a divorce could cost you long term. Here's what expert advise",
+   "t": "Intuit (INTU) Lost Appeal on AI Disruption and Earnings Concerns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/tapping-401-k-buy-home-113000703.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-lost-appeal-ai-115638804.html"
   },
   {
    "t": "今彩539第115182期　頭獎2注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280358.aspx"
   },
   {
-   "t": "Mag 7 Q2 Earnings Haven’t Been So ‘Magnificent.’ What META, MSFT, and AMZN Need to Report to Turn the Tide.",
+   "t": "$25 billion in World Cup prediction market bets and the IRS still hasn't said how winnings are taxed",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mag-7-q2-earnings-haven-113002049.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/25-billion-world-cup-prediction-120000884.html"
   },
   {
    "t": "大樂透頭獎9.1億元1注獨得　獎落北市松山",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280357.aspx"
   },
   {
-   "t": "Meet The 2 S&P 500 CEOs Paid Less Than $500 A Year",
+   "t": "Saudi PE dealmaking bounces back from 2025 trough",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/etfs-and-funds/sectors/sp500-meet-the-2-ceos-paid-less-than-500-a-year/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/small-business/articles/saudi-pe-dealmaking-bounces-back-120221006.html"
   },
   {
    "t": "傳Visa裁員約2600人　占全球員工7%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280356.aspx"
   },
   {
-   "t": "Analyst Report: Brown & Brown Inc",
+   "t": "Analyst Report: SLB Ltd",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_3918_AnalystReport_1785261961000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_3392_AnalystReport_1785261961000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
