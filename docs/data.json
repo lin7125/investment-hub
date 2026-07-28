@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 20:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 20:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,56 +278,56 @@
   },
   {
    "s": "^VIX",
-   "p": 18.89,
-   "c": 1.18,
+   "p": 18.81,
+   "c": 0.75,
    "a50": 17.38,
-   "a200": 18.74,
+   "a200": 18.75,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.99,
-   "r": 55.7
+   "a20": 17.03,
+   "r": 55.4
   },
   {
    "s": "BZ=F",
-   "p": 87.09,
-   "c": -1.44,
-   "a50": 87.86,
+   "p": 86.85,
+   "c": -1.71,
+   "a50": 87.85,
    "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.27,
-   "r": 51.0
+   "a20": 83.25,
+   "r": 50.7
   },
   {
    "s": "GC=F",
-   "p": 4026.5,
-   "c": -1.18,
-   "a50": 4229.34,
+   "p": 4025.9,
+   "c": -1.19,
+   "a50": 4229.33,
    "a200": 4478.68,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.69,
+   "a20": 4067.66,
    "r": 43.2
   },
   {
    "s": "HG=F",
-   "p": 6.31,
-   "c": -0.47,
+   "p": 6.33,
+   "c": -0.21,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 51.4
+   "r": 52.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03088326,
-   "c": -0.19,
+   "p": 0.03087373,
+   "c": -0.22,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
-   "yl": 0.030883
+   "yl": 0.030874
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280275.aspx"
   },
   {
-   "t": "Earnings live: LVMH sales grow as US luxury shoppers boost results",
+   "t": "Silver prices today, Tuesday, July 28, 2026: Silver edges lower ahead of today's Fed meeting",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/earnings-live-lvmh-sales-grow-as-us-luxury-shoppers-boost-results-115207214.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-28-2026-silver-edges-lower-ahead-of-todays-fed-meeting-120508650.html"
   },
   {
    "t": "健生擬8月3日興櫃　強攻智慧車載視覺方案",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280271.aspx"
   },
   {
-   "t": "Gold prices today, Tuesday, July 28, 2026: Gold remains below $4,100 ahead of Fed meeting",
+   "t": "Earnings live: PayPal stock slides amid turnaround, Corning plunges",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-28-2026-gold-remains-below-4100-ahead-of-fed-meeting-114031587.html"
+   "u": "https://finance.yahoo.com/markets/live/earnings-live-paypal-stock-slides-amid-turnaround-corning-plunges-115207214.html"
   },
   {
    "t": "大聯大通過處分日電貿1892張　出清持股",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280268.aspx"
   },
   {
-   "t": "Brookfield sees 6.5 GW of AI data-centre capacity coming online in India",
+   "t": "Microsoft to report Q4 earnings as investors look for return on AI investments",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/brookfield-sees-6-5-gw-113832545.html"
+   "u": "https://finance.yahoo.com/technology/article/microsoft-to-report-q4-earnings-as-investors-look-for-return-on-ai-investments-120144134.html"
   },
   {
    "t": "精測第2季獲利續創新高　連2季賺逾1個資本額",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280262.aspx"
   },
   {
-   "t": "Boeing posts larger-than-expected Q2 loss as Air Force One costs rise",
+   "t": "India's June industrial output grows fastest in nearly two years on manufacturing boost",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/boeing-posts-larger-expected-q2-113401112.html"
+   "u": "https://finance.yahoo.com/news/indias-june-industrial-output-grows-105612790.html"
   },
   {
    "t": "外資賣超台股875億　法人：橫盤築底觀察半年線支撐",
