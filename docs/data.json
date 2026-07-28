@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 18:26（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 18:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 18.98,
-   "c": 1.66,
+   "p": 18.94,
+   "c": 1.45,
    "a50": 17.38,
-   "a200": 18.75,
+   "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.04,
-   "r": 56.0
+   "a20": 16.99,
+   "r": 55.8
   },
   {
    "s": "BZ=F",
-   "p": 86.15,
-   "c": -2.5,
+   "p": 86.45,
+   "c": -2.16,
    "a50": 87.84,
-   "a200": 80.26,
+   "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.22,
-   "r": 49.8
+   "a20": 83.23,
+   "r": 50.2
   },
   {
    "s": "GC=F",
-   "p": 4024.9,
-   "c": -1.22,
-   "a50": 4229.31,
-   "a200": 4478.67,
+   "p": 4018.0,
+   "c": -1.39,
+   "a50": 4229.17,
+   "a200": 4478.64,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.61,
-   "r": 43.1
+   "a20": 4067.27,
+   "r": 42.7
   },
   {
    "s": "HG=F",
-   "p": 6.32,
-   "c": -0.28,
+   "p": 6.31,
+   "c": -0.39,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 52.0
+   "r": 51.6
   },
   {
    "s": "TWDUSD",
    "p": 0.0308642,
-   "c": -0.22,
+   "c": -0.24,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aipl/202607280210.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
+   "t": "Mercedes gets shares boost on stable second quarter despite China woes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
+   "u": "https://finance.yahoo.com/news/mercedes-cuts-sales-outlook-weak-064932045.html"
   },
   {
    "t": "仁寶啟動員工持股信託　提存等額獎勵金留才",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280202.aspx"
   },
   {
-   "t": "Best high-yield savings interest rates today, Tuesday, July 28, 2026: You can earn up to 4.15% APY",
+   "t": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-july-28-2026-you-can-earn-up-to-415-apy-100000612.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
   },
   {
    "t": "日本熊本地震　台積電：JASM廠區啟動人員疏散",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280192.aspx"
   },
   {
-   "t": "HELOC and home equity loan rates today, Tuesday, July 28, 2026: Besides rates, how to choose between a HELOC or HEL",
+   "t": "Best high-yield savings interest rates today, Tuesday, July 28, 2026: You can earn up to 4.15% APY",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-july-28-2026-besides-rates-how-to-choose-between-a-heloc-or-hel-100000292.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-july-28-2026-you-can-earn-up-to-415-apy-100000612.html"
   },
   {
    "t": "新台幣貶7.9分　收32.384元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280191.aspx"
   },
   {
-   "t": "US distributor RNDC files for Chapter 11",
+   "t": "Eat Happy, Hana finalise sushi merger",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/us-distributor-rndc-files-chapter-101404576.html"
+   "u": "https://finance.yahoo.com/small-business/articles/eat-happy-hana-finalise-sushi-102402982.html"
   }
  ],
  "inst": {
