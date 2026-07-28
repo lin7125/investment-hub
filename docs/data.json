@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 18:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 18:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 18.94,
-   "c": 1.45,
+   "p": 18.85,
+   "c": 0.96,
    "a50": 17.38,
-   "a200": 18.74,
+   "a200": 18.75,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.99,
-   "r": 55.8
+   "a20": 17.03,
+   "r": 55.5
   },
   {
    "s": "BZ=F",
-   "p": 86.45,
-   "c": -2.16,
+   "p": 86.5,
+   "c": -2.11,
    "a50": 87.84,
    "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.23,
+   "a20": 83.24,
    "r": 50.2
   },
   {
    "s": "GC=F",
-   "p": 4018.0,
-   "c": -1.39,
-   "a50": 4229.17,
-   "a200": 4478.64,
+   "p": 4021.7,
+   "c": -1.3,
+   "a50": 4229.24,
+   "a200": 4478.66,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.27,
-   "r": 42.7
+   "a20": 4067.45,
+   "r": 42.9
   },
   {
    "s": "HG=F",
    "p": 6.31,
-   "c": -0.39,
+   "c": -0.47,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 51.6
+   "r": 51.4
   },
   {
    "s": "TWDUSD",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "亞德客上調今年業績成長　電子電池車用拉貨看佳",
+   "t": "製造業表現分歧　央行：傳產受中國低價傾銷與美關稅夾擊",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280216.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607280281.aspx"
   },
   {
    "t": "52-year-old international restaurant chain closing all locations",
@@ -344,10 +344,34 @@
    "u": "https://finance.yahoo.com/small-business/articles/52-old-international-restaurant-chain-145707525.html"
   },
   {
-   "t": "外交部宣布停止進口巴紐現貨天然氣　經部：配合辦理",
+   "t": "中光電：第2季虧損收斂　第3季缺料問題仍是變數",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/aipl/202607280210.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607280275.aspx"
+  },
+  {
+   "t": "Fitch warns AI market correction emerging as major global credit risk",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/technology/ai/articles/fitch-warns-ai-market-correction-103630010.html"
+  },
+  {
+   "t": "健生擬8月3日興櫃　強攻智慧車載視覺方案",
+   "pub": "中央社財經",
+   "d": "2026-07-28",
+   "u": "https://www.cna.com.tw/news/afe/202607280271.aspx"
+  },
+  {
+   "t": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/technology/ai/articles/amazon-winds-down-most-flagship-103406019.html"
+  },
+  {
+   "t": "大聯大通過處分日電貿1892張　出清持股",
+   "pub": "中央社財經",
+   "d": "2026-07-28",
+   "u": "https://www.cna.com.tw/news/afe/202607280268.aspx"
   },
   {
    "t": "Mercedes gets shares boost on stable second quarter despite China woes",
@@ -356,10 +380,10 @@
    "u": "https://finance.yahoo.com/news/mercedes-cuts-sales-outlook-weak-064932045.html"
   },
   {
-   "t": "仁寶啟動員工持股信託　提存等額獎勵金留才",
+   "t": "精測第2季獲利續創新高　連2季賺逾1個資本額",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280202.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607280262.aspx"
   },
   {
    "t": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
@@ -368,40 +392,16 @@
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
   },
   {
-   "t": "日本熊本地震　台積電：JASM廠區啟動人員疏散",
+   "t": "外資賣超台股875億　法人：橫盤築底觀察半年線支撐",
    "pub": "中央社財經",
    "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280201.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607280259.aspx"
   },
   {
-   "t": "Mortgage and refinance interest rates today, Tuesday, July 28, 2026: Rates lower as fighting in Iran on pause",
+   "t": "FAA Says Airlines Should Check Seat Installation on Some Boeing Planes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-28-2026-rates-lower-as-fighting-in-iran-on-pause-100000181.html"
-  },
-  {
-   "t": "AI疑慮引發科技股賣壓　韓股收盤重挫逾10%",
-   "pub": "中央社財經",
-   "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280192.aspx"
-  },
-  {
-   "t": "Best high-yield savings interest rates today, Tuesday, July 28, 2026: You can earn up to 4.15% APY",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-july-28-2026-you-can-earn-up-to-415-apy-100000612.html"
-  },
-  {
-   "t": "新台幣貶7.9分　收32.384元",
-   "pub": "中央社財經",
-   "d": "2026-07-28",
-   "u": "https://www.cna.com.tw/news/afe/202607280191.aspx"
-  },
-  {
-   "t": "Eat Happy, Hana finalise sushi merger",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/eat-happy-hana-finalise-sushi-102402982.html"
+   "u": "https://www.wsj.com/business/airlines/u-s-regulator-says-airlines-should-check-seat-installation-on-some-boeing-models-0ff06e11?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
