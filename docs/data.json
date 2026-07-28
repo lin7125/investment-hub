@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 02:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 03:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 339.41,
-   "c": 0.74,
+   "p": 339.48,
+   "c": 0.76,
    "a50": 307.82,
    "a200": 276.79,
-   "yh": 339.41,
+   "yh": 339.48,
    "yl": 202.38,
    "a20": 319.93,
    "r": 68.6
   },
   {
    "s": "NVDA",
-   "p": 197.15,
-   "c": 0.33,
+   "p": 197.51,
+   "c": 0.51,
    "a50": 207.83,
-   "a200": 193.0,
+   "a200": 193.01,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.64,
-   "r": 43.1
+   "a20": 203.66,
+   "r": 43.4
   },
   {
    "s": "TSLA",
-   "p": 306.42,
-   "c": -0.9,
-   "a50": 397.1,
+   "p": 306.06,
+   "c": -1.02,
+   "a50": 397.09,
    "a200": 413.43,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 379.93,
-   "r": 26.9
+   "a20": 379.91,
+   "r": 26.8
   },
   {
    "s": "META",
-   "p": 594.16,
-   "c": 0.05,
-   "a50": 605.13,
+   "p": 594.71,
+   "c": 0.14,
+   "a50": 605.14,
    "a200": 636.86,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 624.73,
-   "r": 43.6
+   "a20": 624.76,
+   "r": 43.8
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7438.56,
-   "c": 0.34,
-   "a50": 7471.92,
-   "a200": 7009.36,
+   "p": 7441.13,
+   "c": 0.38,
+   "a50": 7471.98,
+   "a200": 7009.37,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7494.18,
-   "r": 47.4
+   "a20": 7494.31,
+   "r": 47.6
   },
   {
    "s": "^VIX",
-   "p": 18.38,
-   "c": -1.55,
+   "p": 18.21,
+   "c": -2.46,
    "a50": 17.37,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.96,
-   "r": 53.8
+   "a20": 16.95,
+   "r": 53.1
   },
   {
    "s": "BZ=F",
-   "p": 84.11,
-   "c": -4.81,
-   "a50": 87.8,
+   "p": 84.05,
+   "c": -4.88,
+   "a50": 87.79,
    "a200": 80.25,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.12,
-   "r": 47.4
+   "a20": 83.11,
+   "r": 47.3
   },
   {
    "s": "GC=F",
-   "p": 4025.3,
-   "c": -1.21,
-   "a50": 4229.32,
-   "a200": 4478.67,
+   "p": 4022.9,
+   "c": -1.27,
+   "a50": 4229.27,
+   "a200": 4478.66,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.63,
-   "r": 43.2
+   "a20": 4067.51,
+   "r": 43.0
   },
   {
    "s": "HG=F",
    "p": 6.34,
-   "c": -0.05,
+   "c": -0.04,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.0308928,
-   "c": -0.15,
+   "c": -0.14,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280371.aspx"
   },
   {
-   "t": "Why Did Northrop Grumman (NOC) Fall After Raising Its 2026 Forecast?",
+   "t": "Roth IRAs offer tax-free retirement income — but for some retirees, a traditional IRA saves more money",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-did-northrop-grumman-noc-094444080.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/roth-iras-offer-tax-free-100000479.html"
   },
   {
    "t": "英國美食大賞　台灣原民部落苦茶油獲卓越星級獎章",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280370.aspx"
   },
   {
-   "t": "Some retirees are choosing to never sell their home — and the reasons are both logical and grim",
+   "t": "27-year-old NYC locksmith spent $7,000 to launch her business — then one TikTok brought in 60 jobs a week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/retirees-choosing-never-sell-home-093000062.html"
+   "u": "https://finance.yahoo.com/small-business/articles/27-old-nyc-locksmith-spent-100000048.html"
   },
   {
    "t": "今彩539第115182期　頭獎2注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280357.aspx"
   },
   {
-   "t": "27-year-old NYC locksmith spent $7,000 to launch her business — then one TikTok brought in 60 jobs a week",
+   "t": "What time is this week's Fed meeting?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/27-old-nyc-locksmith-spent-100000048.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-time-is-this-weeks-fed-meeting-120032072.html"
   },
   {
    "t": "傳Visa裁員約2600人　占全球員工7%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280356.aspx"
   },
   {
-   "t": "EU approves Saica’s acquisition of Thimm plants in four countries",
+   "t": "U.S. markets eye earnings season as Middle East tensions ease: Dow Jones, S&P, Nasdaq, Wall Street Futures",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/eu-approves-saica-acquisition-thimm-094620555.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/u-markets-eye-earnings-season-095326735.html"
   }
  ],
  "inst": {
