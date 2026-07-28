@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 18:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 19:07（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 19.05,
-   "c": 2.04,
-   "a50": 17.39,
-   "a200": 18.75,
+   "p": 19.07,
+   "c": 2.14,
+   "a50": 17.38,
+   "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.04,
-   "r": 56.2
+   "a20": 17.0,
+   "r": 56.3
   },
   {
    "s": "BZ=F",
-   "p": 86.39,
-   "c": -2.23,
+   "p": 86.38,
+   "c": -2.24,
    "a50": 87.84,
    "a200": 80.27,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4024.3,
-   "c": -1.23,
-   "a50": 4229.3,
-   "a200": 4478.67,
+   "p": 4027.3,
+   "c": -1.16,
+   "a50": 4229.36,
+   "a200": 4478.68,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.58,
-   "r": 43.1
+   "a20": 4067.73,
+   "r": 43.3
   },
   {
    "s": "HG=F",
-   "p": 6.31,
-   "c": -0.4,
+   "p": 6.32,
+   "c": -0.29,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 51.6
+   "r": 52.0
   },
   {
    "s": "TWDUSD",
    "p": 0.0308642,
-   "c": -0.23,
+   "c": -0.24,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280275.aspx"
   },
   {
-   "t": "Mercedes gets shares boost on stable second quarter despite China woes",
+   "t": "Morning Bid: Chip rout snowballs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/mercedes-cuts-sales-outlook-weak-064932045.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-chip-rout-snowballs-103825154.html"
   },
   {
    "t": "健生擬8月3日興櫃　強攻智慧車載視覺方案",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280271.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
+   "t": "Fitch warns AI market correction emerging as major global credit risk",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/fitch-warns-ai-market-correction-103630010.html"
   },
   {
    "t": "大聯大通過處分日電貿1892張　出清持股",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280268.aspx"
   },
   {
-   "t": "FAA Says Airlines Should Check Seat Installation on Some Boeing Planes",
+   "t": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-28-2026-rates-lower-as-fighting-in-iran-on-pause-100000181.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/amazon-winds-down-most-flagship-103406019.html"
   },
   {
    "t": "精測第2季獲利續創新高　連2季賺逾1個資本額",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280262.aspx"
   },
   {
-   "t": "HELOC and home equity loan rates today, Tuesday, July 28, 2026: Besides rates, how to choose between a HELOC or HEL",
+   "t": "Mercedes gets shares boost on stable second quarter despite China woes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-july-28-2026-besides-rates-how-to-choose-between-a-heloc-or-hel-100000292.html"
+   "u": "https://finance.yahoo.com/news/mercedes-cuts-sales-outlook-weak-064932045.html"
   },
   {
    "t": "外資賣超台股875億　法人：橫盤築底觀察半年線支撐",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280259.aspx"
   },
   {
-   "t": "Eat Happy, Hana finalise sushi merger",
+   "t": "Prediction: This Dividend ETF Will Thrive After 20 Years No Matter What the Market Does",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/eat-happy-hana-finalise-sushi-102402982.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/prediction-dividend-etf-thrive-20-105000083.html"
   }
  ],
  "inst": {
