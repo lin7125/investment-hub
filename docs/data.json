@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 21:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 21:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 341.38,
-   "c": 1.33,
-   "a50": 307.86,
-   "a200": 276.8,
-   "yh": 341.38,
+   "p": 338.98,
+   "c": 0.61,
+   "a50": 307.81,
+   "a200": 276.79,
+   "yh": 338.98,
    "yl": 202.38,
-   "a20": 320.02,
-   "r": 69.5
+   "a20": 319.9,
+   "r": 68.4
   },
   {
    "s": "NVDA",
-   "p": 194.19,
-   "c": -1.18,
-   "a50": 207.77,
+   "p": 194.9,
+   "c": -0.82,
+   "a50": 207.78,
    "a200": 192.99,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.49,
-   "r": 40.8
+   "a20": 203.53,
+   "r": 41.3
   },
   {
    "s": "TSLA",
-   "p": 304.78,
-   "c": -1.44,
-   "a50": 397.07,
+   "p": 305.36,
+   "c": -1.25,
+   "a50": 397.08,
    "a200": 413.42,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 379.85,
-   "r": 26.6
+   "a20": 379.87,
+   "r": 26.7
   },
   {
    "s": "META",
-   "p": 597.83,
-   "c": 0.67,
-   "a50": 605.21,
-   "a200": 636.88,
+   "p": 596.21,
+   "c": 0.39,
+   "a50": 605.17,
+   "a200": 636.87,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 624.91,
-   "r": 44.8
+   "a20": 624.83,
+   "r": 44.3
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7409.94,
-   "c": -0.04,
-   "a50": 7471.35,
-   "a200": 7009.22,
+   "p": 7402.89,
+   "c": -0.14,
+   "a50": 7471.21,
+   "a200": 7009.18,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7492.75,
-   "r": 44.7
+   "a20": 7492.39,
+   "r": 44.2
   },
   {
    "s": "^VIX",
-   "p": 18.67,
-   "c": 0.48,
-   "a50": 17.39,
-   "a200": 18.73,
+   "p": 18.61,
+   "c": -0.32,
+   "a50": 17.38,
+   "a200": 18.75,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.97,
-   "r": 54.9
+   "a20": 17.02,
+   "r": 54.6
   },
   {
    "s": "BZ=F",
-   "p": 86.68,
-   "c": -1.9,
-   "a50": 87.85,
-   "a200": 80.27,
+   "p": 86.29,
+   "c": -2.34,
+   "a50": 87.84,
+   "a200": 80.26,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.24,
-   "r": 50.4
+   "a20": 83.23,
+   "r": 50.0
   },
   {
    "s": "GC=F",
-   "p": 4033.0,
-   "c": -1.02,
-   "a50": 4229.47,
-   "a200": 4478.71,
+   "p": 4029.5,
+   "c": -1.1,
+   "a50": 4229.4,
+   "a200": 4478.69,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4068.02,
-   "r": 43.6
+   "a20": 4067.84,
+   "r": 43.4
   },
   {
    "s": "HG=F",
    "p": 6.32,
-   "c": -0.25,
+   "c": -0.32,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 52.1
+   "r": 51.9
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280342.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens, but Dow rises",
+   "t": "Advanced Micro Devices (AMD) Surged on an Agentic AI-Driven Server CPU Renaissance",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-surged-132709500.html"
   },
   {
    "t": "金管會：7銀行申請內部評等法過關　今年第4季適用",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280340.aspx"
   },
   {
-   "t": "McDonald’s Corporation (MCD) Fell as Rising Beef Prices Weighed on Sentiment",
+   "t": "Chevron Corporation (CVX) Remains Well Placed to Benefit From High Commodity Prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-corporation-mcd-fell-rising-131046197.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chevron-corporation-cvx-remains-well-131455654.html"
   },
   {
    "t": "大樂透第115074期開獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280338.aspx"
   },
   {
-   "t": "Why this analyst is down on Apple stock even as it hovers near record highs",
+   "t": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens, but Dow rises",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/why-this-analyst-is-down-on-apple-stock-even-as-it-hovers-near-record-highs-130907412.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html"
   },
   {
    "t": "今彩539第115182期開獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280336.aspx"
   },
   {
-   "t": "Accenture (ACN) Faces Growth Concerns",
+   "t": "Lam Research Corporation (LRCX) Rose on Strong Semiconductor Capital Spending",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-faces-growth-concerns-130846610.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-rose-131350670.html"
   },
   {
    "t": "大豐電：大大寬頻規劃第3季遞件申請上市",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280334.aspx"
   },
   {
-   "t": "Nvidia to invest billions in Ilya Sutskever’s AI venture",
+   "t": "Visa layoffs 2026: company cutting 7% of workforce",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-invest-billions-ilya-sutskever-131959209.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/visa-layoffs-2026-company-cutting-132330377.html"
   }
  ],
  "inst": {
