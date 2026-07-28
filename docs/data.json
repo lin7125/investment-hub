@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 22:22（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 22:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 337.86,
-   "c": 0.28,
-   "a50": 307.79,
+   "p": 338.36,
+   "c": 0.43,
+   "a50": 307.8,
    "a200": 276.78,
-   "yh": 337.86,
+   "yh": 338.36,
    "yl": 202.38,
-   "a20": 319.85,
-   "r": 67.8
+   "a20": 319.87,
+   "r": 68.0
   },
   {
    "s": "NVDA",
-   "p": 193.49,
-   "c": -1.54,
-   "a50": 207.75,
+   "p": 194.62,
+   "c": -0.96,
+   "a50": 207.78,
    "a200": 192.99,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.46,
-   "r": 40.3
+   "a20": 203.51,
+   "r": 41.1
   },
   {
    "s": "TSLA",
-   "p": 301.77,
-   "c": -2.41,
+   "p": 302.15,
+   "c": -2.29,
    "a50": 397.01,
-   "a200": 413.4,
+   "a200": 413.41,
    "yh": 489.88,
-   "yl": 301.77,
-   "a20": 379.7,
+   "yl": 302.15,
+   "a20": 379.71,
    "r": 26.1
   },
   {
    "s": "META",
-   "p": 593.6,
-   "c": -0.05,
-   "a50": 605.12,
+   "p": 593.17,
+   "c": -0.12,
+   "a50": 605.11,
    "a200": 636.85,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 624.7,
-   "r": 43.4
+   "a20": 624.68,
+   "r": 43.3
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7396.71,
-   "c": -0.22,
-   "a50": 7469.3,
-   "a200": 7012.44,
+   "p": 7400.88,
+   "c": -0.17,
+   "a50": 7469.38,
+   "a200": 7012.46,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7490.66,
-   "r": 43.6
+   "a20": 7490.87,
+   "r": 43.9
   },
   {
    "s": "^VIX",
-   "p": 18.86,
-   "c": 1.02,
+   "p": 19.0,
+   "c": 1.77,
    "a50": 17.38,
    "a200": 18.75,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.03,
-   "r": 55.6
+   "a20": 17.04,
+   "r": 56.1
   },
   {
    "s": "BZ=F",
-   "p": 87.09,
-   "c": -1.44,
-   "a50": 87.86,
+   "p": 86.63,
+   "c": -1.96,
+   "a50": 87.85,
    "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.27,
-   "r": 51.0
+   "a20": 83.24,
+   "r": 50.4
   },
   {
    "s": "GC=F",
-   "p": 4031.9,
-   "c": -1.05,
-   "a50": 4229.45,
-   "a200": 4478.71,
+   "p": 4012.9,
+   "c": -1.51,
+   "a50": 4229.07,
+   "a200": 4478.61,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.96,
-   "r": 43.6
+   "a20": 4067.01,
+   "r": 42.4
   },
   {
    "s": "HG=F",
-   "p": 6.33,
-   "c": -0.16,
+   "p": 6.31,
+   "c": -0.39,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 52.4
+   "r": 51.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03088326,
-   "c": -0.17,
+   "p": 0.0308928,
+   "c": -0.13,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280346.aspx"
   },
   {
-   "t": "Chip stock rout sends investors rushing back to bruised Alphabet stock",
+   "t": "Boeing Shares Fight To Regain Support After Q2 Results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/chip-stock-rout-sends-investors-rushing-back-to-bruised-alphabet-stock-140503906.html"
+   "u": "https://www.investors.com/news/boeing-stock-earnings-q2-2026-supply-chain-deliveries-certification-dow-jones/?src=A00220&yptr=yahoo"
   },
   {
    "t": "易威：股份轉換完成　健亞終止上櫃成全資子公司",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280345.aspx"
   },
   {
-   "t": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
+   "t": "Fed meeting live: Federal Reserve expected to hold rates steady, but Iran war adds tension",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html"
+   "u": "https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html"
   },
   {
    "t": "X平台在美推X Money銀行服務　馬斯克擬打造萬能App",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280343.aspx"
   },
   {
-   "t": "US goods trade deficit contracts, still expected to subtract from Q2 GDP growth",
+   "t": "Paypal stock rises as CEO keeps door open on potential deals",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/us-goods-trade-deficit-contracts-125003300.html"
+   "u": "https://finance.yahoo.com/markets/article/paypal-stock-rises-as-ceo-keeps-door-open-on-potential-deals-141554191.html"
   },
   {
    "t": "上銀：義大利子公司遭駭客網路攻擊　營運無重大影響",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280342.aspx"
   },
   {
-   "t": "How 3 homeowners did the refinance math, and why they say it was worth it",
+   "t": "Aris Mining Corporation (ARIS): An Undervalued Opportunity with Huge Upside?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/3-homeowners-did-refinance-math-135000719.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/aris-mining-corporation-aris-undervalued-141238101.html"
   },
   {
    "t": "金管會：7銀行申請內部評等法過關　今年第4季適用",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280340.aspx"
   },
   {
-   "t": "US distributor RNDC files for Chapter 11",
+   "t": "Austral Resources ends Anthill agreement with Glencore and Secover",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/us-distributor-rndc-files-chapter-101404576.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/austral-resources-ends-anthill-agreement-142328909.html"
   }
  ],
  "inst": {
