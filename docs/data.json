@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 03:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 03:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 339.18,
-   "c": 0.67,
-   "a50": 307.81,
+   "p": 339.69,
+   "c": 0.83,
+   "a50": 307.82,
    "a200": 276.79,
-   "yh": 339.18,
+   "yh": 339.69,
    "yl": 202.38,
-   "a20": 319.91,
-   "r": 68.5
+   "a20": 319.94,
+   "r": 68.7
   },
   {
    "s": "NVDA",
-   "p": 197.95,
-   "c": 0.73,
-   "a50": 207.84,
-   "a200": 193.01,
+   "p": 197.09,
+   "c": 0.29,
+   "a50": 207.82,
+   "a200": 193.0,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.68,
-   "r": 43.9
+   "a20": 203.64,
+   "r": 43.0
   },
   {
    "s": "TSLA",
-   "p": 306.5,
-   "c": -0.88,
-   "a50": 397.1,
-   "a200": 413.43,
+   "p": 305.77,
+   "c": -1.12,
+   "a50": 397.09,
+   "a200": 413.42,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 379.93,
-   "r": 26.9
+   "a20": 379.9,
+   "r": 26.7
   },
   {
    "s": "META",
-   "p": 593.69,
-   "c": -0.03,
-   "a50": 605.12,
+   "p": 593.14,
+   "c": -0.12,
+   "a50": 605.11,
    "a200": 636.85,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 624.7,
-   "r": 43.5
+   "a20": 624.68,
+   "r": 43.3
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7439.68,
-   "c": 0.36,
-   "a50": 7471.95,
-   "a200": 7009.36,
+   "p": 7433.71,
+   "c": 0.28,
+   "a50": 7471.83,
+   "a200": 7009.33,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7494.23,
-   "r": 47.5
+   "a20": 7493.94,
+   "r": 46.9
   },
   {
    "s": "^VIX",
-   "p": 18.26,
-   "c": -2.2,
+   "p": 18.19,
+   "c": -2.57,
    "a50": 17.37,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.96,
-   "r": 53.3
+   "a20": 16.95,
+   "r": 53.0
   },
   {
    "s": "BZ=F",
-   "p": 83.86,
-   "c": -5.09,
+   "p": 83.72,
+   "c": -5.25,
    "a50": 87.79,
    "a200": 80.25,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 83.1,
-   "r": 47.1
+   "r": 47.0
   },
   {
    "s": "GC=F",
-   "p": 4024.2,
-   "c": -1.23,
-   "a50": 4229.29,
-   "a200": 4478.67,
+   "p": 4022.3,
+   "c": -1.28,
+   "a50": 4229.26,
+   "a200": 4478.66,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.58,
-   "r": 43.1
+   "a20": 4067.48,
+   "r": 43.0
   },
   {
    "s": "HG=F",
    "p": 6.34,
-   "c": 0.02,
+   "c": 0.08,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 53.0
+   "r": 53.2
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280371.aspx"
   },
   {
-   "t": "Should You Buy Lockheed Martin After Its Strong Q2 Earnings Rally?",
+   "t": "Shein will struggle to justify up to $50 billion Hong Kong IPO valuation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/buy-lockheed-martin-strong-q2-102651148.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/shein-struggle-justify-40-50-103111229.html"
   },
   {
    "t": "英國美食大賞　台灣原民部落苦茶油獲卓越星級獎章",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280370.aspx"
   },
   {
-   "t": "A paid-off inherited home can still cost thousands per month — attorneys explain how to protect yourself",
+   "t": "Should You Buy Lockheed Martin After Its Strong Q2 Earnings Rally?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/paid-off-inherited-home-still-103000569.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/buy-lockheed-martin-strong-q2-102651148.html"
   },
   {
    "t": "今彩539第115182期　頭獎2注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280358.aspx"
   },
   {
-   "t": "Shein will struggle to justify up to $50 billion Hong Kong IPO valuation",
+   "t": "A paid-off inherited home can still cost thousands per month — attorneys explain how to protect yourself",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/shein-struggle-justify-40-50-103111229.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/paid-off-inherited-home-still-103000569.html"
   },
   {
    "t": "大樂透頭獎9.1億元1注獨得　獎落北市松山",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280357.aspx"
   },
   {
-   "t": "Shein will struggle to justify $40-50 billion Hong Kong IPO valuation",
+   "t": "Stocks Set to Open Sharply Higher as Oil Prices Sink, Big Tech Earnings and Fed Meeting in Focus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/shein-struggle-justify-40-50-103706246.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-sharply-higher-103740534.html"
   },
   {
    "t": "傳Visa裁員約2600人　占全球員工7%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280356.aspx"
   },
   {
-   "t": "Analyst Report: Brown & Brown Inc",
+   "t": "Analyst Report: SLB Ltd",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_3918_AnalystReport_1785261961000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_3392_AnalystReport_1785261961000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
