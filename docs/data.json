@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 02:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 02:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 339.12,
-   "c": 0.66,
-   "a50": 307.81,
+   "p": 338.73,
+   "c": 0.54,
+   "a50": 307.8,
    "a200": 276.79,
-   "yh": 339.12,
+   "yh": 338.73,
    "yl": 202.38,
-   "a20": 319.91,
-   "r": 68.4
+   "a20": 319.89,
+   "r": 68.2
   },
   {
    "s": "NVDA",
-   "p": 197.13,
-   "c": 0.32,
+   "p": 197.29,
+   "c": 0.4,
    "a50": 207.83,
-   "a200": 193.0,
+   "a200": 193.01,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.64,
-   "r": 43.1
+   "a20": 203.65,
+   "r": 43.2
   },
   {
    "s": "TSLA",
-   "p": 306.9,
-   "c": -0.75,
+   "p": 306.81,
+   "c": -0.78,
    "a50": 397.11,
    "a200": 413.43,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 592.86,
-   "c": -0.17,
-   "a50": 605.11,
-   "a200": 636.85,
+   "p": 594.39,
+   "c": 0.09,
+   "a50": 605.14,
+   "a200": 636.86,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 624.66,
-   "r": 43.3
+   "a20": 624.74,
+   "r": 43.7
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7432.12,
-   "c": 0.26,
-   "a50": 7471.79,
-   "a200": 7009.33,
+   "p": 7437.07,
+   "c": 0.32,
+   "a50": 7471.89,
+   "a200": 7009.35,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7493.86,
-   "r": 46.8
+   "a20": 7494.1,
+   "r": 47.2
   },
   {
    "s": "^VIX",
-   "p": 18.39,
-   "c": -1.5,
+   "p": 18.43,
+   "c": -1.29,
    "a50": 17.37,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.96,
-   "r": 53.8
+   "r": 54.0
   },
   {
    "s": "BZ=F",
-   "p": 83.76,
-   "c": -5.21,
+   "p": 84.03,
+   "c": -4.9,
    "a50": 87.79,
    "a200": 80.25,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.1,
-   "r": 47.0
+   "a20": 83.11,
+   "r": 47.3
   },
   {
    "s": "GC=F",
-   "p": 4026.5,
-   "c": -1.18,
-   "a50": 4229.34,
-   "a200": 4478.68,
+   "p": 4023.8,
+   "c": -1.24,
+   "a50": 4229.29,
+   "a200": 4478.67,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.69,
-   "r": 43.2
+   "a20": 4067.56,
+   "r": 43.1
   },
   {
    "s": "HG=F",
-   "p": 6.33,
-   "c": -0.12,
+   "p": 6.34,
+   "c": -0.06,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 52.5
+   "r": 52.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03088326,
-   "c": -0.18,
+   "p": 0.0308928,
+   "c": -0.16,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280371.aspx"
   },
   {
-   "t": "Here's What to Expect From Dollar Tree's Next Earnings Report",
+   "t": "Some retirees are choosing to never sell their home — and the reasons are both logical and grim",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-dollar-trees-next-092336064.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/retirees-choosing-never-sell-home-093000062.html"
   },
   {
    "t": "英國美食大賞　台灣原民部落苦茶油獲卓越星級獎章",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280370.aspx"
   },
   {
-   "t": "Some retirees are choosing to never sell their home — and the reasons are both logical and grim",
+   "t": "Here's What to Expect From Dollar Tree's Next Earnings Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/retirees-choosing-never-sell-home-093000062.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-dollar-trees-next-092336064.html"
   },
   {
    "t": "今彩539第115182期　頭獎2注中獎",
