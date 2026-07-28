@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 19:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 19:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,56 +278,56 @@
   },
   {
    "s": "^VIX",
-   "p": 19.11,
-   "c": 2.36,
-   "a50": 17.39,
+   "p": 18.91,
+   "c": 1.29,
+   "a50": 17.38,
    "a200": 18.75,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.04,
-   "r": 56.4
+   "a20": 17.03,
+   "r": 55.8
   },
   {
    "s": "BZ=F",
-   "p": 86.35,
-   "c": -2.27,
-   "a50": 87.84,
-   "a200": 80.26,
+   "p": 86.57,
+   "c": -2.03,
+   "a50": 87.85,
+   "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.23,
-   "r": 50.0
+   "a20": 83.24,
+   "r": 50.3
   },
   {
    "s": "GC=F",
-   "p": 4028.3,
-   "c": -1.13,
-   "a50": 4229.38,
-   "a200": 4478.69,
+   "p": 4026.8,
+   "c": -1.17,
+   "a50": 4229.35,
+   "a200": 4478.68,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.78,
-   "r": 43.4
+   "a20": 4067.71,
+   "r": 43.3
   },
   {
    "s": "HG=F",
-   "p": 6.32,
-   "c": -0.35,
+   "p": 6.31,
+   "c": -0.53,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 51.7
+   "r": 51.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.0308642,
-   "c": -0.23,
+   "p": 0.03087373,
+   "c": -0.22,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
-   "yl": 0.030864
+   "yl": 0.030874
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280275.aspx"
   },
   {
-   "t": "PayPal presses on with turnaround in pivotal quarter as sale questions linger",
+   "t": "GSK launches $2.5 billion savings drive to boost drug pipeline",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/paypal-presses-turnaround-pivotal-quarter-110310369.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/gsk-beats-second-quarter-profit-111025882.html"
   },
   {
    "t": "健生擬8月3日興櫃　強攻智慧車載視覺方案",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280271.aspx"
   },
   {
-   "t": "Morning Bid: Chip rout snowballs",
+   "t": "Germany's deep tech edge drives acceleration in VC funding",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-chip-rout-snowballs-103825154.html"
+   "u": "https://finance.yahoo.com/small-business/articles/germanys-deep-tech-edge-drives-110633256.html"
   },
   {
    "t": "大聯大通過處分日電貿1892張　出清持股",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280268.aspx"
   },
   {
-   "t": "Fitch warns AI market correction emerging as major global credit risk",
+   "t": "PayPal presses on with turnaround in pivotal quarter as sale questions linger",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/fitch-warns-ai-market-correction-103630010.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/paypal-presses-turnaround-pivotal-quarter-110310369.html"
   },
   {
    "t": "精測第2季獲利續創新高　連2季賺逾1個資本額",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280262.aspx"
   },
   {
-   "t": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports",
+   "t": "Morning Bid: Chip rout snowballs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/amazon-winds-down-most-flagship-103406019.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-chip-rout-snowballs-103825154.html"
   },
   {
    "t": "外資賣超台股875億　法人：橫盤築底觀察半年線支撐",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280259.aspx"
   },
   {
-   "t": "Carby Label invests in fourth Lombardi press",
+   "t": "Most internal audit teams have untapped leadership talent – survey",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/carby-label-invests-fourth-lombardi-111414742.html"
+   "u": "https://finance.yahoo.com/small-business/articles/most-internal-audit-teams-untapped-112510690.html"
   }
  ],
  "inst": {
