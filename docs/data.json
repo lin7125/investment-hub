@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 20:39（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 20:50（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -258,12 +258,12 @@
    "s": "^TWII",
    "p": 41603.36,
    "c": -4.65,
-   "a50": 44614.56,
-   "a200": 34787.59,
+   "a50": 44564.91,
+   "a200": 34700.3,
    "yh": 47741.51,
    "yl": 23201.52,
-   "a20": 44954.6,
-   "r": 36.3
+   "a20": 45021.86,
+   "r": 36.8
   },
   {
    "s": "^GSPC",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 18.79,
-   "c": 0.64,
+   "p": 18.7,
+   "c": 0.16,
    "a50": 17.38,
-   "a200": 18.75,
+   "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.03,
-   "r": 55.3
+   "a20": 16.98,
+   "r": 55.0
   },
   {
    "s": "BZ=F",
-   "p": 87.1,
-   "c": -1.43,
-   "a50": 87.86,
+   "p": 86.53,
+   "c": -2.07,
+   "a50": 87.84,
    "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.27,
-   "r": 51.0
+   "a20": 83.24,
+   "r": 50.3
   },
   {
    "s": "GC=F",
-   "p": 4033.6,
-   "c": -1.0,
-   "a50": 4229.48,
-   "a200": 4478.71,
+   "p": 4027.9,
+   "c": -1.14,
+   "a50": 4229.37,
+   "a200": 4478.69,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4068.05,
-   "r": 43.7
+   "a20": 4067.76,
+   "r": 43.3
   },
   {
    "s": "HG=F",
-   "p": 6.33,
-   "c": -0.21,
+   "p": 6.31,
+   "c": -0.41,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 52.3
+   "r": 51.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03087373,
-   "c": -0.22,
+   "c": -0.21,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280275.aspx"
   },
   {
-   "t": "Centene lifts annual profit forecast on improved cost management",
+   "t": "Boeing Shares Fight To Regain Support; Q2 Results Don't Help",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/centene-raises-annual-profit-forecast-101126025.html"
+   "u": "https://www.investors.com/news/boeing-stock-earnings-q2-2026-supply-chain-deliveries-certification-dow-jones/?src=A00220&yptr=yahoo"
   },
   {
    "t": "健生擬8月3日興櫃　強攻智慧車載視覺方案",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280271.aspx"
   },
   {
-   "t": "Dave (DAVE) Lost Appeal as Valuation Became Too Expensive",
+   "t": "Coca-Cola raises earnings guidance as CFO says Diet Coke is having 'a moment'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dave-dave-lost-appeal-valuation-121737782.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/coca-cola-raises-earnings-guidance-as-cfo-says-diet-coke-is-having-a-moment-122638394.html"
   },
   {
    "t": "大聯大通過處分日電貿1892張　出清持股",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280268.aspx"
   },
   {
-   "t": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
+   "t": "What Makes Celsius Holdings (CELH) an Attractive Bet?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/makes-celsius-holdings-celh-attractive-122354305.html"
   },
   {
    "t": "精測第2季獲利續創新高　連2季賺逾1個資本額",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280262.aspx"
   },
   {
-   "t": "Meta to report Q2 earnings amid AI investing concerns",
+   "t": "World stocks hit one-month low as chip rout worsens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/meta-to-report-q2-earnings-amid-ai-investing-concerns-121325403.html"
+   "u": "https://finance.yahoo.com/news/ai-anxiety-sparks-tech-rout-023132715.html"
   },
   {
    "t": "外資賣超台股875億　法人：橫盤築底觀察半年線支撐",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280259.aspx"
   },
   {
-   "t": "Daily Spotlight: Min Vol: More than a Defensive Strategy",
+   "t": "Pentair Shares Drop After Revenue Miss Overshadows Earnings Beat",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_47749_MarketOutlook_1785238296000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/pentair-shares-drop-revenue-miss-122432807.html"
   }
  ],
  "inst": {
