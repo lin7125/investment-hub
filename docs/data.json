@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 05:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 05:11（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.73,
-   "c": -5.24,
+   "p": 83.76,
+   "c": -5.21,
    "a50": 87.79,
    "a200": 80.25,
    "yh": 118.35,
@@ -300,14 +300,14 @@
   },
   {
    "s": "GC=F",
-   "p": 4027.0,
-   "c": -1.17,
-   "a50": 4229.35,
-   "a200": 4478.68,
+   "p": 4028.8,
+   "c": -1.12,
+   "a50": 4229.39,
+   "a200": 4478.69,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.72,
-   "r": 43.3
+   "a20": 4067.81,
+   "r": 43.4
   },
   {
    "s": "HG=F",
@@ -323,9 +323,9 @@
   {
    "s": "TWDUSD",
    "p": 0.03090235,
-   "c": -0.18,
-   "a50": 0.0314169,
-   "a200": 0.03170577,
+   "c": -0.12,
+   "a50": 0.03142678,
+   "a200": 0.03171583,
    "yh": 0.033546,
    "yl": 0.030883
   }
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280370.aspx"
   },
   {
-   "t": "Cintas Corporation (CTAS) Looks Attractive After Weak Share Performance",
+   "t": "Amphenol Corporation (APH) Regains Appeal on an Improved Growth Outlook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cintas-corporation-ctas-looks-attractive-121124131.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amphenol-corporation-aph-regains-appeal-124459016.html"
   },
   {
    "t": "今彩539第115182期　頭獎2注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280358.aspx"
   },
   {
-   "t": "Earnings Preview: What To Expect From Oracle’s Report",
+   "t": "Abbott Laboratories (ABT) Fell as Guidance and Litigation Concerns Overshadowed Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-oracle-report-121449172.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/abbott-laboratories-abt-fell-guidance-124118455.html"
   },
   {
    "t": "大樂透頭獎9.1億元1注獨得　獎落北市松山",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280357.aspx"
   },
   {
-   "t": "Alphabet (GOOG) Gained on Strong Cloud Growth and Easing AI Search Concerns",
+   "t": "What You Need To Know Ahead of Kroger’s Earnings Release",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-goog-gained-strong-120636126.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/know-ahead-kroger-earnings-release-123957014.html"
   },
   {
    "t": "傳Visa裁員約2600人　占全球員工7%",
