@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 02:26（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 02:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 339.84,
-   "c": 0.87,
-   "a50": 307.82,
+   "p": 339.12,
+   "c": 0.66,
+   "a50": 307.81,
    "a200": 276.79,
-   "yh": 339.84,
+   "yh": 339.12,
    "yl": 202.38,
-   "a20": 319.95,
-   "r": 68.8
+   "a20": 319.91,
+   "r": 68.4
   },
   {
    "s": "NVDA",
-   "p": 196.91,
-   "c": 0.2,
-   "a50": 207.82,
+   "p": 197.13,
+   "c": 0.32,
+   "a50": 207.83,
    "a200": 193.0,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.63,
-   "r": 42.8
+   "a20": 203.64,
+   "r": 43.1
   },
   {
    "s": "TSLA",
-   "p": 306.93,
-   "c": -0.74,
+   "p": 306.9,
+   "c": -0.75,
    "a50": 397.11,
    "a200": 413.43,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 594.42,
-   "c": 0.09,
-   "a50": 605.14,
-   "a200": 636.86,
+   "p": 592.86,
+   "c": -0.17,
+   "a50": 605.11,
+   "a200": 636.85,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 624.74,
-   "r": 43.7
+   "a20": 624.66,
+   "r": 43.3
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7429.93,
-   "c": 0.23,
-   "a50": 7471.75,
-   "a200": 7009.32,
+   "p": 7432.12,
+   "c": 0.26,
+   "a50": 7471.79,
+   "a200": 7009.33,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7493.75,
-   "r": 46.6
+   "a20": 7493.86,
+   "r": 46.8
   },
   {
    "s": "^VIX",
-   "p": 18.36,
-   "c": -1.66,
+   "p": 18.39,
+   "c": -1.5,
    "a50": 17.37,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.96,
-   "r": 53.7
+   "r": 53.8
   },
   {
    "s": "BZ=F",
-   "p": 83.93,
-   "c": -5.01,
+   "p": 83.76,
+   "c": -5.21,
    "a50": 87.79,
    "a200": 80.25,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.11,
-   "r": 47.2
+   "a20": 83.1,
+   "r": 47.0
   },
   {
    "s": "GC=F",
-   "p": 4029.7,
-   "c": -1.1,
-   "a50": 4229.4,
-   "a200": 4478.7,
+   "p": 4026.5,
+   "c": -1.18,
+   "a50": 4229.34,
+   "a200": 4478.68,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.85,
-   "r": 43.4
+   "a20": 4067.69,
+   "r": 43.2
   },
   {
    "s": "HG=F",
-   "p": 6.34,
-   "c": -0.04,
+   "p": 6.33,
+   "c": -0.12,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 52.8
+   "r": 52.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03088326,
-   "c": -0.17,
+   "c": -0.18,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280371.aspx"
   },
   {
-   "t": "Is The Boston Beer Company, Inc. (SAM) Stock a Buy as Margin Gains Offset Ongoing Volume Declines?",
+   "t": "Here's What to Expect From Dollar Tree's Next Earnings Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/boston-beer-company-inc-sam-090726209.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-dollar-trees-next-092336064.html"
   },
   {
    "t": "英國美食大賞　台灣原民部落苦茶油獲卓越星級獎章",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280370.aspx"
   },
   {
-   "t": "Corporate America is the most optimistic it's been in 15 years — but the market's still stuck: Chart of the Day",
+   "t": "Some retirees are choosing to never sell their home — and the reasons are both logical and grim",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/corporate-america-is-the-most-optimistic-its-been-in-15-years--but-the-markets-still-stuck-chart-of-the-day-121054259.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/retirees-choosing-never-sell-home-093000062.html"
   },
   {
    "t": "今彩539第115182期　頭獎2注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280358.aspx"
   },
   {
-   "t": "Avoid These Common Mistakes That Can Derail Your Retirement",
+   "t": "Why Did Northrop Grumman (NOC) Fall After Raising Its 2026 Forecast?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/successful-retirement-may-hinge-avoiding-110000994.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-did-northrop-grumman-noc-094444080.html"
   },
   {
    "t": "大樂透頭獎9.1億元1注獨得　獎落北市松山",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280357.aspx"
   },
   {
-   "t": "Fed expected to hold rates steady — but an interest rate hike isn't off the table",
+   "t": "Is The Boston Beer Company, Inc. (SAM) Stock a Buy as Margin Gains Offset Ongoing Volume Declines?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/fed-expected-to-hold-rates-steady--but-an-interest-rate-hike-isnt-off-the-table-090000519.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/boston-beer-company-inc-sam-090726209.html"
   },
   {
    "t": "傳Visa裁員約2600人　占全球員工7%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280356.aspx"
   },
   {
-   "t": "MercadoLibre Stock: Why This E-Commerce Leader Can Outperform the Market Over the Next 5 Years",
+   "t": "How CXMT Stacks Up Against Memory-Chip Rivals After Blockbuster IPO",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-stock-why-e-commerce-091500023.html"
+   "u": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/how-cxmt-stacks-up-against-memory-chip-rivals-after-blockbuster-ipo-iOLXQZdZTfYliHgeoSxn?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
