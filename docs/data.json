@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28 22:43（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-28 22:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 337.83,
-   "c": 0.27,
-   "a50": 307.78,
+   "p": 337.95,
+   "c": 0.31,
+   "a50": 307.79,
    "a200": 276.78,
-   "yh": 337.83,
+   "yh": 337.95,
    "yl": 202.38,
    "a20": 319.85,
    "r": 67.8
   },
   {
    "s": "NVDA",
-   "p": 195.88,
-   "c": -0.32,
-   "a50": 207.8,
+   "p": 196.97,
+   "c": 0.23,
+   "a50": 207.82,
    "a200": 193.0,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.58,
-   "r": 42.0
+   "a20": 203.63,
+   "r": 42.9
   },
   {
    "s": "TSLA",
-   "p": 302.62,
-   "c": -2.13,
-   "a50": 397.02,
-   "a200": 413.41,
+   "p": 304.83,
+   "c": -1.42,
+   "a50": 397.07,
+   "a200": 413.42,
    "yh": 489.88,
-   "yl": 302.62,
-   "a20": 379.74,
-   "r": 26.2
+   "yl": 302.63,
+   "a20": 379.85,
+   "r": 26.6
   },
   {
    "s": "META",
-   "p": 591.78,
-   "c": -0.35,
-   "a50": 605.09,
-   "a200": 636.84,
+   "p": 592.58,
+   "c": -0.22,
+   "a50": 605.1,
+   "a200": 636.85,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 624.61,
-   "r": 43.0
+   "a20": 624.65,
+   "r": 43.2
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7404.44,
-   "c": -0.12,
-   "a50": 7469.46,
-   "a200": 7012.48,
+   "p": 7415.84,
+   "c": 0.04,
+   "a50": 7469.68,
+   "a200": 7012.54,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7491.05,
-   "r": 44.2
+   "a20": 7491.62,
+   "r": 45.3
   },
   {
    "s": "^VIX",
-   "p": 18.75,
-   "c": 0.43,
-   "a50": 17.38,
-   "a200": 18.75,
+   "p": 18.52,
+   "c": -0.8,
+   "a50": 17.37,
+   "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.03,
-   "r": 55.2
+   "a20": 17.01,
+   "r": 54.2
   },
   {
    "s": "BZ=F",
-   "p": 86.32,
-   "c": -2.31,
-   "a50": 87.84,
-   "a200": 80.26,
+   "p": 86.76,
+   "c": -1.81,
+   "a50": 87.85,
+   "a200": 80.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.23,
-   "r": 50.0
+   "a20": 83.25,
+   "r": 50.5
   },
   {
    "s": "GC=F",
-   "p": 4024.1,
-   "c": -1.24,
-   "a50": 4229.29,
-   "a200": 4478.67,
+   "p": 4021.5,
+   "c": -1.3,
+   "a50": 4229.24,
+   "a200": 4478.65,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.57,
-   "r": 43.1
+   "a20": 4067.44,
+   "r": 42.9
   },
   {
    "s": "HG=F",
    "p": 6.33,
-   "c": -0.16,
+   "c": -0.17,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.0308928,
-   "c": -0.15,
+   "c": -0.14,
    "a50": 0.03142678,
    "a200": 0.03171583,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280346.aspx"
   },
   {
-   "t": "Tesla stock hasn't been this oversold in more than a year",
+   "t": "Fed meeting live: Federal Reserve expected to hold rates steady, but Iran war adds tension",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-hasnt-been-this-oversold-in-more-than-a-year-143054225.html"
+   "u": "https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html"
   },
   {
    "t": "易威：股份轉換完成　健亞終止上櫃成全資子公司",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280345.aspx"
   },
   {
-   "t": "EBay, former executives to pay $56 million to settle couple's harassment case",
+   "t": "SpaceX stock keeps sliding. What to do if you own shares.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ebay-former-executives-pay-56-142904099.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-keeps-sliding-what-to-do-if-you-own-shares-141704338.html"
   },
   {
    "t": "X平台在美推X Money銀行服務　馬斯克擬打造萬能App",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280343.aspx"
   },
   {
-   "t": "Micron Stock Dives As Semiconductor Sell-Off Gains Steam",
+   "t": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/micron-stock-dives-semiconductor-sell-off-gains-steam/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html"
   },
   {
    "t": "上銀：義大利子公司遭駭客網路攻擊　營運無重大影響",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280342.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Climbs, Nasdaq Slides As Chipmakers Plunge; Amkor Tanks (Live Coverage)",
+   "t": "Dollar holds near recent high as markets await Fed decision",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-sandisk-coca-cola-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-hits-one-month-high-003619965.html"
   },
   {
    "t": "金管會：7銀行申請內部評等法過關　今年第4季適用",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607280340.aspx"
   },
   {
-   "t": "Gong cha signs 50-store franchise agreement in Texas with BACC",
+   "t": "Why Bloom Energy Shares Are Tanking Ahead of Earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/gong-cha-signs-50-store-142848704.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-shares-tanking-144115475.html"
   }
  ],
  "inst": {
