@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 22:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 22:28（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 341.55,
-   "c": 0.43,
-   "a50": 308.66,
+   "p": 341.26,
+   "c": 0.35,
+   "a50": 308.65,
    "a200": 277.23,
-   "yh": 341.55,
+   "yh": 341.26,
    "yl": 202.38,
-   "a20": 322.57,
-   "r": 69.6
+   "a20": 322.55,
+   "r": 69.5
   },
   {
    "s": "NVDA",
-   "p": 192.2,
-   "c": -2.44,
-   "a50": 207.16,
+   "p": 191.41,
+   "c": -2.84,
+   "a50": 207.15,
    "a200": 193.0,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.24,
-   "r": 39.4
+   "a20": 203.2,
+   "r": 38.9
   },
   {
    "s": "TSLA",
-   "p": 304.53,
-   "c": -0.95,
-   "a50": 394.77,
-   "a200": 412.78,
+   "p": 303.03,
+   "c": -1.43,
+   "a50": 394.74,
+   "a200": 412.77,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 374.18,
-   "r": 26.5
+   "a20": 374.1,
+   "r": 26.2
   },
   {
    "s": "META",
-   "p": 589.39,
-   "c": -0.75,
-   "a50": 605.04,
-   "a200": 636.83,
+   "p": 587.0,
+   "c": -1.08,
+   "a50": 604.57,
+   "a200": 636.12,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 624.49,
-   "r": 42.4
+   "a20": 625.88,
+   "r": 41.8
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7381.51,
-   "c": -0.64,
-   "a50": 7469.4,
-   "a200": 7015.83,
+   "p": 7372.09,
+   "c": -0.76,
+   "a50": 7469.21,
+   "a200": 7015.79,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7486.37,
-   "r": 42.5
+   "a20": 7485.9,
+   "r": 41.8
   },
   {
    "s": "^VIX",
-   "p": 19.15,
-   "c": 5.16,
-   "a50": 17.4,
+   "p": 19.75,
+   "c": 8.46,
+   "a50": 17.41,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.13,
-   "r": 56.4
+   "a20": 17.16,
+   "r": 58.3
   },
   {
    "s": "BZ=F",
-   "p": 89.67,
-   "c": 6.64,
-   "a50": 87.4,
+   "p": 89.88,
+   "c": 6.89,
+   "a50": 87.41,
    "a200": 80.38,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.95,
-   "r": 53.9
+   "a20": 83.96,
+   "r": 54.1
   },
   {
    "s": "GC=F",
-   "p": 4059.5,
-   "c": 0.57,
-   "a50": 4219.61,
-   "a200": 4479.29,
+   "p": 4065.0,
+   "c": 0.71,
+   "a50": 4219.72,
+   "a200": 4479.32,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.01,
-   "r": 45.9
+   "a20": 4070.29,
+   "r": 46.3
   },
   {
    "s": "HG=F",
    "p": 6.31,
-   "c": -0.19,
+   "c": -0.17,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290339.aspx"
   },
   {
-   "t": "Will the Fed hold or hike interest rates today? It's a close call.",
+   "t": "First Horizon (FHN): 20% Earnings Growth Backs Cramer’s Buy Call, But the Stock Is No Longer Cheap",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/article/will-the-fed-hold-or-hike-interest-rates-today-its-a-close-call-135539166.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/first-horizon-fhn-20-earnings-141625253.html"
   },
   {
    "t": "台股重挫　金管會：信用交易擔保維持率為165.5%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290329.aspx"
   },
   {
-   "t": "SK Hynix stock rout shines light on this stunning semiconductor stock reality",
+   "t": "Brown-Forman Corporation: Sazerac’s $32 Cash Bid Rebuffed as Dual-Class Control Shields Valuation Disconnect",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/sk-hynix-stock-rout-shines-light-on-this-stunning-semiconductor-stock-reality-135026591.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/brown-forman-corporation-sazerac-32-141046491.html"
   },
   {
    "t": "政府推離岸風電中長程規劃　沃旭：對產業釋正面訊號",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290328.aspx"
   },
   {
-   "t": "Hyperscaler debt binge pushes yields up as investor demand cools",
+   "t": "SK Hynix's record profit fails to impress investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/hyperscaler-debt-binge-pushes-yields-134825104.html"
+   "u": "https://finance.yahoo.com/markets/article/sk-hynixs-record-profit-fails-to-impress-investors-130352334.html"
   },
   {
    "t": "外資賣超222億　提款主動式ETF、布局電信航空股",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290326.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Falls As Iran Hostilities Ignite Again; SK Hynix Slides (Live Coverage)",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slip in countdown to Fed decision, AI earnings test",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-sk-hynix-stock/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
   },
   {
    "t": "台股慘摔成第7大跌點　投顧：短線回穩須看3訊號",
