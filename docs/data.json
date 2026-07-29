@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 20:15（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 20:25（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,25 +212,25 @@
   },
   {
    "s": "AAPL",
-   "p": 340.08,
-   "c": 0.94,
-   "a50": 307.83,
-   "a200": 276.79,
-   "yh": 340.08,
+   "p": 336.91,
+   "c": 1.17,
+   "a50": 306.99,
+   "a200": 276.38,
+   "yh": 336.91,
    "yl": 202.38,
-   "a20": 319.96,
-   "r": 68.9
+   "a20": 317.04,
+   "r": 67.3
   },
   {
    "s": "NVDA",
-   "p": 196.51,
-   "c": -4.99,
-   "a50": 208.6,
-   "a200": 192.96,
+   "p": 197.01,
+   "c": 0.25,
+   "a50": 207.82,
+   "a200": 193.0,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.53,
-   "r": 42.4
+   "a20": 203.63,
+   "r": 42.9
   },
   {
    "s": "TSLA",
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 593.87,
-   "c": -0.22,
-   "a50": 605.62,
-   "a200": 637.48,
+   "p": 593.41,
+   "c": -0.08,
+   "a50": 605.12,
+   "a200": 636.85,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 623.15,
-   "r": 43.5
+   "a20": 624.69,
+   "r": 43.4
   },
   {
    "s": "^TWII",
@@ -278,56 +278,56 @@
   },
   {
    "s": "^VIX",
-   "p": 18.33,
-   "c": 0.66,
+   "p": 18.48,
+   "c": 1.48,
    "a50": 17.38,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.09,
-   "r": 53.4
+   "a20": 17.1,
+   "r": 54.0
   },
   {
    "s": "BZ=F",
-   "p": 88.03,
-   "c": 4.69,
-   "a50": 87.37,
+   "p": 88.53,
+   "c": 5.28,
+   "a50": 87.38,
    "a200": 80.37,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.87,
-   "r": 52.1
+   "a20": 83.9,
+   "r": 52.7
   },
   {
    "s": "GC=F",
-   "p": 4089.5,
-   "c": 1.32,
-   "a50": 4220.21,
-   "a200": 4479.44,
+   "p": 4085.4,
+   "c": 1.22,
+   "a50": 4220.13,
+   "a200": 4479.42,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4071.51,
-   "r": 48.2
+   "a20": 4071.31,
+   "r": 47.9
   },
   {
    "s": "HG=F",
-   "p": 6.32,
-   "c": 0.01,
+   "p": 6.31,
+   "c": -0.25,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 52.1
+   "r": 51.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03084516,
-   "c": -0.37,
+   "p": 0.0308642,
+   "c": -0.32,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
-   "yl": 0.030845
+   "yl": 0.030864
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290317.aspx"
   },
   {
-   "t": "Amazon Q2 earnings to put spotlight on AWS growth amid AI spending",
+   "t": "Earnings live: Avis stock plunges as earnings fall short amid the summer travel season, Ford stock gains",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/amazon-q2-earnings-to-put-spotlight-on-aws-growth-amid-ai-spending-115622323.html"
+   "u": "https://finance.yahoo.com/markets/live/earnings-live-avis-stock-plunges-as-earnings-fall-short-amid-the-summer-travel-season-ford-stock-gains-115207214.html"
   },
   {
    "t": "亞股走勢不一  科技股慘跌拖累台韓股重摔",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290315.aspx"
   },
   {
-   "t": "P&G stock dips on soft outlook despite 'stable' consumer",
+   "t": "Seagate Stock Shakes Off AI Rally Fears With Big Earnings Beat",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/pg-stock-dips-on-soft-outlook-despite-stable-consumer-115452561.html"
+   "u": "https://www.investors.com/news/technology/seagate-stock-stx-earnings-july-2026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "環球晶6月每股虧8.27元　Siltronic評價損失影響",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290313.aspx"
   },
   {
-   "t": "Apple to report Q3 earnings following price hikes on Macs, iPads",
+   "t": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/apple-to-report-q3-earnings-following-price-hikes-on-macs-ipads-115246491.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo"
   },
   {
    "t": "金管會推金融大回饋提22項目　鼓勵訂長期規劃",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290303.aspx"
   },
   {
-   "t": "Buffett's Berkshire Hathaway holds a record $397 billion in cash. Is a market crash coming — should you follow his lead?",
+   "t": "Surprise Fed Rate Hike Can't Be Ruled Out; What It Means For S&P 500",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/buffetts-berkshire-hathaway-holds-record-114500562.html"
+   "u": "https://www.investors.com/news/federal-reserve-meeting-july-surprise-rate-hike-possible-sp-500/?src=A00220&yptr=yahoo"
   },
   {
    "t": "F1巴林大獎賽移師雪邦　東南亞雙週賽凸顯應變韌性",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607290302.aspx"
   },
   {
-   "t": "Secretary Bessent cracks down on non-profit tax loopholes",
+   "t": "Daily Spotlight: U.S. the Leader in Drug R&D",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/secretary-bessent-cracks-down-non-160600716.html"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_47760_MarketOutlook_1785322967000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
