@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 07:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 07:13（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,33 +300,33 @@
   },
   {
    "s": "GC=F",
-   "p": 4142.5,
-   "c": 2.63,
-   "a50": 4221.27,
-   "a200": 4479.71,
+   "p": 4150.5,
+   "c": 2.83,
+   "a50": 4221.43,
+   "a200": 4479.75,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4074.16,
-   "r": 52.0
+   "a20": 4074.56,
+   "r": 52.5
   },
   {
    "s": "HG=F",
-   "p": 6.37,
-   "c": 0.77,
+   "p": 6.38,
+   "c": 0.99,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 54.5
+   "r": 55.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03090235,
-   "c": -0.19,
-   "a50": 0.0314169,
-   "a200": 0.03170577,
-   "yh": 0.033546,
+   "p": 0.0309119,
+   "c": 0.05,
+   "a50": 0.03140704,
+   "a200": 0.03169572,
+   "yh": 0.033501,
    "yl": 0.030883
   }
  ],
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300015.aspx"
   },
   {
-   "t": "Warrior Met Coal (HCC): A Volatile Stock with Significant Upside",
+   "t": "Oil Prices Retreat, But the Strait of Hormuz Remains the Wild Card",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/warrior-met-coal-hcc-volatile-145755043.html"
+   "u": "https://finance.yahoo.com/energy/articles/oil-prices-retreat-strait-hormuz-152000595.html"
   },
   {
    "t": "AI軍備競賽開銷驚人　Meta第二季現金流大減91%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300013.aspx"
   },
   {
-   "t": "Evaluating How Callaway Golf (CALY) is Unlocking Value",
+   "t": "Understanding the Fed's rate decisions: Do we want high or low interest rates​?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/evaluating-callaway-golf-caly-unlocking-145644272.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/do-we-want-high-or-low-interest-rates-223031516.html"
   },
   {
    "t": "晶片股拋售潮未止  美股收黑費半跌逾5%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300012.aspx"
   },
   {
-   "t": "Big Tech will fund more than a third of its AI investments with debt in 2027, Goldman Sachs predicts",
+   "t": "She was a custodian at a data center. Now Mike Rowe and Meta are training her to become an advanced technician",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/big-tech-will-fund-more-than-a-third-of-its-ai-investments-with-debt-in-2027-goldman-sachs-predicts-145136150.html"
+   "u": "https://finance.yahoo.com/small-business/articles/she-custodian-data-center-now-152500445.html"
   },
   {
    "t": "聯準會利率不變3票反對　華許形容決策過程如家庭爭吵",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300011.aspx"
   },
   {
-   "t": "Immersive Experience Bolsters Sphere Entertainment’s (SPHR) Strong Performance",
+   "t": "Two Dow Defensive Names Charge Ahead, With Very Different Charts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/immersive-experience-bolsters-sphere-entertainment-145116003.html"
+   "u": "https://www.investors.com/news/dow-jones-stocks-coca-cola-ko-sherwin-williams-shw-charge-ahead-q2-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "聯準會利率不動但分歧加劇　9月升息機率破5成",
