@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 06:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 06:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4131.9,
-   "c": 2.37,
-   "a50": 4221.06,
-   "a200": 4479.66,
+   "p": 4136.0,
+   "c": 2.47,
+   "a50": 4221.14,
+   "a200": 4479.68,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.63,
-   "r": 51.3
+   "a20": 4073.84,
+   "r": 51.5
   },
   {
    "s": "HG=F",
-   "p": 6.36,
-   "c": 0.68,
+   "p": 6.37,
+   "c": 0.7,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 54.2
+   "r": 54.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.0309119,
-   "c": -0.15,
+   "p": 0.03090235,
+   "c": -0.17,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300015.aspx"
   },
   {
-   "t": "What Makes Sotera Health (SHC) a Strong Position in Your Portfolio?",
+   "t": "How Corning (GLW) is Shaping Data Center Technology from Copper to Fiber",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/makes-sotera-health-shc-strong-144055954.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-shaping-data-center-144744173.html"
   },
   {
    "t": "AI軍備競賽開銷驚人　Meta第二季現金流大減91%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300013.aspx"
   },
   {
-   "t": "SpaceX stock keeps sliding. What to do if you own shares.",
+   "t": "Immersive Experience Bolsters Sphere Entertainment’s (SPHR) Strong Performance",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-keeps-sliding-what-to-do-if-you-own-shares-141704338.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/immersive-experience-bolsters-sphere-entertainment-145116003.html"
   },
   {
    "t": "晶片股拋售潮未止  美股收黑費半跌逾5%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300012.aspx"
   },
   {
-   "t": "EBay, former executives to pay $56 million to settle couple's harassment case",
+   "t": "China's chip tool push shows ASML caught in US-China squeeze",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/ebay-former-executives-pay-56-143003495.html"
+   "u": "https://finance.yahoo.com/technology/articles/chinas-chip-tool-push-shows-144524194.html"
   },
   {
    "t": "聯準會利率不變3票反對　華許形容決策過程如家庭爭吵",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300011.aspx"
   },
   {
-   "t": "Tesla stock hasn't been this oversold in more than a year",
+   "t": "Qualcomm (QCOM) is Diversifying Beyond Handsets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-hasnt-been-this-oversold-in-more-than-a-year-143054225.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-diversifying-beyond-handsets-144334923.html"
   },
   {
    "t": "聯準會利率不動但分歧加劇　9月升息機率破5成",
