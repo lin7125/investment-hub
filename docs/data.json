@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 06:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 06:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 90.54,
-   "c": 7.67,
+   "p": 90.49,
+   "c": 7.61,
    "a50": 87.42,
    "a200": 80.38,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.0,
-   "r": 54.8
+   "a20": 83.99,
+   "r": 54.7
   },
   {
    "s": "GC=F",
-   "p": 4126.0,
-   "c": 2.22,
-   "a50": 4220.94,
-   "a200": 4479.63,
+   "p": 4128.5,
+   "c": 2.28,
+   "a50": 4220.99,
+   "a200": 4479.64,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.34,
-   "r": 50.9
+   "a20": 4073.46,
+   "r": 51.0
   },
   {
    "s": "HG=F",
    "p": 6.35,
-   "c": 0.39,
+   "c": 0.47,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 53.3
+   "r": 53.5
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300015.aspx"
   },
   {
-   "t": "Boeing Q2 revenue tops estimates as jet deliveries climb, cash turns positive",
+   "t": "Paypal stock rises as CEO keeps door open on potential deals",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/boeing-q2-revenue-tops-estimates-as-jet-deliveries-climb-cash-turns-positive-120622920.html"
+   "u": "https://finance.yahoo.com/markets/article/paypal-stock-rises-as-ceo-keeps-door-open-on-potential-deals-141554191.html"
   },
   {
    "t": "AI軍備競賽開銷驚人　Meta第二季現金流大減91%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300013.aspx"
   },
   {
-   "t": "Applied Materials (AMAT) Rose on AI-Driven Wafer Fabrication Spending",
+   "t": "Analysis-Trump's diversity crackdown reverberates through US boardrooms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/applied-materials-amat-rose-ai-133054061.html"
+   "u": "https://finance.yahoo.com/news/analysis-trumps-diversity-crackdown-reverberates-140240068.html"
   },
   {
    "t": "晶片股拋售潮未止  美股收黑費半跌逾5%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300012.aspx"
   },
   {
-   "t": "Apple tops $5 trillion market cap, only second company to hit the milestone",
+   "t": "Commvault Earnings Top Estimates As AI Boosts Data Protection Demands But Stock Falls",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/apple-tops-5-trillion-market-cap-only-second-company-to-hit-the-milestone-134013795.html"
+   "u": "https://www.investors.com/news/technology/commvault-stock-cvlt-q1-earnings-june-2026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "聯準會利率不變3票反對　華許形容決策過程如家庭爭吵",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300011.aspx"
   },
   {
-   "t": "Advanced Micro Devices (AMD) Surged on an Agentic AI-Driven Server CPU Renaissance",
+   "t": "Aris Mining Corporation (ARIS): An Undervalued Opportunity with Huge Upside?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-surged-132709500.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/aris-mining-corporation-aris-undervalued-141238101.html"
   },
   {
    "t": "聯準會利率不動但分歧加劇　9月升息機率破5成",
