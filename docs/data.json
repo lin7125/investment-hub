@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 22:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 22:59（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 341.31,
-   "c": 0.36,
-   "a50": 308.65,
-   "a200": 277.23,
-   "yh": 341.31,
+   "p": 340.36,
+   "c": 0.08,
+   "a50": 308.63,
+   "a200": 277.22,
+   "yh": 340.36,
    "yl": 202.38,
-   "a20": 322.56,
-   "r": 69.5
+   "a20": 322.51,
+   "r": 69.0
   },
   {
    "s": "NVDA",
-   "p": 191.6,
-   "c": -2.75,
-   "a50": 207.15,
+   "p": 192.44,
+   "c": -2.32,
+   "a50": 207.17,
    "a200": 193.0,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.21,
-   "r": 39.0
+   "a20": 203.25,
+   "r": 39.6
   },
   {
    "s": "TSLA",
-   "p": 302.58,
-   "c": -1.58,
+   "p": 302.98,
+   "c": -1.45,
    "a50": 394.73,
    "a200": 412.77,
    "yh": 489.88,
-   "yl": 302.58,
-   "a20": 374.08,
-   "r": 26.1
+   "yl": 302.63,
+   "a20": 374.1,
+   "r": 26.2
   },
   {
    "s": "META",
-   "p": 588.46,
-   "c": -0.83,
-   "a50": 604.6,
+   "p": 588.94,
+   "c": -0.75,
+   "a50": 604.61,
    "a200": 636.13,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 625.95,
-   "r": 42.1
+   "a20": 625.97,
+   "r": 42.3
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7363.72,
-   "c": -0.88,
-   "a50": 7469.05,
-   "a200": 7015.74,
+   "p": 7371.77,
+   "c": -0.77,
+   "a50": 7469.21,
+   "a200": 7015.78,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7485.48,
-   "r": 41.2
+   "a20": 7485.89,
+   "r": 41.8
   },
   {
    "s": "^VIX",
-   "p": 19.5,
-   "c": 7.08,
-   "a50": 17.4,
-   "a200": 18.73,
+   "p": 20.03,
+   "c": 9.99,
+   "a50": 17.41,
+   "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.15,
-   "r": 57.5
+   "a20": 17.18,
+   "r": 59.2
   },
   {
    "s": "BZ=F",
-   "p": 90.29,
-   "c": 7.37,
+   "p": 90.55,
+   "c": 7.68,
    "a50": 87.42,
    "a200": 80.38,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.98,
-   "r": 54.5
+   "a20": 84.0,
+   "r": 54.8
   },
   {
    "s": "GC=F",
-   "p": 4064.2,
-   "c": 0.69,
-   "a50": 4219.7,
-   "a200": 4479.32,
+   "p": 4058.1,
+   "c": 0.54,
+   "a50": 4219.58,
+   "a200": 4479.29,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.25,
-   "r": 46.2
+   "a20": 4069.94,
+   "r": 45.7
   },
   {
    "s": "HG=F",
-   "p": 6.3,
-   "c": -0.31,
+   "p": 6.29,
+   "c": -0.47,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 51.0
+   "r": 50.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.0308928,
-   "c": -0.22,
+   "p": 0.03088326,
+   "c": -0.24,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290339.aspx"
   },
   {
-   "t": "Semiconductor stocks are going up in smoke. But the S&P 500 is holding strong.",
+   "t": "Nvidia Partner SK Hynix Misses Q2 Sales Target But Profit Surprises",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/semiconductor-stocks-are-going-up-in-smoke-but-the-sp-500-is-holding-strong-143223884.html"
+   "u": "https://www.investors.com/news/technology/skhy-stock-sk-hynix-q2-2026-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股重挫　金管會：信用交易擔保維持率為165.5%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290329.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Dives 600 Points As Oil Spikes, Fed Decision Looms; Seagate Outperforms (Live Coverage)",
+   "t": "Semiconductor stocks are going up in smoke. But the S&P 500 is holding strong.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-sk-hynix-stock/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/semiconductor-stocks-are-going-up-in-smoke-but-the-sp-500-is-holding-strong-143223884.html"
   },
   {
    "t": "政府推離岸風電中長程規劃　沃旭：對產業釋正面訊號",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290328.aspx"
   },
   {
-   "t": "Mortgage rate predictions through 2030: Where are they headed?",
+   "t": "Garmin Stock Breaks Out On Second-Quarter Beat, Raised Outlook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-2030-where-are-they-headed-195826935.html"
+   "u": "https://www.investors.com/news/technology/garmin-stock-grmn-q2-2026-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "外資賣超222億　提款主動式ETF、布局電信航空股",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290326.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq slide in countdown to Fed decision, AI earnings test",
+   "t": "Exxon Mobil (XOM): President Trump’s Top Energy Stock Pick?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
+   "u": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-president-trump-142914070.html"
   },
   {
    "t": "台股慘摔成第7大跌點　投顧：短線回穩須看3訊號",
