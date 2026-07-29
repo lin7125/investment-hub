@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 18:22（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 18:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,14 +212,14 @@
   },
   {
    "s": "AAPL",
-   "p": 340.08,
-   "c": 0.94,
-   "a50": 307.83,
-   "a200": 276.79,
-   "yh": 340.08,
+   "p": 336.91,
+   "c": 1.17,
+   "a50": 306.99,
+   "a200": 276.38,
+   "yh": 336.91,
    "yl": 202.38,
-   "a20": 319.96,
-   "r": 68.9
+   "a20": 317.04,
+   "r": 67.3
   },
   {
    "s": "NVDA",
@@ -245,89 +245,89 @@
   },
   {
    "s": "META",
-   "p": 593.41,
-   "c": -0.08,
-   "a50": 605.12,
-   "a200": 636.85,
+   "p": 593.87,
+   "c": -0.22,
+   "a50": 605.62,
+   "a200": 637.48,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 624.69,
-   "r": 43.4
+   "a20": 623.15,
+   "r": 43.5
   },
   {
    "s": "^TWII",
    "p": 40039.18,
-   "c": -3.76,
-   "a50": 44597.5,
-   "a200": 34857.67,
+   "c": -8.24,
+   "a50": 44533.62,
+   "a200": 34692.48,
    "yh": 47741.51,
    "yl": 23201.52,
-   "a20": 44650.27,
-   "r": 31.5
+   "a20": 44943.65,
+   "r": 32.5
   },
   {
    "s": "^GSPC",
-   "p": 7428.78,
-   "c": 0.21,
-   "a50": 7469.94,
-   "a200": 7012.6,
+   "p": 7413.18,
+   "c": 0.07,
+   "a50": 7472.04,
+   "a200": 7005.74,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7492.27,
-   "r": 46.6
+   "a20": 7489.95,
+   "r": 45.0
   },
   {
    "s": "^VIX",
-   "p": 18.23,
-   "c": 0.11,
-   "a50": 17.38,
+   "p": 18.21,
+   "c": -2.46,
+   "a50": 17.37,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.09,
-   "r": 53.0
+   "a20": 16.95,
+   "r": 53.1
   },
   {
    "s": "BZ=F",
-   "p": 87.74,
-   "c": 4.34,
+   "p": 87.99,
+   "c": 4.64,
    "a50": 87.37,
    "a200": 80.37,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.86,
-   "r": 51.8
+   "a20": 83.87,
+   "r": 52.1
   },
   {
    "s": "GC=F",
-   "p": 4091.7,
-   "c": 1.37,
-   "a50": 4220.25,
-   "a200": 4479.46,
+   "p": 4090.5,
+   "c": 1.34,
+   "a50": 4220.23,
+   "a200": 4479.45,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4071.62,
-   "r": 48.4
+   "a20": 4071.56,
+   "r": 48.3
   },
   {
    "s": "HG=F",
    "p": 6.32,
-   "c": -0.02,
+   "c": -0.04,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 52.0
+   "r": 51.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03085467,
-   "c": -0.34,
+   "p": 0.03084516,
+   "c": -0.35,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
-   "yl": 0.030855
+   "yl": 0.030845
   }
  ],
  "news": [
@@ -350,7 +350,7 @@
    "u": "https://www.cna.com.tw/news/afe/202607290255.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures steady after Korean stocks fall, Iran resumes attacks",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq futures steady in countdown to Fed decision, AI earnings test",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607290251.aspx"
   },
   {
-   "t": "Mortgage and refinance rates today, Wednesday, July 29, 2026: Rates up across the board ahead of Fed rate decision",
+   "t": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-july-29-2026-rates-up-across-the-board-ahead-of-fed-rate-decision-100000462.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台達電第2季淨利251億元年增8成　單季大賺近1股本",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290247.aspx"
   },
   {
-   "t": "The chip crash is exposing the brutal cost of leverage: Chart of the Day",
+   "t": "Humana beats quarterly profit estimates as medical costs stay in line",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/the-chip-crash-is-exposing-the-brutal-cost-of-leverage-chart-of-the-day-100000401.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/humana-beats-quarterly-profit-estimates-101209208.html"
   },
   {
    "t": "台積電自歷史高點回檔335元　散戶零股加碼不手軟",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290241.aspx"
   },
   {
-   "t": "HELOC and home equity loan rates today, Wednesday, July 29, 2026: Why locking in a low rate matters",
+   "t": "You bought SpaceX shares at the IPO price — and now you’re losing money. Is it safe to buy the dip?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-wednesday-july-29-2026-why-locking-in-a-low-rate-matters-100000292.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bought-spacex-shares-ipo-price-100500603.html"
   },
   {
    "t": "研調：2027年全球通用型伺服器CPU出貨年增23%",
