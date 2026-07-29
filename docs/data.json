@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 21:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 21:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,13 +278,13 @@
   },
   {
    "s": "^VIX",
-   "p": 18.67,
-   "c": 0.0,
-   "a50": 17.37,
+   "p": 18.72,
+   "c": 2.8,
+   "a50": 17.39,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.98,
+   "a20": 17.11,
    "r": 54.9
   },
   {
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4083.7,
-   "c": 1.17,
-   "a50": 4220.09,
-   "a200": 4479.42,
+   "p": 4076.2,
+   "c": 0.99,
+   "a50": 4219.94,
+   "a200": 4479.38,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4071.22,
-   "r": 47.8
+   "a20": 4070.85,
+   "r": 47.2
   },
   {
    "s": "HG=F",
    "p": 6.31,
-   "c": -0.24,
+   "c": -0.21,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 51.2
+   "r": 51.3
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290329.aspx"
   },
   {
-   "t": "Birkenstock Holding plc (BIRK) Walks Tall on Margins",
+   "t": "Stock Market Today: Dow Falls As Iran Hostilities Spark Up Again; SK Hynix Slides On Earnings News (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/birkenstock-holding-plc-birk-walks-125557521.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-sk-hynix-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "政府推離岸風電中長程規劃　沃旭：對產業釋正面訊號",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290328.aspx"
   },
   {
-   "t": "Silver prices today, Wednesday, July 29, 2026: Prices hold steady this morning amid renewed airstrikes and pending rate decision",
+   "t": "SpaceX Stock In Perspective: How Does It Compare To Other 2026 IPOs?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-29-2026-prices-hold-steady-this-morning-amid-renewed-airstrikes-and-pending-rate-decision-125424129.html"
+   "u": "https://www.investors.com/news/spacex-ipo-elon-musk-sk-hynix-cerebras-bill-ackman-pershing-square/?src=A00220&yptr=yahoo"
   },
   {
    "t": "外資賣超222億　提款主動式ETF、布局電信航空股",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290326.aspx"
   },
   {
-   "t": "MarineMax (HZO): Ace River Exit Driven by Opportunity Cost, Not Fundamentals",
+   "t": "Birkenstock Holding plc (BIRK) Walks Tall on Margins",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/marinemax-hzo-ace-river-exit-125006674.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/birkenstock-holding-plc-birk-walks-125557521.html"
   },
   {
    "t": "台股慘摔成第7大跌點　投顧：短線回穩須看3訊號",
