@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 21:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 21:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 340.62,
-   "c": 0.16,
-   "a50": 308.64,
-   "a200": 277.23,
-   "yh": 340.62,
+   "p": 342.99,
+   "c": 0.86,
+   "a50": 308.68,
+   "a200": 277.24,
+   "yh": 342.99,
    "yl": 202.38,
-   "a20": 322.52,
-   "r": 69.2
+   "a20": 322.64,
+   "r": 70.3
   },
   {
    "s": "NVDA",
-   "p": 196.13,
-   "c": -0.45,
-   "a50": 207.24,
+   "p": 195.19,
+   "c": -0.92,
+   "a50": 207.22,
    "a200": 193.02,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.43,
-   "r": 42.3
+   "a20": 203.39,
+   "r": 41.5
   },
   {
    "s": "TSLA",
-   "p": 305.77,
-   "c": -0.54,
-   "a50": 394.79,
+   "p": 305.37,
+   "c": -0.67,
+   "a50": 394.78,
    "a200": 412.78,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 374.24,
-   "r": 26.7
+   "a20": 374.22,
+   "r": 26.6
   },
   {
    "s": "META",
-   "p": 592.27,
-   "c": -0.19,
-   "a50": 604.68,
-   "a200": 636.15,
+   "p": 590.4,
+   "c": -0.51,
+   "a50": 604.64,
+   "a200": 636.14,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 626.14,
-   "r": 43.1
+   "a20": 626.05,
+   "r": 42.6
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7420.21,
-   "c": -0.12,
-   "a50": 7470.18,
-   "a200": 7016.03,
+   "p": 7416.06,
+   "c": -0.17,
+   "a50": 7470.09,
+   "a200": 7016.01,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7488.31,
-   "r": 45.8
+   "a20": 7488.1,
+   "r": 45.4
   },
   {
    "s": "^VIX",
-   "p": 18.8,
-   "c": 3.24,
+   "p": 19.08,
+   "c": 4.78,
    "a50": 17.39,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.12,
-   "r": 55.2
+   "a20": 17.13,
+   "r": 56.1
   },
   {
    "s": "BZ=F",
-   "p": 89.48,
-   "c": 6.41,
+   "p": 89.71,
+   "c": 6.68,
    "a50": 87.4,
-   "a200": 80.37,
+   "a200": 80.38,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.94,
-   "r": 53.7
+   "a20": 83.95,
+   "r": 53.9
   },
   {
    "s": "GC=F",
-   "p": 4080.5,
-   "c": 1.1,
-   "a50": 4220.03,
-   "a200": 4479.4,
+   "p": 4073.2,
+   "c": 0.91,
+   "a50": 4219.88,
+   "a200": 4479.36,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4071.06,
-   "r": 47.5
+   "a20": 4070.7,
+   "r": 47.0
   },
   {
    "s": "HG=F",
    "p": 6.32,
-   "c": -0.04,
+   "c": 0.05,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 51.9
+   "r": 52.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03088326,
-   "c": -0.23,
+   "p": 0.0308928,
+   "c": -0.22,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290339.aspx"
   },
   {
-   "t": "Bitcoin and ethereum prices today, Wednesday, July 29, 2026:  Crypto investors watching the Fed decision closely",
+   "t": "Tech stocks today: Microsoft and Meta to report earnings, as chip stocks struggle",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-july-29-2026-crypto-investors-watching-the-fed-decision-closely-131641825.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html"
   },
   {
    "t": "台股重挫　金管會：信用交易擔保維持率為165.5%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290329.aspx"
   },
   {
-   "t": "Investors are selling Meta as it heads to its earnings report",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slip in countdown to Fed decision, AI earnings test",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/investors-are-selling-meta-as-it-heads-to-its-earnings-report-131629707.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
   },
   {
    "t": "政府推離岸風電中長程規劃　沃旭：對產業釋正面訊號",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290328.aspx"
   },
   {
-   "t": "Keurig Dr Pepper (KDP) Pops on Strong Beverage Sales",
+   "t": "This AI startup has roughly 50 employees, no product and has never published a word of research. It's worth $32 billion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-kdp-pops-131447922.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-startup-roughly-50-employees-133000150.html"
   },
   {
    "t": "外資賣超222億　提款主動式ETF、布局電信航空股",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290326.aspx"
   },
   {
-   "t": "Fed meeting live: Federal Reserve expected to hold rates steady, but Iran war adds tension",
+   "t": "Marsh & McLennan (MRSH) Reinvents Operations with AI Productivity Push",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-mrsh-reinvents-operations-132051970.html"
   },
   {
    "t": "台股慘摔成第7大跌點　投顧：短線回穩須看3訊號",
