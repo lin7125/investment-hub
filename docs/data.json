@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 02:45（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 02:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 343.68,
-   "c": 1.06,
+   "p": 343.75,
+   "c": 1.08,
    "a50": 308.7,
    "a200": 277.24,
-   "yh": 343.68,
+   "yh": 343.75,
    "yl": 202.38,
    "a20": 322.68,
    "r": 70.7
   },
   {
    "s": "NVDA",
-   "p": 195.37,
-   "c": -0.83,
-   "a50": 207.22,
+   "p": 196.12,
+   "c": -0.45,
+   "a50": 207.24,
    "a200": 193.02,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.4,
-   "r": 41.7
+   "a20": 203.43,
+   "r": 42.2
   },
   {
    "s": "TSLA",
-   "p": 304.38,
-   "c": -1.0,
-   "a50": 394.76,
-   "a200": 412.78,
+   "p": 307.39,
+   "c": -0.02,
+   "a50": 394.82,
+   "a200": 412.79,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 374.17,
-   "r": 26.5
+   "a20": 374.32,
+   "r": 27.0
   },
   {
    "s": "META",
-   "p": 595.74,
-   "c": 0.39,
-   "a50": 604.75,
-   "a200": 636.16,
+   "p": 599.82,
+   "c": 1.08,
+   "a50": 604.83,
+   "a200": 636.18,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 626.31,
-   "r": 44.2
+   "a20": 626.52,
+   "r": 45.5
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7429.45,
-   "c": 0.01,
-   "a50": 7470.36,
-   "a200": 7016.07,
+   "p": 7450.22,
+   "c": 0.29,
+   "a50": 7470.78,
+   "a200": 7016.18,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7488.77,
-   "r": 46.6
+   "a20": 7489.81,
+   "r": 48.8
   },
   {
    "s": "^VIX",
-   "p": 18.67,
-   "c": 2.53,
-   "a50": 17.39,
+   "p": 18.24,
+   "c": 0.16,
+   "a50": 17.38,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.11,
-   "r": 54.7
+   "a20": 17.09,
+   "r": 53.1
   },
   {
    "s": "BZ=F",
-   "p": 91.02,
-   "c": 8.24,
-   "a50": 87.43,
+   "p": 90.66,
+   "c": 7.81,
+   "a50": 87.42,
    "a200": 80.38,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.02,
-   "r": 55.2
+   "a20": 84.0,
+   "r": 54.9
   },
   {
    "s": "GC=F",
-   "p": 4118.2,
-   "c": 2.03,
-   "a50": 4220.78,
-   "a200": 4479.59,
+   "p": 4145.9,
+   "c": 2.72,
+   "a50": 4221.34,
+   "a200": 4479.73,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4072.95,
-   "r": 50.3
+   "a20": 4074.33,
+   "r": 52.2
   },
   {
    "s": "HG=F",
-   "p": 6.37,
-   "c": 0.79,
+   "p": 6.41,
+   "c": 1.35,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 54.5
+   "r": 56.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03095975,
-   "c": -0.0,
+   "c": 0.01,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290383.aspx"
   },
   {
-   "t": "Meta, BlackRock partner on $14 billion El Paso data center venture",
+   "t": "Mortgage and refinance interest rates today, Tuesday, July 28, 2026: Rates lower as fighting in Iran on pause",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/meta-blackrock-partner-14-billion-093946704.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-28-2026-rates-lower-as-fighting-in-iran-on-pause-100000181.html"
   },
   {
    "t": "中東戰火再起推升國際油價　布倫特站上每桶90美元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290380.aspx"
   },
   {
-   "t": "Mortgage and refinance interest rates today, Tuesday, July 28, 2026: Rates lower as fighting in Iran on pause",
+   "t": "The bond market's danger zone is becoming the new normal: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-28-2026-rates-lower-as-fighting-in-iran-on-pause-100000181.html"
+   "u": "https://finance.yahoo.com/markets/article/the-bond-markets-danger-zone-is-becoming-the-new-normal-chart-of-the-day-100000676.html"
   },
   {
    "t": "今彩539第115183期　頭獎1注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607290371.aspx"
   },
   {
-   "t": "The bond market's danger zone is becoming the new normal: Chart of the Day",
+   "t": "A 'Super El Niño' is expected to squeeze commodities even further this year",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/the-bond-markets-danger-zone-is-becoming-the-new-normal-chart-of-the-day-100000676.html"
+   "u": "https://finance.yahoo.com/markets/article/a-super-el-nino-is-expected-to-squeeze-commodities-even-further-this-year-100000389.html"
   },
   {
    "t": "台股融資餘額降至5070億元　大減385億元",
