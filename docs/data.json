@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 18:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 18:43（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -223,14 +223,14 @@
   },
   {
    "s": "NVDA",
-   "p": 197.01,
-   "c": 0.25,
-   "a50": 207.82,
-   "a200": 193.0,
+   "p": 196.51,
+   "c": -4.99,
+   "a50": 208.6,
+   "a200": 192.96,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.63,
-   "r": 42.9
+   "a20": 203.53,
+   "r": 42.4
   },
   {
    "s": "TSLA",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 18.21,
-   "c": -2.46,
-   "a50": 17.37,
+   "p": 18.25,
+   "c": 0.22,
+   "a50": 17.38,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.95,
+   "a20": 17.09,
    "r": 53.1
   },
   {
    "s": "BZ=F",
-   "p": 87.99,
-   "c": 4.64,
+   "p": 87.96,
+   "c": 4.6,
    "a50": 87.37,
    "a200": 80.37,
    "yh": 118.35,
@@ -300,34 +300,34 @@
   },
   {
    "s": "GC=F",
-   "p": 4090.5,
-   "c": 1.34,
-   "a50": 4220.23,
-   "a200": 4479.45,
+   "p": 4092.6,
+   "c": 1.39,
+   "a50": 4220.27,
+   "a200": 4479.46,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4071.56,
-   "r": 48.3
+   "a20": 4071.67,
+   "r": 48.5
   },
   {
    "s": "HG=F",
    "p": 6.32,
-   "c": -0.04,
+   "c": -0.06,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 51.9
+   "r": 51.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03084516,
-   "c": -0.35,
+   "p": 0.03083565,
+   "c": -0.39,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
-   "yl": 0.030845
+   "yl": 0.030836
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290255.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures steady in countdown to Fed decision, AI earnings test",
+   "t": "Elon Musk’s new 5-year warning to Americans: AI will beat human brains by 2032 (then go wild). Get rich or get crushed?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/elon-musk-5-warning-americans-103000996.html"
   },
   {
    "t": "消息人士：BMW擬2027年底前裁員8000人",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607290251.aspx"
   },
   {
-   "t": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
+   "t": "Apple set for strongest June-quarter sales growth in 5 years",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-set-strongest-june-quarter-102841504.html"
   },
   {
    "t": "台達電第2季淨利251億元年增8成　單季大賺近1股本",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290247.aspx"
   },
   {
-   "t": "Humana beats quarterly profit estimates as medical costs stay in line",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq futures steady in countdown to Fed decision, AI earnings test",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/humana-beats-quarterly-profit-estimates-101209208.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
   },
   {
    "t": "台積電自歷史高點回檔335元　散戶零股加碼不手軟",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290241.aspx"
   },
   {
-   "t": "You bought SpaceX shares at the IPO price — and now you’re losing money. Is it safe to buy the dip?",
+   "t": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bought-spacex-shares-ipo-price-100500603.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo"
   },
   {
    "t": "研調：2027年全球通用型伺服器CPU出貨年增23%",
