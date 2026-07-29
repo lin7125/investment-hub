@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 01:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 02:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 342.91,
-   "c": 0.83,
-   "a50": 308.68,
+   "p": 343.92,
+   "c": 1.13,
+   "a50": 308.7,
    "a200": 277.24,
-   "yh": 342.91,
+   "yh": 343.92,
    "yl": 202.38,
-   "a20": 322.64,
-   "r": 70.3
+   "a20": 322.69,
+   "r": 70.8
   },
   {
    "s": "NVDA",
-   "p": 192.4,
-   "c": -2.34,
-   "a50": 207.16,
-   "a200": 193.0,
+   "p": 193.13,
+   "c": -1.97,
+   "a50": 207.18,
+   "a200": 193.01,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.25,
-   "r": 39.5
+   "a20": 203.28,
+   "r": 40.0
   },
   {
    "s": "TSLA",
-   "p": 303.26,
-   "c": -1.93,
-   "a50": 397.04,
-   "a200": 413.41,
+   "p": 304.8,
+   "c": -0.86,
+   "a50": 394.77,
+   "a200": 412.78,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 379.77,
-   "r": 26.3
+   "a20": 374.19,
+   "r": 26.5
   },
   {
    "s": "META",
-   "p": 592.84,
-   "c": -0.1,
-   "a50": 604.69,
-   "a200": 636.15,
+   "p": 597.41,
+   "c": 0.67,
+   "a50": 604.78,
+   "a200": 636.17,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 626.17,
-   "r": 43.3
+   "a20": 626.4,
+   "r": 44.7
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7385.38,
-   "c": -0.58,
-   "a50": 7469.48,
-   "a200": 7015.85,
+   "p": 7407.47,
+   "c": -0.29,
+   "a50": 7469.92,
+   "a200": 7015.96,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7486.57,
-   "r": 42.8
+   "a20": 7487.67,
+   "r": 44.7
   },
   {
    "s": "^VIX",
-   "p": 19.57,
-   "c": 7.47,
+   "p": 19.55,
+   "c": 7.36,
    "a50": 17.4,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.16,
+   "a20": 17.15,
    "r": 57.7
   },
   {
    "s": "BZ=F",
-   "p": 90.19,
-   "c": 7.25,
-   "a50": 87.41,
+   "p": 90.52,
+   "c": 7.65,
+   "a50": 87.42,
    "a200": 80.38,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.98,
-   "r": 54.4
+   "a20": 84.0,
+   "r": 54.7
   },
   {
    "s": "GC=F",
-   "p": 4104.7,
-   "c": 1.69,
-   "a50": 4220.51,
+   "p": 4104.9,
+   "c": 1.7,
+   "a50": 4220.52,
    "a200": 4479.52,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4072.27,
+   "a20": 4072.28,
    "r": 49.4
   },
   {
    "s": "HG=F",
-   "p": 6.32,
-   "c": 0.03,
+   "p": 6.33,
+   "c": 0.11,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 52.1
+   "r": 52.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.0308928,
-   "c": -0.2,
+   "p": 0.03093102,
+   "c": -0.09,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300003.aspx"
   },
   {
-   "t": "56-year-old fast-food giant has closed over half its restaurants",
+   "t": "National beer and wine distributor files Chapter 11 bankruptcy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/56-old-fast-food-giant-162827239.html"
+   "u": "https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html"
   },
   {
    "t": "美股早盤下挫　市場等候聯準會決策及科技業財報出爐",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290383.aspx"
   },
   {
-   "t": "Types of life insurance: A complete guide",
+   "t": "Accenture Earnings Preview: What to Expect",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/types-of-life-insurance-173512440.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/accenture-earnings-preview-expect-091316200.html"
   },
   {
    "t": "中東戰火再起推升國際油價　布倫特站上每桶90美元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290380.aspx"
   },
   {
-   "t": "Stock market today: Dow falls over 800 points, S&P 500 and Nasdaq slide in countdown to Fed decision, AI earnings test",
+   "t": "Semiconductor stock charts just formed this bearish shape that signals more potential losses",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
+   "u": "https://finance.yahoo.com/markets/article/semiconductor-stock-charts-just-formed-this-bearish-shape-that-signals-more-potential-losses-145440205.html"
   },
   {
    "t": "今彩539第115183期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607290372.aspx"
   },
   {
-   "t": "Stocks drop as Mideast fighting reignites, Fed decision looms",
+   "t": "US Dollar Price Forecast: Fed, GDP and PCE Data in Focus – What’s Next for DXY, GBP/USD and EUR/USD?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-muted-investors-count-down-085413437.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-084156178.html"
   },
   {
    "t": "韓股今年第9度熔斷　個股槓桿型ETF如何加劇市場波動",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607290371.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Sinks As Fed Rate Decision, Warsh Comments Loom; KLA Tumbles (Live Coverage)",
+   "t": "Salesforce’s Agentforce Bet Made It the Dow’s Worst Performer. Is the Market Overreacting?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-sk-hynix-stock/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/salesforce-agentforce-bet-made-dow-083826022.html"
   },
   {
    "t": "台股融資餘額降至5070億元　大減385億元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290367.aspx"
   },
   {
-   "t": "National beer and wine distributor files Chapter 11 bankruptcy",
+   "t": "Secretary Bessent cracks down on non-profit tax loopholes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/secretary-bessent-cracks-down-non-160600716.html"
   }
  ],
  "inst": {
