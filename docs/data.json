@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 18:43（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 18:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,25 +212,25 @@
   },
   {
    "s": "AAPL",
-   "p": 336.91,
-   "c": 1.17,
-   "a50": 306.99,
-   "a200": 276.38,
-   "yh": 336.91,
+   "p": 340.08,
+   "c": 0.94,
+   "a50": 307.83,
+   "a200": 276.79,
+   "yh": 340.08,
    "yl": 202.38,
-   "a20": 317.04,
-   "r": 67.3
+   "a20": 319.96,
+   "r": 68.9
   },
   {
    "s": "NVDA",
-   "p": 196.51,
-   "c": -4.99,
-   "a50": 208.6,
-   "a200": 192.96,
+   "p": 197.01,
+   "c": 0.25,
+   "a50": 207.82,
+   "a200": 193.0,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.53,
-   "r": 42.4
+   "a20": 203.63,
+   "r": 42.9
   },
   {
    "s": "TSLA",
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 593.87,
-   "c": -0.22,
-   "a50": 605.62,
-   "a200": 637.48,
+   "p": 593.41,
+   "c": -0.08,
+   "a50": 605.12,
+   "a200": 636.85,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 623.15,
-   "r": 43.5
+   "a20": 624.69,
+   "r": 43.4
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7413.18,
-   "c": 0.07,
-   "a50": 7472.04,
-   "a200": 7005.74,
+   "p": 7428.78,
+   "c": 0.21,
+   "a50": 7469.94,
+   "a200": 7012.6,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7489.95,
-   "r": 45.0
+   "a20": 7492.27,
+   "r": 46.6
   },
   {
    "s": "^VIX",
-   "p": 18.25,
-   "c": 0.22,
+   "p": 18.32,
+   "c": 0.6,
    "a50": 17.38,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.09,
-   "r": 53.1
+   "r": 53.4
   },
   {
    "s": "BZ=F",
-   "p": 87.96,
-   "c": 4.6,
-   "a50": 87.37,
+   "p": 88.4,
+   "c": 5.13,
+   "a50": 87.38,
    "a200": 80.37,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.87,
-   "r": 52.1
+   "a20": 83.89,
+   "r": 52.5
   },
   {
    "s": "GC=F",
-   "p": 4092.6,
-   "c": 1.39,
-   "a50": 4220.27,
-   "a200": 4479.46,
+   "p": 4087.1,
+   "c": 1.26,
+   "a50": 4220.16,
+   "a200": 4479.43,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4071.67,
-   "r": 48.5
+   "a20": 4071.39,
+   "r": 48.1
   },
   {
    "s": "HG=F",
-   "p": 6.32,
-   "c": -0.06,
+   "p": 6.31,
+   "c": -0.12,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 51.8
+   "r": 51.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03083565,
-   "c": -0.39,
+   "c": -0.41,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290255.aspx"
   },
   {
-   "t": "Elon Musk’s new 5-year warning to Americans: AI will beat human brains by 2032 (then go wild). Get rich or get crushed?",
+   "t": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/elon-musk-5-warning-americans-103000996.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo"
   },
   {
    "t": "消息人士：BMW擬2027年底前裁員8000人",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607290251.aspx"
   },
   {
-   "t": "Apple set for strongest June-quarter sales growth in 5 years",
+   "t": "Morning Bid: US profit growth mushrooms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-set-strongest-june-quarter-102841504.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-us-profit-growth-103720497.html"
   },
   {
    "t": "台達電第2季淨利251億元年增8成　單季大賺近1股本",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290247.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures steady in countdown to Fed decision, AI earnings test",
+   "t": "Why some seniors become millionaires in America — while the majority never do. Are you doing enough?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
+   "u": "https://finance.yahoo.com/small-business/articles/why-seniors-become-millionaires-america-103500061.html"
   },
   {
    "t": "台積電自歷史高點回檔335元　散戶零股加碼不手軟",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290241.aspx"
   },
   {
-   "t": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
+   "t": "Elon Musk’s new 5-year warning to Americans: AI will beat human brains by 2032 (then go wild). Get rich or get crushed?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/ai/articles/elon-musk-5-warning-americans-103000996.html"
   },
   {
    "t": "研調：2027年全球通用型伺服器CPU出貨年增23%",
