@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 19:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 20:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -267,67 +267,67 @@
   },
   {
    "s": "^GSPC",
-   "p": 7413.18,
-   "c": 0.07,
-   "a50": 7472.04,
-   "a200": 7005.74,
+   "p": 7428.78,
+   "c": 0.21,
+   "a50": 7469.94,
+   "a200": 7012.6,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7489.95,
-   "r": 45.0
+   "a20": 7492.27,
+   "r": 46.6
   },
   {
    "s": "^VIX",
-   "p": 18.35,
-   "c": 0.77,
+   "p": 18.3,
+   "c": 0.49,
    "a50": 17.38,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.09,
-   "r": 53.5
+   "r": 53.3
   },
   {
    "s": "BZ=F",
-   "p": 88.11,
-   "c": 4.78,
+   "p": 87.92,
+   "c": 4.55,
    "a50": 87.37,
    "a200": 80.37,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 83.87,
-   "r": 52.2
+   "r": 52.0
   },
   {
    "s": "GC=F",
-   "p": 4090.5,
-   "c": 1.34,
-   "a50": 4220.23,
+   "p": 4091.4,
+   "c": 1.37,
+   "a50": 4220.25,
    "a200": 4479.45,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4071.56,
-   "r": 48.3
+   "a20": 4071.61,
+   "r": 48.4
   },
   {
    "s": "HG=F",
    "p": 6.32,
-   "c": -0.07,
+   "c": -0.09,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 51.8
+   "r": 51.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03084516,
-   "c": -0.36,
+   "p": 0.03085467,
+   "c": -0.34,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
-   "yl": 0.030845
+   "yl": 0.030855
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290317.aspx"
   },
   {
-   "t": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
+   "t": "P&G stock dips on soft outlook despite 'stable' consumer",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/article/pg-stock-dips-on-soft-outlook-despite-stable-consumer-115452561.html"
   },
   {
    "t": "亞股走勢不一  科技股慘跌拖累台韓股重摔",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290315.aspx"
   },
   {
-   "t": "First look: Old Dominion almost a sub-70 OR",
+   "t": "Apple to report Q3 earnings following price hikes on Macs, iPads",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/first-look-old-dominion-almost-113801924.html"
+   "u": "https://finance.yahoo.com/technology/article/apple-to-report-q3-earnings-following-price-hikes-on-macs-ipads-115246491.html"
   },
   {
    "t": "環球晶6月每股虧8.27元　Siltronic評價損失影響",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290313.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures steady in countdown to Fed decision, AI earnings test",
+   "t": "Buffett's Berkshire Hathaway holds a record $397 billion in cash. Is a market crash coming — should you follow his lead?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/buffetts-berkshire-hathaway-holds-record-114500562.html"
   },
   {
    "t": "金管會推金融大回饋提22項目　鼓勵訂長期規劃",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290303.aspx"
   },
   {
-   "t": "Sofi Earnings, Revenue Top Estimates But Fintech Stock Falls",
+   "t": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/sofi-stock-sofi-earnings-news-q22026/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo"
   },
   {
    "t": "F1巴林大獎賽移師雪邦　東南亞雙週賽凸顯應變韌性",
@@ -478,6 +478,6 @@
     "all": -4666
    }
   },
-  "totalNetE": -317.6
+  "totalNetE": -351.5
  }
 }
