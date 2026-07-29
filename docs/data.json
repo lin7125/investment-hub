@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 21:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 21:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 340.08,
-   "c": 0.94,
-   "a50": 307.83,
-   "a200": 276.79,
-   "yh": 340.08,
+   "p": 340.62,
+   "c": 0.16,
+   "a50": 308.64,
+   "a200": 277.23,
+   "yh": 340.62,
    "yl": 202.38,
-   "a20": 319.96,
-   "r": 68.9
+   "a20": 322.52,
+   "r": 69.2
   },
   {
    "s": "NVDA",
-   "p": 197.01,
-   "c": 0.25,
-   "a50": 207.82,
-   "a200": 193.0,
+   "p": 196.13,
+   "c": -0.45,
+   "a50": 207.24,
+   "a200": 193.02,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.63,
-   "r": 42.9
+   "a20": 203.43,
+   "r": 42.3
   },
   {
    "s": "TSLA",
-   "p": 307.44,
-   "c": -0.58,
-   "a50": 397.12,
-   "a200": 413.43,
+   "p": 305.77,
+   "c": -0.54,
+   "a50": 394.79,
+   "a200": 412.78,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 379.98,
-   "r": 27.0
+   "a20": 374.24,
+   "r": 26.7
   },
   {
    "s": "META",
-   "p": 593.41,
-   "c": -0.08,
-   "a50": 605.12,
-   "a200": 636.85,
+   "p": 592.27,
+   "c": -0.19,
+   "a50": 604.68,
+   "a200": 636.15,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 624.69,
-   "r": 43.4
+   "a20": 626.14,
+   "r": 43.1
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7428.78,
-   "c": 0.21,
-   "a50": 7469.94,
-   "a200": 7012.6,
+   "p": 7420.21,
+   "c": -0.12,
+   "a50": 7470.18,
+   "a200": 7016.03,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7492.27,
-   "r": 46.6
+   "a20": 7488.31,
+   "r": 45.8
   },
   {
    "s": "^VIX",
-   "p": 18.89,
-   "c": 3.73,
+   "p": 18.8,
+   "c": 3.24,
    "a50": 17.39,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.12,
-   "r": 55.5
+   "r": 55.2
   },
   {
    "s": "BZ=F",
-   "p": 89.59,
-   "c": 6.54,
+   "p": 89.48,
+   "c": 6.41,
    "a50": 87.4,
-   "a200": 80.38,
+   "a200": 80.37,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.95,
-   "r": 53.8
+   "a20": 83.94,
+   "r": 53.7
   },
   {
    "s": "GC=F",
-   "p": 4076.4,
-   "c": 0.99,
-   "a50": 4219.95,
-   "a200": 4479.38,
+   "p": 4080.5,
+   "c": 1.1,
+   "a50": 4220.03,
+   "a200": 4479.4,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.86,
-   "r": 47.2
+   "a20": 4071.06,
+   "r": 47.5
   },
   {
    "s": "HG=F",
-   "p": 6.31,
-   "c": -0.25,
+   "p": 6.32,
+   "c": -0.04,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 51.2
+   "r": 51.9
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290328.aspx"
   },
   {
-   "t": "Fed meeting live: Federal Reserve expected to hold rates steady, but Iran war adds tension",
+   "t": "Keurig Dr Pepper (KDP) Pops on Strong Beverage Sales",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-kdp-pops-131447922.html"
   },
   {
    "t": "外資賣超222億　提款主動式ETF、布局電信航空股",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290326.aspx"
   },
   {
-   "t": "Strong Fundamentals Keep Loar Holdings (LOAR) Flying High",
+   "t": "Fed meeting live: Federal Reserve expected to hold rates steady, but Iran war adds tension",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/strong-fundamentals-keep-loar-holdings-130939668.html"
+   "u": "https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html"
   },
   {
    "t": "台股慘摔成第7大跌點　投顧：短線回穩須看3訊號",
