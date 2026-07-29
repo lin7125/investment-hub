@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 04:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 04:48（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 90.96,
-   "c": 8.17,
-   "a50": 87.43,
+   "p": 90.72,
+   "c": 7.88,
+   "a50": 87.42,
    "a200": 80.38,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.02,
-   "r": 55.2
+   "a20": 84.01,
+   "r": 54.9
   },
   {
    "s": "GC=F",
-   "p": 4109.8,
-   "c": 1.82,
-   "a50": 4220.62,
-   "a200": 4479.55,
+   "p": 4121.0,
+   "c": 2.1,
+   "a50": 4220.84,
+   "a200": 4479.6,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4072.53,
-   "r": 49.7
+   "a20": 4073.09,
+   "r": 50.5
   },
   {
    "s": "HG=F",
-   "p": 6.34,
-   "c": 0.21,
+   "p": 6.35,
+   "c": 0.41,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 52.7
+   "r": 53.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03093102,
-   "c": -0.09,
+   "p": 0.03092146,
+   "c": -0.11,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300005.aspx"
   },
   {
-   "t": "AtriCure, Inc. (ATRC) Beat Earnings Estimates. Here’s What Could Drive ATRC Stock Next",
+   "t": "COPT Defense Properties Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/atricure-inc-atrc-beat-earnings-120800905.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/copt-defense-properties-q2-2026-123000403.html"
   },
   {
    "t": "韓股兩天暴跌16%　個股槓桿ETF釀災官方致歉",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300004.aspx"
   },
   {
-   "t": "AT&T Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "t": "NBT Bancorp Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/t-stock-outlook-wall-street-120752024.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nbt-bancorp-inc-q2-2026-123000382.html"
   },
   {
    "t": "AI概念股續跌拖累全球市場　倫敦股市逆勢創新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300003.aspx"
   },
   {
-   "t": "Silver prices today, Tuesday, July 28, 2026: Silver edges lower ahead of today's Fed meeting",
+   "t": "Element Solutions Inc Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-28-2026-silver-edges-lower-ahead-of-todays-fed-meeting-120508650.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/element-solutions-inc-q2-2026-123000805.html"
   },
   {
    "t": "美股早盤下挫　市場等候聯準會決策及科技業財報出爐",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290383.aspx"
   },
   {
-   "t": "Centene lifts annual profit forecast on improved cost management",
+   "t": "Amkor Technology, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/centene-raises-annual-profit-forecast-101126025.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-inc-q2-2026-123000344.html"
   },
   {
    "t": "中東戰火再起推升國際油價　布倫特站上每桶90美元",
