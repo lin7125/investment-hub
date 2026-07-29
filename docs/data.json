@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 02:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 02:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 343.46,
-   "c": 0.99,
+   "p": 343.29,
+   "c": 0.94,
    "a50": 308.69,
    "a200": 277.24,
-   "yh": 343.46,
+   "yh": 343.29,
    "yl": 202.38,
    "a20": 322.66,
-   "r": 70.6
+   "r": 70.5
   },
   {
    "s": "NVDA",
-   "p": 193.1,
-   "c": -1.98,
+   "p": 193.12,
+   "c": -1.97,
    "a50": 207.18,
    "a200": 193.01,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 302.95,
-   "c": -1.46,
-   "a50": 394.73,
+   "p": 302.14,
+   "c": -1.72,
+   "a50": 394.72,
    "a200": 412.77,
    "yh": 489.88,
-   "yl": 302.63,
-   "a20": 374.1,
-   "r": 26.2
+   "yl": 302.14,
+   "a20": 374.06,
+   "r": 26.1
   },
   {
    "s": "META",
-   "p": 593.46,
-   "c": 0.01,
-   "a50": 604.7,
-   "a200": 636.15,
+   "p": 594.13,
+   "c": 0.12,
+   "a50": 604.72,
+   "a200": 636.16,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 626.2,
-   "r": 43.4
+   "a20": 626.23,
+   "r": 43.6
   },
   {
    "s": "^TWII",
@@ -267,7 +267,7 @@
   },
   {
    "s": "^GSPC",
-   "p": 7392.37,
+   "p": 7392.49,
    "c": -0.49,
    "a50": 7469.62,
    "a200": 7015.89,
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 18.79,
-   "c": 3.19,
+   "p": 18.65,
+   "c": 2.42,
    "a50": 17.39,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.12,
-   "r": 55.1
+   "a20": 17.11,
+   "r": 54.6
   },
   {
    "s": "BZ=F",
-   "p": 90.64,
-   "c": 7.79,
-   "a50": 87.42,
+   "p": 90.95,
+   "c": 8.16,
+   "a50": 87.43,
    "a200": 80.38,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.0,
-   "r": 54.9
+   "a20": 84.02,
+   "r": 55.2
   },
   {
    "s": "GC=F",
-   "p": 4137.4,
-   "c": 2.5,
-   "a50": 4221.17,
-   "a200": 4479.68,
+   "p": 4126.6,
+   "c": 2.24,
+   "a50": 4220.95,
+   "a200": 4479.63,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.91,
-   "r": 51.6
+   "a20": 4073.37,
+   "r": 50.9
   },
   {
    "s": "HG=F",
-   "p": 6.39,
-   "c": 1.04,
+   "p": 6.38,
+   "c": 0.93,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 55.3
+   "r": 55.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03092146,
-   "c": -0.11,
+   "p": 0.0309119,
+   "c": -0.15,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290383.aspx"
   },
   {
-   "t": "Accenture Earnings Preview: What to Expect",
+   "t": "Meta, BlackRock partner on $14 billion El Paso data center venture",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/accenture-earnings-preview-expect-091316200.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/meta-blackrock-partner-14-billion-093946704.html"
   },
   {
    "t": "中東戰火再起推升國際油價　布倫特站上每桶90美元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290380.aspx"
   },
   {
-   "t": "Meta, BlackRock partner on $14 billion El Paso data center venture",
+   "t": "Accenture Earnings Preview: What to Expect",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/meta-blackrock-partner-14-billion-093946704.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/accenture-earnings-preview-expect-091316200.html"
   },
   {
    "t": "今彩539第115183期　頭獎1注中獎",
