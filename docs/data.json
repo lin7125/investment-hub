@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 20:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 20:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,56 +278,56 @@
   },
   {
    "s": "^VIX",
-   "p": 18.82,
-   "c": 3.35,
+   "p": 18.75,
+   "c": 2.97,
    "a50": 17.39,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.12,
-   "r": 55.2
+   "a20": 17.11,
+   "r": 55.0
   },
   {
    "s": "BZ=F",
-   "p": 89.71,
-   "c": 6.68,
+   "p": 89.46,
+   "c": 6.39,
    "a50": 87.4,
-   "a200": 80.38,
+   "a200": 80.37,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.95,
-   "r": 53.9
+   "a20": 83.94,
+   "r": 53.7
   },
   {
    "s": "GC=F",
-   "p": 4075.8,
-   "c": 0.98,
-   "a50": 4219.94,
-   "a200": 4479.38,
+   "p": 4079.3,
+   "c": 1.07,
+   "a50": 4220.01,
+   "a200": 4479.39,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.83,
-   "r": 47.2
+   "a20": 4071.0,
+   "r": 47.5
   },
   {
    "s": "HG=F",
-   "p": 6.29,
-   "c": -0.46,
+   "p": 6.3,
+   "c": -0.39,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 50.4
+   "r": 50.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03087373,
-   "c": -0.27,
+   "p": 0.03088326,
+   "c": -0.24,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
-   "yl": 0.030874
+   "yl": 0.030883
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290339.aspx"
   },
   {
-   "t": "Fed meeting live: Federal Reserve expected to hold rates steady, but Iran war adds tension",
+   "t": "Gold prices today, Wednesday, July 29, 2026: Gold prices hold firm ahead of Fed rate decision",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-29-2026-gold-prices-hold-firm-ahead-of-fed-rate-decision-123524051.html"
   },
   {
    "t": "台股重挫　金管會：信用交易擔保維持率為165.5%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290329.aspx"
   },
   {
-   "t": "Earnings live: Humana stock falls, Procter & Gamble dips, with Big Tech earnings on deck",
+   "t": "‘Tariffs have saved General Motors:’ Trump claims import taxes help GM. They'll cost the company up to $3.5 billion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/earnings-live-humana-stock-falls-procter--gamble-dips-with-big-tech-earnings-on-deck-115207214.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/tariffs-saved-general-motors-trump-123000324.html"
   },
   {
    "t": "政府推離岸風電中長程規劃　沃旭：對產業釋正面訊號",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290328.aspx"
   },
   {
-   "t": "Seagate Stock Shakes Off AI Rally Fears With Big Earnings Beat",
+   "t": "Meta Earnings Preview: This Is The Number To Watch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/seagate-stock-stx-earnings-july-2026/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/meta-stock-q2-2026-earnings-preview-big-tech/?src=A00220&yptr=yahoo"
   },
   {
    "t": "外資賣超222億　提款主動式ETF、布局電信航空股",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290318.aspx"
   },
   {
-   "t": "Analyst Report: Celestica Inc",
+   "t": "Secretary Bessent cracks down on non-profit tax loopholes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_2844_AnalystReport_1785323789000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/economy/policy/articles/secretary-bessent-cracks-down-non-160600716.html"
   }
  ],
  "inst": {
