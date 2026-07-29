@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 21:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 21:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,113 +212,113 @@
   },
   {
    "s": "AAPL",
-   "p": 340.08,
-   "c": 0.94,
-   "a50": 307.83,
-   "a200": 276.79,
-   "yh": 340.08,
+   "p": 336.91,
+   "c": 1.17,
+   "a50": 306.99,
+   "a200": 276.38,
+   "yh": 336.91,
    "yl": 202.38,
-   "a20": 319.96,
-   "r": 68.9
+   "a20": 317.04,
+   "r": 67.3
   },
   {
    "s": "NVDA",
-   "p": 197.01,
-   "c": 0.25,
-   "a50": 207.82,
-   "a200": 193.0,
+   "p": 196.51,
+   "c": -4.99,
+   "a50": 208.6,
+   "a200": 192.96,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.63,
-   "r": 42.9
+   "a20": 203.53,
+   "r": 42.4
   },
   {
    "s": "TSLA",
-   "p": 307.44,
-   "c": -0.58,
-   "a50": 397.12,
-   "a200": 413.43,
+   "p": 309.22,
+   "c": -1.22,
+   "a50": 399.84,
+   "a200": 414.09,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 379.98,
-   "r": 27.0
+   "a20": 385.2,
+   "r": 27.3
   },
   {
    "s": "META",
-   "p": 593.41,
-   "c": -0.08,
-   "a50": 605.12,
-   "a200": 636.85,
+   "p": 593.87,
+   "c": -0.22,
+   "a50": 605.62,
+   "a200": 637.48,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 624.69,
-   "r": 43.4
+   "a20": 623.15,
+   "r": 43.5
   },
   {
    "s": "^TWII",
    "p": 40039.18,
-   "c": -3.76,
-   "a50": 44597.5,
-   "a200": 34857.67,
+   "c": -8.24,
+   "a50": 44533.62,
+   "a200": 34692.48,
    "yh": 47741.51,
    "yl": 23201.52,
-   "a20": 44650.27,
-   "r": 31.5
+   "a20": 44943.65,
+   "r": 32.5
   },
   {
    "s": "^GSPC",
-   "p": 7428.78,
-   "c": 0.21,
-   "a50": 7469.94,
-   "a200": 7012.6,
+   "p": 7413.18,
+   "c": 0.07,
+   "a50": 7472.04,
+   "a200": 7005.74,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7492.27,
-   "r": 46.6
+   "a20": 7489.95,
+   "r": 45.0
   },
   {
    "s": "^VIX",
    "p": 18.67,
-   "c": 2.53,
-   "a50": 17.39,
+   "c": 0.0,
+   "a50": 17.37,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.11,
-   "r": 54.7
+   "a20": 16.98,
+   "r": 54.9
   },
   {
    "s": "BZ=F",
-   "p": 89.94,
-   "c": 6.96,
+   "p": 89.83,
+   "c": 6.83,
    "a50": 87.41,
    "a200": 80.38,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.97,
-   "r": 54.2
+   "a20": 83.96,
+   "r": 54.0
   },
   {
    "s": "GC=F",
-   "p": 4081.1,
-   "c": 1.11,
-   "a50": 4220.04,
-   "a200": 4479.4,
+   "p": 4083.7,
+   "c": 1.17,
+   "a50": 4220.09,
+   "a200": 4479.42,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4071.09,
-   "r": 47.6
+   "a20": 4071.22,
+   "r": 47.8
   },
   {
    "s": "HG=F",
-   "p": 6.3,
-   "c": -0.29,
+   "p": 6.31,
+   "c": -0.24,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 51.0
+   "r": 51.2
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290339.aspx"
   },
   {
-   "t": "Birkenstock Holding plc (BIRK) Walks Tall on Margins",
+   "t": "SK Hynix's record profit fails to impress investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/birkenstock-holding-plc-birk-walks-125557521.html"
+   "u": "https://finance.yahoo.com/markets/article/sk-hynixs-record-profit-fails-to-impress-investors-130352334.html"
   },
   {
    "t": "台股重挫　金管會：信用交易擔保維持率為165.5%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290329.aspx"
   },
   {
-   "t": "Silver prices today, Wednesday, July 29, 2026: Prices hold steady this morning amid renewed airstrikes and pending rate decision",
+   "t": "Birkenstock Holding plc (BIRK) Walks Tall on Margins",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-29-2026-prices-hold-steady-this-morning-amid-renewed-airstrikes-and-pending-rate-decision-125424129.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/birkenstock-holding-plc-birk-walks-125557521.html"
   },
   {
    "t": "政府推離岸風電中長程規劃　沃旭：對產業釋正面訊號",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290328.aspx"
   },
   {
-   "t": "MarineMax (HZO): Ace River Exit Driven by Opportunity Cost, Not Fundamentals",
+   "t": "Silver prices today, Wednesday, July 29, 2026: Prices hold steady this morning amid renewed airstrikes and pending rate decision",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/marinemax-hzo-ace-river-exit-125006674.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-29-2026-prices-hold-steady-this-morning-amid-renewed-airstrikes-and-pending-rate-decision-125424129.html"
   },
   {
    "t": "外資賣超222億　提款主動式ETF、布局電信航空股",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290326.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures steady in countdown to Fed decision, AI earnings test",
+   "t": "MarineMax (HZO): Ace River Exit Driven by Opportunity Cost, Not Fundamentals",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/marinemax-hzo-ace-river-exit-125006674.html"
   },
   {
    "t": "台股慘摔成第7大跌點　投顧：短線回穩須看3訊號",
