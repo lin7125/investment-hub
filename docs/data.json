@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 08:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 08:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -281,16 +281,16 @@
    "p": 18.21,
    "c": -2.46,
    "a50": 17.37,
-   "a200": 18.73,
+   "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.95,
-   "r": 53.1
+   "a20": 17.0,
+   "r": 52.9
   },
   {
    "s": "BZ=F",
-   "p": 86.95,
-   "c": -1.6,
+   "p": 86.98,
+   "c": -1.56,
    "a50": 87.85,
    "a200": 80.27,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4023.3,
-   "c": -1.26,
-   "a50": 4229.28,
+   "p": 4022.0,
+   "c": -1.29,
+   "a50": 4229.25,
    "a200": 4478.66,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4067.53,
+   "a20": 4067.47,
    "r": 43.0
   },
   {
    "s": "HG=F",
-   "p": 6.34,
-   "c": 0.05,
+   "p": 6.35,
+   "c": 0.12,
    "a50": 6.3,
    "a200": 5.77,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.26,
-   "r": 53.1
+   "r": 53.3
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290011.aspx"
   },
   {
-   "t": "One number instantly explains why Apple's investors are having a wildly different year than Oracle's",
+   "t": "Jensen Quality Growth Equity Strategy Trimmed Its Position in Broadridge Financial Solutions (BR)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/one-number-instantly-explains-why-apples-investors-are-having-a-wildly-different-year-than-oracles-155100388.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jensen-quality-growth-equity-strategy-121804668.html"
   },
   {
    "t": "企業財報佳油價回落　歐洲股市收漲",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290002.aspx"
   },
   {
-   "t": "Arm Holdings Earnings Preview: AI Optimism Faces Its Next Big Test",
+   "t": "Cintas Corporation (CTAS) Looks Attractive After Weak Share Performance",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-earnings-preview-ai-155031081.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cintas-corporation-ctas-looks-attractive-121124131.html"
   },
   {
    "t": "空軍一號改裝成本增　波音第2季虧近139億元大於預期",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607280371.aspx"
   },
   {
-   "t": "Ford, General Motors Upgraded On Profit, Cash Flow Outlooks. One Eyes A Buy Point.",
+   "t": "Earnings Preview: What To Expect From Oracle’s Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/ford-general-motors-electric-vehicles-evs-auto-industry/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-oracle-report-121449172.html"
   },
   {
    "t": "英國美食大賞　台灣原民部落苦茶油獲卓越星級獎章",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607280370.aspx"
   },
   {
-   "t": "The Campbell’s Company (CPB) Offers Promising Upside Despite Past Challenges",
+   "t": "Alphabet (GOOG) Gained on Strong Cloud Growth and Easing AI Search Concerns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/campbell-company-cpb-offers-promising-154851072.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-goog-gained-strong-120636126.html"
   }
  ],
  "inst": {
