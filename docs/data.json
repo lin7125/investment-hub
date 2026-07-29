@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 18:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 19:03（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -223,14 +223,14 @@
   },
   {
    "s": "NVDA",
-   "p": 197.01,
-   "c": 0.25,
-   "a50": 207.82,
-   "a200": 193.0,
+   "p": 196.51,
+   "c": -4.99,
+   "a50": 208.6,
+   "a200": 192.96,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.63,
-   "r": 42.9
+   "a20": 203.53,
+   "r": 42.4
   },
   {
    "s": "TSLA",
@@ -257,13 +257,13 @@
   {
    "s": "^TWII",
    "p": 40039.18,
-   "c": -8.24,
-   "a50": 44533.62,
-   "a200": 34692.48,
+   "c": -3.76,
+   "a50": 44597.5,
+   "a200": 34857.67,
    "yh": 47741.51,
    "yl": 23201.52,
-   "a20": 44943.65,
-   "r": 32.5
+   "a20": 44650.27,
+   "r": 31.5
   },
   {
    "s": "^GSPC",
@@ -278,64 +278,64 @@
   },
   {
    "s": "^VIX",
-   "p": 18.32,
-   "c": 0.6,
+   "p": 18.31,
+   "c": 0.55,
    "a50": 17.38,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.09,
-   "r": 53.4
+   "r": 53.3
   },
   {
    "s": "BZ=F",
-   "p": 88.4,
-   "c": 5.13,
+   "p": 88.5,
+   "c": 5.24,
    "a50": 87.38,
    "a200": 80.37,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 83.89,
-   "r": 52.5
+   "r": 52.7
   },
   {
    "s": "GC=F",
-   "p": 4087.1,
-   "c": 1.26,
-   "a50": 4220.16,
+   "p": 4086.0,
+   "c": 1.23,
+   "a50": 4220.14,
    "a200": 4479.43,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4071.39,
-   "r": 48.1
+   "a20": 4071.34,
+   "r": 48.0
   },
   {
    "s": "HG=F",
    "p": 6.31,
-   "c": -0.12,
+   "c": -0.17,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 51.6
+   "r": 51.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03083565,
-   "c": -0.41,
+   "p": 0.03084516,
+   "c": -0.37,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
-   "yl": 0.030836
+   "yl": 0.030845
   }
  ],
  "news": [
   {
-   "t": "聯電：第3季出貨估增7%至9%　毛利率上看36%",
+   "t": "台股慘摔成第7大跌點　投顧：短線回穩須看3訊號",
    "pub": "中央社財經",
    "d": "2026-07-29",
-   "u": "https://www.cna.com.tw/news/afe/202607290257.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607290318.aspx"
   },
   {
    "t": "Toyota doubles down on EVs while rivals retreat",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/technology/articles/toyota-doubles-down-evs-while-033300077.html"
   },
   {
-   "t": "是方：中科資料中心估10月動工　未來5年高成長",
+   "t": "3C家電拉高買氣　全電商客單價破3000元拚營收50億元",
    "pub": "中央社財經",
    "d": "2026-07-29",
-   "u": "https://www.cna.com.tw/news/afe/202607290255.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607290317.aspx"
   },
   {
    "t": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
@@ -356,10 +356,10 @@
    "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "消息人士：BMW擬2027年底前裁員8000人",
+   "t": "亞股走勢不一  科技股慘跌拖累台韓股重摔",
    "pub": "中央社財經",
    "d": "2026-07-29",
-   "u": "https://www.cna.com.tw/news/aopl/202607290251.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607290315.aspx"
   },
   {
    "t": "Morning Bid: US profit growth mushrooms",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-us-profit-growth-103720497.html"
   },
   {
-   "t": "台達電第2季淨利251億元年增8成　單季大賺近1股本",
+   "t": "環球晶6月每股虧8.27元　Siltronic評價損失影響",
    "pub": "中央社財經",
    "d": "2026-07-29",
-   "u": "https://www.cna.com.tw/news/afe/202607290247.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607290313.aspx"
   },
   {
    "t": "Why some seniors become millionaires in America — while the majority never do. Are you doing enough?",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/why-seniors-become-millionaires-america-103500061.html"
   },
   {
-   "t": "台積電自歷史高點回檔335元　散戶零股加碼不手軟",
+   "t": "金管會推金融大回饋提22項目　鼓勵訂長期規劃",
    "pub": "中央社財經",
    "d": "2026-07-29",
-   "u": "https://www.cna.com.tw/news/afe/202607290241.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607290303.aspx"
   },
   {
    "t": "Elon Musk’s new 5-year warning to Americans: AI will beat human brains by 2032 (then go wild). Get rich or get crushed?",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/elon-musk-5-warning-americans-103000996.html"
   },
   {
-   "t": "研調：2027年全球通用型伺服器CPU出貨年增23%",
+   "t": "F1巴林大獎賽移師雪邦　東南亞雙週賽凸顯應變韌性",
    "pub": "中央社財經",
    "d": "2026-07-29",
-   "u": "https://www.cna.com.tw/news/afe/202607290238.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202607290302.aspx"
   },
   {
    "t": "Secretary Bessent cracks down on non-profit tax loopholes",
