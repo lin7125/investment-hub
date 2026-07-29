@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 05:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 05:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,13 +300,13 @@
   },
   {
    "s": "GC=F",
-   "p": 4125.9,
+   "p": 4126.0,
    "c": 2.22,
    "a50": 4220.94,
    "a200": 4479.63,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.33,
+   "a20": 4073.34,
    "r": 50.9
   },
   {
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03092146,
-   "c": -0.11,
+   "c": -0.12,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300005.aspx"
   },
   {
-   "t": "Ford Motor Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "t": "Accenture (ACN) Faces Growth Concerns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ford-motor-stock-outlook-wall-124104666.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-faces-growth-concerns-130846610.html"
   },
   {
    "t": "韓股兩天暴跌16%　個股槓桿ETF釀災官方致歉",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300004.aspx"
   },
   {
-   "t": "Do Wall Street Analysts Like CVS Health Stock?",
+   "t": "McDonald’s Corporation (MCD) Fell as Rising Beef Prices Weighed on Sentiment",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-cvs-health-123400719.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-corporation-mcd-fell-rising-131046197.html"
   },
   {
    "t": "AI概念股續跌拖累全球市場　倫敦股市逆勢創新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300003.aspx"
   },
   {
-   "t": "Broadcom Leads 3 AI Stocks Quietly Raising Their Dividends, One by 161%",
+   "t": "Why this analyst is down on Apple stock even as it hovers near record highs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/broadcom-leads-3-ai-stocks-123002594.html"
+   "u": "https://finance.yahoo.com/markets/article/why-this-analyst-is-down-on-apple-stock-even-as-it-hovers-near-record-highs-130907412.html"
   },
   {
    "t": "美股早盤下挫　市場等候聯準會決策及科技業財報出爐",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290383.aspx"
   },
   {
-   "t": "Amkor Technology, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Chevron Corporation (CVX) Remains Well Placed to Benefit From High Commodity Prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-inc-q2-2026-123000344.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chevron-corporation-cvx-remains-well-131455654.html"
   },
   {
    "t": "中東戰火再起推升國際油價　布倫特站上每桶90美元",
