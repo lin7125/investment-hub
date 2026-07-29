@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 22:39（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 22:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 341.4,
-   "c": 0.39,
+   "p": 341.31,
+   "c": 0.36,
    "a50": 308.65,
    "a200": 277.23,
-   "yh": 341.4,
+   "yh": 341.31,
    "yl": 202.38,
    "a20": 322.56,
-   "r": 69.6
+   "r": 69.5
   },
   {
    "s": "NVDA",
-   "p": 191.95,
-   "c": -2.57,
-   "a50": 207.16,
+   "p": 191.6,
+   "c": -2.75,
+   "a50": 207.15,
    "a200": 193.0,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.22,
-   "r": 39.2
+   "a20": 203.21,
+   "r": 39.0
   },
   {
    "s": "TSLA",
-   "p": 303.93,
-   "c": -1.14,
-   "a50": 394.75,
+   "p": 302.58,
+   "c": -1.58,
+   "a50": 394.73,
    "a200": 412.77,
    "yh": 489.88,
-   "yl": 302.63,
-   "a20": 374.15,
-   "r": 26.4
+   "yl": 302.58,
+   "a20": 374.08,
+   "r": 26.1
   },
   {
    "s": "META",
-   "p": 590.76,
-   "c": -0.45,
-   "a50": 604.65,
-   "a200": 636.14,
+   "p": 588.46,
+   "c": -0.83,
+   "a50": 604.6,
+   "a200": 636.13,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 626.06,
-   "r": 42.7
+   "a20": 625.95,
+   "r": 42.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7376.33,
-   "c": -0.71,
-   "a50": 7469.3,
-   "a200": 7015.81,
+   "p": 7363.72,
+   "c": -0.88,
+   "a50": 7469.05,
+   "a200": 7015.74,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7486.11,
-   "r": 42.1
+   "a20": 7485.48,
+   "r": 41.2
   },
   {
    "s": "^VIX",
-   "p": 19.51,
-   "c": 7.14,
+   "p": 19.5,
+   "c": 7.08,
    "a50": 17.4,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.15,
-   "r": 57.6
+   "r": 57.5
   },
   {
    "s": "BZ=F",
-   "p": 90.08,
-   "c": 7.12,
-   "a50": 87.41,
+   "p": 90.29,
+   "c": 7.37,
+   "a50": 87.42,
    "a200": 80.38,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.97,
-   "r": 54.3
+   "a20": 83.98,
+   "r": 54.5
   },
   {
    "s": "GC=F",
-   "p": 4063.9,
-   "c": 0.68,
+   "p": 4064.2,
+   "c": 0.69,
    "a50": 4219.7,
    "a200": 4479.32,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.23,
+   "a20": 4070.25,
    "r": 46.2
   },
   {
    "s": "HG=F",
-   "p": 6.31,
-   "c": -0.25,
+   "p": 6.3,
+   "c": -0.31,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 51.1
+   "r": 51.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03088326,
-   "c": -0.23,
+   "p": 0.0308928,
+   "c": -0.22,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290339.aspx"
   },
   {
-   "t": "Mortgage rate predictions through 2030: Where are they headed?",
+   "t": "Semiconductor stocks are going up in smoke. But the S&P 500 is holding strong.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-2030-where-are-they-headed-195826935.html"
+   "u": "https://finance.yahoo.com/markets/article/semiconductor-stocks-are-going-up-in-smoke-but-the-sp-500-is-holding-strong-143223884.html"
   },
   {
    "t": "台股重挫　金管會：信用交易擔保維持率為165.5%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290329.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq slide in countdown to Fed decision, AI earnings test",
+   "t": "Stock Market Today: Dow Dives 600 Points As Oil Spikes, Fed Decision Looms; Seagate Outperforms (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-sk-hynix-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "政府推離岸風電中長程規劃　沃旭：對產業釋正面訊號",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290328.aspx"
   },
   {
-   "t": "Celadon Bankruptcy: The Inside Story & Stranded Drivers [FreightWaves Exclusive]",
+   "t": "Mortgage rate predictions through 2030: Where are they headed?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/celadon-bankruptcy-inside-story-stranded-141904932.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-2030-where-are-they-headed-195826935.html"
   },
   {
    "t": "外資賣超222億　提款主動式ETF、布局電信航空股",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290326.aspx"
   },
   {
-   "t": "PACCAR Q2 profit climbs as class 8 truck demand firms",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slide in countdown to Fed decision, AI earnings test",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/paccar-q2-profit-climbs-class-141638774.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
   },
   {
    "t": "台股慘摔成第7大跌點　投顧：短線回穩須看3訊號",
