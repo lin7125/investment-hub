@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 04:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 04:28（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,14 +278,14 @@
   },
   {
    "s": "^VIX",
-   "p": 20.57,
-   "c": 12.96,
-   "a50": 17.42,
+   "p": 20.7,
+   "c": 13.67,
+   "a50": 17.43,
    "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.21,
-   "r": 60.7
+   "r": 61.1
   },
   {
    "s": "BZ=F",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4111.9,
-   "c": 1.87,
-   "a50": 4220.66,
-   "a200": 4479.56,
+   "p": 4109.7,
+   "c": 1.82,
+   "a50": 4220.61,
+   "a200": 4479.55,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4072.63,
-   "r": 49.9
+   "a20": 4072.52,
+   "r": 49.7
   },
   {
    "s": "HG=F",
-   "p": 6.35,
-   "c": 0.41,
+   "p": 6.34,
+   "c": 0.33,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 53.4
+   "r": 53.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03094059,
-   "c": -0.05,
+   "p": 0.03093102,
+   "c": -0.07,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300004.aspx"
   },
   {
-   "t": "If You Invested $20,000 in Meta 5 Years Ago, How Much Could You Have Now?",
+   "t": "AT&T Stock Outlook: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/invested-20-000-meta-5-120000779.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/t-stock-outlook-wall-street-120752024.html"
   },
   {
    "t": "AI概念股續跌拖累全球市場　倫敦股市逆勢創新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300003.aspx"
   },
   {
-   "t": "Gold prices today, Tuesday, July 28, 2026: Gold remains below $4,100 ahead of Fed meeting",
+   "t": "If You Invested $20,000 in Meta 5 Years Ago, How Much Could You Have Now?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-28-2026-gold-remains-below-4100-ahead-of-fed-meeting-114031587.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/invested-20-000-meta-5-120000779.html"
   },
   {
    "t": "美股早盤下挫　市場等候聯準會決策及科技業財報出爐",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290383.aspx"
   },
   {
-   "t": "Brookfield sees 6.5 GW of AI data-centre capacity coming online in India",
+   "t": "Silver prices today, Tuesday, July 28, 2026: Silver edges lower ahead of today's Fed meeting",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/brookfield-sees-6-5-gw-113832545.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-july-28-2026-silver-edges-lower-ahead-of-todays-fed-meeting-120508650.html"
   },
   {
    "t": "中東戰火再起推升國際油價　布倫特站上每桶90美元",
