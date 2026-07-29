@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 02:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 02:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 343.64,
-   "c": 1.05,
-   "a50": 308.7,
+   "p": 343.46,
+   "c": 0.99,
+   "a50": 308.69,
    "a200": 277.24,
-   "yh": 343.64,
+   "yh": 343.46,
    "yl": 202.38,
-   "a20": 322.67,
+   "a20": 322.66,
    "r": 70.6
   },
   {
    "s": "NVDA",
-   "p": 192.9,
-   "c": -2.08,
+   "p": 193.1,
+   "c": -1.98,
    "a50": 207.18,
    "a200": 193.01,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.27,
-   "r": 39.9
+   "a20": 203.28,
+   "r": 40.0
   },
   {
    "s": "TSLA",
-   "p": 304.18,
-   "c": -1.06,
-   "a50": 394.76,
-   "a200": 412.78,
+   "p": 302.95,
+   "c": -1.46,
+   "a50": 394.73,
+   "a200": 412.77,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 374.16,
-   "r": 26.4
+   "a20": 374.1,
+   "r": 26.2
   },
   {
    "s": "META",
-   "p": 595.63,
-   "c": 0.37,
-   "a50": 604.75,
-   "a200": 636.16,
+   "p": 593.46,
+   "c": 0.01,
+   "a50": 604.7,
+   "a200": 636.15,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 626.31,
-   "r": 44.2
+   "a20": 626.2,
+   "r": 43.4
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7398.86,
-   "c": -0.19,
-   "a50": 7471.13,
-   "a200": 7009.16,
+   "p": 7392.37,
+   "c": -0.49,
+   "a50": 7469.62,
+   "a200": 7015.89,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7492.19,
-   "r": 43.9
+   "a20": 7486.92,
+   "r": 43.4
   },
   {
    "s": "^VIX",
-   "p": 19.42,
-   "c": 6.64,
-   "a50": 17.4,
+   "p": 18.79,
+   "c": 3.19,
+   "a50": 17.39,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.15,
-   "r": 57.3
+   "a20": 17.12,
+   "r": 55.1
   },
   {
    "s": "BZ=F",
-   "p": 90.69,
-   "c": 7.85,
+   "p": 90.64,
+   "c": 7.79,
    "a50": 87.42,
    "a200": 80.38,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4126.0,
-   "c": 2.22,
-   "a50": 4220.94,
-   "a200": 4479.63,
+   "p": 4137.4,
+   "c": 2.5,
+   "a50": 4221.17,
+   "a200": 4479.68,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.34,
-   "r": 50.9
+   "a20": 4073.91,
+   "r": 51.6
   },
   {
    "s": "HG=F",
    "p": 6.39,
-   "c": 1.15,
+   "c": 1.04,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 55.6
+   "r": 55.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03094059,
-   "c": -0.06,
+   "p": 0.03092146,
+   "c": -0.11,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607290380.aspx"
   },
   {
-   "t": "Semiconductor stock charts just formed this bearish shape that signals more potential losses",
+   "t": "Meta, BlackRock partner on $14 billion El Paso data center venture",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/semiconductor-stock-charts-just-formed-this-bearish-shape-that-signals-more-potential-losses-145440205.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/meta-blackrock-partner-14-billion-093946704.html"
   },
   {
    "t": "今彩539第115183期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607290372.aspx"
   },
   {
-   "t": "Salesforce’s Agentforce Bet Made It the Dow’s Worst Performer. Is the Market Overreacting?",
+   "t": "Semiconductor stock charts just formed this bearish shape that signals more potential losses",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/salesforce-agentforce-bet-made-dow-083826022.html"
+   "u": "https://finance.yahoo.com/markets/article/semiconductor-stock-charts-just-formed-this-bearish-shape-that-signals-more-potential-losses-145440205.html"
   },
   {
    "t": "韓股今年第9度熔斷　個股槓桿型ETF如何加劇市場波動",
