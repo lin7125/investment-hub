@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29 15:52（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-29 18:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,130 +212,130 @@
   },
   {
    "s": "AAPL",
-   "p": 336.91,
-   "c": 1.17,
-   "a50": 306.99,
-   "a200": 276.38,
-   "yh": 336.91,
+   "p": 340.08,
+   "c": 0.94,
+   "a50": 307.83,
+   "a200": 276.79,
+   "yh": 340.08,
    "yl": 202.38,
-   "a20": 317.04,
-   "r": 67.3
+   "a20": 319.96,
+   "r": 68.9
   },
   {
    "s": "NVDA",
-   "p": 196.51,
-   "c": -4.99,
-   "a50": 208.6,
-   "a200": 192.96,
+   "p": 197.01,
+   "c": 0.25,
+   "a50": 207.82,
+   "a200": 193.0,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.53,
-   "r": 42.4
+   "a20": 203.63,
+   "r": 42.9
   },
   {
    "s": "TSLA",
-   "p": 309.22,
-   "c": -1.22,
-   "a50": 399.84,
-   "a200": 414.09,
+   "p": 307.44,
+   "c": -0.58,
+   "a50": 397.12,
+   "a200": 413.43,
    "yh": 489.88,
    "yl": 302.63,
-   "a20": 385.2,
-   "r": 27.3
+   "a20": 379.98,
+   "r": 27.0
   },
   {
    "s": "META",
-   "p": 593.87,
-   "c": -0.22,
-   "a50": 605.62,
-   "a200": 637.48,
+   "p": 593.41,
+   "c": -0.08,
+   "a50": 605.12,
+   "a200": 636.85,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 623.15,
-   "r": 43.5
+   "a20": 624.69,
+   "r": 43.4
   },
   {
    "s": "^TWII",
    "p": 40039.18,
-   "c": -8.24,
-   "a50": 44533.62,
-   "a200": 34692.48,
+   "c": -3.76,
+   "a50": 44597.5,
+   "a200": 34857.67,
    "yh": 47741.51,
    "yl": 23201.52,
-   "a20": 44943.65,
-   "r": 32.5
+   "a20": 44650.27,
+   "r": 31.5
   },
   {
    "s": "^GSPC",
-   "p": 7413.18,
-   "c": 0.07,
-   "a50": 7472.04,
-   "a200": 7005.74,
+   "p": 7428.78,
+   "c": 0.21,
+   "a50": 7469.94,
+   "a200": 7012.6,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7489.95,
-   "r": 45.0
+   "a20": 7492.27,
+   "r": 46.6
   },
   {
    "s": "^VIX",
-   "p": 18.18,
-   "c": -2.62,
-   "a50": 17.37,
+   "p": 18.23,
+   "c": 0.11,
+   "a50": 17.38,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.95,
+   "a20": 17.09,
    "r": 53.0
   },
   {
    "s": "BZ=F",
-   "p": 86.94,
-   "c": 3.39,
-   "a50": 87.35,
-   "a200": 80.36,
+   "p": 87.74,
+   "c": 4.34,
+   "a50": 87.37,
+   "a200": 80.37,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 83.82,
-   "r": 50.9
+   "a20": 83.86,
+   "r": 51.8
   },
   {
    "s": "GC=F",
-   "p": 4106.2,
-   "c": 1.73,
-   "a50": 4220.54,
-   "a200": 4479.53,
+   "p": 4091.7,
+   "c": 1.37,
+   "a50": 4220.25,
+   "a200": 4479.46,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4072.35,
-   "r": 49.5
+   "a20": 4071.62,
+   "r": 48.4
   },
   {
    "s": "HG=F",
-   "p": 6.35,
-   "c": 0.38,
+   "p": 6.32,
+   "c": -0.02,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.27,
-   "r": 53.3
+   "r": 52.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03087373,
-   "c": -0.26,
+   "p": 0.03085467,
+   "c": -0.34,
    "a50": 0.0314169,
    "a200": 0.03170577,
    "yh": 0.033546,
-   "yl": 0.030874
+   "yl": 0.030855
   }
  ],
  "news": [
   {
-   "t": "三大法人賣超台股317.57億元",
+   "t": "聯電：第3季出貨估增7%至9%　毛利率上看36%",
    "pub": "中央社財經",
    "d": "2026-07-29",
-   "u": "https://www.cna.com.tw/news/afe/202607290188.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607290257.aspx"
   },
   {
    "t": "Toyota doubles down on EVs while rivals retreat",
@@ -344,58 +344,58 @@
    "u": "https://finance.yahoo.com/technology/articles/toyota-doubles-down-evs-while-033300077.html"
   },
   {
-   "t": "市場關注企業財報及Fed會議  日經收跌1.5%連2天重挫",
+   "t": "是方：中科資料中心估10月動工　未來5年高成長",
    "pub": "中央社財經",
    "d": "2026-07-29",
-   "u": "https://www.cna.com.tw/news/afe/202607290178.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607290255.aspx"
   },
   {
-   "t": "Royal Caribbean Surges Briefly Ahead Of Results As Oil Prices Slide",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq futures steady after Korean stocks fall, Iran resumes attacks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/royal-caribbean-cruise-lines-airlines-surge-oil-prices-us-iran-strike-halt-rcl-stock-nclh-aal-dal-ual-ccl/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
   },
   {
-   "t": "台股重挫1564點險守4萬點　38檔千金股10檔跌停",
+   "t": "消息人士：BMW擬2027年底前裁員8000人",
    "pub": "中央社財經",
    "d": "2026-07-29",
-   "u": "https://www.cna.com.tw/news/afe/202607290177.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202607290251.aspx"
   },
   {
-   "t": "Apple Stock Hits Record High Before Fiscal Q3 Earnings",
+   "t": "Mortgage and refinance rates today, Wednesday, July 29, 2026: Rates up across the board ahead of Fed rate decision",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/apple-stock-hits-record-high-before-fiscal-q3-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-july-29-2026-rates-up-across-the-board-ahead-of-fed-rate-decision-100000462.html"
   },
   {
-   "t": "林宜敬：AIEC以台灣觀點評測模型　主權AI可創造商機",
+   "t": "台達電第2季淨利251億元年增8成　單季大賺近1股本",
    "pub": "中央社財經",
    "d": "2026-07-29",
-   "u": "https://www.cna.com.tw/news/afe/202607290165.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607290247.aspx"
   },
   {
-   "t": "ASML Stock Falls on Reports of Chinese DUV Competition",
+   "t": "The chip crash is exposing the brutal cost of leverage: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/asml-stock-falls-reports-chinese-203341511.html"
+   "u": "https://finance.yahoo.com/markets/article/the-chip-crash-is-exposing-the-brutal-cost-of-leverage-chart-of-the-day-100000401.html"
   },
   {
-   "t": "三星3款摺疊機齊發　看好整體滲透率挑戰15%",
+   "t": "台積電自歷史高點回檔335元　散戶零股加碼不手軟",
    "pub": "中央社財經",
    "d": "2026-07-29",
-   "u": "https://www.cna.com.tw/news/afe/202607290162.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607290241.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Up As These Stocks Test Entries; This AI Play Fights Back Before Key Event (Live Coverage)",
+   "t": "HELOC and home equity loan rates today, Wednesday, July 29, 2026: Why locking in a low rate matters",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices-plunge/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-wednesday-july-29-2026-why-locking-in-a-low-rate-matters-100000292.html"
   },
   {
-   "t": "中英商務部長視訊  北京籲審慎處理英鋼國有化議題",
+   "t": "研調：2027年全球通用型伺服器CPU出貨年增23%",
    "pub": "中央社財經",
    "d": "2026-07-29",
-   "u": "https://www.cna.com.tw/news/acn/202607290154.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202607290238.aspx"
   },
   {
    "t": "Secretary Bessent cracks down on non-profit tax loopholes",
@@ -405,79 +405,79 @@
   }
  ],
  "inst": {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "byCode": {
-   "6442": {
-    "f": 242,
-    "t": 33,
-    "all": 279
-   },
-   "4722": {
-    "f": 281,
-    "t": 0,
-    "all": 226
-   },
-   "6706": {
-    "f": 320,
-    "t": 0,
-    "all": 208
-   },
-   "3701": {
-    "f": 81,
-    "t": 0,
-    "all": 78
-   },
-   "6862": {
-    "f": 41,
-    "t": 0,
-    "all": 26
-   },
-   "6515": {
-    "f": -13,
-    "t": 1,
-    "all": -13
-   },
-   "6446": {
-    "f": -353,
-    "t": 0,
-    "all": -355
-   },
-   "2305": {
-    "f": -547,
-    "t": 0,
-    "all": -471
-   },
    "1802": {
-    "f": -732,
-    "t": 1,
-    "all": -885
-   },
-   "2454": {
-    "f": -2056,
-    "t": -284,
-    "all": -2340
-   },
-   "2327": {
-    "f": -954,
-    "t": -2377,
-    "all": -3079
-   },
-   "2308": {
-    "f": -5959,
-    "t": -39,
-    "all": -5778
-   },
-   "2330": {
-    "f": -14660,
-    "t": 284,
-    "all": -9252
+    "f": 4787,
+    "t": -67,
+    "all": 5191
    },
    "2317": {
-    "f": -20087,
-    "t": 1194,
-    "all": -17039
+    "f": -1316,
+    "t": 1094,
+    "all": 2028
+   },
+   "2305": {
+    "f": 1457,
+    "t": 0,
+    "all": 1421
+   },
+   "6446": {
+    "f": 442,
+    "t": 8,
+    "all": 457
+   },
+   "4722": {
+    "f": 453,
+    "t": 1,
+    "all": 403
+   },
+   "2308": {
+    "f": -347,
+    "t": 170,
+    "all": 301
+   },
+   "3701": {
+    "f": 183,
+    "t": 0,
+    "all": 181
+   },
+   "6706": {
+    "f": 169,
+    "t": 0,
+    "all": 102
+   },
+   "2454": {
+    "f": -170,
+    "t": -2,
+    "all": 64
+   },
+   "6862": {
+    "f": 61,
+    "t": 0,
+    "all": 49
+   },
+   "6515": {
+    "f": 116,
+    "t": -100,
+    "all": 17
+   },
+   "6442": {
+    "f": -59,
+    "t": 3,
+    "all": -45
+   },
+   "2327": {
+    "f": -639,
+    "t": -870,
+    "all": -1522
+   },
+   "2330": {
+    "f": -11211,
+    "t": 1622,
+    "all": -4696
    }
   },
-  "totalNetE": -1176.0
+  "totalNetE": -317.6
  }
 }
