@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 21:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 21:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 18.87,
-   "c": -8.66,
+   "p": 18.93,
+   "c": -8.37,
    "a50": 17.44,
    "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.32,
-   "r": 53.7
+   "a20": 17.33,
+   "r": 54.0
   },
   {
    "s": "BZ=F",
-   "p": 89.94,
-   "c": -0.88,
-   "a50": 86.98,
-   "a200": 80.52,
+   "p": 89.1,
+   "c": -1.81,
+   "a50": 86.97,
+   "a200": 80.51,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.92,
-   "r": 53.9
+   "a20": 84.88,
+   "r": 52.9
   },
   {
    "s": "GC=F",
-   "p": 4126.5,
-   "c": 2.28,
-   "a50": 4210.59,
-   "a200": 4479.92,
+   "p": 4133.8,
+   "c": 2.46,
+   "a50": 4210.74,
+   "a200": 4479.96,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4071.68,
-   "r": 51.4
+   "a20": 4072.05,
+   "r": 51.9
   },
   {
    "s": "HG=F",
-   "p": 6.45,
-   "c": 2.73,
+   "p": 6.44,
+   "c": 2.72,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 57.6
+   "r": 57.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03080715,
-   "c": -0.3,
+   "c": -0.29,
    "a50": 0.03139717,
    "a200": 0.03169572,
    "yh": 0.033501,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300349.aspx"
   },
   {
-   "t": "Fed's favored inflation gauge shows prices edged down in June but remain high",
+   "t": "Terminal raises $20M to untangle fleet telematics data",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-shows-prices-edged-down-in-june-but-remain-high-125504496.html"
+   "u": "https://finance.yahoo.com/technology/articles/terminal-raises-20m-untangle-fleet-130000948.html"
   },
   {
    "t": "金管會第3階段納管12家融資租賃公司　9/15上路",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300342.aspx"
   },
   {
-   "t": "Carvana stock tumbles as full-year guidance disappoints despite record quarter",
+   "t": "Equifax 'duplicate collection account' class-action settlement: Who qualifies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/carvana-stock-tumbles-as-full-year-guidance-disappoints-despite-record-quarter-125421795.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/equifax-duplicate-collection-account-class-action-settlement-who-qualifies-130000338.html"
   },
   {
    "t": "歐元區Q2經濟成長超預期　受惠AI投資和消費信心改善",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300335.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rebound ahead of inflation data",
+   "t": "Lilly, Resilience to invest $750 million in US drug manufacturing expansion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-082255995.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/lilly-resilience-invest-750-million-125833005.html"
   },
   {
    "t": "台電接管離岸風電2期風機安裝　拚今年底完成併網",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300332.aspx"
   },
   {
-   "t": "Meta stock sinks 10% on earnings miss, 'barely passable' quarter",
+   "t": "Stock Market Today: Dow Rises After Inflation Data; Meta Plunges On Earnings (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/meta-stock-sinks-10-on-earnings-miss-barely-passable-quarter-124851083.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-meta-stock-meta-q2-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "證交所強化資安韌性　攜中華電新建備援資訊中心",
