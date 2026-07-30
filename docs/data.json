@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 21:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 21:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 338.19,
-   "c": -0.56,
-   "a50": 308.59,
-   "a200": 277.21,
+   "p": 332.66,
+   "c": -1.64,
+   "a50": 309.29,
+   "a200": 277.65,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 322.4,
-   "r": 66.8
+   "a20": 324.31,
+   "r": 60.9
   },
   {
    "s": "NVDA",
-   "p": 190.01,
-   "c": -3.55,
-   "a50": 207.12,
-   "a200": 192.99,
+   "p": 192.21,
+   "c": 1.16,
+   "a50": 206.51,
+   "a200": 193.04,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.13,
-   "r": 38.0
+   "a20": 202.86,
+   "r": 40.3
   },
   {
    "s": "TSLA",
-   "p": 298.32,
-   "c": -2.97,
-   "a50": 394.64,
-   "a200": 412.75,
+   "p": 306.3,
+   "c": 2.67,
+   "a50": 392.57,
+   "a200": 412.21,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 373.86,
-   "r": 25.4
+   "a20": 367.91,
+   "r": 29.4
   },
   {
    "s": "META",
-   "p": 585.61,
-   "c": -1.31,
-   "a50": 604.55,
-   "a200": 636.11,
+   "p": 528.45,
+   "c": -9.76,
+   "a50": 602.89,
+   "a200": 635.23,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 625.81,
-   "r": 41.4
+   "a20": 621.58,
+   "r": 30.5
   },
   {
    "s": "^TWII",
@@ -267,67 +267,67 @@
   },
   {
    "s": "^GSPC",
-   "p": 7316.15,
-   "c": -1.52,
-   "a50": 7468.1,
-   "a200": 7015.51,
+   "p": 7382.49,
+   "c": 0.91,
+   "a50": 7467.68,
+   "a200": 7019.66,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7483.11,
-   "r": 38.0
+   "a20": 7478.07,
+   "r": 44.5
   },
   {
    "s": "^VIX",
-   "p": 18.93,
-   "c": -8.37,
+   "p": 18.86,
+   "c": -8.71,
    "a50": 17.44,
    "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.33,
-   "r": 54.0
+   "a20": 17.32,
+   "r": 53.7
   },
   {
    "s": "BZ=F",
-   "p": 89.1,
-   "c": -1.81,
+   "p": 89.38,
+   "c": -1.5,
    "a50": 86.97,
    "a200": 80.51,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.88,
-   "r": 52.9
+   "a20": 84.9,
+   "r": 53.3
   },
   {
    "s": "GC=F",
-   "p": 4133.8,
-   "c": 2.46,
-   "a50": 4210.74,
-   "a200": 4479.96,
+   "p": 4136.9,
+   "c": 2.53,
+   "a50": 4210.8,
+   "a200": 4479.98,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4072.05,
-   "r": 51.9
+   "a20": 4072.2,
+   "r": 52.1
   },
   {
    "s": "HG=F",
    "p": 6.44,
-   "c": 2.72,
+   "c": 2.66,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 57.5
+   "r": 57.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03080715,
-   "c": -0.29,
+   "p": 0.03083565,
+   "c": -0.22,
    "a50": 0.03139717,
    "a200": 0.03169572,
    "yh": 0.033501,
-   "yl": 0.030807
+   "yl": 0.030836
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300349.aspx"
   },
   {
-   "t": "Terminal raises $20M to untangle fleet telematics data",
+   "t": "Starbucks is unlocking a major untapped part of its business",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/terminal-raises-20m-untangle-fleet-130000948.html"
+   "u": "https://finance.yahoo.com/markets/article/starbucks-is-unlocking-a-major-untapped-part-of-its-business-132356443.html"
   },
   {
    "t": "金管會第3階段納管12家融資租賃公司　9/15上路",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300342.aspx"
   },
   {
-   "t": "Equifax 'duplicate collection account' class-action settlement: Who qualifies",
+   "t": "Bitcoin and ethereum prices today, Thursday, July 30, 2026: Prices rise after Fed leaves rates unchanged",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/equifax-duplicate-collection-account-class-action-settlement-who-qualifies-130000338.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-30-2026-prices-rise-after-fed-leaves-rates-unchanged-132340233.html"
   },
   {
    "t": "歐元區Q2經濟成長超預期　受惠AI投資和消費信心改善",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300335.aspx"
   },
   {
-   "t": "Lilly, Resilience to invest $750 million in US drug manufacturing expansion",
+   "t": "Definium Therapeutics (DFTX) Redefines Depression & Anxiety Treatment",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/lilly-resilience-invest-750-million-125833005.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/definium-therapeutics-dftx-redefines-depression-132107807.html"
   },
   {
    "t": "台電接管離岸風電2期風機安裝　拚今年底完成併網",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300332.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Rises After Inflation Data; Meta Plunges On Earnings (Live Coverage)",
+   "t": "The Coca-Cola Company: Volume Scale Beats CPG Stagflation as FIFA Activation Drives Guidance Upgrade",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-meta-stock-meta-q2-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-company-volume-scale-131924953.html"
   },
   {
    "t": "證交所強化資安韌性　攜中華電新建備援資訊中心",
