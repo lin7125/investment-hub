@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 04:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 05:09（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 89.59,
-   "c": -1.27,
-   "a50": 86.98,
-   "a200": 80.52,
+   "p": 89.45,
+   "c": -1.42,
+   "a50": 86.97,
+   "a200": 80.51,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.91,
-   "r": 53.5
+   "a20": 84.9,
+   "r": 53.3
   },
   {
    "s": "GC=F",
-   "p": 4161.2,
-   "c": 3.14,
-   "a50": 4211.29,
+   "p": 4162.8,
+   "c": 3.17,
+   "a50": 4211.32,
    "a200": 4480.1,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.42,
-   "r": 53.7
+   "a20": 4073.5,
+   "r": 53.8
   },
   {
    "s": "HG=F",
-   "p": 6.49,
-   "c": 3.45,
+   "p": 6.5,
+   "c": 3.64,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.3
+   "r": 59.7
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "Expedia Group Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-stock-wall-street-122311874.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Meta Earnings Preview: This Is The Number To Watch",
+   "t": "Zoetis (ZTS) Slid on Weak Response to Great Ideas",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/meta-stock-q2-2026-earnings-preview-big-tech/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/zoetis-zts-slid-weak-response-125900328.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Landstar System, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Bristol-Myers Squibb Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/landstar-system-inc-q2-2026-123000428.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bristol-myers-squibb-stock-analyst-130908136.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Teradyne, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Eliyan raises $145 million at $1 billion valuation to ease AI chip data bottlenecks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/teradyne-inc-q2-2026-earnings-123000058.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/eliyan-raises-145-million-1-130637741.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
