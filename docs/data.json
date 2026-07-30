@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 06:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 06:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4166.4,
+   "p": 4166.2,
    "c": 3.26,
    "a50": 4211.39,
    "a200": 4480.12,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.68,
+   "a20": 4073.67,
    "r": 54.1
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": 3.66,
+   "c": 3.62,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.8
+   "r": 59.7
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "CrowdStrike Stock Just Scored a New 'Buy' Rating. Here's Why.",
+   "t": "X, World Federation of Advertisers settle litigation over GARM dispute",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-just-scored-buy-145643168.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/x-world-federation-advertisers-settle-150551887.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "SoFi Earnings, Revenue Top Estimates. Here's Why Fintech Stock Tumbled.",
+   "t": "Realty Income (O): Should You Buy Only For Monthly Dividends?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/sofi-stock-sofi-earnings-news-q22026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/realty-income-o-buy-only-150244491.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Why Ericsson’s Worst Day in Three Years Wasn’t About This Quarter’s Numbers",
+   "t": "What Comes Next for AAPL Stock After Apple Hits $5 Trillion Market Cap",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-ericsson-worst-day-three-144514841.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/comes-next-aapl-stock-apple-150126050.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300383.aspx"
   },
   {
-   "t": "Dear SoFi Stock Fans, Mark Your Calendars for July 29",
+   "t": "Ahead of FOMC Meeting Results, Make This 1 Trade Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-sofi-stock-fans-mark-144518711.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/ahead-fomc-meeting-results-1-150004251.html"
   }
  ],
  "inst": {
