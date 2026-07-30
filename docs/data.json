@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 06:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 06:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,13 +300,13 @@
   },
   {
    "s": "GC=F",
-   "p": 4163.7,
+   "p": 4164.0,
    "c": 3.2,
    "a50": 4211.34,
    "a200": 4480.11,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.54,
+   "a20": 4073.56,
    "r": 53.9
   },
   {
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Dear SoFi Stock Fans, Mark Your Calendars for July 29",
+   "t": "Dollar Little Changed Ahead of FOMC Meeting Results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-sofi-stock-fans-mark-144518711.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-little-changed-ahead-fomc-143542363.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "SoFi is revving up consumer lending. Investors are tapping the breaks.",
+   "t": "Semiconductor stocks are going up in smoke. But the S&P 500 is holding strong.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/sofi-is-revving-up-consumer-lending-investors-are-tapping-the-breaks-144223166.html"
+   "u": "https://finance.yahoo.com/markets/article/semiconductor-stocks-are-going-up-in-smoke-but-the-sp-500-is-holding-strong-143223884.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Why Ericsson’s Worst Day in Three Years Wasn’t About This Quarter’s Numbers",
+   "t": "Reddit’s Self-Service Ad Push Could Matter More Than Its Headline Growth Numbers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-ericsson-worst-day-three-144514841.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/reddit-self-ad-push-could-142838993.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300383.aspx"
   },
   {
-   "t": "Do Wall Street Analysts Like Freeport-McMoRan Stock?",
+   "t": "Exxon Mobil (XOM): President Trump’s Top Energy Stock Pick?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-freeport-mcmoran-144517280.html"
+   "u": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-president-trump-142914070.html"
   }
  ],
  "inst": {
