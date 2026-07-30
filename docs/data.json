@@ -1,407 +1,407 @@
 {
- "generatedAt": "2026-07-30 22:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 02:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2205.0,
-   "c": 0.23,
-   "a50": 2368.0,
-   "a200": 1891.32,
+   "p": 2200.0,
+   "c": -3.51,
+   "a50": 2367.6,
+   "a200": 1886.82,
    "yh": 2510.0,
    "yl": 1125.0,
-   "a20": 2381.0,
-   "r": 35.8
+   "a20": 2394.0,
+   "r": 35.2
   },
   {
    "s": "2317.TW",
-   "p": 229.5,
-   "c": -3.16,
-   "a50": 256.29,
-   "a200": 233.49,
+   "p": 237.0,
+   "c": -0.42,
+   "a50": 256.5,
+   "a200": 233.42,
    "yh": 309.0,
    "yl": 171.5,
-   "a20": 240.95,
-   "r": 37.7
+   "a20": 241.42,
+   "r": 42.3
   },
   {
    "s": "2308.TW",
-   "p": 1530.0,
-   "c": 2.34,
-   "a50": 2044.7,
-   "a200": 1480.62,
+   "p": 1495.0,
+   "c": -5.38,
+   "a50": 2052.4,
+   "a200": 1477.24,
    "yh": 2520.0,
    "yl": 530.0,
-   "a20": 1816.5,
-   "r": 31.3
+   "a20": 1838.5,
+   "r": 28.5
   },
   {
    "s": "2454.TW",
-   "p": 3235.0,
-   "c": 2.7,
-   "a50": 4062.9,
-   "a200": 2302.52,
+   "p": 3150.0,
+   "c": -4.98,
+   "a50": 4062.8,
+   "a200": 2292.93,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3717.75,
-   "r": 36.3
+   "a20": 3773.25,
+   "r": 33.5
   },
   {
    "s": "2327.TW",
-   "p": 456.5,
-   "c": -9.96,
-   "a50": 828.09,
-   "a200": 406.66,
+   "p": 507.0,
+   "c": -9.95,
+   "a50": 829.36,
+   "a200": 405.23,
    "yh": 1140.0,
    "yl": 130.75,
-   "a20": 750.28,
-   "r": 24.7
+   "a20": 780.2,
+   "r": 27.0
   },
   {
    "s": "1802.TW",
-   "p": 42.6,
-   "c": -3.29,
-   "a50": 64.64,
-   "a200": 50.94,
+   "p": 44.05,
+   "c": -8.52,
+   "a50": 65.07,
+   "a200": 50.86,
    "yh": 76.6,
    "yl": 21.75,
-   "a20": 58.04,
-   "r": 24.4
+   "a20": 59.43,
+   "r": 25.6
   },
   {
    "s": "6862.TW",
-   "p": 117.0,
-   "c": -2.9,
-   "a50": 182.51,
-   "a200": 178.42,
+   "p": 120.5,
+   "c": -6.95,
+   "a50": 183.49,
+   "a200": 178.59,
    "yh": 228.0,
-   "yl": 117.0,
-   "a20": 159.55,
-   "r": 24.8
+   "yl": 120.5,
+   "a20": 163.3,
+   "r": 25.8
   },
   {
    "s": "3701.TW",
-   "p": 33.5,
-   "c": -4.56,
-   "a50": 46.61,
-   "a200": 48.74,
+   "p": 35.1,
+   "c": -9.07,
+   "a50": 46.97,
+   "a200": 48.78,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.38,
-   "r": 25.9
+   "a20": 40.86,
+   "r": 28.3
   },
   {
    "s": "4722.TW",
-   "p": 160.5,
-   "c": -3.6,
-   "a50": 254.13,
-   "a200": 198.9,
+   "p": 166.5,
+   "c": -9.76,
+   "a50": 255.66,
+   "a200": 199.06,
    "yh": 306.5,
    "yl": 68.2,
-   "a20": 231.18,
-   "r": 25.5
+   "a20": 237.0,
+   "r": 26.6
   },
   {
    "s": "6706.TW",
-   "p": 88.5,
-   "c": -5.95,
-   "a50": 153.61,
-   "a200": 124.33,
+   "p": 94.1,
+   "c": -7.75,
+   "a50": 155.05,
+   "a200": 124.34,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 121.2,
-   "r": 23.0
+   "a20": 124.25,
+   "r": 24.9
   },
   {
    "s": "2305.TW",
-   "p": 27.55,
-   "c": 0.36,
-   "a50": 30.49,
-   "a200": 17.56,
+   "p": 27.45,
+   "c": -10.0,
+   "a50": 30.27,
+   "a200": 17.48,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 34.36,
-   "r": 37.3
+   "a20": 34.86,
+   "r": 37.0
   },
   {
    "s": "6442.TW",
-   "p": 1050.0,
-   "c": -5.41,
-   "a50": 1685.8,
-   "a200": 1556.28,
+   "p": 1110.0,
+   "c": -9.76,
+   "a50": 1700.2,
+   "a200": 1554.99,
    "yh": 2370.0,
    "yl": 590.0,
-   "a20": 1364.5,
-   "r": 28.6
+   "a20": 1393.75,
+   "r": 30.5
   },
   {
    "s": "6515.TW",
-   "p": 5290.0,
-   "c": -2.31,
-   "a50": 8150.0,
-   "a200": 5751.3,
+   "p": 5415.0,
+   "c": -8.76,
+   "a50": 8225.8,
+   "a200": 5736.18,
    "yh": 10795.0,
    "yl": 1075.0,
-   "a20": 6984.0,
-   "r": 29.1
+   "a20": 7185.0,
+   "r": 29.9
   },
   {
    "s": "6446.TW",
-   "p": 1025.0,
-   "c": -5.09,
-   "a50": 1036.08,
-   "a200": 660.33,
+   "p": 1080.0,
+   "c": -3.14,
+   "a50": 1029.81,
+   "a200": 657.53,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1215.61,
-   "r": 39.8
+   "a20": 1227.24,
+   "r": 44.1
   },
   {
    "s": "3324.TWO",
-   "p": 820.0,
-   "c": -4.09,
-   "a50": 1000.22,
-   "a200": 993.83,
+   "p": 855.0,
+   "c": -1.72,
+   "a50": 1002.6,
+   "a200": 993.93,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 913.9,
-   "r": 34.4
+   "a20": 924.9,
+   "r": 37.8
   },
   {
    "s": "3491.TWO",
-   "p": 923.0,
-   "c": -9.95,
-   "a50": 1510.86,
-   "a200": 1147.36,
+   "p": 1025.0,
+   "c": -5.96,
+   "a50": 1527.5,
+   "a200": 1144.98,
    "yh": 2200.0,
    "yl": 320.5,
-   "a20": 1217.4,
-   "r": 29.4
+   "a20": 1234.5,
+   "r": 33.1
   },
   {
    "s": "3585.TWO",
-   "p": 38.35,
-   "c": -0.9,
-   "a50": 68.22,
-   "a200": 39.62,
+   "p": 38.7,
+   "c": -4.68,
+   "a50": 69.23,
+   "a200": 39.52,
    "yh": 165.0,
    "yl": 5.4,
-   "a20": 55.12,
-   "r": 25.5
+   "a20": 56.8,
+   "r": 25.7
   },
   {
    "s": "6223.TWO",
-   "p": 4800.0,
-   "c": 0.21,
-   "a50": 6172.4,
-   "a200": 3777.28,
+   "p": 4790.0,
+   "c": -7.26,
+   "a50": 6190.0,
+   "a200": 3761.85,
    "yh": 7380.0,
    "yl": 994.0,
-   "a20": 6102.75,
-   "r": 34.5
+   "a20": 6225.5,
+   "r": 34.3
   },
   {
    "s": "6750.TWO",
-   "p": 49.3,
-   "c": -1.3,
-   "a50": 63.84,
+   "p": 49.95,
+   "c": -7.5,
+   "a50": 64.2,
    "a200": 56.27,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 59.72,
-   "r": 21.9
+   "a20": 60.54,
+   "r": 22.6
   },
   {
    "s": "AAPL",
-   "p": 330.84,
-   "c": -2.17,
-   "a50": 309.25,
-   "a200": 277.64,
+   "p": 333.08,
+   "c": -1.51,
+   "a50": 309.29,
+   "a200": 277.65,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.22,
-   "r": 59.2
+   "a20": 324.34,
+   "r": 61.3
   },
   {
    "s": "NVDA",
-   "p": 196.35,
-   "c": 3.34,
-   "a50": 206.6,
-   "a200": 193.06,
+   "p": 193.77,
+   "c": 1.98,
+   "a50": 206.55,
+   "a200": 193.04,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.07,
-   "r": 44.3
+   "a20": 202.94,
+   "r": 41.9
   },
   {
    "s": "TSLA",
-   "p": 307.99,
-   "c": 3.24,
-   "a50": 392.6,
-   "a200": 412.22,
+   "p": 307.08,
+   "c": 2.94,
+   "a50": 392.58,
+   "a200": 412.21,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 368.0,
-   "r": 30.2
+   "a20": 367.95,
+   "r": 29.7
   },
   {
    "s": "META",
-   "p": 532.4,
-   "c": -9.09,
+   "p": 532.2,
+   "c": -9.12,
    "a50": 602.97,
    "a200": 635.25,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 621.78,
+   "a20": 621.77,
    "r": 31.1
   },
   {
    "s": "^TWII",
-   "p": 39933.3,
-   "c": -0.26,
-   "a50": 44592.66,
-   "a200": 34929.43,
+   "p": 40039.18,
+   "c": -3.76,
+   "a50": 44597.5,
+   "a200": 34857.67,
    "yh": 47741.51,
    "yl": 23378.94,
-   "a20": 44295.98,
-   "r": 31.2
+   "a20": 44650.27,
+   "r": 31.5
   },
   {
    "s": "^GSPC",
-   "p": 7411.57,
-   "c": 1.3,
-   "a50": 7468.27,
-   "a200": 7019.8,
+   "p": 7422.09,
+   "c": 1.45,
+   "a50": 7468.48,
+   "a200": 7019.85,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7479.52,
-   "r": 46.9
+   "a20": 7480.05,
+   "r": 47.7
   },
   {
    "s": "^VIX",
-   "p": 18.33,
-   "c": -11.28,
-   "a50": 17.43,
+   "p": 17.93,
+   "c": -13.21,
+   "a50": 17.42,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.3,
-   "r": 51.9
+   "a20": 17.28,
+   "r": 50.6
   },
   {
    "s": "BZ=F",
-   "p": 90.05,
-   "c": -0.76,
-   "a50": 86.98,
-   "a200": 80.52,
+   "p": 89.37,
+   "c": -1.51,
+   "a50": 86.97,
+   "a200": 80.51,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.93,
-   "r": 54.1
+   "a20": 84.9,
+   "r": 53.3
   },
   {
    "s": "GC=F",
-   "p": 4153.1,
-   "c": 2.93,
-   "a50": 4211.13,
-   "a200": 4480.06,
+   "p": 4162.7,
+   "c": 3.17,
+   "a50": 4211.32,
+   "a200": 4480.1,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.01,
-   "r": 53.2
+   "a20": 4073.49,
+   "r": 53.8
   },
   {
    "s": "HG=F",
-   "p": 6.46,
-   "c": 2.93,
+   "p": 6.47,
+   "c": 3.14,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 58.1
+   "r": 58.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03084516,
-   "c": -0.18,
+   "p": 0.03083565,
+   "c": -0.19,
    "a50": 0.03140704,
    "a200": 0.03169572,
    "yh": 0.033501,
-   "yl": 0.030845
+   "yl": 0.030836
   }
  ],
  "news": [
   {
-   "t": "中華電、遠傳秀AI應用　助企業數位轉型升級",
+   "t": "日圓兌美元強勁升值2%　引發日銀干預揣測",
    "pub": "中央社財經",
    "d": "2026-07-30",
-   "u": "https://www.cna.com.tw/news/afe/202607300350.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202607300392.aspx"
+  },
+  {
+   "t": "Markets react to Fed's July interest rate decision",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/economy/policy/articles/markets-react-feds-july-interest-210558874.html"
+  },
+  {
+   "t": "法國Q2經濟成長0.2%　熱浪頻頻為全年展望添壓力",
+   "pub": "中央社財經",
+   "d": "2026-07-30",
+   "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
+  },
+  {
+   "t": "Stock market today: Nasdaq soars, Dow and S&P 500 rebound as Microsoft leads tech gains, bond yields rise",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-treasury-yields-microsoft-082255995.html"
+  },
+  {
+   "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
+   "pub": "中央社財經",
+   "d": "2026-07-30",
+   "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
+  },
+  {
+   "t": "Copper Stock Strategy Digs For A 34% Annualized Return As Metal Demand Rises",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/research/options/copper-stock-freeport-mcmoran-fcx-metals-options-income-strategy-markets/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "今彩539第115184期　頭獎槓龜",
+   "pub": "中央社財經",
+   "d": "2026-07-30",
+   "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
+  },
+  {
+   "t": "Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-choppy-rout-fed-014549754.html"
+  },
+  {
+   "t": "威力彩第115061期　頭獎槓龜",
+   "pub": "中央社財經",
+   "d": "2026-07-30",
+   "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
+  },
+  {
+   "t": "Guardant Health, Stock Of The Day, Offers Entry With Earnings Due",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/guardant-health-stock-buy-point-earnings-colon-cancer/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
+   "pub": "中央社財經",
+   "d": "2026-07-30",
+   "u": "https://www.cna.com.tw/news/aopl/202607300383.aspx"
   },
   {
    "t": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html"
-  },
-  {
-   "t": "日月光擴先進封測　砸近120億取得乖乖和友達廠房",
-   "pub": "中央社財經",
-   "d": "2026-07-30",
-   "u": "https://www.cna.com.tw/news/afe/202607300349.aspx"
-  },
-  {
-   "t": "What soaring Treasury yields mean for your finances",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/what-soaring-treasury-yields-mean-for-your-finances-141336109.html"
-  },
-  {
-   "t": "金管會第3階段納管12家融資租賃公司　9/15上路",
-   "pub": "中央社財經",
-   "d": "2026-07-30",
-   "u": "https://www.cna.com.tw/news/afe/202607300342.aspx"
-  },
-  {
-   "t": "Starbucks stock pops as efforts to revive 'third place' pay off, 2026 outlook improves",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/starbucks-stock-pops-as-efforts-to-revive-third-place-pay-off-2026-outlook-improves-154557895.html"
-  },
-  {
-   "t": "歐元區Q2經濟成長超預期　受惠AI投資和消費信心改善",
-   "pub": "中央社財經",
-   "d": "2026-07-30",
-   "u": "https://www.cna.com.tw/news/aopl/202607300335.aspx"
-  },
-  {
-   "t": "Earnings live: Qualcomm stock slides, Arm Holdings little changed after results exceed expectations",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/live/earnings-live-qualcomm-stock-slides-arm-holdings-little-changed-after-results-exceed-expectations-115207214.html"
-  },
-  {
-   "t": "台電接管離岸風電2期風機安裝　拚今年底完成併網",
-   "pub": "中央社財經",
-   "d": "2026-07-30",
-   "u": "https://www.cna.com.tw/news/afe/202607300332.aspx"
-  },
-  {
-   "t": "Vulcan Value Partners on CarMax’s (KMX) Strong Performance",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/vulcan-value-partners-carmax-kmx-141414363.html"
-  },
-  {
-   "t": "證交所強化資安韌性　攜中華電新建備援資訊中心",
-   "pub": "中央社財經",
-   "d": "2026-07-30",
-   "u": "https://www.cna.com.tw/news/afe/202607300325.aspx"
-  },
-  {
-   "t": "Daily Spotlight: Consumers and Investment Lift 2Q GDP",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_47778_MarketOutlook_1785417965000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
