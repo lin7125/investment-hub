@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 03:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 03:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 333.65,
-   "c": -1.34,
+   "p": 333.29,
+   "c": -1.45,
    "a50": 309.3,
-   "a200": 277.66,
+   "a200": 277.65,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.36,
-   "r": 61.9
+   "a20": 324.35,
+   "r": 61.5
   },
   {
    "s": "NVDA",
-   "p": 194.61,
-   "c": 2.42,
+   "p": 194.22,
+   "c": 2.22,
    "a50": 206.56,
    "a200": 193.05,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 202.98,
-   "r": 42.7
+   "a20": 202.96,
+   "r": 42.3
   },
   {
    "s": "TSLA",
-   "p": 309.72,
-   "c": 3.82,
+   "p": 309.93,
+   "c": 3.89,
    "a50": 392.64,
    "a200": 412.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 368.09,
+   "a20": 368.1,
    "r": 31.0
   },
   {
    "s": "META",
-   "p": 535.32,
-   "c": -8.59,
-   "a50": 603.03,
+   "p": 535.05,
+   "c": -8.63,
+   "a50": 603.02,
    "a200": 635.26,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 621.93,
+   "a20": 621.91,
    "r": 31.5
   },
   {
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7445.7,
-   "c": 1.77,
-   "a50": 7468.95,
+   "p": 7445.24,
+   "c": 1.76,
+   "a50": 7468.94,
    "a200": 7019.97,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7481.23,
+   "a20": 7481.21,
    "r": 49.5
   },
   {
    "s": "^VIX",
-   "p": 17.64,
-   "c": -14.62,
-   "a50": 17.42,
+   "p": 17.45,
+   "c": -15.54,
+   "a50": 17.41,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.26,
-   "r": 49.7
+   "a20": 17.25,
+   "r": 49.1
   },
   {
    "s": "BZ=F",
@@ -300,34 +300,34 @@
   },
   {
    "s": "GC=F",
-   "p": 4163.8,
-   "c": 3.2,
-   "a50": 4211.34,
-   "a200": 4480.11,
+   "p": 4167.7,
+   "c": 3.3,
+   "a50": 4211.42,
+   "a200": 4480.13,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.55,
-   "r": 53.9
+   "a20": 4073.74,
+   "r": 54.2
   },
   {
    "s": "HG=F",
-   "p": 6.49,
-   "c": 3.51,
+   "p": 6.5,
+   "c": 3.57,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.4
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.0308642,
-   "c": -0.12,
+   "p": 0.03085467,
+   "c": -0.13,
    "a50": 0.03140704,
    "a200": 0.03169572,
    "yh": 0.033501,
-   "yl": 0.030864
+   "yl": 0.030855
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "Chevron Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Eni Increases 2026 Buybacks as Production Growth Accelerates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-wall-street-bullish-085505436.html"
+   "u": "https://finance.yahoo.com/energy/articles/eni-increases-2026-buybacks-production-093000528.html"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Norwegian Cruise Line Stock: Analyst Estimates & Ratings",
+   "t": "Taiwan's UMC raises 2026 capex, expands Singapore and Taiwan fabs for AI demand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/norwegian-cruise-line-stock-analyst-085905198.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/taiwans-umc-raises-2026-capex-093707401.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Can I Retire at 62 With $500k in a Roth IRA and $2,000 Monthly Income?",
+   "t": "Do Wall Street Analysts Like Wells Fargo Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/500k-roth-ira-receive-combined-113000490.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-wells-fargo-090317989.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Philips Gets a Tariff Refund, Not a Clean Bill of Health",
+   "t": "Stock Index Futures Gain With Focus on Fed Rate Decision and Big Tech Earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/philips-gets-tariff-refund-not-085839516.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-gain-focus-103406755.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
