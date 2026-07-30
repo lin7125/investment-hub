@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 02:56（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 03:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 333.91,
-   "c": -1.27,
-   "a50": 309.31,
-   "a200": 277.66,
+   "p": 333.54,
+   "c": -1.37,
+   "a50": 309.3,
+   "a200": 277.65,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.38,
-   "r": 62.1
+   "a20": 324.36,
+   "r": 61.8
   },
   {
    "s": "NVDA",
-   "p": 193.43,
-   "c": 1.8,
-   "a50": 206.54,
+   "p": 193.85,
+   "c": 2.02,
+   "a50": 206.55,
    "a200": 193.04,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 202.92,
-   "r": 41.5
+   "a20": 202.94,
+   "r": 41.9
   },
   {
    "s": "TSLA",
-   "p": 307.99,
-   "c": 3.24,
-   "a50": 392.6,
+   "p": 308.59,
+   "c": 3.44,
+   "a50": 392.61,
    "a200": 412.22,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 368.0,
-   "r": 30.2
+   "a20": 368.03,
+   "r": 30.4
   },
   {
    "s": "META",
-   "p": 534.31,
-   "c": -8.76,
-   "a50": 603.01,
+   "p": 533.66,
+   "c": -8.87,
+   "a50": 602.99,
    "a200": 635.26,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 621.88,
-   "r": 31.4
+   "a20": 621.84,
+   "r": 31.3
   },
   {
    "s": "^TWII",
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7428.33,
-   "c": 1.53,
-   "a50": 7468.6,
-   "a200": 7019.89,
+   "p": 7436.34,
+   "c": 1.64,
+   "a50": 7468.76,
+   "a200": 7019.93,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7480.36,
-   "r": 48.2
+   "a20": 7480.76,
+   "r": 48.8
   },
   {
    "s": "^VIX",
-   "p": 17.83,
-   "c": -13.7,
+   "p": 17.76,
+   "c": -14.04,
    "a50": 17.42,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.27,
-   "r": 50.3
+   "r": 50.1
   },
   {
    "s": "BZ=F",
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4163.2,
-   "c": 3.18,
-   "a50": 4211.33,
-   "a200": 4480.11,
+   "p": 4158.4,
+   "c": 3.07,
+   "a50": 4211.23,
+   "a200": 4480.08,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.52,
-   "r": 53.9
+   "a20": 4073.28,
+   "r": 53.6
   },
   {
    "s": "HG=F",
    "p": 6.49,
-   "c": 3.39,
+   "c": 3.38,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for Kenvue Stock?",
+   "t": "Chevron Stock: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-084759669.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-wall-street-bullish-085505436.html"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Meta Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Norwegian Cruise Line Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-wall-street-bullish-084319649.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/norwegian-cruise-line-stock-analyst-085905198.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Chevron Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Can I Retire at 62 With $500k in a Roth IRA and $2,000 Monthly Income?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-wall-street-bullish-085505436.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/500k-roth-ira-receive-combined-113000490.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "SK Hynix Increased Profits By 557%. The Stock Tanked Anyway.",
+   "t": "Philips Gets a Tariff Refund, Not a Clean Bill of Health",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-increased-profits-557-085602307.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/philips-gets-tariff-refund-not-085839516.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
