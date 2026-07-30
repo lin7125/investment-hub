@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 07:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 07:13（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4169.4,
-   "c": 3.34,
-   "a50": 4211.45,
-   "a200": 4480.14,
+   "p": 4168.8,
+   "c": 3.32,
+   "a50": 4211.44,
+   "a200": 4480.13,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.83,
-   "r": 54.3
+   "a20": 4073.8,
+   "r": 54.2
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": 3.63,
+   "c": 3.67,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.7
+   "r": 59.8
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Reddit (RDDT): A Buy Ahead Of Earnings, Or Is The Selloff Justified?",
+   "t": "BNSF CEO assails new rail merger filing, says transcon will raise rates, prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-buy-ahead-earnings-152057364.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/bnsf-ceo-assails-rail-merger-153542828.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Stocks Tumble as Chipmakers Plunge, Oil Spikes",
+   "t": "Grayscale Calls HYPE Cheap Beside Coinbase, Robinhood and Circle",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-tumble-chipmakers-plunge-oil-152555965.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/grayscale-calls-hype-cheap-beside-153700194.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Logitech CEO: Our team is an operations powerhouse that will move past  supplier issue",
+   "t": "Dear Sandisk Stock Fans, Mark Your Calendars for August 5",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/logitech-ceo-our-team-is-an-operations-powerhouse-that-will-move-past-supplier-issue-151702459.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-sandisk-stock-fans-mark-154110980.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300383.aspx"
   },
   {
-   "t": "Dodgers owner Mark Walter's $16B in private-credit deals draws SEC and DOJ probes after whistleblower complaint",
+   "t": "UBS Buys Back Its Credit Suisse Hangover",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dodgers-owner-mark-walters-16b-151500434.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ubs-buys-back-credit-suisse-154209212.html"
   }
  ],
  "inst": {
