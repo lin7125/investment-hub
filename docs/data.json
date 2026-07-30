@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 02:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 02:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 332.92,
-   "c": -1.56,
-   "a50": 309.29,
+   "p": 333.52,
+   "c": -1.38,
+   "a50": 309.3,
    "a200": 277.65,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.33,
-   "r": 61.2
+   "a20": 324.36,
+   "r": 61.7
   },
   {
    "s": "NVDA",
-   "p": 193.51,
-   "c": 1.84,
+   "p": 193.3,
+   "c": 1.73,
    "a50": 206.54,
    "a200": 193.04,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 202.92,
-   "r": 41.6
+   "a20": 202.91,
+   "r": 41.4
   },
   {
    "s": "TSLA",
-   "p": 307.58,
-   "c": 3.1,
+   "p": 307.44,
+   "c": 3.06,
    "a50": 392.59,
    "a200": 412.22,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 367.98,
-   "r": 30.0
+   "a20": 367.97,
+   "r": 29.9
   },
   {
    "s": "META",
-   "p": 533.82,
-   "c": -8.84,
-   "a50": 603.0,
-   "a200": 635.26,
+   "p": 533.26,
+   "c": -8.94,
+   "a50": 602.99,
+   "a200": 635.25,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 621.85,
-   "r": 31.3
+   "a20": 621.82,
+   "r": 31.2
   },
   {
    "s": "^TWII",
@@ -267,7 +267,7 @@
   },
   {
    "s": "^GSPC",
-   "p": 7427.05,
+   "p": 7427.08,
    "c": 1.52,
    "a50": 7468.58,
    "a200": 7019.88,
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 17.95,
-   "c": -13.12,
+   "p": 17.9,
+   "c": -13.36,
    "a50": 17.42,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.28,
-   "r": 50.7
+   "r": 50.5
   },
   {
    "s": "BZ=F",
-   "p": 89.76,
-   "c": -1.08,
-   "a50": 86.98,
-   "a200": 80.52,
+   "p": 89.14,
+   "c": -1.76,
+   "a50": 86.97,
+   "a200": 80.51,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.92,
-   "r": 53.7
+   "a20": 84.88,
+   "r": 53.0
   },
   {
    "s": "GC=F",
-   "p": 4164.2,
-   "c": 3.21,
-   "a50": 4211.35,
-   "a200": 4480.11,
+   "p": 4160.5,
+   "c": 3.12,
+   "a50": 4211.27,
+   "a200": 4480.09,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.57,
-   "r": 53.9
+   "a20": 4073.38,
+   "r": 53.7
   },
   {
    "s": "HG=F",
-   "p": 6.48,
-   "c": 3.27,
+   "p": 6.47,
+   "c": 3.2,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 58.9
+   "r": 58.7
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Why China’s DUV Push Hit ASML (ASML) and Micron (MU) for Different Reasons",
+   "t": "Meta Stock: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-china-duv-push-hit-075914910.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-wall-street-bullish-084319649.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Ford stock rises as automaker hikes full-year guidance, beats on Q2 earnings",
+   "t": "Why China’s DUV Push Hit ASML (ASML) and Micron (MU) for Different Reasons",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/ford-stock-rises-as-automaker-hikes-full-year-guidance-beats-on-q2-earnings-174508466.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-china-duv-push-hit-075914910.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "argenx Bets $2.2 Billion on a Vitiligo Breakthrough: What the Forte Biosciences Deal Means for Both Stocks",
+   "t": "What Are Wall Street Analysts' Target Price for Kenvue Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/argenx-bets-2-2-billion-074542320.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-084759669.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
