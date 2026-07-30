@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 04:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 04:28（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.05,
-   "c": -17.47,
+   "p": 17.09,
+   "c": -17.28,
    "a50": 17.41,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.23,
-   "r": 48.0
+   "r": 48.1
   },
   {
    "s": "BZ=F",
-   "p": 88.91,
-   "c": -2.02,
-   "a50": 86.96,
+   "p": 89.28,
+   "c": -1.61,
+   "a50": 86.97,
    "a200": 80.51,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.87,
-   "r": 52.7
+   "a20": 84.89,
+   "r": 53.1
   },
   {
    "s": "GC=F",
-   "p": 4174.0,
+   "p": 4173.8,
    "c": 3.45,
    "a50": 4211.54,
    "a200": 4480.16,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4074.06,
-   "r": 54.6
+   "a20": 4074.05,
+   "r": 54.5
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": 3.63,
+   "c": 3.67,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.7
+   "r": 59.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03087373,
-   "c": -0.09,
+   "c": -0.08,
    "a50": 0.03140704,
    "a200": 0.03169572,
    "yh": 0.033501,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "Thousands of Audi workers protest over threatened plant closure",
+   "t": "Coinbase Knocks At Key Level With Earnings Due; Clarity Act On Hold",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/thousands-audi-workers-protest-over-115028794.html"
+   "u": "https://www.investors.com/research/coinbase-knocks-at-key-level-with-earnings-due-clarity-act-on-hold/?src=A00220&yptr=yahoo"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Buffett's Berkshire Hathaway holds a record $397 billion in cash. Is a market crash coming — should you follow his lead?",
+   "t": "CAT Stock Downgrade On Data Center Moratorium Hamstrings Dow Jones Industrial Futures",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/buffetts-berkshire-hathaway-holds-record-114500562.html"
+   "u": "https://www.investors.com/news/cat-stock-downgrade-data-ny-data-center-moratorium-dow-jones-industrial-average/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Apple to report Q3 earnings following price hikes on Macs, iPads",
+   "t": "Surprise Fed Rate Hike Can't Be Ruled Out; What It Means For S&P 500",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/apple-to-report-q3-earnings-following-price-hikes-on-macs-ipads-115246491.html"
+   "u": "https://www.investors.com/news/federal-reserve-meeting-july-surprise-rate-hike-possible-sp-500/?src=A00220&yptr=yahoo"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Amazon Q2 earnings to put spotlight on AWS growth amid AI spending",
+   "t": "Beyond Money Markets: Unlock Premium Yields With CLO ETFs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/amazon-q2-earnings-to-put-spotlight-on-aws-growth-amid-ai-spending-115622323.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/beyond-money-markets-unlock-premium-120058724.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300383.aspx"
   },
   {
-   "t": "Analyst Report: Visa Inc",
+   "t": "Analyst Report: Qorvo Inc",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_3489_AnalystReport_1785435883000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_4655_AnalystReport_1785435883000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
