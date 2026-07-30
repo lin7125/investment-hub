@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 21:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 22:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,7 +212,7 @@
   },
   {
    "s": "AAPL",
-   "p": 331.54,
+   "p": 331.53,
    "c": -1.97,
    "a50": 309.26,
    "a200": 277.64,
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 194.42,
-   "c": 2.32,
-   "a50": 206.56,
+   "p": 195.58,
+   "c": 2.93,
+   "a50": 206.58,
    "a200": 193.05,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 202.97,
-   "r": 42.5
+   "a20": 203.03,
+   "r": 43.6
   },
   {
    "s": "TSLA",
-   "p": 305.83,
-   "c": 2.52,
-   "a50": 392.56,
-   "a200": 412.21,
+   "p": 307.32,
+   "c": 3.02,
+   "a50": 392.59,
+   "a200": 412.22,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 367.89,
-   "r": 29.2
+   "a20": 367.97,
+   "r": 29.9
   },
   {
    "s": "META",
-   "p": 531.74,
-   "c": -9.2,
-   "a50": 602.96,
+   "p": 533.32,
+   "c": -8.93,
+   "a50": 602.99,
    "a200": 635.25,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 621.75,
-   "r": 31.0
+   "a20": 621.83,
+   "r": 31.2
   },
   {
    "s": "^TWII",
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7405.53,
-   "c": 1.22,
-   "a50": 7468.15,
-   "a200": 7019.77,
+   "p": 7408.4,
+   "c": 1.26,
+   "a50": 7468.2,
+   "a200": 7019.79,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7479.22,
-   "r": 46.4
+   "a20": 7479.36,
+   "r": 46.7
   },
   {
    "s": "^VIX",
-   "p": 18.61,
-   "c": -9.92,
-   "a50": 17.44,
+   "p": 18.4,
+   "c": -10.94,
+   "a50": 17.43,
    "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.31,
-   "r": 52.8
+   "a20": 17.3,
+   "r": 52.1
   },
   {
    "s": "BZ=F",
@@ -300,34 +300,34 @@
   },
   {
    "s": "GC=F",
-   "p": 4156.3,
-   "c": 3.01,
-   "a50": 4211.19,
-   "a200": 4480.07,
+   "p": 4162.3,
+   "c": 3.16,
+   "a50": 4211.31,
+   "a200": 4480.1,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.17,
-   "r": 53.4
+   "a20": 4073.47,
+   "r": 53.8
   },
   {
    "s": "HG=F",
-   "p": 6.47,
-   "c": 3.16,
+   "p": 6.49,
+   "c": 3.39,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 58.6
+   "r": 59.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03088326,
+   "p": 0.03087373,
    "c": -0.07,
    "a50": 0.03140704,
    "a200": 0.03169572,
    "yh": 0.033501,
-   "yl": 0.030883
+   "yl": 0.030874
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300349.aspx"
   },
   {
-   "t": "Meta stock sinks on earnings miss, 'barely passable' quarterly results",
+   "t": "US economic growth slows to 1.5% in second quarter",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/meta-stock-sinks-on-earnings-miss-barely-passable-quarterly-results-124851083.html"
+   "u": "https://finance.yahoo.com/economy/article/us-economic-growth-slows-to-15-in-second-quarter-135510531.html"
   },
   {
    "t": "金管會第3階段納管12家融資租賃公司　9/15上路",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300342.aspx"
   },
   {
-   "t": "One line from Meta's earnings call that ensured the stock will likely stay dead money",
+   "t": "Tech stocks today: Microsoft stock soars on AI growth, while Meta sinks on lack of clarity",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/one-line-from-metas-earnings-call-that-ensured-the-stock-will-likely-stay-dead-money-134542007.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html"
   },
   {
    "t": "歐元區Q2經濟成長超預期　受惠AI投資和消費信心改善",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300335.aspx"
   },
   {
-   "t": "Microsoft stock surges on strong quarter, record cloud revenue",
+   "t": "Is Schwab Stock A Sweet Buy In Sour Market? Consider These Clues.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/microsoft-stock-surges-on-strong-quarter-record-cloud-revenue-123002444.html"
+   "u": "https://www.investors.com/research/ibd-stock-analysis/schwab-stock-schw-time-to-buy-shares-of-financial-giant/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台電接管離岸風電2期風機安裝　拚今年底完成併網",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300332.aspx"
   },
   {
-   "t": "Base metals traders on the move as battle for talent intensifies",
+   "t": "A Quarter Of Canadians Now Own Crypto",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/metals-traders-move-battle-talent-134358478.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/quarter-canadians-now-own-crypto-134900396.html"
   },
   {
    "t": "證交所強化資安韌性　攜中華電新建備援資訊中心",
