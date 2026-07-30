@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 22:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 22:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 332.04,
-   "c": -1.82,
-   "a50": 309.27,
-   "a200": 277.65,
+   "p": 330.84,
+   "c": -2.17,
+   "a50": 309.25,
+   "a200": 277.64,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.28,
-   "r": 60.3
+   "a20": 324.22,
+   "r": 59.2
   },
   {
    "s": "NVDA",
-   "p": 197.1,
-   "c": 3.73,
-   "a50": 206.61,
+   "p": 196.35,
+   "c": 3.34,
+   "a50": 206.6,
    "a200": 193.06,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.1,
-   "r": 44.9
+   "a20": 203.07,
+   "r": 44.3
   },
   {
    "s": "TSLA",
-   "p": 308.01,
-   "c": 3.25,
+   "p": 307.99,
+   "c": 3.24,
    "a50": 392.6,
    "a200": 412.22,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 532.73,
-   "c": -9.03,
-   "a50": 602.98,
+   "p": 532.4,
+   "c": -9.09,
+   "a50": 602.97,
    "a200": 635.25,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 621.8,
-   "r": 31.2
+   "a20": 621.78,
+   "r": 31.1
   },
   {
    "s": "^TWII",
@@ -267,67 +267,67 @@
   },
   {
    "s": "^GSPC",
-   "p": 7415.11,
-   "c": 1.35,
-   "a50": 7468.34,
-   "a200": 7019.82,
+   "p": 7411.57,
+   "c": 1.3,
+   "a50": 7468.27,
+   "a200": 7019.8,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7479.7,
-   "r": 47.2
+   "a20": 7479.52,
+   "r": 46.9
   },
   {
    "s": "^VIX",
-   "p": 18.36,
-   "c": -11.13,
+   "p": 18.33,
+   "c": -11.28,
    "a50": 17.43,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.3,
-   "r": 52.0
+   "r": 51.9
   },
   {
    "s": "BZ=F",
-   "p": 89.54,
-   "c": -1.32,
-   "a50": 86.97,
+   "p": 90.05,
+   "c": -0.76,
+   "a50": 86.98,
    "a200": 80.52,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.9,
-   "r": 53.5
+   "a20": 84.93,
+   "r": 54.1
   },
   {
    "s": "GC=F",
-   "p": 4153.8,
-   "c": 2.95,
-   "a50": 4211.14,
+   "p": 4153.1,
+   "c": 2.93,
+   "a50": 4211.13,
    "a200": 4480.06,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.05,
-   "r": 53.3
+   "a20": 4073.01,
+   "r": 53.2
   },
   {
    "s": "HG=F",
-   "p": 6.47,
-   "c": 3.08,
+   "p": 6.46,
+   "c": 2.93,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 58.4
+   "r": 58.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.0308642,
-   "c": -0.13,
+   "p": 0.03084516,
+   "c": -0.18,
    "a50": 0.03140704,
    "a200": 0.03169572,
    "yh": 0.033501,
-   "yl": 0.030864
+   "yl": 0.030845
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300349.aspx"
   },
   {
-   "t": "Starbucks stock pops as efforts to revive 'third place' pay off, 2026 outlook improves",
+   "t": "What soaring Treasury yields mean for your finances",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/starbucks-stock-pops-as-efforts-to-revive-third-place-pay-off-2026-outlook-improves-154557895.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/what-soaring-treasury-yields-mean-for-your-finances-141336109.html"
   },
   {
    "t": "金管會第3階段納管12家融資租賃公司　9/15上路",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300342.aspx"
   },
   {
-   "t": "Earnings live: Qualcomm stock slides, Arm Holdings little changed after results exceed expectations",
+   "t": "Starbucks stock pops as efforts to revive 'third place' pay off, 2026 outlook improves",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/earnings-live-qualcomm-stock-slides-arm-holdings-little-changed-after-results-exceed-expectations-115207214.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/starbucks-stock-pops-as-efforts-to-revive-third-place-pay-off-2026-outlook-improves-154557895.html"
   },
   {
    "t": "歐元區Q2經濟成長超預期　受惠AI投資和消費信心改善",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300335.aspx"
   },
   {
-   "t": "Vulcan Value Partners on CarMax’s (KMX) Strong Performance",
+   "t": "Earnings live: Qualcomm stock slides, Arm Holdings little changed after results exceed expectations",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/vulcan-value-partners-carmax-kmx-141414363.html"
+   "u": "https://finance.yahoo.com/markets/live/earnings-live-qualcomm-stock-slides-arm-holdings-little-changed-after-results-exceed-expectations-115207214.html"
   },
   {
    "t": "台電接管離岸風電2期風機安裝　拚今年底完成併網",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300332.aspx"
   },
   {
-   "t": "What Makes Veeva Systems (VEEV) a Mission-Critical Software Firm?",
+   "t": "Vulcan Value Partners on CarMax’s (KMX) Strong Performance",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/makes-veeva-systems-veev-mission-141022175.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/vulcan-value-partners-carmax-kmx-141414363.html"
   },
   {
    "t": "證交所強化資安韌性　攜中華電新建備援資訊中心",
