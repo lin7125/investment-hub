@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 04:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 04:59（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 89.6,
-   "c": -1.26,
+   "p": 89.59,
+   "c": -1.27,
    "a50": 86.98,
    "a200": 80.52,
    "yh": 118.35,
@@ -300,34 +300,34 @@
   },
   {
    "s": "GC=F",
-   "p": 4166.2,
-   "c": 3.26,
-   "a50": 4211.39,
-   "a200": 4480.12,
+   "p": 4161.2,
+   "c": 3.14,
+   "a50": 4211.29,
+   "a200": 4480.1,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.67,
-   "r": 54.1
+   "a20": 4073.42,
+   "r": 53.7
   },
   {
    "s": "HG=F",
-   "p": 6.5,
-   "c": 3.54,
+   "p": 6.49,
+   "c": 3.45,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.5
+   "r": 59.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03088326,
-   "c": -0.07,
+   "p": 0.03087373,
+   "c": -0.09,
    "a50": 0.03140704,
    "a200": 0.03169572,
    "yh": 0.033501,
-   "yl": 0.030883
+   "yl": 0.030874
   }
  ],
  "news": [
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Surprise Fed Rate Hike Can't Be Ruled Out; What It Means For S&P 500",
+   "t": "Meta Earnings Preview: This Is The Number To Watch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/federal-reserve-meeting-july-surprise-rate-hike-possible-sp-500/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/meta-stock-q2-2026-earnings-preview-big-tech/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Piedmont Office Realty Trust, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Landstar System, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/piedmont-office-realty-trust-inc-123000194.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/landstar-system-inc-q2-2026-123000428.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Unum Group Q2 2026 Earnings Call Summary",
+   "t": "Teradyne, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/unum-group-q2-2026-earnings-123000550.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/teradyne-inc-q2-2026-earnings-123000058.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
