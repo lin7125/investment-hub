@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 07:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 07:23（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 89.45,
-   "c": -1.42,
+   "p": 89.38,
+   "c": -1.5,
    "a50": 86.97,
    "a200": 80.51,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4168.8,
-   "c": 3.32,
-   "a50": 4211.44,
-   "a200": 4480.13,
+   "p": 4164.9,
+   "c": 3.23,
+   "a50": 4211.36,
+   "a200": 4480.12,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.8,
-   "r": 54.2
+   "a20": 4073.6,
+   "r": 54.0
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": 3.67,
+   "c": 3.62,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.8
+   "r": 59.7
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "BNSF CEO assails new rail merger filing, says transcon will raise rates, prices",
+   "t": "Apple says UK App Store proposal amounts to price regulation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/bnsf-ceo-assails-rail-merger-153542828.html"
+   "u": "https://finance.yahoo.com/technology/articles/apple-says-uk-app-store-154808227.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Grayscale Calls HYPE Cheap Beside Coinbase, Robinhood and Circle",
+   "t": "Crude Oil Prices Soar as US-Iran Tensions Escalate",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/grayscale-calls-hype-cheap-beside-153700194.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-soar-us-154512027.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Dear Sandisk Stock Fans, Mark Your Calendars for August 5",
+   "t": "UBS Buys Back Its Credit Suisse Hangover",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-sandisk-stock-fans-mark-154110980.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ubs-buys-back-credit-suisse-154209212.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300383.aspx"
   },
   {
-   "t": "UBS Buys Back Its Credit Suisse Hangover",
+   "t": "Dear Sandisk Stock Fans, Mark Your Calendars for August 5",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ubs-buys-back-credit-suisse-154209212.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-sandisk-stock-fans-mark-154110980.html"
   }
  ],
  "inst": {
