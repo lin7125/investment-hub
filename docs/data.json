@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 03:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 03:58（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 332.99,
-   "c": -1.54,
-   "a50": 309.29,
-   "a200": 277.65,
+   "p": 333.64,
+   "c": -1.35,
+   "a50": 309.3,
+   "a200": 277.66,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.33,
-   "r": 61.2
+   "a20": 324.36,
+   "r": 61.9
   },
   {
    "s": "NVDA",
-   "p": 194.9,
-   "c": 2.58,
+   "p": 195.0,
+   "c": 2.63,
    "a50": 206.57,
    "a200": 193.05,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 202.99,
+   "a20": 203.0,
    "r": 43.0
   },
   {
    "s": "TSLA",
-   "p": 309.67,
-   "c": 3.8,
-   "a50": 392.63,
-   "a200": 412.23,
+   "p": 308.83,
+   "c": 3.52,
+   "a50": 392.62,
+   "a200": 412.22,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 368.08,
-   "r": 30.9
+   "a20": 368.04,
+   "r": 30.6
   },
   {
    "s": "META",
-   "p": 535.3,
-   "c": -8.59,
-   "a50": 603.03,
-   "a200": 635.26,
+   "p": 538.47,
+   "c": -8.05,
+   "a50": 603.09,
+   "a200": 635.28,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 621.93,
-   "r": 31.5
+   "a20": 622.08,
+   "r": 32.0
   },
   {
    "s": "^TWII",
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7439.27,
-   "c": 1.68,
-   "a50": 7468.82,
+   "p": 7438.57,
+   "c": 1.67,
+   "a50": 7468.81,
    "a200": 7019.94,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7480.91,
+   "a20": 7480.87,
    "r": 49.0
   },
   {
    "s": "^VIX",
-   "p": 17.48,
-   "c": -15.39,
+   "p": 17.45,
+   "c": -15.54,
    "a50": 17.41,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.25,
-   "r": 49.2
+   "r": 49.1
   },
   {
    "s": "BZ=F",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4171.6,
-   "c": 3.39,
-   "a50": 4211.5,
+   "p": 4171.2,
+   "c": 3.38,
+   "a50": 4211.49,
    "a200": 4480.15,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.94,
+   "a20": 4073.92,
    "r": 54.4
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": 3.6,
+   "c": 3.67,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.6
+   "r": 59.8
   },
   {
    "s": "TWDUSD",
    "p": 0.0308642,
-   "c": -0.12,
+   "c": -0.11,
    "a50": 0.03140704,
    "a200": 0.03169572,
    "yh": 0.033501,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Eni Increases 2026 Buybacks as Production Growth Accelerates",
+   "t": "Biogen beats quarterly estimates as newer drugs fuel growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/eni-increases-2026-buybacks-production-093000528.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/biogen-beats-quarterly-estimates-newer-100303309.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Biogen beats quarterly estimates as newer drugs fuel growth",
+   "t": "Microsoft set for $190 billion market value swing after earnings results, options indicate",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/biogen-beats-quarterly-estimates-newer-100303309.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/microsoft-set-190-billion-market-100417288.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
