@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 22:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 22:28（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 331.2,
-   "c": -2.07,
-   "a50": 309.26,
-   "a200": 277.64,
+   "p": 332.04,
+   "c": -1.82,
+   "a50": 309.27,
+   "a200": 277.65,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.24,
-   "r": 59.5
+   "a20": 324.28,
+   "r": 60.3
   },
   {
    "s": "NVDA",
-   "p": 195.59,
-   "c": 2.94,
-   "a50": 206.58,
-   "a200": 193.05,
+   "p": 197.1,
+   "c": 3.73,
+   "a50": 206.61,
+   "a200": 193.06,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.03,
-   "r": 43.6
+   "a20": 203.1,
+   "r": 44.9
   },
   {
    "s": "TSLA",
-   "p": 306.06,
-   "c": 2.6,
-   "a50": 392.56,
-   "a200": 412.21,
+   "p": 308.01,
+   "c": 3.25,
+   "a50": 392.6,
+   "a200": 412.22,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 367.9,
-   "r": 29.3
+   "a20": 368.0,
+   "r": 30.2
   },
   {
    "s": "META",
-   "p": 532.35,
-   "c": -9.09,
-   "a50": 602.97,
+   "p": 532.73,
+   "c": -9.03,
+   "a50": 602.98,
    "a200": 635.25,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 621.78,
-   "r": 31.1
+   "a20": 621.8,
+   "r": 31.2
   },
   {
    "s": "^TWII",
@@ -267,67 +267,67 @@
   },
   {
    "s": "^GSPC",
-   "p": 7403.76,
-   "c": 1.2,
-   "a50": 7468.11,
-   "a200": 7019.76,
+   "p": 7415.11,
+   "c": 1.35,
+   "a50": 7468.34,
+   "a200": 7019.82,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7479.13,
-   "r": 46.3
+   "a20": 7479.7,
+   "r": 47.2
   },
   {
    "s": "^VIX",
-   "p": 18.14,
-   "c": -12.2,
+   "p": 18.36,
+   "c": -11.13,
    "a50": 17.43,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.29,
-   "r": 51.3
+   "a20": 17.3,
+   "r": 52.0
   },
   {
    "s": "BZ=F",
-   "p": 89.68,
-   "c": -1.17,
-   "a50": 86.98,
+   "p": 89.54,
+   "c": -1.32,
+   "a50": 86.97,
    "a200": 80.52,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.91,
-   "r": 53.6
+   "a20": 84.9,
+   "r": 53.5
   },
   {
    "s": "GC=F",
-   "p": 4153.5,
-   "c": 2.94,
-   "a50": 4211.13,
+   "p": 4153.8,
+   "c": 2.95,
+   "a50": 4211.14,
    "a200": 4480.06,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.03,
-   "r": 53.2
+   "a20": 4073.05,
+   "r": 53.3
   },
   {
    "s": "HG=F",
-   "p": 6.48,
-   "c": 3.24,
+   "p": 6.47,
+   "c": 3.08,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 58.8
+   "r": 58.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.0308928,
-   "c": -0.03,
+   "p": 0.0308642,
+   "c": -0.13,
    "a50": 0.03140704,
    "a200": 0.03169572,
    "yh": 0.033501,
-   "yl": 0.030883
+   "yl": 0.030864
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300349.aspx"
   },
   {
-   "t": "US economic growth slows to 1.5% in second quarter",
+   "t": "Starbucks stock pops as efforts to revive 'third place' pay off, 2026 outlook improves",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/us-economic-growth-slows-to-15-in-second-quarter-135510531.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/starbucks-stock-pops-as-efforts-to-revive-third-place-pay-off-2026-outlook-improves-154557895.html"
   },
   {
    "t": "金管會第3階段納管12家融資租賃公司　9/15上路",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300342.aspx"
   },
   {
-   "t": "Tech stocks today: Microsoft stock soars on AI growth, while Meta sinks on lack of clarity",
+   "t": "Earnings live: Qualcomm stock slides, Arm Holdings little changed after results exceed expectations",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html"
+   "u": "https://finance.yahoo.com/markets/live/earnings-live-qualcomm-stock-slides-arm-holdings-little-changed-after-results-exceed-expectations-115207214.html"
   },
   {
    "t": "歐元區Q2經濟成長超預期　受惠AI投資和消費信心改善",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300335.aspx"
   },
   {
-   "t": "Is Schwab Stock A Sweet Buy In Sour Market? Consider These Clues.",
+   "t": "Vulcan Value Partners on CarMax’s (KMX) Strong Performance",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-analysis/schwab-stock-schw-time-to-buy-shares-of-financial-giant/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/vulcan-value-partners-carmax-kmx-141414363.html"
   },
   {
    "t": "台電接管離岸風電2期風機安裝　拚今年底完成併網",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300332.aspx"
   },
   {
-   "t": "A Quarter Of Canadians Now Own Crypto",
+   "t": "What Makes Veeva Systems (VEEV) a Mission-Critical Software Firm?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/quarter-canadians-now-own-crypto-134900396.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/makes-veeva-systems-veev-mission-141022175.html"
   },
   {
    "t": "證交所強化資安韌性　攜中華電新建備援資訊中心",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300325.aspx"
   },
   {
-   "t": "Technical Assessment: Bullish in the Intermediate-Term",
+   "t": "Daily Spotlight: Consumers and Investment Lift 2Q GDP",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_47773_TechnicalAnalysis_1785410198000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_47778_MarketOutlook_1785417965000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
