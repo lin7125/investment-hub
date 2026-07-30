@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 04:39（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 04:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,45 +289,45 @@
   },
   {
    "s": "BZ=F",
-   "p": 89.28,
-   "c": -1.61,
-   "a50": 86.97,
-   "a200": 80.51,
+   "p": 89.6,
+   "c": -1.26,
+   "a50": 86.98,
+   "a200": 80.52,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.89,
-   "r": 53.1
+   "a20": 84.91,
+   "r": 53.5
   },
   {
    "s": "GC=F",
-   "p": 4172.1,
-   "c": 3.41,
-   "a50": 4211.51,
-   "a200": 4480.15,
+   "p": 4166.2,
+   "c": 3.26,
+   "a50": 4211.39,
+   "a200": 4480.12,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.96,
-   "r": 54.4
+   "a20": 4073.67,
+   "r": 54.1
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": 3.67,
+   "c": 3.54,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.8
+   "r": 59.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03087373,
-   "c": -0.09,
+   "p": 0.03088326,
+   "c": -0.07,
    "a50": 0.03140704,
    "a200": 0.03169572,
    "yh": 0.033501,
-   "yl": 0.030874
+   "yl": 0.030883
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "Coinbase Knocks At Key Level With Earnings Due; Clarity Act On Hold",
+   "t": "Expedia Group Stock: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/coinbase-knocks-at-key-level-with-earnings-due-clarity-act-on-hold/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-stock-wall-street-122311874.html"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "CAT Stock Downgrade On Data Center Moratorium Hamstrings Dow Jones Industrial Futures",
+   "t": "Surprise Fed Rate Hike Can't Be Ruled Out; What It Means For S&P 500",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/cat-stock-downgrade-data-ny-data-center-moratorium-dow-jones-industrial-average/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/federal-reserve-meeting-july-surprise-rate-hike-possible-sp-500/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Surprise Fed Rate Hike Can't Be Ruled Out; What It Means For S&P 500",
+   "t": "Piedmont Office Realty Trust, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/federal-reserve-meeting-july-surprise-rate-hike-possible-sp-500/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/real-estate/articles/piedmont-office-realty-trust-inc-123000194.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Beyond Money Markets: Unlock Premium Yields With CLO ETFs",
+   "t": "Unum Group Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/beyond-money-markets-unlock-premium-120058724.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/unum-group-q2-2026-earnings-123000550.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
