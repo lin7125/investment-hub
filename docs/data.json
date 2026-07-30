@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 03:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 04:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 333.64,
-   "c": -1.35,
+   "p": 333.43,
+   "c": -1.41,
    "a50": 309.3,
-   "a200": 277.66,
+   "a200": 277.65,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.36,
-   "r": 61.9
+   "a20": 324.35,
+   "r": 61.7
   },
   {
    "s": "NVDA",
-   "p": 195.0,
-   "c": 2.63,
+   "p": 195.04,
+   "c": 2.65,
    "a50": 206.57,
    "a200": 193.05,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 203.0,
-   "r": 43.0
+   "r": 43.1
   },
   {
    "s": "TSLA",
-   "p": 308.83,
-   "c": 3.52,
+   "p": 308.85,
+   "c": 3.53,
    "a50": 392.62,
    "a200": 412.22,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 538.47,
-   "c": -8.05,
-   "a50": 603.09,
+   "p": 539.03,
+   "c": -7.95,
+   "a50": 603.1,
    "a200": 635.28,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 622.08,
-   "r": 32.0
+   "a20": 622.11,
+   "r": 32.1
   },
   {
    "s": "^TWII",
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7438.57,
-   "c": 1.67,
-   "a50": 7468.81,
-   "a200": 7019.94,
+   "p": 7437.63,
+   "c": 1.66,
+   "a50": 7468.79,
+   "a200": 7019.93,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7480.87,
-   "r": 49.0
+   "a20": 7480.83,
+   "r": 48.9
   },
   {
    "s": "^VIX",
-   "p": 17.45,
-   "c": -15.54,
+   "p": 17.49,
+   "c": -15.34,
    "a50": 17.41,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.25,
-   "r": 49.1
+   "r": 49.3
   },
   {
    "s": "BZ=F",
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4171.2,
-   "c": 3.38,
-   "a50": 4211.49,
-   "a200": 4480.15,
+   "p": 4168.7,
+   "c": 3.32,
+   "a50": 4211.44,
+   "a200": 4480.13,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.92,
-   "r": 54.4
+   "a20": 4073.79,
+   "r": 54.2
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": 3.67,
+   "c": 3.56,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.8
+   "r": 59.5
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "Taiwan's UMC raises 2026 capex, expands Singapore and Taiwan fabs for AI demand",
+   "t": "You bought SpaceX shares at the IPO price — and now you’re losing money. Is it safe to buy the dip?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/taiwans-umc-raises-2026-capex-093707401.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bought-spacex-shares-ipo-price-100500603.html"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Biogen beats quarterly estimates as newer drugs fuel growth",
+   "t": "Microsoft set for $190 billion market value swing after earnings results, options indicate",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/biogen-beats-quarterly-estimates-newer-100303309.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/microsoft-set-190-billion-market-100417288.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Microsoft set for $190 billion market value swing after earnings results, options indicate",
+   "t": "Biogen beats quarterly estimates as newer drugs fuel growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/microsoft-set-190-billion-market-100417288.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/biogen-beats-quarterly-estimates-newer-100303309.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "You bought SpaceX shares at the IPO price — and now you’re losing money. Is it safe to buy the dip?",
+   "t": "Humana beats quarterly profit estimates as medical costs stay in line",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bought-spacex-shares-ipo-price-100500603.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/humana-beats-quarterly-profit-estimates-101209208.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
