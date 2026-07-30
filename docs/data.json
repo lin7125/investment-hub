@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 20:15（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 20:25（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,14 +278,14 @@
   },
   {
    "s": "^VIX",
-   "p": 19.09,
-   "c": -7.6,
-   "a50": 17.45,
+   "p": 18.99,
+   "c": -8.08,
+   "a50": 17.44,
    "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.33,
-   "r": 54.5
+   "r": 54.2
   },
   {
    "s": "BZ=F",
@@ -300,34 +300,34 @@
   },
   {
    "s": "GC=F",
-   "p": 4137.6,
-   "c": 2.55,
-   "a50": 4210.82,
-   "a200": 4479.98,
+   "p": 4134.4,
+   "c": 2.47,
+   "a50": 4210.75,
+   "a200": 4479.96,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4072.24,
-   "r": 52.2
+   "a20": 4072.08,
+   "r": 51.9
   },
   {
    "s": "HG=F",
    "p": 6.45,
-   "c": 2.85,
+   "c": 2.89,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 57.8
+   "r": 57.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03080715,
-   "c": -0.3,
+   "c": -0.28,
    "a50": 0.03139717,
    "a200": 0.03169572,
    "yh": 0.033501,
-   "yl": 0.030817
+   "yl": 0.030807
   }
  ],
  "news": [
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300288.aspx"
   },
   {
-   "t": "National beer and wine distributor files Chapter 11 bankruptcy",
+   "t": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/giant-wine-spirits-brand-files-170700174.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html"
   },
   {
    "t": "熊本地震　經長：台積電JASM一廠暫停進行設備檢查",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300284.aspx"
   },
   {
-   "t": "Chipotle CEO says the chain is tackling one of its biggest problems",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rebound ahead of inflation data",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/chipotle-ceo-says-the-chain-is-tackling-one-of-its-biggest-problems-120103595.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-082255995.html"
   },
   {
    "t": "友達第2季每股賺0.18元　投入新技術活化資產",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300283.aspx"
   },
   {
-   "t": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day",
+   "t": "Chipotle CEO says the chain is tackling one of its biggest problems",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/microsofts-41-billion-ai-bet-just-cleared-a-major-test-chart-of-the-day-100000116.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/chipotle-ceo-says-the-chain-is-tackling-one-of-its-biggest-problems-120103595.html"
   },
   {
    "t": "財部：台版肥咖CRS申報　筆數金額齊增",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300282.aspx"
   },
   {
-   "t": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar",
+   "t": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-trump-iran-threats-microsoft-meta-fortinet-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/microsofts-41-billion-ai-bet-just-cleared-a-major-test-chart-of-the-day-100000116.html"
   },
   {
    "t": "央行理事：若台股降溫　憂資金由股轉房推升房價",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300280.aspx"
   },
   {
-   "t": "Sphere Entertainment Stock Rises On Q2 Revenue Beat",
+   "t": "Freight Hero raises $5 million for broker back offices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/sphere-stock-sphr-q2-2026-report/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/small-business/articles/freight-hero-raises-5-million-120000942.html"
   },
   {
    "t": "外資賣超483億元　調節元大台灣50逾6萬張居冠",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300279.aspx"
   },
   {
-   "t": "Market Digest: BX, CAKE, DECK, KO, LVS, RJF, STX, RTX",
+   "t": "Technical Assessment: Bullish in the Intermediate-Term",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_47771_MarketSummary_1785408971000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_47773_TechnicalAnalysis_1785410198000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
