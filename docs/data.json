@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 07:23（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 07:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4164.9,
-   "c": 3.23,
-   "a50": 4211.36,
+   "p": 4165.3,
+   "c": 3.24,
+   "a50": 4211.37,
    "a200": 4480.12,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.6,
+   "a20": 4073.62,
    "r": 54.0
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": 3.62,
+   "c": 3.63,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Apple says UK App Store proposal amounts to price regulation",
+   "t": "'Unprecedented' OpenAI Cyberattack Brings Palo Alto, CrowdStrike Into Focus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/apple-says-uk-app-store-154808227.html"
+   "u": "https://www.investors.com/research/ibd-industry-themes/openai-cyberattack-palo-alto-stock-crowdstrike/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Crude Oil Prices Soar as US-Iran Tensions Escalate",
+   "t": "Explainer-Can J&J finally put the talc litigation behind it?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-soar-us-154512027.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/explainer-j-j-finally-put-160252107.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "UBS Buys Back Its Credit Suisse Hangover",
+   "t": "Caterpillar Trades at 3x Its Historical Multiple — Michael Burry Is Betting Against It",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ubs-buys-back-credit-suisse-154209212.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-trades-3x-historical-multiple-161312284.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300383.aspx"
   },
   {
-   "t": "Dear Sandisk Stock Fans, Mark Your Calendars for August 5",
+   "t": "QCOM Stock Alert: What to Know as Qualcomm Partners With BMW",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-sandisk-stock-fans-mark-154110980.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/qcom-stock-alert-know-qualcomm-161505927.html"
   }
  ],
  "inst": {
