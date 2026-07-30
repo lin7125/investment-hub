@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30 21:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-30 21:57（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 331.67,
-   "c": -1.93,
-   "a50": 309.27,
-   "a200": 277.65,
+   "p": 331.54,
+   "c": -1.97,
+   "a50": 309.26,
+   "a200": 277.64,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.27,
-   "r": 60.0
+   "a20": 324.26,
+   "r": 59.8
   },
   {
    "s": "NVDA",
-   "p": 193.23,
-   "c": 1.69,
-   "a50": 206.54,
-   "a200": 193.04,
+   "p": 194.42,
+   "c": 2.32,
+   "a50": 206.56,
+   "a200": 193.05,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 202.91,
-   "r": 41.3
+   "a20": 202.97,
+   "r": 42.5
   },
   {
    "s": "TSLA",
-   "p": 306.02,
-   "c": 2.58,
+   "p": 305.83,
+   "c": 2.52,
    "a50": 392.56,
    "a200": 412.21,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 367.9,
-   "r": 29.3
+   "a20": 367.89,
+   "r": 29.2
   },
   {
    "s": "META",
-   "p": 532.41,
-   "c": -9.08,
-   "a50": 602.97,
+   "p": 531.74,
+   "c": -9.2,
+   "a50": 602.96,
    "a200": 635.25,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 621.78,
-   "r": 31.1
+   "a20": 621.75,
+   "r": 31.0
   },
   {
    "s": "^TWII",
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7394.86,
-   "c": 1.08,
-   "a50": 7467.93,
-   "a200": 7019.72,
+   "p": 7405.53,
+   "c": 1.22,
+   "a50": 7468.15,
+   "a200": 7019.77,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7478.69,
-   "r": 45.5
+   "a20": 7479.22,
+   "r": 46.4
   },
   {
    "s": "^VIX",
-   "p": 18.58,
-   "c": -10.07,
+   "p": 18.61,
+   "c": -9.92,
    "a50": 17.44,
    "a200": 18.74,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.31,
-   "r": 52.7
+   "r": 52.8
   },
   {
    "s": "BZ=F",
@@ -300,34 +300,34 @@
   },
   {
    "s": "GC=F",
-   "p": 4145.4,
-   "c": 2.74,
-   "a50": 4210.97,
-   "a200": 4480.02,
+   "p": 4156.3,
+   "c": 3.01,
+   "a50": 4211.19,
+   "a200": 4480.07,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4072.63,
-   "r": 52.7
+   "a20": 4073.17,
+   "r": 53.4
   },
   {
    "s": "HG=F",
-   "p": 6.46,
-   "c": 2.97,
+   "p": 6.47,
+   "c": 3.16,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 58.2
+   "r": 58.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03087373,
+   "p": 0.03088326,
    "c": -0.07,
    "a50": 0.03140704,
    "a200": 0.03169572,
    "yh": 0.033501,
-   "yl": 0.030874
+   "yl": 0.030883
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300349.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq after Fed decision, PCE data",
+   "t": "Meta stock sinks on earnings miss, 'barely passable' quarterly results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-082255995.html"
+   "u": "https://finance.yahoo.com/markets/article/meta-stock-sinks-on-earnings-miss-barely-passable-quarterly-results-124851083.html"
   },
   {
    "t": "金管會第3階段納管12家融資租賃公司　9/15上路",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300342.aspx"
   },
   {
-   "t": "Datadog Fetches Sales Growth From AI Complexity",
+   "t": "One line from Meta's earnings call that ensured the stock will likely stay dead money",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/the-new-america/datadog-stock-ddog-near-buy-point-q2-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/one-line-from-metas-earnings-call-that-ensured-the-stock-will-likely-stay-dead-money-134542007.html"
   },
   {
    "t": "歐元區Q2經濟成長超預期　受惠AI投資和消費信心改善",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300335.aspx"
   },
   {
-   "t": "Starbucks is unlocking a major untapped part of its business",
+   "t": "Microsoft stock surges on strong quarter, record cloud revenue",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/starbucks-is-unlocking-a-major-untapped-part-of-its-business-132356443.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/microsoft-stock-surges-on-strong-quarter-record-cloud-revenue-123002444.html"
   },
   {
    "t": "台電接管離岸風電2期風機安裝　拚今年底完成併網",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300332.aspx"
   },
   {
-   "t": "Bitcoin and ethereum prices today, Thursday, July 30, 2026: Prices rise after Fed leaves rates unchanged",
+   "t": "Base metals traders on the move as battle for talent intensifies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-30-2026-prices-rise-after-fed-leaves-rates-unchanged-132340233.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/metals-traders-move-battle-talent-134358478.html"
   },
   {
    "t": "證交所強化資安韌性　攜中華電新建備援資訊中心",
