@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 02:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 02:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 333.11,
-   "c": -1.5,
-   "a50": 309.29,
+   "p": 333.4,
+   "c": -1.42,
+   "a50": 309.3,
    "a200": 277.65,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.34,
-   "r": 61.3
+   "a20": 324.35,
+   "r": 61.6
   },
   {
    "s": "NVDA",
-   "p": 193.74,
-   "c": 1.96,
-   "a50": 206.55,
+   "p": 193.65,
+   "c": 1.92,
+   "a50": 206.54,
    "a200": 193.04,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 202.94,
-   "r": 41.8
+   "a20": 202.93,
+   "r": 41.7
   },
   {
    "s": "TSLA",
-   "p": 306.97,
-   "c": 2.9,
-   "a50": 392.58,
-   "a200": 412.21,
+   "p": 307.65,
+   "c": 3.13,
+   "a50": 392.59,
+   "a200": 412.22,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 367.95,
-   "r": 29.7
+   "a20": 367.98,
+   "r": 30.0
   },
   {
    "s": "META",
-   "p": 532.11,
-   "c": -9.14,
-   "a50": 602.96,
+   "p": 533.1,
+   "c": -8.97,
+   "a50": 602.98,
    "a200": 635.25,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 621.77,
-   "r": 31.1
+   "a20": 621.82,
+   "r": 31.2
   },
   {
    "s": "^TWII",
@@ -267,67 +267,67 @@
   },
   {
    "s": "^GSPC",
-   "p": 7421.88,
-   "c": 1.45,
-   "a50": 7468.47,
-   "a200": 7019.85,
+   "p": 7426.26,
+   "c": 1.51,
+   "a50": 7468.56,
+   "a200": 7019.87,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7480.04,
-   "r": 47.7
+   "a20": 7480.26,
+   "r": 48.1
   },
   {
    "s": "^VIX",
-   "p": 17.95,
-   "c": -13.12,
+   "p": 17.93,
+   "c": -13.21,
    "a50": 17.42,
    "a200": 18.73,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.28,
-   "r": 50.7
+   "r": 50.6
   },
   {
    "s": "BZ=F",
-   "p": 89.37,
-   "c": -1.51,
-   "a50": 86.97,
-   "a200": 80.51,
+   "p": 89.76,
+   "c": -1.08,
+   "a50": 86.98,
+   "a200": 80.52,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.9,
-   "r": 53.3
+   "a20": 84.92,
+   "r": 53.7
   },
   {
    "s": "GC=F",
-   "p": 4162.0,
-   "c": 3.16,
-   "a50": 4211.3,
-   "a200": 4480.1,
+   "p": 4165.1,
+   "c": 3.23,
+   "a50": 4211.37,
+   "a200": 4480.12,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.46,
-   "r": 53.8
+   "a20": 4073.61,
+   "r": 54.0
   },
   {
    "s": "HG=F",
-   "p": 6.47,
-   "c": 3.16,
+   "p": 6.48,
+   "c": 3.28,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 58.6
+   "r": 58.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03083565,
-   "c": -0.19,
+   "p": 0.03084516,
+   "c": -0.18,
    "a50": 0.03140704,
    "a200": 0.03169572,
    "yh": 0.033501,
-   "yl": 0.030836
+   "yl": 0.030845
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "Stock market today: Nasdaq soars, Dow and S&P 500 rebound as Microsoft leads tech gains, bond yields rise",
+   "t": "CrowdStrike (CRWD) Rides the AI Threat Wave, But Can It Lead the Pack?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-treasury-yields-microsoft-082255995.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-rides-ai-threat-081016258.html"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Copper Stock Strategy Digs For A 34% Annualized Return As Metal Demand Rises",
+   "t": "Why China’s DUV Push Hit ASML (ASML) and Micron (MU) for Different Reasons",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/copper-stock-freeport-mcmoran-fcx-metals-options-income-strategy-markets/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-china-duv-push-hit-075914910.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",
+   "t": "Ford stock rises as automaker hikes full-year guidance, beats on Q2 earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-choppy-rout-fed-014549754.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/ford-stock-rises-as-automaker-hikes-full-year-guidance-beats-on-q2-earnings-174508466.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Guardant Health, Stock Of The Day, Offers Entry With Earnings Due",
+   "t": "argenx Bets $2.2 Billion on a Vitiligo Breakthrough: What the Forte Biosciences Deal Means for Both Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/guardant-health-stock-buy-point-earnings-colon-cancer/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/argenx-bets-2-2-billion-074542320.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
