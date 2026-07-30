@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 03:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 03:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 333.29,
-   "c": -1.45,
+   "p": 333.4,
+   "c": -1.42,
    "a50": 309.3,
    "a200": 277.65,
    "yh": 340.08,
    "yl": 202.38,
    "a20": 324.35,
-   "r": 61.5
+   "r": 61.6
   },
   {
    "s": "NVDA",
-   "p": 194.22,
-   "c": 2.22,
-   "a50": 206.56,
+   "p": 194.14,
+   "c": 2.17,
+   "a50": 206.55,
    "a200": 193.05,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 202.96,
-   "r": 42.3
+   "r": 42.2
   },
   {
    "s": "TSLA",
-   "p": 309.93,
-   "c": 3.89,
-   "a50": 392.64,
+   "p": 310.44,
+   "c": 4.06,
+   "a50": 392.65,
    "a200": 412.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 368.1,
-   "r": 31.0
+   "a20": 368.12,
+   "r": 31.3
   },
   {
    "s": "META",
-   "p": 535.05,
-   "c": -8.63,
-   "a50": 603.02,
+   "p": 533.74,
+   "c": -8.86,
+   "a50": 603.0,
    "a200": 635.26,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 621.91,
-   "r": 31.5
+   "a20": 621.85,
+   "r": 31.3
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7445.24,
-   "c": 1.76,
-   "a50": 7468.94,
-   "a200": 7019.97,
+   "p": 7440.18,
+   "c": 1.7,
+   "a50": 7468.84,
+   "a200": 7019.94,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7481.21,
-   "r": 49.5
-  },
-  {
-   "s": "^VIX",
-   "p": 17.45,
-   "c": -15.54,
-   "a50": 17.41,
-   "a200": 18.73,
-   "yh": 31.05,
-   "yl": 13.47,
-   "a20": 17.25,
+   "a20": 7480.95,
    "r": 49.1
   },
   {
+   "s": "^VIX",
+   "p": 17.56,
+   "c": -15.0,
+   "a50": 17.42,
+   "a200": 18.73,
+   "yh": 31.05,
+   "yl": 13.47,
+   "a20": 17.26,
+   "r": 49.5
+  },
+  {
    "s": "BZ=F",
-   "p": 88.99,
-   "c": -1.93,
+   "p": 88.91,
+   "c": -2.02,
    "a50": 86.96,
    "a200": 80.51,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 84.88,
-   "r": 52.8
+   "a20": 84.87,
+   "r": 52.7
   },
   {
    "s": "GC=F",
-   "p": 4167.7,
-   "c": 3.3,
-   "a50": 4211.42,
-   "a200": 4480.13,
+   "p": 4172.8,
+   "c": 3.42,
+   "a50": 4211.52,
+   "a200": 4480.15,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.74,
-   "r": 54.2
+   "a20": 4074.0,
+   "r": 54.5
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": 3.57,
+   "c": 3.63,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.6
+   "r": 59.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03085467,
-   "c": -0.13,
+   "c": -0.15,
    "a50": 0.03140704,
    "a200": 0.03169572,
    "yh": 0.033501,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Do Wall Street Analysts Like Wells Fargo Stock?",
+   "t": "Biogen beats quarterly estimates as newer drugs fuel growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-wells-fargo-090317989.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/biogen-beats-quarterly-estimates-newer-100303309.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Stock Index Futures Gain With Focus on Fed Rate Decision and Big Tech Earnings",
+   "t": "AI Data Center Turbines, Backlogged For Years, Are Suffering Early Deaths. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-gain-focus-103406755.html"
+   "u": "https://www.investors.com/news/turbine-generator-ai-data-center-power-threat/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300383.aspx"
   },
   {
-   "t": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
+   "t": "Analyst Report: Visa Inc",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_3489_AnalystReport_1785435883000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
