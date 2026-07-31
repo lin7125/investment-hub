@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-01 02:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-01 02:48（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 301.87,
-   "c": -9.47,
-   "a50": 309.36,
+   "p": 302.33,
+   "c": -9.33,
+   "a50": 309.37,
    "a200": 277.93,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.01,
-   "r": 39.8
+   "a20": 324.04,
+   "r": 40.0
   },
   {
    "s": "NVDA",
-   "p": 199.07,
-   "c": 2.07,
+   "p": 198.85,
+   "c": 1.95,
    "a50": 206.14,
    "a200": 193.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.21,
-   "r": 46.9
+   "a20": 203.2,
+   "r": 46.7
   },
   {
    "s": "TSLA",
-   "p": 311.48,
-   "c": 0.85,
-   "a50": 390.77,
+   "p": 311.02,
+   "c": 0.7,
+   "a50": 390.76,
    "a200": 411.6,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 363.94,
-   "r": 31.8
+   "a20": 363.92,
+   "r": 31.6
   },
   {
    "s": "META",
-   "p": 549.86,
-   "c": 2.01,
-   "a50": 602.05,
-   "a200": 634.45,
+   "p": 551.23,
+   "c": 2.26,
+   "a50": 602.07,
+   "a200": 634.46,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.46,
-   "r": 35.7
+   "a20": 620.53,
+   "r": 36.2
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7482.49,
-   "c": 0.6,
-   "a50": 7471.37,
-   "a200": 7024.07,
+   "p": 7484.32,
+   "c": 0.63,
+   "a50": 7471.4,
+   "a200": 7024.08,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7480.79,
-   "r": 52.3
+   "a20": 7480.88,
+   "r": 52.4
   },
   {
    "s": "^VIX",
-   "p": 16.57,
-   "c": -3.04,
+   "p": 16.58,
+   "c": -2.98,
    "a50": 17.39,
    "a200": 18.71,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 90.01,
-   "c": 1.1,
+   "p": 90.12,
+   "c": 1.22,
    "a50": 86.54,
    "a200": 80.65,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 85.79,
-   "r": 53.9
+   "a20": 85.8,
+   "r": 54.1
   },
   {
    "s": "GC=F",
-   "p": 4107.6,
-   "c": 0.18,
-   "a50": 4202.09,
-   "a200": 4479.79,
+   "p": 4106.0,
+   "c": 0.14,
+   "a50": 4202.06,
+   "a200": 4479.78,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.11,
-   "r": 50.0
+   "a20": 4070.03,
+   "r": 49.9
   },
   {
    "s": "HG=F",
-   "p": 6.5,
-   "c": 0.85,
+   "p": 6.52,
+   "c": 1.19,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 59.8
+   "r": 60.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03097893,
-   "c": 0.2,
+   "c": 0.21,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607310352.aspx"
   },
   {
-   "t": "US Dollar Price Forecast: Fed Holds Rates, Markets Turn to PCE and BoE Decision",
+   "t": "Ask an Advisor: Will a Pay Raise Increase My Social Security After I've Already Claimed?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-fed-080847136.html"
+   "u": "https://finance.yahoo.com/news/ask-advisor-kept-working-claiming-100000593.html"
   },
   {
    "t": "今彩539第115185期　頭獎2注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310351.aspx"
   },
   {
-   "t": "Meta misses on Q2 earnings, stock tumbles",
+   "t": "Peter Schiff warns 1.7 million babies getting $1,000 Trump accounts will repay the $14.6 billion cost themselves",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/meta-misses-on-q2-earnings-stock-tumbles-121325403.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/peter-schiff-warns-1-7-090000845.html"
   },
   {
    "t": "大樂透第115075期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310350.aspx"
   },
   {
-   "t": "Shell Reports $9.8 Billion in Adjusted Earnings as Energy Prices Surge",
+   "t": "A few VC firms are poised to win the future",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/shell-reports-9-8-billion-084500321.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/few-vc-firms-poised-win-090000037.html"
   },
   {
    "t": "疑投資AI失利　德國「AI神童」所創避險基金強制平倉",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607310348.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Predicting KeyCorp Stock Will Climb or Sink?",
+   "t": "Shell Reports $9.8 Billion in Adjusted Earnings as Energy Prices Surge",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-keycorp-074145599.html"
+   "u": "https://finance.yahoo.com/energy/articles/shell-reports-9-8-billion-084500321.html"
   },
   {
    "t": "台灣風力發電產業協會提4建言　籲政府穩定市場機制",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607310344.aspx"
   },
   {
-   "t": "Eolian starts construction on 1.06GWh Flint Grid BESS in Ohio",
+   "t": "MSFT Says the Next Phase of AI Is 'Per Seat Plus Consumption' as Copilot Usage Grows",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/eolian-starts-construction-1-06gwh-081752129.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/msft-says-next-phase-ai-085550472.html"
   }
  ],
  "inst": {
