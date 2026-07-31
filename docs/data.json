@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-01 02:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-01 03:09（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 302.57,
-   "c": -9.26,
-   "a50": 309.37,
-   "a200": 277.93,
+   "p": 304.27,
+   "c": -8.75,
+   "a50": 309.41,
+   "a200": 277.94,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.05,
-   "r": 40.1
+   "a20": 324.13,
+   "r": 40.9
   },
   {
    "s": "NVDA",
-   "p": 198.99,
-   "c": 2.02,
-   "a50": 206.14,
+   "p": 198.46,
+   "c": 1.75,
+   "a50": 206.13,
    "a200": 193.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.21,
-   "r": 46.8
+   "a20": 203.18,
+   "r": 46.3
   },
   {
    "s": "TSLA",
-   "p": 310.83,
-   "c": 0.64,
-   "a50": 390.75,
+   "p": 310.38,
+   "c": 0.49,
+   "a50": 390.74,
    "a200": 411.6,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 363.91,
-   "r": 31.5
+   "a20": 363.89,
+   "r": 31.3
   },
   {
    "s": "META",
-   "p": 550.75,
-   "c": 2.17,
-   "a50": 602.06,
+   "p": 550.83,
+   "c": 2.19,
+   "a50": 602.07,
    "a200": 634.46,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.5,
+   "a20": 620.51,
    "r": 36.0
   },
   {
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7484.05,
-   "c": 0.62,
-   "a50": 7471.4,
-   "a200": 7024.08,
+   "p": 7485.37,
+   "c": 0.64,
+   "a50": 7471.42,
+   "a200": 7024.09,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7480.87,
-   "r": 52.4
+   "a20": 7480.93,
+   "r": 52.5
   },
   {
    "s": "^VIX",
-   "p": 16.5,
-   "c": -3.45,
+   "p": 16.45,
+   "c": -3.74,
    "a50": 17.39,
    "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.25,
-   "r": 46.4
+   "r": 46.2
   },
   {
    "s": "BZ=F",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4105.8,
-   "c": 0.14,
-   "a50": 4202.06,
+   "p": 4106.4,
+   "c": 0.15,
+   "a50": 4202.07,
    "a200": 4479.78,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.02,
+   "a20": 4070.05,
    "r": 49.9
   },
   {
    "s": "HG=F",
-   "p": 6.52,
-   "c": 1.23,
+   "p": 6.53,
+   "c": 1.33,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 60.7
+   "r": 60.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03097893,
-   "c": 0.2,
+   "c": 0.22,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607310367.aspx"
   },
   {
-   "t": "Huntington Bancshares Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "t": "Ask an Advisor: Will a Pay Raise Increase My Social Security After I've Already Claimed?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/huntington-bancshares-stock-outlook-wall-090348419.html"
+   "u": "https://finance.yahoo.com/news/ask-advisor-kept-working-claiming-100000593.html"
   },
   {
    "t": "AI疑慮緩解美股那指開高　亞馬遜大漲12%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310351.aspx"
   },
   {
-   "t": "Ask an Advisor: Will a Pay Raise Increase My Social Security After I've Already Claimed?",
+   "t": "Peter Schiff warns 1.7 million babies getting $1,000 Trump accounts will repay the $14.6 billion cost themselves",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/ask-advisor-kept-working-claiming-100000593.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/peter-schiff-warns-1-7-090000845.html"
   },
   {
    "t": "大樂透第115075期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310350.aspx"
   },
   {
-   "t": "Peter Schiff warns 1.7 million babies getting $1,000 Trump accounts will repay the $14.6 billion cost themselves",
+   "t": "Huntington Bancshares Stock Outlook: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/peter-schiff-warns-1-7-090000845.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/huntington-bancshares-stock-outlook-wall-090348419.html"
   },
   {
    "t": "疑投資AI失利　德國「AI神童」所創避險基金強制平倉",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607310348.aspx"
   },
   {
-   "t": "Resolute Mining Q2 Earnings Call Highlights",
+   "t": "CleanSpark CFO on shifting from bitcoin mining to AI data centers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/resolute-mining-q2-earnings-call-090405752.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/cleanspark-cfo-shifting-bitcoin-mining-090000701.html"
   }
  ],
  "inst": {
