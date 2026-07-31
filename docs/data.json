@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 19:23（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 19:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 16.75,
-   "c": -1.99,
-   "a50": 17.39,
+   "p": 16.9,
+   "c": -1.11,
+   "a50": 17.4,
    "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.26,
-   "r": 47.1
+   "a20": 17.27,
+   "r": 47.5
   },
   {
    "s": "BZ=F",
-   "p": 89.65,
-   "c": 0.7,
-   "a50": 86.53,
-   "a200": 80.64,
+   "p": 90.03,
+   "c": 1.12,
+   "a50": 86.54,
+   "a200": 80.65,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 85.77,
-   "r": 53.5
+   "a20": 85.79,
+   "r": 54.0
   },
   {
    "s": "GC=F",
-   "p": 4113.8,
-   "c": 0.33,
-   "a50": 4202.22,
-   "a200": 4479.82,
+   "p": 4115.8,
+   "c": 0.38,
+   "a50": 4202.26,
+   "a200": 4479.83,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.42,
-   "r": 50.5
+   "a20": 4070.52,
+   "r": 50.7
   },
   {
    "s": "HG=F",
    "p": 6.49,
-   "c": 0.7,
+   "c": 0.64,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 59.4
+   "r": 59.3
   },
   {
    "s": "TWDUSD",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300383.aspx"
   },
   {
-   "t": "Small Cap Watch: Novo advances Tibooburra, plus quarterlies from Pantoro, Sovereign, Titan and more...",
+   "t": "Allspring on Chipotle, Starbucks Earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/small-cap-watch-novo-advances-232000829.html"
+   "u": "https://finance.yahoo.com/video/allspring-chipotle-starbucks-earnings-233001019.html"
   }
  ],
  "inst": {
