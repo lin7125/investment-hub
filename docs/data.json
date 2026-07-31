@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 21:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 21:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 302.62,
-   "c": -9.24,
-   "a50": 309.37,
-   "a200": 277.93,
+   "p": 305.45,
+   "c": -8.39,
+   "a50": 309.43,
+   "a200": 277.94,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.05,
-   "r": 40.2
+   "a20": 324.19,
+   "r": 41.5
   },
   {
    "s": "NVDA",
-   "p": 199.75,
-   "c": 2.41,
-   "a50": 206.15,
-   "a200": 193.11,
+   "p": 197.71,
+   "c": 1.37,
+   "a50": 206.11,
+   "a200": 193.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.25,
-   "r": 47.4
+   "a20": 203.14,
+   "r": 45.6
   },
   {
    "s": "TSLA",
-   "p": 313.83,
-   "c": 1.61,
-   "a50": 390.81,
-   "a200": 411.61,
+   "p": 307.3,
+   "c": -0.5,
+   "a50": 390.68,
+   "a200": 411.58,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 364.06,
-   "r": 32.9
+   "a20": 363.73,
+   "r": 30.2
   },
   {
    "s": "META",
-   "p": 552.11,
-   "c": 2.43,
-   "a50": 602.09,
-   "a200": 634.46,
+   "p": 547.79,
+   "c": 1.63,
+   "a50": 602.01,
+   "a200": 634.44,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.57,
-   "r": 36.4
+   "a20": 620.36,
+   "r": 35.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7484.09,
-   "c": 0.62,
-   "a50": 7471.4,
-   "a200": 7024.08,
+   "p": 7452.7,
+   "c": 0.2,
+   "a50": 7470.77,
+   "a200": 7023.92,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7480.87,
-   "r": 52.4
+   "a20": 7479.3,
+   "r": 50.1
   },
   {
    "s": "^VIX",
-   "p": 17.01,
-   "c": -0.47,
-   "a50": 17.4,
+   "p": 16.71,
+   "c": -2.22,
+   "a50": 17.39,
    "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.28,
-   "r": 47.9
+   "a20": 17.26,
+   "r": 47.0
   },
   {
    "s": "BZ=F",
-   "p": 90.35,
-   "c": 1.48,
-   "a50": 86.55,
+   "p": 90.27,
+   "c": 1.39,
+   "a50": 86.54,
    "a200": 80.65,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 85.81,
-   "r": 54.3
+   "a20": 85.8,
+   "r": 54.2
   },
   {
    "s": "GC=F",
-   "p": 4098.6,
-   "c": -0.04,
-   "a50": 4201.91,
-   "a200": 4479.74,
+   "p": 4091.6,
+   "c": -0.21,
+   "a50": 4201.77,
+   "a200": 4479.71,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4069.66,
-   "r": 49.3
+   "a20": 4069.31,
+   "r": 48.7
   },
   {
    "s": "HG=F",
-   "p": 6.49,
-   "c": 0.75,
+   "p": 6.47,
+   "c": 0.34,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 59.5
+   "r": 58.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03102699,
-   "c": 0.36,
+   "p": 0.03097893,
+   "c": 0.22,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "XOVR Isn’t About SpaceX or Space. So What Is It About?",
+   "t": "Trucking Company’s ESOP: How Employee Ownership Drives Low Turnover (35%)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/xovr-isn-t-spacex-space-012517696.html"
+   "u": "https://finance.yahoo.com/small-business/articles/trucking-company-esop-employee-ownership-015405738.html"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "A look at the federal funds rate over the past 50 years: How has it changed?",
+   "t": "Trucking Capacity Tightness: Why It’s Here To Stay",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/historical-fed-interest-rates-200947944.html"
+   "u": "https://finance.yahoo.com/economy/articles/trucking-capacity-tightness-why-stay-015431593.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Trucking Company’s ESOP: How Employee Ownership Drives Low Turnover (35%)",
+   "t": "Freight Efficiency: How to Solve the “Dumb Box” Problem in Trucking",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/trucking-company-esop-employee-ownership-015405738.html"
+   "u": "https://finance.yahoo.com/small-business/articles/freight-efficiency-solve-dumb-box-015457910.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Trucking Capacity Tightness: Why It’s Here To Stay",
+   "t": "Housing Market Crash Slams Last-Mile Delivery: What’s Next?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/trucking-capacity-tightness-why-stay-015431593.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/housing-market-crash-slams-last-020005533.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
