@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 23:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 23:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 303.64,
-   "c": -8.94,
-   "a50": 309.39,
-   "a200": 277.93,
+   "p": 301.77,
+   "c": -9.5,
+   "a50": 309.36,
+   "a200": 277.92,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.1,
-   "r": 40.6
+   "a20": 324.01,
+   "r": 39.8
   },
   {
    "s": "NVDA",
-   "p": 196.83,
-   "c": 0.92,
-   "a50": 206.1,
+   "p": 195.55,
+   "c": 0.26,
+   "a50": 206.07,
    "a200": 193.09,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.1,
-   "r": 44.8
+   "a20": 203.04,
+   "r": 43.6
   },
   {
    "s": "TSLA",
-   "p": 307.22,
-   "c": -0.53,
-   "a50": 390.68,
-   "a200": 411.58,
+   "p": 305.67,
+   "c": -1.03,
+   "a50": 390.65,
+   "a200": 411.57,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 363.73,
-   "r": 30.2
+   "a20": 363.65,
+   "r": 29.9
   },
   {
    "s": "META",
-   "p": 546.28,
-   "c": 1.35,
-   "a50": 601.98,
-   "a200": 634.44,
+   "p": 541.47,
+   "c": 0.45,
+   "a50": 601.88,
+   "a200": 634.41,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.28,
-   "r": 34.6
+   "a20": 620.04,
+   "r": 33.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7442.12,
-   "c": 0.06,
-   "a50": 7470.56,
-   "a200": 7023.87,
+   "p": 7424.56,
+   "c": -0.18,
+   "a50": 7470.21,
+   "a200": 7023.78,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7478.77,
-   "r": 49.3
+   "a20": 7477.89,
+   "r": 47.9
   },
   {
    "s": "^VIX",
-   "p": 17.58,
-   "c": 2.87,
+   "p": 17.49,
+   "c": 2.34,
    "a50": 17.41,
    "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.31,
-   "r": 49.7
+   "a20": 17.3,
+   "r": 49.4
   },
   {
    "s": "BZ=F",
-   "p": 90.2,
-   "c": 1.31,
+   "p": 90.08,
+   "c": 1.18,
    "a50": 86.54,
    "a200": 80.65,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 85.8,
-   "r": 54.1
+   "a20": 85.79,
+   "r": 54.0
   },
   {
    "s": "GC=F",
-   "p": 4103.5,
-   "c": 0.08,
-   "a50": 4202.01,
-   "a200": 4479.77,
+   "p": 4101.1,
+   "c": 0.02,
+   "a50": 4201.96,
+   "a200": 4479.75,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4069.9,
-   "r": 49.7
+   "a20": 4069.78,
+   "r": 49.5
   },
   {
    "s": "HG=F",
    "p": 6.49,
-   "c": 0.76,
+   "c": 0.64,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 59.6
+   "r": 59.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03096934,
-   "c": 0.17,
+   "p": 0.03098853,
+   "c": 0.24,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310351.aspx"
   },
   {
-   "t": "Tech stocks today: Amazon beats, Apple sinks",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq seesaw as 10-year yield surges, Big Tech's AI spending ramps up",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html"
   },
   {
    "t": "大樂透第115075期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310350.aspx"
   },
   {
-   "t": "Travel delay insurance: What's covered and what's not",
+   "t": "Tech stocks today: Amazon beats, Apple sinks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/travel-delay-insurance-150541453.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html"
   },
   {
    "t": "疑投資AI失利　德國「AI神童」所創避險基金強制平倉",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607310348.aspx"
   },
   {
-   "t": "Fed hawks push yields higher, stocks give back gains",
+   "t": "Stock Market Checklist Helps Uncover Winners In Hot Biotechs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-surge-yen-spotlight-013146618.html"
+   "u": "https://www.investors.com/how-to-invest/investors-corner/stock-market-checklist-uncovers-biotech-winners/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台灣風力發電產業協會提4建言　籲政府穩定市場機制",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607310344.aspx"
   },
   {
-   "t": "Why are electric vehicle insurance costs so high?",
+   "t": "Travel delay insurance: What's covered and what's not",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/electric-vehicle-insurance-191417865.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/travel-delay-insurance-150541453.html"
   },
   {
    "t": "華星光違約交割1736萬元　今年櫃買第12起",
