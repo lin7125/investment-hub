@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 21:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 21:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.22,
-   "c": 0.76,
+   "p": 17.27,
+   "c": 1.05,
    "a50": 17.4,
    "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.29,
-   "r": 48.5
+   "r": 48.7
   },
   {
    "s": "BZ=F",
-   "p": 90.58,
-   "c": 1.74,
-   "a50": 86.55,
+   "p": 90.34,
+   "c": 1.47,
+   "a50": 86.54,
    "a200": 80.65,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 85.82,
-   "r": 54.5
+   "a20": 85.81,
+   "r": 54.3
   },
   {
    "s": "GC=F",
-   "p": 4094.4,
-   "c": -0.14,
-   "a50": 4201.83,
-   "a200": 4479.72,
+   "p": 4093.1,
+   "c": -0.17,
+   "a50": 4201.8,
+   "a200": 4479.71,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4069.45,
-   "r": 48.9
+   "a20": 4069.38,
+   "r": 48.8
   },
   {
    "s": "HG=F",
-   "p": 6.48,
-   "c": 0.49,
+   "p": 6.49,
+   "c": 0.78,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 58.9
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03094059,
-   "c": 0.09,
+   "p": 0.03093102,
+   "c": 0.07,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "WEC Energy Group, Inc. Q2 2026 Earnings Call Summary",
+   "t": "XOVR Isn’t About SpaceX or Space. So What Is It About?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wec-energy-group-inc-q2-010602390.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/xovr-isn-t-spacex-space-012517696.html"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "XOVR Isn’t About SpaceX or Space. So What Is It About?",
+   "t": "A look at the federal funds rate over the past 50 years: How has it changed?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/xovr-isn-t-spacex-space-012517696.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/historical-fed-interest-rates-200947944.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "A look at the federal funds rate over the past 50 years: How has it changed?",
+   "t": "Trucking Company’s ESOP: How Employee Ownership Drives Low Turnover (35%)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/historical-fed-interest-rates-200947944.html"
+   "u": "https://finance.yahoo.com/small-business/articles/trucking-company-esop-employee-ownership-015405738.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Trucking Company’s ESOP: How Employee Ownership Drives Low Turnover (35%)",
+   "t": "Trucking Capacity Tightness: Why It’s Here To Stay",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/trucking-company-esop-employee-ownership-015405738.html"
+   "u": "https://finance.yahoo.com/economy/articles/trucking-capacity-tightness-why-stay-015431593.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
