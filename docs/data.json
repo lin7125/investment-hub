@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-01 02:48（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-01 02:59（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 302.33,
-   "c": -9.33,
+   "p": 302.57,
+   "c": -9.26,
    "a50": 309.37,
    "a200": 277.93,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.04,
-   "r": 40.0
+   "a20": 324.05,
+   "r": 40.1
   },
   {
    "s": "NVDA",
-   "p": 198.85,
-   "c": 1.95,
+   "p": 198.99,
+   "c": 2.02,
    "a50": 206.14,
    "a200": 193.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.2,
-   "r": 46.7
+   "a20": 203.21,
+   "r": 46.8
   },
   {
    "s": "TSLA",
-   "p": 311.02,
-   "c": 0.7,
-   "a50": 390.76,
+   "p": 310.83,
+   "c": 0.64,
+   "a50": 390.75,
    "a200": 411.6,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 363.92,
-   "r": 31.6
+   "a20": 363.91,
+   "r": 31.5
   },
   {
    "s": "META",
-   "p": 551.23,
-   "c": 2.26,
-   "a50": 602.07,
+   "p": 550.75,
+   "c": 2.17,
+   "a50": 602.06,
    "a200": 634.46,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.53,
-   "r": 36.2
+   "a20": 620.5,
+   "r": 36.0
   },
   {
    "s": "^TWII",
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7484.32,
-   "c": 0.63,
+   "p": 7484.05,
+   "c": 0.62,
    "a50": 7471.4,
    "a200": 7024.08,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7480.88,
+   "a20": 7480.87,
    "r": 52.4
   },
   {
    "s": "^VIX",
-   "p": 16.58,
-   "c": -2.98,
+   "p": 16.5,
+   "c": -3.45,
    "a50": 17.39,
    "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.26,
-   "r": 46.6
+   "a20": 17.25,
+   "r": 46.4
   },
   {
    "s": "BZ=F",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4106.0,
+   "p": 4105.8,
    "c": 0.14,
    "a50": 4202.06,
    "a200": 4479.78,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.03,
+   "a20": 4070.02,
    "r": 49.9
   },
   {
    "s": "HG=F",
    "p": 6.52,
-   "c": 1.19,
+   "c": 1.23,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 60.6
+   "r": 60.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03097893,
-   "c": 0.21,
+   "c": 0.2,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "房市7月交易微幅升溫　業者關注股市修正效應",
+   "t": "科技股強彈後漲勢收斂　歐股漲跌互見",
    "pub": "中央社財經",
-   "d": "2026-07-31",
-   "u": "https://www.cna.com.tw/news/afe/202607310367.aspx"
+   "d": "2026-08-01",
+   "u": "https://www.cna.com.tw/news/afe/202608010002.aspx"
   },
   {
    "t": "Fed interest-rate decision rocks Wall Street's inflation fears",
@@ -344,34 +344,22 @@
    "u": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html"
   },
   {
+   "t": "房市7月交易微幅升溫　業者關注股市修正效應",
+   "pub": "中央社財經",
+   "d": "2026-07-31",
+   "u": "https://www.cna.com.tw/news/afe/202607310367.aspx"
+  },
+  {
+   "t": "Huntington Bancshares Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/huntington-bancshares-stock-outlook-wall-090348419.html"
+  },
+  {
    "t": "AI疑慮緩解美股那指開高　亞馬遜大漲12%",
    "pub": "中央社財經",
    "d": "2026-07-31",
    "u": "https://www.cna.com.tw/news/afe/202607310352.aspx"
-  },
-  {
-   "t": "Ask an Advisor: Will a Pay Raise Increase My Social Security After I've Already Claimed?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/news/ask-advisor-kept-working-claiming-100000593.html"
-  },
-  {
-   "t": "今彩539第115185期　頭獎2注中獎",
-   "pub": "中央社財經",
-   "d": "2026-07-31",
-   "u": "https://www.cna.com.tw/news/ahel/202607310351.aspx"
-  },
-  {
-   "t": "Peter Schiff warns 1.7 million babies getting $1,000 Trump accounts will repay the $14.6 billion cost themselves",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/peter-schiff-warns-1-7-090000845.html"
-  },
-  {
-   "t": "大樂透第115075期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-07-31",
-   "u": "https://www.cna.com.tw/news/ahel/202607310350.aspx"
   },
   {
    "t": "A few VC firms are poised to win the future",
@@ -380,28 +368,40 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/few-vc-firms-poised-win-090000037.html"
   },
   {
+   "t": "今彩539第115185期　頭獎2注中獎",
+   "pub": "中央社財經",
+   "d": "2026-07-31",
+   "u": "https://www.cna.com.tw/news/ahel/202607310351.aspx"
+  },
+  {
+   "t": "Ask an Advisor: Will a Pay Raise Increase My Social Security After I've Already Claimed?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/news/ask-advisor-kept-working-claiming-100000593.html"
+  },
+  {
+   "t": "大樂透第115075期　頭獎槓龜",
+   "pub": "中央社財經",
+   "d": "2026-07-31",
+   "u": "https://www.cna.com.tw/news/ahel/202607310350.aspx"
+  },
+  {
+   "t": "Peter Schiff warns 1.7 million babies getting $1,000 Trump accounts will repay the $14.6 billion cost themselves",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/economy/policy/articles/peter-schiff-warns-1-7-090000845.html"
+  },
+  {
    "t": "疑投資AI失利　德國「AI神童」所創避險基金強制平倉",
    "pub": "中央社財經",
    "d": "2026-07-31",
    "u": "https://www.cna.com.tw/news/aopl/202607310348.aspx"
   },
   {
-   "t": "Shell Reports $9.8 Billion in Adjusted Earnings as Energy Prices Surge",
+   "t": "Resolute Mining Q2 Earnings Call Highlights",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/shell-reports-9-8-billion-084500321.html"
-  },
-  {
-   "t": "台灣風力發電產業協會提4建言　籲政府穩定市場機制",
-   "pub": "中央社財經",
-   "d": "2026-07-31",
-   "u": "https://www.cna.com.tw/news/afe/202607310344.aspx"
-  },
-  {
-   "t": "MSFT Says the Next Phase of AI Is 'Per Seat Plus Consumption' as Copilot Usage Grows",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/msft-says-next-phase-ai-085550472.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/resolute-mining-q2-earnings-call-090405752.html"
   }
  ],
  "inst": {
