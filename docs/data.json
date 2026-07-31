@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 08:15（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 08:25（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 89.38,
-   "c": -1.5,
+   "p": 89.39,
+   "c": -1.49,
    "a50": 86.97,
    "a200": 80.51,
    "yh": 118.35,
@@ -300,34 +300,34 @@
   },
   {
    "s": "GC=F",
-   "p": 4163.7,
-   "c": 3.2,
-   "a50": 4211.34,
-   "a200": 4480.11,
+   "p": 4159.5,
+   "c": 3.09,
+   "a50": 4211.25,
+   "a200": 4480.09,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.54,
-   "r": 53.9
+   "a20": 4073.33,
+   "r": 53.6
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": 3.67,
+   "c": 3.6,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.8
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.0308642,
-   "c": -0.16,
+   "p": 0.03088326,
+   "c": -0.09,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
-   "yl": 0.030864
+   "yl": 0.030883
   }
  ],
  "news": [
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Extra Space Storage Inc. Q2 2026 Earnings Call Summary",
+   "t": "Renasant Corporation Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/extra-space-storage-inc-q2-123000978.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/renasant-corporation-q2-2026-earnings-123000809.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
