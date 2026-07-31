@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 20:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 20:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 17.15,
-   "c": 0.35,
+   "p": 17.12,
+   "c": 0.18,
    "a50": 17.4,
    "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.28,
-   "r": 48.3
+   "r": 48.2
   },
   {
    "s": "BZ=F",
-   "p": 90.36,
-   "c": 1.49,
-   "a50": 86.55,
+   "p": 90.22,
+   "c": 1.34,
+   "a50": 86.54,
    "a200": 80.65,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 85.81,
-   "r": 54.3
+   "a20": 85.8,
+   "r": 54.2
   },
   {
    "s": "GC=F",
-   "p": 4106.8,
-   "c": 0.16,
-   "a50": 4202.08,
+   "p": 4106.2,
+   "c": 0.15,
+   "a50": 4202.06,
    "a200": 4479.78,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.07,
-   "r": 50.0
+   "a20": 4070.04,
+   "r": 49.9
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": 0.62,
+   "c": 0.56,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 59.2
+   "r": 59.0
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "ExlService (EXL) Soars 17.88%, Wins Hedge Fund Confidence",
+   "t": "Littelfuse, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/exlservice-exl-soars-17-88-002847016.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/littelfuse-inc-q2-2026-earnings-004111159.html"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "General Dynamics Corporation Q2 2026 Earnings Call Summary",
+   "t": "A look at the federal funds rate over the past 50 years: How has it changed?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-corporation-q2-2026-003030743.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/historical-fed-interest-rates-200947944.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Banc of California, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Safe Bulkers, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/banc-california-inc-q2-2026-003102259.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/safe-bulkers-inc-q2-2026-005113225.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Hayward Holdings, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Stepan Company Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/hayward-holdings-inc-q2-2026-003627982.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stepan-company-q2-2026-earnings-005537746.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
