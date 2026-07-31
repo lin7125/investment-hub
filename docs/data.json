@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-01 07:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-01 07:57（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "科技股強彈後漲勢收斂　歐股漲跌互見",
+   "t": "伊朗戰事持續發酵　油價月線漲幅為3月以來最大",
    "pub": "中央社財經",
    "d": "2026-08-01",
-   "u": "https://www.cna.com.tw/news/afe/202608010002.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608010009.aspx"
   },
   {
    "t": "Fed interest-rate decision rocks Wall Street's inflation fears",
@@ -344,16 +344,40 @@
    "u": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html"
   },
   {
+   "t": "亞馬遜財報利多加持　美股收紅",
+   "pub": "中央社財經",
+   "d": "2026-08-01",
+   "u": "https://www.cna.com.tw/news/afe/202608010007.aspx"
+  },
+  {
+   "t": "UK's IG Group bets big on US prediction markets with $1.3 billion Underdog deal",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/uks-ig-group-agrees-buy-164102084.html"
+  },
+  {
+   "t": "科技股強彈後漲勢收斂　歐股漲跌互見",
+   "pub": "中央社財經",
+   "d": "2026-08-01",
+   "u": "https://www.cna.com.tw/news/afe/202608010002.aspx"
+  },
+  {
+   "t": "Reddit (RDDT) May Walk Away From Google’s (GOOGL) $60 Million-a-Year Deal as AI Search Eats Its Traffic",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-may-walk-away-164136219.html"
+  },
+  {
    "t": "房市7月交易微幅升溫　業者關注股市修正效應",
    "pub": "中央社財經",
    "d": "2026-07-31",
    "u": "https://www.cna.com.tw/news/afe/202607310367.aspx"
   },
   {
-   "t": "Nvidia (NVDA) Could Backstop $250 Billion for OpenAI. Where Does That Leave Microsoft (MSFT)?",
+   "t": "Exclusive-Ford CEO tells employees Chinese automakers could enter US market in next decade",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-could-backstop-250-163019894.html"
+   "u": "https://finance.yahoo.com/news/exclusive-ford-ceo-tells-employees-164329875.html"
   },
   {
    "t": "AI疑慮緩解美股那指開高　亞馬遜大漲12%",
@@ -362,40 +386,16 @@
    "u": "https://www.cna.com.tw/news/afe/202607310352.aspx"
   },
   {
-   "t": "Intel Just Posted Its Best Revenue Growth in 15 Years. Here’s What It Means for INTC Stock.",
+   "t": "Coinbase beats much of customer lawsuit over US token sales",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intel-just-posted-best-revenue-163116612.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/coinbase-beats-much-customer-lawsuit-164519190.html"
   },
   {
    "t": "今彩539第115185期　頭獎2注中獎",
    "pub": "中央社財經",
    "d": "2026-07-31",
    "u": "https://www.cna.com.tw/news/ahel/202607310351.aspx"
-  },
-  {
-   "t": "AMD Fell 8% as China Unveils New Technology — the Real Risk Is the Multiple, Not the Lithography",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amd-fell-8-china-unveils-163317303.html"
-  },
-  {
-   "t": "大樂透第115075期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-07-31",
-   "u": "https://www.cna.com.tw/news/ahel/202607310350.aspx"
-  },
-  {
-   "t": "Saia’s Q3 margin guidance disappoints investors",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/saia-q3-margin-guidance-disappoints-163232017.html"
-  },
-  {
-   "t": "疑投資AI失利　德國「AI神童」所創避險基金強制平倉",
-   "pub": "中央社財經",
-   "d": "2026-07-31",
-   "u": "https://www.cna.com.tw/news/aopl/202607310348.aspx"
   },
   {
    "t": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
