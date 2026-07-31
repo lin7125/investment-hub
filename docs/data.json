@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 08:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 08:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,34 +300,34 @@
   },
   {
    "s": "GC=F",
-   "p": 4159.5,
-   "c": 3.09,
-   "a50": 4211.25,
+   "p": 4160.6,
+   "c": 3.12,
+   "a50": 4211.28,
    "a200": 4480.09,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.33,
-   "r": 53.6
+   "a20": 4073.39,
+   "r": 53.7
   },
   {
    "s": "HG=F",
-   "p": 6.5,
-   "c": 3.6,
+   "p": 6.51,
+   "c": 3.74,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.6
+   "r": 59.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03088326,
-   "c": -0.09,
+   "p": 0.0308642,
+   "c": -0.16,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
-   "yl": 0.030883
+   "yl": 0.030864
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "Expedia Group Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Meta Earnings Preview: This Is The Number To Watch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-stock-wall-street-122311874.html"
+   "u": "https://www.investors.com/news/technology/meta-stock-q2-2026-earnings-preview-big-tech/?src=A00220&yptr=yahoo"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Meta Earnings Preview: This Is The Number To Watch",
+   "t": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/meta-stock-q2-2026-earnings-preview-big-tech/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Renasant Corporation Q2 2026 Earnings Call Summary",
+   "t": "Landstar System, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/renasant-corporation-q2-2026-earnings-123000809.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/landstar-system-inc-q2-2026-123000428.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Asbury Automotive Group, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Trustmark Corporation Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/asbury-automotive-group-inc-q2-123000526.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/trustmark-corporation-q2-2026-earnings-123000675.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
