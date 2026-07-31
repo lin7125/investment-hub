@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-01 03:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-01 03:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 304.27,
-   "c": -8.75,
-   "a50": 309.41,
+   "p": 305.29,
+   "c": -8.44,
+   "a50": 309.43,
    "a200": 277.94,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.13,
-   "r": 40.9
+   "a20": 324.19,
+   "r": 41.4
   },
   {
    "s": "NVDA",
-   "p": 198.46,
-   "c": 1.75,
-   "a50": 206.13,
-   "a200": 193.1,
+   "p": 200.45,
+   "c": 2.77,
+   "a50": 206.17,
+   "a200": 193.11,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.18,
-   "r": 46.3
+   "a20": 203.28,
+   "r": 48.0
   },
   {
    "s": "TSLA",
-   "p": 310.38,
-   "c": 0.49,
-   "a50": 390.74,
+   "p": 310.55,
+   "c": 0.55,
+   "a50": 390.75,
    "a200": 411.6,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 363.89,
-   "r": 31.3
+   "a20": 363.9,
+   "r": 31.4
   },
   {
    "s": "META",
-   "p": 550.83,
-   "c": 2.19,
-   "a50": 602.07,
-   "a200": 634.46,
+   "p": 552.91,
+   "c": 2.57,
+   "a50": 602.11,
+   "a200": 634.47,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.51,
-   "r": 36.0
+   "a20": 620.61,
+   "r": 36.7
   },
   {
    "s": "^TWII",
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7485.37,
-   "c": 0.64,
-   "a50": 7471.42,
-   "a200": 7024.09,
+   "p": 7497.87,
+   "c": 0.81,
+   "a50": 7471.67,
+   "a200": 7024.15,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7480.93,
-   "r": 52.5
+   "a20": 7481.56,
+   "r": 53.3
   },
   {
    "s": "^VIX",
-   "p": 16.45,
-   "c": -3.74,
+   "p": 16.49,
+   "c": -3.51,
    "a50": 17.39,
    "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.25,
-   "r": 46.2
+   "r": 46.3
   },
   {
    "s": "BZ=F",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4106.4,
-   "c": 0.15,
-   "a50": 4202.07,
-   "a200": 4479.78,
+   "p": 4105.2,
+   "c": 0.12,
+   "a50": 4202.04,
+   "a200": 4479.77,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.05,
-   "r": 49.9
+   "a20": 4069.99,
+   "r": 49.8
   },
   {
    "s": "HG=F",
    "p": 6.53,
-   "c": 1.33,
+   "c": 1.34,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 60.9
+   "r": 61.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03097893,
-   "c": 0.22,
+   "c": 0.2,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607310367.aspx"
   },
   {
-   "t": "Ask an Advisor: Will a Pay Raise Increase My Social Security After I've Already Claimed?",
+   "t": "Rich young Americans are ditching the stock market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/ask-advisor-kept-working-claiming-100000593.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rich-young-americans-ditching-stock-091000198.html"
   },
   {
    "t": "AI疑慮緩解美股那指開高　亞馬遜大漲12%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607310352.aspx"
   },
   {
-   "t": "A few VC firms are poised to win the future",
+   "t": "Huntington Bancshares Stock Outlook: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/few-vc-firms-poised-win-090000037.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/huntington-bancshares-stock-outlook-wall-090348419.html"
   },
   {
    "t": "今彩539第115185期　頭獎2注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310351.aspx"
   },
   {
-   "t": "Peter Schiff warns 1.7 million babies getting $1,000 Trump accounts will repay the $14.6 billion cost themselves",
+   "t": "Housing is the ‘collateral damage’ in Fed’s fight on inflation — what to know to give yourself an edge in today’s market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/peter-schiff-warns-1-7-090000845.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/housing-collateral-damage-fed-fight-093000440.html"
   },
   {
    "t": "大樂透第115075期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310350.aspx"
   },
   {
-   "t": "Huntington Bancshares Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "t": "Hyperliquid Price News: HYPE May Rally 25% Despite Short-Term Selloff Risks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/huntington-bancshares-stock-outlook-wall-090348419.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-price-news-hype-may-093857816.html"
   },
   {
    "t": "疑投資AI失利　德國「AI神童」所創避險基金強制平倉",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607310348.aspx"
   },
   {
-   "t": "CleanSpark CFO on shifting from bitcoin mining to AI data centers",
+   "t": "Gold Edges Higher as Traders Weigh Fed Warsh's Comments",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/cleanspark-cfo-shifting-bitcoin-mining-090000701.html"
+   "u": "https://www.barrons.com/livecoverage/stock-market-news-today-073026/card/gold-edges-higher-as-traders-weigh-fed-warsh-s-comments-P6lfbvTpNOpIF9pxUw6k?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
