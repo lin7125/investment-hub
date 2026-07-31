@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 22:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 22:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 302.69,
-   "c": -9.22,
-   "a50": 309.38,
+   "p": 301.92,
+   "c": -9.45,
+   "a50": 309.36,
    "a200": 277.93,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.06,
-   "r": 40.2
+   "a20": 324.02,
+   "r": 39.8
   },
   {
    "s": "NVDA",
-   "p": 196.5,
-   "c": 0.75,
-   "a50": 206.09,
-   "a200": 193.09,
+   "p": 197.78,
+   "c": 1.4,
+   "a50": 206.11,
+   "a200": 193.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.08,
-   "r": 44.5
+   "a20": 203.15,
+   "r": 45.7
   },
   {
    "s": "TSLA",
-   "p": 304.18,
-   "c": -1.51,
-   "a50": 390.62,
-   "a200": 411.56,
+   "p": 305.68,
+   "c": -1.03,
+   "a50": 390.65,
+   "a200": 411.57,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 363.58,
-   "r": 29.6
+   "a20": 363.65,
+   "r": 29.9
   },
   {
    "s": "META",
-   "p": 547.99,
-   "c": 1.66,
-   "a50": 602.01,
-   "a200": 634.44,
+   "p": 545.78,
+   "c": 1.25,
+   "a50": 601.97,
+   "a200": 634.43,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.37,
-   "r": 35.1
+   "a20": 620.26,
+   "r": 34.4
   },
   {
    "s": "^TWII",
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7424.58,
-   "c": -0.18,
-   "a50": 7470.21,
-   "a200": 7023.78,
+   "p": 7436.04,
+   "c": -0.02,
+   "a50": 7470.44,
+   "a200": 7023.84,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7477.89,
-   "r": 47.9
+   "a20": 7478.47,
+   "r": 48.8
   },
   {
    "s": "^VIX",
-   "p": 18.57,
-   "c": 8.66,
-   "a50": 17.43,
-   "a200": 18.72,
+   "p": 18.0,
+   "c": 5.32,
+   "a50": 17.42,
+   "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.36,
-   "r": 52.6
+   "a20": 17.33,
+   "r": 50.9
   },
   {
    "s": "BZ=F",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4089.7,
-   "c": -0.25,
-   "a50": 4201.73,
-   "a200": 4479.7,
+   "p": 4094.7,
+   "c": -0.13,
+   "a50": 4201.83,
+   "a200": 4479.72,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4069.21,
-   "r": 48.6
+   "a20": 4069.46,
+   "r": 49.0
   },
   {
    "s": "HG=F",
-   "p": 6.44,
-   "c": -0.05,
-   "a50": 6.3,
+   "p": 6.46,
+   "c": 0.22,
+   "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 57.4
+   "r": 58.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03096934,
-   "c": 0.19,
+   "p": 0.03097893,
+   "c": 0.21,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "日圓兌美元強勁升值2%　引發日銀干預揣測",
+   "t": "AI疑慮緩解美股那指開高　亞馬遜大漲12%",
    "pub": "中央社財經",
-   "d": "2026-07-30",
-   "u": "https://www.cna.com.tw/news/aopl/202607300392.aspx"
+   "d": "2026-07-31",
+   "u": "https://www.cna.com.tw/news/afe/202607310352.aspx"
   },
   {
    "t": "Fed interest-rate decision rocks Wall Street's inflation fears",
@@ -344,64 +344,64 @@
    "u": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html"
   },
   {
-   "t": "法國Q2經濟成長0.2%　熱浪頻頻為全年展望添壓力",
+   "t": "今彩539第115185期　頭獎2注中獎",
    "pub": "中央社財經",
-   "d": "2026-07-30",
-   "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
+   "d": "2026-07-31",
+   "u": "https://www.cna.com.tw/news/ahel/202607310351.aspx"
   },
   {
-   "t": "Here's why the 3 dissenters on the Fed wanted to raise interest rates",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq give up gains as 10-year yield surges, Big Tech's AI spending ramps up",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/article/heres-why-the-3-dissenters-on-the-fed-wanted-to-raise-interest-rates-120000342.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html"
   },
   {
-   "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
+   "t": "大樂透第115075期　頭獎槓龜",
    "pub": "中央社財經",
-   "d": "2026-07-30",
-   "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
+   "d": "2026-07-31",
+   "u": "https://www.cna.com.tw/news/ahel/202607310350.aspx"
   },
   {
-   "t": "SpaceX stock has rocky week ahead of earnings",
+   "t": "Apple is growing without the AI spending spree engulfing Big Tech: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-has-rocky-week-ahead-of-earnings-134523324.html"
+   "u": "https://finance.yahoo.com/markets/article/apple-is-growing-without-the-ai-spending-spree-engulfing-big-tech-chart-of-the-day-100000942.html"
   },
   {
-   "t": "今彩539第115184期　頭獎槓龜",
+   "t": "疑投資AI失利　德國「AI神童」所創避險基金強制平倉",
    "pub": "中央社財經",
-   "d": "2026-07-30",
-   "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
+   "d": "2026-07-31",
+   "u": "https://www.cna.com.tw/news/aopl/202607310348.aspx"
   },
   {
-   "t": "AAON (AAON) Backlog Strengthens From Data Centre Buildout and Margin Improvement",
+   "t": "Guardant Health, Stock Of The Day, Spikes After Hiking 2026 Outlook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/aaon-aaon-backlog-strengthens-data-140649212.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/guardant-health-stock-buy-point-earnings-colon-cancer/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "威力彩第115061期　頭獎槓龜",
+   "t": "台灣風力發電產業協會提4建言　籲政府穩定市場機制",
    "pub": "中央社財經",
-   "d": "2026-07-30",
-   "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
+   "d": "2026-07-31",
+   "u": "https://www.cna.com.tw/news/afe/202607310344.aspx"
   },
   {
-   "t": "Is buy now, pay later helping or hurting your budget?",
+   "t": "Inside Project Peregrine: Why Blackstone and KKR Bought Into Kuwait’s Oil Pipelines",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/buy-now-pay-later-215226311.html"
+   "u": "https://finance.yahoo.com/energy/articles/inside-project-peregrine-why-blackstone-141322460.html"
   },
   {
-   "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
+   "t": "華星光違約交割1736萬元　今年櫃買第12起",
    "pub": "中央社財經",
-   "d": "2026-07-30",
-   "u": "https://www.cna.com.tw/news/aopl/202607300383.aspx"
+   "d": "2026-07-31",
+   "u": "https://www.cna.com.tw/news/afe/202607310342.aspx"
   },
   {
-   "t": "Analyst Report: NextEra Energy Inc",
+   "t": "Analyst Report: Ameriprise Financial Inc",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_2983_AnalystReport_1785496444000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_3876_AnalystReport_1785496444000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
