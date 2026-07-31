@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 21:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 22:07（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 304.47,
-   "c": -8.69,
-   "a50": 309.41,
-   "a200": 277.94,
+   "p": 302.24,
+   "c": -9.35,
+   "a50": 309.37,
+   "a200": 277.93,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.14,
-   "r": 41.0
+   "a20": 324.03,
+   "r": 40.0
   },
   {
    "s": "NVDA",
-   "p": 198.14,
-   "c": 1.59,
-   "a50": 206.12,
-   "a200": 193.1,
+   "p": 196.0,
+   "c": 0.49,
+   "a50": 206.08,
+   "a200": 193.09,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.17,
-   "r": 46.0
+   "a20": 203.06,
+   "r": 44.0
   },
   {
    "s": "TSLA",
-   "p": 306.48,
-   "c": -0.77,
-   "a50": 390.67,
-   "a200": 411.58,
+   "p": 303.44,
+   "c": -1.75,
+   "a50": 390.61,
+   "a200": 411.56,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 363.69,
-   "r": 30.1
+   "a20": 363.54,
+   "r": 29.4
   },
   {
    "s": "META",
-   "p": 547.88,
-   "c": 1.64,
-   "a50": 602.01,
-   "a200": 634.44,
+   "p": 544.35,
+   "c": 0.99,
+   "a50": 601.94,
+   "a200": 634.43,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.36,
-   "r": 35.1
+   "a20": 620.19,
+   "r": 33.9
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7450.32,
-   "c": 0.17,
-   "a50": 7470.72,
-   "a200": 7023.91,
+   "p": 7415.94,
+   "c": -0.29,
+   "a50": 7470.03,
+   "a200": 7023.74,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7479.18,
-   "r": 49.9
+   "a20": 7477.46,
+   "r": 47.3
   },
   {
    "s": "^VIX",
-   "p": 17.34,
-   "c": 1.46,
-   "a50": 17.4,
+   "p": 17.68,
+   "c": 3.45,
+   "a50": 17.41,
    "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.29,
-   "r": 48.9
+   "a20": 17.31,
+   "r": 50.0
   },
   {
    "s": "BZ=F",
-   "p": 90.28,
-   "c": 1.4,
+   "p": 90.16,
+   "c": 1.27,
    "a50": 86.54,
    "a200": 80.65,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 85.8,
-   "r": 54.2
+   "r": 54.1
   },
   {
    "s": "GC=F",
-   "p": 4081.8,
-   "c": -0.45,
-   "a50": 4201.58,
-   "a200": 4479.66,
+   "p": 4087.1,
+   "c": -0.32,
+   "a50": 4201.68,
+   "a200": 4479.68,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4068.82,
-   "r": 47.9
+   "a20": 4069.08,
+   "r": 48.4
   },
   {
    "s": "HG=F",
-   "p": 6.44,
-   "c": -0.01,
+   "p": 6.45,
+   "c": 0.07,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 57.5
+   "r": 57.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03097893,
-   "c": 0.23,
+   "p": 0.03096934,
+   "c": 0.19,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "Freight Efficiency: How to Solve the “Dumb Box” Problem in Trucking",
+   "t": "Freight Rates: Are they rising because of DEMAND or CAPACITY?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/freight-efficiency-solve-dumb-box-015457910.html"
+   "u": "https://finance.yahoo.com/economy/articles/freight-rates-rising-because-demand-020157078.html"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Trucking Company’s ESOP: How Employee Ownership Drives Low Turnover (35%)",
+   "t": "Knight-Swift Q2: Why This Carrier’s Profit Beat Signals Market Shift",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/trucking-company-esop-employee-ownership-015405738.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/knight-swift-q2-why-carrier-020129577.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Knight-Swift Q2: Why This Carrier’s Profit Beat Signals Market Shift",
+   "t": "Housing Market Crash Slams Last-Mile Delivery: What’s Next?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/knight-swift-q2-why-carrier-020129577.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/housing-market-crash-slams-last-020005533.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
