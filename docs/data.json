@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 08:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 08:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,34 +300,34 @@
   },
   {
    "s": "GC=F",
-   "p": 4165.4,
-   "c": 3.24,
-   "a50": 4211.37,
-   "a200": 4480.12,
+   "p": 4163.7,
+   "c": 3.2,
+   "a50": 4211.34,
+   "a200": 4480.11,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4073.63,
-   "r": 54.0
+   "a20": 4073.54,
+   "r": 53.9
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": 3.63,
+   "c": 3.67,
    "a50": 6.3,
    "a200": 5.78,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.28,
-   "r": 59.7
+   "r": 59.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03087373,
-   "c": -0.14,
+   "p": 0.0308642,
+   "c": -0.16,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
-   "yl": 0.030874
+   "yl": 0.030864
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
+   "t": "Expedia Group Stock: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-stock-wall-street-122311874.html"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Vinted taps DHL’s Germany collection points to expand second-hand market",
+   "t": "Meta Earnings Preview: This Is The Number To Watch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/vinted-taps-dhl-germany-collection-162615559.html"
+   "u": "https://www.investors.com/news/technology/meta-stock-q2-2026-earnings-preview-big-tech/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Glencore Sees $3.3 Billion Trading Profit as Iran War Rattles Oil Markets",
+   "t": "Extra Space Storage Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/glencore-sees-3-3-billion-163000552.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/extra-space-storage-inc-q2-123000978.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Why Wall Street Is Split on Phillips 66 (PSX) Even as Its Numbers Improve",
+   "t": "Asbury Automotive Group, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/why-wall-street-split-phillips-162957977.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/asbury-automotive-group-inc-q2-123000526.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300383.aspx"
   },
   {
-   "t": "Top Performing Leveraged/Inverse ETFs: 07/26/2026",
+   "t": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/top-performing-leveraged-inverse-etfs-161544295.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html"
   }
  ],
  "inst": {
