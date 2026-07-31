@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 16:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 19:03（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 16.86,
-   "c": -1.35,
+   "p": 16.82,
+   "c": -1.58,
    "a50": 17.39,
    "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.27,
-   "r": 47.4
+   "r": 47.3
   },
   {
    "s": "BZ=F",
-   "p": 87.8,
-   "c": -1.38,
-   "a50": 86.49,
+   "p": 89.54,
+   "c": 0.57,
+   "a50": 86.53,
    "a200": 80.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 85.68,
-   "r": 51.3
+   "a20": 85.77,
+   "r": 53.4
   },
   {
    "s": "GC=F",
-   "p": 4121.8,
-   "c": 0.53,
-   "a50": 4202.38,
-   "a200": 4479.86,
+   "p": 4111.5,
+   "c": 0.28,
+   "a50": 4202.17,
+   "a200": 4479.81,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.82,
-   "r": 51.1
+   "a20": 4070.3,
+   "r": 50.3
   },
   {
    "s": "HG=F",
-   "p": 6.52,
-   "c": 1.11,
+   "p": 6.49,
+   "c": 0.72,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 60.4
+   "r": 59.5
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300392.aspx"
   },
   {
-   "t": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
+   "t": "Fed interest-rate decision rocks Wall Street's inflation fears",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html"
   },
   {
    "t": "法國Q2經濟成長0.2%　熱浪頻頻為全年展望添壓力",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "Markets react to Fed's July interest rate decision",
+   "t": "How many Americans have no savings?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/markets-react-feds-july-interest-210558874.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-many-americans-have-no-savings-192530574.html"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Avantor, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Long-term care insurance explained",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/avantor-inc-q2-2026-earnings-204604330.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/long-term-care-insurance-194903621.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "Why JPMorgan CEO Jamie Dimon Says Investors Should Skip 4.6% Yields — ‘I Would Not Be A Buyer’",
+   "t": "How the Fed's rate decision affects your bank accounts, loans, credit cards, and investments",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/why-jpmorgan-ceo-jamie-dimon-204157373.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-the-feds-rate-decision-affects-your-bank-accounts-loans-credit-cards-and-investments-220526730.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Stocks Plunge on a Rout in Chipmakers and a Hawkish Fed Hold",
+   "t": "Types of life insurance: A complete guide",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-plunge-rout-chipmakers-hawkish-203723327.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/types-of-life-insurance-173512440.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300383.aspx"
   },
   {
-   "t": "Cognizant Technology Solutions Corporation Q2 2026 Earnings Call Summary",
+   "t": "Microsoft Profit Jumps 31% as Azure Cloud Sales Surpass $100 Billion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/cognizant-technology-solutions-corporation-q2-203339832.html"
+   "u": "https://www.wsj.com/articles/microsoft-earnings-q4-fy26-msft-stock-dfd3843e?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
