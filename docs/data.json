@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 20:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 20:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 16.96,
-   "c": -0.76,
+   "p": 16.94,
+   "c": -0.88,
    "a50": 17.4,
    "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.28,
-   "r": 47.7
+   "a20": 17.27,
+   "r": 47.6
   },
   {
    "s": "BZ=F",
-   "p": 90.24,
-   "c": 1.36,
+   "p": 90.32,
+   "c": 1.45,
    "a50": 86.54,
    "a200": 80.65,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 85.8,
-   "r": 54.2
+   "a20": 85.81,
+   "r": 54.3
   },
   {
    "s": "GC=F",
-   "p": 4111.0,
-   "c": 0.27,
-   "a50": 4202.16,
-   "a200": 4479.8,
+   "p": 4113.5,
+   "c": 0.33,
+   "a50": 4202.21,
+   "a200": 4479.82,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.28,
-   "r": 50.3
+   "a20": 4070.4,
+   "r": 50.5
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": 0.57,
+   "c": 0.62,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 59.1
+   "r": 59.2
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300389.aspx"
   },
   {
-   "t": "Long-term care insurance explained",
+   "t": "Sony pitches to buy Japanese lens maker Tamron",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/long-term-care-insurance-194903621.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sony-makes-acquisition-proposal-japan-001120558.html"
   },
   {
    "t": "保險業上半年大賺3094億　壽險淨值衝4.1兆新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607300387.aspx"
   },
   {
-   "t": "Investors Are Racing to Find America's Next Rare Earth Winner",
+   "t": "ExlService (EXL) Soars 17.88%, Wins Hedge Fund Confidence",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/investors-racing-americas-next-rare-000000036.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/exlservice-exl-soars-17-88-002847016.html"
   },
   {
    "t": "今彩539第115184期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "A game of straits",
+   "t": "General Dynamics Corporation Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/game-straits-000155105.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-corporation-q2-2026-003030743.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Samsung sees chip shortage extending to 2028, touts long-term supply deals",
+   "t": "Banc of California, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/samsung-q2-profit-jumps-19-000321344.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/banc-california-inc-q2-2026-003102259.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
