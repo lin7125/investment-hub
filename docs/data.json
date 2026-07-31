@@ -1,214 +1,214 @@
 {
- "generatedAt": "2026-08-01 05:22（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-01 05:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2205.0,
-   "c": 0.23,
-   "a50": 2368.0,
-   "a200": 1891.32,
+   "p": 2425.0,
+   "c": 9.98,
+   "a50": 2371.9,
+   "a200": 1896.82,
    "yh": 2510.0,
    "yl": 1125.0,
-   "a20": 2381.0,
-   "r": 35.8
+   "a20": 2380.0,
+   "r": 54.6
   },
   {
    "s": "2317.TW",
-   "p": 229.5,
-   "c": -3.16,
-   "a50": 256.29,
-   "a200": 233.49,
+   "p": 250.5,
+   "c": 9.15,
+   "a50": 256.35,
+   "a200": 233.64,
    "yh": 309.0,
    "yl": 178.0,
-   "a20": 240.95,
-   "r": 37.7
+   "a20": 241.45,
+   "r": 53.1
   },
   {
    "s": "2308.TW",
-   "p": 1530.0,
-   "c": 2.34,
-   "a50": 2044.7,
-   "a200": 1480.62,
+   "p": 1640.0,
+   "c": 7.19,
+   "a50": 2036.9,
+   "a200": 1484.46,
    "yh": 2520.0,
    "yl": 567.0,
-   "a20": 1816.5,
-   "r": 31.3
+   "a20": 1794.75,
+   "r": 39.3
   },
   {
    "s": "2454.TW",
-   "p": 3235.0,
-   "c": 2.7,
-   "a50": 4062.9,
-   "a200": 2302.52,
+   "p": 3555.0,
+   "c": 9.89,
+   "a50": 4063.0,
+   "a200": 2313.88,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3717.75,
-   "r": 36.3
+   "a20": 3685.75,
+   "r": 45.7
   },
   {
    "s": "2327.TW",
-   "p": 456.5,
-   "c": -9.96,
-   "a50": 828.09,
-   "a200": 406.66,
+   "p": 502.0,
+   "c": 9.97,
+   "a50": 826.69,
+   "a200": 408.32,
    "yh": 1140.0,
    "yl": 132.5,
-   "a20": 750.28,
-   "r": 24.7
+   "a20": 723.12,
+   "r": 30.4
   },
   {
    "s": "1802.TW",
-   "p": 42.6,
-   "c": -3.29,
-   "a50": 64.64,
-   "a200": 50.94,
+   "p": 45.7,
+   "c": 7.28,
+   "a50": 64.26,
+   "a200": 51.03,
    "yh": 76.6,
    "yl": 23.3,
-   "a20": 58.04,
-   "r": 24.4
+   "a20": 56.89,
+   "r": 31.5
   },
   {
    "s": "6862.TW",
-   "p": 117.0,
-   "c": -2.9,
-   "a50": 182.51,
-   "a200": 178.42,
+   "p": 125.0,
+   "c": 6.84,
+   "a50": 181.36,
+   "a200": 178.3,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 159.55,
-   "r": 24.8
+   "a20": 156.05,
+   "r": 31.2
   },
   {
    "s": "3701.TW",
-   "p": 33.5,
-   "c": -4.56,
-   "a50": 46.61,
-   "a200": 48.74,
+   "p": 36.0,
+   "c": 7.46,
+   "a50": 46.23,
+   "a200": 48.72,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.38,
-   "r": 25.9
+   "a20": 39.91,
+   "r": 35.4
   },
   {
    "s": "4722.TW",
-   "p": 160.5,
-   "c": -3.6,
-   "a50": 254.13,
-   "a200": 198.9,
+   "p": 170.5,
+   "c": 6.23,
+   "a50": 252.33,
+   "a200": 198.79,
    "yh": 306.5,
    "yl": 69.6,
-   "a20": 231.18,
-   "r": 25.5
+   "a20": 225.85,
+   "r": 30.5
   },
   {
    "s": "6706.TW",
-   "p": 88.5,
-   "c": -5.95,
-   "a50": 153.61,
-   "a200": 124.33,
+   "p": 97.0,
+   "c": 9.6,
+   "a50": 152.18,
+   "a200": 124.39,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 121.2,
-   "r": 23.0
+   "a20": 118.35,
+   "r": 31.5
   },
   {
    "s": "2305.TW",
-   "p": 27.55,
-   "c": 0.36,
-   "a50": 30.49,
-   "a200": 17.56,
+   "p": 30.1,
+   "c": 9.26,
+   "a50": 30.74,
+   "a200": 17.65,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 34.36,
-   "r": 37.3
+   "a20": 33.92,
+   "r": 44.8
   },
   {
    "s": "6442.TW",
-   "p": 1050.0,
-   "c": -5.41,
-   "a50": 1685.8,
-   "a200": 1556.28,
+   "p": 1155.0,
+   "c": 10.0,
+   "a50": 1673.2,
+   "a200": 1558.05,
    "yh": 2370.0,
    "yl": 592.0,
-   "a20": 1364.5,
-   "r": 28.6
+   "a20": 1340.25,
+   "r": 36.1
   },
   {
    "s": "6515.TW",
-   "p": 5290.0,
-   "c": -2.31,
-   "a50": 8150.0,
-   "a200": 5751.3,
+   "p": 5815.0,
+   "c": 9.92,
+   "a50": 8076.1,
+   "a200": 5769.02,
    "yh": 10795.0,
    "yl": 1075.0,
-   "a20": 6984.0,
-   "r": 29.1
+   "a20": 6779.75,
+   "r": 36.7
   },
   {
    "s": "6446.TW",
-   "p": 1025.0,
-   "c": -5.09,
-   "a50": 1036.08,
-   "a200": 660.33,
+   "p": 1060.0,
+   "c": 3.41,
+   "a50": 1042.89,
+   "a200": 663.11,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1215.61,
-   "r": 39.8
+   "a20": 1205.73,
+   "r": 43.6
   },
   {
    "s": "3324.TWO",
-   "p": 820.0,
-   "c": -4.09,
-   "a50": 1000.22,
-   "a200": 993.83,
+   "p": 902.0,
+   "c": 10.0,
+   "a50": 998.26,
+   "a200": 994.13,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 913.9,
-   "r": 34.4
+   "a20": 908.0,
+   "r": 46.5
   },
   {
    "s": "3491.TWO",
-   "p": 923.0,
-   "c": -9.95,
-   "a50": 1510.86,
-   "a200": 1147.36,
+   "p": 969.0,
+   "c": 4.98,
+   "a50": 1493.24,
+   "a200": 1149.94,
    "yh": 2200.0,
    "yl": 320.5,
-   "a20": 1217.4,
-   "r": 29.4
+   "a20": 1198.85,
+   "r": 33.1
   },
   {
    "s": "3585.TWO",
-   "p": 38.25,
-   "c": -1.16,
-   "a50": 68.22,
-   "a200": 39.62,
+   "p": 45.35,
+   "c": 18.56,
+   "a50": 67.31,
+   "a200": 39.77,
    "yh": 165.0,
    "yl": 5.4,
-   "a20": 55.12,
-   "r": 25.4
+   "a20": 53.7,
+   "r": 37.2
   },
   {
    "s": "6223.TWO",
-   "p": 4800.0,
-   "c": 0.21,
-   "a50": 6172.4,
-   "a200": 3777.28,
+   "p": 5280.0,
+   "c": 10.0,
+   "a50": 6165.0,
+   "a200": 3795.15,
    "yh": 7380.0,
    "yl": 994.0,
-   "a20": 6102.75,
-   "r": 34.5
+   "a20": 5997.75,
+   "r": 42.1
   },
   {
    "s": "6750.TWO",
-   "p": 48.5,
-   "c": -2.9,
-   "a50": 63.83,
-   "a200": 56.27,
+   "p": 51.2,
+   "c": 5.57,
+   "a50": 63.48,
+   "a200": 56.29,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 59.68,
-   "r": 21.0
+   "a20": 58.93,
+   "r": 30.8
   },
   {
    "s": "AAPL",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607310367.aspx"
   },
   {
-   "t": "Investor Cathie Wood Buys Crypto Stocks As Prices Fall",
+   "t": "Are Wall Street Analysts Bullish on JPMorgan Chase Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/investor-cathie-wood-buys-crypto-135600495.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-jpmorgan-140228984.html"
   },
   {
    "t": "AI疑慮緩解美股那指開高　亞馬遜大漲12%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607310352.aspx"
   },
   {
-   "t": "US economic growth slows to 1.5% in second quarter",
+   "t": "Is This the Good Time to Increase Your Holdings in SAP SE (SAP)?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/us-economic-growth-slows-to-15-in-second-quarter-135510531.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/good-time-increase-holdings-sap-140609755.html"
   },
   {
    "t": "今彩539第115185期　頭獎2注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310351.aspx"
   },
   {
-   "t": "A Quarter Of Canadians Now Own Crypto",
+   "t": "Stocks Rebound as Microsoft Earnings Ease AI Spending Concerns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/quarter-canadians-now-own-crypto-134900396.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rebound-microsoft-earnings-ease-140627516.html"
   },
   {
    "t": "大樂透第115075期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310350.aspx"
   },
   {
-   "t": "Wedbush Sees AMD’s Data Center Business Growing Ahead of Expectations. What That Means for Investors Here.",
+   "t": "PROG Holdings (PRG) Thrives Amid Tough Consumer Landscape",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wedbush-sees-amd-data-center-134501338.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/prog-holdings-prg-thrives-amid-140240942.html"
   },
   {
    "t": "疑投資AI失利　德國「AI神童」所創避險基金強制平倉",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607310348.aspx"
   },
   {
-   "t": "Analyst Report: Lam Research Corp",
+   "t": "Analyst Report: Flex Ltd",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_3712_AnalystReport_1785523068000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_2975_AnalystReport_1785523068000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
