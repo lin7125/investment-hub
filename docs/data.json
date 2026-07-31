@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-01 03:40（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-01 03:50（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 305.32,
-   "c": -8.43,
-   "a50": 309.43,
-   "a200": 277.94,
+   "p": 307.9,
+   "c": -7.66,
+   "a50": 309.48,
+   "a200": 277.96,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.19,
-   "r": 41.4
+   "a20": 324.32,
+   "r": 42.7
   },
   {
    "s": "NVDA",
-   "p": 200.59,
-   "c": 2.85,
-   "a50": 206.17,
-   "a200": 193.11,
+   "p": 201.88,
+   "c": 3.5,
+   "a50": 206.2,
+   "a200": 193.12,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.29,
-   "r": 48.2
+   "a20": 203.35,
+   "r": 49.2
   },
   {
    "s": "TSLA",
-   "p": 311.05,
-   "c": 0.71,
-   "a50": 390.76,
+   "p": 312.08,
+   "c": 1.05,
+   "a50": 390.78,
    "a200": 411.6,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 363.92,
-   "r": 31.6
+   "a20": 363.97,
+   "r": 32.1
   },
   {
    "s": "META",
-   "p": 553.16,
-   "c": 2.62,
-   "a50": 602.11,
-   "a200": 634.47,
+   "p": 551.22,
+   "c": 2.26,
+   "a50": 602.07,
+   "a200": 634.46,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.63,
-   "r": 36.8
+   "a20": 620.53,
+   "r": 36.2
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7498.97,
-   "c": 0.82,
-   "a50": 7471.69,
-   "a200": 7024.15,
+   "p": 7509.8,
+   "c": 0.97,
+   "a50": 7471.91,
+   "a200": 7024.21,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7481.61,
-   "r": 53.4
+   "a20": 7482.15,
+   "r": 54.1
   },
   {
    "s": "^VIX",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4107.1,
-   "c": 0.17,
-   "a50": 4202.08,
+   "p": 4105.7,
+   "c": 0.14,
+   "a50": 4202.05,
    "a200": 4479.78,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.08,
-   "r": 50.0
+   "a20": 4070.01,
+   "r": 49.9
   },
   {
    "s": "HG=F",
-   "p": 6.53,
-   "c": 1.33,
+   "p": 6.52,
+   "c": 1.2,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 60.9
+   "r": 60.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03096934,
-   "c": 0.17,
+   "p": 0.03097893,
+   "c": 0.21,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607310367.aspx"
   },
   {
-   "t": "Hyperliquid Price News: HYPE May Rally 25% Despite Short-Term Selloff Risks",
+   "t": "Are Wall Street Analysts Bullish on Amgen Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-price-news-hype-may-093857816.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-amgen-094626743.html"
   },
   {
    "t": "AI疑慮緩解美股那指開高　亞馬遜大漲12%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607310352.aspx"
   },
   {
-   "t": "Taiwan's ASE Tech raises 2026 capex by $2 billion on strong demand",
+   "t": "If you want $12K/month to live out a luxe retirement, here’s the ‘magic number’ you’ll need to hit first",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/taiwans-ase-tech-raises-2026-094743410.html"
+   "u": "https://finance.yahoo.com/markets/articles/want-12k-month-live-luxe-150700742.html"
   },
   {
    "t": "今彩539第115185期　頭獎2注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310351.aspx"
   },
   {
-   "t": "Housing is the ‘collateral damage’ in Fed’s fight on inflation — what to know to give yourself an edge in today’s market",
+   "t": "Taiwan's ASE Tech raises 2026 capex by $2 billion on strong demand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/housing-collateral-damage-fed-fight-093000440.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/taiwans-ase-tech-raises-2026-094743410.html"
   },
   {
    "t": "大樂透第115075期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310350.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Bullish on Amgen Stock?",
+   "t": "Qualcomm stock slides after Q3 earnings top revenue expectations as smartphone market slows",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-amgen-094626743.html"
+   "u": "https://finance.yahoo.com/technology/article/qualcomm-stock-slides-after-q3-earnings-top-revenue-expectations-as-smartphone-market-slows-160509349.html"
   },
   {
    "t": "疑投資AI失利　德國「AI神童」所創避險基金強制平倉",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607310348.aspx"
   },
   {
-   "t": "Market Update: FLEX, LRCX, PCAR, TMUS, MA, UL, META, HLT",
+   "t": "Analyst Report: T-Mobile US Inc",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_47791_MarketUpdate_1785522168000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_3296_AnalystReport_1785523068000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
