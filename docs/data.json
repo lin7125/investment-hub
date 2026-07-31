@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-01 05:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-01 05:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4108.3,
-   "c": 0.2,
-   "a50": 4202.11,
-   "a200": 4479.79,
+   "p": 4098.6,
+   "c": -0.04,
+   "a50": 4201.91,
+   "a200": 4479.74,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.14,
-   "r": 50.1
+   "a20": 4069.66,
+   "r": 49.3
   },
   {
    "s": "HG=F",
    "p": 6.51,
-   "c": 1.09,
+   "c": 0.98,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 60.4
+   "r": 60.1
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607310367.aspx"
   },
   {
-   "t": "General Motors Stock: Is Wall Street Bullish or Bearish?",
+   "t": "One line from Meta's earnings call that ensured the stock will likely stay dead money",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/general-motors-stock-wall-street-110535336.html"
+   "u": "https://finance.yahoo.com/markets/article/one-line-from-metas-earnings-call-that-ensured-the-stock-will-likely-stay-dead-money-134542007.html"
   },
   {
    "t": "AI疑慮緩解美股那指開高　亞馬遜大漲12%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607310352.aspx"
   },
   {
-   "t": "‘No turning back’: Spitznagel predicts the biggest market crash since 1929. How to prepare your portfolio if he’s right",
+   "t": "Wedbush Sees AMD’s Data Center Business Growing Ahead of Expectations. What That Means for Investors Here.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/no-turning-back-spitznagel-predicts-110500531.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wedbush-sees-amd-data-center-134501338.html"
   },
   {
    "t": "今彩539第115185期　頭獎2注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310351.aspx"
   },
   {
-   "t": "Qualcomm shares slide as higher costs, Apple-related weakness cloud profit forecast",
+   "t": "Base metals traders on the move as battle for talent intensifies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/qualcomm-shares-slide-higher-costs-110415585.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/metals-traders-move-battle-talent-134358478.html"
   },
   {
    "t": "大樂透第115075期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310350.aspx"
   },
   {
-   "t": "Southwest Airlines Stock: Analyst Estimates & Ratings",
+   "t": "Badger Meter (BMI) Looks Attractive on Stable Demand and Advanced Infrastructure",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/southwest-airlines-stock-analyst-estimates-111554261.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/badger-meter-bmi-looks-attractive-133503632.html"
   },
   {
    "t": "疑投資AI失利　德國「AI神童」所創避險基金強制平倉",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607310348.aspx"
   },
   {
-   "t": "Analyst Report: Lam Research Corp",
+   "t": "Analyst Report: T-Mobile US Inc",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_3712_AnalystReport_1785523068000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_3296_AnalystReport_1785523068000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
