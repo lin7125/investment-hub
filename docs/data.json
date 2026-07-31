@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 22:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 22:48（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 301.92,
-   "c": -9.45,
-   "a50": 309.36,
+   "p": 302.32,
+   "c": -9.33,
+   "a50": 309.37,
    "a200": 277.93,
    "yh": 340.08,
    "yl": 202.38,
-   "a20": 324.02,
-   "r": 39.8
+   "a20": 324.04,
+   "r": 40.0
   },
   {
    "s": "NVDA",
-   "p": 197.78,
-   "c": 1.4,
-   "a50": 206.11,
+   "p": 198.2,
+   "c": 1.62,
+   "a50": 206.12,
    "a200": 193.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.15,
-   "r": 45.7
+   "a20": 203.17,
+   "r": 46.1
   },
   {
    "s": "TSLA",
-   "p": 305.68,
-   "c": -1.03,
-   "a50": 390.65,
-   "a200": 411.57,
+   "p": 308.71,
+   "c": -0.05,
+   "a50": 390.71,
+   "a200": 411.59,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 363.65,
-   "r": 29.9
+   "a20": 363.81,
+   "r": 30.5
   },
   {
    "s": "META",
-   "p": 545.78,
-   "c": 1.25,
-   "a50": 601.97,
-   "a200": 634.43,
+   "p": 549.64,
+   "c": 1.97,
+   "a50": 602.04,
+   "a200": 634.45,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.26,
-   "r": 34.4
+   "a20": 620.45,
+   "r": 35.7
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7436.04,
-   "c": -0.02,
-   "a50": 7470.44,
-   "a200": 7023.84,
+   "p": 7442.79,
+   "c": 0.07,
+   "a50": 7470.57,
+   "a200": 7023.87,
    "yh": 7609.78,
    "yl": 6238.01,
-   "a20": 7478.47,
-   "r": 48.8
+   "a20": 7478.8,
+   "r": 49.3
   },
   {
    "s": "^VIX",
-   "p": 18.0,
-   "c": 5.32,
-   "a50": 17.42,
+   "p": 17.68,
+   "c": 3.45,
+   "a50": 17.41,
    "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.33,
-   "r": 50.9
+   "a20": 17.31,
+   "r": 50.0
   },
   {
    "s": "BZ=F",
-   "p": 89.96,
-   "c": 1.04,
+   "p": 90.04,
+   "c": 1.13,
    "a50": 86.54,
    "a200": 80.65,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 85.79,
-   "r": 53.9
+   "r": 54.0
   },
   {
    "s": "GC=F",
-   "p": 4094.7,
-   "c": -0.13,
-   "a50": 4201.83,
-   "a200": 4479.72,
+   "p": 4097.0,
+   "c": -0.08,
+   "a50": 4201.88,
+   "a200": 4479.73,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4069.46,
-   "r": 49.0
+   "a20": 4069.58,
+   "r": 49.1
   },
   {
    "s": "HG=F",
-   "p": 6.46,
-   "c": 0.22,
+   "p": 6.47,
+   "c": 0.42,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 58.1
+   "r": 58.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03097893,
-   "c": 0.21,
+   "p": 0.03098853,
+   "c": 0.24,
    "a50": 0.03138732,
    "a200": 0.03168568,
    "yh": 0.033467,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310351.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq give up gains as 10-year yield surges, Big Tech's AI spending ramps up",
+   "t": "Amazon stock soars as e-commerce giant's AWS cloud business booms in 'home run' quarter",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-soars-as-e-commerce-giants-aws-cloud-business-booms-in-home-run-quarter-122456315.html"
   },
   {
    "t": "大樂透第115075期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607310350.aspx"
   },
   {
-   "t": "Apple is growing without the AI spending spree engulfing Big Tech: Chart of the Day",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq give up gains as 10-year yield surges, Big Tech's AI spending ramps up",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/apple-is-growing-without-the-ai-spending-spree-engulfing-big-tech-chart-of-the-day-100000942.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html"
   },
   {
    "t": "疑投資AI失利　德國「AI神童」所創避險基金強制平倉",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607310348.aspx"
   },
   {
-   "t": "Guardant Health, Stock Of The Day, Spikes After Hiking 2026 Outlook",
+   "t": "Apple's iPhone leasing program: How it works, what to consider",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/guardant-health-stock-buy-point-earnings-colon-cancer/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/apples-iphone-leasing-program-how-it-works-what-to-consider-143105471.html"
   },
   {
    "t": "台灣風力發電產業協會提4建言　籲政府穩定市場機制",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202607310344.aspx"
   },
   {
-   "t": "Inside Project Peregrine: Why Blackstone and KKR Bought Into Kuwait’s Oil Pipelines",
+   "t": "Apple is growing without the AI spending spree engulfing Big Tech: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/inside-project-peregrine-why-blackstone-141322460.html"
+   "u": "https://finance.yahoo.com/markets/article/apple-is-growing-without-the-ai-spending-spree-engulfing-big-tech-chart-of-the-day-100000942.html"
   },
   {
    "t": "華星光違約交割1736萬元　今年櫃買第12起",
