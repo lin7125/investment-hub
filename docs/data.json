@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31 19:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-07-31 19:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 16.82,
-   "c": -1.58,
+   "p": 16.79,
+   "c": -1.76,
    "a50": 17.39,
    "a200": 18.71,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.27,
-   "r": 47.3
+   "r": 47.2
   },
   {
    "s": "BZ=F",
-   "p": 89.54,
-   "c": 0.57,
+   "p": 89.76,
+   "c": 0.82,
    "a50": 86.53,
    "a200": 80.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 85.77,
-   "r": 53.4
+   "a20": 85.78,
+   "r": 53.7
   },
   {
    "s": "GC=F",
-   "p": 4111.5,
-   "c": 0.28,
-   "a50": 4202.17,
-   "a200": 4479.81,
+   "p": 4110.7,
+   "c": 0.26,
+   "a50": 4202.15,
+   "a200": 4479.8,
    "yh": 5318.4,
    "yl": 3293.2,
-   "a20": 4070.3,
+   "a20": 4070.26,
    "r": 50.3
   },
   {
    "s": "HG=F",
-   "p": 6.49,
-   "c": 0.72,
+   "p": 6.48,
+   "c": 0.58,
    "a50": 6.31,
    "a200": 5.79,
    "yh": 6.65,
    "yl": 4.33,
    "a20": 6.3,
-   "r": 59.5
+   "r": 59.1
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300386.aspx"
   },
   {
-   "t": "How the Fed's rate decision affects your bank accounts, loans, credit cards, and investments",
+   "t": "Flex Ltd. Q1 2027 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-the-feds-rate-decision-affects-your-bank-accounts-loans-credit-cards-and-investments-220526730.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/flex-ltd-q1-2027-earnings-230602522.html"
   },
   {
    "t": "威力彩第115061期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202607300385.aspx"
   },
   {
-   "t": "Types of life insurance: A complete guide",
+   "t": "Bandwidth Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/types-of-life-insurance-173512440.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bandwidth-inc-q2-2026-earnings-230944341.html"
   },
   {
    "t": "美第2季GDP擴張1.5%低於預期　6月核心通膨年增3.3%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202607300383.aspx"
   },
   {
-   "t": "Microsoft Profit Jumps 31% as Azure Cloud Sales Surpass $100 Billion",
+   "t": "The Memory Crash Has 4 Big Stocks Down 30% or More From Their Highs. I'd Buy 2 of Them.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/articles/microsoft-earnings-q4-fy26-msft-stock-dfd3843e?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/memory-crash-4-big-stocks-230700861.html"
   }
  ],
  "inst": {
