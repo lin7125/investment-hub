@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-01 09:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-01 14:48（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 39933.3,
-   "c": -0.26,
-   "a50": 44592.66,
-   "a200": 34929.43,
+   "p": 43119.75,
+   "c": 7.98,
+   "a50": 44654.64,
+   "a200": 35015.93,
    "yh": 47741.51,
    "yl": 23378.94,
-   "a20": 44295.98,
-   "r": 31.2
+   "a20": 44114.76,
+   "r": 47.4
   },
   {
    "s": "^GSPC",
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4098.6,
-   "c": -0.04,
-   "a50": 4201.91,
-   "a200": 4479.74,
+   "p": 4049.1,
+   "c": -1.24,
+   "a50": 4200.92,
+   "a200": 4479.49,
    "yh": 5318.4,
-   "yl": 3293.2,
-   "a20": 4069.66,
-   "r": 49.3
+   "yl": 3313.4,
+   "a20": 4067.18,
+   "r": 45.6
   },
   {
    "s": "HG=F",
-   "p": 6.51,
-   "c": 0.98,
-   "a50": 6.31,
+   "p": 6.44,
+   "c": -0.13,
+   "a50": 6.3,
    "a200": 5.79,
    "yh": 6.65,
-   "yl": 4.33,
+   "yl": 4.36,
    "a20": 6.3,
-   "r": 60.1
+   "r": 57.1
   },
   {
    "s": "TWDUSD",
@@ -332,76 +332,76 @@
  ],
  "news": [
   {
-   "t": "伊朗戰事持續發酵　油價月線漲幅為3月以來最大",
+   "t": "台指期夜盤下挫1077點　法人：恐不利台股下週一表現",
    "pub": "中央社財經",
    "d": "2026-08-01",
-   "u": "https://www.cna.com.tw/news/afe/202608010009.aspx"
-  },
-  {
-   "t": "Fed interest-rate decision rocks Wall Street's inflation fears",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html"
-  },
-  {
-   "t": "亞馬遜財報利多加持　美股收紅",
-   "pub": "中央社財經",
-   "d": "2026-08-01",
-   "u": "https://www.cna.com.tw/news/afe/202608010007.aspx"
-  },
-  {
-   "t": "Major central banks steer a cautious hiking path",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/news/major-central-banks-steer-cautious-122712107.html"
-  },
-  {
-   "t": "科技股強彈後漲勢收斂　歐股漲跌互見",
-   "pub": "中央社財經",
-   "d": "2026-08-01",
-   "u": "https://www.cna.com.tw/news/afe/202608010002.aspx"
-  },
-  {
-   "t": "Should You Buy Automatic Data Processing (ADP) On Post-Earnings Dip?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/buy-automatic-data-processing-adp-182020100.html"
-  },
-  {
-   "t": "房市7月交易微幅升溫　業者關注股市修正效應",
-   "pub": "中央社財經",
-   "d": "2026-07-31",
-   "u": "https://www.cna.com.tw/news/afe/202607310367.aspx"
-  },
-  {
-   "t": "Oil Stock Soars 70% Amid Perfect Middle East Muddle",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://www.investors.com/research/oil-stock-okeanis-eco-tankers-eco/?src=A00220&yptr=yahoo"
-  },
-  {
-   "t": "AI疑慮緩解美股那指開高　亞馬遜大漲12%",
-   "pub": "中央社財經",
-   "d": "2026-07-31",
-   "u": "https://www.cna.com.tw/news/afe/202607310352.aspx"
-  },
-  {
-   "t": "Fast-Casual Chain Tops Buy Point, While Lettuce Crisis Fades For Taco Bell. Starbucks Is Turning Around.",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://www.investors.com/news/chipotle-cmg-taco-bell-lettuce-yum-starbucks-sbux-earnings-restaurants/?src=A00220&yptr=yahoo"
-  },
-  {
-   "t": "今彩539第115185期　頭獎2注中獎",
-   "pub": "中央社財經",
-   "d": "2026-07-31",
-   "u": "https://www.cna.com.tw/news/ahel/202607310351.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608010096.aspx"
   },
   {
    "t": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/markets/crypto/articles/want-trade-spacex-apple-1inch-194500911.html"
+  },
+  {
+   "t": "手搖飲風味不再憑感覺　AI複製老師傅經驗解決痛點",
+   "pub": "中央社財經",
+   "d": "2026-08-01",
+   "u": "https://www.cna.com.tw/news/afe/202608010060.aspx"
+  },
+  {
+   "t": "Jersey Mike's shares slip in debut after $1 billion IPO",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jersey-mikes-shares-slip-debut-233124610.html"
+  },
+  {
+   "t": "SEMICON West長期移師鳳凰城  延續半導體生態動能",
+   "pub": "中央社財經",
+   "d": "2026-08-01",
+   "u": "https://www.cna.com.tw/news/afe/202608010059.aspx"
+  },
+  {
+   "t": "Here’s Why Verizon Stock Is a Buy for Income Investors in August",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-verizon-stock-buy-income-233002143.html"
+  },
+  {
+   "t": "美石油巨擘獲利因戰爭大增　警告油價將維持高檔",
+   "pub": "中央社財經",
+   "d": "2026-08-01",
+   "u": "https://www.cna.com.tw/news/afe/202608010054.aspx"
+  },
+  {
+   "t": "How China Became the Ultimate Swing Oil Buyer",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/energy/articles/china-became-ultimate-swing-oil-230000808.html"
+  },
+  {
+   "t": "科技巨頭現金流集體惡化　AI軍備競賽代價浮現",
+   "pub": "中央社財經",
+   "d": "2026-08-01",
+   "u": "https://www.cna.com.tw/news/afe/202608010042.aspx"
+  },
+  {
+   "t": "5 charts: VC-backed IPOs hit a record 2026, but the aftermath is dimmer",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/5-charts-vc-backed-ipos-225013160.html"
+  },
+  {
+   "t": "AI獨好消費電子冷　半導體第3季景氣不同調",
+   "pub": "中央社財經",
+   "d": "2026-08-01",
+   "u": "https://www.cna.com.tw/news/afe/202608010039.aspx"
+  },
+  {
+   "t": "Is AMD Stock Heading to $600 per Share?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-heading-600-per-235000067.html"
   }
  ],
  "inst": {
