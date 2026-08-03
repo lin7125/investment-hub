@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 06:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 06:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,14 +300,14 @@
   },
   {
    "s": "GC=F",
-   "p": 4106.3,
-   "c": 1.41,
-   "a50": 4192.42,
-   "a200": 4479.33,
+   "p": 4108.1,
+   "c": 1.46,
+   "a50": 4192.46,
+   "a200": 4479.34,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4064.74,
-   "r": 50.2
+   "a20": 4064.83,
+   "r": 50.4
   },
   {
    "s": "HG=F",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030308.aspx"
   },
   {
-   "t": "Stock Market Week Ahead: Citadel, SpaceX, Palantir And This Key Market Signal",
+   "t": "CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-citadel-spacex-palantir-and-a-possible-follow-through-day/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/coreweave-just-scored-leidos-partnership-141239028.html"
   }
  ],
  "inst": {
