@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 03:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 03:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 305.85,
-   "c": -0.99,
+   "p": 305.62,
+   "c": -1.06,
    "a50": 309.57,
    "a200": 278.25,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 324.03,
-   "r": 41.6
+   "a20": 324.02,
+   "r": 41.5
   },
   {
    "s": "NVDA",
-   "p": 208.29,
-   "c": 3.76,
+   "p": 208.07,
+   "c": 3.65,
    "a50": 205.87,
    "a200": 193.25,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.93,
-   "r": 54.3
+   "a20": 203.92,
+   "r": 54.1
   },
   {
    "s": "TSLA",
-   "p": 323.23,
-   "c": 3.86,
+   "p": 323.03,
+   "c": 3.8,
    "a50": 388.88,
    "a200": 411.07,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.1,
-   "r": 37.3
+   "a20": 359.09,
+   "r": 37.2
   },
   {
    "s": "META",
-   "p": 593.53,
-   "c": 6.61,
-   "a50": 601.95,
+   "p": 593.08,
+   "c": 6.53,
+   "a50": 601.94,
    "a200": 633.91,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.46,
-   "r": 47.7
+   "a20": 620.44,
+   "r": 47.6
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7606.13,
-   "c": 1.55,
-   "a50": 7474.97,
-   "a200": 7028.92,
+   "p": 7608.04,
+   "c": 1.58,
+   "a50": 7475.01,
+   "a200": 7028.93,
    "yh": 7609.78,
    "yl": 6299.19,
-   "a20": 7484.58,
-   "r": 60.0
+   "a20": 7484.68,
+   "r": 60.1
   },
   {
    "s": "^VIX",
-   "p": 15.81,
-   "c": -1.13,
+   "p": 15.79,
+   "c": -1.25,
    "a50": 17.36,
    "a200": 18.68,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.87,
-   "c": -6.94,
+   "p": 84.03,
+   "c": -6.76,
    "a50": 86.12,
    "a200": 80.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.39,
-   "r": 46.7
+   "a20": 86.4,
+   "r": 46.8
   },
   {
    "s": "GC=F",
-   "p": 4099.4,
-   "c": 1.24,
-   "a50": 4192.28,
-   "a200": 4479.3,
+   "p": 4101.7,
+   "c": 1.3,
+   "a50": 4192.33,
+   "a200": 4479.31,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4064.4,
-   "r": 49.7
+   "a20": 4064.51,
+   "r": 49.9
   },
   {
    "s": "HG=F",
-   "p": 6.54,
-   "c": 1.65,
+   "p": 6.55,
+   "c": 1.75,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.31,
-   "r": 61.5
+   "r": 61.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03083565,
-   "c": -0.1,
+   "c": -0.11,
    "a50": 0.03136763,
    "a200": 0.03167564,
    "yh": 0.033467,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030309.aspx"
   },
   {
-   "t": "I paid off $15,000 in credit card debt. A credit counseling expert explains how to never go back",
+   "t": "We put $50,000 in medical bills on our credit cards — now we can barely keep up with the monthly payments. What now?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/paid-off-15-000-credit-100000627.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/put-50-000-medical-bills-101000777.html"
   },
   {
    "t": "今彩539第115187期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030308.aspx"
   },
   {
-   "t": "The July jobs report, SpaceX earnings, and AI struggles: What to watch this week",
+   "t": "I paid off $15,000 in credit card debt. A credit counseling expert explains how to never go back",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/the-july-jobs-report-spacex-earnings-and-ai-struggles-what-to-watch-this-week-100000237.html"
+   "u": "https://finance.yahoo.com/markets/articles/paid-off-15-000-credit-100000627.html"
   },
   {
    "t": "威力彩第115062期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030306.aspx"
   },
   {
-   "t": "LeBron James took a 92% pay cut to chase a title — here's how regular workers can survive a pay cut too",
+   "t": "The July jobs report, SpaceX earnings, and AI struggles: What to watch this week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/lebron-james-took-92-pay-093000216.html"
+   "u": "https://finance.yahoo.com/markets/article/the-july-jobs-report-spacex-earnings-and-ai-struggles-what-to-watch-this-week-100000237.html"
   },
   {
    "t": "川普取消攻擊伊朗計畫　美股早盤走高道瓊漲逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030304.aspx"
   },
   {
-   "t": "Analyst Report: Enterprise Products Pntr LP",
+   "t": "Analyst Report: Valero Energy Corp",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_2942_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_3497_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
