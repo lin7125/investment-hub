@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-03 20:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-03 20:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 16.04,
-   "c": 0.31,
+   "p": 16.0,
+   "c": 0.06,
    "a50": 17.36,
    "a200": 18.68,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.25,
-   "r": 45.1
+   "r": 45.0
   },
   {
    "s": "BZ=F",
-   "p": 82.92,
-   "c": -7.99,
+   "p": 82.94,
+   "c": -7.97,
    "a50": 86.1,
    "a200": 80.75,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4105.2,
-   "c": 1.39,
-   "a50": 4192.4,
-   "a200": 4479.33,
+   "p": 4100.8,
+   "c": 1.28,
+   "a50": 4192.31,
+   "a200": 4479.3,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4064.69,
-   "r": 50.1
+   "a20": 4064.47,
+   "r": 49.8
   },
   {
    "s": "HG=F",
-   "p": 6.48,
-   "c": 0.67,
+   "p": 6.47,
+   "c": 0.59,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.31,
-   "r": 59.0
+   "r": 58.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03081664,
-   "c": -0.18,
+   "p": 0.03080715,
+   "c": -0.2,
    "a50": 0.03136763,
    "a200": 0.03167564,
    "yh": 0.033467,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030242.aspx"
   },
   {
-   "t": "Gold prices today, Monday, August 3, 2026: Gold prices open higher after U.S. pauses planned airstrikes",
+   "t": "Here’s Why Fundsmith Equity Fund Sold Intuit (INTU) in Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-3-2026-gold-prices-open-higher-after-us-pauses-planned-airstrikes-121655731.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-fundsmith-equity-fund-sold-122323918.html"
   },
   {
    "t": "中火4部燃氣機組2031年陸續上線　台電建廉政平台監督",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030236.aspx"
   },
   {
-   "t": "Here’s What Happened to Unilever (UL)",
+   "t": "Gold prices today, Monday, August 3, 2026: Gold prices open higher after U.S. pauses planned airstrikes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/happened-unilever-ul-121459550.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-3-2026-gold-prices-open-higher-after-us-pauses-planned-airstrikes-121655731.html"
   },
   {
    "t": "宏碩第2季受存貨報廢損失影響　每股虧損2.07元",
