@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-03 23:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-03 23:28（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 305.47,
-   "c": -1.11,
-   "a50": 309.56,
-   "a200": 278.25,
+   "p": 304.14,
+   "c": -1.55,
+   "a50": 309.54,
+   "a200": 278.24,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 324.01,
-   "r": 41.4
+   "a20": 323.94,
+   "r": 40.7
   },
   {
    "s": "NVDA",
-   "p": 206.88,
-   "c": 3.05,
+   "p": 206.64,
+   "c": 2.93,
    "a50": 205.84,
    "a200": 193.25,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.86,
-   "r": 53.2
+   "a20": 203.85,
+   "r": 53.1
   },
   {
    "s": "TSLA",
-   "p": 323.37,
-   "c": 3.91,
-   "a50": 388.88,
+   "p": 323.8,
+   "c": 4.05,
+   "a50": 388.89,
    "a200": 411.07,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.11,
-   "r": 37.4
+   "a20": 359.13,
+   "r": 37.6
   },
   {
    "s": "META",
-   "p": 591.92,
-   "c": 6.32,
-   "a50": 601.92,
-   "a200": 633.9,
+   "p": 594.06,
+   "c": 6.71,
+   "a50": 601.96,
+   "a200": 633.91,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.38,
-   "r": 47.4
+   "a20": 620.49,
+   "r": 47.8
   },
   {
    "s": "^TWII",
@@ -267,67 +267,67 @@
   },
   {
    "s": "^GSPC",
-   "p": 7577.33,
-   "c": 1.17,
-   "a50": 7474.4,
+   "p": 7576.96,
+   "c": 1.16,
+   "a50": 7474.39,
    "a200": 7028.77,
    "yh": 7609.78,
    "yl": 6299.19,
-   "a20": 7483.14,
+   "a20": 7483.13,
    "r": 58.4
   },
   {
    "s": "^VIX",
-   "p": 15.72,
-   "c": -1.69,
+   "p": 15.68,
+   "c": -1.94,
    "a50": 17.36,
    "a200": 18.68,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.23,
-   "r": 44.2
+   "r": 44.1
   },
   {
    "s": "BZ=F",
-   "p": 83.72,
-   "c": -7.1,
-   "a50": 86.11,
+   "p": 83.76,
+   "c": -7.06,
+   "a50": 86.12,
    "a200": 80.75,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 86.38,
-   "r": 46.5
+   "r": 46.6
   },
   {
    "s": "GC=F",
-   "p": 4088.9,
-   "c": 0.98,
-   "a50": 4192.07,
-   "a200": 4479.24,
+   "p": 4091.3,
+   "c": 1.04,
+   "a50": 4192.12,
+   "a200": 4479.26,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4063.87,
-   "r": 48.9
+   "a20": 4063.99,
+   "r": 49.1
   },
   {
    "s": "HG=F",
    "p": 6.51,
-   "c": 1.07,
+   "c": 1.15,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.31,
-   "r": 60.0
+   "r": 60.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03081664,
-   "c": -0.18,
+   "p": 0.03079766,
+   "c": -0.22,
    "a50": 0.03136763,
    "a200": 0.03167564,
    "yh": 0.033467,
-   "yl": 0.030817
+   "yl": 0.030798
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030293.aspx"
   },
   {
-   "t": "Stock market today: Nasdaq leads Dow, S&P 500 higher as Big Tech gains, oil prices ease",
+   "t": "IBM’s Quantum Bet Just Got Bigger—What the HRL Deal Means for Investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-big-tech-oil-092516872.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ibm-quantum-bet-just-got-151648951.html"
   },
   {
    "t": "日本企業今年度資本支出將創新高　歸功AI與汽車業投資",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608030292.aspx"
   },
   {
-   "t": "Hilton Grand Vacations (HGV) Turns Discounts in to Opportunity",
+   "t": "Average car payments in 2026: What to expect",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/hilton-grand-vacations-hgv-turns-145937435.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/average-auto-loan-payments-expect-174817148.html"
   },
   {
    "t": "研調：面板雙虎產能瘦身　2028年全球市場大洗牌",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030286.aspx"
   },
   {
-   "t": "Next GLP-1 Billion-Dollar Market: Fireside Chat with Conexeu Sciences CEO Miles Harrison",
+   "t": "UK restructuring plans on radar as US debtors scan beyond Chapter 11",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/next-glp-1-billion-dollar-145554150.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/uk-restructuring-plans-radar-us-151337992.html"
   },
   {
    "t": "台股上漲266點　外資轉賣超191億元調節聯電居首",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030282.aspx"
   },
   {
-   "t": "Palantir stock jumps ahead of quarterly results",
+   "t": "Marriott Outlook Comes Up Short As Middle East Conflicts Drag On Results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-ahead-of-quarterly-results-122817775.html"
+   "u": "https://www.investors.com/news/marriott-international-earnings-q2-2026-travel-demand-middle-east-mar-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "7月PMI達61.5%連10個月擴張　創近5年最快擴張速度",
