@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 01:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 03:09（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.96,
-   "c": -0.63,
-   "a50": 309.59,
-   "a200": 278.26,
+   "p": 305.83,
+   "c": -1.0,
+   "a50": 309.57,
+   "a200": 278.25,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 324.08,
-   "r": 42.2
+   "a20": 324.03,
+   "r": 41.6
   },
   {
    "s": "NVDA",
-   "p": 207.71,
-   "c": 3.47,
-   "a50": 205.86,
+   "p": 208.32,
+   "c": 3.77,
+   "a50": 205.87,
    "a200": 193.25,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.9,
-   "r": 53.8
+   "a20": 203.93,
+   "r": 54.3
   },
   {
    "s": "TSLA",
-   "p": 321.43,
-   "c": 3.28,
-   "a50": 388.84,
-   "a200": 411.06,
+   "p": 323.11,
+   "c": 3.83,
+   "a50": 388.88,
+   "a200": 411.07,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.01,
-   "r": 36.5
+   "a20": 359.1,
+   "r": 37.3
   },
   {
    "s": "META",
-   "p": 592.95,
-   "c": 6.51,
-   "a50": 601.94,
+   "p": 593.53,
+   "c": 6.61,
+   "a50": 601.95,
    "a200": 633.91,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.44,
-   "r": 47.6
+   "a20": 620.47,
+   "r": 47.7
   },
   {
    "s": "^TWII",
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7592.07,
-   "c": 1.37,
-   "a50": 7474.69,
-   "a200": 7028.85,
+   "p": 7606.33,
+   "c": 1.56,
+   "a50": 7474.98,
+   "a200": 7028.92,
    "yh": 7609.78,
    "yl": 6299.19,
-   "a20": 7483.88,
-   "r": 59.3
+   "a20": 7484.59,
+   "r": 60.0
   },
   {
    "s": "^VIX",
-   "p": 15.56,
-   "c": -2.69,
-   "a50": 17.35,
+   "p": 15.8,
+   "c": -1.19,
+   "a50": 17.36,
    "a200": 18.68,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.23,
-   "r": 43.8
+   "a20": 17.24,
+   "r": 44.4
   },
   {
    "s": "BZ=F",
@@ -300,42 +300,42 @@
   },
   {
    "s": "GC=F",
-   "p": 4090.0,
-   "c": 1.01,
-   "a50": 4192.1,
-   "a200": 4479.25,
+   "p": 4098.9,
+   "c": 1.23,
+   "a50": 4192.27,
+   "a200": 4479.29,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4063.93,
-   "r": 49.0
+   "a20": 4064.37,
+   "r": 49.7
   },
   {
    "s": "HG=F",
-   "p": 6.53,
-   "c": 1.39,
+   "p": 6.54,
+   "c": 1.65,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.31,
-   "r": 60.8
+   "r": 61.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03079766,
-   "c": -0.22,
+   "p": 0.03084516,
+   "c": -0.09,
    "a50": 0.03136763,
    "a200": 0.03167564,
    "yh": 0.033467,
-   "yl": 0.030798
+   "yl": 0.030845
   }
  ],
  "news": [
   {
-   "t": "亞馬遜早盤股價續漲　市值首度突破3兆美元",
+   "t": "市場重燃希望盼中東戰事結束　歐股大多收漲",
    "pub": "中央社財經",
-   "d": "2026-08-03",
-   "u": "https://www.cna.com.tw/news/aopl/202608030315.aspx"
+   "d": "2026-08-04",
+   "u": "https://www.cna.com.tw/news/afe/202608040002.aspx"
   },
   {
    "t": "Warren Buffett keeps pointing at the same ETF for a reason",
@@ -344,16 +344,28 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-keeps-pointing-same-160300409.html"
   },
   {
+   "t": "亞馬遜早盤股價續漲　市值首度突破3兆美元",
+   "pub": "中央社財經",
+   "d": "2026-08-03",
+   "u": "https://www.cna.com.tw/news/aopl/202608030315.aspx"
+  },
+  {
+   "t": "Cathie Wood sells $5.5 million of surging tech stock",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-5-5-163300469.html"
+  },
+  {
    "t": "SpaceX首份財報將出爐　馬斯克AI支出引華爾街關注",
    "pub": "中央社財經",
    "d": "2026-08-03",
    "u": "https://www.cna.com.tw/news/afe/202608030309.aspx"
   },
   {
-   "t": "Stock market today: Nasdaq leads Dow, S&P 500 higher as Big Tech gains, oil prices ease",
+   "t": "I paid off $15,000 in credit card debt. A credit counseling expert explains how to never go back",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-big-tech-oil-092516872.html"
+   "u": "https://finance.yahoo.com/markets/articles/paid-off-15-000-credit-100000627.html"
   },
   {
    "t": "今彩539第115187期　頭獎槓龜",
@@ -362,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030308.aspx"
   },
   {
-   "t": "Boeing Stock Lifts Dow After Double Upgrade, FAA Certification",
+   "t": "The July jobs report, SpaceX earnings, and AI struggles: What to watch this week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/boeing-stock-aerospace-defense/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/the-july-jobs-report-spacex-earnings-and-ai-struggles-what-to-watch-this-week-100000237.html"
   },
   {
    "t": "威力彩第115062期　頭獎槓龜",
@@ -374,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030306.aspx"
   },
   {
-   "t": "Oil falls, stocks gain amid Iran peace hopes; yen firms after intervention",
+   "t": "We put $50,000 in medical bills on our credit cards — now we can barely keep up with the monthly payments. What now?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/put-50-000-medical-bills-101000777.html"
   },
   {
    "t": "川普取消攻擊伊朗計畫　美股早盤走高道瓊漲逾600點",
@@ -386,22 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030304.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Jumps As Amazon Clears $3 Trillion Level; Defense Play Clears Entry (Live Coverage)",
+   "t": "Analyst Report: Valero Energy Corp",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo"
-  },
-  {
-   "t": "崇舜強化台灣營運布局　電子特化產品貢獻可望倍增",
-   "pub": "中央社財經",
-   "d": "2026-08-03",
-   "u": "https://www.cna.com.tw/news/afe/202608030300.aspx"
-  },
-  {
-   "t": "Cathie Wood sells $5.5 million of surging tech stock",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-5-5-163300469.html"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_3497_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
