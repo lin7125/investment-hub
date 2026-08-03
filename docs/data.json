@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-03 21:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-03 21:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 305.7,
-   "c": -1.04,
-   "a50": 309.57,
-   "a200": 278.25,
+   "p": 307.4,
+   "c": -0.49,
+   "a50": 309.6,
+   "a200": 278.26,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 324.02,
-   "r": 41.5
+   "a20": 324.1,
+   "r": 42.4
   },
   {
    "s": "NVDA",
-   "p": 198.88,
-   "c": -0.93,
-   "a50": 205.68,
+   "p": 200.33,
+   "c": -0.21,
+   "a50": 205.71,
    "a200": 193.21,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.46,
-   "r": 46.8
+   "a20": 203.54,
+   "r": 47.9
   },
   {
    "s": "TSLA",
-   "p": 316.33,
-   "c": 1.65,
-   "a50": 388.74,
-   "a200": 411.04,
+   "p": 318.56,
+   "c": 2.36,
+   "a50": 388.79,
+   "a200": 411.05,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 358.76,
-   "r": 34.2
+   "a20": 358.87,
+   "r": 35.3
   },
   {
    "s": "META",
-   "p": 582.67,
-   "c": 4.66,
-   "a50": 601.74,
-   "a200": 633.86,
+   "p": 592.97,
+   "c": 6.51,
+   "a50": 601.94,
+   "a200": 633.91,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 619.92,
-   "r": 45.1
+   "a20": 620.44,
+   "r": 47.6
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7540.89,
-   "c": 0.68,
-   "a50": 7473.67,
-   "a200": 7028.59,
+   "p": 7555.29,
+   "c": 0.88,
+   "a50": 7473.96,
+   "a200": 7028.66,
    "yh": 7609.78,
    "yl": 6299.19,
-   "a20": 7481.32,
-   "r": 56.3
+   "a20": 7482.04,
+   "r": 57.1
   },
   {
    "s": "^VIX",
-   "p": 16.26,
-   "c": 1.69,
+   "p": 16.18,
+   "c": 1.19,
    "a50": 17.37,
    "a200": 18.68,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.26,
-   "r": 45.9
+   "r": 45.6
   },
   {
    "s": "BZ=F",
-   "p": 83.0,
-   "c": -7.9,
+   "p": 82.82,
+   "c": -8.1,
    "a50": 86.1,
    "a200": 80.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.35,
-   "r": 45.8
+   "a20": 86.34,
+   "r": 45.6
   },
   {
    "s": "GC=F",
-   "p": 4083.4,
-   "c": 0.85,
-   "a50": 4191.96,
-   "a200": 4479.22,
+   "p": 4087.2,
+   "c": 0.94,
+   "a50": 4192.04,
+   "a200": 4479.24,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4063.6,
-   "r": 48.5
+   "a20": 4063.79,
+   "r": 48.8
   },
   {
    "s": "HG=F",
-   "p": 6.46,
-   "c": 0.39,
+   "p": 6.47,
+   "c": 0.45,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.31,
-   "r": 58.2
+   "r": 58.4
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030293.aspx"
   },
   {
-   "t": "Oil prices drop after Trump cancels attack on Iran to seek deal",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as Trump calls off Iran attack, oil prices ease",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/oil-tumbles-trump-cancels-attack-041829322.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-092516872.html"
   },
   {
    "t": "日本企業今年度資本支出將創新高　歸功AI與汽車業投資",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608030292.aspx"
   },
   {
-   "t": "SpaceX's first-ever earnings report comes as stock hits new all-time low: Q2 preview",
+   "t": "Semiconductor stocks sink over fears of increased competition from China",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/spacexs-first-ever-earnings-report-comes-as-stock-hits-new-all-time-low-q2-preview-132323178.html"
+   "u": "https://finance.yahoo.com/markets/article/semiconductor-stocks-sink-over-fears-of-increased-competition-from-china-133938642.html"
   },
   {
    "t": "研調：面板雙虎產能瘦身　2028年全球市場大洗牌",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030286.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as Trump calls off Iran attack, oil prices ease",
+   "t": "Why This Top-Notch Trio Of Biotech Stocks Just Took A Tumble",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-092516872.html"
+   "u": "https://www.investors.com/news/technology/biotech-stocks-q2-2026-earnings-tg-therapeutics-twist-biotech-krystal-biotech/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股上漲266點　外資轉賣超191億元調節聯電居首",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030282.aspx"
   },
   {
-   "t": "A $65,000 401(k) projects just $4,300 in annual retirement income — here's why that number is wildly misleading",
+   "t": "Pitney Bowes (PBI): Logistics Meets Innovation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/65-000-401-k-projects-133000640.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/pitney-bowes-pbi-logistics-meets-133605141.html"
   },
   {
    "t": "7月PMI達61.5%連10個月擴張　創近5年最快擴張速度",
