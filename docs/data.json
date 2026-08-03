@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 00:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 00:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,14 +212,14 @@
   },
   {
    "s": "AAPL",
-   "p": 306.38,
-   "c": -0.82,
-   "a50": 309.58,
-   "a200": 278.25,
+   "p": 306.91,
+   "c": -0.65,
+   "a50": 309.59,
+   "a200": 278.26,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 324.05,
-   "r": 41.9
+   "a20": 324.08,
+   "r": 42.1
   },
   {
    "s": "NVDA",
@@ -234,24 +234,24 @@
   },
   {
    "s": "TSLA",
-   "p": 322.0,
-   "c": 3.47,
-   "a50": 388.86,
+   "p": 321.11,
+   "c": 3.18,
+   "a50": 388.84,
    "a200": 411.06,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.04,
-   "r": 36.8
+   "a20": 359.0,
+   "r": 36.4
   },
   {
    "s": "META",
-   "p": 595.59,
-   "c": 6.98,
-   "a50": 601.99,
+   "p": 595.83,
+   "c": 7.03,
+   "a50": 602.0,
    "a200": 633.92,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.57,
+   "a20": 620.58,
    "r": 48.2
   },
   {
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7590.44,
-   "c": 1.34,
-   "a50": 7474.66,
-   "a200": 7028.84,
+   "p": 7588.03,
+   "c": 1.31,
+   "a50": 7474.61,
+   "a200": 7028.83,
    "yh": 7609.78,
    "yl": 6299.19,
-   "a20": 7483.8,
-   "r": 59.2
+   "a20": 7483.68,
+   "r": 59.0
   },
   {
    "s": "^VIX",
-   "p": 15.59,
-   "c": -2.5,
+   "p": 15.56,
+   "c": -2.69,
    "a50": 17.35,
    "a200": 18.68,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.7,
-   "c": -7.12,
+   "p": 83.59,
+   "c": -7.25,
    "a50": 86.11,
    "a200": 80.75,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 86.38,
-   "r": 46.5
+   "r": 46.4
   },
   {
    "s": "GC=F",
-   "p": 4091.0,
-   "c": 1.03,
-   "a50": 4192.12,
+   "p": 4091.8,
+   "c": 1.05,
+   "a50": 4192.13,
    "a200": 4479.26,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4063.98,
+   "a20": 4064.02,
    "r": 49.1
   },
   {
    "s": "HG=F",
-   "p": 6.51,
-   "c": 1.16,
+   "p": 6.52,
+   "c": 1.31,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.31,
-   "r": 60.3
+   "r": 60.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03082614,
-   "c": -0.13,
+   "c": -0.14,
    "a50": 0.03136763,
    "a200": 0.03167564,
    "yh": 0.033467,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030309.aspx"
   },
   {
-   "t": "Semiconductor stocks pair losses amid fears of increased competition from China",
+   "t": "Leopold Aschenbrenner was up 439% — then 4x leverage wiped out 67% of his $45B AI hedge fund in one month",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/semiconductor-stocks-pair-losses-amid-fears-of-increased-competition-from-china-133938642.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/leopold-aschenbrenner-439-then-4x-163000526.html"
   },
   {
    "t": "今彩539第115187期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030308.aspx"
   },
   {
-   "t": "Lending circles offer no interest and no collateral — here's why millions still use them to bypass banks",
+   "t": "Stock market today: Nasdaq leads Dow, S&P 500 higher as Big Tech gains, oil prices ease",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/lending-circles-offer-no-interest-160000506.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-big-tech-oil-092516872.html"
   },
   {
    "t": "威力彩第115062期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030306.aspx"
   },
   {
-   "t": "AstraZeneca Nosedives On A Rumored Megamerger; Is $160 Billion Enough?",
+   "t": "Yen climbs against dollar, euro as traders speculate on further intervention",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/astrazeneca-stock-bristol-myers-squibb-rumored-deal/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/yen-leaps-intervention-leaving-dollar-010808551.html"
   },
   {
    "t": "川普取消攻擊伊朗計畫　美股早盤走高道瓊漲逾600點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030304.aspx"
   },
   {
-   "t": "Broadcom loses court bid to suspend EU antitrust request for US legal papers",
+   "t": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/broadcom-loses-court-bid-suspend-155709395.html"
+   "u": "https://www.investors.com/news/spacex-earnings-key-themes-q2-2026-elon-musk-starlink-starship-xai-nasa-falcon9/?src=A00220&yptr=yahoo"
   },
   {
    "t": "崇舜強化台灣營運布局　電子特化產品貢獻可望倍增",
