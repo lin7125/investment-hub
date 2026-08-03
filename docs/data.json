@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 06:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 07:07（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,14 +289,14 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.58,
-   "c": -7.26,
+   "p": 83.38,
+   "c": -7.48,
    "a50": 86.11,
    "a200": 80.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.37,
-   "r": 46.4
+   "a20": 86.36,
+   "r": 46.2
   },
   {
    "s": "GC=F",
@@ -312,18 +312,18 @@
   {
    "s": "HG=F",
    "p": 6.54,
-   "c": 1.65,
+   "c": 1.69,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.31,
-   "r": 61.5
+   "r": 61.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.0308642,
-   "c": -0.0,
+   "p": 0.03096934,
+   "c": 0.31,
    "a50": 0.03136763,
    "a200": 0.03167564,
    "yh": 0.033467,
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030308.aspx"
   },
   {
-   "t": "Amazon's debt nearly doubled to $129 billion in 6 months as CEO Jassy defends $220 billion data center spending spree",
+   "t": "US retirees blow nearly $1 of every $3 on a single expense — here's what it costs you each year",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amazons-debt-nearly-doubled-129-140000968.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/us-retirees-blow-nearly-1-143500205.html"
   }
  ],
  "inst": {
