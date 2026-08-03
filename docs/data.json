@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 04:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 04:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.72,
-   "c": -7.1,
+   "p": 83.58,
+   "c": -7.26,
    "a50": 86.11,
    "a200": 80.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.38,
-   "r": 46.5
+   "a20": 86.37,
+   "r": 46.4
   },
   {
    "s": "GC=F",
-   "p": 4107.6,
-   "c": 1.44,
-   "a50": 4192.45,
-   "a200": 4479.34,
+   "p": 4110.2,
+   "c": 1.51,
+   "a50": 4192.5,
+   "a200": 4479.35,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4064.81,
-   "r": 50.3
+   "a20": 4064.94,
+   "r": 50.5
   },
   {
    "s": "HG=F",
    "p": 6.55,
-   "c": 1.7,
+   "c": 1.72,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030309.aspx"
   },
   {
-   "t": "More of the uber rich are turning to this ‘slam dunk’ method of avoiding taxes that’s perfectly legal",
+   "t": "The magic number for retirement might be closer than you think — if you reach this ‘tipping point.’ Are you there yet?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/more-uber-rich-turning-slam-113000937.html"
+   "u": "https://finance.yahoo.com/markets/articles/magic-number-retirement-might-closer-114500063.html"
   },
   {
    "t": "今彩539第115187期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030308.aspx"
   },
   {
-   "t": "Ted Benna built the 401(k) 40 years ago — now he says it fails lower-income workers and is pushing a simpler alternative",
+   "t": "More of the uber rich are turning to this ‘slam dunk’ method of avoiding taxes that’s perfectly legal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/ted-benna-built-401-k-113000384.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/more-uber-rich-turning-slam-113000937.html"
   },
   {
    "t": "威力彩第115062期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030306.aspx"
   },
   {
-   "t": "The magic number for retirement might be closer than you think — if you reach this ‘tipping point.’ Are you there yet?",
+   "t": "Ted Benna built the 401(k) 40 years ago — now he says it fails lower-income workers and is pushing a simpler alternative",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/magic-number-retirement-might-closer-114500063.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/ted-benna-built-401-k-113000384.html"
   },
   {
    "t": "川普取消攻擊伊朗計畫　美股早盤走高道瓊漲逾600點",
