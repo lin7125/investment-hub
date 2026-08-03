@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 06:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 06:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.51,
-   "c": -7.33,
+   "p": 83.58,
+   "c": -7.26,
    "a50": 86.11,
    "a200": 80.75,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 86.37,
-   "r": 46.3
+   "r": 46.4
   },
   {
    "s": "GC=F",
-   "p": 4110.9,
-   "c": 1.53,
-   "a50": 4192.51,
-   "a200": 4479.35,
+   "p": 4107.0,
+   "c": 1.43,
+   "a50": 4192.44,
+   "a200": 4479.34,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4064.97,
-   "r": 50.6
+   "a20": 4064.78,
+   "r": 50.3
   },
   {
    "s": "HG=F",
-   "p": 6.54,
-   "c": 1.67,
+   "p": 6.55,
+   "c": 1.69,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.31,
-   "r": 61.5
+   "r": 61.6
   },
   {
    "s": "TWDUSD",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "市場重燃希望盼中東戰事結束　歐股大多收漲",
+   "t": "川普稱與伊朗談判　美股勁揚道瓊指數收盤創新高",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040002.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608040012.aspx"
   },
   {
    "t": "Warren Buffett keeps pointing at the same ETF for a reason",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-keeps-pointing-same-160300409.html"
   },
   {
-   "t": "亞馬遜早盤股價續漲　市值首度突破3兆美元",
+   "t": "美伊釋出荷莫茲海峽正向信號　油價下滑",
    "pub": "中央社財經",
-   "d": "2026-08-03",
-   "u": "https://www.cna.com.tw/news/aopl/202608030315.aspx"
+   "d": "2026-08-04",
+   "u": "https://www.cna.com.tw/news/afe/202608040010.aspx"
   },
   {
    "t": "Cathie Wood sells $5.5 million of surging tech stock",
@@ -356,16 +356,40 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-5-5-163300469.html"
   },
   {
+   "t": "市場重燃希望盼中東戰事結束　歐股大多收漲",
+   "pub": "中央社財經",
+   "d": "2026-08-04",
+   "u": "https://www.cna.com.tw/news/afe/202608040002.aspx"
+  },
+  {
+   "t": "Stock Market Week Ahead: Citadel, SpaceX, Palantir And This Key Market Signal",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-citadel-spacex-palantir-and-a-possible-follow-through-day/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "亞馬遜早盤股價續漲　市值首度突破3兆美元",
+   "pub": "中央社財經",
+   "d": "2026-08-03",
+   "u": "https://www.cna.com.tw/news/aopl/202608030315.aspx"
+  },
+  {
+   "t": "After a More Than 20% Sell-Off on Earnings, Corning Stock Is Still a ‘Buy’ for the AI Infrastructure Trade",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/more-20-sell-off-earnings-133002721.html"
+  },
+  {
    "t": "SpaceX首份財報將出爐　馬斯克AI支出引華爾街關注",
    "pub": "中央社財經",
    "d": "2026-08-03",
    "u": "https://www.cna.com.tw/news/afe/202608030309.aspx"
   },
   {
-   "t": "Wedbush Flags Near-Term Risks From Nvidia’s Alleged OpenAI Data Center Support",
+   "t": "Ramit Sethi helps newlyweds tackle $165,000 in debt — including the $30,000 he hid before their wedding",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/wedbush-flags-near-term-risks-130002595.html"
+   "u": "https://finance.yahoo.com/small-business/articles/ramit-sethi-helps-newlyweds-tackle-133000103.html"
   },
   {
    "t": "今彩539第115187期　頭獎槓龜",
@@ -374,34 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030308.aspx"
   },
   {
-   "t": "Apple Delivers Strong Free Cash Flow, But What is the Best AAPL Play?",
+   "t": "Why Steel Stocks Are the Perfect Blend Between a Hot AI Trade and a Crash-Proof Portfolio",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-delivers-strong-free-cash-130002188.html"
-  },
-  {
-   "t": "威力彩第115062期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-08-03",
-   "u": "https://www.cna.com.tw/news/ahel/202608030306.aspx"
-  },
-  {
-   "t": "Seagate Rallies on Strong Q4 Results and Guidance. What Does This Mean for STX Stock Here.",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/seagate-rallies-strong-q4-results-130002827.html"
-  },
-  {
-   "t": "川普取消攻擊伊朗計畫　美股早盤走高道瓊漲逾600點",
-   "pub": "中央社財經",
-   "d": "2026-08-03",
-   "u": "https://www.cna.com.tw/news/afe/202608030304.aspx"
-  },
-  {
-   "t": "Ramit Sethi helps newlyweds tackle $165,000 in debt — including the $30,000 he hid before their wedding",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/ramit-sethi-helps-newlyweds-tackle-133000103.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/why-steel-stocks-perfect-blend-140002138.html"
   }
  ],
  "inst": {
