@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-03 23:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-03 23:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,18 +212,18 @@
   },
   {
    "s": "AAPL",
-   "p": 304.8,
-   "c": -1.33,
-   "a50": 309.55,
+   "p": 305.47,
+   "c": -1.11,
+   "a50": 309.56,
    "a200": 278.25,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.97,
-   "r": 41.0
+   "a20": 324.01,
+   "r": 41.4
   },
   {
    "s": "NVDA",
-   "p": 206.87,
+   "p": 206.88,
    "c": 3.05,
    "a50": 205.84,
    "a200": 193.25,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 322.03,
-   "c": 3.48,
-   "a50": 388.86,
-   "a200": 411.06,
+   "p": 323.37,
+   "c": 3.91,
+   "a50": 388.88,
+   "a200": 411.07,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.04,
-   "r": 36.8
+   "a20": 359.11,
+   "r": 37.4
   },
   {
    "s": "META",
-   "p": 590.11,
-   "c": 6.0,
-   "a50": 601.89,
-   "a200": 633.89,
+   "p": 591.92,
+   "c": 6.32,
+   "a50": 601.92,
+   "a200": 633.9,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.29,
-   "r": 46.9
+   "a20": 620.38,
+   "r": 47.4
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7575.78,
-   "c": 1.15,
-   "a50": 7474.37,
-   "a200": 7028.76,
+   "p": 7577.33,
+   "c": 1.17,
+   "a50": 7474.4,
+   "a200": 7028.77,
    "yh": 7609.78,
    "yl": 6299.19,
-   "a20": 7483.07,
-   "r": 58.3
+   "a20": 7483.14,
+   "r": 58.4
   },
   {
    "s": "^VIX",
-   "p": 15.75,
-   "c": -1.5,
+   "p": 15.72,
+   "c": -1.69,
    "a50": 17.36,
    "a200": 18.68,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.24,
-   "r": 44.3
+   "a20": 17.23,
+   "r": 44.2
   },
   {
    "s": "BZ=F",
-   "p": 83.7,
-   "c": -7.12,
+   "p": 83.72,
+   "c": -7.1,
    "a50": 86.11,
    "a200": 80.75,
    "yh": 118.35,
@@ -300,34 +300,34 @@
   },
   {
    "s": "GC=F",
-   "p": 4093.1,
-   "c": 1.09,
-   "a50": 4192.16,
-   "a200": 4479.27,
+   "p": 4088.9,
+   "c": 0.98,
+   "a50": 4192.07,
+   "a200": 4479.24,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4064.08,
-   "r": 49.2
+   "a20": 4063.87,
+   "r": 48.9
   },
   {
    "s": "HG=F",
-   "p": 6.5,
-   "c": 1.02,
+   "p": 6.51,
+   "c": 1.07,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.31,
-   "r": 59.9
+   "r": 60.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03084516,
-   "c": -0.09,
+   "p": 0.03081664,
+   "c": -0.18,
    "a50": 0.03136763,
    "a200": 0.03167564,
    "yh": 0.033467,
-   "yl": 0.030845
+   "yl": 0.030817
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030293.aspx"
   },
   {
-   "t": "Palantir stock jumps ahead of quarterly results",
+   "t": "Stock market today: Nasdaq leads Dow, S&P 500 higher as Big Tech gains, oil prices ease",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-ahead-of-quarterly-results-122817775.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-big-tech-oil-092516872.html"
   },
   {
    "t": "日本企業今年度資本支出將創新高　歸功AI與汽車業投資",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608030292.aspx"
   },
   {
-   "t": "Tech stocks today: Investors eye SpaceX's first earnings report",
+   "t": "Hilton Grand Vacations (HGV) Turns Discounts in to Opportunity",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hilton-grand-vacations-hgv-turns-145937435.html"
   },
   {
    "t": "研調：面板雙虎產能瘦身　2028年全球市場大洗牌",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030286.aspx"
   },
   {
-   "t": "GameStop stock sinks to lowest level since August 2024",
+   "t": "Next GLP-1 Billion-Dollar Market: Fireside Chat with Conexeu Sciences CEO Miles Harrison",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/gamestop-stock-sinks-to-lowest-level-since-august-2024-144436234.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/next-glp-1-billion-dollar-145554150.html"
   },
   {
    "t": "台股上漲266點　外資轉賣超191億元調節聯電居首",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030282.aspx"
   },
   {
-   "t": "This valuation signal shows how investors are rethinking tech stocks",
+   "t": "Palantir stock jumps ahead of quarterly results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/this-valuation-signal-shows-how-investors-are-rethinking-tech-stocks-144411798.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-ahead-of-quarterly-results-122817775.html"
   },
   {
    "t": "7月PMI達61.5%連10個月擴張　創近5年最快擴張速度",
