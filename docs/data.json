@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-03 23:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-03 23:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,7 +212,7 @@
   },
   {
    "s": "AAPL",
-   "p": 304.14,
+   "p": 304.12,
    "c": -1.55,
    "a50": 309.54,
    "a200": 278.24,
@@ -223,30 +223,30 @@
   },
   {
    "s": "NVDA",
-   "p": 206.64,
-   "c": 2.93,
-   "a50": 205.84,
-   "a200": 193.25,
+   "p": 206.43,
+   "c": 2.83,
+   "a50": 205.83,
+   "a200": 193.24,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.85,
-   "r": 53.1
+   "a20": 203.84,
+   "r": 52.9
   },
   {
    "s": "TSLA",
-   "p": 323.8,
-   "c": 4.05,
+   "p": 323.64,
+   "c": 3.99,
    "a50": 388.89,
    "a200": 411.07,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.13,
-   "r": 37.6
+   "a20": 359.12,
+   "r": 37.5
   },
   {
    "s": "META",
-   "p": 594.06,
-   "c": 6.71,
+   "p": 593.99,
+   "c": 6.7,
    "a50": 601.96,
    "a200": 633.91,
    "yh": 790.0,
@@ -267,75 +267,75 @@
   },
   {
    "s": "^GSPC",
-   "p": 7576.96,
-   "c": 1.16,
-   "a50": 7474.39,
-   "a200": 7028.77,
+   "p": 7579.02,
+   "c": 1.19,
+   "a50": 7474.43,
+   "a200": 7028.78,
    "yh": 7609.78,
    "yl": 6299.19,
-   "a20": 7483.13,
-   "r": 58.4
+   "a20": 7483.23,
+   "r": 58.5
   },
   {
    "s": "^VIX",
-   "p": 15.68,
-   "c": -1.94,
-   "a50": 17.36,
+   "p": 15.61,
+   "c": -2.38,
+   "a50": 17.35,
    "a200": 18.68,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.23,
-   "r": 44.1
+   "r": 43.9
   },
   {
    "s": "BZ=F",
-   "p": 83.76,
-   "c": -7.06,
-   "a50": 86.12,
-   "a200": 80.75,
+   "p": 84.32,
+   "c": -6.44,
+   "a50": 86.13,
+   "a200": 80.76,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.38,
-   "r": 46.6
+   "a20": 86.41,
+   "r": 47.1
   },
   {
    "s": "GC=F",
-   "p": 4091.3,
-   "c": 1.04,
-   "a50": 4192.12,
-   "a200": 4479.26,
+   "p": 4087.8,
+   "c": 0.96,
+   "a50": 4192.05,
+   "a200": 4479.24,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4063.99,
-   "r": 49.1
+   "a20": 4063.82,
+   "r": 48.8
   },
   {
    "s": "HG=F",
-   "p": 6.51,
-   "c": 1.15,
+   "p": 6.5,
+   "c": 1.02,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.31,
-   "r": 60.2
+   "r": 59.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03079766,
-   "c": -0.22,
+   "p": 0.03080715,
+   "c": -0.2,
    "a50": 0.03136763,
    "a200": 0.03167564,
    "yh": 0.033467,
-   "yl": 0.030798
+   "yl": 0.030807
   }
  ],
  "news": [
   {
-   "t": "威力彩第115062期開獎",
+   "t": "亞馬遜早盤股價續漲　市值首度突破3兆美元",
    "pub": "中央社財經",
    "d": "2026-08-03",
-   "u": "https://www.cna.com.tw/news/ahel/202608030294.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608030315.aspx"
   },
   {
    "t": "Warren Buffett keeps pointing at the same ETF for a reason",
@@ -344,58 +344,58 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-keeps-pointing-same-160300409.html"
   },
   {
-   "t": "今彩539第115187期開獎",
+   "t": "SpaceX首份財報將出爐　馬斯克AI支出引華爾街關注",
    "pub": "中央社財經",
    "d": "2026-08-03",
-   "u": "https://www.cna.com.tw/news/ahel/202608030293.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608030309.aspx"
   },
   {
-   "t": "IBM’s Quantum Bet Just Got Bigger—What the HRL Deal Means for Investors",
+   "t": "Stock market today: Nasdaq leads Dow, S&P 500 higher as Big Tech gains, oil prices ease",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ibm-quantum-bet-just-got-151648951.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-big-tech-oil-092516872.html"
   },
   {
-   "t": "日本企業今年度資本支出將創新高　歸功AI與汽車業投資",
+   "t": "今彩539第115187期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-08-03",
-   "u": "https://www.cna.com.tw/news/aopl/202608030292.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608030308.aspx"
   },
   {
-   "t": "Average car payments in 2026: What to expect",
+   "t": "Oracle (ORCL) Has the AI Demand. Can It Fund the Infrastructure?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/average-auto-loan-payments-expect-174817148.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-ai-demand-fund-153151928.html"
   },
   {
-   "t": "研調：面板雙虎產能瘦身　2028年全球市場大洗牌",
+   "t": "威力彩第115062期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-08-03",
-   "u": "https://www.cna.com.tw/news/afe/202608030286.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608030306.aspx"
   },
   {
-   "t": "UK restructuring plans on radar as US debtors scan beyond Chapter 11",
+   "t": "Why MercadoLibre (MELI) Is Spending Big to Defend Its Latin American Moat",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/uk-restructuring-plans-radar-us-151337992.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-mercadolibre-meli-spending-big-153141519.html"
   },
   {
-   "t": "台股上漲266點　外資轉賣超191億元調節聯電居首",
+   "t": "川普取消攻擊伊朗計畫　美股早盤走高道瓊漲逾600點",
    "pub": "中央社財經",
    "d": "2026-08-03",
-   "u": "https://www.cna.com.tw/news/afe/202608030282.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608030304.aspx"
   },
   {
-   "t": "Marriott Outlook Comes Up Short As Middle East Conflicts Drag On Results",
+   "t": "Tech stocks today: Investors eye SpaceX's first earnings report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/marriott-international-earnings-q2-2026-travel-demand-middle-east-mar-stock/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html"
   },
   {
-   "t": "7月PMI達61.5%連10個月擴張　創近5年最快擴張速度",
+   "t": "崇舜強化台灣營運布局　電子特化產品貢獻可望倍增",
    "pub": "中央社財經",
    "d": "2026-08-03",
-   "u": "https://www.cna.com.tw/news/afe/202608030279.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608030300.aspx"
   },
   {
    "t": "Weekly Stock List",
