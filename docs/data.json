@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 305.83,
-   "c": -1.0,
+   "p": 305.85,
+   "c": -0.99,
    "a50": 309.57,
    "a200": 278.25,
    "yh": 340.08,
@@ -223,8 +223,8 @@
   },
   {
    "s": "NVDA",
-   "p": 208.32,
-   "c": 3.77,
+   "p": 208.29,
+   "c": 3.76,
    "a50": 205.87,
    "a200": 193.25,
    "yh": 235.74,
@@ -234,8 +234,8 @@
   },
   {
    "s": "TSLA",
-   "p": 323.11,
-   "c": 3.83,
+   "p": 323.23,
+   "c": 3.86,
    "a50": 388.88,
    "a200": 411.07,
    "yh": 489.88,
@@ -251,7 +251,7 @@
    "a200": 633.91,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.47,
+   "a20": 620.46,
    "r": 47.7
   },
   {
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7606.33,
-   "c": 1.56,
-   "a50": 7474.98,
+   "p": 7606.13,
+   "c": 1.55,
+   "a50": 7474.97,
    "a200": 7028.92,
    "yh": 7609.78,
    "yl": 6299.19,
-   "a20": 7484.59,
+   "a20": 7484.58,
    "r": 60.0
   },
   {
    "s": "^VIX",
-   "p": 15.8,
-   "c": -1.19,
+   "p": 15.81,
+   "c": -1.13,
    "a50": 17.36,
    "a200": 18.68,
    "yh": 31.05,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.89,
-   "c": -6.91,
+   "p": 83.87,
+   "c": -6.94,
    "a50": 86.12,
    "a200": 80.75,
    "yh": 118.35,
@@ -300,13 +300,13 @@
   },
   {
    "s": "GC=F",
-   "p": 4098.9,
-   "c": 1.23,
-   "a50": 4192.27,
-   "a200": 4479.29,
+   "p": 4099.4,
+   "c": 1.24,
+   "a50": 4192.28,
+   "a200": 4479.3,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4064.37,
+   "a20": 4064.4,
    "r": 49.7
   },
   {
@@ -322,12 +322,12 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03084516,
-   "c": -0.09,
+   "p": 0.03083565,
+   "c": -0.1,
    "a50": 0.03136763,
    "a200": 0.03167564,
    "yh": 0.033467,
-   "yl": 0.030845
+   "yl": 0.030836
   }
  ],
  "news": [
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030306.aspx"
   },
   {
-   "t": "We put $50,000 in medical bills on our credit cards — now we can barely keep up with the monthly payments. What now?",
+   "t": "LeBron James took a 92% pay cut to chase a title — here's how regular workers can survive a pay cut too",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/put-50-000-medical-bills-101000777.html"
+   "u": "https://finance.yahoo.com/small-business/articles/lebron-james-took-92-pay-093000216.html"
   },
   {
    "t": "川普取消攻擊伊朗計畫　美股早盤走高道瓊漲逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030304.aspx"
   },
   {
-   "t": "Analyst Report: Valero Energy Corp",
+   "t": "Analyst Report: Enterprise Products Pntr LP",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_3497_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_2942_AnalystReport_1785777310000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
