@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-03 22:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-03 22:57（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 305.68,
-   "c": -1.05,
-   "a50": 309.57,
+   "p": 305.12,
+   "c": -1.23,
+   "a50": 309.56,
    "a200": 278.25,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 324.02,
-   "r": 41.5
+   "a20": 323.99,
+   "r": 41.2
   },
   {
    "s": "NVDA",
-   "p": 205.96,
-   "c": 2.6,
-   "a50": 205.82,
+   "p": 206.48,
+   "c": 2.85,
+   "a50": 205.83,
    "a200": 193.24,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.82,
-   "r": 52.6
+   "a20": 203.84,
+   "r": 53.0
   },
   {
    "s": "TSLA",
-   "p": 320.33,
-   "c": 2.93,
-   "a50": 388.82,
+   "p": 321.98,
+   "c": 3.46,
+   "a50": 388.86,
    "a200": 411.06,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 358.96,
-   "r": 36.1
+   "a20": 359.04,
+   "r": 36.8
   },
   {
    "s": "META",
-   "p": 588.16,
-   "c": 5.65,
-   "a50": 601.85,
+   "p": 587.79,
+   "c": 5.58,
+   "a50": 601.84,
    "a200": 633.88,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.2,
-   "r": 46.5
+   "a20": 620.18,
+   "r": 46.4
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7572.54,
-   "c": 1.11,
-   "a50": 7474.3,
-   "a200": 7028.75,
+   "p": 7577.32,
+   "c": 1.17,
+   "a50": 7474.4,
+   "a200": 7028.77,
    "yh": 7609.78,
    "yl": 6299.19,
-   "a20": 7482.9,
-   "r": 58.2
+   "a20": 7483.14,
+   "r": 58.4
   },
   {
    "s": "^VIX",
-   "p": 15.78,
-   "c": -1.31,
+   "p": 15.73,
+   "c": -1.63,
    "a50": 17.36,
    "a200": 18.68,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.24,
-   "r": 44.4
+   "a20": 17.23,
+   "r": 44.2
   },
   {
    "s": "BZ=F",
-   "p": 83.35,
-   "c": -7.51,
+   "p": 83.51,
+   "c": -7.33,
    "a50": 86.11,
    "a200": 80.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.36,
-   "r": 46.1
+   "a20": 86.37,
+   "r": 46.3
   },
   {
    "s": "GC=F",
-   "p": 4091.2,
-   "c": 1.04,
-   "a50": 4192.12,
-   "a200": 4479.26,
+   "p": 4090.7,
+   "c": 1.03,
+   "a50": 4192.11,
+   "a200": 4479.25,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4063.99,
-   "r": 49.1
+   "a20": 4063.96,
+   "r": 49.0
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": 0.71,
+   "c": 0.72,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
@@ -322,12 +322,12 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03081664,
-   "c": -0.18,
+   "p": 0.03082614,
+   "c": -0.15,
    "a50": 0.03136763,
    "a200": 0.03167564,
    "yh": 0.033467,
-   "yl": 0.030817
+   "yl": 0.030826
   }
  ],
  "news": [
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030293.aspx"
   },
   {
-   "t": "Here's the single biggest reason the bull market is broadening",
+   "t": "Tech stocks today: Investors eye SpaceX's first earnings report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/heres-the-single-biggest-reason-the-bull-market-is-broadening-142744291.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html"
   },
   {
    "t": "日本企業今年度資本支出將創新高　歸功AI與汽車業投資",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608030292.aspx"
   },
   {
-   "t": "Is Humana (HUM) an Undervalued Turnaround Play as Medicare Margins Recover?",
+   "t": "GameStop stock sinks to lowest level since August 2024",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/humana-hum-undervalued-turnaround-play-142243460.html"
+   "u": "https://finance.yahoo.com/markets/article/gamestop-stock-sinks-to-lowest-level-since-august-2024-144436234.html"
   },
   {
    "t": "研調：面板雙虎產能瘦身　2028年全球市場大洗牌",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030286.aspx"
   },
   {
-   "t": "Trump Media Stock Scores With 'Cancel The Attack' Post; Buckle Up For What's Next",
+   "t": "This valuation signal shows how investors are rethinking tech stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/trump-media-stock-scores-truth-social-cancel-iran-attack-post/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/this-valuation-signal-shows-how-investors-are-rethinking-tech-stocks-144411798.html"
   },
   {
    "t": "台股上漲266點　外資轉賣超191億元調節聯電居首",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030282.aspx"
   },
   {
-   "t": "Zoetis (ZTS) Growth Weakens Amid Softening Pet Care Demand",
+   "t": "Stock Market Today: Dow Jumps As Microsoft Surges; Oil Stocks Skid On Trump Iran Move (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/zoetis-zts-growth-weakens-amid-142010705.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo"
   },
   {
    "t": "7月PMI達61.5%連10個月擴張　創近5年最快擴張速度",
