@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 14:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 17:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 48.95,
-   "c": 13.44,
-   "a50": 65.69,
-   "a200": 40.06,
+   "p": 50.0,
+   "c": 15.87,
+   "a50": 65.71,
+   "a200": 40.07,
    "yh": 165.0,
    "yl": 5.4,
-   "a20": 51.35,
-   "r": 43.4
+   "a20": 51.4,
+   "r": 44.7
   },
   {
    "s": "6223.TWO",
@@ -278,206 +278,206 @@
   },
   {
    "s": "^VIX",
-   "p": 15.99,
-   "c": -6.44,
-   "a50": 17.38,
-   "a200": 18.7,
+   "p": 15.83,
+   "c": -1.0,
+   "a50": 17.36,
+   "a200": 18.68,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.23,
-   "r": 45.0
+   "a20": 17.24,
+   "r": 44.5
   },
   {
    "s": "BZ=F",
-   "p": 84.86,
-   "c": -5.84,
-   "a50": 86.14,
-   "a200": 80.76,
+   "p": 86.08,
+   "c": -4.48,
+   "a50": 86.16,
+   "a200": 80.77,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.44,
-   "r": 47.7
+   "a20": 86.5,
+   "r": 49.0
   },
   {
    "s": "GC=F",
-   "p": 4113.2,
-   "c": 1.58,
-   "a50": 4192.56,
-   "a200": 4479.37,
+   "p": 4106.5,
+   "c": 1.42,
+   "a50": 4192.43,
+   "a200": 4479.33,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4065.09,
-   "r": 50.7
+   "a20": 4064.75,
+   "r": 50.2
   },
   {
    "s": "HG=F",
-   "p": 6.59,
-   "c": 2.42,
+   "p": 6.62,
+   "c": 2.84,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.32,
-   "r": 63.2
+   "r": 64.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03085467,
-   "c": -0.37,
+   "p": 0.03082614,
+   "c": -0.44,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
-   "yl": 0.030855
+   "yl": 0.030826
   }
  ],
  "news": [
   {
-   "t": "新台幣午盤升0.8分　暫收32.43元",
+   "t": "謝再居臨危接棒延續三大業務　盼達成黃崇仁發股利遺願",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040074.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608040198.aspx"
   },
   {
-   "t": "Defunct iconic tire brand files Chapter 11 bankruptcy to dissolve",
+   "t": "Trader Joe's has one advantage over Walmart and Target",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/defunct-iconic-tire-brand-files-190107505.html"
+   "u": "https://finance.yahoo.com/small-business/articles/trader-joes-one-advantage-over-003700727.html"
   },
   {
-   "t": "美日聯手護盤日圓　分析師：日銀9月升息幾成定局",
+   "t": "日本將鎖定中韓部分鋼鐵產品　徵暫時性反傾銷稅",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040060.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608040197.aspx"
   },
   {
-   "t": "Palantir Is Set to Deliver Strong Q2. Analysts See 60% Upside Potential for PLTR Stock.",
+   "t": "Jamie Dimon's dad handed him annual reports as a kid and had him play this 'brutally hard' game that shaped his life",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/palantir-set-deliver-strong-q2-193002334.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jamie-dimons-dad-handed-him-090000757.html"
   },
   {
-   "t": "台股開低走高　盤中震盪逾千點",
+   "t": "富世達上半年每股賺25.77元　看好AI新專案投產",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040043.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608040195.aspx"
   },
   {
-   "t": "Wall Street Can’t Agree on Palantir Stock. Earnings Will Reveal Who’s Right.",
+   "t": "Samsung's retail investors seek extra shareholder meeting over buybacks, bonuses",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-t-agree-palantir-200330042.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/samsungs-retail-investors-seek-extra-085440620.html"
   },
   {
-   "t": "統一發票5-6月期千萬獎開出18張　中獎清冊下午揭曉",
+   "t": "經濟部：台日合作達新高度　將延伸至關鍵礦物",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/ahel/202608040040.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608040194.aspx"
   },
   {
-   "t": "Wall Street Is Rewarding AI Results, Not Just AI Spending",
+   "t": "Yen slips but holds intervention gains, traders alert to more action",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/wall-street-rewarding-ai-results-211926642.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/yen-clings-intervention-gains-traders-010345520.html"
   },
   {
-   "t": "華德動能董事長蔡裕慶：台灣可成電動載具全球非紅示範【專訪】",
+   "t": "高端：首批腸病毒疫苗運抵越南　8月起貢獻營收",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040039.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608040192.aspx"
   },
   {
-   "t": "Bessent ready to repeat joint yen intervention, urges bigger Fed backstop",
+   "t": "Amazon (AMZN) Paid $50 Billion for OpenAI. Microsoft (MSFT) Opened the Door but Kept the Keys",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/bessent-ready-repeat-joint-yen-004023739.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/amazon-amzn-paid-50-billion-083135459.html"
   },
   {
-   "t": "台積電捐2.5億日圓熊本賑災　JASM晶圓廠全面復原",
+   "t": "美伊戰爭推升油價　沙烏地阿美與英國BP第2季獲利飆",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040031.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608040189.aspx"
   },
   {
-   "t": "3 Dividend Stocks That Are No-Brainer Buys for the Second Half of 2026",
+   "t": "Retail employee monitoring in the age of AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-no-brainer-190500219.html"
+   "u": "https://finance.yahoo.com/technology/articles/retail-employee-monitoring-age-ai-090945619.html"
   }
  ],
  "inst": {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "byCode": {
-   "2317": {
-    "f": 10136,
-    "t": 213,
-    "all": 9141
-   },
-   "2327": {
-    "f": 3675,
-    "t": -43,
-    "all": 3578
-   },
-   "2454": {
-    "f": 1146,
-    "t": 174,
-    "all": 1449
-   },
-   "6442": {
-    "f": 194,
-    "t": -5,
-    "all": 195
-   },
-   "6706": {
-    "f": 184,
-    "t": -34,
-    "all": 154
-   },
-   "6446": {
-    "f": 151,
-    "t": -1,
-    "all": 151
-   },
-   "3701": {
-    "f": 22,
-    "t": 0,
-    "all": 15
-   },
-   "6862": {
-    "f": -13,
-    "t": 0,
-    "all": -15
-   },
-   "4722": {
-    "f": -127,
-    "t": 0,
-    "all": -102
-   },
-   "6515": {
-    "f": -108,
-    "t": -5,
-    "all": -113
-   },
-   "2305": {
-    "f": -159,
-    "t": -1,
-    "all": -219
-   },
    "1802": {
-    "f": -311,
-    "t": 8,
-    "all": -1029
+    "f": 3793,
+    "t": 0,
+    "all": 3867
    },
    "2308": {
-    "f": -3342,
-    "t": -216,
-    "all": -3571
+    "f": 3588,
+    "t": -1548,
+    "all": 1878
+   },
+   "2305": {
+    "f": 1108,
+    "t": 2,
+    "all": 1105
+   },
+   "2454": {
+    "f": -602,
+    "t": 1296,
+    "all": 560
+   },
+   "2317": {
+    "f": 2130,
+    "t": -517,
+    "all": 510
+   },
+   "3701": {
+    "f": 177,
+    "t": 0,
+    "all": 177
+   },
+   "6706": {
+    "f": 57,
+    "t": 0,
+    "all": 83
+   },
+   "6515": {
+    "f": 5,
+    "t": -9,
+    "all": -8
+   },
+   "6862": {
+    "f": -21,
+    "t": 0,
+    "all": -23
+   },
+   "6442": {
+    "f": -390,
+    "t": 0,
+    "all": -375
+   },
+   "6446": {
+    "f": -492,
+    "t": 26,
+    "all": -513
+   },
+   "4722": {
+    "f": -587,
+    "t": 0,
+    "all": -520
+   },
+   "2327": {
+    "f": -5993,
+    "t": 1611,
+    "all": -5881
    },
    "2330": {
-    "f": -9717,
-    "t": 387,
-    "all": -10917
+    "f": -12430,
+    "t": 436,
+    "all": -14320
    }
   },
-  "totalNetE": -165.2
+  "totalNetE": 1.1
  }
 }
