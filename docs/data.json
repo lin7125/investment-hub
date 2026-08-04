@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 02:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 02:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 309.87,
-   "c": 2.13,
+   "p": 309.96,
+   "c": 2.16,
    "a50": 309.62,
    "a200": 278.54,
    "yh": 340.08,
    "yl": 202.92,
    "a20": 323.87,
-   "r": 45.0
+   "r": 45.1
   },
   {
    "s": "NVDA",
-   "p": 211.39,
-   "c": 2.3,
+   "p": 211.84,
+   "c": 2.52,
    "a50": 205.68,
-   "a200": 193.4,
+   "a200": 193.41,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 204.57,
-   "r": 56.6
+   "a20": 204.6,
+   "r": 56.9
   },
   {
    "s": "TSLA",
-   "p": 325.53,
-   "c": 1.07,
-   "a50": 387.01,
+   "p": 326.42,
+   "c": 1.35,
+   "a50": 387.03,
    "a200": 410.52,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.18,
-   "r": 38.4
+   "a20": 355.22,
+   "r": 38.8
   },
   {
    "s": "META",
-   "p": 587.91,
-   "c": -0.39,
-   "a50": 601.5,
+   "p": 588.71,
+   "c": -0.26,
+   "a50": 601.51,
    "a200": 633.25,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.92,
-   "r": 46.5
+   "a20": 618.96,
+   "r": 46.6
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7742.34,
-   "c": 1.87,
-   "a50": 7480.79,
-   "a200": 7034.24,
-   "yh": 7742.34,
+   "p": 7745.03,
+   "c": 1.9,
+   "a50": 7480.85,
+   "a200": 7034.26,
+   "yh": 7745.03,
    "yl": 6299.19,
-   "a20": 7496.23,
-   "r": 66.5
+   "a20": 7496.36,
+   "r": 66.6
   },
   {
    "s": "^VIX",
-   "p": 16.6,
-   "c": 4.67,
+   "p": 16.54,
+   "c": 4.29,
    "a50": 17.36,
    "a200": 18.64,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.26,
-   "r": 47.3
+   "r": 47.0
   },
   {
    "s": "BZ=F",
-   "p": 79.26,
-   "c": -5.38,
+   "p": 79.23,
+   "c": -5.42,
    "a50": 85.65,
    "a200": 80.84,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4146.0,
-   "c": 2.78,
-   "a50": 4183.09,
+   "p": 4145.1,
+   "c": 2.76,
+   "a50": 4183.08,
    "a200": 4478.81,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4061.15,
+   "a20": 4061.1,
    "r": 53.4
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 2.06,
+   "p": 6.64,
+   "c": 2.0,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.4
+   "r": 65.2
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040332.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Pops 1,000 Points On Hormuz Talks; Palantir Soars, Dell Breaks Out (Live Coverage)",
+   "t": "Baby boomers get all the attention — but Gen X ‘faces an even greater retirement crisis.’ How to prep your ‘war chest’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-caterpillar-palantir-spacex-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/baby-boomers-attention-gen-x-090000182.html"
   },
   {
    "t": "台美集保結算機構合作　強化複委託交割安全及服務",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040331.aspx"
   },
   {
-   "t": "A WisdomTree Covered Call Can Cultivate A Bountiful Yield",
+   "t": "Ask an Advisor: We Pay $500 Monthly for Long-Term Care Insurance and Have Paid $72k. Should We Keep It?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/wisdomtree-stock-wt-options-dividend-trading-income-investing-markets-etfs/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/options/articles/ask-advisor-long-term-care-170741083.html"
   },
   {
    "t": "今彩539第115188期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "US job openings fall as healthcare vacancies post largest drop in 11 months",
+   "t": "Bitcoin Flashes ‘Death Cross’ That Preceded 30% Price Decline",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/declining-imports-compress-us-trade-143811299.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-flashes-death-cross-preceded-085956527.html"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "Novo Nordisk Dives 6% After Unexpectedly Releasing Earnings A Day Early",
+   "t": "US Dollar Price Forecast: NFP Week Puts DXY, EUR/USD and GBP/USD in Focus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/novo-nordisk-stock-novo-nordisk-earnings-q2-2026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-nfp-085644640.html"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "The $280 Million Reason Boeing Missed—and Why Wall Street Shrugged It Off",
+   "t": "Seven & i secures Y300bn from PayPay, SoftBank and Sumitomo Mitsui",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/280-million-reason-boeing-missed-173927982.html"
+   "u": "https://finance.yahoo.com/technology/articles/seven-secures-y300bn-paypay-softbank-090408547.html"
   }
  ],
  "inst": {
