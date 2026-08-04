@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 03:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 03:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 308.49,
-   "c": 1.67,
-   "a50": 309.59,
-   "a200": 278.53,
+   "p": 308.79,
+   "c": 1.77,
+   "a50": 309.6,
+   "a200": 278.54,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.8,
-   "r": 44.1
+   "a20": 323.81,
+   "r": 44.3
   },
   {
    "s": "NVDA",
-   "p": 212.95,
-   "c": 3.05,
-   "a50": 205.71,
+   "p": 212.83,
+   "c": 3.0,
+   "a50": 205.7,
    "a200": 193.41,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 204.65,
-   "r": 57.6
+   "r": 57.5
   },
   {
    "s": "TSLA",
-   "p": 328.87,
-   "c": 2.11,
-   "a50": 387.08,
-   "a200": 410.53,
+   "p": 329.49,
+   "c": 2.3,
+   "a50": 387.09,
+   "a200": 410.54,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.34,
-   "r": 39.9
+   "a20": 355.38,
+   "r": 40.1
   },
   {
    "s": "META",
-   "p": 589.43,
-   "c": -0.14,
-   "a50": 601.53,
-   "a200": 633.25,
+   "p": 589.88,
+   "c": -0.06,
+   "a50": 601.54,
+   "a200": 633.26,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.99,
-   "r": 46.8
+   "a20": 619.02,
+   "r": 46.9
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7754.39,
-   "c": 2.02,
-   "a50": 7481.03,
-   "a200": 7034.3,
-   "yh": 7754.39,
+   "p": 7754.78,
+   "c": 2.03,
+   "a50": 7481.04,
+   "a200": 7034.31,
+   "yh": 7754.78,
    "yl": 6299.19,
-   "a20": 7496.83,
+   "a20": 7496.85,
    "r": 67.0
   },
   {
    "s": "^VIX",
-   "p": 16.34,
-   "c": 3.03,
+   "p": 16.35,
+   "c": 3.09,
    "a50": 17.35,
    "a200": 18.64,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.25,
-   "r": 46.3
+   "r": 46.4
   },
   {
    "s": "BZ=F",
-   "p": 79.41,
-   "c": -5.2,
+   "p": 79.34,
+   "c": -5.29,
    "a50": 85.65,
    "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.65,
+   "a20": 86.64,
    "r": 42.2
   },
   {
    "s": "GC=F",
-   "p": 4136.7,
-   "c": 2.55,
-   "a50": 4182.91,
-   "a200": 4478.77,
+   "p": 4140.8,
+   "c": 2.66,
+   "a50": 4182.99,
+   "a200": 4478.79,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4060.68,
-   "r": 52.8
+   "a20": 4060.89,
+   "r": 53.1
   },
   {
    "s": "HG=F",
    "p": 6.63,
-   "c": 1.79,
+   "c": 1.83,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 64.8
+   "r": 64.9
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040332.aspx"
   },
   {
-   "t": "5 hard truths about retirement you need to face before clocking out on your career — are you as ready as you think?",
+   "t": "SpaceX's first results put Musk's AI spending under Wall Street microscope",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/5-hard-truths-retirement-face-100000639.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/spacexs-first-results-put-musks-101204785.html"
   },
   {
    "t": "台美集保結算機構合作　強化複委託交割安全及服務",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040331.aspx"
   },
   {
-   "t": "Best CD rates today, Monday, August 3, 2026: Lock in up to 4.10% APY",
+   "t": "What Salesforce’s (CRM) $1.6 Billion VA Contract Signals for Its Government Cloud Strategy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-3-2026-lock-in-up-to-410-apy-100000001.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-1-6-billion-100007361.html"
   },
   {
    "t": "今彩539第115188期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "What Salesforce’s (CRM) $1.6 Billion VA Contract Signals for Its Government Cloud Strategy",
+   "t": "‘Thank you, Mr. Tariff!’: Trump says his tariffs led to the biggest deficit drop 'in history.’ Are they still working?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-1-6-billion-100007361.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/thank-mr-tariff-trump-says-101500164.html"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "SpaceX's first results put Musk's AI spending under Wall Street microscope",
+   "t": "5 hard truths about retirement you need to face before clocking out on your career — are you as ready as you think?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/spacexs-first-results-put-musks-101204785.html"
+   "u": "https://finance.yahoo.com/markets/articles/5-hard-truths-retirement-face-100000639.html"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "BJ’s posts strongest traffic gains in 4 years",
+   "t": "He Retired in Montana Without Enough Saved. A Fast-Aging State Became His Best Business Opportunity.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/bj-posts-strongest-traffic-gains-095811116.html"
+   "u": "https://finance.yahoo.com/small-business/articles/retired-montana-without-enough-saved-100209529.html"
   }
  ],
  "inst": {
