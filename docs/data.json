@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 01:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 01:26（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 310.04,
-   "c": 2.18,
-   "a50": 309.62,
+   "p": 309.05,
+   "c": 1.86,
+   "a50": 309.6,
    "a200": 278.54,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.87,
-   "r": 45.1
+   "a20": 323.82,
+   "r": 44.5
   },
   {
    "s": "NVDA",
-   "p": 211.32,
-   "c": 2.26,
-   "a50": 205.67,
+   "p": 211.52,
+   "c": 2.36,
+   "a50": 205.68,
    "a200": 193.4,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 204.57,
-   "r": 56.5
+   "a20": 204.58,
+   "r": 56.6
   },
   {
    "s": "TSLA",
-   "p": 326.3,
-   "c": 1.31,
-   "a50": 387.03,
+   "p": 326.98,
+   "c": 1.52,
+   "a50": 387.04,
    "a200": 410.52,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.22,
-   "r": 38.7
+   "a20": 355.25,
+   "r": 39.1
   },
   {
    "s": "META",
-   "p": 586.45,
-   "c": -0.64,
-   "a50": 601.47,
+   "p": 587.27,
+   "c": -0.5,
+   "a50": 601.49,
    "a200": 633.24,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.84,
-   "r": 46.1
+   "a20": 618.88,
+   "r": 46.3
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7737.04,
+   "p": 7737.46,
    "c": 1.8,
-   "a50": 7480.69,
+   "a50": 7480.7,
    "a200": 7034.22,
-   "yh": 7737.04,
+   "yh": 7737.46,
    "yl": 6299.19,
-   "a20": 7495.96,
+   "a20": 7495.98,
    "r": 66.3
   },
   {
    "s": "^VIX",
-   "p": 16.27,
-   "c": 2.59,
+   "p": 16.37,
+   "c": 3.22,
    "a50": 17.35,
    "a200": 18.64,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.25,
-   "r": 46.1
+   "r": 46.5
   },
   {
    "s": "BZ=F",
-   "p": 79.55,
-   "c": -5.04,
-   "a50": 85.66,
+   "p": 79.3,
+   "c": -5.34,
+   "a50": 85.65,
    "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.65,
-   "r": 42.4
+   "a20": 86.64,
+   "r": 42.1
   },
   {
    "s": "GC=F",
-   "p": 4162.5,
-   "c": 3.19,
-   "a50": 4183.42,
-   "a200": 4478.9,
+   "p": 4155.8,
+   "c": 3.03,
+   "a50": 4183.29,
+   "a200": 4478.86,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4061.97,
-   "r": 54.5
+   "a20": 4061.64,
+   "r": 54.1
   },
   {
    "s": "HG=F",
    "p": 6.65,
-   "c": 2.08,
+   "c": 2.14,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.4
+   "r": 65.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03087373,
-   "c": -0.31,
+   "c": -0.3,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040331.aspx"
   },
   {
-   "t": "Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms",
+   "t": "Stock market today: Nasdaq surges, Dow and S&P 500 trade at record highs amid US-Iran optimism, tech rally",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-nearly-30-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html"
   },
   {
    "t": "今彩539第115188期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "SpaceX Earnings Due. Fewer Falcon 9 Launches, Tesla Merger, Share Lockup In Focus.",
+   "t": "Abbott vs Danaher: Which Healthcare Stock Looks Better Positioned Following Earnings?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/spacex-earnings-elon-musk-starlink-starship-falcon9-launches-ai-tesla-spcx-stock-lockup/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/abbott-vs-danaher-healthcare-stock-165559358.html"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "Tesla's Wholesale Sales In China Grow For Ninth Month In A Row",
+   "t": "Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/tesla-china-elon-musk-electric-vehicle-sales-byd/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-nearly-30-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "What is whole life insurance? How it works.",
+   "t": "Apple vs. Alphabet: The $5 Trillion AI Bet That’s Renting, Not Building",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/what-is-whole-life-insurance-213448917.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-vs-alphabet-5-trillion-165422171.html"
   },
   {
    "t": "強化洗錢防制　國內虛擬貨幣轉帳新規10月上路",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040320.aspx"
   },
   {
-   "t": "Social Security is becoming the primary retirement plan for many Americans. But it's rarely enough money.",
+   "t": "Hormuz supply disruption reshapes economics for Dune Oil's Turkish oil block",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/social-security-is-becoming-the-primary-retirement-plan-for-many-americans-but-its-rarely-enough-money-161429269.html"
+   "u": "https://finance.yahoo.com/energy/articles/hormuz-supply-disruption-reshapes-economics-170000649.html"
   }
  ],
  "inst": {
