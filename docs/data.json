@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 04:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 04:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.47,
-   "c": 3.85,
+   "p": 16.42,
+   "c": 3.53,
    "a50": 17.35,
    "a200": 18.64,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.26,
-   "r": 46.8
+   "r": 46.6
   },
   {
    "s": "BZ=F",
-   "p": 79.21,
-   "c": -5.44,
-   "a50": 85.65,
+   "p": 78.89,
+   "c": -5.83,
+   "a50": 85.64,
    "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.64,
-   "r": 42.1
+   "a20": 86.62,
+   "r": 41.8
   },
   {
    "s": "GC=F",
-   "p": 4135.8,
-   "c": 2.53,
-   "a50": 4182.89,
-   "a200": 4478.76,
+   "p": 4136.4,
+   "c": 2.55,
+   "a50": 4182.9,
+   "a200": 4478.77,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4060.64,
+   "a20": 4060.67,
    "r": 52.8
   },
   {
    "s": "HG=F",
    "p": 6.63,
-   "c": 1.79,
+   "c": 1.78,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 64.7
+   "r": 64.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.0308642,
-   "c": -0.32,
+   "p": 0.03087373,
+   "c": -0.31,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040332.aspx"
   },
   {
-   "t": "Olix raises Europe's largest chip round at $3.3B valuation",
+   "t": "POWER Digest [August 2026]",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/olix-raises-europes-largest-chip-112147572.html"
+   "u": "https://finance.yahoo.com/energy/articles/power-digest-august-2026-113121749.html"
   },
   {
    "t": "台美集保結算機構合作　強化複委託交割安全及服務",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "POWER Digest [August 2026]",
+   "t": "Here’s What Magnificent 7 Earnings Tell Us About the AI Trade in 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/power-digest-august-2026-113121749.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/magnificent-7-earnings-tell-us-113002351.html"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "I thought I could afford my dream truck. Now I’m stuck paying $900 a month and can’t escape the payment",
+   "t": "Shell Sells European Onshore Renewables Portfolio to TotalEnergies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/thought-could-afford-dream-truck-111500310.html"
+   "u": "https://finance.yahoo.com/energy/articles/shell-sells-european-onshore-renewables-113000632.html"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "World’s Largest Energy Lender Steers Federal Financing Toward Baseload, Transmission, and Nuclear",
+   "t": "Is Clover Health Finally Turning the Corner?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/world-rsquo-largest-energy-lender-113140139.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/clover-health-finally-turning-corner-113030085.html"
   }
  ],
  "inst": {
