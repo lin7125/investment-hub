@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 22:15（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 22:25（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 305.8,
-   "c": 0.79,
-   "a50": 309.54,
-   "a200": 278.52,
+   "p": 306.7,
+   "c": 1.08,
+   "a50": 309.56,
+   "a200": 278.53,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.66,
-   "r": 42.2
+   "a20": 323.71,
+   "r": 42.8
   },
   {
    "s": "NVDA",
-   "p": 210.15,
-   "c": 1.7,
-   "a50": 205.65,
+   "p": 209.85,
+   "c": 1.55,
+   "a50": 205.64,
    "a200": 193.4,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 204.51,
-   "r": 55.7
+   "a20": 204.5,
+   "r": 55.5
   },
   {
    "s": "TSLA",
-   "p": 325.02,
-   "c": 0.91,
-   "a50": 387.0,
-   "a200": 410.51,
+   "p": 323.27,
+   "c": 0.37,
+   "a50": 386.97,
+   "a200": 410.5,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.15,
-   "r": 38.2
+   "a20": 355.06,
+   "r": 37.4
   },
   {
    "s": "META",
-   "p": 583.61,
-   "c": -1.12,
-   "a50": 601.41,
-   "a200": 633.23,
+   "p": 582.02,
+   "c": -1.39,
+   "a50": 601.38,
+   "a200": 633.22,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.7,
-   "r": 45.5
+   "a20": 618.62,
+   "r": 45.2
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7673.72,
-   "c": 0.96,
-   "a50": 7479.42,
-   "a200": 7033.9,
-   "yh": 7673.72,
+   "p": 7669.65,
+   "c": 0.91,
+   "a50": 7479.34,
+   "a200": 7033.88,
+   "yh": 7669.65,
    "yl": 6299.19,
-   "a20": 7492.8,
-   "r": 63.5
+   "a20": 7492.59,
+   "r": 63.3
   },
   {
    "s": "^VIX",
-   "p": 15.98,
-   "c": 0.76,
-   "a50": 17.34,
-   "a200": 18.63,
+   "p": 16.21,
+   "c": 2.21,
+   "a50": 17.35,
+   "a200": 18.64,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.23,
-   "r": 45.0
+   "a20": 17.25,
+   "r": 45.9
   },
   {
    "s": "BZ=F",
-   "p": 80.07,
-   "c": -4.42,
-   "a50": 85.67,
+   "p": 79.63,
+   "c": -4.94,
+   "a50": 85.66,
    "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.68,
-   "r": 42.8
+   "a20": 86.66,
+   "r": 42.4
   },
   {
    "s": "GC=F",
-   "p": 4146.0,
-   "c": 2.78,
-   "a50": 4183.09,
-   "a200": 4478.81,
+   "p": 4148.5,
+   "c": 2.85,
+   "a50": 4183.14,
+   "a200": 4478.83,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4061.15,
-   "r": 53.4
+   "a20": 4061.27,
+   "r": 53.6
   },
   {
    "s": "HG=F",
    "p": 6.66,
-   "c": 2.29,
+   "c": 2.16,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.66,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.9
+   "r": 65.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03090235,
-   "c": -0.2,
+   "p": 0.0308928,
+   "c": -0.24,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040311.aspx"
   },
   {
-   "t": "Stock market today: Dow and S&P 500 trade at record highs, Nasdaq rises on US-Iran optimism, earnings boost",
+   "t": "L&T-led consortium secures offshore project contract from ADNOC",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html"
+   "u": "https://finance.yahoo.com/energy/articles/l-t-led-consortium-secures-141029688.html"
   },
   {
    "t": "今彩539第115188期開獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040310.aspx"
   },
   {
-   "t": "Is It Too Late to Buy Navitas Semiconductor (NVTS) After a 6% Single-Day Pop?",
+   "t": "Yen intervention rattles Japan as global stocks barely notice: AlphaCheck",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/too-buy-navitas-semiconductor-nvts-140056159.html"
+   "u": "https://finance.yahoo.com/markets/article/yen-intervention-rattles-japan-as-global-stocks-barely-notice-alphacheck-140841053.html"
   },
   {
    "t": "南亞科晶豪科7月營收創新高　月增逾4成",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040300.aspx"
   },
   {
-   "t": "Airbus Partner Designing Starlab Space Station Soars 25% On Earnings",
+   "t": "Earnings live updates: Caterpillar stock surges 9% as AI build-out boosts power unit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/space-stock-voyager-airbus-starlab-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html"
   },
   {
    "t": "金管會核准台新銀併新光銀　國內204據點僅次合庫",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040298.aspx"
   },
   {
-   "t": "Bessent's call to upsize Fed foreign lending facility may not be risk-free",
+   "t": "Stock market today: Dow and S&P 500 trade at record highs, Nasdaq rises on US-Iran optimism, earnings boost",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/bessents-call-upsize-fed-foreign-135337321.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html"
   },
   {
    "t": "環球晶：客戶庫存健康　矽晶圓產能滿載",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040296.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Rallies On U.S.-Iran Hopes; Caterpillar, Palantir Soar On Earnings (Live Coverage)",
+   "t": "Airbus Partner Designing Starlab Space Station Soars 25% On Earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-caterpillar-palantir-spacex-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/space-stock-voyager-airbus-starlab-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "金管會：市場資訊沒蓋牌　拚9月底前推股市儀表板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040288.aspx"
   },
   {
-   "t": "Baron Capital Sees Years of Mid-Teens Growth for Intuitive Surgical (ISRG)",
+   "t": "Carpenter Technology (CRS) Q4 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/baron-capital-sees-years-mid-134545821.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/carpenter-technology-crs-q4-2026-140827786.html"
   }
  ],
  "inst": {
