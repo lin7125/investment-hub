@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 21:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 22:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,42 +212,42 @@
   },
   {
    "s": "AAPL",
-   "p": 304.36,
-   "c": 0.31,
-   "a50": 309.51,
-   "a200": 278.51,
+   "p": 304.72,
+   "c": 0.43,
+   "a50": 309.52,
+   "a200": 278.52,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.59,
-   "r": 41.1
+   "a20": 323.61,
+   "r": 41.3
   },
   {
    "s": "NVDA",
-   "p": 210.82,
-   "c": 2.02,
-   "a50": 205.66,
+   "p": 209.95,
+   "c": 1.6,
+   "a50": 205.65,
    "a200": 193.4,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 204.55,
-   "r": 56.2
+   "a20": 204.5,
+   "r": 55.6
   },
   {
    "s": "TSLA",
-   "p": 322.81,
-   "c": 0.23,
-   "a50": 386.96,
-   "a200": 410.5,
+   "p": 323.41,
+   "c": 0.41,
+   "a50": 386.97,
+   "a200": 410.51,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.04,
-   "r": 37.2
+   "a20": 355.07,
+   "r": 37.4
   },
   {
    "s": "META",
-   "p": 584.83,
-   "c": -0.92,
-   "a50": 601.44,
+   "p": 584.72,
+   "c": -0.94,
+   "a50": 601.43,
    "a200": 633.23,
    "yh": 790.0,
    "yl": 525.72,
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7658.99,
-   "c": 0.77,
-   "a50": 7479.13,
-   "a200": 7033.83,
-   "yh": 7658.99,
+   "p": 7664.02,
+   "c": 0.84,
+   "a50": 7479.23,
+   "a200": 7033.85,
+   "yh": 7664.02,
    "yl": 6299.19,
-   "a20": 7492.06,
-   "r": 62.8
+   "a20": 7492.31,
+   "r": 63.1
   },
   {
    "s": "^VIX",
-   "p": 15.77,
-   "c": -0.57,
-   "a50": 17.34,
+   "p": 16.01,
+   "c": 0.95,
+   "a50": 17.35,
    "a200": 18.63,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.22,
-   "r": 44.3
+   "a20": 17.24,
+   "r": 45.1
   },
   {
    "s": "BZ=F",
-   "p": 80.19,
-   "c": -4.27,
-   "a50": 85.67,
+   "p": 79.75,
+   "c": -4.8,
+   "a50": 85.66,
    "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.69,
-   "r": 43.0
+   "a20": 86.66,
+   "r": 42.5
   },
   {
    "s": "GC=F",
-   "p": 4140.4,
-   "c": 2.65,
-   "a50": 4182.98,
-   "a200": 4478.79,
+   "p": 4143.3,
+   "c": 2.72,
+   "a50": 4183.04,
+   "a200": 4478.8,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4060.87,
-   "r": 53.1
+   "a20": 4061.01,
+   "r": 53.3
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 2.0,
+   "p": 6.65,
+   "c": 2.08,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.2
+   "r": 65.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03090235,
-   "c": -0.2,
+   "c": -0.19,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040311.aspx"
   },
   {
-   "t": "Fed's Paulson keeps 'open mind' on rate policy outlook amid high inflation",
+   "t": "Bessent's call to upsize Fed foreign lending facility may not be risk-free",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/feds-paulson-keeps-open-mind-120134252.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/bessents-call-upsize-fed-foreign-135337321.html"
   },
   {
    "t": "今彩539第115188期開獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040310.aspx"
   },
   {
-   "t": "Stock market today: Dow and S&P 500 trade at record highs, Nasdaq rises on US-Iran optimism, earnings boost",
+   "t": "Brewery numbers in Germany drop again in 2025",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html"
+   "u": "https://finance.yahoo.com/economy/articles/brewery-numbers-germany-drop-again-134650916.html"
   },
   {
    "t": "南亞科晶豪科7月營收創新高　月增逾4成",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040300.aspx"
   },
   {
-   "t": "Snap stock jumps 6% on improved advertising, World Cup boost",
+   "t": "Baron Capital Sees Years of Mid-Teens Growth for Intuitive Surgical (ISRG)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/snap-stock-jumps-6-on-improved-advertising-world-cup-boost-130259116.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/baron-capital-sees-years-mid-134545821.html"
   },
   {
    "t": "金管會核准台新銀併新光銀　國內204據點僅次合庫",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040298.aspx"
   },
   {
-   "t": "Caterpillar stock pops 10% on record quarterly revenue",
+   "t": "Here's Why SpaceX Earnings Could Affect Tesla Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/caterpillar-stock-pops-10-on-record-quarterly-revenue-120556209.html"
+   "u": "https://www.investors.com/news/spacex-earnings-tesla-elon-musk-tech-space/?src=A00220&yptr=yahoo"
   },
   {
    "t": "環球晶：客戶庫存健康　矽晶圓產能滿載",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040296.aspx"
   },
   {
-   "t": "Spotify stock sinks as streaming giant's monthly active users forecast misses estimates",
+   "t": "Fed's Paulson keeps 'open mind' on rate policy outlook amid high inflation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/spotify-stock-sinks-as-streaming-giants-monthly-active-users-forecast-misses-estimates-133728671.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/feds-paulson-keeps-open-mind-120134252.html"
   },
   {
    "t": "金管會：市場資訊沒蓋牌　拚9月底前推股市儀表板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040288.aspx"
   },
   {
-   "t": "Palantir stock jumps after 'otherworldly' quarter as US commercial business booms",
+   "t": "Stock market today: Dow and S&P 500 trade at record highs, Nasdaq rises on US-Iran optimism, earnings boost",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html"
   }
  ],
  "inst": {
