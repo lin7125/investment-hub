@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 21:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 21:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 15.59,
-   "c": -1.7,
+   "p": 15.56,
+   "c": -1.89,
    "a50": 17.34,
    "a200": 18.63,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.21,
-   "r": 43.8
+   "r": 43.7
   },
   {
    "s": "BZ=F",
-   "p": 81.57,
-   "c": -2.63,
-   "a50": 85.7,
+   "p": 81.52,
+   "c": -2.69,
+   "a50": 85.69,
    "a200": 80.85,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 86.75,
-   "r": 44.3
+   "r": 44.2
   },
   {
    "s": "GC=F",
-   "p": 4123.8,
-   "c": 2.23,
-   "a50": 4182.65,
-   "a200": 4478.7,
+   "p": 4119.2,
+   "c": 2.12,
+   "a50": 4182.56,
+   "a200": 4478.68,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4060.04,
-   "r": 51.9
+   "a20": 4059.81,
+   "r": 51.6
   },
   {
    "s": "HG=F",
    "p": 6.64,
-   "c": 1.93,
+   "c": 1.94,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.0308642,
-   "c": -0.32,
+   "p": 0.03087373,
+   "c": -0.29,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040311.aspx"
   },
   {
-   "t": "Trader Joe's has one advantage over Walmart and Target",
+   "t": "Crown Labels boosts digital press capacity with Domino",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/trader-joes-one-advantage-over-003700727.html"
+   "u": "https://finance.yahoo.com/small-business/articles/crown-labels-boosts-digital-press-131031315.html"
   },
   {
    "t": "今彩539第115188期開獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040310.aspx"
   },
   {
-   "t": "Tech stocks today: SpaceX, AMD to report earnings after the bell",
+   "t": "Snap Stock Gets Boost After Q2 Report. Why Results Are 'Step In Right Direction'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html"
+   "u": "https://www.investors.com/news/technology/snap-stock-q2-2026-earnings-snapchat/?src=A00220&yptr=yahoo"
   },
   {
    "t": "南亞科晶豪科7月營收創新高　月增逾4成",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040300.aspx"
   },
   {
-   "t": "Here's Why SpaceX Earnings Could Affect Tesla Stock",
+   "t": "Pfizer Hikes 2026 Sales Outlook By $500 Million On Second-Quarter Beat",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/spacex-earnings-tesla-elon-musk-tech-space/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/pfizer-stock-pfizer-earnings-q2-2026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "金管會核准台新銀併新光銀　國內204據點僅次合庫",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040298.aspx"
   },
   {
-   "t": "AMD to report Q2 earnings as chip stocks continue to waver",
+   "t": "Stock Market Today: Dow Rallies As Caterpillar, Palantir Soar On Earnings; SpaceX Earnings Next (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-caterpillar-palantir-spacex-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "環球晶：客戶庫存健康　矽晶圓產能滿載",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040296.aspx"
   },
   {
-   "t": "Caterpillar lifts 2026 sales growth forecast as AI buildout powers on",
+   "t": "Snap stock jumps 6% on improved advertising, World Cup boost",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-lifts-2026-sales-growth-115130477.html"
+   "u": "https://finance.yahoo.com/markets/article/snap-stock-jumps-6-on-improved-advertising-world-cup-boost-130259116.html"
   },
   {
    "t": "金管會：市場資訊沒蓋牌　拚9月底前推股市儀表板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040288.aspx"
   },
   {
-   "t": "Italy’s Largest Bank Cuts BlackRock Bitcoin ETF Stake 94%: Rotation to Ethereum?",
+   "t": "Reddit on Reddit: Why Retail Traders Are Split on the Stock Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/italy-largest-bank-cuts-blackrock-124950465.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/reddit-reddit-why-retail-traders-130550750.html"
   }
  ],
  "inst": {
