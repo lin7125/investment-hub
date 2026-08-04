@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 22:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 22:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 305.67,
-   "c": 0.74,
+   "p": 306.06,
+   "c": 0.87,
    "a50": 309.54,
    "a200": 278.52,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.66,
-   "r": 42.1
+   "a20": 323.68,
+   "r": 42.3
   },
   {
    "s": "NVDA",
-   "p": 210.26,
-   "c": 1.75,
-   "a50": 205.65,
-   "a200": 193.4,
+   "p": 209.56,
+   "c": 1.41,
+   "a50": 205.64,
+   "a200": 193.39,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 204.52,
-   "r": 55.8
+   "a20": 204.48,
+   "r": 55.3
   },
   {
    "s": "TSLA",
-   "p": 323.77,
-   "c": 0.52,
+   "p": 323.89,
+   "c": 0.56,
    "a50": 386.98,
    "a200": 410.51,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.09,
-   "r": 37.6
+   "a20": 355.1,
+   "r": 37.7
   },
   {
    "s": "META",
-   "p": 582.55,
-   "c": -1.3,
+   "p": 582.38,
+   "c": -1.33,
    "a50": 601.39,
    "a200": 633.22,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.65,
+   "a20": 618.64,
    "r": 45.3
   },
   {
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7681.2,
-   "c": 1.06,
-   "a50": 7479.57,
-   "a200": 7033.94,
-   "yh": 7681.2,
+   "p": 7684.89,
+   "c": 1.11,
+   "a50": 7479.64,
+   "a200": 7033.96,
+   "yh": 7684.89,
    "yl": 6299.19,
-   "a20": 7493.17,
-   "r": 63.9
+   "a20": 7493.35,
+   "r": 64.1
   },
   {
    "s": "^VIX",
-   "p": 15.8,
-   "c": -0.38,
+   "p": 15.79,
+   "c": -0.44,
    "a50": 17.34,
    "a200": 18.63,
    "yh": 31.05,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 80.43,
-   "c": -3.99,
+   "p": 80.47,
+   "c": -3.94,
    "a50": 85.67,
    "a200": 80.85,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4135.8,
-   "c": 2.53,
-   "a50": 4182.89,
-   "a200": 4478.76,
+   "p": 4137.5,
+   "c": 2.57,
+   "a50": 4182.92,
+   "a200": 4478.77,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4060.64,
-   "r": 52.8
+   "a20": 4060.72,
+   "r": 52.9
   },
   {
    "s": "HG=F",
    "p": 6.65,
-   "c": 2.16,
+   "c": 2.07,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.6
+   "r": 65.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03088326,
-   "c": -0.25,
+   "p": 0.03087373,
+   "c": -0.3,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040332.aspx"
   },
   {
-   "t": "CNX Resources (CNX) Q2 2026 Earnings Call Transcript",
+   "t": "Is Walmart a good long-term investment? Its buy-and-hold prospects explained",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cnx-resources-cnx-q2-2026-143537991.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-good-long-term-investment-144300604.html"
   },
   {
    "t": "台美集保結算機構合作　強化複委託交割安全及服務",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "Stock market today: Dow and S&P 500 trade at record highs, Nasdaq rises on US-Iran optimism, earnings boost",
+   "t": "Clarity Act May Get A Pre-Recess Vote; ARK Makes Crypto Buys",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html"
+   "u": "https://www.investors.com/news/clarity-act-senate-vote-recess-cathie-wood-ark-coinbase-circle-cryptocurrency-bitcoin/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "Dave Ramsey says this 'really, extremely' stupid purchase is the No. 1 thing new college graduates get wrong",
+   "t": "Stock market today: Dow and S&P 500 trade at record highs, Nasdaq rises on US-Iran optimism, earnings boost",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-says-really-extremely-143000623.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "McDonald's names new US head as sales growth slows in Q2",
+   "t": "Dave Ramsey says this 'really, extremely' stupid purchase is the No. 1 thing new college graduates get wrong",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-names-new-us-head-as-sales-growth-slows-in-q2-194507295.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-says-really-extremely-143000623.html"
   },
   {
    "t": "強化洗錢防制　國內虛擬貨幣轉帳新規10月上路",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040320.aspx"
   },
   {
-   "t": "Baron Capital Added to Mettler-Toledo (MTD) After Its Sharp Decline",
+   "t": "Ignite Specialty Risk launches Australian operations",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/baron-capital-added-mettler-toledo-142655909.html"
+   "u": "https://finance.yahoo.com/small-business/articles/ignite-specialty-risk-launches-australian-144158784.html"
   }
  ],
  "inst": {
