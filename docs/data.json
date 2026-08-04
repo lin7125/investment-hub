@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 20:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 21:03（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.62,
-   "c": -1.51,
+   "p": 15.61,
+   "c": -1.58,
    "a50": 17.34,
    "a200": 18.63,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.22,
-   "r": 43.9
+   "r": 43.8
   },
   {
    "s": "BZ=F",
-   "p": 81.9,
-   "c": -2.23,
-   "a50": 85.7,
+   "p": 81.4,
+   "c": -2.83,
+   "a50": 85.69,
    "a200": 80.85,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.77,
-   "r": 44.6
+   "a20": 86.75,
+   "r": 44.1
   },
   {
    "s": "GC=F",
-   "p": 4139.7,
-   "c": 2.63,
-   "a50": 4182.97,
-   "a200": 4478.78,
+   "p": 4131.0,
+   "c": 2.41,
+   "a50": 4182.79,
+   "a200": 4478.74,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4060.83,
-   "r": 53.0
+   "a20": 4060.4,
+   "r": 52.4
   },
   {
    "s": "HG=F",
-   "p": 6.67,
-   "c": 2.36,
+   "p": 6.65,
+   "c": 2.06,
    "a50": 6.32,
    "a200": 5.81,
-   "yh": 6.67,
+   "yh": 6.65,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 66.0
+   "r": 65.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03087373,
-   "c": -0.31,
+   "p": 0.0308642,
+   "c": -0.32,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040244.aspx"
   },
   {
-   "t": "Apollo’s Private-Equity Business Delivers Weak Results",
+   "t": "WeRide enters Nordic region via GreenMobility partnership",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/livecoverage/stock-market-today-spacex-earnings-08-04-2026/card/apollo-s-private-equity-business-delivers-weak-results-tfd2E5Xp5cAkWeqUxB79?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/ai/articles/weride-enters-nordic-region-via-124741386.html"
   }
  ],
  "inst": {
