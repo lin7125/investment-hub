@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 00:45（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 00:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 307.7,
-   "c": 1.41,
-   "a50": 309.58,
+   "p": 308.32,
+   "c": 1.61,
+   "a50": 309.59,
    "a200": 278.53,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.76,
-   "r": 43.5
+   "a20": 323.79,
+   "r": 44.0
   },
   {
    "s": "NVDA",
-   "p": 210.49,
-   "c": 1.86,
+   "p": 210.69,
+   "c": 1.96,
    "a50": 205.66,
    "a200": 193.4,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 204.53,
-   "r": 55.9
+   "a20": 204.54,
+   "r": 56.1
   },
   {
    "s": "TSLA",
-   "p": 324.84,
-   "c": 0.86,
+   "p": 325.0,
+   "c": 0.91,
    "a50": 387.0,
    "a200": 410.51,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.14,
-   "r": 38.1
+   "a20": 355.15,
+   "r": 38.2
   },
   {
    "s": "META",
-   "p": 579.01,
-   "c": -1.9,
-   "a50": 601.32,
-   "a200": 633.2,
+   "p": 581.01,
+   "c": -1.56,
+   "a50": 601.36,
+   "a200": 633.21,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.47,
-   "r": 44.6
+   "a20": 618.57,
+   "r": 45.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7723.63,
-   "c": 1.62,
-   "a50": 7480.42,
-   "a200": 7034.15,
-   "yh": 7723.63,
+   "p": 7726.17,
+   "c": 1.65,
+   "a50": 7480.47,
+   "a200": 7034.16,
+   "yh": 7726.17,
    "yl": 6299.19,
-   "a20": 7495.29,
-   "r": 65.7
+   "a20": 7495.42,
+   "r": 65.9
   },
   {
    "s": "^VIX",
-   "p": 16.17,
-   "c": 1.95,
+   "p": 16.18,
+   "c": 2.02,
    "a50": 17.35,
    "a200": 18.63,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.24,
-   "r": 45.7
+   "r": 45.8
   },
   {
    "s": "BZ=F",
-   "p": 79.65,
-   "c": -4.92,
+   "p": 79.57,
+   "c": -5.01,
    "a50": 85.66,
    "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.66,
-   "r": 42.5
+   "a20": 86.65,
+   "r": 42.4
   },
   {
    "s": "GC=F",
-   "p": 4145.0,
-   "c": 2.76,
-   "a50": 4183.07,
+   "p": 4146.0,
+   "c": 2.78,
+   "a50": 4183.09,
    "a200": 4478.81,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4061.1,
+   "a20": 4061.15,
    "r": 53.4
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 1.96,
+   "p": 6.65,
+   "c": 2.12,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.2
+   "r": 65.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03087373,
-   "c": -0.31,
+   "p": 0.03088326,
+   "c": -0.27,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040331.aspx"
   },
   {
-   "t": "'Several steps ahead': Why Palantir stock is surging",
+   "t": "What is whole life insurance? How it works.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/several-steps-ahead-why-palantir-stock-is-surging-162224977.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/what-is-whole-life-insurance-213448917.html"
   },
   {
    "t": "今彩539第115188期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "Is Elevance Health (ELV) Entering a Major Earnings Recovery?",
+   "t": "Social Security is becoming the primary retirement plan for many Americans. But it's rarely enough money.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/elevance-health-elv-entering-major-162157370.html"
+   "u": "https://finance.yahoo.com/economy/article/social-security-is-becoming-the-primary-retirement-plan-for-many-americans-but-its-rarely-enough-money-161429269.html"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "Is Lockheed Martin (LMT) a Buying Opportunity After Its 16% Drop?",
+   "t": "Markets see 'all hat, no cattle' in Fed's inflation credibility: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-buying-opportunity-161911062.html"
+   "u": "https://finance.yahoo.com/markets/article/markets-see-all-hat-no-cattle-in-feds-inflation-credibility-chart-of-the-day-164028370.html"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "Is Intercontinental Exchange (ICE) a Buying Opportunity After Its 22% Drop?",
+   "t": "US consumer watchdog supervisor warned staff of 'unpleasant' fallout if they go too hard on firms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-buying-opportunity-161648534.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/exclusive-us-consumer-watchdog-supervisor-101451547.html"
   },
   {
    "t": "強化洗錢防制　國內虛擬貨幣轉帳新規10月上路",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040320.aspx"
   },
   {
-   "t": "These 3 Chip Stocks Could Be Entering a New Growth Cycle",
+   "t": "Is United Parcel Service (UPS) the Best Dividend Stock in the Industrial Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/3-chip-stocks-could-entering-163001257.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-best-dividend-164000203.html"
   }
  ],
  "inst": {
