@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 22:56（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 23:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 209.56,
-   "c": 1.41,
+   "p": 209.84,
+   "c": 1.55,
    "a50": 205.64,
-   "a200": 193.39,
+   "a200": 193.4,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 204.48,
-   "r": 55.3
+   "a20": 204.5,
+   "r": 55.5
   },
   {
    "s": "TSLA",
-   "p": 323.89,
-   "c": 0.56,
+   "p": 324.17,
+   "c": 0.65,
    "a50": 386.98,
    "a200": 410.51,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.1,
-   "r": 37.7
+   "a20": 355.11,
+   "r": 37.8
   },
   {
    "s": "META",
-   "p": 582.38,
-   "c": -1.33,
-   "a50": 601.39,
-   "a200": 633.22,
+   "p": 581.3,
+   "c": -1.51,
+   "a50": 601.37,
+   "a200": 633.21,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.64,
-   "r": 45.3
+   "a20": 618.59,
+   "r": 45.1
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7684.89,
-   "c": 1.11,
-   "a50": 7479.64,
-   "a200": 7033.96,
-   "yh": 7684.89,
+   "p": 7691.21,
+   "c": 1.19,
+   "a50": 7479.77,
+   "a200": 7033.99,
+   "yh": 7691.21,
    "yl": 6299.19,
-   "a20": 7493.35,
-   "r": 64.1
+   "a20": 7493.67,
+   "r": 64.3
   },
   {
    "s": "^VIX",
-   "p": 15.79,
-   "c": -0.44,
+   "p": 15.93,
+   "c": 0.44,
    "a50": 17.34,
    "a200": 18.63,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.22,
-   "r": 44.4
+   "a20": 17.23,
+   "r": 44.8
   },
   {
    "s": "BZ=F",
-   "p": 80.47,
-   "c": -3.94,
+   "p": 80.54,
+   "c": -3.86,
    "a50": 85.67,
    "a200": 80.85,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 86.7,
-   "r": 43.2
+   "r": 43.3
   },
   {
    "s": "GC=F",
-   "p": 4137.5,
-   "c": 2.57,
-   "a50": 4182.92,
-   "a200": 4478.77,
+   "p": 4140.3,
+   "c": 2.64,
+   "a50": 4182.98,
+   "a200": 4478.79,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4060.72,
-   "r": 52.9
+   "a20": 4060.86,
+   "r": 53.1
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 2.07,
+   "p": 6.66,
+   "c": 2.21,
    "a50": 6.32,
    "a200": 5.81,
-   "yh": 6.65,
+   "yh": 6.66,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.4
+   "r": 65.7
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040332.aspx"
   },
   {
-   "t": "Is Walmart a good long-term investment? Its buy-and-hold prospects explained",
+   "t": "Sandisk Jumps 8%, Micron Gains 6%, SK Hynix Climbs 4% as Wall Street Hikes Price Targets on AI Memory Boom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-good-long-term-investment-144300604.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sandisk-jumps-8-micron-gains-145231594.html"
   },
   {
    "t": "台美集保結算機構合作　強化複委託交割安全及服務",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040331.aspx"
   },
   {
-   "t": "Caterpillar stock pops on record quarterly revenue",
+   "t": "Declining imports compress US trade deficit in June",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/caterpillar-stock-pops-on-record-quarterly-revenue-120556209.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/declining-imports-compress-us-trade-143811299.html"
   },
   {
    "t": "今彩539第115188期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "Clarity Act May Get A Pre-Recess Vote; ARK Makes Crypto Buys",
+   "t": "Strategy Sold Some Bitcoin…Again",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/clarity-act-senate-vote-recess-cathie-wood-ark-coinbase-circle-cryptocurrency-bitcoin/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-sold-bitcoin-again-144320748.html"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "Stock market today: Dow and S&P 500 trade at record highs, Nasdaq rises on US-Iran optimism, earnings boost",
+   "t": "Caterpillar stock pops on record quarterly revenue",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/caterpillar-stock-pops-on-record-quarterly-revenue-120556209.html"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "Dave Ramsey says this 'really, extremely' stupid purchase is the No. 1 thing new college graduates get wrong",
+   "t": "Clarity Act May Get A Pre-Recess Vote; ARK Makes Crypto Buys",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-says-really-extremely-143000623.html"
+   "u": "https://www.investors.com/news/clarity-act-senate-vote-recess-cathie-wood-ark-coinbase-circle-cryptocurrency-bitcoin/?src=A00220&yptr=yahoo"
   },
   {
    "t": "強化洗錢防制　國內虛擬貨幣轉帳新規10月上路",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040320.aspx"
   },
   {
-   "t": "Ignite Specialty Risk launches Australian operations",
+   "t": "If a Bear Market Is Coming in 2026, Here's 1 ETF That History Says Has Never Let Investors Down",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/ignite-specialty-risk-launches-australian-144158784.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-2026-heres-145000669.html"
   }
  ],
  "inst": {
