@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 02:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 02:59（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 309.06,
-   "c": 1.86,
-   "a50": 309.6,
-   "a200": 278.54,
+   "p": 308.54,
+   "c": 1.69,
+   "a50": 309.59,
+   "a200": 278.53,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.83,
-   "r": 44.5
+   "a20": 323.8,
+   "r": 44.1
   },
   {
    "s": "NVDA",
-   "p": 212.72,
-   "c": 2.94,
-   "a50": 205.7,
+   "p": 212.91,
+   "c": 3.04,
+   "a50": 205.71,
    "a200": 193.41,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 204.64,
-   "r": 57.4
+   "a20": 204.65,
+   "r": 57.6
   },
   {
    "s": "TSLA",
-   "p": 328.42,
-   "c": 1.97,
-   "a50": 387.07,
+   "p": 328.08,
+   "c": 1.86,
+   "a50": 387.06,
    "a200": 410.53,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.32,
-   "r": 39.7
+   "a20": 355.3,
+   "r": 39.5
   },
   {
    "s": "META",
-   "p": 588.77,
-   "c": -0.25,
-   "a50": 601.52,
+   "p": 588.42,
+   "c": -0.31,
+   "a50": 601.51,
    "a200": 633.25,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.96,
+   "a20": 618.94,
    "r": 46.6
   },
   {
@@ -267,40 +267,40 @@
   },
   {
    "s": "^GSPC",
-   "p": 7746.25,
-   "c": 1.92,
-   "a50": 7480.87,
-   "a200": 7034.26,
-   "yh": 7746.25,
+   "p": 7743.98,
+   "c": 1.89,
+   "a50": 7480.83,
+   "a200": 7034.25,
+   "yh": 7743.98,
    "yl": 6299.19,
-   "a20": 7496.42,
-   "r": 66.7
+   "a20": 7496.31,
+   "r": 66.6
   },
   {
    "s": "^VIX",
-   "p": 16.53,
-   "c": 4.22,
-   "a50": 17.36,
+   "p": 16.4,
+   "c": 3.4,
+   "a50": 17.35,
    "a200": 18.64,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.26,
-   "r": 47.0
+   "a20": 17.25,
+   "r": 46.6
   },
   {
    "s": "BZ=F",
-   "p": 79.59,
-   "c": -4.99,
-   "a50": 85.66,
+   "p": 79.45,
+   "c": -5.16,
+   "a50": 85.65,
    "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.66,
-   "r": 42.4
+   "a20": 86.65,
+   "r": 42.3
   },
   {
    "s": "GC=F",
-   "p": 4136.5,
+   "p": 4136.4,
    "c": 2.55,
    "a50": 4182.9,
    "a200": 4478.77,
@@ -311,19 +311,19 @@
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 1.87,
+   "p": 6.63,
+   "c": 1.81,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.0
+   "r": 64.9
   },
   {
    "s": "TWDUSD",
    "p": 0.0308642,
-   "c": -0.34,
+   "c": -0.33,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040331.aspx"
   },
   {
-   "t": "BP Completes Sale of German Refinery as Portfolio Overhaul Accelerates",
+   "t": "Gen Z is taking job interviews on their phones — hiring managers call it 'incredibly disrespectful.' What to do instead",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/bp-completes-sale-german-refinery-093000417.html"
+   "u": "https://finance.yahoo.com/small-business/articles/gen-z-taking-job-interviews-093000418.html"
   },
   {
    "t": "今彩539第115188期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "Gen Z is taking job interviews on their phones — hiring managers call it 'incredibly disrespectful.' What to do instead",
+   "t": "BP Completes Sale of German Refinery as Portfolio Overhaul Accelerates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/gen-z-taking-job-interviews-093000418.html"
+   "u": "https://finance.yahoo.com/energy/articles/bp-completes-sale-german-refinery-093000417.html"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "India proposes extending tax breaks for contract manufacturing in a boost for Apple",
+   "t": "Best CD rates today, Monday, August 3, 2026: Lock in up to 4.10% APY",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/india-proposes-extending-tax-breaks-092049397.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-3-2026-lock-in-up-to-410-apy-100000001.html"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "If I Had $1,000 to Invest Today, Here's the Trillion-Dollar Stock I'd Buy Instead of SpaceX",
+   "t": "Visa loses bid to dismiss porn lawsuit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/had-1-000-invest-today-093500140.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/visa-loses-bid-dismiss-porn-094150818.html"
   }
  ],
  "inst": {
