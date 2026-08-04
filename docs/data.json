@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 23:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 23:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.28,
-   "c": 0.94,
+   "p": 306.34,
+   "c": 0.96,
    "a50": 309.55,
    "a200": 278.52,
    "yh": 340.08,
    "yl": 202.92,
    "a20": 323.69,
-   "r": 42.5
+   "r": 42.6
   },
   {
    "s": "NVDA",
-   "p": 210.06,
-   "c": 1.66,
+   "p": 210.09,
+   "c": 1.67,
    "a50": 205.65,
    "a200": 193.4,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 204.51,
-   "r": 55.6
+   "r": 55.7
   },
   {
    "s": "TSLA",
-   "p": 324.42,
-   "c": 0.73,
-   "a50": 386.99,
+   "p": 324.14,
+   "c": 0.64,
+   "a50": 386.98,
    "a200": 410.51,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.12,
-   "r": 37.9
+   "a20": 355.11,
+   "r": 37.8
   },
   {
    "s": "META",
-   "p": 581.66,
-   "c": -1.45,
-   "a50": 601.37,
+   "p": 583.1,
+   "c": -1.21,
+   "a50": 601.4,
    "a200": 633.22,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.6,
-   "r": 45.1
+   "a20": 618.68,
+   "r": 45.4
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7696.55,
-   "c": 1.26,
-   "a50": 7479.88,
-   "a200": 7034.02,
-   "yh": 7696.55,
+   "p": 7702.09,
+   "c": 1.34,
+   "a50": 7479.99,
+   "a200": 7034.04,
+   "yh": 7702.09,
    "yl": 6299.19,
-   "a20": 7493.94,
-   "r": 64.6
+   "a20": 7494.21,
+   "r": 64.8
   },
   {
    "s": "^VIX",
-   "p": 15.91,
-   "c": 0.32,
-   "a50": 17.34,
+   "p": 16.12,
+   "c": 1.64,
+   "a50": 17.35,
    "a200": 18.63,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.23,
-   "r": 44.8
+   "a20": 17.24,
+   "r": 45.6
   },
   {
    "s": "BZ=F",
-   "p": 80.76,
-   "c": -3.59,
-   "a50": 85.68,
+   "p": 80.43,
+   "c": -3.99,
+   "a50": 85.67,
    "a200": 80.85,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.71,
-   "r": 43.5
+   "a20": 86.7,
+   "r": 43.2
   },
   {
    "s": "GC=F",
-   "p": 4138.8,
-   "c": 2.61,
-   "a50": 4182.95,
-   "a200": 4478.78,
+   "p": 4136.4,
+   "c": 2.55,
+   "a50": 4182.9,
+   "a200": 4478.77,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4060.79,
-   "r": 53.0
+   "a20": 4060.67,
+   "r": 52.8
   },
   {
    "s": "HG=F",
    "p": 6.66,
-   "c": 2.27,
+   "c": 2.2,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.66,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.8
+   "r": 65.7
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040332.aspx"
   },
   {
-   "t": "Antea adds member companies across key markets in 2025",
+   "t": "Tech stocks today: SpaceX, AMD to report earnings after the bell",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/antea-adds-member-companies-across-150458926.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html"
   },
   {
    "t": "台美集保結算機構合作　強化複委託交割安全及服務",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040331.aspx"
   },
   {
-   "t": "What is life insurance? How it works.",
+   "t": "I Ranked Big Tech's AI Spending Four Ways. The Order Never Changed.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/what-is-life-insurance-200844307.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ranked-big-techs-ai-spending-151700234.html"
   },
   {
    "t": "今彩539第115188期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "Declining imports compress US trade deficit in June",
+   "t": "Is Eli Lilly (LLY) Still the Undisputed Leader in the $150 Billion Obesity Drug Market?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/declining-imports-compress-us-trade-143811299.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-still-undisputed-151506170.html"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "Strategy Sold Some Bitcoin…Again",
+   "t": "Oracle vs Amazon: Wall Street Strategist Picks the AI Trade’s Winner and Loser",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-sold-bitcoin-again-144320748.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-amazon-wall-street-151237367.html"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "Caterpillar stock pops on record quarterly revenue",
+   "t": "Merck posts better-than-expected second-quarter results on Keytruda strength",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/caterpillar-stock-pops-on-record-quarterly-revenue-120556209.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/merck-posts-better-expected-second-103550497.html"
   },
   {
    "t": "強化洗錢防制　國內虛擬貨幣轉帳新規10月上路",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040320.aspx"
   },
   {
-   "t": "Clarity Act May Get A Pre-Recess Vote; ARK Makes Crypto Buys",
+   "t": "Veradermics (MANE) Positioned to Disrupt Hair Loss Market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/clarity-act-senate-vote-recess-cathie-wood-ark-coinbase-circle-cryptocurrency-bitcoin/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/veradermics-mane-positioned-disrupt-hair-150841580.html"
   }
  ],
  "inst": {
