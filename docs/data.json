@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 08:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 08:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 84.14,
-   "c": -6.64,
-   "a50": 86.12,
+   "p": 84.33,
+   "c": -6.42,
+   "a50": 86.13,
    "a200": 80.76,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.4,
-   "r": 46.9
+   "a20": 86.41,
+   "r": 47.1
   },
   {
    "s": "GC=F",
-   "p": 4122.3,
-   "c": 1.81,
-   "a50": 4192.74,
-   "a200": 4479.41,
+   "p": 4118.7,
+   "c": 1.72,
+   "a50": 4192.67,
+   "a200": 4479.39,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4065.54,
-   "r": 51.4
+   "a20": 4065.36,
+   "r": 51.1
   },
   {
    "s": "HG=F",
    "p": 6.56,
-   "c": 1.95,
+   "c": 1.86,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.32,
-   "r": 62.2
+   "r": 62.0
   },
   {
    "s": "TWDUSD",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "川普稱與伊朗談判　美股勁揚道瓊指數收盤創新高",
+   "t": "美股道瓊指數寫歷史新高　一掃科技股不安氣氛",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040012.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608040014.aspx"
   },
   {
    "t": "Warren Buffett keeps pointing at the same ETF for a reason",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-keeps-pointing-same-160300409.html"
   },
   {
-   "t": "美伊釋出荷莫茲海峽正向信號　油價下滑",
+   "t": "川普稱與伊朗談判　美股勁揚道瓊指數收盤創新高",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040010.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608040012.aspx"
   },
   {
    "t": "Cathie Wood sells $5.5 million of surging tech stock",
@@ -356,16 +356,28 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-5-5-163300469.html"
   },
   {
+   "t": "美伊釋出荷莫茲海峽正向信號　油價下滑",
+   "pub": "中央社財經",
+   "d": "2026-08-04",
+   "u": "https://www.cna.com.tw/news/afe/202608040010.aspx"
+  },
+  {
+   "t": "Wedbush Flags Near-Term Risks From Nvidia’s Alleged OpenAI Data Center Support",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/technology/ai/articles/wedbush-flags-near-term-risks-130002595.html"
+  },
+  {
    "t": "市場重燃希望盼中東戰事結束　歐股大多收漲",
    "pub": "中央社財經",
    "d": "2026-08-04",
    "u": "https://www.cna.com.tw/news/afe/202608040002.aspx"
   },
   {
-   "t": "3 brilliant quotes on the challenge of valuing companies",
+   "t": "Seagate Rallies on Strong Q4 Results and Guidance. What Does This Mean for STX Stock Here.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/3-brilliant-quotes-on-the-challenge-of-valuing-companies-123224694.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/seagate-rallies-strong-q4-results-130002827.html"
   },
   {
    "t": "亞馬遜早盤股價續漲　市值首度突破3兆美元",
@@ -374,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608030315.aspx"
   },
   {
-   "t": "South Dakota couple built a 3,600 sq. ft. home for $410,000 — but 3 advantages helped make it possible",
+   "t": "Apple Delivers Strong Free Cash Flow, But What is the Best AAPL Play?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/south-dakota-couple-built-3-123000126.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-delivers-strong-free-cash-130002188.html"
   },
   {
    "t": "SpaceX首份財報將出爐　馬斯克AI支出引華爾街關注",
@@ -386,22 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608030309.aspx"
   },
   {
-   "t": "55% of Americans say their finances are getting worse — here's how to budget when your income changes every month",
+   "t": "3 brilliant quotes on the challenge of valuing companies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/55-americans-finances-getting-worse-123000953.html"
-  },
-  {
-   "t": "今彩539第115187期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-08-03",
-   "u": "https://www.cna.com.tw/news/ahel/202608030308.aspx"
-  },
-  {
-   "t": "The tech stock dumpster fire should remind you of this important investing lesson",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/article/the-tech-stock-dumpster-fire-should-remind-you-of-this-important-investing-lesson-123000193.html"
+   "u": "https://finance.yahoo.com/economy/article/3-brilliant-quotes-on-the-challenge-of-valuing-companies-123224694.html"
   }
  ],
  "inst": {
