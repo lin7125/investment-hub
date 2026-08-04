@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 21:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 21:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 15.61,
-   "c": -1.58,
+   "p": 15.59,
+   "c": -1.7,
    "a50": 17.34,
    "a200": 18.63,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.22,
+   "a20": 17.21,
    "r": 43.8
   },
   {
    "s": "BZ=F",
-   "p": 81.4,
-   "c": -2.83,
-   "a50": 85.69,
+   "p": 81.57,
+   "c": -2.63,
+   "a50": 85.7,
    "a200": 80.85,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 86.75,
-   "r": 44.1
+   "r": 44.3
   },
   {
    "s": "GC=F",
-   "p": 4131.0,
-   "c": 2.41,
-   "a50": 4182.79,
-   "a200": 4478.74,
+   "p": 4123.8,
+   "c": 2.23,
+   "a50": 4182.65,
+   "a200": 4478.7,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4060.4,
-   "r": 52.4
+   "a20": 4060.04,
+   "r": 51.9
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 2.06,
+   "p": 6.64,
+   "c": 1.93,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.4
+   "r": 65.1
   },
   {
    "s": "TWDUSD",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "外資台指期淨空單8.78萬口　期貨專家：有套利空間",
+   "t": "大樂透第115076期開獎",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040264.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608040311.aspx"
   },
   {
    "t": "Trader Joe's has one advantage over Walmart and Target",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/trader-joes-one-advantage-over-003700727.html"
   },
   {
-   "t": "台股千點震盪外資賣超57億元　調節彰銀3.7萬張居冠",
+   "t": "今彩539第115188期開獎",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040254.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608040310.aspx"
   },
   {
    "t": "Tech stocks today: SpaceX, AMD to report earnings after the bell",
@@ -356,10 +356,22 @@
    "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html"
   },
   {
-   "t": "富邦媒：電商價格戰降溫　下半年營運審慎樂觀",
+   "t": "南亞科晶豪科7月營收創新高　月增逾4成",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040252.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608040300.aspx"
+  },
+  {
+   "t": "Here's Why SpaceX Earnings Could Affect Tesla Stock",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/news/spacex-earnings-tesla-elon-musk-tech-space/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "金管會核准台新銀併新光銀　國內204據點僅次合庫",
+   "pub": "中央社財經",
+   "d": "2026-08-04",
+   "u": "https://www.cna.com.tw/news/afe/202608040298.aspx"
   },
   {
    "t": "AMD to report Q2 earnings as chip stocks continue to waver",
@@ -368,10 +380,10 @@
    "u": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html"
   },
   {
-   "t": "亞德客7月營收創同期高　估需求上升循環至明年",
+   "t": "環球晶：客戶庫存健康　矽晶圓產能滿載",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040249.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608040296.aspx"
   },
   {
    "t": "Caterpillar lifts 2026 sales growth forecast as AI buildout powers on",
@@ -380,28 +392,16 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-lifts-2026-sales-growth-115130477.html"
   },
   {
-   "t": "股匯同步整理　新台幣連2貶收32.447元",
+   "t": "金管會：市場資訊沒蓋牌　拚9月底前推股市儀表板",
    "pub": "中央社財經",
    "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040248.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608040288.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Rallies As Caterpillar, Palantir Soar On Earnings; SpaceX Earnings Next (Live Coverage)",
+   "t": "Italy’s Largest Bank Cuts BlackRock Bitcoin ETF Stake 94%: Rotation to Ethereum?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-caterpillar-palantir-spacex-earnings/?src=A00220&yptr=yahoo"
-  },
-  {
-   "t": "振大環球上半年獲利年增95%　每股純益9.08元",
-   "pub": "中央社財經",
-   "d": "2026-08-04",
-   "u": "https://www.cna.com.tw/news/afe/202608040244.aspx"
-  },
-  {
-   "t": "WeRide enters Nordic region via GreenMobility partnership",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/weride-enters-nordic-region-via-124741386.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/italy-largest-bank-cuts-blackrock-124950465.html"
   }
  ],
  "inst": {
