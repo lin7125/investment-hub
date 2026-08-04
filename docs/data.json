@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 20:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 20:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,118 +212,118 @@
   },
   {
    "s": "AAPL",
-   "p": 308.91,
-   "c": -7.35,
-   "a50": 309.5,
-   "a200": 277.96,
+   "p": 303.42,
+   "c": -1.78,
+   "a50": 309.52,
+   "a200": 278.24,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 324.37,
-   "r": 43.2
+   "a20": 323.91,
+   "r": 40.3
   },
   {
    "s": "NVDA",
-   "p": 200.75,
+   "p": 206.64,
    "c": 2.93,
-   "a50": 206.17,
-   "a200": 193.11,
+   "a50": 205.84,
+   "a200": 193.25,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.3,
-   "r": 48.3
+   "a20": 203.85,
+   "r": 53.1
   },
   {
    "s": "TSLA",
-   "p": 311.21,
-   "c": 0.76,
-   "a50": 390.76,
-   "a200": 411.6,
+   "p": 322.08,
+   "c": 3.49,
+   "a50": 388.86,
+   "a200": 411.06,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 363.93,
-   "r": 31.7
+   "a20": 359.05,
+   "r": 36.8
   },
   {
    "s": "META",
-   "p": 556.71,
-   "c": 3.28,
-   "a50": 602.18,
-   "a200": 634.49,
+   "p": 590.24,
+   "c": 6.02,
+   "a50": 601.89,
+   "a200": 633.9,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.8,
-   "r": 37.8
+   "a20": 620.3,
+   "r": 47.0
   },
   {
    "s": "^TWII",
    "p": 43360.66,
-   "c": 0.56,
-   "a50": 44694.49,
-   "a200": 35102.82,
+   "c": -0.06,
+   "a50": 44716.86,
+   "a200": 35187.86,
    "yh": 47741.51,
    "yl": 23378.94,
-   "a20": 43943.76,
+   "a20": 43785.26,
    "r": 48.3
   },
   {
    "s": "^GSPC",
-   "p": 7489.72,
-   "c": 0.7,
-   "a50": 7471.51,
-   "a200": 7024.11,
+   "p": 7600.5,
+   "c": 1.48,
+   "a50": 7474.86,
+   "a200": 7028.89,
    "yh": 7609.78,
    "yl": 6299.19,
-   "a20": 7481.15,
-   "r": 52.8
+   "a20": 7484.3,
+   "r": 59.7
   },
   {
    "s": "^VIX",
-   "p": 15.61,
-   "c": -2.38,
-   "a50": 17.35,
-   "a200": 18.68,
+   "p": 15.7,
+   "c": -1.01,
+   "a50": 17.34,
+   "a200": 18.63,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.23,
-   "r": 43.9
+   "a20": 17.22,
+   "r": 44.1
   },
   {
    "s": "BZ=F",
-   "p": 81.46,
-   "c": -2.76,
+   "p": 81.27,
+   "c": -2.98,
    "a50": 85.69,
    "a200": 80.85,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.75,
-   "r": 44.2
+   "a20": 86.74,
+   "r": 44.0
   },
   {
    "s": "GC=F",
-   "p": 4140.3,
-   "c": 2.64,
-   "a50": 4182.98,
-   "a200": 4478.79,
+   "p": 4124.3,
+   "c": 2.25,
+   "a50": 4182.66,
+   "a200": 4478.71,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4060.86,
-   "r": 53.1
+   "a20": 4060.06,
+   "r": 51.9
   },
   {
    "s": "HG=F",
-   "p": 6.67,
-   "c": 2.4,
+   "p": 6.66,
+   "c": 2.26,
    "a50": 6.32,
    "a200": 5.81,
-   "yh": 6.67,
+   "yh": 6.66,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 66.1
+   "r": 65.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03088326,
-   "c": -0.27,
+   "p": 0.0308642,
+   "c": -0.32,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040254.aspx"
   },
   {
-   "t": "Caterpillar lifts 2026 sales growth target after quarterly profit beat",
+   "t": "Did Palantir's Big Q2 Beat Slay Worries Over OpenAI, Anthropic?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-lifts-2026-sales-growth-115130477.html"
+   "u": "https://www.investors.com/news/technology/palantir-stock-palantir-earnings-news-q22026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "富邦媒：電商價格戰降溫　下半年營運審慎樂觀",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040252.aspx"
   },
   {
-   "t": "Toyota boosts guidance, announces $6 billion share buyback as fiscal Q1 results shine",
+   "t": "Caterpillar lifts 2026 sales growth target after quarterly profit beat",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/toyota-boosts-guidance-announces-6-billion-share-buyback-as-fiscal-q1-results-shine-170431398.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-lifts-2026-sales-growth-115130477.html"
   },
   {
    "t": "亞德客7月營收創同期高　估需求上升循環至明年",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040249.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rise as earnings roll in, Palantir and Caterpillar stocks jump",
+   "t": "Toyota boosts guidance, announces $6 billion share buyback as fiscal Q1 results shine",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/toyota-boosts-guidance-announces-6-billion-share-buyback-as-fiscal-q1-results-shine-170431398.html"
   },
   {
    "t": "股匯同步整理　新台幣連2貶收32.447元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040248.aspx"
   },
   {
-   "t": "Oil pares gains after Qatar says US-Iran diplomatic efforts continue",
+   "t": "Yen slips but holds intervention gains, traders alert to more action",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/oil-ticks-selloff-talks-end-010226582.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/yen-clings-intervention-gains-traders-010345520.html"
   },
   {
    "t": "振大環球上半年獲利年增95%　每股純益9.08元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040244.aspx"
   },
   {
-   "t": "Raiffeisen crosses 55% threshold to secure control of Addiko Bank",
+   "t": "UBS fined $125m in US for money laundering breaches",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/raiffeisen-crosses-55-threshold-secure-115524613.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ubs-fined-125m-us-money-115944387.html"
   }
  ],
  "inst": {
