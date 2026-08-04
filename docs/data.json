@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 02:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 02:48（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 308.96,
-   "c": 1.83,
-   "a50": 309.6,
+   "p": 309.1,
+   "c": 1.87,
+   "a50": 309.61,
    "a200": 278.54,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.82,
-   "r": 44.4
+   "a20": 323.83,
+   "r": 44.5
   },
   {
    "s": "NVDA",
-   "p": 212.71,
-   "c": 2.94,
+   "p": 212.7,
+   "c": 2.93,
    "a50": 205.7,
    "a200": 193.41,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 326.99,
-   "c": 1.52,
-   "a50": 387.04,
-   "a200": 410.52,
+   "p": 328.23,
+   "c": 1.91,
+   "a50": 387.06,
+   "a200": 410.53,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.25,
-   "r": 39.1
+   "a20": 355.31,
+   "r": 39.6
   },
   {
    "s": "META",
-   "p": 589.21,
-   "c": -0.17,
+   "p": 588.8,
+   "c": -0.24,
    "a50": 601.52,
    "a200": 633.25,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.98,
-   "r": 46.7
+   "a20": 618.96,
+   "r": 46.6
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7743.89,
-   "c": 1.89,
-   "a50": 7480.82,
-   "a200": 7034.25,
-   "yh": 7743.89,
+   "p": 7746.54,
+   "c": 1.92,
+   "a50": 7480.88,
+   "a200": 7034.27,
+   "yh": 7746.54,
    "yl": 6299.19,
-   "a20": 7496.3,
-   "r": 66.6
+   "a20": 7496.44,
+   "r": 66.7
   },
   {
    "s": "^VIX",
-   "p": 16.54,
-   "c": 4.29,
+   "p": 16.52,
+   "c": 4.16,
    "a50": 17.36,
    "a200": 18.64,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 79.36,
-   "c": -5.26,
+   "p": 79.53,
+   "c": -5.06,
    "a50": 85.65,
    "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.64,
-   "r": 42.2
+   "a20": 86.65,
+   "r": 42.3
   },
   {
    "s": "GC=F",
-   "p": 4141.7,
-   "c": 2.68,
-   "a50": 4183.01,
-   "a200": 4478.79,
+   "p": 4137.6,
+   "c": 2.58,
+   "a50": 4182.93,
+   "a200": 4478.77,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4060.93,
-   "r": 53.2
+   "a20": 4060.73,
+   "r": 52.9
   },
   {
    "s": "HG=F",
    "p": 6.64,
-   "c": 1.98,
+   "c": 1.91,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.2
+   "r": 65.1
   },
   {
    "s": "TWDUSD",
    "p": 0.0308642,
-   "c": -0.33,
+   "c": -0.34,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040332.aspx"
   },
   {
-   "t": "Gen Z is taking job interviews on their phones — hiring managers call it 'incredibly disrespectful.' What to do instead",
+   "t": "BP Completes Sale of Gelsenkirchen Refinery to Klesch Group",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/gen-z-taking-job-interviews-093000418.html"
+   "u": "https://finance.yahoo.com/energy/articles/bp-completes-sale-gelsenkirchen-refinery-094556316.html"
   },
   {
    "t": "台美集保結算機構合作　強化複委託交割安全及服務",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "India proposes extending tax breaks for contract manufacturing in a boost for Apple",
+   "t": "Gen Z is taking job interviews on their phones — hiring managers call it 'incredibly disrespectful.' What to do instead",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/india-proposes-extending-tax-breaks-092049397.html"
+   "u": "https://finance.yahoo.com/small-business/articles/gen-z-taking-job-interviews-093000418.html"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "Baby boomers get all the attention — but Gen X ‘faces an even greater retirement crisis.’ How to prep your ‘war chest’",
+   "t": "India proposes extending tax breaks for contract manufacturing in a boost for Apple",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/baby-boomers-attention-gen-x-090000182.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/india-proposes-extending-tax-breaks-092049397.html"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "How to Play the Flood of AI Bonds",
+   "t": "If I Had $1,000 to Invest Today, Here's the Trillion-Dollar Stock I'd Buy Instead of SpaceX",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/finance/investing/how-to-play-the-flood-of-ai-bonds-279f6ba5?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/had-1-000-invest-today-093500140.html"
   }
  ],
  "inst": {
