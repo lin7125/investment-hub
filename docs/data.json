@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 01:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 02:07（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 309.65,
-   "c": 2.05,
+   "p": 309.92,
+   "c": 2.14,
    "a50": 309.62,
    "a200": 278.54,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.85,
-   "r": 44.9
+   "a20": 323.87,
+   "r": 45.0
   },
   {
    "s": "NVDA",
-   "p": 211.73,
-   "c": 2.46,
-   "a50": 205.68,
+   "p": 211.16,
+   "c": 2.19,
+   "a50": 205.67,
    "a200": 193.4,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 204.59,
-   "r": 56.8
+   "a20": 204.56,
+   "r": 56.4
   },
   {
    "s": "TSLA",
-   "p": 325.64,
-   "c": 1.1,
+   "p": 325.47,
+   "c": 1.05,
    "a50": 387.01,
    "a200": 410.52,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.18,
-   "r": 38.5
+   "a20": 355.17,
+   "r": 38.4
   },
   {
    "s": "META",
-   "p": 588.24,
-   "c": -0.34,
+   "p": 587.81,
+   "c": -0.41,
    "a50": 601.5,
    "a200": 633.25,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.93,
-   "r": 46.5
+   "a20": 618.91,
+   "r": 46.4
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7744.32,
-   "c": 1.89,
-   "a50": 7480.83,
-   "a200": 7034.25,
-   "yh": 7744.32,
+   "p": 7740.28,
+   "c": 1.84,
+   "a50": 7480.75,
+   "a200": 7034.23,
+   "yh": 7740.28,
    "yl": 6299.19,
-   "a20": 7496.33,
-   "r": 66.6
+   "a20": 7496.12,
+   "r": 66.4
   },
   {
    "s": "^VIX",
-   "p": 16.56,
-   "c": 4.41,
+   "p": 16.61,
+   "c": 4.73,
    "a50": 17.36,
    "a200": 18.64,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.26,
-   "r": 47.1
+   "a20": 17.27,
+   "r": 47.3
   },
   {
    "s": "BZ=F",
-   "p": 79.22,
-   "c": -5.43,
+   "p": 79.23,
+   "c": -5.42,
    "a50": 85.65,
    "a200": 80.84,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4153.4,
-   "c": 2.97,
-   "a50": 4183.24,
-   "a200": 4478.85,
+   "p": 4147.5,
+   "c": 2.82,
+   "a50": 4183.12,
+   "a200": 4478.82,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4061.52,
-   "r": 53.9
+   "a20": 4061.22,
+   "r": 53.5
   },
   {
    "s": "HG=F",
    "p": 6.65,
-   "c": 2.15,
+   "c": 2.08,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.6
+   "r": 65.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03087373,
-   "c": -0.31,
+   "p": 0.0308642,
+   "c": -0.32,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040332.aspx"
   },
   {
-   "t": "US job openings fall as healthcare vacancies post largest drop in 11 months",
+   "t": "Stock Market Today: Dow Pops 1,000 Points On Hormuz Talks; Palantir Soars, Dell Breaks Out (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/declining-imports-compress-us-trade-143811299.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-caterpillar-palantir-spacex-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台美集保結算機構合作　強化複委託交割安全及服務",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040331.aspx"
   },
   {
-   "t": "Stocks jump to records after upbeat company forecasts; oil, yen weaken",
+   "t": "A WisdomTree Covered Call Can Cultivate A Bountiful Yield",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-move-higher-wall-003819857.html"
+   "u": "https://www.investors.com/research/options/wisdomtree-stock-wt-options-dividend-trading-income-investing-markets-etfs/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115188期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "Tesla's Wholesale Sales In China Grow For Ninth Month In A Row",
+   "t": "US job openings fall as healthcare vacancies post largest drop in 11 months",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/tesla-china-elon-musk-electric-vehicle-sales-byd/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/policy/articles/declining-imports-compress-us-trade-143811299.html"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "Here's Why SpaceX Earnings Could Affect Tesla Stock",
+   "t": "Novo Nordisk Dives 6% After Unexpectedly Releasing Earnings A Day Early",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/spacex-earnings-tesla-elon-musk-tech-space/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/novo-nordisk-stock-novo-nordisk-earnings-q2-2026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "Chery International hits 20m milestone",
+   "t": "The $280 Million Reason Boeing Missed—and Why Wall Street Shrugged It Off",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chery-international-hits-20m-milestone-173940374.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/280-million-reason-boeing-missed-173927982.html"
   }
  ],
  "inst": {
