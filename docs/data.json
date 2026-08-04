@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 03:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 04:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,32 +212,32 @@
   },
   {
    "s": "AAPL",
-   "p": 310.0,
-   "c": 2.17,
-   "a50": 309.62,
+   "p": 309.38,
+   "c": 1.96,
+   "a50": 309.61,
    "a200": 278.54,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.87,
-   "r": 45.1
+   "a20": 323.84,
+   "r": 44.7
   },
   {
    "s": "NVDA",
-   "p": 212.68,
-   "c": 2.92,
-   "a50": 205.7,
+   "p": 211.94,
+   "c": 2.56,
+   "a50": 205.69,
    "a200": 193.41,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 204.64,
-   "r": 57.4
+   "a20": 204.6,
+   "r": 56.9
   },
   {
    "s": "TSLA",
-   "p": 327.39,
-   "c": 1.65,
+   "p": 327.35,
+   "c": 1.64,
    "a50": 387.05,
-   "a200": 410.53,
+   "a200": 410.52,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 355.27,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 589.88,
-   "c": -0.06,
-   "a50": 601.54,
-   "a200": 633.26,
+   "p": 587.94,
+   "c": -0.39,
+   "a50": 601.5,
+   "a200": 633.25,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 619.02,
-   "r": 46.9
+   "a20": 618.92,
+   "r": 46.5
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7748.78,
-   "c": 1.95,
-   "a50": 7480.92,
-   "a200": 7034.28,
-   "yh": 7748.78,
+   "p": 7736.49,
+   "c": 1.79,
+   "a50": 7480.68,
+   "a200": 7034.21,
+   "yh": 7736.49,
    "yl": 6299.19,
-   "a20": 7496.55,
-   "r": 66.8
+   "a20": 7495.93,
+   "r": 66.3
   },
   {
    "s": "^VIX",
-   "p": 16.4,
-   "c": 3.4,
+   "p": 16.44,
+   "c": 3.66,
    "a50": 17.35,
    "a200": 18.64,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.25,
-   "r": 46.6
+   "a20": 17.26,
+   "r": 46.7
   },
   {
    "s": "BZ=F",
-   "p": 79.32,
-   "c": -5.31,
+   "p": 79.47,
+   "c": -5.13,
    "a50": 85.65,
    "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.64,
-   "r": 42.2
+   "a20": 86.65,
+   "r": 42.3
   },
   {
    "s": "GC=F",
-   "p": 4139.1,
-   "c": 2.61,
-   "a50": 4182.96,
-   "a200": 4478.78,
+   "p": 4136.4,
+   "c": 2.55,
+   "a50": 4182.9,
+   "a200": 4478.77,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4060.8,
-   "r": 53.0
+   "a20": 4060.67,
+   "r": 52.8
   },
   {
    "s": "HG=F",
    "p": 6.63,
-   "c": 1.79,
+   "c": 1.77,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.0308642,
-   "c": -0.32,
+   "c": -0.33,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040332.aspx"
   },
   {
-   "t": "China steps up protection for chip designs in revised regulations",
+   "t": "Ask an Advisor: Should I Put My Home and Other Assets in a Trust? When Does it Make Sense for the Average Retiree?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/china-steps-protection-chip-designs-104041596.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/ask-advisor-put-home-other-110000855.html"
   },
   {
    "t": "台美集保結算機構合作　強化複委託交割安全及服務",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040331.aspx"
   },
   {
-   "t": "Suze Orman says planning to work until 65 is a risky strategy — her 2 tips to help you retire when you want",
+   "t": "Option Volatility And Earnings Report For Aug 3 - 7",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/suze-orman-says-planning-until-104500227.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/option-volatility-earnings-report-aug-110002579.html"
   },
   {
    "t": "今彩539第115188期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "South Africa issues draft rules for cross-border crypto",
+   "t": "Is Wall Street Bullish or Bearish on Vertiv Holdings Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/south-africa-issues-draft-rules-104634713.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-vertiv-110402645.html"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "Much 'to do' about yen intervention",
+   "t": "I thought I could afford my dream truck. Now I’m stuck paying $900 a month and can’t escape the payment",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/much-yen-intervention-103529921.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/thought-could-afford-dream-truck-111500310.html"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "Ripple Invests in ZILO and Licuido to Expand XRP Ledger Infrastructure",
+   "t": "Ethereum ETFs Post Best Month Since October 2025 but Fed Hold Chills Demand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/ripple-invests-zilo-licuido-expand-103703293.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-post-best-month-105314565.html"
   }
  ],
  "inst": {
