@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-04 08:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-04 08:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.85,
-   "c": -6.96,
+   "p": 84.14,
+   "c": -6.64,
    "a50": 86.12,
-   "a200": 80.75,
+   "a200": 80.76,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.39,
-   "r": 46.6
+   "a20": 86.4,
+   "r": 46.9
   },
   {
    "s": "GC=F",
-   "p": 4108.6,
-   "c": 1.47,
-   "a50": 4192.47,
-   "a200": 4479.34,
+   "p": 4122.3,
+   "c": 1.81,
+   "a50": 4192.74,
+   "a200": 4479.41,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4064.86,
-   "r": 50.4
+   "a20": 4065.54,
+   "r": 51.4
   },
   {
    "s": "HG=F",
-   "p": 6.55,
-   "c": 1.8,
+   "p": 6.56,
+   "c": 1.95,
    "a50": 6.31,
    "a200": 5.8,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.32,
-   "r": 61.8
+   "r": 62.2
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608030315.aspx"
   },
   {
-   "t": "The tech stock dumpster fire should remind you of this important investing lesson",
+   "t": "South Dakota couple built a 3,600 sq. ft. home for $410,000 — but 3 advantages helped make it possible",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/the-tech-stock-dumpster-fire-should-remind-you-of-this-important-investing-lesson-123000193.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/south-dakota-couple-built-3-123000126.html"
   },
   {
    "t": "SpaceX首份財報將出爐　馬斯克AI支出引華爾街關注",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608030308.aspx"
   },
   {
-   "t": "South Dakota couple built a 3,600 sq. ft. home for $410,000 — but 3 advantages helped make it possible",
+   "t": "The tech stock dumpster fire should remind you of this important investing lesson",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/south-dakota-couple-built-3-123000126.html"
+   "u": "https://finance.yahoo.com/markets/article/the-tech-stock-dumpster-fire-should-remind-you-of-this-important-investing-lesson-123000193.html"
   }
  ],
  "inst": {
