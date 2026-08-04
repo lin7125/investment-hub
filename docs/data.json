@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 00:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 00:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 306.32,
-   "c": 0.95,
+   "p": 306.24,
+   "c": 0.93,
    "a50": 309.55,
    "a200": 278.52,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.69,
+   "a20": 323.68,
    "r": 42.5
   },
   {
    "s": "NVDA",
-   "p": 210.52,
-   "c": 1.88,
+   "p": 210.58,
+   "c": 1.91,
    "a50": 205.66,
    "a200": 193.4,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 324.71,
-   "c": 0.82,
-   "a50": 386.99,
+   "p": 325.33,
+   "c": 1.01,
+   "a50": 387.01,
    "a200": 410.51,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.14,
-   "r": 38.0
+   "a20": 355.17,
+   "r": 38.3
   },
   {
    "s": "META",
-   "p": 582.89,
-   "c": -1.25,
-   "a50": 601.4,
+   "p": 582.01,
+   "c": -1.39,
+   "a50": 601.38,
    "a200": 633.22,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.67,
-   "r": 45.4
+   "a20": 618.62,
+   "r": 45.2
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7707.78,
-   "c": 1.41,
-   "a50": 7480.1,
-   "a200": 7034.07,
-   "yh": 7707.78,
+   "p": 7716.3,
+   "c": 1.52,
+   "a50": 7480.27,
+   "a200": 7034.11,
+   "yh": 7716.3,
    "yl": 6299.19,
-   "a20": 7494.5,
-   "r": 65.1
+   "a20": 7494.93,
+   "r": 65.4
   },
   {
    "s": "^VIX",
-   "p": 16.37,
-   "c": 3.22,
+   "p": 16.25,
+   "c": 2.46,
    "a50": 17.35,
    "a200": 18.64,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.25,
-   "r": 46.5
+   "r": 46.0
   },
   {
    "s": "BZ=F",
-   "p": 79.39,
-   "c": -5.23,
-   "a50": 85.65,
+   "p": 79.57,
+   "c": -5.01,
+   "a50": 85.66,
    "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 86.65,
-   "r": 42.2
+   "r": 42.4
   },
   {
    "s": "GC=F",
-   "p": 4142.9,
-   "c": 2.71,
-   "a50": 4183.03,
-   "a200": 4478.8,
+   "p": 4141.8,
+   "c": 2.68,
+   "a50": 4183.01,
+   "a200": 4478.79,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4060.99,
+   "a20": 4060.94,
    "r": 53.2
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 2.1,
+   "p": 6.64,
+   "c": 2.01,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.5
+   "r": 65.3
   },
   {
    "s": "TWDUSD",
    "p": 0.0308642,
-   "c": -0.33,
+   "c": -0.32,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040331.aspx"
   },
   {
-   "t": "Chlor-alkali Market Tightening Drives Olin Corp. (OLN) Stock Recovery",
+   "t": "Broader Crude Oil Price Weakness Hurt Kosmos Energy Ltd. (KOS) in Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chlor-alkali-market-tightening-drives-154611702.html"
+   "u": "https://finance.yahoo.com/energy/articles/broader-crude-oil-price-weakness-160903037.html"
   },
   {
    "t": "今彩539第115188期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "A $25,000 home repair could wipe out her $27,000 emergency fund — experts say there's a smarter move",
+   "t": "APA Corp. (APA) Declined Despite Meeting Expectations",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/25-000-home-repair-could-154500711.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/apa-corp-apa-declined-despite-160752472.html"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "Amazon Stock Falls After Rally As Bezos Plans $4 Billion Share Sale",
+   "t": "Hotchkis & Wiley Mid-Cap Value Fund is Bullish on Marriott Vacations Worldwide (VAC)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/amazon-stock-bezos-sell-rally/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hotchkis-wiley-mid-cap-value-160623816.html"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "Argenx SE (ARGX) Prepares to Demonstrate Vyvgart’s Efficacy in Broader Autoimmune Diseases",
+   "t": "Humana’s (HUM) Path to Recovery and Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/argenx-se-argx-prepares-demonstrate-153540812.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/humana-hum-path-recovery-growth-160456553.html"
   },
   {
    "t": "強化洗錢防制　國內虛擬貨幣轉帳新規10月上路",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040320.aspx"
   },
   {
-   "t": "Amazon Crossed $3 Trillion for the First Time Monday. Another 31% Puts It in the $4 Trillion Club.",
+   "t": "IQM Quantum Computers Q2 Earnings Call Highlights",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-crossed-3-trillion-first-154600016.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/iqm-quantum-computers-q2-earnings-160429247.html"
   }
  ],
  "inst": {
