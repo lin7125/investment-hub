@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 01:26（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 01:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 309.05,
-   "c": 1.86,
+   "p": 308.81,
+   "c": 1.78,
    "a50": 309.6,
    "a200": 278.54,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.82,
-   "r": 44.5
+   "a20": 323.81,
+   "r": 44.3
   },
   {
    "s": "NVDA",
-   "p": 211.52,
-   "c": 2.36,
-   "a50": 205.68,
+   "p": 211.32,
+   "c": 2.26,
+   "a50": 205.67,
    "a200": 193.4,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 204.58,
-   "r": 56.6
+   "a20": 204.57,
+   "r": 56.5
   },
   {
    "s": "TSLA",
-   "p": 326.98,
-   "c": 1.52,
+   "p": 326.84,
+   "c": 1.48,
    "a50": 387.04,
    "a200": 410.52,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.25,
-   "r": 39.1
+   "a20": 355.24,
+   "r": 39.0
   },
   {
    "s": "META",
-   "p": 587.27,
-   "c": -0.5,
-   "a50": 601.49,
-   "a200": 633.24,
+   "p": 589.15,
+   "c": -0.18,
+   "a50": 601.52,
+   "a200": 633.25,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.88,
-   "r": 46.3
+   "a20": 618.98,
+   "r": 46.7
   },
   {
    "s": "^TWII",
@@ -267,36 +267,36 @@
   },
   {
    "s": "^GSPC",
-   "p": 7737.46,
-   "c": 1.8,
-   "a50": 7480.7,
-   "a200": 7034.22,
-   "yh": 7737.46,
+   "p": 7738.85,
+   "c": 1.82,
+   "a50": 7480.72,
+   "a200": 7034.23,
+   "yh": 7738.85,
    "yl": 6299.19,
-   "a20": 7495.98,
-   "r": 66.3
+   "a20": 7496.05,
+   "r": 66.4
   },
   {
    "s": "^VIX",
-   "p": 16.37,
-   "c": 3.22,
+   "p": 16.47,
+   "c": 3.85,
    "a50": 17.35,
    "a200": 18.64,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.25,
-   "r": 46.5
+   "a20": 17.26,
+   "r": 46.8
   },
   {
    "s": "BZ=F",
-   "p": 79.3,
-   "c": -5.34,
+   "p": 79.34,
+   "c": -5.29,
    "a50": 85.65,
    "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 86.64,
-   "r": 42.1
+   "r": 42.2
   },
   {
    "s": "GC=F",
@@ -312,7 +312,7 @@
   {
    "s": "HG=F",
    "p": 6.65,
-   "c": 2.14,
+   "c": 2.15,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03087373,
-   "c": -0.3,
+   "p": 0.0308642,
+   "c": -0.32,
    "a50": 0.03134796,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040331.aspx"
   },
   {
-   "t": "Stock market today: Nasdaq surges, Dow and S&P 500 trade at record highs amid US-Iran optimism, tech rally",
+   "t": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html"
+   "u": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html"
   },
   {
    "t": "今彩539第115188期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040330.aspx"
   },
   {
-   "t": "Abbott vs Danaher: Which Healthcare Stock Looks Better Positioned Following Earnings?",
+   "t": "Mortgage and refinance interest rates today, Tuesday, August 4, 2026: Rates firm as U.S. pivots to diplomacy with Iran",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/abbott-vs-danaher-healthcare-stock-165559358.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-august-4-2026-rates-firm-as-us-pivots-to-diplomacy-with-iran-100000343.html"
   },
   {
    "t": "大樂透第115076期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608040329.aspx"
   },
   {
-   "t": "Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms",
+   "t": "Is it better to lease or finance a car? What drivers should know.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-nearly-30-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/lease-vs-finance-car-203958250.html"
   },
   {
    "t": "金管會修正保險業財報編製準則　損益來源更明確",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040326.aspx"
   },
   {
-   "t": "Apple vs. Alphabet: The $5 Trillion AI Bet That’s Renting, Not Building",
+   "t": "Nvidia Tops Key Level As AMD Heads Into Earnings; Is Nvidia A Buy Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-vs-alphabet-5-trillion-165422171.html"
+   "u": "https://www.investors.com/research/nvidia-nvda-stock-buy-now-august-2026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "強化洗錢防制　國內虛擬貨幣轉帳新規10月上路",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608040320.aspx"
   },
   {
-   "t": "Hormuz supply disruption reshapes economics for Dune Oil's Turkish oil block",
+   "t": "Dow hits record as Bessent says Hormuz deal could come soon",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/hormuz-supply-disruption-reshapes-economics-170000649.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dow-hits-record-bessent-says-171041540.html"
   }
  ],
  "inst": {
