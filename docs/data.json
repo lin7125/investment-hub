@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 04:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 05:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,33 +289,33 @@
   },
   {
    "s": "BZ=F",
-   "p": 79.27,
-   "c": -0.11,
+   "p": 79.34,
+   "c": -0.03,
    "a50": 85.17,
    "a200": 80.93,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 86.71,
-   "r": 42.1
+   "r": 42.2
   },
   {
    "s": "GC=F",
-   "p": 4305.8,
-   "c": 5.14,
-   "a50": 4177.78,
-   "a200": 4478.69,
+   "p": 4304.3,
+   "c": 5.1,
+   "a50": 4177.75,
+   "a200": 4478.68,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4070.36,
-   "r": 62.9
+   "a20": 4070.29,
+   "r": 62.8
   },
   {
    "s": "HG=F",
-   "p": 6.74,
-   "c": 1.89,
+   "p": 6.75,
+   "c": 1.92,
    "a50": 6.32,
    "a200": 5.82,
-   "yh": 6.74,
+   "yh": 6.75,
    "yl": 4.36,
    "a20": 6.37,
    "r": 68.5
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03099814,
-   "c": 0.42,
+   "c": 0.43,
    "a50": 0.03133814,
    "a200": 0.03166561,
    "yh": 0.033344,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060002.aspx"
   },
   {
-   "t": "Douglas Dynamics, Inc. Q2 2026 Earnings Call Summary",
+   "t": "131 Poisoned AI Packages Hit Microsoft’s (MSFT) npm. CrowdStrike (CRWD) Couldn’t Ask for a Better Sales Pitch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/douglas-dynamics-inc-q2-2026-123000819.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/131-poisoned-ai-packages-hit-123042550.html"
   },
   {
    "t": "迪士尼TikTok達協議　允短影音創作者運用角色及場景",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050364.aspx"
   },
   {
-   "t": "EverQuote, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Voyager Technologies, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/everquote-inc-q2-2026-earnings-123000943.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/voyager-technologies-inc-q2-2026-123000756.html"
   },
   {
    "t": "美股早盤延續漲勢　SpaceX股價重挫",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050359.aspx"
   },
   {
-   "t": "TETRA Technologies, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Douglas Dynamics, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tetra-technologies-inc-q2-2026-123000320.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/douglas-dynamics-inc-q2-2026-123000819.html"
   },
   {
    "t": "美國7月私部門新增就業4.4萬人　遠低於分析師預期",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050349.aspx"
   },
   {
-   "t": "Kosmos Energy Ltd. Q2 2026 Earnings Call Summary",
+   "t": "New Mountain Finance Corporation Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/kosmos-energy-ltd-q2-2026-123000508.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mountain-finance-corporation-q2-2026-123000701.html"
   },
   {
    "t": "今彩539第115189期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608050347.aspx"
   },
   {
-   "t": "IDEXX Laboratories Shares Climb After Earnings Beat and Improved Full-Year Outlook",
+   "t": "Hillman Solutions Corp. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/idexx-laboratories-shares-climb-earnings-121534830.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hillman-solutions-corp-q2-2026-123000213.html"
   }
  ],
  "inst": {
