@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 00:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 00:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 309.05,
-   "c": -0.11,
+   "p": 309.19,
+   "c": -0.06,
    "a50": 309.62,
    "a200": 278.85,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.62,
-   "r": 44.5
+   "a20": 323.63,
+   "r": 44.6
   },
   {
    "s": "NVDA",
-   "p": 220.29,
-   "c": 3.94,
-   "a50": 205.79,
+   "p": 221.29,
+   "c": 4.41,
+   "a50": 205.81,
    "a200": 193.6,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 205.41,
-   "r": 62.2
+   "a20": 205.46,
+   "r": 62.7
   },
   {
    "s": "TSLA",
-   "p": 322.75,
-   "c": -1.41,
-   "a50": 384.98,
-   "a200": 409.99,
+   "p": 323.33,
+   "c": -1.23,
+   "a50": 384.99,
+   "a200": 410.0,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 351.7,
-   "r": 37.9
+   "a20": 351.73,
+   "r": 38.0
   },
   {
    "s": "META",
-   "p": 583.04,
-   "c": -0.83,
-   "a50": 600.95,
+   "p": 583.43,
+   "c": -0.77,
+   "a50": 600.96,
    "a200": 632.6,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 617.91,
-   "r": 45.3
+   "a20": 617.93,
+   "r": 45.4
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7733.53,
-   "c": -0.04,
-   "a50": 7485.88,
-   "a200": 7039.74,
-   "yh": 7736.52,
+   "p": 7742.7,
+   "c": 0.08,
+   "a50": 7486.06,
+   "a200": 7039.78,
+   "yh": 7742.7,
    "yl": 6299.19,
-   "a20": 7508.48,
-   "r": 66.0
+   "a20": 7508.94,
+   "r": 66.5
   },
   {
    "s": "^VIX",
-   "p": 16.24,
-   "c": -1.58,
+   "p": 16.19,
+   "c": -1.88,
    "a50": 17.35,
    "a200": 18.61,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.23,
-   "r": 46.1
+   "a20": 17.22,
+   "r": 45.9
   },
   {
    "s": "BZ=F",
-   "p": 79.6,
-   "c": 0.3,
+   "p": 79.71,
+   "c": 0.44,
    "a50": 85.17,
    "a200": 80.93,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.72,
-   "r": 42.5
+   "a20": 86.73,
+   "r": 42.7
   },
   {
    "s": "GC=F",
-   "p": 4293.4,
-   "c": 4.83,
-   "a50": 4177.53,
-   "a200": 4478.63,
+   "p": 4295.9,
+   "c": 4.9,
+   "a50": 4177.58,
+   "a200": 4478.64,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4069.74,
-   "r": 62.3
+   "a20": 4069.87,
+   "r": 62.4
   },
   {
    "s": "HG=F",
    "p": 6.7,
-   "c": 1.22,
+   "c": 1.2,
    "a50": 6.32,
    "a200": 5.82,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03095975,
-   "c": 0.29,
+   "p": 0.03096934,
+   "c": 0.32,
    "a50": 0.03133814,
    "a200": 0.03166561,
    "yh": 0.033344,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050349.aspx"
   },
   {
-   "t": "Circle CEO Jeremy Allaire: 'Billions of agents' will soon flood the workforce",
+   "t": "HPE, IBD Stock Of The Day, Tests Buy Point As AI Drives Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/circle-ceo-jeremy-allaire-billions-of-agents-will-soon-flood-the-workforce-160009916.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/hpe-stock-elliott-juniper-ai-infrastructure-boom/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115189期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608050347.aspx"
   },
   {
-   "t": "Why Uber Stock Is Sliding After Earnings Report, Robotaxi Update",
+   "t": "Stock Market Today: Dow Charges Higher In Mixed Trade; Disney Clears Key Level (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/uber-stock-q2-2026-earnings-robotaxi/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-amd-stock-spacex-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "AI驅動需求　中華資安：非常有信心今年雙位數成長",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050331.aspx"
   },
   {
-   "t": "Regal Rexnord Corporation (RRX) Rises on Strong Results",
+   "t": "Circle CEO Jeremy Allaire: 'Billions of agents' will soon flood the workforce",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/regal-rexnord-corporation-rrx-rises-154529789.html"
+   "u": "https://finance.yahoo.com/technology/article/circle-ceo-jeremy-allaire-billions-of-agents-will-soon-flood-the-workforce-160009916.html"
   },
   {
    "t": "今彩539第115189期開獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608050330.aspx"
   },
   {
-   "t": "Yen steadies after intervention and dollar stays near six-week low",
+   "t": "Anthropic CEO reportedly worried new hires only care about money — while hiring an event planner for 6x the going rate",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/yen-finds-footing-intervention-dollar-013635105.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html"
   },
   {
    "t": "遠傳娛樂事業營運長　首度獲邀國際艾美獎評審",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050329.aspx"
   },
   {
-   "t": "Booking Holdings Q2 results top estimates as travel demand remains resilient",
+   "t": "Analyst Report: GE Vernova Inc",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-q2-results-top-155700853.html"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_6199_AnalystReport_1785928335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
