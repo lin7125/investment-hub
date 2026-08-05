@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-05 13:23（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 13:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2400.0,
-   "c": 3.45,
-   "a50": 2377.0,
-   "a200": 1911.28,
+   "p": 2395.0,
+   "c": 3.23,
+   "a50": 2376.9,
+   "a200": 1911.25,
    "yh": 2510.0,
    "yl": 1125.0,
-   "a20": 2366.25,
-   "r": 52.7
+   "a20": 2366.0,
+   "r": 52.4
   },
   {
    "s": "2317.TW",
@@ -25,14 +25,14 @@
   },
   {
    "s": "2308.TW",
-   "p": 1660.0,
-   "c": 2.47,
-   "a50": 1999.4,
-   "a200": 1494.65,
+   "p": 1655.0,
+   "c": 2.16,
+   "a50": 1999.3,
+   "a200": 1494.62,
    "yh": 2520.0,
    "yl": 621.0,
-   "a20": 1749.25,
-   "r": 42.3
+   "a20": 1749.0,
+   "r": 42.0
   },
   {
    "s": "2454.TW",
@@ -58,47 +58,47 @@
   },
   {
    "s": "1802.TW",
-   "p": 54.2,
-   "c": 3.63,
-   "a50": 63.01,
+   "p": 53.9,
+   "c": 3.06,
+   "a50": 63.0,
    "a200": 51.37,
    "yh": 76.6,
    "yl": 23.3,
-   "a20": 54.67,
-   "r": 47.1
+   "a20": 54.65,
+   "r": 46.7
   },
   {
    "s": "6862.TW",
-   "p": 141.0,
-   "c": 2.17,
-   "a50": 178.57,
-   "a200": 178.03,
+   "p": 141.5,
+   "c": 2.54,
+   "a50": 178.58,
+   "a200": 178.04,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 148.95,
-   "r": 42.1
+   "a20": 148.98,
+   "r": 42.4
   },
   {
    "s": "3701.TW",
-   "p": 42.75,
-   "c": 9.34,
+   "p": 42.5,
+   "c": 8.7,
    "a50": 45.16,
    "a200": 48.71,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.33,
-   "r": 54.5
+   "a20": 39.32,
+   "r": 54.0
   },
   {
    "s": "4722.TW",
-   "p": 219.0,
-   "c": 7.88,
-   "a50": 247.6,
+   "p": 218.5,
+   "c": 7.64,
+   "a50": 247.59,
    "a200": 198.77,
    "yh": 306.5,
    "yl": 69.6,
-   "a20": 217.35,
-   "r": 49.5
+   "a20": 217.32,
+   "r": 49.4
   },
   {
    "s": "6706.TW",
@@ -124,25 +124,25 @@
   },
   {
    "s": "6442.TW",
-   "p": 1375.0,
-   "c": -1.43,
-   "a50": 1630.0,
-   "a200": 1565.72,
+   "p": 1380.0,
+   "c": -1.08,
+   "a50": 1630.1,
+   "a200": 1565.74,
    "yh": 2370.0,
    "yl": 593.0,
-   "a20": 1311.25,
-   "r": 48.7
+   "a20": 1311.5,
+   "r": 48.9
   },
   {
    "s": "6515.TW",
-   "p": 6840.0,
-   "c": 4.03,
-   "a50": 7940.3,
-   "a200": 5834.2,
+   "p": 6865.0,
+   "c": 4.41,
+   "a50": 7940.8,
+   "a200": 5834.32,
    "yh": 10795.0,
    "yl": 1080.0,
-   "a20": 6530.75,
-   "r": 48.9
+   "a20": 6532.0,
+   "r": 49.1
   },
   {
    "s": "6446.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.35,
-   "c": 0.2,
-   "a50": 64.98,
+   "p": 49.65,
+   "c": 0.81,
+   "a50": 64.99,
    "a200": 40.23,
    "yh": 165.0,
    "yl": 5.4,
-   "a20": 50.52,
-   "r": 43.9
+   "a20": 50.54,
+   "r": 44.3
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 54.5,
-   "c": 5.01,
-   "a50": 62.38,
-   "a200": 56.34,
+   "p": 55.6,
+   "c": 7.13,
+   "a50": 62.4,
+   "a200": 56.35,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 57.02,
-   "r": 41.7
+   "a20": 57.08,
+   "r": 44.6
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44593.1,
-   "c": 2.84,
-   "a50": 44735.83,
-   "a200": 35277.02,
+   "p": 44570.34,
+   "c": 2.79,
+   "a50": 44735.38,
+   "a200": 35276.9,
    "yh": 47741.51,
    "yl": 23447.36,
-   "a20": 43740.96,
-   "r": 53.5
+   "a20": 43739.83,
+   "r": 53.4
   },
   {
    "s": "^GSPC",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 78.96,
-   "c": -5.74,
+   "p": 79.01,
+   "c": -5.68,
    "a50": 85.64,
    "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.62,
-   "r": 41.8
+   "a20": 86.63,
+   "r": 41.9
   },
   {
    "s": "GC=F",
-   "p": 4194.7,
-   "c": 3.99,
-   "a50": 4184.07,
-   "a200": 4479.06,
+   "p": 4197.2,
+   "c": 4.05,
+   "a50": 4184.12,
+   "a200": 4479.07,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4063.58,
-   "r": 56.5
+   "a20": 4063.71,
+   "r": 56.7
   },
   {
    "s": "HG=F",
    "p": 6.65,
-   "c": 2.08,
+   "c": 2.07,
    "a50": 6.32,
    "a200": 5.81,
    "yh": 6.65,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050097.aspx"
   },
   {
-   "t": "Soybeans On the Higher Side at Midday",
+   "t": "Yen holds gains after Japan, US confirm joint intervention, signal more action",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-higher-side-midday-172343364.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/japan-vow-coordination-us-weak-210127634.html"
   },
   {
    "t": "綠商標10年申請逾12.6萬件　統一企業蘋果任天堂進榜前3",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050094.aspx"
   },
   {
-   "t": "Cotton Posting Monday Gains Following Early Weakness",
+   "t": "Weekly survey of mortgage lenders with the lowest rates: Revealing the wide gaps among rates and fees",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/cotton-posting-monday-gains-following-172343813.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-3-170834159.html"
   },
   {
    "t": "美伊局勢露曙光　新台幣強升逾1.7角股匯同步狂飆",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050088.aspx"
   },
   {
-   "t": "Wheat Posting Midday Strength",
+   "t": "Analysts Have Discovered Lost Love for Ford, But Don’t Rush to Buy F Stock for 2027",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/wheat-posting-midday-strength-172343976.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/analysts-discovered-lost-love-ford-173754337.html"
   },
   {
    "t": "台積電領軍衝鋒　台股盤中飆漲1562點創第8大漲點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050055.aspx"
   },
   {
-   "t": "Microsoft’s Data Center Leases Crossed $100 Billion In Q4. What This Means for MSFT Stock Here.",
+   "t": "Investors Pile Into Long-Dated Microsoft Call Options in Unusual Volume - Bullish on MSFT Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/microsoft-data-center-leases-crossed-172706997.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/investors-pile-long-dated-microsoft-173002507.html"
   },
   {
    "t": "日經亞洲：美國貝恩資本將以逾202億元收購貢茶",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050054.aspx"
   },
   {
-   "t": "Better Small Modular Reactor Stock: NuScale Power vs. GE Vernova",
+   "t": "Microsoft Just Proved that AI Spending Can Pay Off. Here's How the Company Separates Itself From Other AI Stocks.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/better-small-modular-reactor-stock-172500349.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/microsoft-just-proved-ai-spending-173500840.html"
   }
  ],
  "inst": {
