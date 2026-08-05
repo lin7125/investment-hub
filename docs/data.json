@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 15:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 15:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 16.13,
-   "c": -2.24,
+   "p": 16.11,
+   "c": -2.36,
    "a50": 17.35,
    "a200": 18.61,
    "yh": 31.05,
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 80.06,
-   "c": 0.88,
-   "a50": 85.18,
+   "p": 80.38,
+   "c": 1.29,
+   "a50": 85.19,
    "a200": 80.94,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.75,
-   "r": 43.1
+   "a20": 86.76,
+   "r": 43.5
   },
   {
    "s": "GC=F",
-   "p": 4226.5,
-   "c": 3.2,
-   "a50": 4176.19,
-   "a200": 4478.29,
+   "p": 4221.7,
+   "c": 3.08,
+   "a50": 4176.1,
+   "a200": 4478.27,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4066.4,
-   "r": 58.8
+   "a20": 4066.16,
+   "r": 58.6
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 0.79,
+   "c": 0.76,
    "a50": 6.32,
    "a200": 5.82,
    "yh": 6.67,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050151.aspx"
   },
   {
-   "t": "Marriott Outlook Comes Up Short As Middle East Conflicts Drag On Results",
+   "t": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/marriott-international-earnings-q2-2026-travel-demand-middle-east-mar-stock/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/spacex-earnings-key-themes-q2-2026-elon-musk-starlink-starship-xai-nasa-falcon9/?src=A00220&yptr=yahoo"
   },
   {
    "t": "吳誠文：明年行政院科技預算編列1823億　創新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050147.aspx"
   },
   {
-   "t": "The fund families LPs are fighting to get into",
+   "t": "Marriott Outlook Comes Up Short As Middle East Conflicts Drag On Results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fund-families-lps-fighting-201116719.html"
+   "u": "https://www.investors.com/news/marriott-international-earnings-q2-2026-travel-demand-middle-east-mar-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股漲1250.94點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050139.aspx"
   },
   {
-   "t": "Stock market today: Dow hits record high, S&P 500 and Nasdaq surge as Big Tech gains power rally",
+   "t": "AstraZeneca Nosedives On A Rumored Megamerger; Is $160 Billion Enough?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-big-tech-oil-092516872.html"
+   "u": "https://www.investors.com/news/technology/astrazeneca-stock-bristol-myers-squibb-rumored-deal/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股盤中創第7大漲點　終場收44611點大漲1250點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050135.aspx"
   },
   {
-   "t": "Palantir lifts annual revenue forecast on steady demand for AI-powered data analytics",
+   "t": "Three Noteworthy Biotechs Just Reported Earnings — And Only One Recovered",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/palantir-raises-annual-revenue-forecast-200736194.html"
+   "u": "https://www.investors.com/news/technology/biotech-stocks-q2-2026-earnings-tg-therapeutics-twist-biotech-krystal-biotech/?src=A00220&yptr=yahoo"
   },
   {
    "t": "蔡明忠列台灣企業領袖100強　任內台灣大市值增逾3千億",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050126.aspx"
   },
   {
-   "t": "Is Hims & Hers Health Stock in Trouble?",
+   "t": "Elon Musk backs bullish case for SpaceX investors ahead of first earnings report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/hims-hers-health-stock-trouble-201345597.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-backs-bullish-case-201837958.html"
   }
  ],
  "inst": {
