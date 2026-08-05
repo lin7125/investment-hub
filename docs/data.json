@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 04:44（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 04:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 79.38,
-   "c": 0.03,
+   "p": 79.27,
+   "c": -0.11,
    "a50": 85.17,
    "a200": 80.93,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 86.71,
-   "r": 42.2
+   "r": 42.1
   },
   {
    "s": "GC=F",
-   "p": 4310.0,
-   "c": 5.24,
-   "a50": 4177.86,
-   "a200": 4478.71,
+   "p": 4305.8,
+   "c": 5.14,
+   "a50": 4177.78,
+   "a200": 4478.69,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4070.57,
-   "r": 63.1
+   "a20": 4070.36,
+   "r": 62.9
   },
   {
    "s": "HG=F",
    "p": 6.74,
-   "c": 1.84,
+   "c": 1.89,
    "a50": 6.32,
    "a200": 5.82,
    "yh": 6.74,
    "yl": 4.36,
    "a20": 6.37,
-   "r": 68.4
+   "r": 68.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03099814,
-   "c": 0.4,
+   "c": 0.42,
    "a50": 0.03133814,
    "a200": 0.03166561,
    "yh": 0.033344,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060002.aspx"
   },
   {
-   "t": "Flex’s (FLEX) CPI Business Positioned for an Exponential Leap",
+   "t": "Douglas Dynamics, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/flex-flex-cpi-business-positioned-121202571.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/douglas-dynamics-inc-q2-2026-123000819.html"
   },
   {
    "t": "迪士尼TikTok達協議　允短影音創作者運用角色及場景",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050364.aspx"
   },
   {
-   "t": "Block’s (XYZ) AI Reset Signals New Earnings Phase",
+   "t": "EverQuote, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/block-xyz-ai-reset-signals-120729862.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/everquote-inc-q2-2026-earnings-123000943.html"
   },
   {
    "t": "美股早盤延續漲勢　SpaceX股價重挫",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050359.aspx"
   },
   {
-   "t": "Is Wall Street Bullish or Bearish on Invesco Stock?",
+   "t": "TETRA Technologies, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-invesco-120733590.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tetra-technologies-inc-q2-2026-123000320.html"
   },
   {
    "t": "美國7月私部門新增就業4.4萬人　遠低於分析師預期",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050349.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for Philip Morris International Stock?",
+   "t": "Kosmos Energy Ltd. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-121406366.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kosmos-energy-ltd-q2-2026-123000508.html"
   },
   {
    "t": "今彩539第115189期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608050347.aspx"
   },
   {
-   "t": "Why Palantir stock is ripping higher after earnings: AlphaSpace stat of the morning",
+   "t": "IDEXX Laboratories Shares Climb After Earnings Beat and Improved Full-Year Outlook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/why-palantir-stock-is-ripping-higher-after-earnings-alphaspace-stat-of-the-morning-121006694.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/idexx-laboratories-shares-climb-earnings-121534830.html"
   }
  ],
  "inst": {
