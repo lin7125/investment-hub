@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 05:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 05:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060002.aspx"
   },
   {
-   "t": "Could Revolution Medicines (RVMD) Become a $20 Billion Cancer Drug Story?",
+   "t": "Why Wall Street Is Panicking About Apple’s Services Business",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/could-revolution-medicines-rvmd-become-131956736.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-panicking-apple-133001776.html"
   },
   {
    "t": "迪士尼TikTok達協議　允短影音創作者運用角色及場景",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050364.aspx"
   },
   {
-   "t": "First U.S. Bitcoin ETF To Close",
+   "t": "Bitmine Accelerates Stock Buybacks And Continues Buying Ethereum",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/first-u-bitcoin-etf-close-132500973.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bitmine-accelerates-stock-buybacks-continues-133000732.html"
   },
   {
    "t": "美股早盤延續漲勢　SpaceX股價重挫",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050359.aspx"
   },
   {
-   "t": "Bitcoin and ethereum prices today, Tuesday, August 4, 2026: Investors closely monitoring Clarity Act progress",
+   "t": "Investor Cathie Wood Buys Coinbase And Circle Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-4-2026-investors-closely-monitoring-clarity-act-progress-131534156.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/investor-cathie-wood-buys-coinbase-133100414.html"
   },
   {
    "t": "美國7月私部門新增就業4.4萬人　遠低於分析師預期",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050349.aspx"
   },
   {
-   "t": "Why AMD is a Yahoo Finance AlphaSpace rockstar",
+   "t": "Philadelphia Fed president says she's keeping an 'open mind' on rates, watching inflation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/why-amd-is-a-yahoo-finance-alphaspace-rockstar-131746048.html"
+   "u": "https://finance.yahoo.com/economy/policy/article/philadelphia-fed-president-says-shes-keeping-an-open-mind-on-rates-watching-inflation-133424815.html"
   },
   {
    "t": "今彩539第115189期　頭獎槓龜",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/ahel/202608050347.aspx"
   },
   {
-   "t": "U.S. Futures Signal Another Positive Session for Wall Street: Dow Jones, S&P, Nasdaq",
+   "t": "Forget QQQI’s 14%. NEOS Just Launched a ‘Boosted’ Version Paying 20%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/u-futures-signal-another-positive-132002945.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/forget-qqqi-14-neos-just-132855801.html"
   }
  ],
  "inst": {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "byCode": {
-   "1802": {
-    "f": 3793,
-    "t": 0,
-    "all": 3867
-   },
-   "2308": {
-    "f": 3588,
-    "t": -1556,
-    "all": 1870
-   },
-   "2305": {
-    "f": 1108,
-    "t": 2,
-    "all": 1105
-   },
-   "2454": {
-    "f": -602,
-    "t": 1293,
-    "all": 557
-   },
    "2317": {
-    "f": 2130,
-    "t": -521,
-    "all": 506
-   },
-   "3701": {
-    "f": 177,
-    "t": 0,
-    "all": 177
-   },
-   "6706": {
-    "f": 57,
-    "t": 0,
-    "all": 83
-   },
-   "6515": {
-    "f": 5,
-    "t": -9,
-    "all": -8
-   },
-   "6862": {
-    "f": -21,
-    "t": 0,
-    "all": -23
-   },
-   "6442": {
-    "f": -390,
-    "t": 0,
-    "all": -375
-   },
-   "6446": {
-    "f": -492,
-    "t": 26,
-    "all": -513
-   },
-   "4722": {
-    "f": -587,
-    "t": 0,
-    "all": -520
-   },
-   "2327": {
-    "f": -5993,
-    "t": 1762,
-    "all": -5730
+    "f": 36977,
+    "t": -1108,
+    "all": 36358
    },
    "2330": {
-    "f": -12430,
-    "t": 433,
-    "all": -14323
+    "f": 12251,
+    "t": -1205,
+    "all": 9947
+   },
+   "2454": {
+    "f": 1846,
+    "t": -12,
+    "all": 1643
+   },
+   "2308": {
+    "f": 117,
+    "t": -79,
+    "all": 260
+   },
+   "6446": {
+    "f": -50,
+    "t": 46,
+    "all": 7
+   },
+   "6862": {
+    "f": -47,
+    "t": 0,
+    "all": -47
+   },
+   "4722": {
+    "f": -123,
+    "t": 0,
+    "all": -70
+   },
+   "6515": {
+    "f": -44,
+    "t": -32,
+    "all": -76
+   },
+   "6706": {
+    "f": -141,
+    "t": 0,
+    "all": -99
+   },
+   "3701": {
+    "f": -279,
+    "t": 0,
+    "all": -275
+   },
+   "6442": {
+    "f": -459,
+    "t": -2,
+    "all": -503
+   },
+   "2305": {
+    "f": -2337,
+    "t": 0,
+    "all": -2338
+   },
+   "1802": {
+    "f": -4305,
+    "t": 0,
+    "all": -4543
+   },
+   "2327": {
+    "f": -8197,
+    "t": 1112,
+    "all": -7147
    }
   },
-  "totalNetE": 20.0
+  "totalNetE": 1030.3
  }
 }
