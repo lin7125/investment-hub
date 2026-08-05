@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 05:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 06:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 79.4,
-   "c": 0.05,
+   "p": 79.52,
+   "c": 0.2,
    "a50": 85.17,
    "a200": 80.93,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.71,
-   "r": 42.2
+   "a20": 86.72,
+   "r": 42.4
   },
   {
    "s": "GC=F",
-   "p": 4308.0,
-   "c": 5.19,
-   "a50": 4177.82,
+   "p": 4307.3,
+   "c": 5.17,
+   "a50": 4177.81,
    "a200": 4478.7,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4070.47,
+   "a20": 4070.44,
    "r": 63.0
   },
   {
    "s": "HG=F",
    "p": 6.75,
-   "c": 1.96,
+   "c": 1.99,
    "a50": 6.32,
    "a200": 5.82,
    "yh": 6.75,
    "yl": 4.36,
    "a20": 6.37,
-   "r": 68.6
+   "r": 68.7
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060002.aspx"
   },
   {
-   "t": "Baron Capital Sees Years of Mid-Teens Growth for Intuitive Surgical (ISRG)",
+   "t": "Strong finish: Ocean lines raise profit outlook by 200%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/baron-capital-sees-years-mid-134545821.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/strong-finish-ocean-lines-raise-143405426.html"
   },
   {
    "t": "迪士尼TikTok達協議　允短影音創作者運用角色及場景",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050364.aspx"
   },
   {
-   "t": "Fed's Paulson keeps 'open mind' on rate policy outlook amid high inflation",
+   "t": "Caterpillar stock pops on record quarterly revenue",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/feds-paulson-keeps-open-mind-120134252.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/caterpillar-stock-pops-on-record-quarterly-revenue-120556209.html"
   },
   {
    "t": "美股早盤延續漲勢　SpaceX股價重挫",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050359.aspx"
   },
   {
-   "t": "Snap stock jumps 13% on improved advertising, World Cup boost",
+   "t": "Clarity Act May Get A Pre-Recess Vote; ARK Makes Crypto Buys",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/snap-stock-jumps-13-on-improved-advertising-world-cup-boost-130259116.html"
+   "u": "https://www.investors.com/news/clarity-act-senate-vote-recess-cathie-wood-ark-coinbase-circle-cryptocurrency-bitcoin/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美國7月私部門新增就業4.4萬人　遠低於分析師預期",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050349.aspx"
   },
   {
-   "t": "Bessent's call to upsize Fed foreign lending facility may not be risk-free",
+   "t": "Dollar Pressured by Strength in Stocks and Lower Crude Prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/bessents-call-upsize-fed-foreign-135337321.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-pressured-strength-stocks-lower-143616915.html"
   },
   {
    "t": "今彩539第115189期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608050347.aspx"
   },
   {
-   "t": "How KLA Went From Cheaper Than Teradyne To The Pricier Stock",
+   "t": "Caterpillar Stock Pulls Up the Dow Thanks to Demand From Data Centers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/kla-went-cheaper-teradyne-pricier-134536326.html"
+   "u": "https://www.wsj.com/livecoverage/stock-market-today-spacex-earnings-08-04-2026/card/caterpillar-stock-jumps-on-positive-outlook-YREiH44stzkteyYiJqPX?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
