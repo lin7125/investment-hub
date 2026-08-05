@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 03:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 03:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 222.15,
-   "c": 4.82,
+   "p": 221.86,
+   "c": 4.68,
    "a50": 205.82,
    "a200": 193.61,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 205.5,
-   "r": 63.2
+   "a20": 205.49,
+   "r": 63.0
   },
   {
    "s": "TSLA",
-   "p": 320.67,
-   "c": -2.04,
-   "a50": 384.94,
-   "a200": 409.98,
+   "p": 321.64,
+   "c": -1.74,
+   "a50": 384.96,
+   "a200": 409.99,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 351.6,
-   "r": 37.3
+   "a20": 351.65,
+   "r": 37.6
   },
   {
    "s": "META",
-   "p": 580.49,
-   "c": -1.27,
-   "a50": 600.9,
-   "a200": 632.59,
+   "p": 582.91,
+   "c": -0.86,
+   "a50": 600.95,
+   "a200": 632.6,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 617.79,
-   "r": 44.8
+   "a20": 617.91,
+   "r": 45.3
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7739.61,
-   "c": 0.04,
-   "a50": 7486.0,
+   "p": 7740.61,
+   "c": 0.05,
+   "a50": 7486.02,
    "a200": 7039.77,
-   "yh": 7739.61,
+   "yh": 7740.61,
    "yl": 6299.19,
-   "a20": 7508.78,
-   "r": 66.4
+   "a20": 7508.83,
+   "r": 66.5
   },
   {
    "s": "^VIX",
-   "p": 15.63,
-   "c": -5.27,
-   "a50": 17.34,
+   "p": 15.58,
+   "c": -5.58,
+   "a50": 17.33,
    "a200": 18.61,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.2,
-   "r": 44.2
+   "a20": 17.19,
+   "r": 44.0
   },
   {
    "s": "BZ=F",
-   "p": 79.35,
-   "c": -0.01,
+   "p": 79.53,
+   "c": 0.21,
    "a50": 85.17,
    "a200": 80.93,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.71,
-   "r": 42.2
+   "a20": 86.72,
+   "r": 42.4
   },
   {
    "s": "GC=F",
-   "p": 4322.3,
-   "c": 5.54,
-   "a50": 4178.11,
+   "p": 4321.9,
+   "c": 5.53,
+   "a50": 4178.1,
    "a200": 4478.77,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4071.19,
+   "a20": 4071.17,
    "r": 63.6
   },
   {
    "s": "HG=F",
-   "p": 6.75,
-   "c": 1.99,
+   "p": 6.76,
+   "c": 2.12,
    "a50": 6.32,
    "a200": 5.82,
-   "yh": 6.75,
+   "yh": 6.76,
    "yl": 4.36,
    "a20": 6.37,
-   "r": 68.7
+   "r": 68.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03098853,
-   "c": 0.38,
+   "c": 0.39,
    "a50": 0.03133814,
    "a200": 0.03166561,
    "yh": 0.033344,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050364.aspx"
   },
   {
-   "t": "How High Can Hyperliquid’s HYPE Token Can Go in 2026?",
+   "t": "Spotify's higher spending on marketing, AI features to hit profit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/high-hyperliquid-hype-token-2026-095242760.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/spotify-forecasts-weak-profit-user-101130556.html"
   },
   {
    "t": "美股早盤延續漲勢　SpaceX股價重挫",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050359.aspx"
   },
   {
-   "t": "‘Quiet cracking’ is still impacting US workers. Here’s what you should know — and how to build a financial escape plan",
+   "t": "How High Can Hyperliquid’s HYPE Token Can Go in 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/quiet-cracking-still-impacting-us-120000835.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/high-hyperliquid-hype-token-2026-095242760.html"
   },
   {
    "t": "美國7月私部門新增就業4.4萬人　遠低於分析師預期",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050349.aspx"
   },
   {
-   "t": "Spotify's higher spending on marketing, AI features to hit profit",
+   "t": "BP Earnings Surge to $5.7 Billion on Oil Price and Refining Boom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/spotify-forecasts-weak-profit-user-101130556.html"
+   "u": "https://finance.yahoo.com/energy/articles/bp-earnings-surge-5-7-103000216.html"
   },
   {
    "t": "今彩539第115189期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608050347.aspx"
   },
   {
-   "t": "Analyst Report: GE Vernova Inc",
+   "t": "Market Update: FIS, HIG, HON, TT, SON, BUD, ABBV, ANET",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_6199_AnalystReport_1785928335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_47830_MarketUpdate_1785952834000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
