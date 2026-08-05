@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 14:44（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 14:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,8 +179,8 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.3,
-   "c": 0.1,
+   "p": 49.35,
+   "c": 0.2,
    "a50": 64.98,
    "a200": 40.23,
    "yh": 165.0,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 79.23,
-   "c": -0.16,
-   "a50": 85.17,
+   "p": 79.1,
+   "c": -0.33,
+   "a50": 85.16,
    "a200": 80.93,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 86.7,
-   "r": 42.1
+   "r": 41.9
   },
   {
    "s": "GC=F",
-   "p": 4232.0,
-   "c": 3.34,
-   "a50": 4176.3,
-   "a200": 4478.32,
+   "p": 4234.9,
+   "c": 3.41,
+   "a50": 4176.36,
+   "a200": 4478.33,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4066.67,
-   "r": 59.1
+   "a20": 4066.82,
+   "r": 59.3
   },
   {
    "s": "HG=F",
    "p": 6.66,
-   "c": 0.56,
+   "c": 0.59,
    "a50": 6.32,
    "a200": 5.82,
    "yh": 6.66,
    "yl": 4.36,
    "a20": 6.37,
-   "r": 65.7
+   "r": 65.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03100775,
-   "c": 0.45,
+   "p": 0.03101737,
+   "c": 0.5,
    "a50": 0.03133814,
    "a200": 0.03166561,
    "yh": 0.033344,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050151.aspx"
   },
   {
-   "t": "Tyson CEO: Reopening the Mexican border won't fully solve the US beef shortage",
+   "t": "Big Oil Companies Report Record Profits Amid High Oil Prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/tyson-ceo-reopening-the-mexican-border-wont-fully-solve-the-us-beef-shortage-190115305.html"
+   "u": "https://finance.yahoo.com/energy/articles/big-oil-companies-report-record-190000465.html"
   },
   {
    "t": "吳誠文：明年行政院科技預算編列1823億　創新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050147.aspx"
   },
   {
-   "t": "US Treasury raises third-quarter borrowing estimate to $739 billion",
+   "t": "This Financial Services Name Offers Two Buy Points And Accelerating Profit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/us-treasury-raises-third-quarter-190213978.html"
+   "u": "https://www.investors.com/research/financial-services-bank-stock-canadian-imperial-cm/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股漲1250.94點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050139.aspx"
   },
   {
-   "t": "Wheat, Soybean, and Corn Prices Fall to Start a New Month. What to Watch Next.",
+   "t": "Best 6-month CD rates for August 2026: Earn up to 4.15% APY",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/wheat-soybean-corn-prices-fall-190002515.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-6-month-cd-rates-161216488.html"
   },
   {
    "t": "台股盤中創第7大漲點　終場收44611點大漲1250點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050135.aspx"
   },
   {
-   "t": "Big Oil Companies Report Record Profits Amid High Oil Prices",
+   "t": "Atkore (ATKR) Rockets 28% Despite Q2 Slump on $3.8B Buyout",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/big-oil-companies-report-record-190000465.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/atkore-atkr-rockets-28-despite-191214664.html"
   },
   {
    "t": "蔡明忠列台灣企業領袖100強　任內台灣大市值增逾3千億",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050126.aspx"
   },
   {
-   "t": "Beyond FedEx, UPS and DHL: Tariff Refunds Get Murkier for International Carriers",
+   "t": "1 Thing Every Micron Stock Investor Needs To Understand Right Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/beyond-fedex-ups-dhl-tariff-190052754.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/1-thing-every-micron-stock-190500732.html"
   }
  ],
  "inst": {
