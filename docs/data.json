@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 04:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 04:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,36 +278,36 @@
   },
   {
    "s": "^VIX",
-   "p": 15.61,
-   "c": -5.39,
+   "p": 15.83,
+   "c": -4.06,
    "a50": 17.34,
    "a200": 18.61,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.2,
-   "r": 44.1
+   "a20": 17.21,
+   "r": 44.8
   },
   {
    "s": "BZ=F",
-   "p": 79.24,
-   "c": -0.15,
-   "a50": 85.17,
+   "p": 79.22,
+   "c": -0.18,
+   "a50": 85.16,
    "a200": 80.93,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.71,
+   "a20": 86.7,
    "r": 42.1
   },
   {
    "s": "GC=F",
-   "p": 4308.1,
-   "c": 5.19,
-   "a50": 4177.82,
-   "a200": 4478.7,
+   "p": 4309.6,
+   "c": 5.23,
+   "a50": 4177.85,
+   "a200": 4478.71,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4070.48,
-   "r": 63.0
+   "a20": 4070.55,
+   "r": 63.1
   },
   {
    "s": "HG=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03099814,
-   "c": 0.42,
+   "p": 0.03100775,
+   "c": 0.46,
    "a50": 0.03133814,
    "a200": 0.03166561,
    "yh": 0.033344,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060002.aspx"
   },
   {
-   "t": "NIKE Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "t": "Broadridge quarterly profit climbs on investor communications strength",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nike-stock-outlook-wall-street-105732355.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/broadridge-quarterly-profit-climbs-investor-115415420.html"
   },
   {
    "t": "迪士尼TikTok達協議　允短影音創作者運用角色及場景",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050364.aspx"
   },
   {
-   "t": "Dogecoin Price Retests the Zone That Triggered 900% DOGE Rally",
+   "t": "Are Wall Street Analysts Bullish on Procter & Gamble Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-price-retests-zone-triggered-105731132.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-procter-120304823.html"
   },
   {
    "t": "美股早盤延續漲勢　SpaceX股價重挫",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050359.aspx"
   },
   {
-   "t": "Pfizer beats quarterly profit estimates on strong demand for blood thinner Eliquis",
+   "t": "Truck capacity tightens as shippers pay more for less",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/pfizer-beats-quarterly-profit-estimates-105839529.html"
+   "u": "https://finance.yahoo.com/economy/articles/truck-capacity-tightens-shippers-pay-120000729.html"
   },
   {
    "t": "美國7月私部門新增就業4.4萬人　遠低於分析師預期",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050349.aspx"
   },
   {
-   "t": "Covered Call Screener Results for August 4th",
+   "t": "‘I lived through 2000, I don't want the sequel’: Jim Cramer says AI's circular financing is getting out of hand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/covered-call-screener-results-august-110002187.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/lived-2000-dont-want-sequel-120000212.html"
   },
   {
    "t": "今彩539第115189期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608050347.aspx"
   },
   {
-   "t": "India paves way for return of merchant fees on digital payments",
+   "t": "Inside Wingstop’s Quest to Become a Top Global Restaurant Brand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/india-paves-way-return-merchant-105401136.html"
+   "u": "https://finance.yahoo.com/small-business/articles/inside-wingstop-quest-become-top-112853994.html"
   }
  ],
  "inst": {
