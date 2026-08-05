@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 01:56（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 01:59（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 309.11,
-   "c": -0.09,
-   "a50": 309.62,
+   "p": 308.83,
+   "c": -0.18,
+   "a50": 309.61,
    "a200": 278.85,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.63,
-   "r": 44.5
+   "a20": 323.61,
+   "r": 44.4
   },
   {
    "s": "NVDA",
-   "p": 220.89,
-   "c": 4.22,
+   "p": 220.87,
+   "c": 4.21,
    "a50": 205.8,
    "a200": 193.6,
    "yh": 235.74,
@@ -234,8 +234,8 @@
   },
   {
    "s": "TSLA",
-   "p": 322.3,
-   "c": -1.54,
+   "p": 322.2,
+   "c": -1.57,
    "a50": 384.97,
    "a200": 409.99,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 583.67,
-   "c": -0.73,
-   "a50": 600.97,
-   "a200": 632.61,
+   "p": 583.47,
+   "c": -0.76,
+   "a50": 600.96,
+   "a200": 632.6,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 617.95,
-   "r": 45.5
+   "a20": 617.94,
+   "r": 45.4
   },
   {
    "s": "^TWII",
@@ -267,13 +267,13 @@
   },
   {
    "s": "^GSPC",
-   "p": 7739.97,
-   "c": 0.04,
+   "p": 7740.23,
+   "c": 0.05,
    "a50": 7486.01,
    "a200": 7039.77,
-   "yh": 7739.97,
+   "yh": 7740.23,
    "yl": 6299.19,
-   "a20": 7508.8,
+   "a20": 7508.81,
    "r": 66.4
   },
   {
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 78.84,
-   "c": -0.66,
+   "p": 78.89,
+   "c": -0.59,
    "a50": 85.16,
    "a200": 80.93,
    "yh": 118.35,
@@ -300,29 +300,29 @@
   },
   {
    "s": "GC=F",
-   "p": 4309.5,
-   "c": 5.23,
-   "a50": 4177.85,
-   "a200": 4478.71,
+   "p": 4311.4,
+   "c": 5.27,
+   "a50": 4177.89,
+   "a200": 4478.72,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4070.55,
+   "a20": 4070.64,
    "r": 63.1
   },
   {
    "s": "HG=F",
-   "p": 6.74,
-   "c": 1.76,
+   "p": 6.73,
+   "c": 1.75,
    "a50": 6.32,
    "a200": 5.82,
-   "yh": 6.74,
+   "yh": 6.73,
    "yl": 4.36,
    "a20": 6.37,
    "r": 68.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03099814,
+   "p": 0.03100775,
    "c": 0.44,
    "a50": 0.03133814,
    "a200": 0.03166561,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050364.aspx"
   },
   {
-   "t": "Stocks mixed with Nasdaq down; gold prices jump",
+   "t": "Stocks To Watch On Wall Street's Radar — Several In Or Near Buy Range",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-surge-tech-mood-014132859.html"
+   "u": "https://www.investors.com/research/breakout-stocks-technical-analysis/stocks-to-watch-raymond-james-us-bancorp-tapestry-lead-breakout-index/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美股早盤延續漲勢　SpaceX股價重挫",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050359.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Rises With Hormuz Deal Development But Nasdaq Sags; Astera Labs Skids (Live Coverage)",
+   "t": "The New York Times Has A Growth Stock Problem",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-amd-stock-spacex-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/york-times-growth-stock-problem-174441729.html"
   },
   {
    "t": "美國7月私部門新增就業4.4萬人　遠低於分析師預期",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050349.aspx"
   },
   {
-   "t": "SpaceX stock drops as AI capex jumps in Q2",
+   "t": "Stocks mixed with Nasdaq down; gold prices jump",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/spacex-stock-drops-as-ai-capex-jumps-in-q2-132323178.html"
+   "u": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-surge-tech-mood-014132859.html"
   },
   {
    "t": "今彩539第115189期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608050347.aspx"
   },
   {
-   "t": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings",
+   "t": "Stock Market Today: Dow Rises With Hormuz Deal Development But Nasdaq Sags; Astera Labs Skids (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/this-was-not-an-exceptional-result-why-amd-stock-tanked-5-after-earnings-112124288.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-amd-stock-spacex-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "AI驅動需求　中華資安：非常有信心今年雙位數成長",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050331.aspx"
   },
   {
-   "t": "Analyst Report: Digital Realty Trust Inc",
+   "t": "Market Digest: ADTN, BMY, ECL, PWR, ROL, DLR, GNRC, GEV, PLTR",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_4555_AnalystReport_1785928335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_47823_MarketSummary_1785928335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
