@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 01:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 01:39（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 309.65,
-   "c": 0.09,
+   "p": 309.83,
+   "c": 0.15,
    "a50": 309.63,
    "a200": 278.85,
    "yh": 340.08,
    "yl": 202.92,
-   "a20": 323.65,
-   "r": 44.9
+   "a20": 323.66,
+   "r": 45.0
   },
   {
    "s": "NVDA",
-   "p": 221.28,
-   "c": 4.41,
-   "a50": 205.81,
+   "p": 221.01,
+   "c": 4.28,
+   "a50": 205.8,
    "a200": 193.6,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 205.46,
-   "r": 62.7
+   "a20": 205.45,
+   "r": 62.6
   },
   {
    "s": "TSLA",
-   "p": 323.2,
-   "c": -1.27,
+   "p": 323.28,
+   "c": -1.24,
    "a50": 384.99,
    "a200": 410.0,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 583.93,
-   "c": -0.68,
-   "a50": 600.97,
-   "a200": 632.61,
+   "p": 582.93,
+   "c": -0.85,
+   "a50": 600.95,
+   "a200": 632.6,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 617.96,
-   "r": 45.5
+   "a20": 617.91,
+   "r": 45.3
   },
   {
    "s": "^TWII",
@@ -267,13 +267,13 @@
   },
   {
    "s": "^GSPC",
-   "p": 7739.38,
+   "p": 7739.28,
    "c": 0.04,
    "a50": 7485.99,
    "a200": 7039.77,
-   "yh": 7739.38,
+   "yh": 7739.28,
    "yl": 6299.19,
-   "a20": 7508.77,
+   "a20": 7508.76,
    "r": 66.4
   },
   {
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 78.67,
-   "c": -0.87,
-   "a50": 85.15,
+   "p": 78.77,
+   "c": -0.74,
+   "a50": 85.16,
    "a200": 80.93,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 86.68,
-   "r": 41.5
+   "r": 41.6
   },
   {
    "s": "GC=F",
-   "p": 4299.3,
-   "c": 4.98,
-   "a50": 4177.65,
-   "a200": 4478.66,
+   "p": 4304.0,
+   "c": 5.09,
+   "a50": 4177.74,
+   "a200": 4478.68,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4070.04,
-   "r": 62.6
+   "a20": 4070.27,
+   "r": 62.8
   },
   {
    "s": "HG=F",
    "p": 6.73,
-   "c": 1.65,
+   "c": 1.69,
    "a50": 6.32,
    "a200": 5.82,
    "yh": 6.73,
    "yl": 4.36,
    "a20": 6.37,
-   "r": 68.0
+   "r": 68.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03096934,
-   "c": 0.34,
+   "p": 0.03097893,
+   "c": 0.35,
    "a50": 0.03133814,
    "a200": 0.03166561,
    "yh": 0.033344,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050364.aspx"
   },
   {
-   "t": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings",
+   "t": "SpaceX stock drops as AI capex jumps in Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/this-was-not-an-exceptional-result-why-amd-stock-tanked-5-after-earnings-112124288.html"
+   "u": "https://finance.yahoo.com/technology/article/spacex-stock-drops-as-ai-capex-jumps-in-q2-132323178.html"
   },
   {
    "t": "美股早盤延續漲勢　SpaceX股價重挫",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050359.aspx"
   },
   {
-   "t": "Micron (MU) Has More to Gain Than Nvidia (NVDA) Has to Lose From Samsung’s 2028 Warning",
+   "t": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-more-gain-nvidia-171417442.html"
+   "u": "https://finance.yahoo.com/markets/article/this-was-not-an-exceptional-result-why-amd-stock-tanked-5-after-earnings-112124288.html"
   },
   {
    "t": "美國7月私部門新增就業4.4萬人　遠低於分析師預期",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050349.aspx"
   },
   {
-   "t": "Tech stocks today: SpaceX, AMD top quarterly results, but fail to impress Wall Street. Shares sink",
+   "t": "Micron (MU) Has More to Gain Than Nvidia (NVDA) Has to Lose From Samsung’s 2028 Warning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-top-quarterly-results-but-fail-to-impress-wall-street-shares-sink-140419479.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-more-gain-nvidia-171417442.html"
   },
   {
    "t": "今彩539第115189期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608050347.aspx"
   },
   {
-   "t": "Orthofix Medical Inc. Q2 2026 Earnings Call Summary",
+   "t": "Tech stocks today: SpaceX, AMD top quarterly results, but fail to impress Wall Street. Shares sink",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/orthofix-medical-inc-q2-2026-170644440.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-top-quarterly-results-but-fail-to-impress-wall-street-shares-sink-140419479.html"
   },
   {
    "t": "AI驅動需求　中華資安：非常有信心今年雙位數成長",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050331.aspx"
   },
   {
-   "t": "Analyst Report: Digital Realty Trust Inc",
+   "t": "Analyst Report: Bristol-Myers Squibb Co",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_4555_AnalystReport_1785928335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_2781_AnalystReport_1785928335000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
