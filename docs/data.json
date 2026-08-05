@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-08-05 13:43（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 13:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2395.0,
-   "c": 3.23,
-   "a50": 2376.9,
-   "a200": 1911.25,
+   "p": 2405.0,
+   "c": 3.66,
+   "a50": 2377.1,
+   "a200": 1911.3,
    "yh": 2510.0,
    "yl": 1125.0,
-   "a20": 2366.0,
-   "r": 52.4
+   "a20": 2366.5,
+   "r": 53.0
   },
   {
    "s": "2317.TW",
-   "p": 257.5,
-   "c": 3.0,
-   "a50": 256.16,
-   "a200": 234.04,
+   "p": 258.5,
+   "c": 3.4,
+   "a50": 256.18,
+   "a200": 234.05,
    "yh": 309.0,
    "yl": 184.5,
-   "a20": 243.65,
-   "r": 56.9
+   "a20": 243.7,
+   "r": 57.4
   },
   {
    "s": "2308.TW",
@@ -36,14 +36,14 @@
   },
   {
    "s": "2454.TW",
-   "p": 3985.0,
-   "c": 3.1,
-   "a50": 4050.8,
-   "a200": 2353.05,
+   "p": 4000.0,
+   "c": 3.49,
+   "a50": 4051.1,
+   "a200": 2353.12,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3666.25,
-   "r": 55.4
+   "a20": 3667.0,
+   "r": 55.7
   },
   {
    "s": "2327.TW",
@@ -58,47 +58,47 @@
   },
   {
    "s": "1802.TW",
-   "p": 53.6,
-   "c": 2.49,
-   "a50": 62.99,
+   "p": 53.9,
+   "c": 3.06,
+   "a50": 63.0,
    "a200": 51.37,
    "yh": 76.6,
    "yl": 23.3,
-   "a20": 54.64,
-   "r": 46.2
+   "a20": 54.65,
+   "r": 46.7
   },
   {
    "s": "6862.TW",
-   "p": 142.5,
-   "c": 3.26,
-   "a50": 178.6,
-   "a200": 178.04,
+   "p": 144.0,
+   "c": 4.35,
+   "a50": 178.63,
+   "a200": 178.05,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 149.02,
-   "r": 43.0
+   "a20": 149.1,
+   "r": 43.9
   },
   {
    "s": "3701.TW",
-   "p": 42.25,
-   "c": 8.06,
-   "a50": 45.15,
-   "a200": 48.71,
+   "p": 42.9,
+   "c": 9.72,
+   "a50": 45.16,
+   "a200": 48.72,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.31,
-   "r": 53.4
+   "a20": 39.34,
+   "r": 54.8
   },
   {
    "s": "4722.TW",
-   "p": 218.5,
-   "c": 7.64,
-   "a50": 247.59,
+   "p": 218.0,
+   "c": 7.39,
+   "a50": 247.58,
    "a200": 198.77,
    "yh": 306.5,
    "yl": 69.6,
-   "a20": 217.32,
-   "r": 49.4
+   "a20": 217.3,
+   "r": 49.2
   },
   {
    "s": "6706.TW",
@@ -135,14 +135,14 @@
   },
   {
    "s": "6515.TW",
-   "p": 6845.0,
-   "c": 4.11,
-   "a50": 7940.4,
-   "a200": 5834.22,
+   "p": 6885.0,
+   "c": 4.71,
+   "a50": 7941.2,
+   "a200": 5834.42,
    "yh": 10795.0,
    "yl": 1080.0,
-   "a20": 6531.0,
-   "r": 48.9
+   "a20": 6533.0,
+   "r": 49.3
   },
   {
    "s": "6446.TW",
@@ -157,14 +157,14 @@
   },
   {
    "s": "3324.TWO",
-   "p": 966.0,
-   "c": 2.33,
-   "a50": 994.14,
-   "a200": 995.0,
+   "p": 965.0,
+   "c": 2.22,
+   "a50": 994.12,
+   "a200": 994.99,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 905.45,
-   "r": 53.9
+   "a20": 905.4,
+   "r": 53.8
   },
   {
    "s": "3491.TWO",
@@ -179,36 +179,36 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.35,
-   "c": 0.2,
-   "a50": 64.98,
+   "p": 49.7,
+   "c": 0.91,
+   "a50": 64.99,
    "a200": 40.23,
    "yh": 165.0,
    "yl": 5.4,
-   "a20": 50.52,
-   "r": 43.9
+   "a20": 50.54,
+   "r": 44.4
   },
   {
    "s": "6223.TWO",
-   "p": 6215.0,
-   "c": 5.34,
-   "a50": 6153.9,
-   "a200": 3859.38,
+   "p": 6245.0,
+   "c": 5.85,
+   "a50": 6154.5,
+   "a200": 3859.52,
    "yh": 7380.0,
    "yl": 998.0,
-   "a20": 5912.5,
-   "r": 54.0
+   "a20": 5914.0,
+   "r": 54.3
   },
   {
    "s": "6750.TWO",
-   "p": 55.6,
-   "c": 7.13,
-   "a50": 62.4,
-   "a200": 56.35,
+   "p": 54.5,
+   "c": 5.01,
+   "a50": 62.38,
+   "a200": 56.34,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 57.08,
-   "r": 44.6
+   "a20": 57.02,
+   "r": 41.7
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44452.89,
-   "c": 2.52,
-   "a50": 44733.03,
-   "a200": 35276.32,
+   "p": 44611.6,
+   "c": 2.88,
+   "a50": 44736.2,
+   "a200": 35277.11,
    "yh": 47741.51,
    "yl": 23447.36,
-   "a20": 43733.95,
-   "r": 53.0
+   "a20": 43741.89,
+   "r": 53.6
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 78.71,
-   "c": -6.04,
+   "p": 78.7,
+   "c": -6.05,
    "a50": 85.64,
    "a200": 80.84,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4198.7,
-   "c": 4.09,
-   "a50": 4184.15,
-   "a200": 4479.08,
+   "p": 4212.4,
+   "c": 4.43,
+   "a50": 4184.42,
+   "a200": 4479.15,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4063.78,
-   "r": 56.7
+   "a20": 4064.47,
+   "r": 57.5
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 2.13,
+   "p": 6.66,
+   "c": 2.27,
    "a50": 6.32,
    "a200": 5.81,
-   "yh": 6.65,
+   "yh": 6.66,
    "yl": 4.36,
    "a20": 6.34,
-   "r": 65.5
+   "r": 65.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03100775,
-   "c": 0.44,
+   "p": 0.03101737,
+   "c": 0.47,
    "a50": 0.03133814,
    "a200": 0.03166561,
    "yh": 0.033344,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050097.aspx"
   },
   {
-   "t": "Microsoft and Amazon Are Spending Billions on AI. 1 Is Getting Far Better Returns.",
+   "t": "AMD Reports Q2 Earnings on Aug. 4. Here’s Why Analysts Remain Bullish.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/microsoft-amazon-spending-billions-ai-174738514.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amd-reports-q2-earnings-aug-175235763.html"
   },
   {
    "t": "綠商標10年申請逾12.6萬件　統一企業蘋果任天堂進榜前3",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050094.aspx"
   },
   {
-   "t": "This ETF, The IBD Stock Of The Day, Breaks Out As Cybersecurity Stocks Rebound",
+   "t": "Microsoft and Amazon Are Spending Billions on AI. 1 Is Getting Far Better Returns.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/cybersecurity-stocks-ai-competition-fears-hack-etf/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/ai/articles/microsoft-amazon-spending-billions-ai-174738514.html"
   },
   {
    "t": "美伊局勢露曙光　新台幣強升逾1.7角股匯同步狂飆",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050088.aspx"
   },
   {
-   "t": "STG drayage drivers to get cash in NJ misclassification case",
+   "t": "Gen Digital Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/stg-drayage-drivers-cash-nj-174106403.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/gen-digital-stock-analyst-estimates-180917563.html"
   },
   {
    "t": "台積電領軍衝鋒　台股盤中飆漲1562點創第8大漲點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050055.aspx"
   },
   {
-   "t": "Analysts Have Discovered Lost Love for Ford, But Don’t Rush to Buy F Stock for 2027",
+   "t": "STG drayage drivers to get cash in NJ misclassification case",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/analysts-discovered-lost-love-ford-173754337.html"
+   "u": "https://finance.yahoo.com/small-business/articles/stg-drayage-drivers-cash-nj-174106403.html"
   },
   {
    "t": "日經亞洲：美國貝恩資本將以逾202億元收購貢茶",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050054.aspx"
   },
   {
-   "t": "Whale Bets $23 Million on Gold as Deutsche Bank Sees Fair Value at $4,700",
+   "t": "BlackRock Unveils Two New Tokenized Treasury Funds on Ethereum",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/whale-bets-23-million-gold-174339242.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/blackrock-unveils-two-tokenized-treasury-175607016.html"
   }
  ],
  "inst": {
