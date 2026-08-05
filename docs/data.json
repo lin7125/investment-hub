@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 15:56（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 15:58（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.04,
-   "c": -2.79,
+   "p": 16.01,
+   "c": -2.97,
    "a50": 17.34,
    "a200": 18.61,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.22,
-   "r": 45.4
+   "r": 45.3
   },
   {
    "s": "BZ=F",
-   "p": 79.97,
-   "c": 0.77,
+   "p": 80.1,
+   "c": 0.93,
    "a50": 85.18,
    "a200": 80.94,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.74,
-   "r": 43.0
+   "a20": 86.75,
+   "r": 43.2
   },
   {
    "s": "GC=F",
-   "p": 4226.2,
-   "c": 3.19,
-   "a50": 4176.19,
-   "a200": 4478.29,
+   "p": 4223.5,
+   "c": 3.13,
+   "a50": 4176.13,
+   "a200": 4478.28,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4066.38,
-   "r": 58.8
+   "a20": 4066.25,
+   "r": 58.7
   },
   {
    "s": "HG=F",
    "p": 6.66,
-   "c": 0.63,
+   "c": 0.6,
    "a50": 6.32,
    "a200": 5.82,
    "yh": 6.66,
    "yl": 4.36,
    "a20": 6.37,
-   "r": 65.9
+   "r": 65.8
   },
   {
    "s": "TWDUSD",
    "p": 0.0310559,
-   "c": 0.61,
+   "c": 0.59,
    "a50": 0.03133814,
    "a200": 0.03166561,
    "yh": 0.033344,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050151.aspx"
   },
   {
-   "t": "Wall Street rallies, Dow closes at record on Iran talks optimism",
+   "t": "Stocks Settle Sharply Higher as Middle East Tensions Ease",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-edge-mideast-100930076.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-sharply-higher-middle-203356068.html"
   },
   {
    "t": "吳誠文：明年行政院科技預算編列1823億　創新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050147.aspx"
   },
   {
-   "t": "Meta Platforms Stock Plunges On Earnings; This Bearish Options Trade Could Earn $470",
+   "t": "Nvidia Stock Retakes Key Level As Chip Stocks Waver",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/meta-platforms-stock-plunges-earnings-bearish-options-trade-470/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/nvidia-stock-up-chip-stocks-sox-index-wavers/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股漲1250.94點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050139.aspx"
   },
   {
-   "t": "Why Analysts Are Divided Over Circle (CRCL) Stock",
+   "t": "Meta Platforms Stock Plunges On Earnings; This Bearish Options Trade Could Earn $470",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/why-analysts-divided-over-circle-202411004.html"
+   "u": "https://www.investors.com/research/options/meta-platforms-stock-plunges-earnings-bearish-options-trade-470/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股盤中創第7大漲點　終場收44611點大漲1250點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050135.aspx"
   },
   {
-   "t": "Three Noteworthy Biotechs Just Reported Earnings — And Only One Recovered",
+   "t": "O’Reilly Automotive (ORLY) Raises Guidance—Can Margins Keep Up With Growth?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/biotech-stocks-q2-2026-earnings-tg-therapeutics-twist-biotech-krystal-biotech/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/o-reilly-automotive-orly-raises-203823722.html"
   },
   {
    "t": "蔡明忠列台灣企業領袖100強　任內台灣大市值增逾3千億",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050126.aspx"
   },
   {
-   "t": "SpaceX’s First Earnings Report Is Almost Here. Will Investors Get Back on Board?",
+   "t": "Nvidia Stock Is in a $200 Rut, and Big Tech Earnings Aren’t Helping",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-first-earnings-report-lands-202533644.html"
+   "u": "https://www.barrons.com/articles/nvidia-stock-price-big-tech-earnings-ce4e9106?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
