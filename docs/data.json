@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 05:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 05:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 79.34,
-   "c": -0.03,
+   "p": 79.4,
+   "c": 0.05,
    "a50": 85.17,
    "a200": 80.93,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4304.3,
-   "c": 5.1,
-   "a50": 4177.75,
-   "a200": 4478.68,
+   "p": 4308.0,
+   "c": 5.19,
+   "a50": 4177.82,
+   "a200": 4478.7,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4070.29,
-   "r": 62.8
+   "a20": 4070.47,
+   "r": 63.0
   },
   {
    "s": "HG=F",
    "p": 6.75,
-   "c": 1.92,
+   "c": 1.96,
    "a50": 6.32,
    "a200": 5.82,
    "yh": 6.75,
    "yl": 4.36,
    "a20": 6.37,
-   "r": 68.5
+   "r": 68.6
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060002.aspx"
   },
   {
-   "t": "131 Poisoned AI Packages Hit Microsoft’s (MSFT) npm. CrowdStrike (CRWD) Couldn’t Ask for a Better Sales Pitch",
+   "t": "Are Wall Street Analysts Predicting Colgate-Palmolive Stock Will Climb or Sink?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/131-poisoned-ai-packages-hit-123042550.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-colgate-125845071.html"
   },
   {
    "t": "迪士尼TikTok達協議　允短影音創作者運用角色及場景",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050364.aspx"
   },
   {
-   "t": "Voyager Technologies, Inc. Q2 2026 Earnings Call Summary",
+   "t": "A Palantir Deal May Boost Mercury System’s Efficiency, But Don’t Rush to Buy MRCY Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/voyager-technologies-inc-q2-2026-123000756.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/palantir-deal-may-boost-mercury-130001985.html"
   },
   {
    "t": "美股早盤延續漲勢　SpaceX股價重挫",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050359.aspx"
   },
   {
-   "t": "Douglas Dynamics, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Transportation capacity falls faster in July, rates remain high",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/douglas-dynamics-inc-q2-2026-123000819.html"
+   "u": "https://finance.yahoo.com/economy/articles/transportation-capacity-falls-faster-july-130441608.html"
   },
   {
    "t": "美國7月私部門新增就業4.4萬人　遠低於分析師預期",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608050349.aspx"
   },
   {
-   "t": "New Mountain Finance Corporation Q2 2026 Earnings Call Summary",
+   "t": "CoreWeave expands into Indonesia, announces first data center in Asia-Pacific",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mountain-finance-corporation-q2-2026-123000701.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/coreweave-expands-indonesia-announces-first-130550234.html"
   },
   {
    "t": "今彩539第115189期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608050347.aspx"
   },
   {
-   "t": "Hillman Solutions Corp. Q2 2026 Earnings Call Summary",
+   "t": "Why People End Up House Poor",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/hillman-solutions-corp-q2-2026-123000213.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/why-people-end-house-poor-130035159.html"
   }
  ],
  "inst": {
