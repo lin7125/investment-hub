@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 16:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 17:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 15.97,
-   "c": -3.21,
-   "a50": 17.34,
+   "p": 16.12,
+   "c": -2.3,
+   "a50": 17.35,
    "a200": 18.61,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.21,
-   "r": 45.2
+   "a20": 17.22,
+   "r": 45.7
   },
   {
    "s": "BZ=F",
-   "p": 80.16,
-   "c": 1.01,
+   "p": 80.14,
+   "c": 0.98,
    "a50": 85.18,
    "a200": 80.94,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4226.5,
-   "c": 3.2,
-   "a50": 4176.19,
+   "p": 4225.7,
+   "c": 3.18,
+   "a50": 4176.18,
    "a200": 4478.29,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4066.4,
+   "a20": 4066.36,
    "r": 58.8
   },
   {
    "s": "HG=F",
    "p": 6.64,
-   "c": 0.37,
+   "c": 0.36,
    "a50": 6.32,
    "a200": 5.82,
    "yh": 6.65,
    "yl": 4.36,
    "a20": 6.36,
-   "r": 65.3
+   "r": 65.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03097893,
-   "c": 0.36,
+   "p": 0.03095017,
+   "c": 0.27,
    "a50": 0.03133814,
    "a200": 0.03166561,
    "yh": 0.033344,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "台股大漲1250點收復季線　電子權值及矽光子強勢",
+   "t": "南亞科加速新廠產能建置　今年資本支出升至697億元",
    "pub": "中央社財經",
    "d": "2026-08-05",
-   "u": "https://www.cna.com.tw/news/afe/202608050152.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608050225.aspx"
   },
   {
    "t": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
@@ -344,64 +344,64 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html"
   },
   {
-   "t": "8月台股期指漲1170點",
+   "t": "同欣電攻光通訊及AI伺服器陶瓷基板　明年業績看佳",
    "pub": "中央社財經",
    "d": "2026-08-05",
-   "u": "https://www.cna.com.tw/news/afe/202608050151.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608050220.aspx"
   },
   {
-   "t": "Stocks Settle Sharply Higher as Middle East Tensions Ease",
+   "t": "Covered Call ETFs Explained: How That 8% Yield Actually Works (and What You Give Up)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-sharply-higher-middle-203356068.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/covered-call-etfs-explained-8-232105238.html"
   },
   {
-   "t": "吳誠文：明年行政院科技預算編列1823億　創新高",
+   "t": "鴻海7月營收9465億元創新高　受惠AI伺服器第3季加溫",
    "pub": "中央社財經",
    "d": "2026-08-05",
-   "u": "https://www.cna.com.tw/news/afe/202608050147.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608050209.aspx"
   },
   {
-   "t": "Wall Street rallies, Dow closes at record on Iran talks optimism",
+   "t": "Big Oil Warns Global Fuel Stocks Are Running Dangerously Low",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-edge-mideast-100930076.html"
+   "u": "https://finance.yahoo.com/energy/articles/big-oil-warns-global-fuel-230000108.html"
   },
   {
-   "t": "台股漲1250.94點",
+   "t": "新台幣強升1.32角　收32.315元",
    "pub": "中央社財經",
    "d": "2026-08-05",
-   "u": "https://www.cna.com.tw/news/afe/202608050139.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608050206.aspx"
   },
   {
-   "t": "Nvidia Stock Retakes Key Level As Chip Stocks Waver",
+   "t": "The Power Sector’s New Constraint Isn’t Demand—It’s Everything Else",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/nvidia-stock-up-chip-stocks-sox-index-wavers/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/energy/articles/power-sector-constraint-isn-t-223828520.html"
   },
   {
-   "t": "台股盤中創第7大漲點　終場收44611點大漲1250點",
+   "t": "渢妙一期99隻基樁完成打樁　CIP拚2027年如期併網",
    "pub": "中央社財經",
    "d": "2026-08-05",
-   "u": "https://www.cna.com.tw/news/afe/202608050135.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608050205.aspx"
   },
   {
-   "t": "Meta Platforms Stock Plunges On Earnings; This Bearish Options Trade Could Earn $470",
+   "t": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/meta-platforms-stock-plunges-earnings-bearish-options-trade-470/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html"
   },
   {
-   "t": "蔡明忠列台灣企業領袖100強　任內台灣大市值增逾3千億",
+   "t": "新光三越中秋禮品業績拚破億元　進口油買氣增逾1倍",
    "pub": "中央社財經",
    "d": "2026-08-05",
-   "u": "https://www.cna.com.tw/news/afe/202608050126.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608050198.aspx"
   },
   {
-   "t": "Traders in the world’s most important financial market are bracing for a wild stretch ahead",
+   "t": "Trader Joe's has one advantage over Walmart and Target",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/traders-world-most-important-financial-203200540.html"
+   "u": "https://finance.yahoo.com/small-business/articles/trader-joes-one-advantage-over-003700727.html"
   }
  ],
  "inst": {
