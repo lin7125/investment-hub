@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05 15:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-05 15:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.11,
-   "c": -2.36,
-   "a50": 17.35,
+   "p": 16.04,
+   "c": -2.79,
+   "a50": 17.34,
    "a200": 18.61,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.22,
-   "r": 45.7
+   "r": 45.4
   },
   {
    "s": "BZ=F",
-   "p": 80.38,
-   "c": 1.29,
-   "a50": 85.19,
+   "p": 79.97,
+   "c": 0.77,
+   "a50": 85.18,
    "a200": 80.94,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.76,
-   "r": 43.5
+   "a20": 86.74,
+   "r": 43.0
   },
   {
    "s": "GC=F",
-   "p": 4221.7,
-   "c": 3.08,
-   "a50": 4176.1,
-   "a200": 4478.27,
+   "p": 4226.2,
+   "c": 3.19,
+   "a50": 4176.19,
+   "a200": 4478.29,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4066.16,
-   "r": 58.6
+   "a20": 4066.38,
+   "r": 58.8
   },
   {
    "s": "HG=F",
-   "p": 6.67,
-   "c": 0.76,
+   "p": 6.66,
+   "c": 0.63,
    "a50": 6.32,
    "a200": 5.82,
-   "yh": 6.67,
+   "yh": 6.66,
    "yl": 4.36,
    "a20": 6.37,
-   "r": 66.2
+   "r": 65.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03103662,
-   "c": 0.53,
+   "p": 0.0310559,
+   "c": 0.61,
    "a50": 0.03133814,
    "a200": 0.03166561,
    "yh": 0.033344,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050151.aspx"
   },
   {
-   "t": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
+   "t": "Wall Street rallies, Dow closes at record on Iran talks optimism",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/spacex-earnings-key-themes-q2-2026-elon-musk-starlink-starship-xai-nasa-falcon9/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-edge-mideast-100930076.html"
   },
   {
    "t": "吳誠文：明年行政院科技預算編列1823億　創新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050147.aspx"
   },
   {
-   "t": "Marriott Outlook Comes Up Short As Middle East Conflicts Drag On Results",
+   "t": "Meta Platforms Stock Plunges On Earnings; This Bearish Options Trade Could Earn $470",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/marriott-international-earnings-q2-2026-travel-demand-middle-east-mar-stock/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/research/options/meta-platforms-stock-plunges-earnings-bearish-options-trade-470/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股漲1250.94點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050139.aspx"
   },
   {
-   "t": "AstraZeneca Nosedives On A Rumored Megamerger; Is $160 Billion Enough?",
+   "t": "Why Analysts Are Divided Over Circle (CRCL) Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/astrazeneca-stock-bristol-myers-squibb-rumored-deal/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/why-analysts-divided-over-circle-202411004.html"
   },
   {
    "t": "台股盤中創第7大漲點　終場收44611點大漲1250點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608050126.aspx"
   },
   {
-   "t": "Elon Musk backs bullish case for SpaceX investors ahead of first earnings report",
+   "t": "SpaceX’s First Earnings Report Is Almost Here. Will Investors Get Back on Board?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-backs-bullish-case-201837958.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-first-earnings-report-lands-202533644.html"
   }
  ],
  "inst": {
