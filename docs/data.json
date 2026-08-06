@@ -1,115 +1,115 @@
 {
- "generatedAt": "2026-08-06 13:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 13:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2370.0,
-   "c": 0.0,
-   "a50": 2375.4,
-   "a200": 1906.7,
+   "p": 2375.0,
+   "c": -1.25,
+   "a50": 2378.6,
+   "a200": 1916.1,
    "yh": 2510.0,
    "yl": 1125.0,
-   "a20": 2372.0,
-   "r": 50.6
+   "a20": 2364.5,
+   "r": 50.9
   },
   {
    "s": "2317.TW",
-   "p": 264.0,
-   "c": 2.13,
-   "a50": 256.18,
-   "a200": 234.24,
+   "p": 264.5,
+   "c": 2.32,
+   "a50": 256.19,
+   "a200": 234.25,
    "yh": 309.0,
    "yl": 186.0,
-   "a20": 245.02,
-   "r": 60.3
+   "a20": 245.05,
+   "r": 60.5
   },
   {
    "s": "2308.TW",
-   "p": 1675.0,
-   "c": 6.01,
-   "a50": 2014.3,
-   "a200": 1491.56,
+   "p": 1685.0,
+   "c": 2.12,
+   "a50": 1982.5,
+   "a200": 1498.12,
    "yh": 2520.0,
    "yl": 621.0,
-   "a20": 1763.25,
-   "r": 43.1
+   "a20": 1739.0,
+   "r": 44.1
   },
   {
    "s": "2454.TW",
-   "p": 3925.0,
-   "c": 0.38,
-   "a50": 4057.6,
-   "a200": 2340.05,
+   "p": 3935.0,
+   "c": -1.62,
+   "a50": 4037.0,
+   "a200": 2366.12,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3669.75,
-   "r": 54.2
-  },
-  {
-   "s": "2327.TW",
-   "p": 568.0,
-   "c": 2.9,
-   "a50": 822.69,
-   "a200": 412.19,
-   "yh": 1140.0,
-   "yl": 134.5,
-   "a20": 683.62,
-   "r": 37.9
-  },
-  {
-   "s": "1802.TW",
-   "p": 53.9,
-   "c": 0.0,
-   "a50": 62.62,
-   "a200": 51.48,
-   "yh": 76.6,
-   "yl": 23.3,
-   "a20": 54.1,
-   "r": 46.7
-  },
-  {
-   "s": "6862.TW",
-   "p": 142.5,
-   "c": -1.04,
-   "a50": 177.76,
-   "a200": 177.95,
-   "yh": 228.0,
-   "yl": 117.0,
-   "a20": 147.15,
-   "r": 43.2
-  },
-  {
-   "s": "3701.TW",
-   "p": 42.6,
-   "c": -0.7,
-   "a50": 44.9,
-   "a200": 48.73,
-   "yh": 78.6,
-   "yl": 29.4,
-   "a20": 39.39,
+   "a20": 3667.5,
    "r": 54.0
   },
   {
+   "s": "2327.TW",
+   "p": 573.0,
+   "c": -0.87,
+   "a50": 818.43,
+   "a200": 416.08,
+   "yh": 1140.0,
+   "yl": 134.5,
+   "a20": 651.52,
+   "r": 38.6
+  },
+  {
+   "s": "1802.TW",
+   "p": 54.3,
+   "c": 0.74,
+   "a50": 62.63,
+   "a200": 51.48,
+   "yh": 76.6,
+   "yl": 23.3,
+   "a20": 54.12,
+   "r": 47.3
+  },
+  {
+   "s": "6862.TW",
+   "p": 143.0,
+   "c": -0.69,
+   "a50": 177.77,
+   "a200": 177.95,
+   "yh": 228.0,
+   "yl": 117.0,
+   "a20": 147.18,
+   "r": 43.4
+  },
+  {
+   "s": "3701.TW",
+   "p": 43.0,
+   "c": 18.62,
+   "a50": 45.53,
+   "a200": 48.72,
+   "yh": 78.6,
+   "yl": 29.4,
+   "a20": 39.5,
+   "r": 54.4
+  },
+  {
    "s": "4722.TW",
-   "p": 230.0,
-   "c": 5.5,
-   "a50": 246.77,
-   "a200": 198.88,
+   "p": 232.0,
+   "c": 23.73,
+   "a50": 249.31,
+   "a200": 198.84,
    "yh": 306.5,
    "yl": 69.6,
-   "a20": 215.98,
-   "r": 52.9
+   "a20": 220.82,
+   "r": 52.7
   },
   {
    "s": "6706.TW",
-   "p": 111.5,
-   "c": -4.29,
-   "a50": 145.27,
-   "a200": 124.95,
+   "p": 112.0,
+   "c": 13.94,
+   "a50": 149.1,
+   "a200": 124.62,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 111.65,
-   "r": 44.6
+   "a20": 114.6,
+   "r": 44.1
   },
   {
    "s": "2305.TW",
@@ -124,36 +124,36 @@
   },
   {
    "s": "6442.TW",
-   "p": 1360.0,
-   "c": 7.09,
-   "a50": 1647.1,
-   "a200": 1563.06,
+   "p": 1375.0,
+   "c": 0.36,
+   "a50": 1616.6,
+   "a200": 1568.02,
    "yh": 2370.0,
    "yl": 599.0,
-   "a20": 1315.0,
-   "r": 48.0
+   "a20": 1305.75,
+   "r": 48.7
   },
   {
    "s": "6515.TW",
-   "p": 6800.0,
-   "c": 8.8,
-   "a50": 7986.1,
-   "a200": 5811.75,
+   "p": 6750.0,
+   "c": -1.96,
+   "a50": 7880.3,
+   "a200": 5857.28,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6585.25,
-   "r": 48.3
+   "a20": 6482.25,
+   "r": 47.9
   },
   {
    "s": "6446.TW",
-   "p": 1280.0,
-   "c": 9.87,
-   "a50": 1062.04,
-   "a200": 670.33,
+   "p": 1295.0,
+   "c": -3.0,
+   "a50": 1081.7,
+   "a200": 678.23,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1195.46,
-   "r": 60.7
+   "a20": 1190.5,
+   "r": 60.4
   },
   {
    "s": "3324.TWO",
@@ -169,79 +169,79 @@
   {
    "s": "3491.TWO",
    "p": 1330.0,
-   "c": 24.88,
-   "a50": 1460.74,
-   "a200": 1157.43,
+   "c": 3.5,
+   "a50": 1426.74,
+   "a200": 1165.12,
    "yh": 2200.0,
    "yl": 330.5,
-   "a20": 1193.85,
-   "r": 54.4
+   "a20": 1189.6,
+   "r": 55.0
   },
   {
    "s": "3585.TWO",
-   "p": 49.5,
-   "c": 0.92,
-   "a50": 64.33,
-   "a200": 40.4,
+   "p": 49.55,
+   "c": 14.83,
+   "a50": 65.7,
+   "a200": 40.07,
    "yh": 165.0,
    "yl": 5.6,
-   "a20": 49.74,
+   "a20": 51.38,
    "r": 44.2
   },
   {
    "s": "6223.TWO",
-   "p": 6270.0,
-   "c": 8.01,
-   "a50": 6161.8,
-   "a200": 3838.32,
+   "p": 6260.0,
+   "c": 7.84,
+   "a50": 6161.6,
+   "a200": 3838.28,
    "yh": 7380.0,
    "yl": 1095.0,
-   "a20": 5943.25,
-   "r": 54.3
+   "a20": 5942.75,
+   "r": 54.2
   },
   {
    "s": "6750.TWO",
    "p": 56.2,
-   "c": 7.66,
-   "a50": 62.8,
-   "a200": 56.34,
+   "c": 2.18,
+   "a50": 62.14,
+   "a200": 56.38,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 57.77,
-   "r": 45.2
+   "a20": 56.68,
+   "r": 46.2
   },
   {
    "s": "AAPL",
-   "p": 303.42,
-   "c": -1.78,
-   "a50": 309.52,
-   "a200": 278.24,
+   "p": 311.0,
+   "c": 0.52,
+   "a50": 309.65,
+   "a200": 278.86,
    "yh": 340.08,
    "yl": 213.25,
-   "a20": 323.91,
-   "r": 40.3
+   "a20": 323.72,
+   "r": 45.8
   },
   {
    "s": "NVDA",
-   "p": 206.64,
-   "c": 2.93,
-   "a50": 205.84,
-   "a200": 193.25,
+   "p": 219.22,
+   "c": 3.43,
+   "a50": 205.76,
+   "a200": 193.59,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.85,
-   "r": 53.1
+   "a20": 205.36,
+   "r": 61.6
   },
   {
    "s": "TSLA",
-   "p": 322.08,
-   "c": 3.49,
-   "a50": 388.86,
-   "a200": 411.06,
+   "p": 321.55,
+   "c": -1.77,
+   "a50": 384.96,
+   "a200": 409.99,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.05,
-   "r": 36.8
+   "a20": 351.64,
+   "r": 37.5
   },
   {
    "s": "META",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44424.3,
-   "c": -0.42,
-   "a50": 44754.18,
-   "a200": 35363.17,
+   "p": 44476.97,
+   "c": 2.51,
+   "a50": 44568.75,
+   "a200": 34923.46,
    "yh": 47741.51,
    "yl": 23447.36,
-   "a20": 43676.38,
-   "r": 52.7
+   "a20": 44236.22,
+   "r": 52.2
   },
   {
    "s": "^GSPC",
@@ -289,44 +289,44 @@
   },
   {
    "s": "BZ=F",
-   "p": 79.21,
-   "c": -5.44,
-   "a50": 85.65,
-   "a200": 80.84,
+   "p": 79.04,
+   "c": -0.52,
+   "a50": 84.76,
+   "a200": 81.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.64,
-   "r": 42.1
+   "a20": 86.85,
+   "r": 41.9
   },
   {
    "s": "GC=F",
-   "p": 4319.1,
-   "c": 7.08,
-   "a50": 4186.56,
-   "a200": 4479.68,
+   "p": 4317.8,
+   "c": 7.04,
+   "a50": 4186.53,
+   "a200": 4479.67,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4069.8,
-   "r": 62.8
+   "a20": 4069.74,
+   "r": 62.7
   },
   {
    "s": "HG=F",
    "p": 6.72,
-   "c": 0.23,
+   "c": 0.19,
    "a50": 6.33,
    "a200": 5.82,
    "yh": 6.72,
    "yl": 4.38,
    "a20": 6.39,
-   "r": 67.8
+   "r": 67.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03102699,
-   "c": 0.21,
-   "a50": 0.03135779,
-   "a200": 0.03167564,
-   "yh": 0.0334,
+   "p": 0.03099814,
+   "c": 0.43,
+   "a50": 0.03131851,
+   "a200": 0.03165559,
+   "yh": 0.033344,
    "yl": 0.030864
   }
  ],
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060036.aspx"
   },
   {
-   "t": "Why Broadcom Stock Rallied Today",
+   "t": "Huge, Unusual Trading in Marvell Technology Call Options -  Investors Are Bullish on MRVL Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-rallied-today-171202528.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/huge-unusual-trading-marvell-technology-173002885.html"
   },
   {
    "t": "台股早盤跌逾500點　權值股漲跌互見",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060032.aspx"
   },
   {
-   "t": "Nvidia Tops Key Level As AMD Heads Into Earnings; Is Nvidia A Buy Now",
+   "t": "Tesla's Wholesale Sales In China Grow For Ninth Month In A Row",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/nvidia-nvda-stock-buy-now-august-2026/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/tesla-china-elon-musk-electric-vehicle-sales-byd/?src=A00220&yptr=yahoo"
   },
   {
    "t": "新台幣開盤升2.5分　為32.29元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060025.aspx"
   },
   {
-   "t": "Palantir Stock Surges Nearly 30%. Did Q2 Beat Slay Worries Over OpenAI, Anthropic?",
+   "t": "Here's 1 High-Upside Cryptocurrency That Investors Keep Underestimating",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/palantir-stock-palantir-earnings-news-q22026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/heres-1-high-upside-cryptocurrency-172500534.html"
   },
   {
    "t": "台股開盤跌123.66點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060023.aspx"
   },
   {
-   "t": "Shein’s Sobering Valuation Asks If an IPO is Necessary",
+   "t": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/shein-sobering-valuation-asks-ipo-171024885.html"
+   "u": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html"
   },
   {
    "t": "道瓊創高台積電ADR收黑　投顧：台股估區間震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060020.aspx"
   },
   {
-   "t": "Is it better to lease or finance a car? What drivers should know.",
+   "t": "SpaceX Stock Faces a Make-or-Break Week as Investors Await Earnings and Lockup Expiration",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/lease-vs-finance-car-203958250.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-faces-break-week-173523504.html"
   },
   {
    "t": "SpaceX全面擁抱輝達晶片　布局太空AI算力",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608060019.aspx"
   },
   {
-   "t": "Spencer Jakab | Aschenbrenner Will Be Back",
+   "t": "Fossil Stock Jumps 19% on No News. It Could Be a High-Risk, High-Reward Bet for Speculators Willing to Take a Bite.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/livecoverage/stock-market-today-spacex-earnings-08-04-2026/card/spencer-jakab-aschenbrenner-will-be-back-c0M9gzv6Eergrq63PHwa?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fossil-stock-jumps-19-no-173821395.html"
   }
  ],
  "inst": {
