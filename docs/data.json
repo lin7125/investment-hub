@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 23:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 23:58（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 309.83,
-   "c": -0.38,
+   "p": 309.38,
+   "c": -0.52,
    "a50": 309.68,
    "a200": 279.14,
    "yh": 340.08,
    "yl": 213.25,
-   "a20": 323.4,
-   "r": 45.1
+   "a20": 323.38,
+   "r": 44.8
   },
   {
    "s": "NVDA",
-   "p": 217.78,
-   "c": -0.66,
-   "a50": 205.82,
+   "p": 218.07,
+   "c": -0.53,
+   "a50": 205.83,
    "a200": 193.77,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 206.11,
-   "r": 60.2
+   "a20": 206.12,
+   "r": 60.5
   },
   {
    "s": "TSLA",
-   "p": 320.9,
-   "c": -0.2,
-   "a50": 382.7,
-   "a200": 409.4,
+   "p": 320.3,
+   "c": -0.39,
+   "a50": 382.69,
+   "a200": 409.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 347.36,
-   "r": 37.3
+   "a20": 347.33,
+   "r": 37.2
   },
   {
    "s": "META",
-   "p": 589.29,
-   "c": 0.09,
-   "a50": 600.61,
+   "p": 588.52,
+   "c": -0.04,
+   "a50": 600.59,
    "a200": 631.99,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 616.09,
-   "r": 46.8
+   "a20": 616.05,
+   "r": 46.6
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7715.08,
-   "c": -0.11,
-   "a50": 7489.6,
-   "a200": 7044.94,
+   "p": 7708.47,
+   "c": -0.2,
+   "a50": 7489.46,
+   "a200": 7044.91,
    "yh": 7736.52,
    "yl": 6340.0,
-   "a20": 7516.55,
-   "r": 64.4
+   "a20": 7516.22,
+   "r": 63.9
   },
   {
    "s": "^VIX",
-   "p": 15.44,
-   "c": -2.34,
+   "p": 15.5,
+   "c": -1.96,
    "a50": 17.31,
    "a200": 18.6,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.19,
-   "r": 43.6
+   "r": 43.7
   },
   {
    "s": "BZ=F",
-   "p": 81.7,
-   "c": 2.83,
+   "p": 81.61,
+   "c": 2.72,
    "a50": 84.81,
    "a200": 81.03,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.99,
-   "r": 45.3
+   "a20": 86.98,
+   "r": 45.2
   },
   {
    "s": "GC=F",
-   "p": 4307.8,
-   "c": 1.46,
-   "a50": 4172.73,
+   "p": 4307.2,
+   "c": 1.45,
+   "a50": 4172.71,
    "a200": 4478.98,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4076.22,
+   "a20": 4076.19,
    "r": 63.2
   },
   {
    "s": "HG=F",
-   "p": 6.7,
-   "c": -0.04,
+   "p": 6.69,
+   "c": -0.24,
    "a50": 6.33,
    "a200": 5.82,
    "yh": 6.7,
    "yl": 4.38,
    "a20": 6.39,
-   "r": 67.1
+   "r": 66.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03099814,
-   "c": 0.43,
+   "p": 0.03095975,
+   "c": 0.31,
    "a50": 0.03131851,
    "a200": 0.03165559,
    "yh": 0.033344,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060375.aspx"
   },
   {
-   "t": "Amazon's Stake in Anthropic Could Be Worth Over $200 Billion if the AI Startup's Reported IPO Valuation Holds. Should Amazon Investors Care?",
+   "t": "SpaceX's need for power is a 'clear positive' for these companies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/amazons-stake-anthropic-could-worth-152700734.html"
+   "u": "https://finance.yahoo.com/markets/article/spacexs-need-for-power-is-a-clear-positive-for-these-companies-154604075.html"
   },
   {
    "t": "王品實施庫藏股　擬自10日起買回1500張",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060372.aspx"
   },
   {
-   "t": "Tech stocks today: SpaceX lockup ends, Google faces AI leadership shakeup",
+   "t": "Why Did Western Digital Stock Crash After Earnings?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-lockup-ends-google-faces-ai-leadership-shakeup-140419479.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-did-western-digital-stock-153949542.html"
   },
   {
    "t": "今彩539第115190期　頭獎3注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608060368.aspx"
   },
   {
-   "t": "AppLovin Stock Plunges To 52-Week Low After Earnings. Here's What Wall Street Is Saying.",
+   "t": "Factbox-Tech companies tap debt, equity to fund AI and cloud expansion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/applovin-stock-app-news-q2-2026-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/news/factbox-tech-companies-tap-debt-225411778.html"
   },
   {
    "t": "本國銀行上半年大賺3583億　年增2成寫同期新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060367.aspx"
   },
   {
-   "t": "Grant Cardone reveals the ‘best thing to do’ with $50K — with ‘zilch’ chance of going to $0. Do you own any?",
+   "t": "The world’s wealth on paper is increasingly out of balance with the actual economy, and it could end in disaster",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/grant-cardone-reveals-best-thing-150500038.html"
+   "u": "https://finance.yahoo.com/economy/articles/world-wealth-paper-increasingly-balance-153500602.html"
   },
   {
    "t": "威力彩第115063期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608060366.aspx"
   },
   {
-   "t": "SpaceX lockup expires today, with stock bucking higher",
+   "t": "Oscar Health Stock Sinks Amid This Second-Half Risk",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/spacex-lockup-expires-today-with-stock-bucking-higher-100000039.html"
+   "u": "https://www.investors.com/news/oscr-stock-oscar-health-q2-earnings-aca-risk-adjustment-deductibles/?src=A00220&yptr=yahoo"
   },
   {
    "t": "國銀個人放款旺　6月大增2575億寫史上單月新高",
