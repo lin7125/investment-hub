@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-06 12:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 12:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2365.0,
-   "c": -0.21,
-   "a50": 2375.3,
-   "a200": 1906.68,
+   "p": 2375.0,
+   "c": -1.25,
+   "a50": 2378.6,
+   "a200": 1916.1,
    "yh": 2510.0,
    "yl": 1125.0,
-   "a20": 2371.75,
-   "r": 50.3
+   "a20": 2364.5,
+   "r": 50.9
   },
   {
    "s": "2317.TW",
@@ -37,35 +37,35 @@
   {
    "s": "2454.TW",
    "p": 3925.0,
-   "c": 0.38,
-   "a50": 4057.6,
-   "a200": 2340.05,
+   "c": -1.88,
+   "a50": 4036.8,
+   "a200": 2366.07,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3669.75,
-   "r": 54.2
+   "a20": 3667.0,
+   "r": 53.7
   },
   {
    "s": "2327.TW",
-   "p": 568.0,
-   "c": 2.9,
-   "a50": 822.69,
-   "a200": 412.19,
+   "p": 570.0,
+   "c": 3.26,
+   "a50": 822.73,
+   "a200": 412.2,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 683.62,
-   "r": 37.9
+   "a20": 683.72,
+   "r": 38.1
   },
   {
    "s": "1802.TW",
-   "p": 54.1,
-   "c": 13.77,
+   "p": 54.2,
+   "c": 13.99,
    "a50": 63.4,
    "a200": 51.26,
    "yh": 76.6,
    "yl": 23.3,
    "a20": 55.35,
-   "r": 46.8
+   "r": 46.9
   },
   {
    "s": "6862.TW",
@@ -80,36 +80,36 @@
   },
   {
    "s": "3701.TW",
-   "p": 42.4,
-   "c": 16.97,
+   "p": 42.1,
+   "c": 16.14,
    "a50": 45.51,
    "a200": 48.71,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.47,
-   "r": 53.3
+   "a20": 39.46,
+   "r": 52.6
   },
   {
    "s": "4722.TW",
-   "p": 230.5,
-   "c": 5.73,
-   "a50": 246.78,
-   "a200": 198.88,
+   "p": 232.0,
+   "c": 6.42,
+   "a50": 246.81,
+   "a200": 198.89,
    "yh": 306.5,
    "yl": 69.6,
-   "a20": 216.0,
-   "r": 53.1
+   "a20": 216.08,
+   "r": 53.5
   },
   {
    "s": "6706.TW",
    "p": 111.5,
-   "c": -4.29,
-   "a50": 145.27,
-   "a200": 124.95,
+   "c": 13.43,
+   "a50": 149.09,
+   "a200": 124.61,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 111.65,
-   "r": 44.6
+   "a20": 114.57,
+   "r": 43.8
   },
   {
    "s": "2305.TW",
@@ -125,35 +125,35 @@
   {
    "s": "6442.TW",
    "p": 1345.0,
-   "c": 5.91,
-   "a50": 1646.8,
-   "a200": 1562.98,
+   "c": -1.82,
+   "a50": 1616.0,
+   "a200": 1567.88,
    "yh": 2370.0,
    "yl": 599.0,
-   "a20": 1314.25,
+   "a20": 1304.25,
    "r": 47.2
   },
   {
    "s": "6515.TW",
-   "p": 6800.0,
-   "c": -1.23,
-   "a50": 7881.3,
-   "a200": 5857.52,
+   "p": 6870.0,
+   "c": 9.92,
+   "a50": 7987.5,
+   "a200": 5812.1,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6484.75,
-   "r": 48.4
+   "a20": 6588.75,
+   "r": 49.0
   },
   {
    "s": "6446.TW",
-   "p": 1280.0,
-   "c": -4.12,
-   "a50": 1081.4,
-   "a200": 678.15,
+   "p": 1290.0,
+   "c": -3.37,
+   "a50": 1081.6,
+   "a200": 678.2,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1189.75,
-   "r": 59.1
+   "a20": 1190.25,
+   "r": 59.9
   },
   {
    "s": "3324.TWO",
@@ -168,58 +168,58 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1340.0,
-   "c": 25.82,
-   "a50": 1460.94,
-   "a200": 1157.48,
+   "p": 1330.0,
+   "c": 24.88,
+   "a50": 1460.74,
+   "a200": 1157.43,
    "yh": 2200.0,
    "yl": 330.5,
-   "a20": 1194.35,
-   "r": 54.8
+   "a20": 1193.85,
+   "r": 54.4
   },
   {
    "s": "3585.TWO",
    "p": 49.5,
-   "c": 0.92,
-   "a50": 64.33,
-   "a200": 40.4,
+   "c": 14.72,
+   "a50": 65.7,
+   "a200": 40.07,
    "yh": 165.0,
    "yl": 5.6,
-   "a20": 49.74,
-   "r": 44.2
+   "a20": 51.38,
+   "r": 44.1
   },
   {
    "s": "6223.TWO",
-   "p": 6260.0,
-   "c": 0.24,
-   "a50": 6151.9,
-   "a200": 3882.4,
+   "p": 6305.0,
+   "c": 8.61,
+   "a50": 6162.5,
+   "a200": 3838.5,
    "yh": 7380.0,
    "yl": 1095.0,
-   "a20": 5873.0,
-   "r": 54.5
+   "a20": 5945.0,
+   "r": 54.6
   },
   {
    "s": "6750.TWO",
    "p": 56.4,
-   "c": 2.55,
-   "a50": 62.14,
-   "a200": 56.38,
+   "c": 8.05,
+   "a50": 62.81,
+   "a200": 56.34,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.69,
-   "r": 46.7
+   "a20": 57.78,
+   "r": 45.6
   },
   {
    "s": "AAPL",
-   "p": 311.0,
-   "c": 0.52,
-   "a50": 309.65,
-   "a200": 278.86,
+   "p": 303.42,
+   "c": -1.78,
+   "a50": 309.52,
+   "a200": 278.24,
    "yh": 340.08,
    "yl": 213.25,
-   "a20": 323.72,
-   "r": 45.8
+   "a20": 323.91,
+   "r": 40.3
   },
   {
    "s": "NVDA",
@@ -234,36 +234,36 @@
   },
   {
    "s": "TSLA",
-   "p": 321.55,
-   "c": -1.77,
-   "a50": 384.96,
-   "a200": 409.99,
+   "p": 322.08,
+   "c": 3.49,
+   "a50": 388.86,
+   "a200": 411.06,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 351.64,
-   "r": 37.5
+   "a20": 359.05,
+   "r": 36.8
   },
   {
    "s": "META",
-   "p": 588.77,
-   "c": 0.14,
-   "a50": 601.07,
-   "a200": 632.63,
+   "p": 590.24,
+   "c": 6.02,
+   "a50": 601.89,
+   "a200": 633.9,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.2,
-   "r": 46.7
+   "a20": 620.3,
+   "r": 47.0
   },
   {
    "s": "^TWII",
-   "p": 44373.28,
-   "c": 2.27,
-   "a50": 44566.68,
-   "a200": 34922.94,
+   "p": 44440.59,
+   "c": 2.43,
+   "a50": 44568.03,
+   "a200": 34923.27,
    "yh": 47741.51,
    "yl": 23447.36,
-   "a20": 44231.03,
-   "r": 51.8
+   "a20": 44234.4,
+   "r": 52.0
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 79.09,
-   "c": -0.45,
-   "a50": 84.76,
-   "a200": 81.02,
+   "p": 78.99,
+   "c": -5.71,
+   "a50": 85.64,
+   "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.85,
+   "a20": 86.63,
    "r": 41.9
   },
   {
    "s": "GC=F",
-   "p": 4320.4,
-   "c": 7.11,
-   "a50": 4186.58,
-   "a200": 4479.69,
+   "p": 4319.6,
+   "c": 7.09,
+   "a50": 4186.57,
+   "a200": 4479.68,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4069.87,
+   "a20": 4069.83,
    "r": 62.8
   },
   {
    "s": "HG=F",
    "p": 6.72,
-   "c": 0.29,
+   "c": 0.18,
    "a50": 6.33,
    "a200": 5.82,
    "yh": 6.72,
    "yl": 4.38,
    "a20": 6.39,
-   "r": 67.9
+   "r": 67.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03099814,
-   "c": 0.1,
+   "p": 0.03098853,
+   "c": 0.06,
    "a50": 0.03135779,
    "a200": 0.03167564,
    "yh": 0.0334,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060036.aspx"
   },
   {
-   "t": "Is United Parcel Service (UPS) the Best Dividend Stock in the Industrial Sector?",
+   "t": "History Says Investors Who Built the Most Wealth All Have This 1 Thing in Common",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-best-dividend-164000203.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/history-says-investors-built-most-165000233.html"
   },
   {
    "t": "台股早盤跌逾500點　權值股漲跌互見",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060032.aspx"
   },
   {
-   "t": "Applied Digital Corp (APLD)’s 400% Revenue Surge — Breakout AI Infrastructure Play or Risky Bet?",
+   "t": "Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/applied-digital-corp-apld-400-164148284.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-nearly-30-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html"
   },
   {
    "t": "新台幣開盤升2.5分　為32.29元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060025.aspx"
   },
   {
-   "t": "Markets see 'all hat, no cattle' in Fed's inflation credibility: Chart of the Day",
+   "t": "HappyRobot Series C mints FreightTech’s newest unicorn",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/markets-see-all-hat-no-cattle-in-feds-inflation-credibility-chart-of-the-day-164028370.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/happyrobot-series-c-mints-freighttech-165732635.html"
   },
   {
    "t": "台股開盤跌123.66點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060023.aspx"
   },
   {
-   "t": "Social Security is becoming the primary retirement plan for many Americans. But it's rarely enough money.",
+   "t": "Apple vs. Alphabet: The $5 Trillion AI Bet That’s Renting, Not Building",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/social-security-is-becoming-the-primary-retirement-plan-for-many-americans-but-its-rarely-enough-money-161429269.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-vs-alphabet-5-trillion-165422171.html"
   },
   {
    "t": "道瓊創高台積電ADR收黑　投顧：台股估區間震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060020.aspx"
   },
   {
-   "t": "What is whole life insurance? How it works.",
+   "t": "Abbott vs Danaher: Which Healthcare Stock Looks Better Positioned Following Earnings?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/what-is-whole-life-insurance-213448917.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/abbott-vs-danaher-healthcare-stock-165559358.html"
   },
   {
    "t": "SpaceX全面擁抱輝達晶片　布局太空AI算力",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608060019.aspx"
   },
   {
-   "t": "Pressures Are Adding Up for China’s Footwear Producers Amid Fluctuating Global Demand",
+   "t": "Mondelez’s (MDLZ) Earnings Beat May Matter Less Than Its 2027 Growth Bet",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/pressures-adding-china-footwear-producers-164212362.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mondelez-mdlz-earnings-beat-may-170645190.html"
   }
  ],
  "inst": {
