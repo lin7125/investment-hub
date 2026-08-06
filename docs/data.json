@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 15:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 15:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 15.83,
-   "c": 0.13,
+   "p": 15.85,
+   "c": 0.25,
    "a50": 17.32,
    "a200": 18.6,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.2,
-   "r": 44.8
+   "a20": 17.21,
+   "r": 44.9
   },
   {
    "s": "BZ=F",
-   "p": 79.63,
-   "c": 0.23,
+   "p": 79.64,
+   "c": 0.24,
    "a50": 84.77,
    "a200": 81.02,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4321.9,
-   "c": 1.79,
-   "a50": 4173.01,
-   "a200": 4479.05,
+   "p": 4320.7,
+   "c": 1.76,
+   "a50": 4172.98,
+   "a200": 4479.04,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4076.93,
-   "r": 63.9
+   "a20": 4076.87,
+   "r": 63.8
   },
   {
    "s": "HG=F",
    "p": 6.72,
-   "c": 0.27,
+   "c": 0.33,
    "a50": 6.33,
    "a200": 5.82,
    "yh": 6.72,
    "yl": 4.38,
    "a20": 6.39,
-   "r": 67.9
+   "r": 68.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03098853,
-   "c": 0.4,
+   "p": 0.03097893,
+   "c": 0.36,
    "a50": 0.03131851,
    "a200": 0.03165559,
    "yh": 0.033344,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060177.aspx"
   },
   {
-   "t": "Amid Powerful Positive Catalysts, Texas Instruments Stock Looks Appealing",
+   "t": "What is a good savings account interest rate in 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amid-powerful-positive-catalysts-texas-192205353.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-good-savings-account-interest-rate-173915779.html"
   },
   {
    "t": "文曄上半年每股盈餘13元創歷史新高　賺贏2025年全年",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060169.aspx"
   },
   {
-   "t": "OpenAI pays $3.2 million in US probe over hiring foreign workers",
+   "t": "Strength in Stocks and Lower Crude Prices Weigh on the Dollar",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/openai-pays-3-2-million-191600150.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/strength-stocks-lower-crude-prices-193313170.html"
   },
   {
    "t": "AI前景疑慮衝擊　日經指數收跌",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060167.aspx"
   },
   {
-   "t": "How emotional intelligence helps financial advisors get ahead",
+   "t": "Meta ads introduces stablecoin payment options",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/emotional-intelligence-helps-financial-advisors-192120558.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/meta-ads-introduces-stablecoin-payment-193225671.html"
   },
   {
    "t": "自動化工業大展8/19登場　富田電機秀機器人關節模組",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060159.aspx"
   },
   {
-   "t": "Amazon Stock Gains Steam, Analysts See 44% Upside Potential",
+   "t": "Bitcoin Price Prediction: This Bearish Cycle Could End If This Pattern Is Confirmed",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-gains-steam-analysts-192358348.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-bearish-cycle-193349127.html"
   },
   {
    "t": "8月電子期金融期齊跌",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060152.aspx"
   },
   {
-   "t": "What is a good savings account interest rate in 2026?",
+   "t": "Jeff Bezos Says He’s Selling $1 Billion In Amazon Stock Every Year to Fund Blue Origin — ‘It’s The Most Important Work I’m Doing’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-good-savings-account-interest-rate-173915779.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-says-selling-1-193639600.html"
   }
  ],
  "inst": {
