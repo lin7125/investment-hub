@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 11:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 12:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,47 +14,47 @@
   },
   {
    "s": "2317.TW",
-   "p": 263.5,
-   "c": 1.93,
-   "a50": 256.17,
-   "a200": 234.24,
+   "p": 264.0,
+   "c": 4.35,
+   "a50": 256.47,
+   "a200": 233.97,
    "yh": 309.0,
    "yl": 186.0,
-   "a20": 245.0,
-   "r": 60.1
+   "a20": 243.35,
+   "r": 60.3
   },
   {
    "s": "2308.TW",
    "p": 1675.0,
-   "c": 6.01,
-   "a50": 2014.3,
-   "a200": 1491.56,
+   "c": 1.52,
+   "a50": 1982.3,
+   "a200": 1498.07,
    "yh": 2520.0,
    "yl": 621.0,
-   "a20": 1763.25,
-   "r": 43.1
+   "a20": 1738.5,
+   "r": 43.4
   },
   {
    "s": "2454.TW",
    "p": 3935.0,
-   "c": -1.62,
-   "a50": 4037.0,
-   "a200": 2366.12,
+   "c": 0.64,
+   "a50": 4057.8,
+   "a200": 2340.1,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3667.5,
-   "r": 54.0
+   "a20": 3670.25,
+   "r": 54.4
   },
   {
    "s": "2327.TW",
-   "p": 566.0,
-   "c": 2.54,
-   "a50": 822.65,
-   "a200": 412.18,
+   "p": 567.0,
+   "c": -1.9,
+   "a50": 818.31,
+   "a200": 416.06,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 683.52,
-   "r": 37.6
+   "a20": 651.22,
+   "r": 38.2
   },
   {
    "s": "1802.TW",
@@ -69,14 +69,14 @@
   },
   {
    "s": "6862.TW",
-   "p": 143.0,
-   "c": 4.0,
-   "a50": 179.48,
+   "p": 142.5,
+   "c": 3.64,
+   "a50": 179.47,
    "a200": 178.16,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 151.12,
-   "r": 43.1
+   "a20": 151.1,
+   "r": 42.8
   },
   {
    "s": "3701.TW",
@@ -91,25 +91,25 @@
   },
   {
    "s": "4722.TW",
-   "p": 224.5,
-   "c": 2.98,
-   "a50": 246.66,
-   "a200": 198.86,
+   "p": 224.0,
+   "c": 2.75,
+   "a50": 246.65,
+   "a200": 198.85,
    "yh": 306.5,
    "yl": 69.6,
-   "a20": 215.7,
-   "r": 51.3
+   "a20": 215.68,
+   "r": 51.1
   },
   {
    "s": "6706.TW",
-   "p": 111.0,
-   "c": 12.92,
-   "a50": 149.08,
+   "p": 111.5,
+   "c": 13.43,
+   "a50": 149.09,
    "a200": 124.61,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 114.55,
-   "r": 43.4
+   "a20": 114.57,
+   "r": 43.8
   },
   {
    "s": "2305.TW",
@@ -124,102 +124,102 @@
   },
   {
    "s": "6442.TW",
-   "p": 1345.0,
-   "c": -1.82,
-   "a50": 1616.0,
-   "a200": 1567.88,
+   "p": 1350.0,
+   "c": -1.46,
+   "a50": 1616.1,
+   "a200": 1567.9,
    "yh": 2370.0,
    "yl": 599.0,
-   "a20": 1304.25,
-   "r": 47.2
+   "a20": 1304.5,
+   "r": 47.5
   },
   {
    "s": "6515.TW",
-   "p": 6850.0,
-   "c": 9.6,
-   "a50": 7987.1,
-   "a200": 5812.0,
+   "p": 6875.0,
+   "c": -0.15,
+   "a50": 7882.8,
+   "a200": 5857.9,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6587.75,
-   "r": 48.8
+   "a20": 6488.5,
+   "r": 49.2
   },
   {
    "s": "6446.TW",
-   "p": 1275.0,
-   "c": 9.44,
-   "a50": 1061.94,
-   "a200": 670.3,
+   "p": 1270.0,
+   "c": -4.87,
+   "a50": 1081.2,
+   "a200": 678.1,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1195.21,
-   "r": 60.5
+   "a20": 1189.25,
+   "r": 58.3
   },
   {
    "s": "3324.TWO",
    "p": 1060.0,
-   "c": 12.29,
-   "a50": 997.94,
-   "a200": 995.31,
+   "c": 9.84,
+   "a50": 994.62,
+   "a200": 995.77,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 909.2,
-   "r": 61.8
+   "a20": 912.4,
+   "r": 63.0
   },
   {
    "s": "3491.TWO",
    "p": 1320.0,
-   "c": 23.94,
-   "a50": 1460.54,
-   "a200": 1157.38,
+   "c": 2.72,
+   "a50": 1426.54,
+   "a200": 1165.07,
    "yh": 2200.0,
    "yl": 330.5,
-   "a20": 1193.35,
-   "r": 53.9
+   "a20": 1189.1,
+   "r": 54.5
   },
   {
    "s": "3585.TWO",
    "p": 49.65,
-   "c": 1.22,
-   "a50": 64.33,
-   "a200": 40.4,
+   "c": 15.06,
+   "a50": 65.71,
+   "a200": 40.07,
    "yh": 165.0,
    "yl": 5.6,
-   "a20": 49.75,
-   "r": 44.4
+   "a20": 51.39,
+   "r": 44.3
   },
   {
    "s": "6223.TWO",
-   "p": 6330.0,
-   "c": 1.36,
-   "a50": 6153.3,
-   "a200": 3882.75,
+   "p": 6345.0,
+   "c": 9.3,
+   "a50": 6163.3,
+   "a200": 3838.7,
    "yh": 7380.0,
    "yl": 1095.0,
-   "a20": 5876.5,
-   "r": 55.3
+   "a20": 5947.0,
+   "r": 55.0
   },
   {
    "s": "6750.TWO",
    "p": 56.4,
-   "c": 8.05,
-   "a50": 62.81,
-   "a200": 56.34,
+   "c": 2.55,
+   "a50": 62.14,
+   "a200": 56.38,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 57.78,
-   "r": 45.6
+   "a20": 56.69,
+   "r": 46.7
   },
   {
    "s": "AAPL",
-   "p": 311.0,
-   "c": 0.52,
-   "a50": 309.65,
-   "a200": 278.86,
+   "p": 303.42,
+   "c": -1.78,
+   "a50": 309.52,
+   "a200": 278.24,
    "yh": 340.08,
    "yl": 213.25,
-   "a20": 323.72,
-   "r": 45.8
+   "a20": 323.91,
+   "r": 40.3
   },
   {
    "s": "NVDA",
@@ -235,46 +235,46 @@
   {
    "s": "TSLA",
    "p": 321.55,
-   "c": -0.16,
-   "a50": 386.93,
-   "a200": 410.5,
+   "c": -1.77,
+   "a50": 384.96,
+   "a200": 409.99,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 354.98,
-   "r": 36.7
+   "a20": 351.64,
+   "r": 37.5
   },
   {
    "s": "META",
-   "p": 588.77,
-   "c": -0.25,
-   "a50": 601.52,
-   "a200": 633.25,
+   "p": 590.24,
+   "c": 6.02,
+   "a50": 601.89,
+   "a200": 633.9,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 618.96,
-   "r": 46.6
+   "a20": 620.3,
+   "r": 47.0
   },
   {
    "s": "^TWII",
-   "p": 44360.83,
-   "c": 2.25,
-   "a50": 44566.43,
-   "a200": 34922.88,
+   "p": 44382.75,
+   "c": -0.51,
+   "a50": 44753.35,
+   "a200": 35362.96,
    "yh": 47741.51,
    "yl": 23447.36,
-   "a20": 44230.41,
-   "r": 51.8
+   "a20": 43674.31,
+   "r": 52.5
   },
   {
    "s": "^GSPC",
-   "p": 7723.55,
-   "c": -0.17,
-   "a50": 7485.68,
-   "a200": 7039.69,
-   "yh": 7736.52,
+   "p": 7600.5,
+   "c": 2.19,
+   "a50": 7468.7,
+   "a200": 7015.66,
+   "yh": 7609.78,
    "yl": 6340.0,
-   "a20": 7507.98,
-   "r": 65.2
+   "a20": 7484.6,
+   "r": 59.8
   },
   {
    "s": "^VIX",
@@ -289,44 +289,44 @@
   },
   {
    "s": "BZ=F",
-   "p": 79.33,
-   "c": -5.3,
-   "a50": 85.65,
-   "a200": 80.84,
+   "p": 79.45,
+   "c": 0.11,
+   "a50": 85.17,
+   "a200": 80.93,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.64,
-   "r": 42.2
+   "a20": 86.72,
+   "r": 42.3
   },
   {
    "s": "GC=F",
-   "p": 4322.1,
-   "c": 7.15,
-   "a50": 4186.62,
-   "a200": 4479.69,
+   "p": 4033.7,
+   "c": -0.38,
+   "a50": 4190.97,
+   "a200": 4478.97,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4069.95,
-   "r": 62.9
+   "a20": 4061.11,
+   "r": 44.4
   },
   {
    "s": "HG=F",
-   "p": 6.71,
-   "c": 2.99,
+   "p": 6.7,
+   "c": 1.28,
    "a50": 6.32,
-   "a200": 5.81,
-   "yh": 6.71,
-   "yl": 4.36,
-   "a20": 6.34,
+   "a200": 5.82,
+   "yh": 6.7,
+   "yl": 4.38,
+   "a20": 6.37,
    "r": 67.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03102699,
-   "c": 0.2,
-   "a50": 0.03135779,
-   "a200": 0.03167564,
-   "yh": 0.0334,
+   "p": 0.03101737,
+   "c": 0.48,
+   "a50": 0.03131851,
+   "a200": 0.03165559,
+   "yh": 0.033344,
    "yl": 0.030864
   }
  ],
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060036.aspx"
   },
   {
-   "t": "How Protected Is Your Job If You Go on Leave? Not as Much as You Think",
+   "t": "I Owe $14K More Than My Truck Is Worth. I'm Paying $850 a Month and It's Crushing My Finances. How Do I Get Out?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/lifestyle/careers/how-protected-is-your-job-if-you-go-on-leave-not-as-much-as-you-think-c20ea544?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/articles/owe-14k-more-truck-worth-160120270.html"
   },
   {
    "t": "台股早盤跌逾500點　權值股漲跌互見",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060032.aspx"
   },
   {
-   "t": "Analysts Argue That Selling Its China Business Could Be a Big Negative for Tesla Stock. Here’s Why.",
+   "t": "Centene Corp. (CNC) Surged on Earnings Beat and Improved Outlook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/analysts-argue-selling-china-business-155954105.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/centene-corp-cnc-surged-earnings-160339963.html"
   },
   {
    "t": "新台幣開盤升2.5分　為32.29元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060025.aspx"
   },
   {
-   "t": "Centene Corp. (CNC) Surged on Earnings Beat and Improved Outlook",
+   "t": "Here’s How Intermodal Demand Is Positioning CSX Corp. (CSX) for Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/centene-corp-cnc-surged-earnings-160339963.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/intermodal-demand-positioning-csx-corp-160347294.html"
   },
   {
    "t": "台股開盤跌123.66點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060023.aspx"
   },
   {
-   "t": "Here’s How Intermodal Demand Is Positioning CSX Corp. (CSX) for Growth",
+   "t": "Humana’s (HUM) Path to Recovery and Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intermodal-demand-positioning-csx-corp-160347294.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/humana-hum-path-recovery-growth-160456553.html"
   },
   {
    "t": "道瓊創高台積電ADR收黑　投顧：台股估區間震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060020.aspx"
   },
   {
-   "t": "Humana’s (HUM) Path to Recovery and Growth",
+   "t": "Analysts Argue That Selling Its China Business Could Be a Big Negative for Tesla Stock. Here’s Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/humana-hum-path-recovery-growth-160456553.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/analysts-argue-selling-china-business-155954105.html"
   },
   {
    "t": "SpaceX全面擁抱輝達晶片　布局太空AI算力",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608060019.aspx"
   },
   {
-   "t": "Anthropic inks $10B computing deal with Nvidia-backed Volta Infra",
+   "t": "A $1,000 IRA Withdrawal Can Cost Some Retirees $407. The 40.7% Bracket Isn’t in Any IRS Table.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-inks-10b-computing-deal-155800765.html"
+   "u": "https://finance.yahoo.com/markets/articles/1-000-ira-withdrawal-cost-160320126.html"
   }
  ],
  "inst": {
