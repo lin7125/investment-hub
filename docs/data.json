@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 15:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 15:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.0,
-   "c": -0.1,
+   "p": 49.15,
+   "c": 0.2,
    "a50": 64.32,
    "a200": 40.4,
    "yh": 165.0,
    "yl": 5.6,
-   "a20": 49.72,
-   "r": 43.5
+   "a20": 49.73,
+   "r": 43.7
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 57.5,
-   "c": 4.55,
-   "a50": 62.16,
-   "a200": 56.39,
+   "p": 56.2,
+   "c": 2.18,
+   "a50": 62.14,
+   "a200": 56.38,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.74,
-   "r": 49.3
+   "a20": 56.68,
+   "r": 46.2
   },
   {
    "s": "AAPL",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 79.64,
-   "c": 0.24,
+   "p": 79.71,
+   "c": 0.33,
    "a50": 84.77,
    "a200": 81.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.88,
-   "r": 42.6
+   "a20": 86.89,
+   "r": 42.7
   },
   {
    "s": "GC=F",
-   "p": 4314.8,
-   "c": 1.63,
-   "a50": 4172.87,
-   "a200": 4479.01,
+   "p": 4318.2,
+   "c": 1.71,
+   "a50": 4172.93,
+   "a200": 4479.03,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4076.57,
-   "r": 63.5
+   "a20": 4076.74,
+   "r": 63.7
   },
   {
    "s": "HG=F",
-   "p": 6.7,
-   "c": -0.02,
+   "p": 6.72,
+   "c": 0.19,
    "a50": 6.33,
    "a200": 5.82,
-   "yh": 6.7,
+   "yh": 6.72,
    "yl": 4.38,
    "a20": 6.39,
-   "r": 67.2
+   "r": 67.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03100775,
-   "c": 0.46,
+   "c": 0.45,
    "a50": 0.03131851,
    "a200": 0.03165559,
    "yh": 0.033344,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "東元關節模組切入四足機器狗　合作開發人形機器人",
+   "t": "資誠：上半年全球IPO募資1780億美元　年增206%",
    "pub": "中央社財經",
    "d": "2026-08-06",
-   "u": "https://www.cna.com.tw/news/afe/202608060119.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608060180.aspx"
   },
   {
    "t": "What is the actual cash value of my car?",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/personal-finance/insurance/article/actual-cash-value-of-my-car-204252991.html"
   },
   {
-   "t": "AI獲利疑慮再起　亞股早盤科技股領跌多數走低",
+   "t": "上銀7月營收創4年來高點　續攻機器人和AI應用",
    "pub": "中央社財經",
    "d": "2026-08-06",
-   "u": "https://www.cna.com.tw/news/afe/202608060114.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608060177.aspx"
   },
   {
    "t": "Cloudflare poised for second quarter revenue acceleration, says Jefferies",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-poised-second-quarter-revenue-190200236.html"
   },
   {
-   "t": "林世嘉：台灣再生醫療應強化委託製造　爭取全球訂單",
+   "t": "文曄上半年每股盈餘13元創歷史新高　賺贏2025年全年",
    "pub": "中央社財經",
    "d": "2026-08-06",
-   "u": "https://www.cna.com.tw/news/afe/202608060109.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608060169.aspx"
   },
   {
    "t": "Dollar Tree Stock May Not Be a Good Bargain This Month",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-stock-may-not-191133132.html"
   },
   {
-   "t": "颱風與股災打擊　7月住展風向球連15個月亮黃藍燈",
+   "t": "AI前景疑慮衝擊　日經指數收跌",
    "pub": "中央社財經",
    "d": "2026-08-06",
-   "u": "https://www.cna.com.tw/news/afe/202608060101.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608060167.aspx"
   },
   {
    "t": "Ouster Reports Earnings on August 6. Here’s Why the Stakes Are So High.",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/ouster-reports-earnings-august-6-191244696.html"
   },
   {
-   "t": "台股開低震盪　股王股后撐盤盤中再現「雙萬金」",
+   "t": "自動化工業大展8/19登場　富田電機秀機器人關節模組",
    "pub": "中央社財經",
    "d": "2026-08-06",
-   "u": "https://www.cna.com.tw/news/afe/202608060090.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608060159.aspx"
   },
   {
    "t": "Nat-Gas Prices Retreat on Bigger US Supplies and Cooler Temps",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-retreat-bigger-191359487.html"
   },
   {
-   "t": "荷莫茲海峽可望重啟通航　金價連4漲創7週來高點",
+   "t": "8月電子期金融期齊跌",
    "pub": "中央社財經",
    "d": "2026-08-06",
-   "u": "https://www.cna.com.tw/news/afe/202608060086.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608060152.aspx"
   },
   {
    "t": "Optimism of Reopening Strait of Hormuz Knocks Crude Prices Lower",
