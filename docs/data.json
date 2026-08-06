@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 14:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 14:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -37,68 +37,68 @@
   {
    "s": "2454.TW",
    "p": 3920.0,
-   "c": -2.0,
-   "a50": 4036.7,
-   "a200": 2366.05,
+   "c": 0.26,
+   "a50": 4057.5,
+   "a200": 2340.02,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3666.75,
-   "r": 53.6
+   "a20": 3669.5,
+   "r": 54.1
   },
   {
    "s": "2327.TW",
    "p": 570.0,
-   "c": -1.38,
-   "a50": 818.37,
-   "a200": 416.07,
+   "c": 3.26,
+   "a50": 822.73,
+   "a200": 412.2,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 651.38,
-   "r": 38.4
+   "a20": 683.72,
+   "r": 38.1
   },
   {
    "s": "1802.TW",
    "p": 54.6,
-   "c": 1.3,
-   "a50": 62.64,
-   "a200": 51.48,
+   "c": 14.83,
+   "a50": 63.41,
+   "a200": 51.26,
    "yh": 76.6,
    "yl": 23.3,
-   "a20": 54.13,
-   "r": 47.8
+   "a20": 55.37,
+   "r": 47.5
   },
   {
    "s": "6862.TW",
    "p": 144.0,
-   "c": 4.73,
-   "a50": 179.5,
-   "a200": 178.17,
+   "c": 0.0,
+   "a50": 177.79,
+   "a200": 177.96,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 151.18,
-   "r": 43.7
+   "a20": 147.22,
+   "r": 43.9
   },
   {
    "s": "3701.TW",
    "p": 43.5,
-   "c": 1.4,
-   "a50": 44.92,
-   "a200": 48.74,
+   "c": 20.0,
+   "a50": 45.54,
+   "a200": 48.72,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.43,
-   "r": 56.1
+   "a20": 39.53,
+   "r": 55.4
   },
   {
    "s": "4722.TW",
    "p": 230.0,
-   "c": 22.67,
-   "a50": 249.27,
-   "a200": 198.83,
+   "c": 5.5,
+   "a50": 246.77,
+   "a200": 198.88,
    "yh": 306.5,
    "yl": 69.6,
-   "a20": 220.72,
-   "r": 52.2
+   "a20": 215.98,
+   "r": 52.9
   },
   {
    "s": "6706.TW",
@@ -136,13 +136,13 @@
   {
    "s": "6515.TW",
    "p": 6775.0,
-   "c": 8.4,
-   "a50": 7985.6,
-   "a200": 5811.62,
+   "c": -1.6,
+   "a50": 7880.8,
+   "a200": 5857.4,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6584.0,
-   "r": 48.0
+   "a20": 6483.5,
+   "r": 48.2
   },
   {
    "s": "6446.TW",
@@ -169,24 +169,24 @@
   {
    "s": "3491.TWO",
    "p": 1350.0,
-   "c": 26.76,
-   "a50": 1461.14,
-   "a200": 1157.53,
+   "c": 5.06,
+   "a50": 1427.14,
+   "a200": 1165.22,
    "yh": 2200.0,
    "yl": 330.5,
-   "a20": 1194.85,
-   "r": 55.2
+   "a20": 1190.6,
+   "r": 55.9
   },
   {
    "s": "3585.TWO",
-   "p": 49.55,
-   "c": 1.02,
+   "p": 49.5,
+   "c": 0.92,
    "a50": 64.33,
    "a200": 40.4,
    "yh": 165.0,
    "yl": 5.6,
-   "a20": 49.75,
-   "r": 44.3
+   "a20": 49.74,
+   "r": 44.2
   },
   {
    "s": "6223.TWO",
@@ -202,13 +202,13 @@
   {
    "s": "6750.TWO",
    "p": 56.2,
-   "c": 7.66,
-   "a50": 62.8,
-   "a200": 56.34,
+   "c": 2.18,
+   "a50": 62.14,
+   "a200": 56.38,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 57.77,
-   "r": 45.2
+   "a20": 56.68,
+   "r": 46.2
   },
   {
    "s": "AAPL",
@@ -223,47 +223,47 @@
   },
   {
    "s": "NVDA",
-   "p": 206.64,
-   "c": 2.93,
-   "a50": 205.84,
-   "a200": 193.25,
+   "p": 219.22,
+   "c": 3.43,
+   "a50": 205.76,
+   "a200": 193.59,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 203.85,
-   "r": 53.1
+   "a20": 205.36,
+   "r": 61.6
   },
   {
    "s": "TSLA",
-   "p": 322.08,
-   "c": 3.49,
-   "a50": 388.86,
-   "a200": 411.06,
+   "p": 321.55,
+   "c": -1.77,
+   "a50": 384.96,
+   "a200": 409.99,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.05,
-   "r": 36.8
+   "a20": 351.64,
+   "r": 37.5
   },
   {
    "s": "META",
-   "p": 590.24,
-   "c": 6.02,
-   "a50": 601.89,
-   "a200": 633.9,
+   "p": 588.77,
+   "c": 0.14,
+   "a50": 601.07,
+   "a200": 632.63,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 620.3,
-   "r": 47.0
+   "a20": 618.2,
+   "r": 46.7
   },
   {
    "s": "^TWII",
    "p": 44396.7,
-   "c": -0.48,
-   "a50": 44753.63,
-   "a200": 35363.03,
+   "c": 2.33,
+   "a50": 44567.15,
+   "a200": 34923.06,
    "yh": 47741.51,
    "yl": 23447.36,
-   "a20": 43675.0,
-   "r": 52.6
+   "a20": 44232.2,
+   "r": 51.9
   },
   {
    "s": "^GSPC",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.86,
-   "c": -7.2,
-   "a50": 17.41,
-   "a200": 18.73,
+   "p": 15.81,
+   "c": -4.18,
+   "a50": 17.34,
+   "a200": 18.61,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.17,
-   "r": 44.1
+   "a20": 17.21,
+   "r": 44.7
   },
   {
    "s": "BZ=F",
-   "p": 79.4,
-   "c": -0.06,
+   "p": 79.61,
+   "c": 0.2,
    "a50": 84.77,
    "a200": 81.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.87,
-   "r": 42.3
+   "a20": 86.88,
+   "r": 42.5
   },
   {
    "s": "GC=F",
-   "p": 4326.0,
-   "c": 7.25,
-   "a50": 4186.69,
-   "a200": 4479.71,
+   "p": 4316.4,
+   "c": 1.66,
+   "a50": 4172.9,
+   "a200": 4479.02,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4070.15,
-   "r": 63.1
+   "a20": 4076.65,
+   "r": 63.6
   },
   {
    "s": "HG=F",
-   "p": 6.72,
-   "c": 0.19,
-   "a50": 6.33,
-   "a200": 5.82,
-   "yh": 6.72,
+   "p": 6.7,
+   "c": 2.92,
+   "a50": 6.32,
+   "a200": 5.81,
+   "yh": 6.7,
    "yl": 4.38,
-   "a20": 6.39,
-   "r": 67.7
+   "a20": 6.34,
+   "r": 67.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03100775,
-   "c": 0.44,
+   "p": 0.03098853,
+   "c": 0.39,
    "a50": 0.03131851,
    "a200": 0.03165559,
    "yh": 0.033344,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060119.aspx"
   },
   {
-   "t": "Why AMD Stock Popped Today",
+   "t": "This Is the Biggest Mistake Too Many Investors Make With an S&P 500 ETF",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-popped-today-180627580.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/biggest-mistake-too-many-investors-182000487.html"
   },
   {
    "t": "AI獲利疑慮再起　亞股早盤科技股領跌多數走低",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060114.aspx"
   },
   {
-   "t": "JPMorgan Chase CEO Jamie Dimon Says AI 'Will Cure Cancers' — But How Should You Invest?",
+   "t": "MediaTek Wants 20% of Custom AI Chips. Alphabet (GOOGL) Could Win Before Broadcom (AVGO) Loses",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-chase-ceo-jamie-dimon-181501909.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/mediatek-wants-20-custom-ai-182411966.html"
   },
   {
    "t": "林世嘉：台灣再生醫療應強化委託製造　爭取全球訂單",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060109.aspx"
   },
   {
-   "t": "A $4 Billion Reason Why Amazon Stock Is Falling Today",
+   "t": "What is the actual cash value of my car?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/4-billion-reason-why-amazon-184952442.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/actual-cash-value-of-my-car-204252991.html"
   },
   {
    "t": "颱風與股災打擊　7月住展風向球連15個月亮黃藍燈",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060101.aspx"
   },
   {
-   "t": "US jury says Medtronic owes $88 million in first case to go to trial over Covidien's hernia mesh",
+   "t": "Stock Of The Day Tops Buy Point As Analysts Pour The Love",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/us-jury-says-medtronic-owes-180526466.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/nucor-nue-stock-of-the-day-steel-tariffs/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股開低震盪　股王股后撐盤盤中再現「雙萬金」",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060090.aspx"
   },
   {
-   "t": "Palantir Crushes Earnings as Karp Preaches “Sovereign AI”",
+   "t": "Amazon Partner Sets Up After 73% Surge, With Earnings On Watch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/palantir-crushes-earnings-karp-preaches-185332224.html"
+   "u": "https://www.investors.com/research/amazon-amzn-ai-pattern-group-ptrn-stock-software-markets-tech/?src=A00220&yptr=yahoo"
   },
   {
    "t": "荷莫茲海峽可望重啟通航　金價連4漲創7週來高點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060086.aspx"
   },
   {
-   "t": "Anthropic signs $10 billion computing deal with Volta Infra",
+   "t": "Salvatore Ferragamo Shares Hit by Trading Update",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-signs-10-billion-computing-180641716.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/salvatore-ferragamo-shares-hit-trading-182116557.html"
   }
  ],
  "inst": {
