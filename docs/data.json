@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 23:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 23:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 310.19,
-   "c": -0.26,
+   "p": 310.3,
+   "c": -0.23,
    "a50": 309.69,
    "a200": 279.15,
    "yh": 340.08,
    "yl": 213.25,
-   "a20": 323.42,
-   "r": 45.3
+   "a20": 323.43,
+   "r": 45.4
   },
   {
    "s": "NVDA",
-   "p": 218.25,
-   "c": -0.44,
-   "a50": 205.83,
-   "a200": 193.77,
+   "p": 217.35,
+   "c": -0.85,
+   "a50": 205.81,
+   "a200": 193.76,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 206.13,
-   "r": 60.7
+   "a20": 206.08,
+   "r": 59.8
   },
   {
    "s": "TSLA",
-   "p": 321.75,
-   "c": 0.06,
-   "a50": 382.72,
+   "p": 320.61,
+   "c": -0.29,
+   "a50": 382.7,
    "a200": 409.4,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 347.4,
-   "r": 37.6
+   "a20": 347.35,
+   "r": 37.3
   },
   {
    "s": "META",
-   "p": 589.3,
-   "c": 0.09,
+   "p": 589.45,
+   "c": 0.12,
    "a50": 600.61,
    "a200": 631.99,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 616.09,
-   "r": 46.8
+   "a20": 616.1,
+   "r": 46.9
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7715.52,
-   "c": -0.1,
-   "a50": 7489.61,
-   "a200": 7044.94,
+   "p": 7707.37,
+   "c": -0.21,
+   "a50": 7489.44,
+   "a200": 7044.9,
    "yh": 7736.52,
    "yl": 6340.0,
-   "a20": 7516.57,
-   "r": 64.5
+   "a20": 7516.16,
+   "r": 63.8
   },
   {
    "s": "^VIX",
-   "p": 15.32,
-   "c": -3.1,
+   "p": 15.42,
+   "c": -2.47,
    "a50": 17.31,
    "a200": 18.6,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.18,
-   "r": 43.2
+   "r": 43.5
   },
   {
    "s": "BZ=F",
-   "p": 81.65,
-   "c": 2.77,
+   "p": 81.56,
+   "c": 2.66,
    "a50": 84.81,
    "a200": 81.03,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 86.98,
-   "r": 45.3
+   "r": 45.2
   },
   {
    "s": "GC=F",
-   "p": 4316.4,
-   "c": 1.66,
-   "a50": 4172.9,
-   "a200": 4479.02,
+   "p": 4317.3,
+   "c": 1.68,
+   "a50": 4172.92,
+   "a200": 4479.03,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4076.65,
-   "r": 63.6
+   "a20": 4076.7,
+   "r": 63.7
   },
   {
    "s": "HG=F",
    "p": 6.72,
-   "c": 0.3,
+   "c": 0.29,
    "a50": 6.33,
    "a200": 5.82,
    "yh": 6.72,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060375.aspx"
   },
   {
-   "t": "AppLovin Stock Plunges To 52-Week Low After Earnings. Here's What Wall Street Is Saying.",
+   "t": "Tech stocks today: SpaceX lockup ends, Google faces AI leadership shakeup",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/applovin-stock-app-news-q2-2026-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-lockup-ends-google-faces-ai-leadership-shakeup-140419479.html"
   },
   {
    "t": "王品實施庫藏股　擬自10日起買回1500張",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060372.aspx"
   },
   {
-   "t": "Grant Cardone reveals the ‘best thing to do’ with $50K — with ‘zilch’ chance of going to $0. Do you own any?",
+   "t": "UK’s Absolute Financial expands South East footprint with four deals",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/grant-cardone-reveals-best-thing-150500038.html"
+   "u": "https://finance.yahoo.com/small-business/articles/uk-absolute-financial-expands-south-152334952.html"
   },
   {
    "t": "今彩539第115190期　頭獎3注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608060368.aspx"
   },
   {
-   "t": "Why Nokia's 5G Business Just Became an AI Story (and Who Wins)",
+   "t": "AppLovin Stock Plunges To 52-Week Low After Earnings. Here's What Wall Street Is Saying.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/why-nokias-5g-business-just-150500092.html"
+   "u": "https://www.investors.com/news/technology/applovin-stock-app-news-q2-2026-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "本國銀行上半年大賺3583億　年增2成寫同期新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060367.aspx"
   },
   {
-   "t": "SpaceX lockup expires today, with stock bucking higher",
+   "t": "Grant Cardone reveals the ‘best thing to do’ with $50K — with ‘zilch’ chance of going to $0. Do you own any?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/spacex-lockup-expires-today-with-stock-bucking-higher-100000039.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/grant-cardone-reveals-best-thing-150500038.html"
   },
   {
    "t": "威力彩第115063期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608060366.aspx"
   },
   {
-   "t": "BlackRock’s Ethereum ETF To Undergo 1-For-3 Reverse Split",
+   "t": "SpaceX lockup expires today, with stock bucking higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/blackrock-ethereum-etf-undergo-1-150000840.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/spacex-lockup-expires-today-with-stock-bucking-higher-100000039.html"
   },
   {
    "t": "國銀個人放款旺　6月大增2575億寫史上單月新高",
