@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06 13:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-06 13:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -25,91 +25,91 @@
   },
   {
    "s": "2308.TW",
-   "p": 1670.0,
-   "c": 1.21,
-   "a50": 1982.2,
-   "a200": 1498.04,
+   "p": 1675.0,
+   "c": 6.01,
+   "a50": 2014.3,
+   "a200": 1491.56,
    "yh": 2520.0,
    "yl": 621.0,
-   "a20": 1738.25,
+   "a20": 1763.25,
    "r": 43.1
   },
   {
    "s": "2454.TW",
-   "p": 3930.0,
-   "c": 0.51,
-   "a50": 4057.7,
-   "a200": 2340.07,
+   "p": 3925.0,
+   "c": 0.38,
+   "a50": 4057.6,
+   "a200": 2340.05,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3670.0,
-   "r": 54.3
+   "a20": 3669.75,
+   "r": 54.2
   },
   {
    "s": "2327.TW",
-   "p": 564.0,
-   "c": -2.42,
-   "a50": 818.25,
-   "a200": 416.04,
+   "p": 568.0,
+   "c": 2.9,
+   "a50": 822.69,
+   "a200": 412.19,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 651.08,
-   "r": 38.0
+   "a20": 683.62,
+   "r": 37.9
   },
   {
    "s": "1802.TW",
-   "p": 53.8,
-   "c": 13.14,
-   "a50": 63.4,
-   "a200": 51.26,
+   "p": 53.9,
+   "c": 0.0,
+   "a50": 62.62,
+   "a200": 51.48,
    "yh": 76.6,
    "yl": 23.3,
-   "a20": 55.33,
-   "r": 46.3
+   "a20": 54.1,
+   "r": 46.7
   },
   {
    "s": "6862.TW",
    "p": 142.5,
-   "c": 3.64,
-   "a50": 179.47,
-   "a200": 178.16,
+   "c": -1.04,
+   "a50": 177.76,
+   "a200": 177.95,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 151.1,
-   "r": 42.8
+   "a20": 147.15,
+   "r": 43.2
   },
   {
    "s": "3701.TW",
-   "p": 41.75,
-   "c": -2.68,
-   "a50": 44.89,
+   "p": 42.6,
+   "c": -0.7,
+   "a50": 44.9,
    "a200": 48.73,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.34,
-   "r": 51.9
+   "a20": 39.39,
+   "r": 54.0
   },
   {
    "s": "4722.TW",
-   "p": 231.0,
-   "c": 5.96,
-   "a50": 246.79,
-   "a200": 198.89,
+   "p": 230.0,
+   "c": 5.5,
+   "a50": 246.77,
+   "a200": 198.88,
    "yh": 306.5,
    "yl": 69.6,
-   "a20": 216.02,
-   "r": 53.2
+   "a20": 215.98,
+   "r": 52.9
   },
   {
    "s": "6706.TW",
-   "p": 111.0,
-   "c": -4.72,
-   "a50": 145.26,
-   "a200": 124.94,
+   "p": 111.5,
+   "c": -4.29,
+   "a50": 145.27,
+   "a200": 124.95,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 111.62,
-   "r": 44.3
+   "a20": 111.65,
+   "r": 44.6
   },
   {
    "s": "2305.TW",
@@ -124,25 +124,25 @@
   },
   {
    "s": "6442.TW",
-   "p": 1345.0,
-   "c": -1.82,
-   "a50": 1616.0,
-   "a200": 1567.88,
+   "p": 1360.0,
+   "c": 7.09,
+   "a50": 1647.1,
+   "a200": 1563.06,
    "yh": 2370.0,
    "yl": 599.0,
-   "a20": 1304.25,
-   "r": 47.2
+   "a20": 1315.0,
+   "r": 48.0
   },
   {
    "s": "6515.TW",
-   "p": 6880.0,
-   "c": 10.08,
-   "a50": 7987.7,
-   "a200": 5812.15,
+   "p": 6800.0,
+   "c": 8.8,
+   "a50": 7986.1,
+   "a200": 5811.75,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6589.25,
-   "r": 49.1
+   "a20": 6585.25,
+   "r": 48.3
   },
   {
    "s": "6446.TW",
@@ -158,24 +158,24 @@
   {
    "s": "3324.TWO",
    "p": 1060.0,
-   "c": 12.29,
-   "a50": 997.94,
-   "a200": 995.31,
+   "c": 9.84,
+   "a50": 994.62,
+   "a200": 995.77,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 909.2,
-   "r": 61.8
+   "a20": 912.4,
+   "r": 63.0
   },
   {
    "s": "3491.TWO",
-   "p": 1335.0,
-   "c": 3.89,
-   "a50": 1426.84,
-   "a200": 1165.15,
+   "p": 1330.0,
+   "c": 24.88,
+   "a50": 1460.74,
+   "a200": 1157.43,
    "yh": 2200.0,
    "yl": 330.5,
-   "a20": 1189.85,
-   "r": 55.2
+   "a20": 1193.85,
+   "r": 54.4
   },
   {
    "s": "3585.TWO",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 6285.0,
-   "c": 0.64,
-   "a50": 6152.4,
-   "a200": 3882.52,
+   "p": 6270.0,
+   "c": 8.01,
+   "a50": 6161.8,
+   "a200": 3838.32,
    "yh": 7380.0,
    "yl": 1095.0,
-   "a20": 5874.25,
-   "r": 54.8
+   "a20": 5943.25,
+   "r": 54.3
   },
   {
    "s": "6750.TWO",
@@ -223,25 +223,25 @@
   },
   {
    "s": "NVDA",
-   "p": 219.22,
-   "c": 3.43,
-   "a50": 205.76,
-   "a200": 193.59,
+   "p": 206.64,
+   "c": 2.93,
+   "a50": 205.84,
+   "a200": 193.25,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 205.36,
-   "r": 61.6
+   "a20": 203.85,
+   "r": 53.1
   },
   {
    "s": "TSLA",
-   "p": 321.55,
-   "c": -1.77,
-   "a50": 384.96,
-   "a200": 409.99,
+   "p": 322.08,
+   "c": 3.49,
+   "a50": 388.86,
+   "a200": 411.06,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 351.64,
-   "r": 37.5
+   "a20": 359.05,
+   "r": 36.8
   },
   {
    "s": "META",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44395.25,
-   "c": -0.48,
-   "a50": 44753.6,
-   "a200": 35363.03,
+   "p": 44424.3,
+   "c": -0.42,
+   "a50": 44754.18,
+   "a200": 35363.17,
    "yh": 47741.51,
    "yl": 23447.36,
-   "a20": 43674.93,
-   "r": 52.6
+   "a20": 43676.38,
+   "r": 52.7
   },
   {
    "s": "^GSPC",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 79.11,
-   "c": -0.43,
-   "a50": 84.76,
-   "a200": 81.02,
+   "p": 79.21,
+   "c": -5.44,
+   "a50": 85.65,
+   "a200": 80.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 86.86,
-   "r": 42.0
+   "a20": 86.64,
+   "r": 42.1
   },
   {
    "s": "GC=F",
-   "p": 4321.1,
-   "c": 7.12,
-   "a50": 4186.6,
-   "a200": 4479.69,
+   "p": 4319.1,
+   "c": 7.08,
+   "a50": 4186.56,
+   "a200": 4479.68,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4069.9,
+   "a20": 4069.8,
    "r": 62.8
   },
   {
    "s": "HG=F",
    "p": 6.72,
-   "c": 0.24,
+   "c": 0.23,
    "a50": 6.33,
    "a200": 5.82,
    "yh": 6.72,
@@ -322,11 +322,11 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03098853,
-   "c": 0.4,
-   "a50": 0.03131851,
-   "a200": 0.03165559,
-   "yh": 0.033344,
+   "p": 0.03102699,
+   "c": 0.21,
+   "a50": 0.03135779,
+   "a200": 0.03167564,
+   "yh": 0.0334,
    "yl": 0.030864
   }
  ],
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060036.aspx"
   },
   {
-   "t": "Retired Couple Faces a $7,000 IRMAA Surprise From a Mutual Fund They Never Sold",
+   "t": "Why Broadcom Stock Rallied Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/retired-couple-faces-7-000-165643482.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-rallied-today-171202528.html"
   },
   {
    "t": "台股早盤跌逾500點　權值股漲跌互見",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060032.aspx"
   },
   {
-   "t": "Apple vs. Alphabet: The $5 Trillion AI Bet That’s Renting, Not Building",
+   "t": "Nvidia Tops Key Level As AMD Heads Into Earnings; Is Nvidia A Buy Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-vs-alphabet-5-trillion-165422171.html"
+   "u": "https://www.investors.com/research/nvidia-nvda-stock-buy-now-august-2026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "新台幣開盤升2.5分　為32.29元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060025.aspx"
   },
   {
-   "t": "HappyRobot Series C mints FreightTech’s newest unicorn",
+   "t": "Palantir Stock Surges Nearly 30%. Did Q2 Beat Slay Worries Over OpenAI, Anthropic?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/happyrobot-series-c-mints-freighttech-165732635.html"
+   "u": "https://www.investors.com/news/technology/palantir-stock-palantir-earnings-news-q22026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股開盤跌123.66點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060023.aspx"
   },
   {
-   "t": "Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms",
+   "t": "Shein’s Sobering Valuation Asks If an IPO is Necessary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-nearly-30-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/shein-sobering-valuation-asks-ipo-171024885.html"
   },
   {
    "t": "道瓊創高台積電ADR收黑　投顧：台股估區間震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060020.aspx"
   },
   {
-   "t": "Abbott vs Danaher: Which Healthcare Stock Looks Better Positioned Following Earnings?",
+   "t": "Is it better to lease or finance a car? What drivers should know.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/abbott-vs-danaher-healthcare-stock-165559358.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/lease-vs-finance-car-203958250.html"
   },
   {
    "t": "SpaceX全面擁抱輝達晶片　布局太空AI算力",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608060019.aspx"
   },
   {
-   "t": "Polymarket Chases $20 Billion Valuation as Exclusive ATP Streaming Deal Targets the Kalshi Gap",
+   "t": "Spencer Jakab | Aschenbrenner Will Be Back",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/polymarket-chases-20-billion-valuation-165511159.html"
+   "u": "https://www.wsj.com/livecoverage/stock-market-today-spacex-earnings-08-04-2026/card/spencer-jakab-aschenbrenner-will-be-back-c0M9gzv6Eergrq63PHwa?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
