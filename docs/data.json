@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-08 00:22（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-08 00:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 311.8,
-   "c": -0.2,
+   "p": 311.7,
+   "c": -0.23,
    "a50": 309.75,
-   "a200": 279.41,
+   "a200": 279.4,
    "yh": 340.08,
    "yl": 220.03,
    "a20": 323.35,
-   "r": 46.5
+   "r": 46.4
   },
   {
    "s": "NVDA",
-   "p": 223.09,
-   "c": 1.87,
-   "a50": 206.06,
+   "p": 222.23,
+   "c": 1.48,
+   "a50": 206.04,
    "a200": 193.97,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 206.77,
-   "r": 63.9
+   "a20": 206.73,
+   "r": 63.4
   },
   {
    "s": "TSLA",
-   "p": 330.21,
-   "c": 3.34,
-   "a50": 380.47,
+   "p": 328.86,
+   "c": 2.92,
+   "a50": 380.45,
    "a200": 408.8,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 343.41,
-   "r": 42.1
+   "a20": 343.35,
+   "r": 41.5
   },
   {
    "s": "META",
-   "p": 594.32,
-   "c": 0.75,
-   "a50": 599.8,
-   "a200": 631.31,
+   "p": 593.05,
+   "c": 0.53,
+   "a50": 599.78,
+   "a200": 631.3,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 612.38,
-   "r": 48.3
+   "a20": 612.31,
+   "r": 48.0
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7750.45,
-   "c": 0.53,
-   "a50": 7494.1,
-   "a200": 7049.99,
-   "yh": 7750.45,
+   "p": 7738.24,
+   "c": 0.37,
+   "a50": 7493.85,
+   "a200": 7049.93,
+   "yh": 7738.24,
    "yl": 6340.0,
-   "a20": 7525.05,
-   "r": 66.0
+   "a20": 7524.44,
+   "r": 65.4
   },
   {
    "s": "^VIX",
-   "p": 14.94,
-   "c": -1.39,
+   "p": 14.96,
+   "c": -1.25,
    "a50": 17.28,
    "a200": 18.58,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.17,
-   "r": 42.0
+   "r": 42.1
   },
   {
    "s": "BZ=F",
-   "p": 83.54,
-   "c": 1.27,
-   "a50": 84.61,
+   "p": 83.7,
+   "c": 1.47,
+   "a50": 84.62,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.4,
-   "r": 47.7
+   "a20": 87.41,
+   "r": 47.9
   },
   {
    "s": "GC=F",
-   "p": 4405.3,
-   "c": 3.85,
-   "a50": 4170.57,
-   "a200": 4478.99,
+   "p": 4401.7,
+   "c": 3.76,
+   "a50": 4170.49,
+   "a200": 4478.98,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4087.99,
-   "r": 67.7
+   "a20": 4087.81,
+   "r": 67.6
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": -1.23,
+   "p": 6.59,
+   "c": -1.42,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.7,
    "yl": 4.38,
    "a20": 6.41,
-   "r": 60.7
+   "r": 60.0
   },
   {
    "s": "TWDUSD",
@@ -338,7 +338,7 @@
    "u": "https://www.cna.com.tw/news/afe/202608070348.aspx"
   },
   {
-   "t": "Earnings live updates: The Trade Desk stock plummets on earnings miss, Wendy's cuts outlook",
+   "t": "Earnings live updates: The Trade Desk stock plummets on earnings miss, Oklo jumps on 'criticality' milestone",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html"
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070347.aspx"
   },
   {
-   "t": "US stocks, bonds rally after soft jobs report; yen bounces back",
+   "t": "Twilio Stock Surges 31% On Earnings Beat As AI Tools Gain Traction",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/asian-shares-pause-us-jobs-021601155.html"
+   "u": "https://www.investors.com/news/technology/twilio-earnings-twilio-stock-news-q22026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透第115077期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070346.aspx"
   },
   {
-   "t": "Satya Nadella Said Microsoft's Own AI Chips Are Driving Up to 40% Efficiency Gains. Here's Why That Matters for Investors",
+   "t": "US stocks, bonds rally after soft jobs report; yen bounces back",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/satya-nadella-said-microsofts-own-160700036.html"
+   "u": "https://finance.yahoo.com/news/asian-shares-pause-us-jobs-021601155.html"
   },
   {
    "t": "美7月非農就業人數意外減　標普與那指雙雙開高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070338.aspx"
   },
   {
-   "t": "Daily Spotlight: Payrolls Fall, Hikes Less Likely",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after July jobs report surprises to the downside",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_47855_MarketOutlook_1786110181000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-july-jobs-report-surprises-100009572.html"
   }
  ],
  "inst": {
