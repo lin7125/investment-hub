@@ -212,7 +212,7 @@
   },
   {
    "s": "AAPL",
-   "p": 313.02,
+   "p": 313.04,
    "c": 0.2,
    "a50": 309.78,
    "a200": 279.41,
@@ -234,18 +234,18 @@
   },
   {
    "s": "TSLA",
-   "p": 327.39,
-   "c": 2.46,
+   "p": 327.32,
+   "c": 2.44,
    "a50": 380.42,
    "a200": 408.79,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 343.27,
-   "r": 40.9
+   "r": 40.8
   },
   {
    "s": "META",
-   "p": 592.24,
+   "p": 592.26,
    "c": 0.4,
    "a50": 599.76,
    "a200": 631.3,
@@ -267,13 +267,13 @@
   },
   {
    "s": "^GSPC",
-   "p": 7745.51,
-   "c": 0.46,
-   "a50": 7494.0,
+   "p": 7746.22,
+   "c": 0.47,
+   "a50": 7494.01,
    "a200": 7049.97,
-   "yh": 7745.51,
+   "yh": 7746.22,
    "yl": 6340.0,
-   "a20": 7524.8,
+   "a20": 7524.84,
    "r": 65.8
   },
   {
@@ -289,9 +289,9 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.14,
-   "c": 0.79,
-   "a50": 84.6,
+   "p": 83.18,
+   "c": 0.84,
+   "a50": 84.61,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4396.1,
-   "c": 3.63,
-   "a50": 4170.38,
-   "a200": 4478.95,
+   "p": 4394.4,
+   "c": 3.59,
+   "a50": 4170.35,
+   "a200": 4478.94,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4087.53,
-   "r": 67.4
+   "a20": 4087.45,
+   "r": 67.3
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": -1.45,
+   "c": -1.49,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.7,
    "yl": 4.38,
    "a20": 6.41,
-   "r": 59.8
+   "r": 59.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03101737,
-   "c": 0.09,
+   "c": 0.08,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070348.aspx"
   },
   {
-   "t": "Veteran manager buys 2 ETFs as market shifts",
+   "t": "Russ Savage calls for Celsius Holdings CEO John Fieldly to be fired",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/russ-savage-calls-celsius-holdings-173400926.html"
   },
   {
    "t": "今彩539第115191期　頭獎4注中獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070338.aspx"
   },
   {
-   "t": "Russ Savage calls for Celsius Holdings CEO John Fieldly to be fired",
+   "t": "Spotify and Pinterest Delivered the Growth. Investors Wanted More",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/russ-savage-calls-celsius-holdings-173400926.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spotify-pinterest-delivered-growth-investors-173058540.html"
   }
  ],
  "inst": {
