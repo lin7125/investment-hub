@@ -1,258 +1,258 @@
 {
- "generatedAt": "2026-08-07 00:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 08:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2405.0,
-   "c": 3.66,
-   "a50": 2377.1,
-   "a200": 1911.3,
+   "p": 2365.0,
+   "c": -1.66,
+   "a50": 2378.4,
+   "a200": 1916.05,
    "yh": 2510.0,
    "yl": 1125.0,
-   "a20": 2366.5,
-   "r": 53.0
+   "a20": 2364.0,
+   "r": 50.2
   },
   {
    "s": "2317.TW",
-   "p": 258.5,
-   "c": 3.4,
-   "a50": 256.18,
-   "a200": 234.05,
+   "p": 264.5,
+   "c": 2.32,
+   "a50": 256.19,
+   "a200": 234.25,
    "yh": 309.0,
    "yl": 186.0,
-   "a20": 243.7,
-   "r": 57.4
+   "a20": 245.05,
+   "r": 60.5
   },
   {
    "s": "2308.TW",
-   "p": 1650.0,
-   "c": 1.85,
-   "a50": 1999.2,
-   "a200": 1494.6,
+   "p": 1680.0,
+   "c": 1.82,
+   "a50": 1982.4,
+   "a200": 1498.1,
    "yh": 2520.0,
    "yl": 621.0,
-   "a20": 1748.75,
-   "r": 41.7
+   "a20": 1738.75,
+   "r": 43.8
   },
   {
    "s": "2454.TW",
-   "p": 4000.0,
-   "c": 3.49,
-   "a50": 4051.1,
-   "a200": 2353.12,
+   "p": 3920.0,
+   "c": -2.0,
+   "a50": 4036.7,
+   "a200": 2366.05,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3667.0,
-   "r": 55.7
+   "a20": 3666.75,
+   "r": 53.6
   },
   {
    "s": "2327.TW",
-   "p": 578.0,
-   "c": 2.12,
-   "a50": 820.99,
-   "a200": 414.15,
+   "p": 570.0,
+   "c": -1.38,
+   "a50": 818.37,
+   "a200": 416.07,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 667.88,
-   "r": 39.0
+   "a20": 651.38,
+   "r": 38.4
   },
   {
    "s": "1802.TW",
-   "p": 53.9,
-   "c": 3.06,
-   "a50": 63.0,
-   "a200": 51.37,
+   "p": 54.6,
+   "c": 1.3,
+   "a50": 62.64,
+   "a200": 51.48,
    "yh": 76.6,
    "yl": 23.3,
-   "a20": 54.65,
-   "r": 46.7
+   "a20": 54.13,
+   "r": 47.8
   },
   {
    "s": "6862.TW",
    "p": 144.0,
-   "c": 4.35,
-   "a50": 178.63,
-   "a200": 178.05,
+   "c": 0.0,
+   "a50": 177.79,
+   "a200": 177.96,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 149.1,
+   "a20": 147.22,
    "r": 43.9
   },
   {
    "s": "3701.TW",
-   "p": 42.9,
-   "c": 9.72,
-   "a50": 45.16,
-   "a200": 48.72,
+   "p": 43.5,
+   "c": 1.4,
+   "a50": 44.92,
+   "a200": 48.74,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.34,
-   "r": 54.8
+   "a20": 39.43,
+   "r": 56.1
   },
   {
    "s": "4722.TW",
-   "p": 218.0,
-   "c": 7.39,
-   "a50": 247.58,
-   "a200": 198.77,
+   "p": 230.0,
+   "c": 5.5,
+   "a50": 246.77,
+   "a200": 198.88,
    "yh": 306.5,
    "yl": 69.6,
-   "a20": 217.3,
-   "r": 49.2
+   "a20": 215.98,
+   "r": 52.9
   },
   {
    "s": "6706.TW",
-   "p": 116.5,
-   "c": 9.91,
-   "a50": 147.37,
-   "a200": 124.77,
+   "p": 112.0,
+   "c": -3.86,
+   "a50": 145.28,
+   "a200": 124.95,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 113.02,
-   "r": 47.5
+   "a20": 111.67,
+   "r": 44.8
   },
   {
    "s": "2305.TW",
-   "p": 29.35,
-   "c": -9.97,
-   "a50": 31.41,
-   "a200": 17.95,
+   "p": 26.45,
+   "c": -9.88,
+   "a50": 31.48,
+   "a200": 18.03,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 32.81,
-   "r": 43.7
+   "a20": 32.33,
+   "r": 38.4
   },
   {
    "s": "6442.TW",
-   "p": 1370.0,
-   "c": -1.79,
-   "a50": 1629.9,
-   "a200": 1565.7,
+   "p": 1415.0,
+   "c": 3.28,
+   "a50": 1617.4,
+   "a200": 1568.22,
    "yh": 2370.0,
    "yl": 599.0,
-   "a20": 1311.0,
-   "r": 48.4
+   "a20": 1307.75,
+   "r": 50.7
   },
   {
    "s": "6515.TW",
-   "p": 6885.0,
-   "c": 4.71,
-   "a50": 7941.2,
-   "a200": 5834.42,
+   "p": 6775.0,
+   "c": -1.6,
+   "a50": 7880.8,
+   "a200": 5857.4,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6533.0,
-   "r": 49.3
+   "a20": 6483.5,
+   "r": 48.2
   },
   {
    "s": "6446.TW",
-   "p": 1335.0,
-   "c": 9.88,
-   "a50": 1071.61,
-   "a200": 674.18,
+   "p": 1290.0,
+   "c": -3.37,
+   "a50": 1081.6,
+   "a200": 678.2,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1190.0,
-   "r": 64.1
+   "a20": 1190.25,
+   "r": 59.9
   },
   {
    "s": "3324.TWO",
-   "p": 965.0,
-   "c": 2.22,
-   "a50": 994.12,
-   "a200": 994.99,
+   "p": 1060.0,
+   "c": 9.84,
+   "a50": 994.62,
+   "a200": 995.77,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 905.4,
-   "r": 53.8
+   "a20": 912.4,
+   "r": 63.0
   },
   {
    "s": "3491.TWO",
-   "p": 1285.0,
-   "c": 9.83,
-   "a50": 1441.74,
-   "a200": 1160.8,
+   "p": 1350.0,
+   "c": 5.06,
+   "a50": 1427.14,
+   "a200": 1165.22,
    "yh": 2200.0,
    "yl": 330.5,
-   "a20": 1186.6,
-   "r": 52.8
+   "a20": 1190.6,
+   "r": 55.9
   },
   {
    "s": "3585.TWO",
-   "p": 49.05,
-   "c": -0.41,
-   "a50": 64.98,
-   "a200": 40.23,
+   "p": 49.1,
+   "c": 0.1,
+   "a50": 64.32,
+   "a200": 40.4,
    "yh": 165.0,
    "yl": 5.6,
-   "a20": 50.51,
-   "r": 43.6
+   "a20": 49.72,
+   "r": 43.7
   },
   {
    "s": "6223.TWO",
-   "p": 6245.0,
-   "c": 5.85,
-   "a50": 6154.5,
-   "a200": 3859.52,
+   "p": 6300.0,
+   "c": 0.88,
+   "a50": 6152.7,
+   "a200": 3882.6,
    "yh": 7380.0,
    "yl": 1095.0,
-   "a20": 5914.0,
-   "r": 54.3
+   "a20": 5875.0,
+   "r": 54.9
   },
   {
    "s": "6750.TWO",
-   "p": 55.0,
-   "c": 5.97,
-   "a50": 62.39,
-   "a200": 56.34,
+   "p": 56.2,
+   "c": 2.18,
+   "a50": 62.14,
+   "a200": 56.38,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 57.05,
-   "r": 43.0
+   "a20": 56.68,
+   "r": 46.2
   },
   {
    "s": "AAPL",
-   "p": 311.22,
-   "c": 0.07,
-   "a50": 309.71,
-   "a200": 279.15,
+   "p": 312.41,
+   "c": 0.45,
+   "a50": 309.74,
+   "a200": 279.16,
    "yh": 340.08,
-   "yl": 213.25,
-   "a20": 323.47,
-   "r": 46.0
+   "yl": 220.03,
+   "a20": 323.53,
+   "r": 46.9
   },
   {
    "s": "NVDA",
-   "p": 218.82,
-   "c": -0.18,
-   "a50": 205.84,
+   "p": 218.99,
+   "c": -0.1,
+   "a50": 205.85,
    "a200": 193.77,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 206.16,
-   "r": 61.2
+   "a20": 206.17,
+   "r": 61.4
   },
   {
    "s": "TSLA",
-   "p": 318.73,
-   "c": -0.88,
-   "a50": 382.66,
+   "p": 319.53,
+   "c": -0.63,
+   "a50": 382.68,
    "a200": 409.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 347.25,
-   "r": 36.7
+   "a20": 347.29,
+   "r": 36.9
   },
   {
    "s": "META",
-   "p": 589.6,
-   "c": 0.14,
-   "a50": 600.61,
-   "a200": 631.99,
+   "p": 589.9,
+   "c": 0.19,
+   "a50": 600.62,
+   "a200": 632.0,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 616.11,
-   "r": 46.9
+   "a20": 616.12,
+   "r": 47.0
   },
   {
    "s": "^TWII",
@@ -267,70 +267,119 @@
   },
   {
    "s": "^GSPC",
-   "p": 7707.1,
-   "c": -0.21,
-   "a50": 7489.44,
-   "a200": 7044.9,
+   "p": 7709.96,
+   "c": -0.18,
+   "a50": 7489.49,
+   "a200": 7044.92,
    "yh": 7736.52,
    "yl": 6340.0,
-   "a20": 7516.15,
-   "r": 63.8
+   "a20": 7516.29,
+   "r": 64.0
   },
   {
    "s": "^VIX",
-   "p": 15.56,
-   "c": -1.58,
-   "a50": 17.31,
+   "p": 15.15,
+   "c": -4.17,
+   "a50": 17.3,
    "a200": 18.6,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.19,
-   "r": 43.9
-  },
-  {
-   "s": "BZ=F",
-   "p": 82.78,
-   "c": 4.19,
-   "a50": 84.83,
-   "a200": 81.04,
-   "yh": 118.35,
-   "yl": 58.92,
-   "a20": 87.04,
-   "r": 46.7
+   "a20": 17.17,
+   "r": 42.7
   },
   {
    "s": "GC=F",
-   "p": 4283.9,
-   "c": 0.9,
-   "a50": 4172.25,
-   "a200": 4478.86,
+   "p": 4308.5,
+   "c": 1.48,
+   "a50": 4172.74,
+   "a200": 4478.98,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4075.03,
-   "r": 62.0
+   "a20": 4076.26,
+   "r": 63.2
   },
   {
    "s": "HG=F",
-   "p": 6.68,
-   "c": -0.4,
+   "p": 6.72,
+   "c": 0.3,
    "a50": 6.33,
    "a200": 5.82,
-   "yh": 6.7,
+   "yh": 6.72,
    "yl": 4.38,
    "a20": 6.39,
-   "r": 65.5
+   "r": 67.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03098853,
-   "c": 0.39,
-   "a50": 0.03131851,
-   "a200": 0.03165559,
-   "yh": 0.033344,
+   "p": 0.0310559,
+   "c": 0.19,
+   "a50": 0.0312989,
+   "a200": 0.03164557,
+   "yh": 0.0333,
    "yl": 0.030864
   }
  ],
  "news": [
+  {
+   "t": "美禁止關鍵礦物廢料外流　力拚回收產業與供應鏈自主",
+   "pub": "中央社財經",
+   "d": "2026-08-07",
+   "u": "https://www.cna.com.tw/news/aopl/202608070014.aspx"
+  },
+  {
+   "t": "Dell Stock Surged 260% This Year, and Here’s All the Reasons Why",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-surged-260-reasons-120715216.html"
+  },
+  {
+   "t": "美公布就業報告前夕　美股多收黑",
+   "pub": "中央社財經",
+   "d": "2026-08-07",
+   "u": "https://www.cna.com.tw/news/afe/202608070010.aspx"
+  },
+  {
+   "t": "Kansas City Fed's Schmid favors higher rates to bring down inflation",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/economy/policy/article/kansas-city-feds-schmid-favors-higher-rates-to-bring-down-inflation-120930312.html"
+  },
+  {
+   "t": "伊朗擬禁美以船隻過海峽　國際油價大漲逾3美元",
+   "pub": "中央社財經",
+   "d": "2026-08-07",
+   "u": "https://www.cna.com.tw/news/afe/202608070009.aspx"
+  },
+  {
+   "t": "Baron Capital Exits Apogee Therapeutics (APGE) Following AbbVie Buyout",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/healthcare/articles/baron-capital-exits-apogee-therapeutics-121725067.html"
+  },
+  {
+   "t": "阿波羅2475億收購廉航　擊退對手入主易捷航空",
+   "pub": "中央社財經",
+   "d": "2026-08-07",
+   "u": "https://www.cna.com.tw/news/aopl/202608070003.aspx"
+  },
+  {
+   "t": "Dow Jones Futures Rise; SpaceX, AMD Dive As Arista, Eli Lilly Jump With S&P 500 At Highs",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-spacex-amd-arista-eli-lily-earnings/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "投資人評估企業財報　歐股互有漲跌",
+   "pub": "中央社財經",
+   "d": "2026-08-07",
+   "u": "https://www.cna.com.tw/news/afe/202608070002.aspx"
+  },
+  {
+   "t": "NRG Energy Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-stock-outlook-wall-122544683.html"
+  },
   {
    "t": "外溢保單上半年新契約保費收入488億　超越去年全年",
    "pub": "中央社財經",
@@ -338,70 +387,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608060375.aspx"
   },
   {
-   "t": "The Trump Administration Could Soon Create the ‘Mother of All’ AI Bottlenecks. These Stocks Could Soar.",
+   "t": "More Texas multifamily loans moved to servicing in late July",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/trump-administration-could-soon-create-161442136.html"
-  },
-  {
-   "t": "王品實施庫藏股　擬自10日起買回1500張",
-   "pub": "中央社財經",
-   "d": "2026-08-06",
-   "u": "https://www.cna.com.tw/news/afe/202608060372.aspx"
-  },
-  {
-   "t": "Earnings live updates: Datadog stock plunges, Papa John's says turnaround is taking longer than expected",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html"
-  },
-  {
-   "t": "今彩539第115190期　頭獎3注中獎",
-   "pub": "中央社財經",
-   "d": "2026-08-06",
-   "u": "https://www.cna.com.tw/news/ahel/202608060368.aspx"
-  },
-  {
-   "t": "Tokenized Asset Deposits Balloon to $7.4B as On-Chain Use Accelerates",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/tokenized-asset-deposits-balloon-7-160700961.html"
-  },
-  {
-   "t": "本國銀行上半年大賺3583億　年增2成寫同期新高",
-   "pub": "中央社財經",
-   "d": "2026-08-06",
-   "u": "https://www.cna.com.tw/news/afe/202608060367.aspx"
-  },
-  {
-   "t": "Tech stocks today: SpaceX lockup ends, Google faces AI leadership shakeup",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-lockup-ends-google-faces-ai-leadership-shakeup-140419479.html"
-  },
-  {
-   "t": "威力彩第115063期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-08-06",
-   "u": "https://www.cna.com.tw/news/ahel/202608060366.aspx"
-  },
-  {
-   "t": "Stock Market Today: Dow Drops While Sandisk, Western Digital Fall; This Chip Firm Surges (Live Coverage)",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ai-stocks-sandisk-western-digital/?src=A00220&yptr=yahoo"
-  },
-  {
-   "t": "國銀個人放款旺　6月大增2575億寫史上單月新高",
-   "pub": "中央社財經",
-   "d": "2026-08-06",
-   "u": "https://www.cna.com.tw/news/afe/202608060364.aspx"
-  },
-  {
-   "t": "Bank of America Says the Federal Reserve Chair Kevin Warsh Facing Consequential “Credibility Shock”",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/bank-america-says-federal-chair-160846282.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/more-texas-multifamily-loans-moved-120712202.html"
   }
  ],
  "inst": {
