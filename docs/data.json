@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-07 12:33（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 12:43（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2365.0,
-   "c": 0.0,
-   "a50": 2379.8,
-   "a200": 1920.68,
+   "p": 2360.0,
+   "c": -0.21,
+   "a50": 2379.7,
+   "a200": 1920.65,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2361.5,
-   "r": 50.2
+   "a20": 2361.25,
+   "r": 49.9
   },
   {
    "s": "2317.TW",
@@ -36,36 +36,36 @@
   },
   {
    "s": "2454.TW",
-   "p": 3875.0,
-   "c": -1.15,
-   "a50": 4026.0,
-   "a200": 2378.7,
+   "p": 3880.0,
+   "c": -1.02,
+   "a50": 4026.1,
+   "a200": 2378.72,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3664.25,
-   "r": 52.4
+   "a20": 3664.5,
+   "r": 52.5
   },
   {
    "s": "2327.TW",
-   "p": 543.0,
-   "c": -4.74,
-   "a50": 814.39,
-   "a200": 417.87,
+   "p": 541.0,
+   "c": -5.09,
+   "a50": 814.35,
+   "a200": 417.86,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 633.52,
-   "r": 36.4
+   "a20": 633.42,
+   "r": 36.2
   },
   {
    "s": "1802.TW",
-   "p": 53.7,
-   "c": -1.65,
+   "p": 53.4,
+   "c": -2.2,
    "a50": 62.3,
    "a200": 51.59,
    "yh": 76.6,
    "yl": 23.3,
-   "a20": 53.57,
-   "r": 46.4
+   "a20": 53.55,
+   "r": 46.0
   },
   {
    "s": "6862.TW",
@@ -80,25 +80,25 @@
   },
   {
    "s": "3701.TW",
-   "p": 42.8,
-   "c": -1.61,
-   "a50": 44.72,
+   "p": 43.15,
+   "c": -0.8,
+   "a50": 44.73,
    "a200": 48.76,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.49,
-   "r": 54.2
+   "a20": 39.51,
+   "r": 55.1
   },
   {
    "s": "4722.TW",
-   "p": 230.0,
-   "c": 0.0,
-   "a50": 245.93,
+   "p": 229.0,
+   "c": -0.43,
+   "a50": 245.91,
    "a200": 198.96,
    "yh": 306.5,
    "yl": 70.2,
-   "a20": 214.65,
-   "r": 52.9
+   "a20": 214.6,
+   "r": 52.6
   },
   {
    "s": "6706.TW",
@@ -124,63 +124,63 @@
   },
   {
    "s": "6442.TW",
-   "p": 1350.0,
-   "c": -4.59,
-   "a50": 1606.5,
-   "a200": 1570.54,
+   "p": 1345.0,
+   "c": -4.95,
+   "a50": 1606.4,
+   "a200": 1570.52,
    "yh": 2370.0,
    "yl": 612.0,
-   "a20": 1301.25,
-   "r": 47.5
+   "a20": 1301.0,
+   "r": 47.2
   },
   {
    "s": "6515.TW",
-   "p": 6860.0,
-   "c": 1.25,
-   "a50": 7835.6,
-   "a200": 5880.22,
+   "p": 6800.0,
+   "c": 0.37,
+   "a50": 7834.4,
+   "a200": 5879.92,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6438.25,
-   "r": 49.2
+   "a20": 6435.25,
+   "r": 48.5
   },
   {
    "s": "6446.TW",
-   "p": 1250.0,
-   "c": -3.1,
-   "a50": 1091.06,
-   "a200": 682.04,
+   "p": 1245.0,
+   "c": -3.49,
+   "a50": 1090.96,
+   "a200": 682.01,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1188.5,
-   "r": 56.5
+   "a20": 1188.25,
+   "r": 56.1
   },
   {
    "s": "3324.TWO",
-   "p": 1010.0,
-   "c": -4.72,
-   "a50": 994.72,
-   "a200": 996.26,
+   "p": 1015.0,
+   "c": -4.25,
+   "a50": 994.82,
+   "a200": 996.29,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 916.9,
-   "r": 56.6
+   "a20": 917.15,
+   "r": 57.2
   },
   {
    "s": "3491.TWO",
-   "p": 1275.0,
-   "c": -5.56,
-   "a50": 1412.64,
-   "a200": 1169.25,
+   "p": 1260.0,
+   "c": -6.67,
+   "a50": 1412.34,
+   "a200": 1169.18,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1190.85,
-   "r": 51.7
+   "a20": 1190.1,
+   "r": 50.9
   },
   {
    "s": "3585.TWO",
-   "p": 48.75,
-   "c": -0.71,
+   "p": 48.8,
+   "c": -0.61,
    "a50": 63.79,
    "a200": 40.56,
    "yh": 165.0,
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 6170.0,
-   "c": -2.06,
-   "a50": 6157.8,
-   "a200": 3904.9,
+   "p": 6155.0,
+   "c": -2.3,
+   "a50": 6157.5,
+   "a200": 3904.82,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5829.5,
-   "r": 53.1
+   "a20": 5828.75,
+   "r": 52.8
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44238.24,
-   "c": -0.36,
-   "a50": 44753.26,
-   "a200": 35448.91,
+   "p": 44175.53,
+   "c": -0.5,
+   "a50": 44752.0,
+   "a200": 35448.59,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43619.18,
-   "r": 51.8
+   "a20": 43616.05,
+   "r": 51.5
   },
   {
    "s": "^GSPC",
@@ -288,31 +288,42 @@
    "r": 42.7
   },
   {
+   "s": "BZ=F",
+   "p": 83.87,
+   "c": 1.67,
+   "a50": 84.62,
+   "a200": 81.15,
+   "yh": 118.35,
+   "yl": 58.92,
+   "a20": 87.42,
+   "r": 48.1
+  },
+  {
    "s": "GC=F",
-   "p": 4326.5,
-   "c": 1.99,
-   "a50": 4168.99,
+   "p": 4325.5,
+   "c": 1.97,
+   "a50": 4168.97,
    "a200": 4478.6,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4084.05,
+   "a20": 4084.0,
    "r": 64.2
   },
   {
    "s": "HG=F",
    "p": 6.74,
-   "c": 0.79,
+   "c": 0.75,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.74,
    "yl": 4.38,
    "a20": 6.42,
-   "r": 68.0
+   "r": 67.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03106555,
-   "c": 0.23,
+   "p": 0.03104626,
+   "c": 0.16,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -327,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070093.aspx"
   },
   {
-   "t": "Iconic luxury brand confirms more store closures through 2027",
+   "t": "SpaceX Delivers Strong Q2 Results as Investors Look for a Rebound",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/iconic-luxury-brand-confirms-more-163300732.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-delivers-strong-q2-results-163942451.html"
   },
   {
    "t": "台新、新光銀明年元旦合併　林維俊：業務發展更均衡",
@@ -339,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070092.aspx"
   },
   {
-   "t": "A Rain Check for Williams-Sonoma: How to Buy the Dip Before It Happens",
+   "t": "Two regional Fed banks to launch pilot survey of private credit market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rain-check-williams-sonoma-buy-163014911.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/two-regional-fed-banks-launch-163943783.html"
   },
   {
    "t": "AI晶片競賽白熱化　超微收購加拿大新創公司",
@@ -351,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608070088.aspx"
   },
   {
-   "t": "$70 Billion in Combined Backlog: What EMCOR and Quanta’s Earnings Say About AI’s Physical Buildout",
+   "t": "A Rain Check for Williams-Sonoma: How to Buy the Dip Before It Happens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/70-billion-combined-backlog-emcor-162304985.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rain-check-williams-sonoma-buy-163014911.html"
   },
   {
    "t": "新台幣午盤升2.7分　暫收32.234元",
@@ -363,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070085.aspx"
   },
   {
-   "t": "Why SpaceX stock may keep tanking if history is any indication",
+   "t": "Nvidia stock rises after Musk says SpaceX will exclusively use company's chips",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/why-spacex-stock-may-keep-tanking-if-history-is-any-indication-162308673.html"
+   "u": "https://finance.yahoo.com/technology/article/nvidia-stock-rises-after-musk-says-spacex-will-exclusively-use-companys-chips-211803293.html"
   },
   {
    "t": "傳記憶體短缺影響交貨　專家：台積電可調整產線應對",
@@ -387,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070039.aspx"
   },
   {
-   "t": "Kevin O'Leary Says AI Data Centers Must 'Earn' Community Trust Or Risk Losing the Fight: 'You Can't Tap the Grid...'",
+   "t": "Booking Holdings Stock Surges on Better-Than-Expected Results, Despite Middle East ‘Volatility’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/kevin-oleary-says-ai-data-163103757.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-stock-surges-better-163736268.html"
   }
  ],
  "inst": {
