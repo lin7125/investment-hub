@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07 14:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 14:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 48.1,
-   "c": -2.04,
+   "p": 48.45,
+   "c": -1.32,
    "a50": 63.78,
    "a200": 40.56,
    "yh": 165.0,
    "yl": 5.6,
-   "a20": 48.89,
-   "r": 42.5
+   "a20": 48.9,
+   "r": 42.9
   },
   {
    "s": "6223.TWO",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.58,
-   "c": 1.32,
+   "p": 83.24,
+   "c": 0.91,
    "a50": 84.61,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.4,
-   "r": 47.7
+   "a20": 87.39,
+   "r": 47.3
   },
   {
    "s": "GC=F",
-   "p": 4335.6,
-   "c": 2.21,
-   "a50": 4169.17,
-   "a200": 4478.65,
+   "p": 4341.8,
+   "c": 2.35,
+   "a50": 4169.3,
+   "a200": 4478.68,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4084.51,
-   "r": 64.7
+   "a20": 4084.82,
+   "r": 65.0
   },
   {
    "s": "HG=F",
    "p": 6.74,
-   "c": 0.86,
+   "c": 0.76,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.74,
    "yl": 4.38,
    "a20": 6.42,
-   "r": 68.2
+   "r": 67.9
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070123.aspx"
   },
   {
-   "t": "Markets in Motion: economic outlook supports broader sector rotation",
+   "t": "Lime Stock's Post-IPO Rally Scoots On After First Earnings Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/markets-motion-economic-outlook-supports-180927159.html"
+   "u": "https://www.investors.com/news/technology/lime-stocks-post-ipo-rally-scoots-on-after-first-earnings-report/?src=A00220&yptr=yahoo"
   },
   {
    "t": "高齡博覽會登場　經長：2年助開發279項高齡科技產品",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070107.aspx"
   },
   {
-   "t": "Lime Stock's Post-IPO Rally Scoots On After First Earnings Report",
+   "t": "In-Demand Bachelor’s Degrees in Today’s Job Market: Here’s What Employers Want",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/lime-stocks-post-ipo-rally-scoots-on-after-first-earnings-report/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/small-business/articles/demand-bachelor-degrees-today-job-181633896.html"
   },
   {
    "t": "陳時中：高齡勞參率若升至25%　可增70萬勞動人口",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070100.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for Crown Castle Stock?",
+   "t": "A $1.94 Billion Reason to Buy Palantir Stock Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-181243491.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/1-94-billion-reason-buy-182240780.html"
   },
   {
    "t": "楊泮池促健康投資發展長壽新經濟　應對超高齡國安危機",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070093.aspx"
   },
   {
-   "t": "Shopify Surges On Earnings Beat, Strong Q3 Revenue Guidance",
+   "t": "What Are Wall Street Analysts' Target Price for Crown Castle Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/shopify-stock-shop-shopify-earnings-q22026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-181243491.html"
   },
   {
    "t": "台新、新光銀明年元旦合併　林維俊：業務發展更均衡",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608070088.aspx"
   },
   {
-   "t": "In-Demand Bachelor’s Degrees in Today’s Job Market: Here’s What Employers Want",
+   "t": "Elon Musk Just Gave Micron Stock a Big Boost. What to Know.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/demand-bachelor-degrees-today-job-181633896.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-just-gave-micron-183155678.html"
   }
  ],
  "inst": {
