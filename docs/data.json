@@ -1,214 +1,214 @@
 {
- "generatedAt": "2026-08-07 09:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 11:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2365.0,
-   "c": -1.66,
-   "a50": 2378.4,
-   "a200": 1916.05,
+   "p": 2370.0,
+   "c": 0.21,
+   "a50": 2379.9,
+   "a200": 1920.7,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2364.0,
-   "r": 50.2
+   "a20": 2361.75,
+   "r": 50.6
   },
   {
    "s": "2317.TW",
-   "p": 264.5,
-   "c": 2.32,
-   "a50": 256.19,
-   "a200": 234.25,
+   "p": 260.0,
+   "c": -1.7,
+   "a50": 256.13,
+   "a200": 234.44,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 245.05,
-   "r": 60.5
+   "a20": 246.18,
+   "r": 57.1
   },
   {
    "s": "2308.TW",
-   "p": 1680.0,
-   "c": 1.82,
-   "a50": 1982.4,
-   "a200": 1498.1,
+   "p": 1665.0,
+   "c": -0.89,
+   "a50": 1967.9,
+   "a200": 1501.42,
    "yh": 2520.0,
    "yl": 623.0,
-   "a20": 1738.75,
-   "r": 43.8
+   "a20": 1728.0,
+   "r": 42.9
   },
   {
    "s": "2454.TW",
-   "p": 3920.0,
-   "c": -2.0,
-   "a50": 4036.7,
-   "a200": 2366.05,
+   "p": 3900.0,
+   "c": -0.51,
+   "a50": 4026.5,
+   "a200": 2378.82,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3666.75,
-   "r": 53.6
+   "a20": 3665.5,
+   "r": 53.1
   },
   {
    "s": "2327.TW",
-   "p": 570.0,
-   "c": -1.38,
-   "a50": 818.37,
-   "a200": 416.07,
+   "p": 543.0,
+   "c": -4.74,
+   "a50": 814.39,
+   "a200": 417.87,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 651.38,
-   "r": 38.4
+   "a20": 633.52,
+   "r": 36.4
   },
   {
    "s": "1802.TW",
-   "p": 54.6,
-   "c": 1.3,
-   "a50": 62.64,
-   "a200": 51.48,
+   "p": 53.9,
+   "c": -1.28,
+   "a50": 62.31,
+   "a200": 51.59,
    "yh": 76.6,
    "yl": 23.3,
-   "a20": 54.13,
-   "r": 47.8
+   "a20": 53.58,
+   "r": 46.7
   },
   {
    "s": "6862.TW",
-   "p": 144.0,
-   "c": 0.0,
-   "a50": 177.79,
-   "a200": 177.96,
+   "p": 144.5,
+   "c": 0.35,
+   "a50": 176.59,
+   "a200": 177.85,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 147.22,
-   "r": 43.9
+   "a20": 145.38,
+   "r": 44.3
   },
   {
    "s": "3701.TW",
-   "p": 43.5,
-   "c": 1.4,
-   "a50": 44.92,
-   "a200": 48.74,
+   "p": 43.0,
+   "c": -1.15,
+   "a50": 44.73,
+   "a200": 48.76,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.43,
-   "r": 56.1
+   "a20": 39.5,
+   "r": 54.7
   },
   {
    "s": "4722.TW",
    "p": 230.0,
-   "c": 5.5,
-   "a50": 246.77,
-   "a200": 198.88,
+   "c": 0.0,
+   "a50": 245.93,
+   "a200": 198.96,
    "yh": 306.5,
    "yl": 70.2,
-   "a20": 215.98,
+   "a20": 214.65,
    "r": 52.9
   },
   {
    "s": "6706.TW",
-   "p": 112.0,
-   "c": -3.86,
-   "a50": 145.28,
-   "a200": 124.95,
+   "p": 110.0,
+   "c": -1.79,
+   "a50": 143.43,
+   "a200": 125.13,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 111.67,
-   "r": 44.8
+   "a20": 110.22,
+   "r": 43.6
   },
   {
    "s": "2305.TW",
-   "p": 26.45,
-   "c": -9.88,
-   "a50": 31.48,
-   "a200": 18.03,
+   "p": 26.85,
+   "c": 1.51,
+   "a50": 31.56,
+   "a200": 18.11,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 32.33,
-   "r": 38.4
+   "a20": 31.87,
+   "r": 39.5
   },
   {
    "s": "6442.TW",
-   "p": 1415.0,
-   "c": 3.28,
-   "a50": 1617.4,
-   "a200": 1568.22,
+   "p": 1365.0,
+   "c": -3.53,
+   "a50": 1606.8,
+   "a200": 1570.62,
    "yh": 2370.0,
    "yl": 612.0,
-   "a20": 1307.75,
-   "r": 50.7
-  },
-  {
-   "s": "6515.TW",
-   "p": 6775.0,
-   "c": -1.6,
-   "a50": 7880.8,
-   "a200": 5857.4,
-   "yh": 10795.0,
-   "yl": 1100.0,
-   "a20": 6483.5,
+   "a20": 1302.0,
    "r": 48.2
   },
   {
+   "s": "6515.TW",
+   "p": 6885.0,
+   "c": 1.62,
+   "a50": 7836.1,
+   "a200": 5880.35,
+   "yh": 10795.0,
+   "yl": 1100.0,
+   "a20": 6439.5,
+   "r": 49.5
+  },
+  {
    "s": "6446.TW",
-   "p": 1290.0,
-   "c": -3.37,
-   "a50": 1081.6,
-   "a200": 678.2,
+   "p": 1265.0,
+   "c": -1.94,
+   "a50": 1091.36,
+   "a200": 682.11,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1190.25,
-   "r": 59.9
+   "a20": 1189.25,
+   "r": 57.7
   },
   {
    "s": "3324.TWO",
-   "p": 1060.0,
-   "c": 9.84,
-   "a50": 994.62,
-   "a200": 995.77,
+   "p": 1010.0,
+   "c": -4.72,
+   "a50": 994.72,
+   "a200": 996.26,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 912.4,
-   "r": 63.0
+   "a20": 916.9,
+   "r": 56.6
   },
   {
    "s": "3491.TWO",
-   "p": 1350.0,
-   "c": 5.06,
-   "a50": 1427.14,
-   "a200": 1165.22,
+   "p": 1295.0,
+   "c": -4.07,
+   "a50": 1413.04,
+   "a200": 1169.35,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1190.6,
-   "r": 55.9
+   "a20": 1191.85,
+   "r": 52.8
   },
   {
    "s": "3585.TWO",
-   "p": 49.1,
-   "c": 0.1,
-   "a50": 64.32,
-   "a200": 40.4,
+   "p": 48.65,
+   "c": -0.92,
+   "a50": 63.79,
+   "a200": 40.56,
    "yh": 165.0,
    "yl": 5.6,
-   "a20": 49.72,
-   "r": 43.7
+   "a20": 48.91,
+   "r": 43.1
   },
   {
    "s": "6223.TWO",
-   "p": 6300.0,
-   "c": 0.88,
-   "a50": 6152.7,
-   "a200": 3882.6,
+   "p": 6125.0,
+   "c": -2.78,
+   "a50": 6156.9,
+   "a200": 3904.68,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5875.0,
-   "r": 54.9
+   "a20": 5827.25,
+   "r": 52.4
   },
   {
    "s": "6750.TWO",
-   "p": 56.2,
-   "c": 2.18,
-   "a50": 62.14,
-   "a200": 56.38,
+   "p": 57.2,
+   "c": 1.78,
+   "a50": 61.93,
+   "a200": 56.42,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.68,
-   "r": 46.2
+   "a20": 56.36,
+   "r": 48.8
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44611.6,
-   "c": 2.88,
-   "a50": 44736.2,
-   "a200": 35277.11,
+   "p": 44290.27,
+   "c": -0.24,
+   "a50": 44754.3,
+   "a200": 35449.17,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43741.89,
-   "r": 53.6
+   "a20": 43621.79,
+   "r": 52.1
   },
   {
    "s": "^GSPC",
@@ -289,30 +289,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4292.1,
-   "c": 1.09,
-   "a50": 4172.41,
-   "a200": 4478.9,
+   "p": 4319.3,
+   "c": 1.73,
+   "a50": 4172.96,
+   "a200": 4479.04,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4075.44,
-   "r": 62.4
+   "a20": 4076.8,
+   "r": 63.7
   },
   {
    "s": "HG=F",
-   "p": 6.71,
-   "c": 0.11,
+   "p": 6.75,
+   "c": 0.63,
    "a50": 6.33,
    "a200": 5.82,
-   "yh": 6.71,
+   "yh": 6.75,
    "yl": 4.38,
    "a20": 6.39,
-   "r": 67.5
+   "r": 68.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.0310559,
-   "c": 0.21,
+   "p": 0.03104626,
+   "c": 0.16,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -321,76 +321,76 @@
  ],
  "news": [
   {
-   "t": "美禁止關鍵礦物廢料外流　力拚回收產業與供應鏈自主",
+   "t": "台股急彈後拉回　盤中翻黑高低震盪逾600點",
    "pub": "中央社財經",
    "d": "2026-08-07",
-   "u": "https://www.cna.com.tw/news/aopl/202608070014.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608070039.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Bullish on Sandisk Stock?",
+   "t": "North America becomes GXO’s fastest-growing market in Q2, topping $782M",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-sandisk-125656546.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/north-america-becomes-gxo-fastest-153225720.html"
   },
   {
-   "t": "美公布就業報告前夕　美股多收黑",
+   "t": "半導體今年營收上看1.655兆美元　記憶體增逾3倍",
    "pub": "中央社財經",
    "d": "2026-08-07",
-   "u": "https://www.cna.com.tw/news/afe/202608070010.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608070034.aspx"
   },
   {
-   "t": "Forget the Anthropic IPO: 2 Magnificent AI Stocks to Buy and Hold Instead",
+   "t": "Why Lucid Stock Crashed After Earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/forget-anthropic-ipo-2-magnificent-125700284.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-lucid-stock-crashed-earnings-153335544.html"
   },
   {
-   "t": "伊朗擬禁美以船隻過海峽　國際油價大漲逾3美元",
+   "t": "台積電走揚　台股開高漲逾430點突破44800點",
    "pub": "中央社財經",
    "d": "2026-08-07",
-   "u": "https://www.cna.com.tw/news/afe/202608070009.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608070028.aspx"
   },
   {
-   "t": "Bitcoin Accidentally Delivered on Its Big Promise. Why That’s Bad News for Crypto ‘Hodlrs.’",
+   "t": "Crude Prices Pressured by Growing Optimism the Strait of Hormuz to Soon Reopen",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-accidentally-delivered-big-promise-130002395.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-prices-pressured-growing-optimism-153946445.html"
   },
   {
-   "t": "阿波羅2475億收購廉航　擊退對手入主易捷航空",
+   "t": "新台幣開盤升2.1分　為32.24元",
    "pub": "中央社財經",
    "d": "2026-08-07",
-   "u": "https://www.cna.com.tw/news/aopl/202608070003.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608070027.aspx"
   },
   {
-   "t": "Apple Acquires PlasmaSolve in a Quiet Materials Science Deal. It’s Probably Not Strategically Significant.",
+   "t": "Berkshire Hathaway Stock: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-acquires-plasmasolve-quiet-materials-130002440.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-wall-street-154023562.html"
   },
   {
-   "t": "投資人評估企業財報　歐股互有漲跌",
+   "t": "台股開盤漲53.49點",
    "pub": "中央社財經",
    "d": "2026-08-07",
-   "u": "https://www.cna.com.tw/news/afe/202608070002.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608070026.aspx"
   },
   {
-   "t": "Nio Hit Record Vehicle Deliveries in July. This Could Be a Real Turning Point for NIO Stock.",
+   "t": "Do college students need renters insurance?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nio-hit-record-vehicle-deliveries-130002821.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/renters-insurance-for-college-students-154047282.html"
   },
   {
-   "t": "外溢保單上半年新契約保費收入488億　超越去年全年",
+   "t": "台積電ADR小漲　投顧：台股短期急漲留意季線攻防",
    "pub": "中央社財經",
-   "d": "2026-08-06",
-   "u": "https://www.cna.com.tw/news/afe/202608060375.aspx"
+   "d": "2026-08-07",
+   "u": "https://www.cna.com.tw/news/afe/202608070020.aspx"
   },
   {
-   "t": "The refinance ‘Seniority Tax’: How a flawed system and aggressive lenders leave older homeowners overpaying for their mortgage",
+   "t": "Regal Rexnord Corporation (RRX) Rises on Strong Results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/refinance-seniority-tax-flawed-system-130000824.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/regal-rexnord-corporation-rrx-rises-154529789.html"
   }
  ],
  "inst": {
