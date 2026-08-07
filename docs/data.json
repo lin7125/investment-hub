@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-08-07 12:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 12:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2365.0,
-   "c": 0.0,
-   "a50": 2379.8,
-   "a200": 1920.68,
+   "p": 2360.0,
+   "c": -0.21,
+   "a50": 2379.7,
+   "a200": 1920.65,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2361.5,
-   "r": 50.2
+   "a20": 2361.25,
+   "r": 49.9
   },
   {
    "s": "2317.TW",
-   "p": 260.0,
-   "c": -1.7,
-   "a50": 256.13,
+   "p": 259.5,
+   "c": -1.89,
+   "a50": 256.12,
    "a200": 234.44,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 246.18,
-   "r": 57.1
+   "a20": 246.15,
+   "r": 56.8
   },
   {
    "s": "2308.TW",
@@ -36,36 +36,36 @@
   },
   {
    "s": "2454.TW",
-   "p": 3895.0,
-   "c": -0.64,
-   "a50": 4026.4,
-   "a200": 2378.8,
+   "p": 3890.0,
+   "c": -0.77,
+   "a50": 4026.3,
+   "a200": 2378.78,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3665.25,
-   "r": 52.9
+   "a20": 3665.0,
+   "r": 52.8
   },
   {
    "s": "2327.TW",
-   "p": 545.0,
-   "c": -4.39,
-   "a50": 814.43,
-   "a200": 417.88,
+   "p": 543.0,
+   "c": -4.74,
+   "a50": 814.39,
+   "a200": 417.87,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 633.62,
-   "r": 36.5
+   "a20": 633.52,
+   "r": 36.4
   },
   {
    "s": "1802.TW",
-   "p": 53.8,
-   "c": -1.47,
+   "p": 53.5,
+   "c": -2.01,
    "a50": 62.3,
    "a200": 51.59,
    "yh": 76.6,
    "yl": 23.3,
-   "a20": 53.57,
-   "r": 46.6
+   "a20": 53.56,
+   "r": 46.1
   },
   {
    "s": "6862.TW",
@@ -80,91 +80,91 @@
   },
   {
    "s": "3701.TW",
-   "p": 42.8,
-   "c": -1.61,
+   "p": 42.75,
+   "c": -1.72,
    "a50": 44.72,
    "a200": 48.76,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.49,
-   "r": 54.2
+   "r": 54.0
   },
   {
    "s": "4722.TW",
-   "p": 231.0,
-   "c": 0.43,
-   "a50": 245.95,
-   "a200": 198.97,
+   "p": 230.5,
+   "c": 0.22,
+   "a50": 245.94,
+   "a200": 198.96,
    "yh": 306.5,
    "yl": 70.2,
-   "a20": 214.7,
-   "r": 53.2
+   "a20": 214.68,
+   "r": 53.1
   },
   {
    "s": "6706.TW",
-   "p": 110.0,
-   "c": -1.79,
-   "a50": 143.43,
+   "p": 109.0,
+   "c": -2.68,
+   "a50": 143.41,
    "a200": 125.13,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 110.22,
-   "r": 43.6
+   "a20": 110.17,
+   "r": 43.1
   },
   {
    "s": "2305.TW",
-   "p": 26.75,
-   "c": 1.13,
-   "a50": 31.56,
+   "p": 26.45,
+   "c": 0.0,
+   "a50": 31.55,
    "a200": 18.1,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 31.87,
-   "r": 39.2
+   "a20": 31.85,
+   "r": 38.4
   },
   {
    "s": "6442.TW",
-   "p": 1360.0,
-   "c": -3.89,
-   "a50": 1606.7,
-   "a200": 1570.59,
+   "p": 1345.0,
+   "c": -4.95,
+   "a50": 1606.4,
+   "a200": 1570.52,
    "yh": 2370.0,
    "yl": 612.0,
-   "a20": 1301.75,
-   "r": 47.9
+   "a20": 1301.0,
+   "r": 47.2
   },
   {
    "s": "6515.TW",
-   "p": 6830.0,
-   "c": 0.81,
-   "a50": 7835.0,
-   "a200": 5880.08,
+   "p": 6855.0,
+   "c": 1.18,
+   "a50": 7835.5,
+   "a200": 5880.2,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6436.75,
-   "r": 48.8
+   "a20": 6438.0,
+   "r": 49.1
   },
   {
    "s": "6446.TW",
-   "p": 1260.0,
-   "c": -2.33,
-   "a50": 1091.26,
-   "a200": 682.09,
+   "p": 1255.0,
+   "c": -2.71,
+   "a50": 1091.16,
+   "a200": 682.06,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1189.0,
-   "r": 57.3
+   "a20": 1188.75,
+   "r": 56.9
   },
   {
    "s": "3324.TWO",
-   "p": 1015.0,
-   "c": -4.25,
-   "a50": 994.82,
-   "a200": 996.29,
+   "p": 1010.0,
+   "c": -4.72,
+   "a50": 994.72,
+   "a200": 996.26,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 917.15,
-   "r": 57.2
+   "a20": 916.9,
+   "r": 56.6
   },
   {
    "s": "3491.TWO",
@@ -179,25 +179,25 @@
   },
   {
    "s": "3585.TWO",
-   "p": 48.9,
-   "c": -0.41,
+   "p": 48.85,
+   "c": -0.51,
    "a50": 63.79,
    "a200": 40.56,
    "yh": 165.0,
    "yl": 5.6,
-   "a20": 48.93,
+   "a20": 48.92,
    "r": 43.4
   },
   {
    "s": "6223.TWO",
-   "p": 6185.0,
-   "c": -1.83,
-   "a50": 6158.1,
-   "a200": 3904.98,
+   "p": 6170.0,
+   "c": -2.06,
+   "a50": 6157.8,
+   "a200": 3904.9,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5830.25,
-   "r": 53.3
+   "a20": 5829.5,
+   "r": 53.1
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44238.73,
-   "c": -0.36,
-   "a50": 44753.27,
-   "a200": 35448.91,
+   "p": 44179.6,
+   "c": -0.49,
+   "a50": 44752.08,
+   "a200": 35448.61,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43619.21,
-   "r": 51.8
+   "a20": 43616.25,
+   "r": 51.5
   },
   {
    "s": "^GSPC",
@@ -288,42 +288,31 @@
    "r": 42.7
   },
   {
-   "s": "BZ=F",
-   "p": 82.49,
-   "c": 3.83,
-   "a50": 84.83,
-   "a200": 81.04,
-   "yh": 118.35,
-   "yl": 58.92,
-   "a20": 87.02,
-   "r": 46.3
-  },
-  {
    "s": "GC=F",
-   "p": 4324.4,
-   "c": 1.94,
-   "a50": 4168.95,
-   "a200": 4478.59,
+   "p": 4326.5,
+   "c": 1.99,
+   "a50": 4168.99,
+   "a200": 4478.6,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4083.95,
-   "r": 64.1
+   "a20": 4084.05,
+   "r": 64.2
   },
   {
    "s": "HG=F",
    "p": 6.74,
-   "c": 0.85,
+   "c": 0.84,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.74,
    "yl": 4.38,
    "a20": 6.42,
-   "r": 68.2
+   "r": 68.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03104626,
-   "c": 0.19,
+   "p": 0.03106555,
+   "c": 0.23,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -338,10 +327,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070039.aspx"
   },
   {
-   "t": "Former Treasury Chief Warns AI Boom Shows 2008 Warning Signs",
+   "t": "Why SpaceX stock may keep tanking if history is any indication",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/former-treasury-chief-warns-ai-161804496.html"
+   "u": "https://finance.yahoo.com/markets/article/why-spacex-stock-may-keep-tanking-if-history-is-any-indication-162308673.html"
   },
   {
    "t": "半導體今年營收上看1.655兆美元　記憶體增逾3倍",
@@ -350,10 +339,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070034.aspx"
   },
   {
-   "t": "Is umbrella insurance worth it? What to know about coverage, costs, and limits.",
+   "t": "Wynn Resorts reports higher earnings and revenue for Q2 as operations improve",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/umbrella-insurance-223354355.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wynn-resorts-reports-higher-earnings-162300342.html"
   },
   {
    "t": "台積電走揚　台股開高漲逾430點突破44800點",
@@ -362,10 +351,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070028.aspx"
   },
   {
-   "t": "Amazon says it will share $600 million in Trump tariff refunds with some of its customers — will you get a payout?",
+   "t": "Meta Platforms Stock Is Not a Top Pick at This Point. Here’s Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/amazon-says-share-600-million-161500550.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-stock-not-top-162016108.html"
   },
   {
    "t": "新台幣開盤升2.1分　為32.24元",
@@ -374,10 +363,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070027.aspx"
   },
   {
-   "t": "Meta Platforms Stock Is Not a Top Pick at This Point. Here’s Why.",
+   "t": "$70 Billion in Combined Backlog: What EMCOR and Quanta’s Earnings Say About AI’s Physical Buildout",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-stock-not-top-162016108.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/70-billion-combined-backlog-emcor-162304985.html"
   },
   {
    "t": "台股開盤漲53.49點",
@@ -386,10 +375,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070026.aspx"
   },
   {
-   "t": "Why SpaceX stock may keep tanking if history is any indication",
+   "t": "A Rain Check for Williams-Sonoma: How to Buy the Dip Before It Happens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/why-spacex-stock-may-keep-tanking-if-history-is-any-indication-162308673.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rain-check-williams-sonoma-buy-163014911.html"
   },
   {
    "t": "台積電ADR小漲　投顧：台股短期急漲留意季線攻防",
@@ -398,10 +387,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070020.aspx"
   },
   {
-   "t": "Disney's Streaming and Parks Drive Third-Quarter Profits",
+   "t": "Is umbrella insurance worth it? What to know about coverage, costs, and limits.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/video/disneys-streaming-parks-drive-third-162418231.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/umbrella-insurance-223354355.html"
   }
  ],
  "inst": {
