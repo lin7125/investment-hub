@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-08 04:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-08 04:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.87,
-   "c": -1.85,
+   "p": 14.9,
+   "c": -1.65,
    "a50": 17.27,
    "a200": 18.58,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.16,
-   "r": 41.8
+   "r": 41.9
   },
   {
    "s": "BZ=F",
-   "p": 82.08,
-   "c": -0.5,
-   "a50": 84.58,
+   "p": 82.17,
+   "c": -0.39,
+   "a50": 84.59,
    "a200": 81.14,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.33,
-   "r": 45.9
+   "r": 46.0
   },
   {
    "s": "GC=F",
-   "p": 4401.9,
-   "c": 3.77,
-   "a50": 4170.5,
-   "a200": 4478.98,
+   "p": 4399.2,
+   "c": 3.71,
+   "a50": 4170.44,
+   "a200": 4478.96,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4087.82,
-   "r": 67.6
+   "a20": 4087.69,
+   "r": 67.5
   },
   {
    "s": "HG=F",
-   "p": 6.59,
-   "c": -1.51,
+   "p": 6.58,
+   "c": -1.58,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.7,
    "yl": 4.38,
    "a20": 6.41,
-   "r": 59.6
+   "r": 59.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03101737,
-   "c": 0.07,
+   "c": 0.06,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070348.aspx"
   },
   {
-   "t": "CenterPoint Energy Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "t": "Are Wall Street Analysts Bullish on Marvell Technology Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-stock-outlook-wall-102955691.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-marvell-103509763.html"
   },
   {
    "t": "今彩539第115191期　頭獎4注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070347.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for Coca-Cola Stock?",
+   "t": "Trump doubles down on Credit Card Competition Act as merchants paid $198 billion in swipe fees last year",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-102956087.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/trump-doubles-down-credit-card-103000683.html"
   },
   {
    "t": "大樂透第115077期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070346.aspx"
   },
   {
-   "t": "Berkshire Hathaway (BRK-B) Buys Taylor Morrison as Blackstone (BX) Hedge Fund Interest Holds Steady",
+   "t": "CenterPoint Energy Stock Outlook: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/berkshire-hathaway-brk-b-buys-102906569.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-stock-outlook-wall-102955691.html"
   },
   {
    "t": "美7月非農就業人數意外減　標普與那指雙雙開高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070344.aspx"
   },
   {
-   "t": "Trump doubles down on Credit Card Competition Act as merchants paid $198 billion in swipe fees last year",
+   "t": "What Are Wall Street Analysts' Target Price for Coca-Cola Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/trump-doubles-down-credit-card-103000683.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-102956087.html"
   },
   {
    "t": "父親節將至　壽險業：可依人生階段、特定疾病做補強",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070343.aspx"
   },
   {
-   "t": "Jamie Dimon personally contacts US CEOs as companies speed up AI adoption",
+   "t": "Binance-linked firms sue RedotPay founders in Hong Kong for $472.8m",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/jamie-dimon-personally-contacts-us-102807260.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/binance-linked-firms-sue-redotpay-103053636.html"
   }
  ],
  "inst": {
