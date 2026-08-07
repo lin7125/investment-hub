@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07 22:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 22:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 314.01,
-   "c": 0.51,
+   "p": 314.24,
+   "c": 0.59,
    "a50": 309.8,
    "a200": 279.42,
    "yh": 340.08,
    "yl": 220.03,
-   "a20": 323.47,
-   "r": 48.1
+   "a20": 323.48,
+   "r": 48.3
   },
   {
    "s": "NVDA",
-   "p": 223.47,
-   "c": 2.05,
-   "a50": 206.06,
-   "a200": 193.98,
+   "p": 222.98,
+   "c": 1.82,
+   "a50": 206.05,
+   "a200": 193.97,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 206.79,
-   "r": 64.1
+   "a20": 206.77,
+   "r": 63.9
   },
   {
    "s": "TSLA",
-   "p": 327.29,
-   "c": 2.43,
-   "a50": 380.42,
-   "a200": 408.79,
+   "p": 328.66,
+   "c": 2.86,
+   "a50": 380.44,
+   "a200": 408.8,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 343.27,
-   "r": 40.8
+   "a20": 343.34,
+   "r": 41.4
   },
   {
    "s": "META",
-   "p": 592.98,
-   "c": 0.52,
-   "a50": 599.77,
-   "a200": 631.3,
+   "p": 597.25,
+   "c": 1.25,
+   "a50": 599.86,
+   "a200": 631.32,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 612.31,
-   "r": 47.9
+   "a20": 612.52,
+   "r": 49.2
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7754.74,
-   "c": 0.58,
-   "a50": 7494.18,
-   "a200": 7050.02,
-   "yh": 7754.74,
+   "p": 7744.21,
+   "c": 0.44,
+   "a50": 7493.97,
+   "a200": 7049.96,
+   "yh": 7744.21,
    "yl": 6340.0,
-   "a20": 7525.26,
-   "r": 66.2
+   "a20": 7524.74,
+   "r": 65.7
   },
   {
    "s": "^VIX",
-   "p": 14.94,
-   "c": -1.39,
-   "a50": 17.28,
+   "p": 14.91,
+   "c": -1.58,
+   "a50": 17.27,
    "a200": 18.58,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.17,
-   "r": 42.0
+   "a20": 17.16,
+   "r": 41.9
   },
   {
    "s": "BZ=F",
-   "p": 82.48,
-   "c": -0.01,
-   "a50": 84.59,
+   "p": 82.69,
+   "c": 0.24,
+   "a50": 84.6,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.35,
-   "r": 46.3
+   "a20": 87.36,
+   "r": 46.6
   },
   {
    "s": "GC=F",
-   "p": 4403.9,
-   "c": 3.82,
-   "a50": 4170.54,
-   "a200": 4478.99,
+   "p": 4405.5,
+   "c": 3.85,
+   "a50": 4170.57,
+   "a200": 4479.0,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4087.92,
+   "a20": 4088.0,
    "r": 67.7
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": -1.06,
+   "p": 6.61,
+   "c": -1.13,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.7,
    "yl": 4.38,
    "a20": 6.41,
-   "r": 61.4
+   "r": 61.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03102699,
-   "c": 0.11,
+   "c": 0.1,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070322.aspx"
   },
   {
-   "t": "While everyone chases Nvidia, Caterpillar just showed where AI money goes next",
+   "t": "Instaleap partners with Spar Slovenia for e-commerce fulfilment",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/while-everyone-chases-nvidia-caterpillar-140700941.html"
+   "u": "https://finance.yahoo.com/small-business/articles/instaleap-partners-spar-slovenia-e-142819537.html"
   },
   {
    "t": "AI助攻　宏碁7月營收269億元創13年同期新高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070321.aspx"
   },
   {
-   "t": "Tech stocks today: SpaceX lockup ends, Google faces AI leadership shakeup",
+   "t": "Tech stocks today: Shares climb after rocky week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-lockup-ends-google-faces-ai-leadership-shakeup-140419479.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-shares-climb-after-rocky-week-140419479.html"
   },
   {
    "t": "大樂透第115077期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070320.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Down After Surprise July Jobs Reading; AI Stock Cloudflare Soars (Live Coverage)",
+   "t": "This Congresswoman Keeps Buying AI and Nuclear Stocks. Hedge Funds Are Split",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-jobs-report-cloudflare-stock/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/congresswoman-keeps-buying-ai-nuclear-141952283.html"
   },
   {
    "t": "宏碁發現兆基內部管理缺失　辭任董事長撤出經營層",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070318.aspx"
   },
   {
-   "t": "Take-Two Sticks To Its Guns On Full-Year Outlook. TTWO Stock Rises On 'GTA 6' Preorders.",
+   "t": "Claude AI’s Newest Stock Picks Are Also Hedge Fund Favorites: One Breakout Biotech, One AI Chip Bet",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/ttwo-stock-take-two-fiscal-q1-2027-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/claude-ai-newest-stock-picks-141734983.html"
   },
   {
    "t": "強化能源轉型廉政防護　光電資訊平台增3大公開資訊",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070317.aspx"
   },
   {
-   "t": "Stock Market, IPO Leaders Rally To New Highs. Check This Screen Daily.",
+   "t": "US stocks, bonds rally after soft jobs report; yen bounces back",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/how-to-invest/investors-corner/stock-market-ipo-leaders-rally-new-highs-neptune-insurance-apnimed-bending-spoons/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/news/asian-shares-pause-us-jobs-021601155.html"
   },
   {
    "t": "今彩539第115191期開獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070316.aspx"
   },
   {
-   "t": "Clive Owen bolsters consulting services with new hire",
+   "t": "Top Rare-Earths Stocks Poised to Ride the U.S. Reshoring Wave",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/clive-owen-bolsters-consulting-services-140545531.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/top-rare-earths-stocks-poised-142500234.html"
   }
  ],
  "inst": {
