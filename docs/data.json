@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-07 12:43（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 12:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2360.0,
-   "c": -0.21,
-   "a50": 2379.7,
-   "a200": 1920.65,
+   "p": 2365.0,
+   "c": 0.0,
+   "a50": 2379.8,
+   "a200": 1920.68,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2361.25,
-   "r": 49.9
+   "a20": 2361.5,
+   "r": 50.2
   },
   {
    "s": "2317.TW",
@@ -47,25 +47,25 @@
   },
   {
    "s": "2327.TW",
-   "p": 541.0,
-   "c": -5.09,
-   "a50": 814.35,
-   "a200": 417.86,
+   "p": 540.0,
+   "c": -5.26,
+   "a50": 814.33,
+   "a200": 417.85,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 633.42,
+   "a20": 633.38,
    "r": 36.2
   },
   {
    "s": "1802.TW",
-   "p": 53.4,
-   "c": -2.2,
+   "p": 53.6,
+   "c": -1.83,
    "a50": 62.3,
    "a200": 51.59,
    "yh": 76.6,
    "yl": 23.3,
-   "a20": 53.55,
-   "r": 46.0
+   "a20": 53.56,
+   "r": 46.3
   },
   {
    "s": "6862.TW",
@@ -80,58 +80,58 @@
   },
   {
    "s": "3701.TW",
-   "p": 43.15,
-   "c": -0.8,
-   "a50": 44.73,
+   "p": 42.8,
+   "c": -1.61,
+   "a50": 44.72,
    "a200": 48.76,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.51,
-   "r": 55.1
+   "a20": 39.49,
+   "r": 54.2
   },
   {
    "s": "4722.TW",
-   "p": 229.0,
-   "c": -0.43,
-   "a50": 245.91,
-   "a200": 198.96,
+   "p": 232.5,
+   "c": 1.09,
+   "a50": 245.98,
+   "a200": 198.98,
    "yh": 306.5,
    "yl": 70.2,
-   "a20": 214.6,
-   "r": 52.6
+   "a20": 214.78,
+   "r": 53.7
   },
   {
    "s": "6706.TW",
-   "p": 109.0,
-   "c": -2.68,
-   "a50": 143.41,
+   "p": 109.5,
+   "c": -2.23,
+   "a50": 143.42,
    "a200": 125.13,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 110.17,
-   "r": 43.1
+   "a20": 110.2,
+   "r": 43.4
   },
   {
    "s": "2305.TW",
-   "p": 26.6,
-   "c": 0.57,
-   "a50": 31.55,
+   "p": 26.75,
+   "c": 1.13,
+   "a50": 31.56,
    "a200": 18.1,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 31.86,
-   "r": 38.8
+   "a20": 31.87,
+   "r": 39.2
   },
   {
    "s": "6442.TW",
-   "p": 1345.0,
-   "c": -4.95,
-   "a50": 1606.4,
-   "a200": 1570.52,
+   "p": 1335.0,
+   "c": -5.65,
+   "a50": 1606.2,
+   "a200": 1570.46,
    "yh": 2370.0,
    "yl": 612.0,
-   "a20": 1301.0,
-   "r": 47.2
+   "a20": 1300.5,
+   "r": 46.8
   },
   {
    "s": "6515.TW",
@@ -146,25 +146,25 @@
   },
   {
    "s": "6446.TW",
-   "p": 1245.0,
-   "c": -3.49,
-   "a50": 1090.96,
-   "a200": 682.01,
+   "p": 1260.0,
+   "c": -2.33,
+   "a50": 1091.26,
+   "a200": 682.09,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1188.25,
-   "r": 56.1
+   "a20": 1189.0,
+   "r": 57.3
   },
   {
    "s": "3324.TWO",
-   "p": 1015.0,
-   "c": -4.25,
-   "a50": 994.82,
-   "a200": 996.29,
+   "p": 1010.0,
+   "c": -4.72,
+   "a50": 994.72,
+   "a200": 996.26,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 917.15,
-   "r": 57.2
+   "a20": 916.9,
+   "r": 56.6
   },
   {
    "s": "3491.TWO",
@@ -179,25 +179,25 @@
   },
   {
    "s": "3585.TWO",
-   "p": 48.8,
-   "c": -0.61,
+   "p": 48.65,
+   "c": -0.92,
    "a50": 63.79,
    "a200": 40.56,
    "yh": 165.0,
    "yl": 5.6,
-   "a20": 48.92,
-   "r": 43.3
+   "a20": 48.91,
+   "r": 43.1
   },
   {
    "s": "6223.TWO",
-   "p": 6155.0,
-   "c": -2.3,
-   "a50": 6157.5,
-   "a200": 3904.82,
+   "p": 6160.0,
+   "c": -2.22,
+   "a50": 6157.6,
+   "a200": 3904.85,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5828.75,
-   "r": 52.8
+   "a20": 5829.0,
+   "r": 52.9
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44175.53,
-   "c": -0.5,
-   "a50": 44752.0,
-   "a200": 35448.59,
+   "p": 44213.31,
+   "c": -0.41,
+   "a50": 44752.76,
+   "a200": 35448.78,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43616.05,
-   "r": 51.5
+   "a20": 43617.94,
+   "r": 51.7
   },
   {
    "s": "^GSPC",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4325.5,
-   "c": 1.97,
-   "a50": 4168.97,
-   "a200": 4478.6,
+   "p": 4324.5,
+   "c": 1.94,
+   "a50": 4168.95,
+   "a200": 4478.59,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4084.0,
-   "r": 64.2
+   "a20": 4083.95,
+   "r": 64.1
   },
   {
    "s": "HG=F",
-   "p": 6.74,
-   "c": 0.75,
+   "p": 6.73,
+   "c": 0.69,
    "a50": 6.34,
    "a200": 5.83,
-   "yh": 6.74,
+   "yh": 6.73,
    "yl": 4.38,
    "a20": 6.42,
-   "r": 67.9
+   "r": 67.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03104626,
-   "c": 0.16,
+   "c": 0.17,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070093.aspx"
   },
   {
-   "t": "SpaceX Delivers Strong Q2 Results as Investors Look for a Rebound",
+   "t": "Aramco's Record Profits Hide a Growing Cash Flow Crisis",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-delivers-strong-q2-results-163942451.html"
+   "u": "https://finance.yahoo.com/energy/articles/aramcos-record-profits-hide-growing-170000879.html"
   },
   {
    "t": "台新、新光銀明年元旦合併　林維俊：業務發展更均衡",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070092.aspx"
   },
   {
-   "t": "Two regional Fed banks to launch pilot survey of private credit market",
+   "t": "Why Arista Networks Stock Rallied Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/two-regional-fed-banks-launch-163943783.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-arista-networks-stock-rallied-170028444.html"
   },
   {
    "t": "AI晶片競賽白熱化　超微收購加拿大新創公司",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608070088.aspx"
   },
   {
-   "t": "A Rain Check for Williams-Sonoma: How to Buy the Dip Before It Happens",
+   "t": "The Kraft Heinz Company Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rain-check-williams-sonoma-buy-163014911.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-company-q2-2026-170148961.html"
   },
   {
    "t": "新台幣午盤升2.7分　暫收32.234元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070085.aspx"
   },
   {
-   "t": "Nvidia stock rises after Musk says SpaceX will exclusively use company's chips",
+   "t": "Orthofix Medical Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/nvidia-stock-rises-after-musk-says-spacex-will-exclusively-use-companys-chips-211803293.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/orthofix-medical-inc-q2-2026-170644440.html"
   },
   {
    "t": "傳記憶體短缺影響交貨　專家：台積電可調整產線應對",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070077.aspx"
   },
   {
-   "t": "CVS Health Corporation Q2 2026 Earnings Call Summary",
+   "t": "Innoviz Technologies Ltd. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/cvs-health-corporation-q2-2026-164549022.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/innoviz-technologies-ltd-q2-2026-170125324.html"
   },
   {
    "t": "台股急彈後拉回　盤中翻黑高低震盪逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070039.aspx"
   },
   {
-   "t": "Booking Holdings Stock Surges on Better-Than-Expected Results, Despite Middle East ‘Volatility’",
+   "t": "Acacia Research Corporation Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-stock-surges-better-163736268.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/acacia-research-corporation-q2-2026-165100588.html"
   }
  ],
  "inst": {
