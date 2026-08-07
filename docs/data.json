@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07 12:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 12:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,14 +14,14 @@
   },
   {
    "s": "2317.TW",
-   "p": 260.5,
-   "c": -1.51,
-   "a50": 256.14,
+   "p": 260.0,
+   "c": -1.7,
+   "a50": 256.13,
    "a200": 234.44,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 246.2,
-   "r": 57.5
+   "a20": 246.18,
+   "r": 57.1
   },
   {
    "s": "2308.TW",
@@ -58,14 +58,14 @@
   },
   {
    "s": "1802.TW",
-   "p": 53.9,
-   "c": -1.28,
-   "a50": 62.31,
+   "p": 53.8,
+   "c": -1.47,
+   "a50": 62.3,
    "a200": 51.59,
    "yh": 76.6,
    "yl": 23.3,
-   "a20": 53.58,
-   "r": 46.7
+   "a20": 53.57,
+   "r": 46.6
   },
   {
    "s": "6862.TW",
@@ -80,36 +80,36 @@
   },
   {
    "s": "3701.TW",
-   "p": 42.6,
-   "c": -2.07,
+   "p": 42.8,
+   "c": -1.61,
    "a50": 44.72,
    "a200": 48.76,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.48,
-   "r": 53.6
+   "a20": 39.49,
+   "r": 54.2
   },
   {
    "s": "4722.TW",
-   "p": 231.5,
-   "c": 0.65,
-   "a50": 245.96,
+   "p": 231.0,
+   "c": 0.43,
+   "a50": 245.95,
    "a200": 198.97,
    "yh": 306.5,
    "yl": 70.2,
-   "a20": 214.72,
-   "r": 53.4
+   "a20": 214.7,
+   "r": 53.2
   },
   {
    "s": "6706.TW",
-   "p": 110.5,
-   "c": -1.34,
-   "a50": 143.44,
-   "a200": 125.14,
+   "p": 110.0,
+   "c": -1.79,
+   "a50": 143.43,
+   "a200": 125.13,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 110.25,
-   "r": 43.9
+   "a20": 110.22,
+   "r": 43.6
   },
   {
    "s": "2305.TW",
@@ -168,35 +168,35 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1290.0,
-   "c": -4.44,
-   "a50": 1412.94,
-   "a200": 1169.32,
+   "p": 1280.0,
+   "c": -5.19,
+   "a50": 1412.74,
+   "a200": 1169.28,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1191.6,
-   "r": 52.5
+   "a20": 1191.1,
+   "r": 52.0
   },
   {
    "s": "3585.TWO",
-   "p": 48.5,
-   "c": -1.22,
+   "p": 48.9,
+   "c": -0.41,
    "a50": 63.79,
    "a200": 40.56,
    "yh": 165.0,
    "yl": 5.6,
-   "a20": 48.91,
-   "r": 43.0
+   "a20": 48.93,
+   "r": 43.4
   },
   {
    "s": "6223.TWO",
-   "p": 6190.0,
-   "c": -1.75,
-   "a50": 6158.2,
-   "a200": 3905.0,
+   "p": 6185.0,
+   "c": -1.83,
+   "a50": 6158.1,
+   "a200": 3904.98,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5830.5,
+   "a20": 5830.25,
    "r": 53.3
   },
   {
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44249.77,
-   "c": -0.33,
-   "a50": 44753.49,
-   "a200": 35448.96,
+   "p": 44238.73,
+   "c": -0.36,
+   "a50": 44753.27,
+   "a200": 35448.91,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43619.76,
-   "r": 51.9
+   "a20": 43619.21,
+   "r": 51.8
   },
   {
    "s": "^GSPC",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4242.0,
-   "c": -0.09,
-   "a50": 4171.41,
-   "a200": 4478.65,
+   "p": 4324.4,
+   "c": 1.94,
+   "a50": 4168.95,
+   "a200": 4478.59,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4072.93,
-   "r": 59.6
+   "a20": 4083.95,
+   "r": 64.1
   },
   {
    "s": "HG=F",
-   "p": 6.69,
-   "c": -0.24,
-   "a50": 6.33,
-   "a200": 5.82,
-   "yh": 6.7,
+   "p": 6.74,
+   "c": 0.85,
+   "a50": 6.34,
+   "a200": 5.83,
+   "yh": 6.74,
    "yl": 4.38,
-   "a20": 6.39,
-   "r": 66.2
+   "a20": 6.42,
+   "r": 68.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03104626,
-   "c": 0.17,
+   "c": 0.19,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070039.aspx"
   },
   {
-   "t": "Do college students need renters insurance?",
+   "t": "Former Treasury Chief Warns AI Boom Shows 2008 Warning Signs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/renters-insurance-for-college-students-154047282.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/former-treasury-chief-warns-ai-161804496.html"
   },
   {
    "t": "半導體今年營收上看1.655兆美元　記憶體增逾3倍",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070034.aspx"
   },
   {
-   "t": "SpaceX Stock Plunged Today. Is It Finally Time to Buy?",
+   "t": "Is umbrella insurance worth it? What to know about coverage, costs, and limits.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-plunged-today-finally-155631253.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/umbrella-insurance-223354355.html"
   },
   {
    "t": "台積電走揚　台股開高漲逾430點突破44800點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070028.aspx"
   },
   {
-   "t": "Why Uber Stock Is Sliding After Earnings Report, Robotaxi Update",
+   "t": "Amazon says it will share $600 million in Trump tariff refunds with some of its customers — will you get a payout?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/uber-stock-q2-2026-earnings-robotaxi/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/policy/articles/amazon-says-share-600-million-161500550.html"
   },
   {
    "t": "新台幣開盤升2.1分　為32.24元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070027.aspx"
   },
   {
-   "t": "Anthropic CEO reportedly worried new hires only care about money — while hiring an event planner for 6x the going rate",
+   "t": "Meta Platforms Stock Is Not a Top Pick at This Point. Here’s Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-stock-not-top-162016108.html"
   },
   {
    "t": "台股開盤漲53.49點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070026.aspx"
   },
   {
-   "t": "Circle CEO Jeremy Allaire: 'Billions of agents' will soon flood the workforce",
+   "t": "Why SpaceX stock may keep tanking if history is any indication",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/circle-ceo-jeremy-allaire-billions-of-agents-will-soon-flood-the-workforce-160009916.html"
+   "u": "https://finance.yahoo.com/markets/article/why-spacex-stock-may-keep-tanking-if-history-is-any-indication-162308673.html"
   },
   {
    "t": "台積電ADR小漲　投顧：台股短期急漲留意季線攻防",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070020.aspx"
   },
   {
-   "t": "Dear Quantinuum Stock Fans, Mark Your Calendars for August 11",
+   "t": "Disney's Streaming and Parks Drive Third-Quarter Profits",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-quantinuum-stock-fans-mark-160132641.html"
+   "u": "https://finance.yahoo.com/video/disneys-streaming-parks-drive-third-162418231.html"
   }
  ],
  "inst": {
