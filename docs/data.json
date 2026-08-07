@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07 15:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 15:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.49,
-   "c": 1.21,
+   "p": 83.32,
+   "c": 1.01,
    "a50": 84.61,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.4,
-   "r": 47.6
+   "a20": 87.39,
+   "r": 47.4
   },
   {
    "s": "GC=F",
-   "p": 4351.2,
-   "c": 2.57,
-   "a50": 4169.48,
+   "p": 4349.8,
+   "c": 2.54,
+   "a50": 4169.46,
    "a200": 4478.72,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4085.29,
-   "r": 65.4
+   "a20": 4085.22,
+   "r": 65.3
   },
   {
    "s": "HG=F",
-   "p": 6.74,
-   "c": 0.84,
+   "p": 6.75,
+   "c": 0.92,
    "a50": 6.34,
    "a200": 5.83,
-   "yh": 6.74,
+   "yh": 6.75,
    "yl": 4.38,
    "a20": 6.42,
-   "r": 68.1
+   "r": 68.3
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070123.aspx"
   },
   {
-   "t": "Why ViaSat Stock Dropped After Earnings",
+   "t": "Progress Toward Reopening the Strait of Hormuz Weighs on Oil Prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-viasat-stock-dropped-earnings-190232758.html"
+   "u": "https://finance.yahoo.com/energy/articles/progress-toward-reopening-strait-hormuz-191655557.html"
   },
   {
    "t": "高齡博覽會登場　經長：2年助開發279項高齡科技產品",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070107.aspx"
   },
   {
-   "t": "What is the average personal loan rate for June 2026?",
+   "t": "This AI Marketing Stock Hits A Buy Zone In Scorching Four-Day Rally",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/average-personal-loan-interest-rate-005856676.html"
+   "u": "https://www.investors.com/research/ai-marketing-cloud-zeta-global-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "陳時中：高齡勞參率若升至25%　可增70萬勞動人口",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070100.aspx"
   },
   {
-   "t": "Why Wall Street Prices Coca-Cola and PepsiCo Differently",
+   "t": "Astera Labs Stock Strategy Etches Path Toward A Large Return Or Discounted Shares",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-prices-coca-190436046.html"
+   "u": "https://www.investors.com/research/options/chip-stock-astera-labs-alab-semiconductor-tech-options-income-trading-markets/?src=A00220&yptr=yahoo"
   },
   {
    "t": "楊泮池促健康投資發展長壽新經濟　應對超高齡國安危機",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070093.aspx"
   },
   {
-   "t": "SHOP Stock Skyrockets After Shopify Reports 'Monster Quarter'",
+   "t": "DHL 30% profit growth led by heavy air freight",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/shop-stock-skyrockets-shopify-reports-191039141.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dhl-30-profit-growth-led-192448774.html"
   },
   {
    "t": "台新、新光銀明年元旦合併　林維俊：業務發展更均衡",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070092.aspx"
   },
   {
-   "t": "Nat-Gas Prices Edge Higher on Warmer US Weather Forecasts",
+   "t": "3 Beaten-Down Stocks to Hold for the Next 10 Years",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-edge-higher-191308348.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3-beaten-down-stocks-hold-191800572.html"
   },
   {
    "t": "AI晶片競賽白熱化　超微收購加拿大新創公司",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608070088.aspx"
   },
   {
-   "t": "SpaceX shares plummet after earnings as analysts back long-term outlook",
+   "t": "Amazon Web Services Will Continue to Drive Growth and Create Value",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-shares-plummet-earnings-analysts-190300306.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-services-continue-drive-growth-193458233.html"
   }
  ],
  "inst": {
