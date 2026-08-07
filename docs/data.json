@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-08 02:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-08 02:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 312.09,
-   "c": -0.1,
+   "p": 311.85,
+   "c": -0.18,
    "a50": 309.76,
    "a200": 279.41,
    "yh": 340.08,
    "yl": 220.03,
-   "a20": 323.37,
-   "r": 46.7
+   "a20": 323.36,
+   "r": 46.5
   },
   {
    "s": "NVDA",
-   "p": 221.9,
-   "c": 1.33,
+   "p": 221.77,
+   "c": 1.27,
    "a50": 206.03,
    "a200": 193.97,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 206.71,
-   "r": 63.2
+   "r": 63.1
   },
   {
    "s": "TSLA",
-   "p": 326.88,
-   "c": 2.3,
+   "p": 327.12,
+   "c": 2.38,
    "a50": 380.41,
    "a200": 408.79,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 343.25,
-   "r": 40.6
+   "a20": 343.26,
+   "r": 40.7
   },
   {
    "s": "META",
-   "p": 592.05,
-   "c": 0.36,
-   "a50": 599.76,
+   "p": 591.5,
+   "c": 0.27,
+   "a50": 599.75,
    "a200": 631.29,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 612.26,
-   "r": 47.7
+   "a20": 612.24,
+   "r": 47.5
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7739.51,
-   "c": 0.38,
-   "a50": 7493.88,
-   "a200": 7049.94,
-   "yh": 7739.51,
+   "p": 7736.66,
+   "c": 0.35,
+   "a50": 7493.82,
+   "a200": 7049.92,
+   "yh": 7736.66,
    "yl": 6340.0,
-   "a20": 7524.5,
-   "r": 65.5
+   "a20": 7524.36,
+   "r": 65.3
   },
   {
    "s": "^VIX",
-   "p": 14.91,
-   "c": -1.58,
+   "p": 14.92,
+   "c": -1.52,
    "a50": 17.27,
    "a200": 18.58,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.16,
-   "r": 41.9
+   "a20": 17.17,
+   "r": 42.0
   },
   {
    "s": "BZ=F",
-   "p": 83.39,
-   "c": 1.09,
+   "p": 83.44,
+   "c": 1.15,
    "a50": 84.61,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.39,
-   "r": 47.5
+   "a20": 87.4,
+   "r": 47.6
   },
   {
    "s": "GC=F",
-   "p": 4397.7,
-   "c": 3.67,
-   "a50": 4170.41,
-   "a200": 4478.96,
+   "p": 4393.4,
+   "c": 3.57,
+   "a50": 4170.33,
+   "a200": 4478.93,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4087.61,
-   "r": 67.4
+   "a20": 4087.4,
+   "r": 67.2
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": -1.37,
+   "p": 6.59,
+   "c": -1.39,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.7,
    "yl": 4.38,
    "a20": 6.41,
-   "r": 60.2
+   "r": 60.1
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070344.aspx"
   },
   {
-   "t": "OpenAI seeks dismissal of Apple's trade secrets lawsuit",
+   "t": "I'm 65 With $1.1 Million Saved and $2,800 Monthly Social Security. What's My Retirement Budget?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/openai-asks-us-judge-dismiss-061124418.html"
+   "u": "https://finance.yahoo.com/markets/articles/im-65-1-1-million-163410320.html"
   },
   {
    "t": "父親節將至　壽險業：可依人生階段、特定疾病做補強",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070343.aspx"
   },
   {
-   "t": "I'm 65 With $1.1 Million Saved and $2,800 Monthly Social Security. What's My Retirement Budget?",
+   "t": "OpenAI seeks dismissal of Apple's trade secrets lawsuit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/im-65-1-1-million-163410320.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/openai-asks-us-judge-dismiss-061124418.html"
   },
   {
    "t": "研華7月營收逾112億創單月新高　樺漢164億登同期高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070338.aspx"
   },
   {
-   "t": "Investors see big dividends from TerraCycle, a US recycling firm that turns trash into shareholder treasure",
+   "t": "The Federal Reserve's Initial August Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag That Can Come Back to Bite Wall Street",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/investors-see-big-dividends-terracycle-093000687.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/federal-reserves-initial-august-inflation-082600064.html"
   }
  ],
  "inst": {
