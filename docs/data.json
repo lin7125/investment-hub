@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07 15:48（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 15:51（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.31,
-   "c": 0.99,
+   "p": 83.25,
+   "c": 0.92,
    "a50": 84.61,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.39,
-   "r": 47.4
+   "r": 47.3
   },
   {
    "s": "GC=F",
-   "p": 4347.0,
-   "c": 2.48,
-   "a50": 4169.4,
+   "p": 4345.7,
+   "c": 2.44,
+   "a50": 4169.37,
    "a200": 4478.7,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4085.08,
+   "a20": 4085.01,
    "r": 65.2
   },
   {
    "s": "HG=F",
-   "p": 6.73,
-   "c": 0.61,
+   "p": 6.72,
+   "c": 0.56,
    "a50": 6.34,
    "a200": 5.83,
-   "yh": 6.73,
+   "yh": 6.72,
    "yl": 4.38,
    "a20": 6.42,
-   "r": 67.6
+   "r": 67.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03100775,
-   "c": 0.05,
+   "p": 0.03097893,
+   "c": -0.05,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070123.aspx"
   },
   {
-   "t": "Walmart seen delivering steady second quarter as UBS backs long-term earnings story",
+   "t": "Visa Widens Stablecoin Payouts via Zerohash Rails",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-seen-delivering-steady-second-193300293.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/visa-widens-stablecoin-payouts-via-194248242.html"
   },
   {
    "t": "高齡博覽會登場　經長：2年助開發279項高齡科技產品",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070107.aspx"
   },
   {
-   "t": "Amazon Web Services Will Continue to Drive Growth and Create Value",
+   "t": "Strategy’s Preferred Stock Recovers As Company Builds Cash Reserve",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-services-continue-drive-growth-193458233.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/strategy-preferred-stock-recovers-company-194600059.html"
   },
   {
    "t": "陳時中：高齡勞參率若升至25%　可增70萬勞動人口",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070100.aspx"
   },
   {
-   "t": "Dollar Slides on Stock Strength and Weakness in US Economic Reports",
+   "t": "LLY Stock Alert: What to Know as Eli Lilly Teams Up With CVS on Weight-Loss Drugs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-slides-stock-strength-weakness-193548969.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/lly-stock-alert-know-eli-195030299.html"
   },
   {
    "t": "楊泮池促健康投資發展長壽新經濟　應對超高齡國安危機",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070093.aspx"
   },
   {
-   "t": "Strategy’s Preferred Stock Recovers As Company Builds Cash Reserve",
+   "t": "Amgen Hikes Sales Outlook By $1 Billion After Second-Quarter Smash",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/strategy-preferred-stock-recovers-company-194600059.html"
+   "u": "https://www.investors.com/news/technology/amgen-stock-amgen-earnings-q2-2026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台新、新光銀明年元旦合併　林維俊：業務發展更均衡",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070092.aspx"
   },
   {
-   "t": "LLY Stock Alert: What to Know as Eli Lilly Teams Up With CVS on Weight-Loss Drugs",
+   "t": "These Two Medical Stocks Are Screaming Sell — Here's What Happened",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/lly-stock-alert-know-eli-195030299.html"
+   "u": "https://www.investors.com/news/technology/insulet-stock-insulet-earnings-q2-2026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "AI晶片競賽白熱化　超微收購加拿大新創公司",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/aopl/202608070088.aspx"
   },
   {
-   "t": "Will Elon Musk's Bullish Starlink Bet Help SPCX Recover? Billionaire Charts Ambitious Connectivity Plan Ahead of SpaceX Earnings",
+   "t": "PayPal to Stripe: The Offer Is Too Low",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-bullish-starlink-bet-193131684.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/paypal-stripe-offer-too-low-194521221.html"
   }
  ],
  "inst": {
-  "date": "2026-08-06",
+  "date": "2026-08-03",
   "byCode": {
    "2317": {
-    "f": 21743,
-    "t": 135,
-    "all": 22027
-   },
-   "2308": {
-    "f": 73,
-    "t": 482,
-    "all": 594
-   },
-   "1802": {
-    "f": 20,
-    "t": 0,
-    "all": 271
-   },
-   "6446": {
-    "f": 179,
-    "t": -3,
-    "all": 155
-   },
-   "2305": {
-    "f": 29,
-    "t": 0,
-    "all": 29
-   },
-   "6862": {
-    "f": 2,
-    "t": 0,
-    "all": 3
-   },
-   "6515": {
-    "f": 4,
-    "t": 1,
-    "all": -6
-   },
-   "4722": {
-    "f": -83,
-    "t": 0,
-    "all": -23
-   },
-   "6442": {
-    "f": -107,
-    "t": -211,
-    "all": -298
-   },
-   "6706": {
-    "f": -723,
-    "t": 0,
-    "all": -714
-   },
-   "2454": {
-    "f": -994,
-    "t": -98,
-    "all": -1179
-   },
-   "3701": {
-    "f": -1182,
-    "t": 0,
-    "all": -1185
-   },
-   "2330": {
-    "f": -4012,
-    "t": -83,
-    "all": -4678
+    "f": 10136,
+    "t": 213,
+    "all": 9141
    },
    "2327": {
-    "f": -4367,
-    "t": -1648,
-    "all": -5780
+    "f": 3675,
+    "t": -43,
+    "all": 3578
+   },
+   "2454": {
+    "f": 1146,
+    "t": 174,
+    "all": 1449
+   },
+   "6442": {
+    "f": 194,
+    "t": -5,
+    "all": 195
+   },
+   "6706": {
+    "f": 184,
+    "t": -34,
+    "all": 154
+   },
+   "6446": {
+    "f": 151,
+    "t": -1,
+    "all": 151
+   },
+   "3701": {
+    "f": 22,
+    "t": 0,
+    "all": 15
+   },
+   "6862": {
+    "f": -13,
+    "t": 0,
+    "all": -15
+   },
+   "4722": {
+    "f": -127,
+    "t": 0,
+    "all": -102
+   },
+   "6515": {
+    "f": -108,
+    "t": -5,
+    "all": -113
+   },
+   "2305": {
+    "f": -159,
+    "t": -1,
+    "all": -219
+   },
+   "1802": {
+    "f": -311,
+    "t": 8,
+    "all": -1029
+   },
+   "2308": {
+    "f": -3342,
+    "t": -216,
+    "all": -3571
+   },
+   "2330": {
+    "f": -9717,
+    "t": 387,
+    "all": -10917
    }
   },
-  "totalNetE": 51.2
+  "totalNetE": -165.2
  }
 }
