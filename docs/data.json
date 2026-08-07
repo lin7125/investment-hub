@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07 15:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 15:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.15,
-   "c": -4.17,
-   "a50": 17.3,
-   "a200": 18.6,
+   "p": 15.3,
+   "c": 0.99,
+   "a50": 17.28,
+   "a200": 18.58,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.17,
-   "r": 42.7
+   "a20": 17.18,
+   "r": 43.3
   },
   {
    "s": "BZ=F",
-   "p": 83.32,
-   "c": 1.01,
+   "p": 83.23,
+   "c": 0.9,
    "a50": 84.61,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.39,
-   "r": 47.4
+   "r": 47.3
   },
   {
    "s": "GC=F",
-   "p": 4349.8,
-   "c": 2.54,
-   "a50": 4169.46,
-   "a200": 4478.72,
+   "p": 4344.2,
+   "c": 2.41,
+   "a50": 4169.34,
+   "a200": 4478.69,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4085.22,
-   "r": 65.3
+   "a20": 4084.94,
+   "r": 65.1
   },
   {
    "s": "HG=F",
-   "p": 6.75,
-   "c": 0.92,
+   "p": 6.73,
+   "c": 0.69,
    "a50": 6.34,
    "a200": 5.83,
-   "yh": 6.75,
+   "yh": 6.73,
    "yl": 4.38,
    "a20": 6.42,
-   "r": 68.3
+   "r": 67.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03098853,
-   "c": -0.02,
+   "p": 0.03097893,
+   "c": -0.03,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070123.aspx"
   },
   {
-   "t": "Progress Toward Reopening the Strait of Hormuz Weighs on Oil Prices",
+   "t": "The SEC Liberalized Marketing Rules for Financial Advisors 4 Years Ago. What Firms Do Differently Now.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/progress-toward-reopening-strait-hormuz-191655557.html"
+   "u": "https://www.barrons.com/advisor/articles/sec-marketing-rule-financial-advisors-2be620a3?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "高齡博覽會登場　經長：2年助開發279項高齡科技產品",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070107.aspx"
   },
   {
-   "t": "This AI Marketing Stock Hits A Buy Zone In Scorching Four-Day Rally",
+   "t": "Amazon Web Services Will Continue to Drive Growth and Create Value",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ai-marketing-cloud-zeta-global-stock/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-services-continue-drive-growth-193458233.html"
   },
   {
    "t": "陳時中：高齡勞參率若升至25%　可增70萬勞動人口",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070100.aspx"
   },
   {
-   "t": "Astera Labs Stock Strategy Etches Path Toward A Large Return Or Discounted Shares",
+   "t": "Dollar Slides on Stock Strength and Weakness in US Economic Reports",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/chip-stock-astera-labs-alab-semiconductor-tech-options-income-trading-markets/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-slides-stock-strength-weakness-193548969.html"
   },
   {
    "t": "楊泮池促健康投資發展長壽新經濟　應對超高齡國安危機",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070093.aspx"
   },
   {
-   "t": "DHL 30% profit growth led by heavy air freight",
+   "t": "LLY Stock Alert: What to Know as Eli Lilly Teams Up With CVS on Weight-Loss Drugs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dhl-30-profit-growth-led-192448774.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/lly-stock-alert-know-eli-195030299.html"
   },
   {
    "t": "台新、新光銀明年元旦合併　林維俊：業務發展更均衡",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070092.aspx"
   },
   {
-   "t": "3 Beaten-Down Stocks to Hold for the Next 10 Years",
+   "t": "Strategy’s Preferred Stock Recovers As Company Builds Cash Reserve",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/3-beaten-down-stocks-hold-191800572.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/strategy-preferred-stock-recovers-company-194600059.html"
   },
   {
    "t": "AI晶片競賽白熱化　超微收購加拿大新創公司",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608070088.aspx"
   },
   {
-   "t": "Amazon Web Services Will Continue to Drive Growth and Create Value",
+   "t": "Michael Saylor's Strategy Approved a Multi-Billion Dollar Bitcoin Sale to Fund Stock Buybacks. Here's What It Means for MSTR Shareholders.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-services-continue-drive-growth-193458233.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-approved-multi-193000173.html"
   }
  ],
  "inst": {
