@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-08 01:56（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-08 02:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 313.01,
-   "c": 0.19,
-   "a50": 309.78,
+   "p": 312.69,
+   "c": 0.09,
+   "a50": 309.77,
    "a200": 279.41,
    "yh": 340.08,
    "yl": 220.03,
-   "a20": 323.42,
-   "r": 47.3
+   "a20": 323.4,
+   "r": 47.1
   },
   {
    "s": "NVDA",
-   "p": 222.07,
-   "c": 1.4,
+   "p": 222.12,
+   "c": 1.43,
    "a50": 206.04,
    "a200": 193.97,
    "yh": 235.74,
@@ -234,24 +234,24 @@
   },
   {
    "s": "TSLA",
-   "p": 326.76,
-   "c": 2.26,
-   "a50": 380.4,
+   "p": 327.56,
+   "c": 2.51,
+   "a50": 380.42,
    "a200": 408.79,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 343.24,
-   "r": 40.6
+   "a20": 343.28,
+   "r": 40.9
   },
   {
    "s": "META",
-   "p": 592.23,
-   "c": 0.39,
+   "p": 592.29,
+   "c": 0.41,
    "a50": 599.76,
    "a200": 631.3,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 612.27,
+   "a20": 612.28,
    "r": 47.7
   },
   {
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7746.11,
-   "c": 0.47,
-   "a50": 7494.01,
-   "a200": 7049.97,
-   "yh": 7746.11,
+   "p": 7744.12,
+   "c": 0.44,
+   "a50": 7493.97,
+   "a200": 7049.96,
+   "yh": 7744.12,
    "yl": 6340.0,
-   "a20": 7524.83,
-   "r": 65.8
+   "a20": 7524.73,
+   "r": 65.7
   },
   {
    "s": "^VIX",
-   "p": 14.94,
-   "c": -1.39,
-   "a50": 17.28,
+   "p": 14.91,
+   "c": -1.58,
+   "a50": 17.27,
    "a200": 18.58,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.17,
-   "r": 42.0
+   "a20": 17.16,
+   "r": 41.9
   },
   {
    "s": "BZ=F",
-   "p": 83.26,
-   "c": 0.93,
+   "p": 83.36,
+   "c": 1.05,
    "a50": 84.61,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.39,
-   "r": 47.3
+   "r": 47.5
   },
   {
    "s": "GC=F",
-   "p": 4396.3,
-   "c": 3.64,
-   "a50": 4170.39,
-   "a200": 4478.95,
+   "p": 4401.5,
+   "c": 3.76,
+   "a50": 4170.49,
+   "a200": 4478.98,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4087.54,
-   "r": 67.4
+   "a20": 4087.8,
+   "r": 67.6
   },
   {
    "s": "HG=F",
-   "p": 6.59,
-   "c": -1.43,
+   "p": 6.6,
+   "c": -1.34,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.7,
    "yl": 4.38,
    "a20": 6.41,
-   "r": 59.9
+   "r": 60.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03101737,
-   "c": 0.08,
+   "p": 0.03100775,
+   "c": 0.03,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070347.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after July jobs report surprises to the downside",
+   "t": "How Okta, IBD Stock Of The Day, Is Targeting 'Nonhuman' Identity Opportunity",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-july-jobs-report-surprises-100009572.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/okta-stock-cybersecurity-stocks-artificial-intelligence-news/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透第115077期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070346.aspx"
   },
   {
-   "t": "Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well.",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after July jobs report surprises to the downside",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-analysis/dell-stock-rises-ai-collaboration-with-nvidia-microsoft-amd/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-july-jobs-report-surprises-100009572.html"
   },
   {
    "t": "美7月非農就業人數意外減　標普與那指雙雙開高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070344.aspx"
   },
   {
-   "t": "This AI Stock Offers Diversified Way To Play The Space, Eyes Entry As Profits Jump 80%",
+   "t": "Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/stock-lists/stock-spotlight/ai-stock-cognex-cgnx-profits-jump/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/research/ibd-stock-analysis/dell-stock-rises-ai-collaboration-with-nvidia-microsoft-amd/?src=A00220&yptr=yahoo"
   },
   {
    "t": "父親節將至　壽險業：可依人生階段、特定疾病做補強",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070343.aspx"
   },
   {
-   "t": "What is universal life insurance?",
+   "t": "WonderFi Founder Says Canadian Crypto Rules Pushed Company Toward Robinhood",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/what-is-universal-life-insurance-185454508.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/wonderfi-founder-says-canadian-crypto-173400233.html"
   },
   {
    "t": "研華7月營收逾112億創單月新高　樺漢164億登同期高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070338.aspx"
   },
   {
-   "t": "Retail Stockouts are a Costly Affair",
+   "t": "PTIR Jumps 18% as Palantir Stock Rallies Yet Again",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/retail-stockouts-costly-affair-173900367.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ptir-jumps-18-palantir-stock-174459971.html"
   }
  ],
  "inst": {
