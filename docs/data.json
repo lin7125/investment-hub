@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-08 02:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-08 02:57（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 311.87,
-   "c": -0.17,
+   "p": 312.23,
+   "c": -0.06,
    "a50": 309.76,
    "a200": 279.41,
    "yh": 340.08,
    "yl": 220.03,
-   "a20": 323.36,
-   "r": 46.5
+   "a20": 323.38,
+   "r": 46.8
   },
   {
    "s": "NVDA",
-   "p": 221.94,
-   "c": 1.35,
-   "a50": 206.03,
+   "p": 222.09,
+   "c": 1.42,
+   "a50": 206.04,
    "a200": 193.97,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 206.72,
-   "r": 63.2
+   "r": 63.3
   },
   {
    "s": "TSLA",
-   "p": 326.94,
-   "c": 2.32,
-   "a50": 380.41,
+   "p": 327.42,
+   "c": 2.47,
+   "a50": 380.42,
    "a200": 408.79,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 343.25,
-   "r": 40.6
+   "a20": 343.27,
+   "r": 40.9
   },
   {
    "s": "META",
-   "p": 590.3,
-   "c": 0.07,
-   "a50": 599.72,
+   "p": 590.79,
+   "c": 0.15,
+   "a50": 599.73,
    "a200": 631.29,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 612.18,
-   "r": 47.1
+   "a20": 612.2,
+   "r": 47.3
   },
   {
    "s": "^TWII",
@@ -267,47 +267,47 @@
   },
   {
    "s": "^GSPC",
-   "p": 7733.23,
-   "c": 0.3,
-   "a50": 7493.75,
-   "a200": 7049.91,
-   "yh": 7736.52,
+   "p": 7736.68,
+   "c": 0.35,
+   "a50": 7493.82,
+   "a200": 7049.92,
+   "yh": 7736.68,
    "yl": 6340.0,
-   "a20": 7524.19,
-   "r": 65.2
+   "a20": 7524.36,
+   "r": 65.3
   },
   {
    "s": "^VIX",
-   "p": 14.95,
-   "c": -1.32,
-   "a50": 17.28,
+   "p": 14.88,
+   "c": -1.78,
+   "a50": 17.27,
    "a200": 18.58,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.17,
-   "r": 42.1
+   "a20": 17.16,
+   "r": 41.8
   },
   {
    "s": "BZ=F",
-   "p": 83.41,
-   "c": 1.12,
+   "p": 83.5,
+   "c": 1.22,
    "a50": 84.61,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.4,
-   "r": 47.5
+   "r": 47.6
   },
   {
    "s": "GC=F",
-   "p": 4398.9,
-   "c": 3.7,
-   "a50": 4170.44,
-   "a200": 4478.96,
+   "p": 4396.5,
+   "c": 3.64,
+   "a50": 4170.39,
+   "a200": 4478.95,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4087.67,
-   "r": 67.5
+   "a20": 4087.55,
+   "r": 67.4
   },
   {
    "s": "HG=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03100775,
-   "c": 0.06,
+   "p": 0.03101737,
+   "c": 0.07,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070348.aspx"
   },
   {
-   "t": "SunTrust's $240 million overdraft fee settlement could pay you up to $1,000",
+   "t": "I'm 65 With $1.1 Million Saved and $2,800 Monthly Social Security. What's My Retirement Budget?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/suntrusts-240-million-overdraft-fee-090000662.html"
+   "u": "https://finance.yahoo.com/markets/articles/im-65-1-1-million-163410320.html"
   },
   {
    "t": "今彩539第115191期　頭獎4注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070347.aspx"
   },
   {
-   "t": "I'm 65 With $1.1 Million Saved and $2,800 Monthly Social Security. What's My Retirement Budget?",
+   "t": "SunTrust's $240 million overdraft fee settlement could pay you up to $1,000",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/im-65-1-1-million-163410320.html"
+   "u": "https://finance.yahoo.com/markets/articles/suntrusts-240-million-overdraft-fee-090000662.html"
   },
   {
    "t": "大樂透第115077期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070344.aspx"
   },
   {
-   "t": "US Dollar Price Forecast: NFP Countdown Keeps DXY, EUR/USD and GBP/USD in Focus",
+   "t": "Investors see big dividends from TerraCycle, a US recycling firm that turns trash into shareholder treasure",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-nfp-080927300.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/investors-see-big-dividends-terracycle-093000687.html"
   },
   {
    "t": "父親節將至　壽險業：可依人生階段、特定疾病做補強",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070343.aspx"
   },
   {
-   "t": "Investors see big dividends from TerraCycle, a US recycling firm that turns trash into shareholder treasure",
+   "t": "7-Eleven announces new promotions partnership",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/investors-see-big-dividends-terracycle-093000687.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/7-eleven-announces-promotions-partnership-085351699.html"
   }
  ],
  "inst": {
