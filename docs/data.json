@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-08 04:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-08 04:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,9 +289,9 @@
   },
   {
    "s": "BZ=F",
-   "p": 82.17,
-   "c": -0.39,
-   "a50": 84.59,
+   "p": 82.16,
+   "c": -0.4,
+   "a50": 84.58,
    "a200": 81.14,
    "yh": 118.35,
    "yl": 58.92,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4399.2,
-   "c": 3.71,
-   "a50": 4170.44,
-   "a200": 4478.96,
+   "p": 4395.7,
+   "c": 3.62,
+   "a50": 4170.37,
+   "a200": 4478.95,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4087.69,
-   "r": 67.5
+   "a20": 4087.51,
+   "r": 67.3
   },
   {
    "s": "HG=F",
-   "p": 6.58,
-   "c": -1.58,
+   "p": 6.57,
+   "c": -1.68,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.7,
    "yl": 4.38,
    "a20": 6.41,
-   "r": 59.4
+   "r": 58.9
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070348.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Bullish on Marvell Technology Stock?",
+   "t": "Nvidia’s (NVDA) Amkor (AMKR) Deal Adds Packaging Muscle Ahead Of Earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-marvell-103509763.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-amkor-amkr-deal-104631781.html"
   },
   {
    "t": "今彩539第115191期　頭獎4注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070347.aspx"
   },
   {
-   "t": "Trump doubles down on Credit Card Competition Act as merchants paid $198 billion in swipe fees last year",
+   "t": "Stock Market Suffers AI Sell-Off In July. What's Next?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/trump-doubles-down-credit-card-103000683.html"
+   "u": "https://www.investors.com/etfs-and-funds/mutual-funds/stock-market-suffers-ai-sell-off-in-july-whats-next/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透第115077期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070346.aspx"
   },
   {
-   "t": "CenterPoint Energy Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "t": "First look: mixed performance at RXO with some strong points",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-stock-outlook-wall-102955691.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/first-look-mixed-performance-rxo-110000486.html"
   },
   {
    "t": "美7月非農就業人數意外減　標普與那指雙雙開高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070344.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for Coca-Cola Stock?",
+   "t": "Why Investor Returns Don’t Always Match Fund Performance",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-102956087.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-investor-returns-don-t-110000746.html"
   },
   {
    "t": "父親節將至　壽險業：可依人生階段、特定疾病做補強",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070343.aspx"
   },
   {
-   "t": "Binance-linked firms sue RedotPay founders in Hong Kong for $472.8m",
+   "t": "Northwest Bank overhauls C-suite to drive transformation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/binance-linked-firms-sue-redotpay-103053636.html"
+   "u": "https://finance.yahoo.com/small-business/articles/northwest-bank-overhauls-c-suite-104605462.html"
   }
  ],
  "inst": {
