@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07 23:41（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 23:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 312.47,
-   "c": 0.02,
-   "a50": 309.77,
+   "p": 312.04,
+   "c": -0.12,
+   "a50": 309.76,
    "a200": 279.41,
    "yh": 340.08,
    "yl": 220.03,
-   "a20": 323.39,
-   "r": 46.9
+   "a20": 323.37,
+   "r": 46.6
   },
   {
    "s": "NVDA",
-   "p": 224.19,
-   "c": 2.37,
+   "p": 224.44,
+   "c": 2.49,
    "a50": 206.08,
    "a200": 193.98,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 206.83,
-   "r": 64.5
+   "a20": 206.84,
+   "r": 64.7
   },
   {
    "s": "TSLA",
-   "p": 331.6,
-   "c": 3.78,
-   "a50": 380.5,
+   "p": 332.24,
+   "c": 3.98,
+   "a50": 380.51,
    "a200": 408.81,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 343.48,
-   "r": 42.8
+   "a20": 343.52,
+   "r": 43.0
   },
   {
    "s": "META",
-   "p": 596.16,
-   "c": 1.06,
-   "a50": 599.84,
-   "a200": 631.32,
+   "p": 595.72,
+   "c": 0.99,
+   "a50": 599.83,
+   "a200": 631.31,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 612.47,
-   "r": 48.9
+   "a20": 612.45,
+   "r": 48.7
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7755.73,
-   "c": 0.59,
-   "a50": 7494.2,
-   "a200": 7050.02,
-   "yh": 7755.73,
+   "p": 7759.37,
+   "c": 0.64,
+   "a50": 7494.27,
+   "a200": 7050.04,
+   "yh": 7759.37,
    "yl": 6340.0,
-   "a20": 7525.31,
-   "r": 66.2
+   "a20": 7525.49,
+   "r": 66.4
   },
   {
    "s": "^VIX",
-   "p": 14.95,
-   "c": -1.32,
+   "p": 14.96,
+   "c": -1.25,
    "a50": 17.28,
    "a200": 18.58,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.66,
-   "c": 1.42,
-   "a50": 84.62,
+   "p": 83.43,
+   "c": 1.14,
+   "a50": 84.61,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.41,
-   "r": 47.8
+   "a20": 87.4,
+   "r": 47.6
   },
   {
    "s": "GC=F",
-   "p": 4407.0,
-   "c": 3.89,
-   "a50": 4170.6,
-   "a200": 4479.0,
+   "p": 4408.8,
+   "c": 3.93,
+   "a50": 4170.64,
+   "a200": 4479.01,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4088.08,
-   "r": 67.8
+   "a20": 4088.17,
+   "r": 67.9
   },
   {
    "s": "HG=F",
-   "p": 6.61,
-   "c": -1.2,
+   "p": 6.6,
+   "c": -1.28,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.7,
    "yl": 4.38,
    "a20": 6.41,
-   "r": 60.9
+   "r": 60.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03101737,
-   "c": 0.07,
+   "c": 0.08,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070348.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after July jobs report surprises to the downside",
+   "t": "Tech stocks today: Shares climb after rocky week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-july-jobs-report-surprises-100009572.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-shares-climb-after-rocky-week-140419479.html"
   },
   {
    "t": "今彩539第115191期　頭獎4注中獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070347.aspx"
   },
   {
-   "t": "Two AI Names Bounce From Chip Sell-Off; Three More IBD 50 Stocks On Watch",
+   "t": "Price Prediction: Google Will Hit $400 on This Date",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/stock-lists/ibd-50/stock-market-ai-memory-teradyne-ter-stock-credo-crdo/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-google-hit-400-153017726.html"
   },
   {
    "t": "大樂透第115077期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070346.aspx"
   },
   {
-   "t": "Kroger makes a pricing move Costco and Walmart will love",
+   "t": "NVIDIA (NVDA) Is Evolving Beyond GPUs Into a Full AI Infrastructure Platform",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/kroger-makes-pricing-move-costco-150700452.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-evolving-beyond-gpus-152646173.html"
   },
   {
    "t": "美7月非農就業人數意外減　標普與那指雙雙開高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070344.aspx"
   },
   {
-   "t": "NY Fed finds little change in inflation expectations in July",
+   "t": "FAA Orders Inspection Of Boeing Jets. Wall Street Eyes Break From Resistance Level.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/ny-fed-finds-little-change-150205023.html"
+   "u": "https://www.investors.com/news/boeing-737-max-faa-jet-plane-aerospace-defense/?src=A00220&yptr=yahoo"
   },
   {
    "t": "父親節將至　壽險業：可依人生階段、特定疾病做補強",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070343.aspx"
   },
   {
-   "t": "How a CD can help you prepare for — and survive — a layoff",
+   "t": "Cloudflare (NET) Jumps on AI Demand as CrowdStrike (CRWD) Sets a High Bar",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-to-prepare-for-a-layoff-cd-133034274.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/cloudflare-net-jumps-ai-demand-152226190.html"
   },
   {
    "t": "研華7月營收逾112億創單月新高　樺漢164億登同期高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070338.aspx"
   },
   {
-   "t": "Why Halozyme, An IBD 50 Stock, Just Hit A Record High In Bullish Volume",
+   "t": "Could Taiwan Semiconductor Manufacturing (TSM) Be the Most Critical Bottleneck in the AI Chip Boom?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/halozyme-stock-halozyme-earnings-q2-2026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/ai/articles/could-taiwan-semiconductor-manufacturing-tsm-152156862.html"
   }
  ],
  "inst": {
