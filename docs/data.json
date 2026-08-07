@@ -1,71 +1,71 @@
 {
- "generatedAt": "2026-08-07 13:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 13:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2370.0,
-   "c": 0.21,
-   "a50": 2379.9,
-   "a200": 1920.7,
+   "p": 2365.0,
+   "c": 0.0,
+   "a50": 2379.8,
+   "a200": 1920.68,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2361.75,
-   "r": 50.6
+   "a20": 2361.5,
+   "r": 50.2
   },
   {
    "s": "2317.TW",
-   "p": 259.5,
-   "c": -1.89,
-   "a50": 256.12,
+   "p": 260.0,
+   "c": -1.7,
+   "a50": 256.13,
    "a200": 234.44,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 246.15,
-   "r": 56.8
+   "a20": 246.18,
+   "r": 57.1
   },
   {
    "s": "2308.TW",
-   "p": 1655.0,
-   "c": -1.49,
-   "a50": 1967.7,
-   "a200": 1501.38,
+   "p": 1650.0,
+   "c": -1.79,
+   "a50": 1967.6,
+   "a200": 1501.35,
    "yh": 2520.0,
    "yl": 623.0,
-   "a20": 1727.5,
-   "r": 42.4
+   "a20": 1727.25,
+   "r": 42.1
   },
   {
    "s": "2454.TW",
-   "p": 3895.0,
-   "c": -0.64,
-   "a50": 4026.4,
-   "a200": 2378.8,
+   "p": 3885.0,
+   "c": -0.89,
+   "a50": 4026.2,
+   "a200": 2378.75,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3665.25,
-   "r": 52.9
+   "a20": 3664.75,
+   "r": 52.7
   },
   {
    "s": "2327.TW",
-   "p": 540.0,
-   "c": -5.26,
-   "a50": 814.33,
-   "a200": 417.85,
+   "p": 542.0,
+   "c": -4.91,
+   "a50": 814.37,
+   "a200": 417.86,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 633.38,
-   "r": 36.2
+   "a20": 633.48,
+   "r": 36.3
   },
   {
    "s": "1802.TW",
-   "p": 53.5,
-   "c": -2.01,
-   "a50": 62.3,
+   "p": 53.1,
+   "c": -2.75,
+   "a50": 62.29,
    "a200": 51.59,
    "yh": 76.6,
    "yl": 23.3,
-   "a20": 53.56,
-   "r": 46.1
+   "a20": 53.54,
+   "r": 45.5
   },
   {
    "s": "6862.TW",
@@ -80,80 +80,80 @@
   },
   {
    "s": "3701.TW",
-   "p": 42.85,
-   "c": -1.49,
+   "p": 43.0,
+   "c": -1.15,
    "a50": 44.73,
    "a200": 48.76,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.49,
-   "r": 54.3
+   "a20": 39.5,
+   "r": 54.7
   },
   {
    "s": "4722.TW",
-   "p": 232.5,
-   "c": 1.09,
-   "a50": 245.98,
-   "a200": 198.98,
+   "p": 231.5,
+   "c": 0.65,
+   "a50": 245.96,
+   "a200": 198.97,
    "yh": 306.5,
    "yl": 70.2,
-   "a20": 214.78,
-   "r": 53.7
+   "a20": 214.72,
+   "r": 53.4
   },
   {
    "s": "6706.TW",
-   "p": 109.5,
-   "c": -2.23,
-   "a50": 143.42,
-   "a200": 125.13,
+   "p": 108.5,
+   "c": -3.12,
+   "a50": 143.4,
+   "a200": 125.12,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 110.2,
-   "r": 43.4
+   "a20": 110.15,
+   "r": 42.8
   },
   {
    "s": "2305.TW",
-   "p": 26.55,
-   "c": 0.38,
+   "p": 26.6,
+   "c": 0.57,
    "a50": 31.55,
    "a200": 18.1,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 31.86,
-   "r": 38.7
+   "r": 38.8
   },
   {
    "s": "6442.TW",
-   "p": 1310.0,
-   "c": -7.42,
-   "a50": 1605.7,
-   "a200": 1570.34,
+   "p": 1335.0,
+   "c": -5.65,
+   "a50": 1606.2,
+   "a200": 1570.46,
    "yh": 2370.0,
    "yl": 612.0,
-   "a20": 1299.25,
-   "r": 45.6
+   "a20": 1300.5,
+   "r": 46.8
   },
   {
    "s": "6515.TW",
-   "p": 6770.0,
-   "c": -0.07,
-   "a50": 7833.8,
-   "a200": 5879.78,
+   "p": 6750.0,
+   "c": -0.37,
+   "a50": 7833.4,
+   "a200": 5879.68,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6433.75,
-   "r": 48.1
+   "a20": 6432.75,
+   "r": 47.9
   },
   {
    "s": "6446.TW",
-   "p": 1260.0,
-   "c": -2.33,
-   "a50": 1091.26,
-   "a200": 682.09,
+   "p": 1255.0,
+   "c": -2.71,
+   "a50": 1091.16,
+   "a200": 682.06,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1189.0,
-   "r": 57.3
+   "a20": 1188.75,
+   "r": 56.9
   },
   {
    "s": "3324.TWO",
@@ -168,19 +168,19 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1255.0,
-   "c": -7.04,
-   "a50": 1412.24,
-   "a200": 1169.15,
+   "p": 1250.0,
+   "c": -7.41,
+   "a50": 1412.14,
+   "a200": 1169.12,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1189.85,
-   "r": 50.7
+   "a20": 1189.6,
+   "r": 50.4
   },
   {
    "s": "3585.TWO",
-   "p": 48.3,
-   "c": -1.63,
+   "p": 48.35,
+   "c": -1.53,
    "a50": 63.78,
    "a200": 40.56,
    "yh": 165.0,
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 6150.0,
-   "c": -2.38,
-   "a50": 6157.4,
-   "a200": 3904.8,
+   "p": 6130.0,
+   "c": -2.7,
+   "a50": 6157.0,
+   "a200": 3904.7,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5828.5,
-   "r": 52.8
+   "a20": 5827.5,
+   "r": 52.5
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44273.1,
-   "c": -0.28,
-   "a50": 44753.95,
-   "a200": 35449.08,
+   "p": 44236.24,
+   "c": -0.36,
+   "a50": 44753.22,
+   "a200": 35448.9,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43620.93,
-   "r": 52.0
+   "a20": 43619.08,
+   "r": 51.8
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.75,
-   "c": 1.53,
+   "p": 83.76,
+   "c": 1.54,
    "a50": 84.62,
    "a200": 81.15,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4329.2,
-   "c": 2.06,
-   "a50": 4169.04,
-   "a200": 4478.61,
+   "p": 4325.5,
+   "c": 1.97,
+   "a50": 4168.97,
+   "a200": 4478.6,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4084.19,
-   "r": 64.4
+   "a20": 4084.0,
+   "r": 64.2
   },
   {
    "s": "HG=F",
    "p": 6.74,
-   "c": 0.76,
+   "c": 0.78,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.74,
    "yl": 4.38,
    "a20": 6.42,
-   "r": 67.9
+   "r": 68.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03104626,
-   "c": 0.16,
+   "c": 0.18,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070093.aspx"
   },
   {
-   "t": "SpaceX's AI Cloud Business Is Taking Off, Says Deutsche Bank",
+   "t": "Ethereum Price Forecast: Flag Pattern Breakout Could Push ETH to $2,500",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/video/spacexs-ai-cloud-business-taking-172934753.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-forecast-flag-pattern-175050947.html"
   },
   {
    "t": "台新、新光銀明年元旦合併　林維俊：業務發展更均衡",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070092.aspx"
   },
   {
-   "t": "Stocks To Watch On Wall Street's Radar — Several In Or Near Buy Range",
+   "t": "The New York Times Has A Growth Stock Problem",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/breakout-stocks-technical-analysis/stocks-to-watch-raymond-james-us-bancorp-tapestry-lead-breakout-index/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/york-times-growth-stock-problem-174441729.html"
   },
   {
    "t": "AI晶片競賽白熱化　超微收購加拿大新創公司",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608070088.aspx"
   },
   {
-   "t": "The Trump Administration Just Gave Ciena Stock a Huge Boost. What to Know.",
+   "t": "LITE Stock Alert: Analysts See Big Upside Ahead for Lumentum as Trump Aims to Restrict Chinese Data Center Components",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/trump-administration-just-gave-ciena-173602340.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lite-stock-alert-analysts-see-175409253.html"
   },
   {
    "t": "新台幣午盤升2.7分　暫收32.234元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070085.aspx"
   },
   {
-   "t": "Z Stock Layoffs: What to Know About the Latest Zillow Job Cuts",
+   "t": "Founder Jeff Bezos Is Getting Ready to Sell Another 15 Million Shares of Amazon Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/z-stock-layoffs-know-latest-173558491.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/founder-jeff-bezos-getting-ready-174612837.html"
   },
   {
    "t": "傳記憶體短缺影響交貨　專家：台積電可調整產線應對",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070077.aspx"
   },
   {
-   "t": "StubHub’s CEO Built a Hedge Fund to Scalp Tickets and Resell Them to His Own Platform – Lawmakers Declare ‘Buying Tickets Has Gotten Outrageously Expensive’",
+   "t": "Stocks To Watch On Wall Street's Radar — Several In Or Near Buy Range",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/stubhub-ceo-built-hedge-fund-172944480.html"
+   "u": "https://www.investors.com/research/breakout-stocks-technical-analysis/stocks-to-watch-raymond-james-us-bancorp-tapestry-lead-breakout-index/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股急彈後拉回　盤中翻黑高低震盪逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070039.aspx"
   },
   {
-   "t": "3 Dividend Stocks Ready to Pay You – If You Buy Them This Week",
+   "t": "The Trump Administration Just Gave Ciena Stock a Huge Boost. What to Know.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-ready-pay-173515116.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/trump-administration-just-gave-ciena-173602340.html"
   }
  ],
  "inst": {
