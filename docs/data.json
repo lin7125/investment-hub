@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-08 04:40（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-08 04:50（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 82.16,
-   "c": -0.4,
-   "a50": 84.58,
-   "a200": 81.14,
+   "p": 82.28,
+   "c": -0.25,
+   "a50": 84.59,
+   "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.33,
-   "r": 46.0
+   "a20": 87.34,
+   "r": 46.1
   },
   {
    "s": "GC=F",
-   "p": 4395.7,
-   "c": 3.62,
-   "a50": 4170.37,
-   "a200": 4478.95,
+   "p": 4401.5,
+   "c": 3.76,
+   "a50": 4170.49,
+   "a200": 4478.98,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4087.51,
-   "r": 67.3
+   "a20": 4087.8,
+   "r": 67.6
   },
   {
    "s": "HG=F",
-   "p": 6.57,
-   "c": -1.68,
+   "p": 6.59,
+   "c": -1.51,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.7,
    "yl": 4.38,
    "a20": 6.41,
-   "r": 58.9
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03101737,
-   "c": 0.06,
+   "c": 0.08,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070348.aspx"
   },
   {
-   "t": "Nvidia’s (NVDA) Amkor (AMKR) Deal Adds Packaging Muscle Ahead Of Earnings",
+   "t": "DoorDash (DASH) Takes To The Skies As Uber (UBER) Eyes Drones Too",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-amkor-amkr-deal-104631781.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/doordash-dash-takes-skies-uber-110101273.html"
   },
   {
    "t": "今彩539第115191期　頭獎4注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070346.aspx"
   },
   {
-   "t": "First look: mixed performance at RXO with some strong points",
+   "t": "Why Investor Returns Don’t Always Match Fund Performance",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/first-look-mixed-performance-rxo-110000486.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-investor-returns-don-t-110000746.html"
   },
   {
    "t": "美7月非農就業人數意外減　標普與那指雙雙開高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070344.aspx"
   },
   {
-   "t": "Why Investor Returns Don’t Always Match Fund Performance",
+   "t": "Walmart Earnings: Bull Put Spread Trade",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-investor-returns-don-t-110000746.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/walmart-earnings-bull-put-spread-110002553.html"
   },
   {
    "t": "父親節將至　壽險業：可依人生階段、特定疾病做補強",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070343.aspx"
   },
   {
-   "t": "Northwest Bank overhauls C-suite to drive transformation",
+   "t": "This One Word On SpaceX’s First Earnings Call Cost It 11%, And Sent Nvidia Higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/northwest-bank-overhauls-c-suite-104605462.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/one-word-spacex-first-earnings-105205381.html"
   }
  ],
  "inst": {
