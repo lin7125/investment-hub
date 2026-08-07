@@ -1,82 +1,82 @@
 {
- "generatedAt": "2026-08-07 13:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 13:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2355.0,
-   "c": -0.42,
-   "a50": 2379.6,
-   "a200": 1920.62,
+   "p": 2370.0,
+   "c": 0.21,
+   "a50": 2379.9,
+   "a200": 1920.7,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2361.0,
-   "r": 49.5
+   "a20": 2361.75,
+   "r": 50.6
   },
   {
    "s": "2317.TW",
-   "p": 258.0,
-   "c": -2.46,
-   "a50": 256.09,
-   "a200": 234.43,
+   "p": 259.5,
+   "c": -1.89,
+   "a50": 256.12,
+   "a200": 234.44,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 246.08,
-   "r": 55.8
+   "a20": 246.15,
+   "r": 56.8
   },
   {
    "s": "2308.TW",
-   "p": 1635.0,
-   "c": -2.68,
-   "a50": 1967.3,
-   "a200": 1501.28,
+   "p": 1655.0,
+   "c": -1.49,
+   "a50": 1967.7,
+   "a200": 1501.38,
    "yh": 2520.0,
    "yl": 623.0,
-   "a20": 1726.5,
-   "r": 41.4
+   "a20": 1727.5,
+   "r": 42.4
   },
   {
    "s": "2454.TW",
-   "p": 3830.0,
-   "c": -2.3,
-   "a50": 4025.1,
-   "a200": 2378.48,
+   "p": 3895.0,
+   "c": -0.64,
+   "a50": 4026.4,
+   "a200": 2378.8,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3662.0,
-   "r": 51.3
+   "a20": 3665.25,
+   "r": 52.9
   },
   {
    "s": "2327.TW",
-   "p": 532.0,
-   "c": -6.67,
-   "a50": 814.17,
-   "a200": 417.81,
+   "p": 540.0,
+   "c": -5.26,
+   "a50": 814.33,
+   "a200": 417.85,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 632.98,
-   "r": 35.6
+   "a20": 633.38,
+   "r": 36.2
   },
   {
    "s": "1802.TW",
-   "p": 52.8,
-   "c": -3.3,
-   "a50": 62.28,
+   "p": 53.5,
+   "c": -2.01,
+   "a50": 62.3,
    "a200": 51.59,
    "yh": 76.6,
    "yl": 23.3,
-   "a20": 53.52,
-   "r": 45.1
+   "a20": 53.56,
+   "r": 46.1
   },
   {
    "s": "6862.TW",
-   "p": 143.0,
-   "c": -0.69,
-   "a50": 176.56,
-   "a200": 177.84,
+   "p": 144.5,
+   "c": 0.35,
+   "a50": 176.59,
+   "a200": 177.85,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 145.3,
-   "r": 43.4
+   "a20": 145.38,
+   "r": 44.3
   },
   {
    "s": "3701.TW",
@@ -91,113 +91,113 @@
   },
   {
    "s": "4722.TW",
-   "p": 229.0,
-   "c": -0.43,
-   "a50": 245.91,
-   "a200": 198.96,
+   "p": 232.5,
+   "c": 1.09,
+   "a50": 245.98,
+   "a200": 198.98,
    "yh": 306.5,
    "yl": 70.2,
-   "a20": 214.6,
-   "r": 52.6
+   "a20": 214.78,
+   "r": 53.7
   },
   {
    "s": "6706.TW",
-   "p": 108.0,
-   "c": -3.57,
-   "a50": 143.39,
-   "a200": 125.12,
+   "p": 109.5,
+   "c": -2.23,
+   "a50": 143.42,
+   "a200": 125.13,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 110.12,
-   "r": 42.5
+   "a20": 110.2,
+   "r": 43.4
   },
   {
    "s": "2305.TW",
-   "p": 26.45,
-   "c": 0.0,
+   "p": 26.55,
+   "c": 0.38,
    "a50": 31.55,
    "a200": 18.1,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 31.85,
-   "r": 38.4
+   "a20": 31.86,
+   "r": 38.7
   },
   {
    "s": "6442.TW",
-   "p": 1305.0,
-   "c": -7.77,
-   "a50": 1605.6,
-   "a200": 1570.32,
+   "p": 1310.0,
+   "c": -7.42,
+   "a50": 1605.7,
+   "a200": 1570.34,
    "yh": 2370.0,
    "yl": 612.0,
-   "a20": 1299.0,
-   "r": 45.4
+   "a20": 1299.25,
+   "r": 45.6
   },
   {
    "s": "6515.TW",
-   "p": 6750.0,
-   "c": -0.37,
-   "a50": 7833.4,
-   "a200": 5879.68,
+   "p": 6770.0,
+   "c": -0.07,
+   "a50": 7833.8,
+   "a200": 5879.78,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6432.75,
-   "r": 47.9
+   "a20": 6433.75,
+   "r": 48.1
   },
   {
    "s": "6446.TW",
-   "p": 1250.0,
-   "c": -3.1,
-   "a50": 1091.06,
-   "a200": 682.04,
+   "p": 1260.0,
+   "c": -2.33,
+   "a50": 1091.26,
+   "a200": 682.09,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1188.5,
-   "r": 56.5
+   "a20": 1189.0,
+   "r": 57.3
   },
   {
    "s": "3324.TWO",
-   "p": 1000.0,
-   "c": -5.66,
-   "a50": 994.52,
-   "a200": 996.22,
+   "p": 1010.0,
+   "c": -4.72,
+   "a50": 994.72,
+   "a200": 996.26,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 916.4,
-   "r": 55.5
+   "a20": 916.9,
+   "r": 56.6
   },
   {
    "s": "3491.TWO",
-   "p": 1245.0,
-   "c": -7.78,
-   "a50": 1412.04,
-   "a200": 1169.1,
+   "p": 1255.0,
+   "c": -7.04,
+   "a50": 1412.24,
+   "a200": 1169.15,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1189.35,
-   "r": 50.2
+   "a20": 1189.85,
+   "r": 50.7
   },
   {
    "s": "3585.TWO",
-   "p": 48.2,
-   "c": -1.83,
+   "p": 48.3,
+   "c": -1.63,
    "a50": 63.78,
    "a200": 40.56,
    "yh": 165.0,
    "yl": 5.6,
-   "a20": 48.89,
-   "r": 42.6
+   "a20": 48.9,
+   "r": 42.8
   },
   {
    "s": "6223.TWO",
-   "p": 6130.0,
-   "c": -2.7,
-   "a50": 6157.0,
-   "a200": 3904.7,
+   "p": 6150.0,
+   "c": -2.38,
+   "a50": 6157.4,
+   "a200": 3904.8,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5827.5,
-   "r": 52.5
+   "a20": 5828.5,
+   "r": 52.8
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 43941.56,
-   "c": -1.03,
-   "a50": 44747.32,
-   "a200": 35447.42,
+   "p": 44273.1,
+   "c": -0.28,
+   "a50": 44753.95,
+   "a200": 35449.08,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43604.35,
-   "r": 50.5
+   "a20": 43620.93,
+   "r": 52.0
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.81,
-   "c": 1.6,
+   "p": 83.75,
+   "c": 1.53,
    "a50": 84.62,
    "a200": 81.15,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4325.0,
-   "c": 1.96,
-   "a50": 4168.96,
-   "a200": 4478.59,
+   "p": 4329.2,
+   "c": 2.06,
+   "a50": 4169.04,
+   "a200": 4478.61,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4083.98,
-   "r": 64.2
+   "a20": 4084.19,
+   "r": 64.4
   },
   {
    "s": "HG=F",
    "p": 6.74,
-   "c": 0.78,
+   "c": 0.76,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.74,
    "yl": 4.38,
    "a20": 6.42,
-   "r": 68.0
+   "r": 67.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.0310559,
-   "c": 0.21,
+   "p": 0.03104626,
+   "c": 0.16,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070093.aspx"
   },
   {
-   "t": "Bank of America spending $250M a year on GLP-1 weight loss drugs",
+   "t": "SpaceX's AI Cloud Business Is Taking Off, Says Deutsche Bank",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/bank-america-spending-250m-glp-172537109.html"
+   "u": "https://finance.yahoo.com/video/spacexs-ai-cloud-business-taking-172934753.html"
   },
   {
    "t": "台新、新光銀明年元旦合併　林維俊：業務發展更均衡",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070092.aspx"
   },
   {
-   "t": "A Meta Executive Just Gave AST SpaceMobile a Shoutout. What It Means for ASTS Stock.",
+   "t": "Stocks To Watch On Wall Street's Radar — Several In Or Near Buy Range",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/meta-executive-just-gave-ast-172527206.html"
+   "u": "https://www.investors.com/research/breakout-stocks-technical-analysis/stocks-to-watch-raymond-james-us-bancorp-tapestry-lead-breakout-index/?src=A00220&yptr=yahoo"
   },
   {
    "t": "AI晶片競賽白熱化　超微收購加拿大新創公司",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608070088.aspx"
   },
   {
-   "t": "'This was not an exceptional result': Why AMD stock tanked 5% after earnings",
+   "t": "The Trump Administration Just Gave Ciena Stock a Huge Boost. What to Know.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/this-was-not-an-exceptional-result-why-amd-stock-tanked-5-after-earnings-112124288.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/trump-administration-just-gave-ciena-173602340.html"
   },
   {
    "t": "新台幣午盤升2.7分　暫收32.234元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070085.aspx"
   },
   {
-   "t": "StubHub’s CEO Built a Hedge Fund to Scalp Tickets and Resell Them to His Own Platform – Lawmakers Declare ‘Buying Tickets Has Gotten Outrageously Expensive’",
+   "t": "Z Stock Layoffs: What to Know About the Latest Zillow Job Cuts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/stubhub-ceo-built-hedge-fund-172944480.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/z-stock-layoffs-know-latest-173558491.html"
   },
   {
    "t": "傳記憶體短缺影響交貨　專家：台積電可調整產線應對",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070077.aspx"
   },
   {
-   "t": "Investors Short Snowflake Inc. Puts Options In Huge Volume - For a 10% Yield Over 1.3 Years Out",
+   "t": "StubHub’s CEO Built a Hedge Fund to Scalp Tickets and Resell Them to His Own Platform – Lawmakers Declare ‘Buying Tickets Has Gotten Outrageously Expensive’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/investors-short-snowflake-inc-puts-173402902.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/stubhub-ceo-built-hedge-fund-172944480.html"
   },
   {
    "t": "台股急彈後拉回　盤中翻黑高低震盪逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070039.aspx"
   },
   {
-   "t": "The Trump Administration Just Gave Ciena Stock a Huge Boost. What to Know.",
+   "t": "3 Dividend Stocks Ready to Pay You – If You Buy Them This Week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/trump-administration-just-gave-ciena-173602340.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-ready-pay-173515116.html"
   }
  ],
  "inst": {
