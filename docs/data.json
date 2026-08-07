@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-08 04:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-08 04:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 14.89,
-   "c": -1.72,
+   "p": 14.87,
+   "c": -1.85,
    "a50": 17.27,
    "a200": 18.58,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.16,
-   "r": 41.9
+   "r": 41.8
   },
   {
    "s": "BZ=F",
-   "p": 82.04,
-   "c": -0.55,
+   "p": 82.08,
+   "c": -0.5,
    "a50": 84.58,
    "a200": 81.14,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.33,
-   "r": 45.8
+   "r": 45.9
   },
   {
    "s": "GC=F",
-   "p": 4403.5,
-   "c": 3.81,
-   "a50": 4170.53,
-   "a200": 4478.99,
+   "p": 4401.9,
+   "c": 3.77,
+   "a50": 4170.5,
+   "a200": 4478.98,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4087.9,
+   "a20": 4087.82,
    "r": 67.6
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": -1.44,
+   "c": -1.51,
    "a50": 6.34,
    "a200": 5.83,
    "yh": 6.7,
    "yl": 4.38,
    "a20": 6.41,
-   "r": 59.9
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070348.aspx"
   },
   {
-   "t": "Goodbye mansions, hello jail: Nevada woman stole $26 million from construction boss — then the IRS caught up with her",
+   "t": "CenterPoint Energy Stock Outlook: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/goodbye-mansions-hello-jail-nevada-100000078.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-stock-outlook-wall-102955691.html"
   },
   {
    "t": "今彩539第115191期　頭獎4注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070347.aspx"
   },
   {
-   "t": "Freefalling yen sparks rare US intervention as Scott Bessent vows 'whatever it takes.' Will Americans pay the price?",
+   "t": "What Are Wall Street Analysts' Target Price for Coca-Cola Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/freefalling-yen-sparks-rare-us-101000853.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-102956087.html"
   },
   {
    "t": "大樂透第115077期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070346.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Bullish on Tyson Foods Stock?",
+   "t": "Berkshire Hathaway (BRK-B) Buys Taylor Morrison as Blackstone (BX) Hedge Fund Interest Holds Steady",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-tyson-101315491.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/berkshire-hathaway-brk-b-buys-102906569.html"
   },
   {
    "t": "美7月非農就業人數意外減　標普與那指雙雙開高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070344.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for Southern Company Stock?",
+   "t": "Trump doubles down on Credit Card Competition Act as merchants paid $198 billion in swipe fees last year",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-101623353.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/trump-doubles-down-credit-card-103000683.html"
   },
   {
    "t": "父親節將至　壽險業：可依人生階段、特定疾病做補強",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070343.aspx"
   },
   {
-   "t": "Solventum plans software separation to become ‘true medtech company’",
+   "t": "Jamie Dimon personally contacts US CEOs as companies speed up AI adoption",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/solventum-plans-software-separation-become-100000590.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/jamie-dimon-personally-contacts-us-102807260.html"
   }
  ],
  "inst": {
