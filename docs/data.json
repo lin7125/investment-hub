@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07 16:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 22:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 312.41,
+   "p": 313.83,
    "c": 0.45,
-   "a50": 309.74,
-   "a200": 279.16,
+   "a50": 309.8,
+   "a200": 279.42,
    "yh": 340.08,
    "yl": 220.03,
-   "a20": 323.53,
-   "r": 46.9
+   "a20": 323.46,
+   "r": 48.0
   },
   {
    "s": "NVDA",
-   "p": 218.99,
-   "c": -0.1,
-   "a50": 205.85,
-   "a200": 193.77,
+   "p": 222.9,
+   "c": 1.78,
+   "a50": 206.05,
+   "a200": 193.97,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 206.17,
-   "r": 61.4
+   "a20": 206.76,
+   "r": 63.8
   },
   {
    "s": "TSLA",
-   "p": 319.53,
-   "c": -0.63,
-   "a50": 382.68,
-   "a200": 409.39,
+   "p": 327.46,
+   "c": 2.48,
+   "a50": 380.42,
+   "a200": 408.79,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 347.29,
-   "r": 36.9
+   "a20": 343.28,
+   "r": 40.9
   },
   {
    "s": "META",
-   "p": 589.9,
-   "c": 0.19,
-   "a50": 600.62,
-   "a200": 632.0,
+   "p": 592.55,
+   "c": 0.45,
+   "a50": 599.77,
+   "a200": 631.3,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 616.12,
-   "r": 47.0
+   "a20": 612.29,
+   "r": 47.8
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7709.96,
-   "c": -0.18,
-   "a50": 7489.49,
-   "a200": 7044.92,
-   "yh": 7736.52,
+   "p": 7751.04,
+   "c": 0.53,
+   "a50": 7494.11,
+   "a200": 7050.0,
+   "yh": 7751.04,
    "yl": 6340.0,
-   "a20": 7516.29,
-   "r": 64.0
+   "a20": 7525.08,
+   "r": 66.0
   },
   {
    "s": "^VIX",
-   "p": 15.25,
-   "c": 0.66,
+   "p": 14.94,
+   "c": -1.39,
    "a50": 17.28,
    "a200": 18.58,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.18,
-   "r": 43.1
+   "a20": 17.17,
+   "r": 42.0
   },
   {
    "s": "BZ=F",
-   "p": 83.04,
-   "c": 0.67,
-   "a50": 84.6,
+   "p": 82.62,
+   "c": 0.16,
+   "a50": 84.59,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.38,
-   "r": 47.1
+   "a20": 87.36,
+   "r": 46.5
   },
   {
    "s": "GC=F",
-   "p": 4353.7,
-   "c": 2.63,
-   "a50": 4169.53,
-   "a200": 4478.74,
+   "p": 4398.0,
+   "c": 3.68,
+   "a50": 4170.42,
+   "a200": 4478.96,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4085.41,
-   "r": 65.5
+   "a20": 4087.63,
+   "r": 67.4
   },
   {
    "s": "HG=F",
-   "p": 6.73,
-   "c": 0.64,
+   "p": 6.61,
+   "c": -1.2,
    "a50": 6.34,
    "a200": 5.83,
-   "yh": 6.73,
+   "yh": 6.7,
    "yl": 4.38,
-   "a20": 6.42,
-   "r": 67.7
+   "a20": 6.41,
+   "r": 60.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03097893,
-   "c": -0.06,
+   "p": 0.03103662,
+   "c": 0.13,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -332,76 +332,76 @@
  ],
  "news": [
   {
-   "t": "台塑四寶7月營收1519億元年增逾3成　南亞創4年新高",
+   "t": "中東戰事推升樹脂成本　日本扭蛋業靠中國庫存抵銷風險",
    "pub": "中央社財經",
    "d": "2026-08-07",
-   "u": "https://www.cna.com.tw/news/afe/202608070186.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608070322.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Scores Record As SpaceX Craters; SharkNinja Soars",
+   "t": "Tether Expands Tokenization To Saudi Arabia",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-amd-stock-spacex-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/tether-expands-tokenization-saudi-arabia-141300999.html"
   },
   {
-   "t": "戰鬥陀螺成網購詐騙誘餌　數產署揭假賣貨便手法",
+   "t": "AI助攻　宏碁7月營收269億元創13年同期新高",
    "pub": "中央社財經",
    "d": "2026-08-07",
-   "u": "https://www.cna.com.tw/news/ahel/202608070178.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608070321.aspx"
   },
   {
-   "t": "Harley-Davidson Director Nova Buys 40,000 Shares for $983,000. What Does This Say About HOG's Prospects in 2026?",
+   "t": "Palomar Holdings’ (PLMR) Premium Growth Overshadowed by Sector Caution",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/harley-davidson-director-nova-buys-204501429.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/palomar-holdings-plmr-premium-growth-140953714.html"
   },
   {
-   "t": "颱風白海豚逼近　台電動員7215人投入防颱準備",
+   "t": "大樂透第115077期開獎",
    "pub": "中央社財經",
    "d": "2026-08-07",
-   "u": "https://www.cna.com.tw/news/afe/202608070169.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608070320.aspx"
   },
   {
-   "t": "Fed's Cook ready to raise rates if inflation doesn't start easing",
+   "t": "IBD 50 Stock Natera Zips Into Profit-Taking Zone On Its Blowout Quarter",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/feds-cook-says-ready-raise-201114697.html"
+   "u": "https://www.investors.com/news/technology/natera-stock-natera-earnings-q2-2026/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "台韓出口首度超越日本  AI半導體需求成關鍵推手",
+   "t": "宏碁發現兆基內部管理缺失　辭任董事長撤出經營層",
    "pub": "中央社財經",
    "d": "2026-08-07",
-   "u": "https://www.cna.com.tw/news/aopl/202608070167.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608070318.aspx"
   },
   {
-   "t": "Stock Indices Fall from Early Highs and Settle Mixed",
+   "t": "U.S. Physical Therapy (USPH): Return Expectations Tempered Despite Solid Execution",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-indices-fall-early-highs-203428521.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/u-physical-therapy-usph-return-140557483.html"
   },
   {
-   "t": "四貸同堂風險受矚　銀行緊盯資金用途強化風控",
+   "t": "強化能源轉型廉政防護　光電資訊平台增3大公開資訊",
    "pub": "中央社財經",
    "d": "2026-08-07",
-   "u": "https://www.cna.com.tw/news/afe/202608070165.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608070317.aspx"
   },
   {
-   "t": "Stock market today: Dow posts record on hopes for Iran deal, S&P 500 and Nasdaq snap 4-day rally",
+   "t": "Conestoga Capital Advisors’ Bets on nCino’s (NCNO) Durable Expansion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-hormuz-093653327.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/conestoga-capital-advisors-bets-ncino-140324766.html"
   },
   {
-   "t": "王俊強：川湖是台股最純的AI股　看下半年需求續強",
+   "t": "今彩539第115191期開獎",
    "pub": "中央社財經",
    "d": "2026-08-07",
-   "u": "https://www.cna.com.tw/news/afe/202608070163.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608070316.aspx"
   },
   {
-   "t": "SpaceX Stock Dives. Analysts React To Earnings Beat, Shift Price Targets.",
+   "t": "Applied Optoelectronics Zooms 13% Higher on Pivotal Quarterly Print; Coherent Advances 13%, Lumentum Adds 8%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/spacex-stock-earnings-analyst-reactions-price-target-starlink-ai-expenditures-starship-q2-2026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-zooms-13-higher-141000468.html"
   }
  ],
  "inst": {
@@ -454,8 +454,8 @@
    },
    "2308": {
     "f": -1698,
-    "t": 243,
-    "all": -1612
+    "t": 55,
+    "all": -1800
    },
    "2305": {
     "f": -2443,
@@ -474,10 +474,10 @@
    },
    "2327": {
     "f": -9348,
-    "t": -1520,
-    "all": -10726
+    "t": -1516,
+    "all": -10722
    }
   },
-  "totalNetE": -442.4
+  "totalNetE": -428.9
  }
 }
