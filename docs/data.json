@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-07 12:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 12:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2370.0,
-   "c": 0.21,
-   "a50": 2379.9,
-   "a200": 1920.7,
+   "p": 2365.0,
+   "c": 0.0,
+   "a50": 2379.8,
+   "a200": 1920.68,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2361.75,
-   "r": 50.6
+   "a20": 2361.5,
+   "r": 50.2
   },
   {
    "s": "2317.TW",
@@ -36,25 +36,25 @@
   },
   {
    "s": "2454.TW",
-   "p": 3900.0,
-   "c": -0.51,
-   "a50": 4026.5,
-   "a200": 2378.82,
+   "p": 3895.0,
+   "c": -0.64,
+   "a50": 4026.4,
+   "a200": 2378.8,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3665.5,
-   "r": 53.1
+   "a20": 3665.25,
+   "r": 52.9
   },
   {
    "s": "2327.TW",
-   "p": 546.0,
-   "c": -4.21,
-   "a50": 814.45,
+   "p": 545.0,
+   "c": -4.39,
+   "a50": 814.43,
    "a200": 417.88,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 633.67,
-   "r": 36.6
+   "a20": 633.62,
+   "r": 36.5
   },
   {
    "s": "1802.TW",
@@ -91,14 +91,14 @@
   },
   {
    "s": "4722.TW",
-   "p": 230.0,
-   "c": 0.0,
-   "a50": 245.93,
-   "a200": 198.96,
+   "p": 231.5,
+   "c": 0.65,
+   "a50": 245.96,
+   "a200": 198.97,
    "yh": 306.5,
    "yl": 70.2,
-   "a20": 214.65,
-   "r": 52.9
+   "a20": 214.72,
+   "r": 53.4
   },
   {
    "s": "6706.TW",
@@ -113,36 +113,36 @@
   },
   {
    "s": "2305.TW",
-   "p": 26.65,
-   "c": 0.76,
-   "a50": 31.55,
+   "p": 26.75,
+   "c": 1.13,
+   "a50": 31.56,
    "a200": 18.1,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 31.86,
-   "r": 38.9
+   "a20": 31.87,
+   "r": 39.2
   },
   {
    "s": "6442.TW",
-   "p": 1365.0,
-   "c": -3.53,
-   "a50": 1606.8,
-   "a200": 1570.62,
+   "p": 1360.0,
+   "c": -3.89,
+   "a50": 1606.7,
+   "a200": 1570.59,
    "yh": 2370.0,
    "yl": 612.0,
-   "a20": 1302.0,
-   "r": 48.2
+   "a20": 1301.75,
+   "r": 47.9
   },
   {
    "s": "6515.TW",
-   "p": 6835.0,
-   "c": 0.89,
-   "a50": 7835.1,
-   "a200": 5880.1,
+   "p": 6830.0,
+   "c": 0.81,
+   "a50": 7835.0,
+   "a200": 5880.08,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6437.0,
-   "r": 48.9
+   "a20": 6436.75,
+   "r": 48.8
   },
   {
    "s": "6446.TW",
@@ -157,36 +157,36 @@
   },
   {
    "s": "3324.TWO",
-   "p": 1010.0,
-   "c": -4.72,
-   "a50": 994.72,
-   "a200": 996.26,
+   "p": 1015.0,
+   "c": -4.25,
+   "a50": 994.82,
+   "a200": 996.29,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 916.9,
-   "r": 56.6
+   "a20": 917.15,
+   "r": 57.2
   },
   {
    "s": "3491.TWO",
-   "p": 1295.0,
-   "c": -4.07,
-   "a50": 1413.04,
-   "a200": 1169.35,
+   "p": 1290.0,
+   "c": -4.44,
+   "a50": 1412.94,
+   "a200": 1169.32,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1191.85,
-   "r": 52.8
+   "a20": 1191.6,
+   "r": 52.5
   },
   {
    "s": "3585.TWO",
-   "p": 48.75,
-   "c": -0.71,
+   "p": 48.5,
+   "c": -1.22,
    "a50": 63.79,
    "a200": 40.56,
    "yh": 165.0,
    "yl": 5.6,
-   "a20": 48.92,
-   "r": 43.3
+   "a20": 48.91,
+   "r": 43.0
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44305.51,
-   "c": -0.21,
-   "a50": 44754.6,
-   "a200": 35449.24,
+   "p": 44249.77,
+   "c": -0.33,
+   "a50": 44753.49,
+   "a200": 35448.96,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43622.55,
-   "r": 52.1
+   "a20": 43619.76,
+   "r": 51.9
   },
   {
    "s": "^GSPC",
@@ -286,6 +286,17 @@
    "yl": 13.47,
    "a20": 17.17,
    "r": 42.7
+  },
+  {
+   "s": "BZ=F",
+   "p": 82.49,
+   "c": 3.83,
+   "a50": 84.83,
+   "a200": 81.04,
+   "yh": 118.35,
+   "yl": 58.92,
+   "a20": 87.02,
+   "r": 46.3
   },
   {
    "s": "GC=F",
@@ -312,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03104626,
-   "c": 0.16,
+   "c": 0.17,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -339,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070034.aspx"
   },
   {
-   "t": "Canada Goose Sells Baffin Footwear in Effort to ‘Focus’ Operations",
+   "t": "SpaceX Stock Plunged Today. Is It Finally Time to Buy?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/canada-goose-sells-baffin-footwear-155236087.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-plunged-today-finally-155631253.html"
   },
   {
    "t": "台積電走揚　台股開高漲逾430點突破44800點",
@@ -351,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070028.aspx"
   },
   {
-   "t": "Here's Exactly What Elon Musk Said About Nvidia on the SpaceX Earnings Call",
+   "t": "Why Uber Stock Is Sliding After Earnings Report, Robotaxi Update",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/heres-exactly-elon-musk-said-155618851.html"
+   "u": "https://www.investors.com/news/technology/uber-stock-q2-2026-earnings-robotaxi/?src=A00220&yptr=yahoo"
   },
   {
    "t": "新台幣開盤升2.1分　為32.24元",
@@ -363,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070027.aspx"
   },
   {
-   "t": "Why Uber Stock Is Sliding After Earnings Report, Robotaxi Update",
+   "t": "Anthropic CEO reportedly worried new hires only care about money — while hiring an event planner for 6x the going rate",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/uber-stock-q2-2026-earnings-robotaxi/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html"
   },
   {
    "t": "台股開盤漲53.49點",
@@ -375,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070026.aspx"
   },
   {
-   "t": "Dear Quantinuum Stock Fans, Mark Your Calendars for August 11",
+   "t": "Circle CEO Jeremy Allaire: 'Billions of agents' will soon flood the workforce",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-quantinuum-stock-fans-mark-160132641.html"
+   "u": "https://finance.yahoo.com/technology/article/circle-ceo-jeremy-allaire-billions-of-agents-will-soon-flood-the-workforce-160009916.html"
   },
   {
    "t": "台積電ADR小漲　投顧：台股短期急漲留意季線攻防",
@@ -387,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070020.aspx"
   },
   {
-   "t": "Anthropic CEO reportedly worried new hires only care about money — while hiring an event planner for 6x the going rate",
+   "t": "Dear Quantinuum Stock Fans, Mark Your Calendars for August 11",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-quantinuum-stock-fans-mark-160132641.html"
   }
  ],
  "inst": {
