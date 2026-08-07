@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-08 01:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-08 01:11（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 312.37,
-   "c": -0.01,
+   "p": 312.35,
+   "c": -0.02,
    "a50": 309.77,
    "a200": 279.41,
    "yh": 340.08,
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 222.05,
-   "c": 1.4,
+   "p": 222.18,
+   "c": 1.46,
    "a50": 206.04,
    "a200": 193.97,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 206.72,
-   "r": 63.3
+   "a20": 206.73,
+   "r": 63.4
   },
   {
    "s": "TSLA",
-   "p": 327.66,
-   "c": 2.54,
+   "p": 327.4,
+   "c": 2.46,
    "a50": 380.42,
    "a200": 408.79,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 343.29,
-   "r": 41.0
+   "a20": 343.27,
+   "r": 40.9
   },
   {
    "s": "META",
-   "p": 592.17,
-   "c": 0.38,
-   "a50": 599.76,
-   "a200": 631.3,
+   "p": 591.73,
+   "c": 0.31,
+   "a50": 599.75,
+   "a200": 631.29,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 612.27,
-   "r": 47.7
+   "a20": 612.25,
+   "r": 47.6
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7745.46,
-   "c": 0.46,
-   "a50": 7494.0,
+   "p": 7746.32,
+   "c": 0.47,
+   "a50": 7494.01,
    "a200": 7049.97,
-   "yh": 7745.46,
+   "yh": 7746.32,
    "yl": 6340.0,
-   "a20": 7524.8,
+   "a20": 7524.84,
    "r": 65.8
   },
   {
    "s": "^VIX",
-   "p": 14.96,
-   "c": -1.25,
+   "p": 14.97,
+   "c": -1.19,
    "a50": 17.28,
    "a200": 18.58,
    "yh": 31.05,
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.52,
-   "c": 1.25,
+   "p": 83.39,
+   "c": 1.09,
    "a50": 84.61,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.4,
-   "r": 47.7
+   "a20": 87.39,
+   "r": 47.5
   },
   {
    "s": "GC=F",
-   "p": 4394.0,
-   "c": 3.58,
-   "a50": 4170.34,
-   "a200": 4478.94,
+   "p": 4392.0,
+   "c": 3.54,
+   "a50": 4170.3,
+   "a200": 4478.93,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4087.43,
-   "r": 67.3
+   "a20": 4087.33,
+   "r": 67.2
   },
   {
    "s": "HG=F",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070348.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after July jobs report surprises to the downside",
+   "t": "Stock Market Today: Nasdaq Pops As July Jobs Miss Dampens Rates View; Gold Stocks Shine (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-july-jobs-report-surprises-100009572.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-jobs-report-cloudflare-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115191期　頭獎4注中獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070347.aspx"
   },
   {
-   "t": "DUST Drops 13% as Gold Miners Rally Hard",
+   "t": "Call options explained: From opening trade to expiration",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/dust-drops-13-gold-miners-165022461.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/call-options-165604768.html"
   },
   {
    "t": "大樂透第115077期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608070346.aspx"
   },
   {
-   "t": "The best CD rates for August 2026: Earn up to 4.25% APY",
+   "t": "Global Partners LP Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-201308688.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/global-partners-lp-q2-2026-165542342.html"
   },
   {
    "t": "美7月非農就業人數意外減　標普與那指雙雙開高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070344.aspx"
   },
   {
-   "t": "Gold's rally 'has support', with prices set to rise toward $5,000 next year, UBS says",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after July jobs report surprises to the downside",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/golds-rally-has-support-with-prices-set-to-rise-toward-5000-next-year-ubs-says-100000563.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-july-jobs-report-surprises-100009572.html"
   },
   {
    "t": "父親節將至　壽險業：可依人生階段、特定疾病做補強",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070343.aspx"
   },
   {
-   "t": "Microchip Technology Stock Jumps, Leads SOX Index Higher",
+   "t": "The best CD rates for August 2026: Earn up to 4.25% APY",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/mchp-stock-jumps-sox-philadelphia-semiconductor-index/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-201308688.html"
   },
   {
    "t": "研華7月營收逾112億創單月新高　樺漢164億登同期高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070338.aspx"
   },
   {
-   "t": "Stock Market Rally Powers Ahead; SpaceX, Palantir, Sandisk Are Key Earnings Movers: Weekly Review",
+   "t": "Gold's rally 'has support', with prices set to rise toward $5,000 next year, UBS says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/stock-market-rally-powers-ahead-spacex-palantir-sandisk-are-key-earnings-movers-weekly-review/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/golds-rally-has-support-with-prices-set-to-rise-toward-5000-next-year-ubs-says-100000563.html"
   }
  ],
  "inst": {
