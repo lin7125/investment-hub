@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07 15:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-07 16:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.28,
-   "c": 0.86,
+   "p": 15.3,
+   "c": 0.99,
    "a50": 17.28,
    "a200": 18.58,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.18,
-   "r": 43.2
+   "r": 43.3
   },
   {
    "s": "BZ=F",
-   "p": 83.22,
-   "c": 0.88,
+   "p": 83.3,
+   "c": 0.98,
    "a50": 84.61,
    "a200": 81.15,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.39,
-   "r": 47.3
+   "r": 47.4
   },
   {
    "s": "GC=F",
-   "p": 4343.3,
-   "c": 2.39,
-   "a50": 4169.33,
-   "a200": 4478.68,
+   "p": 4348.6,
+   "c": 2.51,
+   "a50": 4169.43,
+   "a200": 4478.71,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4084.89,
-   "r": 65.0
+   "a20": 4085.16,
+   "r": 65.3
   },
   {
    "s": "HG=F",
-   "p": 6.72,
-   "c": 0.52,
+   "p": 6.73,
+   "c": 0.64,
    "a50": 6.34,
    "a200": 5.83,
-   "yh": 6.72,
+   "yh": 6.73,
    "yl": 4.38,
    "a20": 6.42,
-   "r": 67.4
+   "r": 67.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03098853,
-   "c": -0.03,
+   "p": 0.03099814,
+   "c": 0.0,
    "a50": 0.0312989,
    "a200": 0.03164557,
    "yh": 0.0333,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070123.aspx"
   },
   {
-   "t": "3 Things Investors Must Watch in Duolingo's Second-Quarter Earnings",
+   "t": "Why Chemours Plunged on Wednesday",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/3-things-investors-must-watch-195200760.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-chemours-plunged-wednesday-203707170.html"
   },
   {
    "t": "高齡博覽會登場　經長：2年助開發279項高齡科技產品",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070107.aspx"
   },
   {
-   "t": "Amgen Hikes Sales Outlook By $1 Billion After Second-Quarter Smash",
+   "t": "Stock Indices Fall from Early Highs and Settle Mixed",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/amgen-stock-amgen-earnings-q2-2026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-indices-fall-early-highs-203428521.html"
   },
   {
    "t": "陳時中：高齡勞參率若升至25%　可增70萬勞動人口",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070100.aspx"
   },
   {
-   "t": "Mortgage retreat, still near one-year high",
+   "t": "Fed's Cook ready to raise rates if inflation doesn't start easing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/mortgage-retreat-still-near-one-200000580.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/feds-cook-says-ready-raise-201114697.html"
   },
   {
    "t": "楊泮池促健康投資發展長壽新經濟　應對超高齡國安危機",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070093.aspx"
   },
   {
-   "t": "SpaceX And Tesla Earnings Have A Similar Theme: Capex Spending",
+   "t": "SpaceX Stock Dives. Analysts React To Earnings Beat, Shift Price Targets.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/spacex-earnings-tesla-elon-musk-tech-space/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/spacex-stock-earnings-analyst-reactions-price-target-starlink-ai-expenditures-starship-q2-2026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台新、新光銀明年元旦合併　林維俊：業務發展更均衡",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608070092.aspx"
   },
   {
-   "t": "Blackrock’s Treasury Fund TLT Falls to 22-Year Low",
+   "t": "Stock Market Today: Dow Scores Record As SpaceX Craters; SharkNinja Soars",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/blackrock-treasury-fund-tlt-falls-200308804.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-amd-stock-spacex-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "AI晶片競賽白熱化　超微收購加拿大新創公司",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/aopl/202608070088.aspx"
   },
   {
-   "t": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes",
+   "t": "Piper Sandler Just Cut Its Price Target on SpaceX Stock. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/oil-steadies-two-day-slump-012604187.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-just-cut-price-201959282.html"
   }
  ],
  "inst": {
-  "date": "2026-08-03",
+  "date": "2026-08-07",
   "byCode": {
-   "2317": {
-    "f": 10136,
-    "t": 213,
-    "all": 9141
-   },
-   "2327": {
-    "f": 3675,
-    "t": -43,
-    "all": 3578
-   },
-   "2454": {
-    "f": 1146,
-    "t": 174,
-    "all": 1449
-   },
-   "6442": {
-    "f": 194,
-    "t": -5,
-    "all": 195
-   },
-   "6706": {
-    "f": 184,
-    "t": -34,
-    "all": 154
-   },
-   "6446": {
-    "f": 151,
-    "t": -1,
-    "all": 151
-   },
-   "3701": {
-    "f": 22,
-    "t": 0,
-    "all": 15
-   },
-   "6862": {
-    "f": -13,
-    "t": 0,
-    "all": -15
+   "2330": {
+    "f": 641,
+    "t": 61,
+    "all": 1945
    },
    "4722": {
-    "f": -127,
+    "f": 97,
     "t": 0,
-    "all": -102
+    "all": 72
+   },
+   "6862": {
+    "f": -6,
+    "t": 0,
+    "all": -9
    },
    "6515": {
-    "f": -108,
-    "t": -5,
-    "all": -113
+    "f": -15,
+    "t": -28,
+    "all": -40
    },
-   "2305": {
-    "f": -159,
-    "t": -1,
-    "all": -219
+   "6706": {
+    "f": -51,
+    "t": 0,
+    "all": -56
    },
-   "1802": {
-    "f": -311,
-    "t": 8,
-    "all": -1029
+   "2454": {
+    "f": 71,
+    "t": -128,
+    "all": -73
+   },
+   "6446": {
+    "f": -269,
+    "t": 11,
+    "all": -255
+   },
+   "6442": {
+    "f": -145,
+    "t": -115,
+    "all": -262
+   },
+   "3701": {
+    "f": -980,
+    "t": 0,
+    "all": -984
    },
    "2308": {
-    "f": -3342,
-    "t": -216,
-    "all": -3571
+    "f": -1698,
+    "t": 243,
+    "all": -1612
    },
-   "2330": {
-    "f": -9717,
-    "t": 387,
-    "all": -10917
+   "2305": {
+    "f": -2443,
+    "t": 0,
+    "all": -2433
+   },
+   "1802": {
+    "f": -2943,
+    "t": 0,
+    "all": -2719
+   },
+   "2317": {
+    "f": -5329,
+    "t": -800,
+    "all": -6755
+   },
+   "2327": {
+    "f": -9348,
+    "t": -1520,
+    "all": -10726
    }
   },
-  "totalNetE": -165.2
+  "totalNetE": -442.4
  }
 }
