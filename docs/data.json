@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10 22:45（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-10 22:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.76,
-   "c": -2.1,
+   "p": 306.81,
+   "c": -2.08,
    "a50": 309.67,
    "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.9,
+   "a20": 322.91,
    "r": 43.2
   },
   {
    "s": "NVDA",
-   "p": 220.54,
-   "c": -1.53,
-   "a50": 206.2,
-   "a200": 194.18,
+   "p": 219.93,
+   "c": -1.8,
+   "a50": 206.19,
+   "a200": 194.17,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.67,
-   "r": 60.9
+   "a20": 207.64,
+   "r": 60.3
   },
   {
    "s": "TSLA",
-   "p": 330.58,
-   "c": 0.61,
-   "a50": 378.21,
-   "a200": 408.24,
+   "p": 329.94,
+   "c": 0.41,
+   "a50": 378.2,
+   "a200": 408.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.12,
-   "r": 42.4
+   "a20": 340.09,
+   "r": 42.1
   },
   {
    "s": "META",
-   "p": 608.01,
-   "c": 2.69,
-   "a50": 599.21,
-   "a200": 630.67,
+   "p": 604.44,
+   "c": 2.08,
+   "a50": 599.14,
+   "a200": 630.65,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 609.83,
-   "r": 52.3
+   "a20": 609.65,
+   "r": 51.4
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7769.87,
-   "c": 0.16,
-   "a50": 7498.37,
-   "a200": 7055.2,
-   "yh": 7769.87,
+   "p": 7761.23,
+   "c": 0.05,
+   "a50": 7498.19,
+   "a200": 7055.16,
+   "yh": 7761.23,
    "yl": 6343.72,
-   "a20": 7538.13,
-   "r": 66.9
+   "a20": 7537.7,
+   "r": 66.5
   },
   {
    "s": "^VIX",
-   "p": 15.25,
-   "c": 2.35,
+   "p": 15.21,
+   "c": 2.08,
    "a50": 17.26,
    "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.07,
-   "r": 43.5
+   "r": 43.3
   },
   {
    "s": "BZ=F",
-   "p": 85.93,
-   "c": 2.85,
+   "p": 86.03,
+   "c": 2.97,
    "a50": 84.46,
    "a200": 81.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.53,
-   "r": 50.7
+   "a20": 87.54,
+   "r": 50.9
   },
   {
    "s": "GC=F",
-   "p": 4405.5,
-   "c": 1.49,
-   "a50": 4167.4,
-   "a200": 4480.26,
+   "p": 4408.9,
+   "c": 1.57,
+   "a50": 4167.47,
+   "a200": 4480.28,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4105.19,
-   "r": 67.9
+   "a20": 4105.36,
+   "r": 68.1
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": 0.81,
+   "p": 6.63,
+   "c": 0.86,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 60.9
+   "r": 61.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03101737,
-   "c": -0.12,
+   "p": 0.03100775,
+   "c": -0.13,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100305.aspx"
   },
   {
-   "t": "TSMC Sales Jump 45% On Strong AI Chip Demand But Investors Shrug",
+   "t": "23,000 Jobs LOST: Why Wall Street Actually Sees It as GOOD News",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/tsm-stock-tsmc-july-sales-sox-index/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/articles/23-000-jobs-lost-why-143000229.html"
   },
   {
    "t": "今彩539第115193期開獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608100304.aspx"
   },
   {
-   "t": "Ceva Tops Q2 Targets On Edge AI Tech Licensing",
+   "t": "TSMC Sales Jump 45% On Strong AI Chip Demand But Investors Shrug",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/ceva-stock-q2-2026-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/tsm-stock-tsmc-july-sales-sox-index/?src=A00220&yptr=yahoo"
   },
   {
    "t": "和泰車7月旺季營收創次高　8月銷售轉淡",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100302.aspx"
   },
   {
-   "t": "Why Figs Stock Keeps Going Up",
+   "t": "Ceva Tops Q2 Targets On Edge AI Tech Licensing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-figs-stock-keeps-going-142411666.html"
+   "u": "https://www.investors.com/news/technology/ceva-stock-q2-2026-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "巨大前7月營收年減7.4%　美利達減少13%",
