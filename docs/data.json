@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-08-10 12:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-10 12:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2385.0,
-   "c": 0.63,
-   "a50": 2380.5,
-   "a200": 1925.55,
+   "p": 2390.0,
+   "c": 0.84,
+   "a50": 2380.6,
+   "a200": 1925.58,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2359.0,
-   "r": 51.7
+   "a20": 2359.25,
+   "r": 52.0
   },
   {
    "s": "2317.TW",
-   "p": 264.0,
-   "c": 1.54,
-   "a50": 255.63,
+   "p": 264.5,
+   "c": 1.73,
+   "a50": 255.64,
    "a200": 234.7,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 247.55,
-   "r": 59.3
+   "a20": 247.58,
+   "r": 59.6
   },
   {
    "s": "2308.TW",
@@ -47,25 +47,25 @@
   },
   {
    "s": "2327.TW",
-   "p": 568.0,
-   "c": 5.19,
-   "a50": 810.93,
+   "p": 567.0,
+   "c": 5.0,
+   "a50": 810.91,
    "a200": 419.8,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 620.98,
-   "r": 39.7
+   "a20": 620.92,
+   "r": 39.6
   },
   {
    "s": "1802.TW",
-   "p": 54.5,
-   "c": 2.64,
+   "p": 54.4,
+   "c": 2.45,
    "a50": 61.94,
    "a200": 51.71,
    "yh": 76.6,
    "yl": 24.7,
    "a20": 53.05,
-   "r": 48.0
+   "r": 47.8
   },
   {
    "s": "6862.TW",
@@ -80,14 +80,14 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.4,
-   "c": -2.7,
+   "p": 41.3,
+   "c": -2.94,
    "a50": 44.47,
    "a200": 48.77,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.51,
-   "r": 50.5
+   "r": 50.2
   },
   {
    "s": "4722.TW",
@@ -124,47 +124,47 @@
   },
   {
    "s": "6442.TW",
-   "p": 1420.0,
-   "c": 7.17,
-   "a50": 1597.5,
-   "a200": 1573.09,
+   "p": 1415.0,
+   "c": 6.79,
+   "a50": 1597.4,
+   "a200": 1573.06,
    "yh": 2370.0,
    "yl": 648.0,
-   "a20": 1302.25,
-   "r": 51.2
+   "a20": 1302.0,
+   "r": 50.9
   },
   {
    "s": "6515.TW",
-   "p": 6795.0,
-   "c": 0.52,
-   "a50": 7796.2,
-   "a200": 5902.35,
+   "p": 6760.0,
+   "c": 0.0,
+   "a50": 7795.5,
+   "a200": 5902.18,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6404.25,
-   "r": 48.5
+   "a20": 6402.5,
+   "r": 48.0
   },
   {
    "s": "6446.TW",
-   "p": 1340.0,
-   "c": 8.06,
-   "a50": 1100.89,
-   "a200": 686.33,
+   "p": 1330.0,
+   "c": 7.26,
+   "a50": 1100.69,
+   "a200": 686.28,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1192.5,
-   "r": 61.6
+   "a20": 1192.0,
+   "r": 61.1
   },
   {
    "s": "3324.TWO",
-   "p": 1010.0,
-   "c": -0.49,
-   "a50": 993.72,
-   "a200": 996.82,
+   "p": 1015.0,
+   "c": 0.0,
+   "a50": 993.82,
+   "a200": 996.84,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 922.4,
-   "r": 56.6
+   "a20": 922.65,
+   "r": 57.2
   },
   {
    "s": "3491.TWO",
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 44982.7,
+   "p": 44983.85,
    "c": 1.71,
-   "a50": 44779.93,
-   "a200": 35537.25,
+   "a50": 44779.96,
+   "a200": 35537.26,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43598.68,
+   "a20": 43598.74,
    "r": 55.1
   },
   {
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.55,
-   "c": 1.29,
-   "a50": 84.61,
-   "a200": 81.15,
+   "p": 84.35,
+   "c": 0.96,
+   "a50": 84.43,
+   "a200": 81.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.4,
-   "r": 47.7
+   "a20": 87.45,
+   "r": 48.8
   },
   {
    "s": "GC=F",
-   "p": 4340.7,
-   "c": 2.33,
-   "a50": 4169.27,
-   "a200": 4478.67,
+   "p": 4385.4,
+   "c": 1.03,
+   "a50": 4167.0,
+   "a200": 4480.16,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4084.76,
-   "r": 64.9
+   "a20": 4104.18,
+   "r": 67.1
   },
   {
    "s": "HG=F",
-   "p": 6.57,
-   "c": -1.74,
+   "p": 6.59,
+   "c": 0.37,
    "a50": 6.34,
-   "a200": 5.83,
+   "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.41,
-   "r": 58.7
+   "a20": 6.43,
+   "r": 59.7
   },
   {
    "s": "TWDUSD",
    "p": 0.0310559,
-   "c": 0.02,
+   "c": 0.01,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100036.aspx"
   },
   {
-   "t": "Performance raises are back for 2027, but increases will be modest",
+   "t": "As the Market Crashed in 1987, Paul Tudor Jones Made $100 Million in a Single Day: ‘The Most Important Rule of Trading Is to Play Great Defense, Not Great Offense’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/performance-raises-are-back-for-2027-but-increases-will-be-modest-163535548.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/market-crashed-1987-paul-tudor-173002488.html"
   },
   {
    "t": "華德動能創新板上市　搶攻海外市場",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100029.aspx"
   },
   {
-   "t": "As the Market Crashed in 1987, Paul Tudor Jones Made $100 Million in a Single Day: ‘The Most Important Rule of Trading Is to Play Great Defense, Not Great Offense’",
+   "t": "Performance raises are back for 2027, but increases will be modest",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/market-crashed-1987-paul-tudor-173002488.html"
+   "u": "https://finance.yahoo.com/economy/article/performance-raises-are-back-for-2027-but-increases-will-be-modest-163535548.html"
   },
   {
    "t": "台股早盤漲逾600點站上季線　科技股強勢",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100027.aspx"
   },
   {
-   "t": "Alerian MLP ETF vs First Trust Energy Infrastructure Fund: Which Energy ETF is the Better Buy in 2026?",
+   "t": "I Don't Want a Bigger House Even Though I Can Afford One. My Family Doesn't Understand Why",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/alerian-mlp-etf-vs-first-165101730.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/dont-want-bigger-house-even-170023806.html"
   }
  ],
  "inst": {
