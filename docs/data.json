@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 02:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 02:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 306.62,
-   "c": -2.14,
+   "p": 306.97,
+   "c": -2.03,
    "a50": 309.67,
    "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.9,
-   "r": 43.1
+   "a20": 322.91,
+   "r": 43.3
   },
   {
    "s": "NVDA",
    "p": 218.71,
-   "c": -2.34,
+   "c": -2.35,
    "a50": 206.16,
    "a200": 194.17,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 328.86,
-   "c": 0.09,
-   "a50": 378.18,
+   "p": 328.76,
+   "c": 0.05,
+   "a50": 378.17,
    "a200": 408.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.04,
+   "a20": 340.03,
    "r": 41.5
   },
   {
    "s": "META",
-   "p": 593.86,
-   "c": 0.3,
-   "a50": 598.93,
+   "p": 594.56,
+   "c": 0.42,
+   "a50": 598.94,
    "a200": 630.6,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 609.12,
-   "r": 48.2
+   "a20": 609.16,
+   "r": 48.4
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7751.08,
-   "c": -0.08,
-   "a50": 7497.99,
-   "a200": 7055.11,
+   "p": 7753.38,
+   "c": -0.05,
+   "a50": 7498.04,
+   "a200": 7055.12,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7537.19,
-   "r": 65.7
+   "a20": 7537.31,
+   "r": 65.9
   },
   {
    "s": "^VIX",
-   "p": 15.4,
-   "c": 3.36,
+   "p": 15.41,
+   "c": 3.42,
    "a50": 17.27,
    "a200": 18.57,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.08,
-   "r": 44.1
+   "r": 44.2
   },
   {
    "s": "BZ=F",
-   "p": 87.78,
-   "c": 5.06,
+   "p": 87.74,
+   "c": 5.01,
    "a50": 84.49,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.63,
-   "r": 52.9
+   "a20": 87.62,
+   "r": 52.8
   },
   {
    "s": "GC=F",
-   "p": 4434.6,
-   "c": 2.16,
-   "a50": 4167.98,
-   "a200": 4480.41,
+   "p": 4441.5,
+   "c": 2.32,
+   "a50": 4168.12,
+   "a200": 4480.44,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4106.64,
-   "r": 69.1
+   "a20": 4106.99,
+   "r": 69.4
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": 0.75,
+   "p": 6.64,
+   "c": 0.99,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 60.7
+   "r": 61.3
   },
   {
    "s": "TWDUSD",
    "p": 0.03100775,
-   "c": -0.12,
+   "c": -0.13,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100331.aspx"
   },
   {
-   "t": "Rhode Is Fueling e.l.f.'s Latest Surge. Is It Time to Jump In?",
+   "t": "Teenagers are shooting out over 50 applications and getting ghosted even for volunteer jobs: ‘I’ll take anything at this point’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rhode-fueling-e-l-f-094000099.html"
+   "u": "https://finance.yahoo.com/small-business/articles/teenagers-shooting-over-50-applications-100000297.html"
   },
   {
    "t": "友達、群創7月電視面板出貨疲弱　營收月減逾1成",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100328.aspx"
   },
   {
-   "t": "Americans say they need $530,000 to take a mini retirement — financial planners say you can do it for far less",
+   "t": "340,000 U.S. homes were inherited in 2025 — but a mortgage lien can lead to foreclosure if heirs don't act fast",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/americans-530-000-mini-retirement-093000850.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/340-000-u-homes-were-100000962.html"
   },
   {
    "t": "今彩539第115193期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100324.aspx"
   },
   {
-   "t": "340,000 U.S. homes were inherited in 2025 — but a mortgage lien can lead to foreclosure if heirs don't act fast",
+   "t": "Americans say they need $530,000 to take a mini retirement — financial planners say you can do it for far less",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/340-000-u-homes-were-100000962.html"
+   "u": "https://finance.yahoo.com/markets/articles/americans-530-000-mini-retirement-093000850.html"
   },
   {
    "t": "立陶宛獲評A+展望穩定　經濟成長居同級國家前列",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100322.aspx"
   },
   {
-   "t": "Eli Lilly (LLY) Posts Blowout Growth And Raises Its Outlook",
+   "t": "Micron (MU) Secures Strategic Auto Deals and AI Momentum to Offset Cyclical Pressures",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-posts-blowout-085111847.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/micron-mu-secures-strategic-auto-101757418.html"
   },
   {
    "t": "韓國將啟動5兆韓元半導體基金　扶植具潛力企業",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100321.aspx"
   },
   {
-   "t": "What Happens to a Bond ETF's Price When the Fed Cuts Rates -- Using the Actual Historical Data",
+   "t": "Analyst Report: Sterling Infrastructure Inc",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/happens-bond-etfs-price-fed-093500748.html"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_6630_AnalystReport_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
