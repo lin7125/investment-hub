@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 01:29（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 01:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.44,
-   "c": -2.2,
-   "a50": 309.66,
+   "p": 306.58,
+   "c": -2.15,
+   "a50": 309.67,
    "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 322.89,
-   "r": 43.0
+   "r": 43.1
   },
   {
    "s": "NVDA",
-   "p": 218.53,
-   "c": -2.42,
+   "p": 218.31,
+   "c": -2.52,
    "a50": 206.16,
-   "a200": 194.17,
+   "a200": 194.16,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.57,
-   "r": 58.9
+   "a20": 207.56,
+   "r": 58.8
   },
   {
    "s": "TSLA",
-   "p": 329.1,
-   "c": 0.16,
-   "a50": 378.18,
+   "p": 328.69,
+   "c": 0.03,
+   "a50": 378.17,
    "a200": 408.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.05,
-   "r": 41.7
+   "a20": 340.03,
+   "r": 41.5
   },
   {
    "s": "META",
-   "p": 594.62,
-   "c": 0.43,
+   "p": 594.27,
+   "c": 0.37,
    "a50": 598.94,
    "a200": 630.6,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 609.16,
-   "r": 48.5
+   "a20": 609.14,
+   "r": 48.4
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7753.98,
-   "c": -0.05,
-   "a50": 7498.05,
-   "a200": 7055.12,
+   "p": 7752.18,
+   "c": -0.07,
+   "a50": 7498.01,
+   "a200": 7055.11,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7537.34,
-   "r": 66.0
+   "a20": 7537.25,
+   "r": 65.8
   },
   {
    "s": "^VIX",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.11,
-   "c": 4.26,
+   "p": 87.14,
+   "c": 4.3,
    "a50": 84.48,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.59,
-   "r": 52.1
+   "r": 52.2
   },
   {
    "s": "GC=F",
-   "p": 4416.5,
-   "c": 1.75,
-   "a50": 4167.62,
-   "a200": 4480.32,
+   "p": 4420.3,
+   "c": 1.83,
+   "a50": 4167.69,
+   "a200": 4480.33,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4105.74,
-   "r": 68.4
+   "a20": 4105.93,
+   "r": 68.5
   },
   {
    "s": "HG=F",
-   "p": 6.61,
-   "c": 0.65,
+   "p": 6.62,
+   "c": 0.72,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 60.5
+   "r": 60.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03100775,
-   "c": -0.13,
+   "c": -0.12,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100331.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock sinks",
+   "t": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-slip-as-oil-prices-climb-nvidia-stock-sinks-104358890.html"
+   "u": "https://finance.yahoo.com/economy/policy/article/cleveland-feds-hammack-it-will-take-more-than-one-interest-rate-hike-to-bring-down-inflation-173530729.html"
   },
   {
    "t": "友達、群創7月電視面板出貨疲弱　營收月減逾1成",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100328.aspx"
   },
   {
-   "t": "Wendy's has a massive problem: It's closing restaurants left and right",
+   "t": "Corporate earnings soared in Q2, with AI as the 'growth engine': Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/wendys-has-a-massive-problem-its-closing-restaurants-left-and-right-171131528.html"
+   "u": "https://finance.yahoo.com/markets/article/corporate-earnings-soared-in-q2-with-ai-as-the-growth-engine-chart-of-the-day-173507179.html"
   },
   {
    "t": "今彩539第115193期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608100325.aspx"
   },
   {
-   "t": "Freddy’s Signs 3-Unit Deal in Eastern Wyoming",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock sinks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/freddy-signs-3-unit-deal-171037129.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-slip-as-oil-prices-climb-nvidia-stock-sinks-104358890.html"
   },
   {
    "t": "威力彩第115064期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100324.aspx"
   },
   {
-   "t": "Jim Cramer Examines Akamai Technologies’ (AKAM) Cloud Pivot and Robotics Win",
+   "t": "Berkshire Hathaway Beats Earnings Views, Ends 14 Quarters Of Selling Equities",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-examines-akamai-technologies-170741404.html"
+   "u": "https://www.investors.com/news/berkshire-hathaway-earnings-buybacks-cash-hoard-warren-buffett/?src=A00220&yptr=yahoo"
   },
   {
    "t": "立陶宛獲評A+展望穩定　經濟成長居同級國家前列",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100322.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Dips, Apple Skids On iPhone Fear; This AI Play Clears Entry (Live Coverage)",
+   "t": "SpaceX's First Lockup Expired Last Week. Why Didn't the Stock Crash?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacexs-first-lockup-expired-last-172518274.html"
   },
   {
    "t": "韓國將啟動5兆韓元半導體基金　扶植具潛力企業",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100321.aspx"
   },
   {
-   "t": "AbbVie’s (ABBV) Botox Just Got A Step Closer To A Fifth Use",
+   "t": "Does renters insurance cover fire?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/abbvie-abbv-botox-just-got-165940206.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/does-renters-insurance-cover-fire-172417697.html"
   }
  ],
  "inst": {
