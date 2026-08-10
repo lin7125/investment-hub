@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 01:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 01:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.47,
-   "c": -2.19,
+   "p": 306.36,
+   "c": -2.22,
    "a50": 309.66,
    "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.89,
-   "r": 43.0
+   "a20": 322.88,
+   "r": 42.9
   },
   {
    "s": "NVDA",
-   "p": 217.95,
-   "c": -2.68,
-   "a50": 206.15,
-   "a200": 194.16,
+   "p": 218.51,
+   "c": -2.43,
+   "a50": 206.16,
+   "a200": 194.17,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.54,
-   "r": 58.4
+   "a20": 207.57,
+   "r": 58.9
   },
   {
    "s": "TSLA",
-   "p": 329.3,
-   "c": 0.22,
-   "a50": 378.19,
+   "p": 329.04,
+   "c": 0.14,
+   "a50": 378.18,
    "a200": 408.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.06,
-   "r": 41.8
+   "a20": 340.05,
+   "r": 41.6
   },
   {
    "s": "META",
-   "p": 593.48,
-   "c": 0.23,
+   "p": 593.28,
+   "c": 0.2,
    "a50": 598.92,
    "a200": 630.6,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 609.1,
-   "r": 48.1
+   "a20": 609.09,
+   "r": 48.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7752.5,
-   "c": -0.07,
+   "p": 7752.62,
+   "c": -0.06,
    "a50": 7498.02,
    "a200": 7055.12,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7537.26,
+   "a20": 7537.27,
    "r": 65.8
   },
   {
    "s": "^VIX",
-   "p": 15.32,
-   "c": 2.82,
+   "p": 15.3,
+   "c": 2.68,
    "a50": 17.27,
-   "a200": 18.57,
+   "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.07,
-   "r": 43.8
+   "r": 43.7
   },
   {
    "s": "BZ=F",
-   "p": 87.07,
-   "c": 4.21,
+   "p": 87.21,
+   "c": 4.38,
    "a50": 84.48,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.59,
-   "r": 52.1
+   "a20": 87.6,
+   "r": 52.2
   },
   {
    "s": "GC=F",
-   "p": 4414.8,
-   "c": 1.71,
-   "a50": 4167.58,
+   "p": 4416.0,
+   "c": 1.73,
+   "a50": 4167.61,
    "a200": 4480.31,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4105.65,
-   "r": 68.3
+   "a20": 4105.71,
+   "r": 68.4
   },
   {
    "s": "HG=F",
    "p": 6.62,
-   "c": 0.68,
+   "c": 0.74,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 60.6
+   "r": 60.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03101737,
-   "c": -0.11,
+   "c": -0.12,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100328.aspx"
   },
   {
-   "t": "CFO4Life's Leaders Accuse Focus Financial of 'Bullying' Tactics",
+   "t": "Embraer Flies On Booming Earnings And Backlog, Outpacing Boeing, Airbus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cfo4lifes-leaders-accuse-focus-financial-165049839.html"
+   "u": "https://www.investors.com/news/embraer-earnings-boeing-airbus-aerospace-jet-planes/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115193期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608100325.aspx"
   },
   {
-   "t": "Embraer Flies On Booming Earnings And Backlog, Outpacing Boeing, Airbus",
+   "t": "Here's how SpaceX hits this $100 billion number in under 5 months",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/embraer-earnings-boeing-airbus-aerospace-jet-planes/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/heres-how-spacex-hits-this-100-billion-number-in-under-5-months-163945554.html"
   },
   {
    "t": "威力彩第115064期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100324.aspx"
   },
   {
-   "t": "Here's how SpaceX hits this $100 billion number in under 5 months",
+   "t": "The ONE Group: A Restaurant Stock With Rising Traffic, Expanding Margins – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/heres-how-spacex-hits-this-100-billion-number-in-under-5-months-163945554.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/one-group-restaurant-stock-rising-163726049.html"
   },
   {
    "t": "立陶宛獲評A+展望穩定　經濟成長居同級國家前列",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100322.aspx"
   },
   {
-   "t": "The ONE Group: A Restaurant Stock With Rising Traffic, Expanding Margins – Quarterly Update Report",
+   "t": "Tech stocks still have plenty of believers on Wall Street, inflow data shows",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/one-group-restaurant-stock-rising-163726049.html"
+   "u": "https://finance.yahoo.com/technology/article/tech-stocks-still-have-plenty-of-believers-on-wall-street-inflow-data-shows-163544665.html"
   },
   {
    "t": "韓國將啟動5兆韓元半導體基金　扶植具潛力企業",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100321.aspx"
   },
   {
-   "t": "Tech stocks still have plenty of believers on Wall Street, inflow data shows",
+   "t": "Wall Street giants to partner with Nvidia on $500 billion AI financing deal, FT reports",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/tech-stocks-still-have-plenty-of-believers-on-wall-street-inflow-data-shows-163544665.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/wall-street-giants-partner-nvidia-163441421.html"
   }
  ],
  "inst": {
