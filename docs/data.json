@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 01:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 02:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.25,
-   "c": -2.26,
-   "a50": 309.66,
+   "p": 306.95,
+   "c": -2.04,
+   "a50": 309.67,
    "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.88,
-   "r": 42.9
+   "a20": 322.91,
+   "r": 43.3
   },
   {
    "s": "NVDA",
-   "p": 218.09,
-   "c": -2.62,
-   "a50": 206.15,
+   "p": 218.41,
+   "c": -2.48,
+   "a50": 206.16,
    "a200": 194.16,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.55,
-   "r": 58.5
+   "a20": 207.56,
+   "r": 58.8
   },
   {
    "s": "TSLA",
-   "p": 328.88,
-   "c": 0.09,
+   "p": 329.21,
+   "c": 0.19,
    "a50": 378.18,
    "a200": 408.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.04,
-   "r": 41.6
+   "a20": 340.06,
+   "r": 41.7
   },
   {
    "s": "META",
-   "p": 593.16,
-   "c": 0.18,
-   "a50": 598.91,
-   "a200": 630.59,
+   "p": 593.34,
+   "c": 0.21,
+   "a50": 598.92,
+   "a200": 630.6,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 609.09,
-   "r": 48.0
+   "a20": 609.1,
+   "r": 48.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7748.49,
-   "c": -0.12,
-   "a50": 7497.94,
+   "p": 7750.22,
+   "c": -0.1,
+   "a50": 7497.97,
    "a200": 7055.1,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7537.06,
-   "r": 65.4
+   "a20": 7537.15,
+   "r": 65.6
   },
   {
    "s": "^VIX",
-   "p": 15.26,
-   "c": 2.42,
-   "a50": 17.26,
+   "p": 15.3,
+   "c": 2.68,
+   "a50": 17.27,
    "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.07,
-   "r": 43.5
+   "r": 43.7
   },
   {
    "s": "BZ=F",
-   "p": 87.36,
-   "c": 4.56,
+   "p": 87.52,
+   "c": 4.75,
    "a50": 84.49,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.6,
-   "r": 52.4
+   "a20": 87.61,
+   "r": 52.6
   },
   {
    "s": "GC=F",
-   "p": 4422.8,
-   "c": 1.89,
-   "a50": 4167.74,
-   "a200": 4480.35,
+   "p": 4418.8,
+   "c": 1.8,
+   "a50": 4167.66,
+   "a200": 4480.33,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4106.05,
-   "r": 68.6
+   "a20": 4105.85,
+   "r": 68.5
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": 0.73,
+   "p": 6.61,
+   "c": 0.65,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 60.7
+   "r": 60.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03100775,
-   "c": -0.13,
+   "c": -0.12,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100331.aspx"
   },
   {
-   "t": "SpaceX stock rebounds to $135 IPO price after post-debut slump",
+   "t": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-rebounds-135-ipo-174111080.html"
+   "u": "https://finance.yahoo.com/economy/policy/article/cleveland-feds-hammack-it-will-take-more-than-one-interest-rate-hike-to-bring-down-inflation-173530729.html"
   },
   {
    "t": "友達、群創7月電視面板出貨疲弱　營收月減逾1成",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100328.aspx"
   },
   {
-   "t": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation",
+   "t": "Corporate earnings soared in Q2, with AI as the 'growth engine': Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/article/cleveland-feds-hammack-it-will-take-more-than-one-interest-rate-hike-to-bring-down-inflation-173530729.html"
+   "u": "https://finance.yahoo.com/markets/article/corporate-earnings-soared-in-q2-with-ai-as-the-growth-engine-chart-of-the-day-173507179.html"
   },
   {
    "t": "今彩539第115193期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608100325.aspx"
   },
   {
-   "t": "Corporate earnings soared in Q2, with AI as the 'growth engine': Chart of the Day",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock sinks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/corporate-earnings-soared-in-q2-with-ai-as-the-growth-engine-chart-of-the-day-173507179.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-slip-as-oil-prices-climb-nvidia-stock-sinks-104358890.html"
   },
   {
    "t": "威力彩第115064期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100324.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock sinks",
+   "t": "Tracing Jim Cramer’s Evolving View on Axon Enterprise (AXON)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-slip-as-oil-prices-climb-nvidia-stock-sinks-104358890.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tracing-jim-cramer-evolving-view-173154124.html"
   },
   {
    "t": "立陶宛獲評A+展望穩定　經濟成長居同級國家前列",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100322.aspx"
   },
   {
-   "t": "Tracing Jim Cramer’s Evolving View on Axon Enterprise (AXON)",
+   "t": "The 1 Medicare Move You Can't Afford to Delay",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tracing-jim-cramer-evolving-view-173154124.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/1-medicare-move-cant-afford-175000668.html"
   },
   {
    "t": "韓國將啟動5兆韓元半導體基金　扶植具潛力企業",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100321.aspx"
   },
   {
-   "t": "Bristol Myers Squibb to build $2.3 billion Houston campus",
+   "t": "Berkshire Hathaway Beats Earnings Views, Ends 14 Quarters Of Selling Equities",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/bristol-myers-squibb-build-2-173717352.html"
+   "u": "https://www.investors.com/news/berkshire-hathaway-earnings-buybacks-cash-hoard-warren-buffett/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
