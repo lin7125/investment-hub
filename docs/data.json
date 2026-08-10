@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10 13:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-10 13:57（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -80,14 +80,14 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.25,
-   "c": -3.06,
+   "p": 41.15,
+   "c": -3.29,
    "a50": 44.47,
    "a200": 48.77,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.5,
-   "r": 50.1
+   "r": 49.9
   },
   {
    "s": "4722.TW",
@@ -135,25 +135,25 @@
   },
   {
    "s": "6515.TW",
-   "p": 6800.0,
-   "c": 0.59,
-   "a50": 7796.3,
-   "a200": 5902.38,
+   "p": 6830.0,
+   "c": 1.04,
+   "a50": 7796.9,
+   "a200": 5902.52,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6404.5,
-   "r": 48.5
+   "a20": 6406.0,
+   "r": 48.9
   },
   {
    "s": "6446.TW",
-   "p": 1340.0,
-   "c": 8.06,
-   "a50": 1100.89,
-   "a200": 686.33,
+   "p": 1330.0,
+   "c": 7.26,
+   "a50": 1100.69,
+   "a200": 686.28,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1192.5,
-   "r": 61.6
+   "a20": 1192.0,
+   "r": 61.1
   },
   {
    "s": "3324.TWO",
@@ -168,25 +168,25 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1240.0,
-   "c": 0.4,
-   "a50": 1392.64,
-   "a200": 1172.99,
+   "p": 1235.0,
+   "c": 0.0,
+   "a50": 1392.54,
+   "a200": 1172.96,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1187.85,
-   "r": 50.0
+   "a20": 1187.6,
+   "r": 49.7
   },
   {
    "s": "3585.TWO",
-   "p": 54.2,
-   "c": 12.68,
-   "a50": 63.27,
+   "p": 53.8,
+   "c": 11.85,
+   "a50": 63.26,
    "a200": 40.75,
    "yh": 165.0,
    "yl": 5.63,
-   "a20": 48.56,
-   "r": 50.9
+   "a20": 48.54,
+   "r": 50.4
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45013.18,
-   "c": 1.78,
-   "a50": 44780.54,
-   "a200": 35537.4,
+   "p": 44928.76,
+   "c": 1.59,
+   "a50": 44778.86,
+   "a200": 35536.98,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43600.2,
-   "r": 55.2
+   "a20": 43595.98,
+   "r": 54.9
   },
   {
    "s": "^GSPC",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.97,
-   "c": 0.5,
+   "p": 83.89,
+   "c": 0.41,
    "a50": 84.42,
    "a200": 81.26,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.44,
-   "r": 48.3
+   "a20": 87.43,
+   "r": 48.2
   },
   {
    "s": "GC=F",
-   "p": 4402.7,
-   "c": 1.43,
-   "a50": 4167.34,
-   "a200": 4480.25,
+   "p": 4402.3,
+   "c": 1.42,
+   "a50": 4167.33,
+   "a200": 4480.24,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4105.05,
+   "a20": 4105.03,
    "r": 67.8
   },
   {
    "s": "HG=F",
-   "p": 6.63,
-   "c": 0.96,
+   "p": 6.64,
+   "c": 1.02,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 61.3
+   "r": 61.4
   },
   {
    "s": "TWDUSD",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "宏碁接掌兆基2天即撤出　王貴增接代理總經理",
+   "t": "台股收盤漲702.85點　45000點得而復失",
    "pub": "中央社財經",
    "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/afe/202608100071.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608100113.aspx"
   },
   {
    "t": "BofA points to the Eli Lilly market that could outsize the U.S.",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/healthcare/articles/bofa-points-eli-lilly-market-183300957.html"
   },
   {
-   "t": "日本企業高層籲穩定匯率　日圓疲弱加劇進口成本壓力",
+   "t": "台積電7月營收衝至4675.8億　創歷史新高",
    "pub": "中央社財經",
    "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/aopl/202608100069.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608100112.aspx"
   },
   {
    "t": "LegalZoom (LZ) Integrates Microsoft Copilot Amid Growth Shifts",
@@ -356,34 +356,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/legalzoom-lz-integrates-microsoft-copilot-183004346.html"
   },
   {
-   "t": "科技股領軍台股大漲近千點　站上45000點大關",
+   "t": "焦佑衡：漲價反映成本　被動元件能見度不錯",
    "pub": "中央社財經",
    "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/afe/202608100042.aspx"
-  },
-  {
-   "t": "Why Warren Buffett Called This Investment His ‘Most Gruesome’ Mistake — ‘Deserves a Spot in the Guinness Book’",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-warren-buffett-called-investment-180002956.html"
-  },
-  {
-   "t": "電價10月凍漲？經長：照顧民生穩定物價為政策方向",
-   "pub": "中央社財經",
-   "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/afe/202608100036.aspx"
-  },
-  {
-   "t": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/airlines-scramble-jet-fuel-hormuz-190000182.html"
-  },
-  {
-   "t": "華德動能創新板上市　搶攻海外市場",
-   "pub": "中央社財經",
-   "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/afe/202608100029.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608100104.aspx"
   },
   {
    "t": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
@@ -392,16 +368,40 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/tenable-tenb-widens-ai-security-185944892.html"
   },
   {
-   "t": "台股早盤漲逾600點站上季線　科技股強勢",
+   "t": "台灣大推社交工程演練平台　首季資安營收年增近4倍",
    "pub": "中央社財經",
    "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/afe/202608100027.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608100097.aspx"
   },
   {
-   "t": "Why SpaceX Stock Just Gained 15.8%",
+   "t": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-spacex-stock-just-gained-182033929.html"
+   "u": "https://finance.yahoo.com/energy/articles/airlines-scramble-jet-fuel-hormuz-190000182.html"
+  },
+  {
+   "t": "六角、聯發國際跨出手搖飲圈　邁向全球餐飲平台",
+   "pub": "中央社財經",
+   "d": "2026-08-10",
+   "u": "https://www.cna.com.tw/news/afe/202608100094.aspx"
+  },
+  {
+   "t": "Why Warren Buffett Called This Investment His ‘Most Gruesome’ Mistake — ‘Deserves a Spot in the Guinness Book’",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-warren-buffett-called-investment-180002956.html"
+  },
+  {
+   "t": "三菱紐西蘭新純電車第4季上市　由裕隆三義廠製造",
+   "pub": "中央社財經",
+   "d": "2026-08-10",
+   "u": "https://www.cna.com.tw/news/afe/202608100091.aspx"
+  },
+  {
+   "t": "Stanley Druckenmiller's Portfolio Skips Megacap Tech Almost Entirely. Here's What He's Buying Instead.",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmillers-portfolio-skips-megacap-183500513.html"
   }
  ],
  "inst": {
