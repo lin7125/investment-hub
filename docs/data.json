@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 03:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 03:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 307.62,
-   "c": -1.82,
-   "a50": 309.69,
-   "a200": 279.64,
+   "p": 307.05,
+   "c": -2.01,
+   "a50": 309.68,
+   "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.95,
-   "r": 43.7
+   "a20": 322.92,
+   "r": 43.3
   },
   {
    "s": "NVDA",
-   "p": 219.11,
-   "c": -2.17,
+   "p": 218.98,
+   "c": -2.22,
    "a50": 206.17,
    "a200": 194.17,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.6,
-   "r": 59.5
+   "a20": 207.59,
+   "r": 59.4
   },
   {
    "s": "TSLA",
-   "p": 329.05,
-   "c": 0.14,
-   "a50": 378.18,
+   "p": 329.74,
+   "c": 0.35,
+   "a50": 378.19,
    "a200": 408.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.05,
-   "r": 41.6
+   "a20": 340.08,
+   "r": 42.0
   },
   {
    "s": "META",
-   "p": 593.05,
-   "c": 0.16,
+   "p": 592.97,
+   "c": 0.15,
    "a50": 598.91,
    "a200": 630.59,
    "yh": 790.0,
    "yl": 525.72,
    "a20": 609.08,
-   "r": 48.0
+   "r": 47.9
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7756.21,
-   "c": -0.02,
-   "a50": 7498.09,
-   "a200": 7055.13,
+   "p": 7751.04,
+   "c": -0.09,
+   "a50": 7497.99,
+   "a200": 7055.11,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7537.45,
-   "r": 66.2
+   "a20": 7537.19,
+   "r": 65.7
   },
   {
    "s": "^VIX",
-   "p": 15.33,
-   "c": 2.89,
+   "p": 15.35,
+   "c": 3.02,
    "a50": 17.27,
    "a200": 18.57,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.07,
-   "r": 43.8
+   "r": 43.9
   },
   {
    "s": "BZ=F",
-   "p": 87.26,
-   "c": 4.44,
-   "a50": 84.48,
+   "p": 87.4,
+   "c": 4.61,
+   "a50": 84.49,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.6,
-   "r": 52.3
+   "a20": 87.61,
+   "r": 52.4
   },
   {
    "s": "GC=F",
-   "p": 4441.5,
-   "c": 2.32,
-   "a50": 4168.12,
-   "a200": 4480.44,
+   "p": 4445.7,
+   "c": 2.42,
+   "a50": 4168.2,
+   "a200": 4480.46,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4106.99,
-   "r": 69.4
+   "a20": 4107.2,
+   "r": 69.5
   },
   {
    "s": "HG=F",
-   "p": 6.63,
-   "c": 0.94,
+   "p": 6.64,
+   "c": 0.98,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03100775,
-   "c": -0.13,
+   "c": -0.14,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100331.aspx"
   },
   {
-   "t": "Here's the 1 Crypto I'd Buy If I Could Pick Only One",
+   "t": "How Much Do You Need Invested by 50 to Retire on Dividends at 60?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/heres-1-crypto-id-buy-101200952.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/much-invested-50-retire-dividends-103126428.html"
   },
   {
    "t": "友達、群創7月電視面板出貨疲弱　營收月減逾1成",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100328.aspx"
   },
   {
-   "t": "Micron (MU) Secures Strategic Auto Deals and AI Momentum to Offset Cyclical Pressures",
+   "t": "AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/micron-mu-secures-strategic-auto-101757418.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-inference-chip-102614063.html"
   },
   {
    "t": "今彩539第115193期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100324.aspx"
   },
   {
-   "t": "340,000 U.S. homes were inherited in 2025 — but a mortgage lien can lead to foreclosure if heirs don't act fast",
+   "t": "Micron (MU) Secures Strategic Auto Deals and AI Momentum to Offset Cyclical Pressures",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/340-000-u-homes-were-100000962.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/micron-mu-secures-strategic-auto-101757418.html"
   },
   {
    "t": "立陶宛獲評A+展望穩定　經濟成長居同級國家前列",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100322.aspx"
   },
   {
-   "t": "AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge",
+   "t": "340,000 U.S. homes were inherited in 2025 — but a mortgage lien can lead to foreclosure if heirs don't act fast",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-inference-chip-102614063.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/340-000-u-homes-were-100000962.html"
   },
   {
    "t": "韓國將啟動5兆韓元半導體基金　扶植具潛力企業",
