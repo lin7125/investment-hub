@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10 16:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-10 22:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 313.33,
-   "c": 0.29,
-   "a50": 309.79,
-   "a200": 279.41,
+   "p": 306.91,
+   "c": -2.05,
+   "a50": 309.67,
+   "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 323.43,
-   "r": 47.6
+   "a20": 322.91,
+   "r": 43.3
   },
   {
    "s": "NVDA",
-   "p": 223.96,
-   "c": 2.27,
-   "a50": 206.07,
-   "a200": 193.98,
+   "p": 220.4,
+   "c": -1.59,
+   "a50": 206.2,
+   "a200": 194.17,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 206.82,
-   "r": 64.4
+   "a20": 207.66,
+   "r": 60.7
   },
   {
    "s": "TSLA",
-   "p": 328.58,
-   "c": 2.83,
-   "a50": 380.44,
-   "a200": 408.8,
+   "p": 331.14,
+   "c": 0.78,
+   "a50": 378.22,
+   "a200": 408.24,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 343.33,
-   "r": 41.4
+   "a20": 340.15,
+   "r": 42.6
   },
   {
    "s": "META",
-   "p": 592.1,
-   "c": 0.37,
-   "a50": 599.76,
-   "a200": 631.3,
+   "p": 603.79,
+   "c": 1.97,
+   "a50": 599.13,
+   "a200": 630.65,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 612.27,
-   "r": 47.7
+   "a20": 609.62,
+   "r": 51.2
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7757.64,
-   "c": 0.62,
-   "a50": 7494.24,
-   "a200": 7050.03,
-   "yh": 7757.64,
+   "p": 7769.97,
+   "c": 0.16,
+   "a50": 7498.37,
+   "a200": 7055.2,
+   "yh": 7769.97,
    "yl": 6343.72,
-   "a20": 7525.41,
-   "r": 66.3
+   "a20": 7538.14,
+   "r": 66.9
   },
   {
    "s": "^VIX",
-   "p": 15.46,
-   "c": 3.76,
-   "a50": 17.27,
-   "a200": 18.57,
+   "p": 15.24,
+   "c": 2.28,
+   "a50": 17.26,
+   "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.08,
-   "r": 44.4
+   "a20": 17.07,
+   "r": 43.4
   },
   {
    "s": "BZ=F",
-   "p": 83.73,
-   "c": 0.22,
-   "a50": 84.41,
-   "a200": 81.26,
+   "p": 85.82,
+   "c": 2.72,
+   "a50": 84.46,
+   "a200": 81.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.42,
-   "r": 47.9
+   "a20": 87.53,
+   "r": 50.6
   },
   {
    "s": "GC=F",
-   "p": 4415.0,
-   "c": 1.71,
-   "a50": 4167.59,
-   "a200": 4480.31,
+   "p": 4397.1,
+   "c": 1.3,
+   "a50": 4167.23,
+   "a200": 4480.22,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4105.66,
-   "r": 68.3
+   "a20": 4104.77,
+   "r": 67.6
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 1.21,
+   "p": 6.61,
+   "c": 0.64,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 61.9
+   "r": 60.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03103662,
-   "c": -0.04,
+   "p": 0.03100775,
+   "c": -0.12,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -332,151 +332,152 @@
  ],
  "news": [
   {
-   "t": "科技股勁揚　日經指數大漲逾1300點",
+   "t": "星宇航空7月營收成長43%　虎航看好客運旺到年底",
    "pub": "中央社財經",
    "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/afe/202608100158.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608100305.aspx"
   },
   {
-   "t": "Bank of America spots new curveball for Magnificent Seven stocks",
+   "t": "Yum China completes $1.2bn acquisition of Pizza Hut brand in China",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-spots-curveball-magnificent-030700311.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/yum-china-completes-1-2bn-141710372.html"
   },
   {
-   "t": "經部攜通路推廣友邦食品　盼增進消費動能強化合作",
+   "t": "今彩539第115193期開獎",
    "pub": "中央社財經",
    "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/afe/202608100157.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608100304.aspx"
   },
   {
-   "t": "Broadcom (AVGO) Pairs AI Chip Boom With A Software Security Push",
+   "t": "SpaceX Stock Hits Resistance At IPO Price After Earnings, Share Unlock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-pairs-ai-chip-204234966.html"
+   "u": "https://www.investors.com/news/spacex-stock-rebound-reclaim-135-ipo-price/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "研調：iPhone 18 Pro成本大增　舊機不排除跟漲",
+   "t": "和泰車7月旺季營收創次高　8月銷售轉淡",
    "pub": "中央社財經",
    "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/afe/202608100154.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608100302.aspx"
   },
   {
-   "t": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
+   "t": "Nvidia Scores 12% Weekly Gain As Taiwan Semiconductor Sales Soars; Is Nvidia A Buy Now?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/u-energy-helps-cushion-global-230000293.html"
+   "u": "https://www.investors.com/research/nvidia-nvda-stock-earnings-august-2026/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "三大法人買超台股731.67億元",
+   "t": "巨大前7月營收年減7.4%　美利達減少13%",
    "pub": "中央社財經",
    "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/afe/202608100153.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608100300.aspx"
   },
   {
-   "t": "Mortgage and refinance interest rates today, Saturday, August 8, 2026: Rates mixed this weekend",
+   "t": "Tech stocks today: Meta lays out new AI path, Intel to sell $15 billion in stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-8-2026-rates-mixed-this-weekend-100000461.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-lays-out-new-ai-path-intel-to-sell-15-billion-in-stock-135605566.html"
   },
   {
-   "t": "信驊前進OCP APAC峰會　展示開放式伺服器管理架構",
+   "t": "饗賓集團談油品風暴　陳毅航：源頭管理最重要",
    "pub": "中央社財經",
    "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/afe/202608100150.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608100299.aspx"
   },
   {
-   "t": "Best CD rates today, Saturday, August 8, 2026: Best CD account earns 4.15% APY",
+   "t": "Nu Holdings (NU) Could Rebound Despite Asset Quality Concerns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-august-8-2026-best-cd-account-earns-415-apy-100000008.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-nu-could-rebound-135412133.html"
   },
   {
-   "t": "機械出口連18個月成長　公會：半導體與AI應用帶動",
+   "t": "億光泰國新製造基地動土　瞄準AI伺服器與車用市場",
    "pub": "中央社財經",
    "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/afe/202608100146.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608100296.aspx"
   },
   {
-   "t": "A Qorvo Insider Disposed of Shares as a Merger Looms. Here's What Long-Term Investors Should Know",
+   "t": "Daily – Vickers Top Buyers & Sellers for 08/10/2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/qorvo-insider-disposed-shares-merger-211818399.html"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_47864_TopBottomInsiderActivity_1786362180000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
-  "date": "2026-08-06",
+  "date": "2026-08-10",
   "byCode": {
    "2317": {
-    "f": 21743,
-    "t": 135,
-    "all": 22027
-   },
-   "2308": {
-    "f": 73,
-    "t": 482,
-    "all": 594
-   },
-   "1802": {
-    "f": 20,
-    "t": 0,
-    "all": 271
-   },
-   "6446": {
-    "f": 179,
-    "t": -3,
-    "all": 155
-   },
-   "2305": {
-    "f": 29,
-    "t": 0,
-    "all": 29
-   },
-   "6862": {
-    "f": 2,
-    "t": 0,
-    "all": 3
-   },
-   "6515": {
-    "f": 4,
-    "t": 1,
-    "all": -6
-   },
-   "4722": {
-    "f": -83,
-    "t": 0,
-    "all": -23
-   },
-   "6442": {
-    "f": -107,
-    "t": -211,
-    "all": -298
-   },
-   "6706": {
-    "f": -723,
-    "t": 0,
-    "all": -714
-   },
-   "2454": {
-    "f": -994,
-    "t": -98,
-    "all": -1179
-   },
-   "3701": {
-    "f": -1182,
-    "t": 0,
-    "all": -1185
-   },
-   "2330": {
-    "f": -4012,
-    "t": -83,
-    "all": -4678
+    "f": 7881,
+    "t": 136,
+    "all": 8396
    },
    "2327": {
-    "f": -4367,
-    "t": -1648,
-    "all": -5780
+    "f": 3620,
+    "t": 957,
+    "all": 5246
+   },
+   "2308": {
+    "f": 1370,
+    "t": 604,
+    "all": 2378
+   },
+   "2454": {
+    "f": 1390,
+    "t": -63,
+    "all": 1420
+   },
+   "1802": {
+    "f": 776,
+    "t": 0,
+    "all": 893
+   },
+   "6446": {
+    "f": 864,
+    "t": 68,
+    "all": 882
+   },
+   "2330": {
+    "f": 119,
+    "t": 152,
+    "all": 719
+   },
+   "2305": {
+    "f": 674,
+    "t": 0,
+    "all": 656
+   },
+   "6442": {
+    "f": 329,
+    "t": 165,
+    "all": 475
+   },
+   "6706": {
+    "f": 35,
+    "t": 0,
+    "all": 102
+   },
+   "6862": {
+    "f": -5,
+    "t": 0,
+    "all": -5
+   },
+   "6515": {
+    "f": -33,
+    "t": 12,
+    "all": -24
+   },
+   "3701": {
+    "f": -207,
+    "t": 0,
+    "all": -208
+   },
+   "4722": {
+    "f": -294,
+    "t": 0,
+    "all": -317
    }
-  }
+  },
+  "totalNetE": 736.1
  }
 }
