@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 02:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 02:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.74,
-   "c": -2.1,
+   "p": 306.7,
+   "c": -2.11,
    "a50": 309.67,
    "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 322.9,
-   "r": 43.2
+   "r": 43.1
   },
   {
    "s": "NVDA",
-   "p": 218.8,
-   "c": -2.3,
+   "p": 218.46,
+   "c": -2.46,
    "a50": 206.16,
    "a200": 194.17,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.58,
-   "r": 59.2
+   "a20": 207.56,
+   "r": 58.9
   },
   {
    "s": "TSLA",
-   "p": 329.49,
-   "c": 0.28,
-   "a50": 378.19,
+   "p": 329.12,
+   "c": 0.17,
+   "a50": 378.18,
    "a200": 408.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.07,
-   "r": 41.9
+   "a20": 340.05,
+   "r": 41.7
   },
   {
    "s": "META",
-   "p": 593.24,
-   "c": 0.19,
+   "p": 593.46,
+   "c": 0.23,
    "a50": 598.92,
-   "a200": 630.59,
+   "a200": 630.6,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 609.09,
-   "r": 48.0
+   "a20": 609.1,
+   "r": 48.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7753.01,
-   "c": -0.06,
-   "a50": 7498.03,
-   "a200": 7055.12,
+   "p": 7749.72,
+   "c": -0.1,
+   "a50": 7497.96,
+   "a200": 7055.1,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7537.29,
-   "r": 65.9
+   "a20": 7537.13,
+   "r": 65.6
   },
   {
    "s": "^VIX",
-   "p": 15.31,
-   "c": 2.75,
+   "p": 15.34,
+   "c": 2.95,
    "a50": 17.27,
    "a200": 18.57,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.07,
-   "r": 43.7
+   "r": 43.9
   },
   {
    "s": "BZ=F",
-   "p": 87.53,
-   "c": 4.76,
+   "p": 87.37,
+   "c": 4.57,
    "a50": 84.49,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.61,
-   "r": 52.5
+   "r": 52.4
   },
   {
    "s": "GC=F",
-   "p": 4421.8,
-   "c": 1.87,
-   "a50": 4167.72,
-   "a200": 4480.34,
+   "p": 4423.2,
+   "c": 1.9,
+   "a50": 4167.75,
+   "a200": 4480.35,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4106.0,
-   "r": 68.6
+   "a20": 4106.07,
+   "r": 68.7
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.63,
+   "c": 0.66,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 60.4
+   "r": 60.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03100775,
-   "c": -0.14,
+   "c": -0.12,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100331.aspx"
   },
   {
-   "t": "Down 29%, Is MercadoLibre Stock a Better Buy Than SpaceX and the \"Magnificent Seven\" Stocks in August?",
+   "t": "This Trillion-Dollar AI Stock Offers Better Quantum Computing Exposure Than IonQ, Rigetti, or D-Wave at a Multi-Year Valuation Low",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/down-29-mercadolibre-stock-better-092000043.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/trillion-dollar-ai-stock-offers-092500690.html"
   },
   {
    "t": "友達、群創7月電視面板出貨疲弱　營收月減逾1成",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100321.aspx"
   },
   {
-   "t": "This Trillion-Dollar AI Stock Offers Better Quantum Computing Exposure Than IonQ, Rigetti, or D-Wave at a Multi-Year Valuation Low",
+   "t": "Down 29%, Is MercadoLibre Stock a Better Buy Than SpaceX and the \"Magnificent Seven\" Stocks in August?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/trillion-dollar-ai-stock-offers-092500690.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/down-29-mercadolibre-stock-better-092000043.html"
   }
  ],
  "inst": {
