@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-10 11:33（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-10 11:43（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2390.0,
-   "c": 0.84,
-   "a50": 2380.6,
-   "a200": 1925.58,
+   "p": 2395.0,
+   "c": 1.05,
+   "a50": 2380.7,
+   "a200": 1925.6,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2359.25,
-   "r": 52.0
+   "a20": 2359.5,
+   "r": 52.4
   },
   {
    "s": "2317.TW",
@@ -47,25 +47,25 @@
   },
   {
    "s": "2327.TW",
-   "p": 569.0,
-   "c": 5.37,
-   "a50": 810.95,
+   "p": 570.0,
+   "c": 5.56,
+   "a50": 810.97,
    "a200": 419.81,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 621.02,
-   "r": 39.8
+   "a20": 621.08,
+   "r": 39.9
   },
   {
    "s": "1802.TW",
-   "p": 55.0,
-   "c": 3.58,
+   "p": 54.8,
+   "c": 3.2,
    "a50": 61.95,
    "a200": 51.71,
    "yh": 76.6,
    "yl": 24.7,
-   "a20": 53.08,
-   "r": 48.8
+   "a20": 53.07,
+   "r": 48.5
   },
   {
    "s": "6862.TW",
@@ -80,58 +80,58 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.55,
-   "c": -2.35,
+   "p": 41.45,
+   "c": -2.59,
    "a50": 44.47,
    "a200": 48.77,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.52,
-   "r": 50.9
+   "a20": 39.51,
+   "r": 50.6
   },
   {
    "s": "4722.TW",
-   "p": 221.5,
-   "c": -4.53,
-   "a50": 244.7,
+   "p": 220.5,
+   "c": -4.96,
+   "a50": 244.68,
    "a200": 199.06,
    "yh": 306.5,
    "yl": 78.1,
-   "a20": 213.48,
-   "r": 49.9
+   "a20": 213.42,
+   "r": 49.6
   },
   {
    "s": "6706.TW",
-   "p": 117.0,
-   "c": 7.34,
-   "a50": 141.64,
+   "p": 116.5,
+   "c": 6.88,
+   "a50": 141.63,
    "a200": 125.35,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 109.47,
-   "r": 48.8
+   "a20": 109.45,
+   "r": 48.5
   },
   {
    "s": "2305.TW",
-   "p": 28.45,
-   "c": 7.36,
+   "p": 28.55,
+   "c": 7.74,
    "a50": 31.64,
    "a200": 18.19,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 31.3,
-   "r": 43.8
+   "r": 44.1
   },
   {
    "s": "6442.TW",
-   "p": 1450.0,
-   "c": 9.43,
-   "a50": 1598.1,
-   "a200": 1573.24,
+   "p": 1435.0,
+   "c": 8.3,
+   "a50": 1597.8,
+   "a200": 1573.16,
    "yh": 2370.0,
    "yl": 648.0,
-   "a20": 1303.75,
-   "r": 52.5
+   "a20": 1303.0,
+   "r": 51.8
   },
   {
    "s": "6515.TW",
@@ -157,14 +157,14 @@
   },
   {
    "s": "3324.TWO",
-   "p": 1020.0,
-   "c": 0.49,
-   "a50": 993.92,
-   "a200": 996.86,
+   "p": 1015.0,
+   "c": 0.0,
+   "a50": 993.82,
+   "a200": 996.84,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 922.9,
-   "r": 57.7
+   "a20": 922.65,
+   "r": 57.2
   },
   {
    "s": "3491.TWO",
@@ -179,25 +179,25 @@
   },
   {
    "s": "3585.TWO",
-   "p": 54.4,
-   "c": 13.1,
+   "p": 54.1,
+   "c": 12.47,
    "a50": 63.27,
    "a200": 40.75,
    "yh": 165.0,
    "yl": 5.63,
-   "a20": 48.57,
-   "r": 51.1
+   "a20": 48.56,
+   "r": 50.8
   },
   {
    "s": "6223.TWO",
-   "p": 6325.0,
-   "c": 3.69,
-   "a50": 6163.7,
-   "a200": 3927.75,
+   "p": 6335.0,
+   "c": 3.85,
+   "a50": 6163.9,
+   "a200": 3927.8,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5810.25,
-   "r": 54.9
+   "a20": 5810.75,
+   "r": 55.0
   },
   {
    "s": "6750.TWO",
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 45089.83,
-   "c": 1.95,
-   "a50": 44782.08,
-   "a200": 35537.78,
+   "p": 45083.57,
+   "c": 1.94,
+   "a50": 44781.95,
+   "a200": 35537.75,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43604.03,
+   "a20": 43603.72,
    "r": 55.5
   },
   {
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 84.17,
-   "c": 0.74,
-   "a50": 84.42,
+   "p": 84.36,
+   "c": 0.97,
+   "a50": 84.43,
    "a200": 81.27,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.45,
-   "r": 48.5
+   "r": 48.8
   },
   {
    "s": "GC=F",
-   "p": 4384.9,
-   "c": 1.02,
-   "a50": 4166.99,
-   "a200": 4480.16,
+   "p": 4387.4,
+   "c": 1.08,
+   "a50": 4167.04,
+   "a200": 4480.17,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4104.16,
-   "r": 67.0
+   "a20": 4104.28,
+   "r": 67.1
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 0.34,
+   "c": 0.26,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 59.7
+   "r": 59.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03104626,
-   "c": 0.0,
+   "p": 0.03103662,
+   "c": -0.03,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100029.aspx"
   },
   {
-   "t": "Performance raises are back for 2027, but increases will be modest",
+   "t": "Xanadu Accelerates Chip Production as Investors Await Next Catalyst in Race to Scalable Quantum Computing – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/performance-raises-are-back-for-2027-but-increases-will-be-modest-163535548.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/xanadu-accelerates-chip-production-investors-164143794.html"
   },
   {
    "t": "台股早盤漲逾600點站上季線　科技股強勢",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100023.aspx"
   },
   {
-   "t": "Xanadu Accelerates Chip Production as Investors Await Next Catalyst in Race to Scalable Quantum Computing – Quarterly Update Report",
+   "t": "Performance raises are back for 2027, but increases will be modest",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/xanadu-accelerates-chip-production-investors-164143794.html"
+   "u": "https://finance.yahoo.com/economy/article/performance-raises-are-back-for-2027-but-increases-will-be-modest-163535548.html"
   },
   {
    "t": "新台幣開盤升2.8分　為32.26元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100022.aspx"
   },
   {
-   "t": "Wall Street Can't Agree on Palantir. Here's What Investors Should Do Next",
+   "t": "As the Market Crashed in 1987, Paul Tudor Jones Made $100 Million in a Single Day: ‘The Most Important Rule of Trading Is to Play Great Defense, Not Great Offense’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-cant-agree-palantir-153002414.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/market-crashed-1987-paul-tudor-173002488.html"
   },
   {
    "t": "台股上週漲1106點　投顧：留意美國利率走勢",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100014.aspx"
   },
   {
-   "t": "Live Nation's CFO Latest Insider Transaction: Here's What Long-Term Investors Should Know",
+   "t": "Tractor Supply CEO Lawton Buys 15,600 Shares for $501,540 Amid Stock's 44% Decline",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/live-nations-cfo-latest-insider-162144448.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tractor-supply-ceo-lawton-buys-164038142.html"
   }
  ],
  "inst": {
