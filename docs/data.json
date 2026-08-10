@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-08-10 11:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-10 11:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2400.0,
-   "c": 1.27,
-   "a50": 2380.8,
-   "a200": 1925.62,
+   "p": 2395.0,
+   "c": 1.05,
+   "a50": 2380.7,
+   "a200": 1925.6,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2359.75,
-   "r": 52.7
+   "a20": 2359.5,
+   "r": 52.4
   },
   {
    "s": "2317.TW",
-   "p": 264.5,
-   "c": 1.73,
-   "a50": 255.64,
-   "a200": 234.7,
+   "p": 263.5,
+   "c": 1.35,
+   "a50": 255.62,
+   "a200": 234.69,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 247.58,
-   "r": 59.6
+   "a20": 247.52,
+   "r": 59.1
   },
   {
    "s": "2308.TW",
@@ -36,14 +36,14 @@
   },
   {
    "s": "2454.TW",
-   "p": 3980.0,
-   "c": 2.05,
-   "a50": 4019.9,
-   "a200": 2392.15,
+   "p": 3955.0,
+   "c": 1.41,
+   "a50": 4019.4,
+   "a200": 2392.02,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3673.25,
-   "r": 55.0
+   "a20": 3672.0,
+   "r": 54.4
   },
   {
    "s": "2327.TW",
@@ -58,14 +58,14 @@
   },
   {
    "s": "1802.TW",
-   "p": 55.0,
-   "c": 3.58,
+   "p": 54.8,
+   "c": 3.2,
    "a50": 61.95,
    "a200": 51.71,
    "yh": 76.6,
    "yl": 24.7,
-   "a20": 53.08,
-   "r": 48.8
+   "a20": 53.07,
+   "r": 48.5
   },
   {
    "s": "6862.TW",
@@ -102,25 +102,25 @@
   },
   {
    "s": "6706.TW",
-   "p": 118.0,
-   "c": 8.26,
-   "a50": 141.66,
-   "a200": 125.36,
+   "p": 117.5,
+   "c": 7.8,
+   "a50": 141.65,
+   "a200": 125.35,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 109.52,
-   "r": 49.5
+   "a20": 109.5,
+   "r": 49.2
   },
   {
    "s": "2305.TW",
-   "p": 28.7,
-   "c": 8.3,
-   "a50": 31.65,
+   "p": 28.35,
+   "c": 6.98,
+   "a50": 31.64,
    "a200": 18.19,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 31.31,
-   "r": 44.4
+   "a20": 31.29,
+   "r": 43.6
   },
   {
    "s": "6442.TW",
@@ -135,36 +135,36 @@
   },
   {
    "s": "6515.TW",
-   "p": 6960.0,
-   "c": 2.96,
-   "a50": 7799.5,
-   "a200": 5903.18,
+   "p": 6995.0,
+   "c": 3.48,
+   "a50": 7800.2,
+   "a200": 5903.35,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6412.5,
-   "r": 50.5
+   "a20": 6414.25,
+   "r": 50.9
   },
   {
    "s": "6446.TW",
-   "p": 1355.0,
-   "c": 9.27,
-   "a50": 1101.19,
-   "a200": 686.4,
+   "p": 1350.0,
+   "c": 8.87,
+   "a50": 1101.09,
+   "a200": 686.38,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1193.25,
-   "r": 62.3
+   "a20": 1193.0,
+   "r": 62.1
   },
   {
    "s": "3324.TWO",
-   "p": 1020.0,
-   "c": 0.49,
-   "a50": 993.92,
-   "a200": 996.86,
+   "p": 1025.0,
+   "c": 0.99,
+   "a50": 994.02,
+   "a200": 996.89,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 922.9,
-   "r": 57.7
+   "a20": 923.15,
+   "r": 58.1
   },
   {
    "s": "3491.TWO",
@@ -179,25 +179,25 @@
   },
   {
    "s": "3585.TWO",
-   "p": 55.0,
-   "c": 14.35,
-   "a50": 63.29,
-   "a200": 40.76,
+   "p": 54.4,
+   "c": 13.1,
+   "a50": 63.27,
+   "a200": 40.75,
    "yh": 165.0,
    "yl": 5.63,
-   "a20": 48.6,
-   "r": 51.8
+   "a20": 48.57,
+   "r": 51.1
   },
   {
    "s": "6223.TWO",
-   "p": 6440.0,
-   "c": 5.57,
-   "a50": 6166.0,
-   "a200": 3928.32,
+   "p": 6385.0,
+   "c": 4.67,
+   "a50": 6164.9,
+   "a200": 3928.05,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5816.0,
-   "r": 56.2
+   "a20": 5813.25,
+   "r": 55.6
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45154.35,
-   "c": 2.1,
-   "a50": 44783.37,
-   "a200": 35538.11,
+   "p": 45092.1,
+   "c": 1.96,
+   "a50": 44782.12,
+   "a200": 35537.8,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43607.26,
-   "r": 55.8
+   "a20": 43604.15,
+   "r": 55.5
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 84.33,
-   "c": 0.93,
-   "a50": 84.43,
+   "p": 84.23,
+   "c": 0.81,
+   "a50": 84.42,
    "a200": 81.27,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.45,
-   "r": 48.7
+   "r": 48.6
   },
   {
    "s": "GC=F",
-   "p": 4380.1,
-   "c": 0.91,
-   "a50": 4166.89,
+   "p": 4379.0,
+   "c": 0.88,
+   "a50": 4166.87,
    "a200": 4480.13,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4103.92,
+   "a20": 4103.86,
    "r": 66.8
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 0.34,
+   "c": 0.29,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 59.7
+   "r": 59.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03104626,
-   "c": -0.0,
+   "p": 0.0310559,
+   "c": 0.02,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100029.aspx"
   },
   {
-   "t": "Wall Street Can't Agree on Palantir. Here's What Investors Should Do Next",
+   "t": "Performance raises are back for 2027, but increases will be modest",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-cant-agree-palantir-153002414.html"
+   "u": "https://finance.yahoo.com/economy/article/performance-raises-are-back-for-2027-but-increases-will-be-modest-163535548.html"
   },
   {
    "t": "台股早盤漲逾600點站上季線　科技股強勢",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100027.aspx"
   },
   {
-   "t": "Performance raises are back for 2027, but increases will be modest",
+   "t": "Why Aurora Cannabis Looks Cheaper Than Its International Growth Suggests – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/performance-raises-are-back-for-2027-but-increases-will-be-modest-163535548.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/why-aurora-cannabis-looks-cheaper-163923801.html"
   },
   {
    "t": "台股開盤漲314.8點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100023.aspx"
   },
   {
-   "t": "Why Aurora Cannabis Looks Cheaper Than Its International Growth Suggests – Quarterly Update Report",
+   "t": "Xanadu Accelerates Chip Production as Investors Await Next Catalyst in Race to Scalable Quantum Computing – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/why-aurora-cannabis-looks-cheaper-163923801.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/xanadu-accelerates-chip-production-investors-164143794.html"
   },
   {
    "t": "新台幣開盤升2.8分　為32.26元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100022.aspx"
   },
   {
-   "t": "Xanadu Accelerates Chip Production as Investors Await Next Catalyst in Race to Scalable Quantum Computing – Quarterly Update Report",
+   "t": "Wall Street Can't Agree on Palantir. Here's What Investors Should Do Next",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/xanadu-accelerates-chip-production-investors-164143794.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-cant-agree-palantir-153002414.html"
   },
   {
    "t": "台股上週漲1106點　投顧：留意美國利率走勢",
