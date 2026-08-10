@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-08-10 13:26（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-10 13:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2385.0,
-   "c": 0.63,
-   "a50": 2380.5,
-   "a200": 1925.55,
+   "p": 2395.0,
+   "c": 1.05,
+   "a50": 2380.7,
+   "a200": 1925.6,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2359.0,
-   "r": 51.7
+   "a20": 2359.5,
+   "r": 52.4
   },
   {
    "s": "2317.TW",
-   "p": 264.0,
-   "c": 1.54,
-   "a50": 255.63,
+   "p": 264.5,
+   "c": 1.73,
+   "a50": 255.64,
    "a200": 234.7,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 247.55,
-   "r": 59.3
+   "a20": 247.58,
+   "r": 59.6
   },
   {
    "s": "2308.TW",
@@ -36,14 +36,14 @@
   },
   {
    "s": "2454.TW",
-   "p": 3945.0,
-   "c": 1.15,
-   "a50": 4019.2,
-   "a200": 2391.98,
+   "p": 3960.0,
+   "c": 1.54,
+   "a50": 4019.5,
+   "a200": 2392.05,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3671.5,
-   "r": 54.2
+   "a20": 3672.25,
+   "r": 54.5
   },
   {
    "s": "2327.TW",
@@ -80,36 +80,36 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.3,
-   "c": -2.94,
+   "p": 41.25,
+   "c": -3.06,
    "a50": 44.47,
    "a200": 48.77,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.51,
-   "r": 50.2
+   "a20": 39.5,
+   "r": 50.1
   },
   {
    "s": "4722.TW",
-   "p": 219.5,
-   "c": -5.39,
-   "a50": 244.66,
-   "a200": 199.05,
+   "p": 217.0,
+   "c": -6.47,
+   "a50": 244.61,
+   "a200": 199.04,
    "yh": 306.5,
    "yl": 78.1,
-   "a20": 213.38,
-   "r": 49.2
+   "a20": 213.25,
+   "r": 48.5
   },
   {
    "s": "6706.TW",
-   "p": 115.0,
-   "c": 5.5,
-   "a50": 141.6,
+   "p": 115.5,
+   "c": 5.96,
+   "a50": 141.61,
    "a200": 125.34,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 109.37,
-   "r": 47.5
+   "a20": 109.4,
+   "r": 47.9
   },
   {
    "s": "2305.TW",
@@ -124,25 +124,25 @@
   },
   {
    "s": "6442.TW",
-   "p": 1425.0,
-   "c": 7.55,
-   "a50": 1597.6,
-   "a200": 1573.12,
+   "p": 1420.0,
+   "c": 7.17,
+   "a50": 1597.5,
+   "a200": 1573.09,
    "yh": 2370.0,
    "yl": 648.0,
-   "a20": 1302.5,
-   "r": 51.4
+   "a20": 1302.25,
+   "r": 51.2
   },
   {
    "s": "6515.TW",
-   "p": 6805.0,
-   "c": 0.67,
-   "a50": 7796.4,
-   "a200": 5902.4,
+   "p": 6780.0,
+   "c": 0.3,
+   "a50": 7795.9,
+   "a200": 5902.28,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6404.75,
-   "r": 48.6
+   "a20": 6403.5,
+   "r": 48.3
   },
   {
    "s": "6446.TW",
@@ -157,14 +157,14 @@
   },
   {
    "s": "3324.TWO",
-   "p": 1005.0,
-   "c": -0.99,
-   "a50": 993.62,
-   "a200": 996.79,
+   "p": 1015.0,
+   "c": 0.0,
+   "a50": 993.82,
+   "a200": 996.84,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 922.15,
-   "r": 56.0
+   "a20": 922.65,
+   "r": 57.2
   },
   {
    "s": "3491.TWO",
@@ -179,25 +179,25 @@
   },
   {
    "s": "3585.TWO",
-   "p": 54.2,
-   "c": 12.68,
-   "a50": 63.27,
+   "p": 53.8,
+   "c": 11.85,
+   "a50": 63.26,
    "a200": 40.75,
    "yh": 165.0,
    "yl": 5.63,
-   "a20": 48.56,
-   "r": 50.9
+   "a20": 48.54,
+   "r": 50.4
   },
   {
    "s": "6223.TWO",
-   "p": 6215.0,
-   "c": 1.89,
-   "a50": 6161.5,
-   "a200": 3927.2,
+   "p": 6225.0,
+   "c": 2.05,
+   "a50": 6161.7,
+   "a200": 3927.25,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5804.75,
-   "r": 53.6
+   "a20": 5805.25,
+   "r": 53.7
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44913.34,
-   "c": 1.55,
-   "a50": 44778.55,
-   "a200": 35536.9,
+   "p": 45039.89,
+   "c": 1.84,
+   "a50": 44781.08,
+   "a200": 35537.54,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43595.21,
-   "r": 54.8
+   "a20": 43601.54,
+   "r": 55.3
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.99,
-   "c": 0.53,
+   "p": 83.92,
+   "c": 0.44,
    "a50": 84.42,
    "a200": 81.26,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.44,
-   "r": 48.3
+   "a20": 87.43,
+   "r": 48.2
   },
   {
    "s": "GC=F",
-   "p": 4394.2,
-   "c": 1.23,
-   "a50": 4167.17,
+   "p": 4393.6,
+   "c": 1.22,
+   "a50": 4167.16,
    "a200": 4480.2,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4104.62,
+   "a20": 4104.59,
    "r": 67.4
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": 0.52,
+   "p": 6.61,
+   "c": 0.56,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 60.1
+   "r": 60.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03104626,
-   "c": -0.01,
+   "p": 0.0310559,
+   "c": 0.01,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100069.aspx"
   },
   {
-   "t": "Why Warren Buffett Called This Investment His ‘Most Gruesome’ Mistake — ‘Deserves a Spot in the Guinness Book’",
+   "t": "LegalZoom (LZ) Integrates Microsoft Copilot Amid Growth Shifts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-warren-buffett-called-investment-180002956.html"
+   "u": "https://finance.yahoo.com/small-business/articles/legalzoom-lz-integrates-microsoft-copilot-183004346.html"
   },
   {
    "t": "科技股領軍台股大漲近千點　站上45000點大關",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100042.aspx"
   },
   {
-   "t": "Lumen (LUMN) Extends AWS Push While Its CEO Doubles Down",
+   "t": "Why Warren Buffett Called This Investment His ‘Most Gruesome’ Mistake — ‘Deserves a Spot in the Guinness Book’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/lumen-lumn-extends-aws-push-175314099.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-warren-buffett-called-investment-180002956.html"
   },
   {
    "t": "電價10月凍漲？經長：照顧民生穩定物價為政策方向",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100036.aspx"
   },
   {
-   "t": "LegalZoom (LZ) Integrates Microsoft Copilot Amid Growth Shifts",
+   "t": "Lumen (LUMN) Extends AWS Push While Its CEO Doubles Down",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/legalzoom-lz-integrates-microsoft-copilot-183004346.html"
+   "u": "https://finance.yahoo.com/technology/articles/lumen-lumn-extends-aws-push-175314099.html"
   },
   {
    "t": "華德動能創新板上市　搶攻海外市場",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100029.aspx"
   },
   {
-   "t": "As the Market Crashed in 1987, Paul Tudor Jones Made $100 Million in a Single Day: ‘The Most Important Rule of Trading Is to Play Great Defense, Not Great Offense’",
+   "t": "Tenable (TENB) Widens Its AI Security Net Just As Profits Turn A Corner",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/market-crashed-1987-paul-tudor-173002488.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/tenable-tenb-widens-ai-security-185944892.html"
   },
   {
    "t": "台股早盤漲逾600點站上季線　科技股強勢",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100027.aspx"
   },
   {
-   "t": "For 88% of Recent Homebuyers With a Mortgage, One Financial Setback Could Jeopardize Their Monthly Payment",
+   "t": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/88-recent-homebuyers-mortgage-one-180017964.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/voo-become-first-1-trillion-180806178.html"
   }
  ],
  "inst": {
