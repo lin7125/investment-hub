@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10 12:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-10 12:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -47,25 +47,25 @@
   },
   {
    "s": "2327.TW",
-   "p": 567.0,
-   "c": 5.0,
-   "a50": 810.91,
-   "a200": 419.8,
+   "p": 566.0,
+   "c": 4.81,
+   "a50": 810.89,
+   "a200": 419.79,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 620.92,
-   "r": 39.6
+   "a20": 620.88,
+   "r": 39.5
   },
   {
    "s": "1802.TW",
-   "p": 54.4,
-   "c": 2.45,
+   "p": 54.3,
+   "c": 2.26,
    "a50": 61.94,
    "a200": 51.71,
    "yh": 76.6,
    "yl": 24.7,
-   "a20": 53.05,
-   "r": 47.8
+   "a20": 53.04,
+   "r": 47.7
   },
   {
    "s": "6862.TW",
@@ -102,25 +102,25 @@
   },
   {
    "s": "6706.TW",
-   "p": 115.0,
-   "c": 5.5,
-   "a50": 141.6,
+   "p": 114.5,
+   "c": 5.05,
+   "a50": 141.59,
    "a200": 125.34,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 109.37,
-   "r": 47.5
+   "a20": 109.35,
+   "r": 47.2
   },
   {
    "s": "2305.TW",
-   "p": 28.75,
-   "c": 8.49,
+   "p": 28.65,
+   "c": 8.11,
    "a50": 31.65,
    "a200": 18.19,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 31.31,
-   "r": 44.6
+   "r": 44.3
   },
   {
    "s": "6442.TW",
@@ -135,25 +135,25 @@
   },
   {
    "s": "6515.TW",
-   "p": 6760.0,
-   "c": 0.0,
-   "a50": 7795.5,
-   "a200": 5902.18,
+   "p": 6700.0,
+   "c": -0.89,
+   "a50": 7794.3,
+   "a200": 5901.88,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6402.5,
-   "r": 48.0
+   "a20": 6399.5,
+   "r": 47.3
   },
   {
    "s": "6446.TW",
-   "p": 1330.0,
-   "c": 7.26,
-   "a50": 1100.69,
-   "a200": 686.28,
+   "p": 1325.0,
+   "c": 6.85,
+   "a50": 1100.59,
+   "a200": 686.25,
    "yh": 1379.28,
    "yl": 398.46,
-   "a20": 1192.0,
-   "r": 61.1
+   "a20": 1191.75,
+   "r": 60.8
   },
   {
    "s": "3324.TWO",
@@ -179,25 +179,25 @@
   },
   {
    "s": "3585.TWO",
-   "p": 54.2,
-   "c": 12.68,
-   "a50": 63.27,
+   "p": 53.9,
+   "c": 12.06,
+   "a50": 63.26,
    "a200": 40.75,
    "yh": 165.0,
    "yl": 5.63,
-   "a20": 48.56,
-   "r": 50.9
+   "a20": 48.55,
+   "r": 50.5
   },
   {
    "s": "6223.TWO",
-   "p": 6270.0,
-   "c": 2.79,
-   "a50": 6162.6,
-   "a200": 3927.48,
+   "p": 6280.0,
+   "c": 2.95,
+   "a50": 6162.8,
+   "a200": 3927.52,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5807.5,
-   "r": 54.3
+   "a20": 5808.0,
+   "r": 54.4
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44983.85,
-   "c": 1.71,
-   "a50": 44779.96,
-   "a200": 35537.26,
+   "p": 44973.83,
+   "c": 1.69,
+   "a50": 44779.76,
+   "a200": 35537.2,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43598.74,
-   "r": 55.1
+   "a20": 43598.23,
+   "r": 55.0
   },
   {
    "s": "^GSPC",
@@ -289,40 +289,40 @@
   },
   {
    "s": "BZ=F",
-   "p": 84.35,
-   "c": 0.96,
+   "p": 84.46,
+   "c": 1.09,
    "a50": 84.43,
    "a200": 81.27,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.45,
-   "r": 48.8
+   "a20": 87.46,
+   "r": 48.9
   },
   {
    "s": "GC=F",
-   "p": 4385.4,
-   "c": 1.03,
-   "a50": 4167.0,
-   "a200": 4480.16,
+   "p": 4392.8,
+   "c": 1.2,
+   "a50": 4167.14,
+   "a200": 4480.2,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4104.18,
-   "r": 67.1
+   "a20": 4104.55,
+   "r": 67.4
   },
   {
    "s": "HG=F",
-   "p": 6.59,
-   "c": 0.37,
+   "p": 6.6,
+   "c": 0.49,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 59.7
+   "r": 60.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.0310559,
+   "p": 0.03104626,
    "c": 0.01,
    "a50": 0.03128911,
    "a200": 0.03163556,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100069.aspx"
   },
   {
-   "t": "Xanadu Accelerates Chip Production as Investors Await Next Catalyst in Race to Scalable Quantum Computing – Quarterly Update Report",
+   "t": "As the Market Crashed in 1987, Paul Tudor Jones Made $100 Million in a Single Day: ‘The Most Important Rule of Trading Is to Play Great Defense, Not Great Offense’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/xanadu-accelerates-chip-production-investors-164143794.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/market-crashed-1987-paul-tudor-173002488.html"
   },
   {
    "t": "科技股領軍台股大漲近千點　站上45000點大關",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100042.aspx"
   },
   {
-   "t": "Why Aurora Cannabis Looks Cheaper Than Its International Growth Suggests – Quarterly Update Report",
+   "t": "Xanadu Accelerates Chip Production as Investors Await Next Catalyst in Race to Scalable Quantum Computing – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/why-aurora-cannabis-looks-cheaper-163923801.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/xanadu-accelerates-chip-production-investors-164143794.html"
   },
   {
    "t": "電價10月凍漲？經長：照顧民生穩定物價為政策方向",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100036.aspx"
   },
   {
-   "t": "As the Market Crashed in 1987, Paul Tudor Jones Made $100 Million in a Single Day: ‘The Most Important Rule of Trading Is to Play Great Defense, Not Great Offense’",
+   "t": "Why Aurora Cannabis Looks Cheaper Than Its International Growth Suggests – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/market-crashed-1987-paul-tudor-173002488.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/why-aurora-cannabis-looks-cheaper-163923801.html"
   },
   {
    "t": "華德動能創新板上市　搶攻海外市場",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100027.aspx"
   },
   {
-   "t": "I Don't Want a Bigger House Even Though I Can Afford One. My Family Doesn't Understand Why",
+   "t": "Loar Q2 Earnings Call Highlights",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/dont-want-bigger-house-even-170023806.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/loar-q2-earnings-call-highlights-170353201.html"
   }
  ],
  "inst": {
