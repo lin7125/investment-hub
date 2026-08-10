@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10 23:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-10 23:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.34,
-   "c": -2.23,
-   "a50": 309.66,
+   "p": 306.58,
+   "c": -2.15,
+   "a50": 309.67,
    "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.88,
-   "r": 42.9
+   "a20": 322.89,
+   "r": 43.1
   },
   {
    "s": "NVDA",
-   "p": 218.97,
-   "c": -2.23,
-   "a50": 206.17,
+   "p": 219.35,
+   "c": -2.06,
+   "a50": 206.18,
    "a200": 194.17,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.59,
-   "r": 59.4
+   "a20": 207.61,
+   "r": 59.7
   },
   {
    "s": "TSLA",
-   "p": 328.99,
-   "c": 0.13,
-   "a50": 378.18,
+   "p": 329.76,
+   "c": 0.36,
+   "a50": 378.19,
    "a200": 408.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.04,
-   "r": 41.6
+   "a20": 340.08,
+   "r": 42.0
   },
   {
    "s": "META",
-   "p": 599.2,
-   "c": 1.2,
+   "p": 599.53,
+   "c": 1.25,
    "a50": 599.04,
-   "a200": 630.62,
+   "a200": 630.63,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 609.39,
-   "r": 49.9
+   "a20": 609.41,
+   "r": 50.0
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7758.3,
-   "c": 0.01,
-   "a50": 7498.13,
-   "a200": 7055.14,
-   "yh": 7758.3,
+   "p": 7759.84,
+   "c": 0.03,
+   "a50": 7498.16,
+   "a200": 7055.15,
+   "yh": 7759.84,
    "yl": 6343.72,
-   "a20": 7537.55,
-   "r": 66.3
+   "a20": 7537.63,
+   "r": 66.4
   },
   {
    "s": "^VIX",
-   "p": 15.22,
-   "c": 2.15,
+   "p": 15.21,
+   "c": 2.08,
    "a50": 17.26,
    "a200": 18.56,
    "yh": 31.05,
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 86.74,
-   "c": 3.82,
+   "p": 86.59,
+   "c": 3.64,
    "a50": 84.47,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.57,
-   "r": 51.7
+   "r": 51.5
   },
   {
    "s": "GC=F",
-   "p": 4407.0,
-   "c": 1.53,
-   "a50": 4167.43,
-   "a200": 4480.27,
+   "p": 4410.7,
+   "c": 1.61,
+   "a50": 4167.5,
+   "a200": 4480.29,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4105.26,
-   "r": 68.0
+   "a20": 4105.45,
+   "r": 68.1
   },
   {
    "s": "HG=F",
    "p": 6.64,
-   "c": 1.02,
+   "c": 1.0,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100331.aspx"
   },
   {
-   "t": "Universal Corp (UVV) Stock Is Falling Today: What’s Behind the Drop, and Are Other Tobacco Stocks Plummeting Today?",
+   "t": "Stock market today: Nasdaq slips, Dow and S&P 500 little changed in wait for key inflation data",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/universal-corp-uvv-stock-falling-152733899.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html"
   },
   {
    "t": "友達、群創7月電視面板出貨疲弱　營收月減逾1成",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100328.aspx"
   },
   {
-   "t": "Tech stocks today: Meta lays out new AI path, Intel to sell $15 billion in stock",
+   "t": "'An unprecedented boom': Corporate profits are on pace for fastest growth since 2021",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-lays-out-new-ai-path-intel-to-sell-15-billion-in-stock-135605566.html"
+   "u": "https://finance.yahoo.com/markets/article/an-unprecedented-boom-corporate-profits-are-on-pace-for-fastest-growth-since-2021-152552912.html"
   },
   {
    "t": "今彩539第115193期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608100325.aspx"
   },
   {
-   "t": "Corporate profits are absolutely booming",
+   "t": "2 Energy Dividend Stocks to Buy -- and the Risk Behind Each Payout",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/corporate-profits-are-absolutely-booming-152552912.html"
+   "u": "https://finance.yahoo.com/energy/articles/2-energy-dividend-stocks-buy-153500100.html"
   },
   {
    "t": "威力彩第115064期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100324.aspx"
   },
   {
-   "t": "‘Massive Upgrade Cycle’ Coming – Ignore Memory Costs Panic and Buy Apple (AAPL)?",
+   "t": "Record Backlog Powers NRC Health’s (NRC) Upward Potential",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/massive-upgrade-cycle-coming-ignore-152241666.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/record-backlog-powers-nrc-health-153446918.html"
   },
   {
    "t": "立陶宛獲評A+展望穩定　經濟成長居同級國家前列",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100322.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq little changed in wait for key inflation data",
+   "t": "Tech stocks today: Meta lays out new AI path, Intel to sell $15 billion in stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-lays-out-new-ai-path-intel-to-sell-15-billion-in-stock-135605566.html"
   },
   {
    "t": "韓國將啟動5兆韓元半導體基金　扶植具潛力企業",
