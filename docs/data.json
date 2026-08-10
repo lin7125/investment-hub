@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10 23:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-10 23:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.69,
-   "c": -2.12,
+   "p": 306.57,
+   "c": -2.16,
    "a50": 309.67,
    "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.9,
+   "a20": 322.89,
    "r": 43.1
   },
   {
    "s": "NVDA",
-   "p": 219.61,
-   "c": -1.94,
+   "p": 219.35,
+   "c": -2.06,
    "a50": 206.18,
    "a200": 194.17,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.62,
-   "r": 60.0
+   "a20": 207.61,
+   "r": 59.7
   },
   {
    "s": "TSLA",
-   "p": 329.27,
-   "c": 0.21,
-   "a50": 378.18,
+   "p": 329.93,
+   "c": 0.41,
+   "a50": 378.2,
    "a200": 408.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.06,
-   "r": 41.7
+   "a20": 340.09,
+   "r": 42.1
   },
   {
    "s": "META",
-   "p": 602.3,
-   "c": 1.72,
-   "a50": 599.1,
-   "a200": 630.64,
+   "p": 599.7,
+   "c": 1.28,
+   "a50": 599.05,
+   "a200": 630.63,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 609.54,
-   "r": 50.8
+   "a20": 609.41,
+   "r": 50.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7762.35,
-   "c": 0.06,
-   "a50": 7498.21,
-   "a200": 7055.16,
-   "yh": 7762.35,
+   "p": 7764.3,
+   "c": 0.09,
+   "a50": 7498.25,
+   "a200": 7055.17,
+   "yh": 7764.3,
    "yl": 6343.72,
-   "a20": 7537.76,
-   "r": 66.5
+   "a20": 7537.85,
+   "r": 66.6
   },
   {
    "s": "^VIX",
-   "p": 15.19,
-   "c": 1.95,
+   "p": 15.21,
+   "c": 2.08,
    "a50": 17.26,
    "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.07,
-   "r": 43.2
+   "r": 43.3
   },
   {
    "s": "BZ=F",
-   "p": 86.14,
-   "c": 3.1,
-   "a50": 84.46,
+   "p": 86.41,
+   "c": 3.42,
+   "a50": 84.47,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.54,
-   "r": 51.0
+   "a20": 87.56,
+   "r": 51.3
   },
   {
    "s": "GC=F",
-   "p": 4402.9,
-   "c": 1.43,
-   "a50": 4167.35,
-   "a200": 4480.25,
+   "p": 4406.4,
+   "c": 1.51,
+   "a50": 4167.42,
+   "a200": 4480.26,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4105.06,
-   "r": 67.8
+   "a20": 4105.23,
+   "r": 68.0
   },
   {
    "s": "HG=F",
-   "p": 6.63,
-   "c": 0.85,
+   "p": 6.64,
+   "c": 1.02,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 61.0
+   "r": 61.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03099814,
-   "c": -0.16,
+   "p": 0.03101737,
+   "c": -0.1,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100331.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq little changed in wait for key inflation data",
+   "t": "SpaceX Has Already Imploded 48% — But This Wall Street Vet Just Warned Against Bottom-Fishing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-already-imploded-48-wall-150120377.html"
   },
   {
    "t": "友達、群創7月電視面板出貨疲弱　營收月減逾1成",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100328.aspx"
   },
   {
-   "t": "Broadcom’s Brilliant Positioning is Why I Am Loading Up Over and Over",
+   "t": "Cathie Wood Ignores AI Panic — Buys More Nvidia, Sells This Gaming Stock Instead",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/broadcom-brilliant-positioning-why-am-144924907.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ignores-ai-panic-145750434.html"
   },
   {
    "t": "今彩539第115193期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608100325.aspx"
   },
   {
-   "t": "Retail investors end SpaceX buying spree as stock reclaims IPO price: AlphaCheck",
+   "t": "Is Netflix’s (NFLX) Long-Term Dominance Under Threat?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/retail-investors-end-spacex-buying-spree-as-stock-reclaims-ipo-price-alphacheck-144858062.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/netflix-nflx-long-term-dominance-145700986.html"
   },
   {
    "t": "威力彩第115064期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100324.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Falls, SpaceX Reverses; Energy Stocks Shine, Oil Rises As Trump Says This (Live Coverage)",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq little changed in wait for key inflation data",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html"
   },
   {
    "t": "立陶宛獲評A+展望穩定　經濟成長居同級國家前列",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100322.aspx"
   },
   {
-   "t": "You might not need a Roth IRA for a secure retirement — despite what online ‘experts’ say. Here’s why",
+   "t": "Here’s Why Sands Capital Technology Innovators Fund Sold Roblox Corporation (RBLX)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/might-not-roth-ira-secure-144500938.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-sands-capital-technology-innovators-145606840.html"
   },
   {
    "t": "韓國將啟動5兆韓元半導體基金　扶植具潛力企業",
