@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10 15:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-10 15:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 83.38,
-   "c": -0.2,
-   "a50": 84.41,
+   "p": 83.98,
+   "c": 0.51,
+   "a50": 84.42,
    "a200": 81.26,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.41,
-   "r": 47.5
+   "a20": 87.44,
+   "r": 48.3
   },
   {
    "s": "GC=F",
-   "p": 4418.2,
-   "c": 1.79,
-   "a50": 4167.65,
-   "a200": 4480.32,
+   "p": 4415.0,
+   "c": 1.71,
+   "a50": 4167.59,
+   "a200": 4480.31,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4105.82,
-   "r": 68.5
+   "a20": 4105.66,
+   "r": 68.3
   },
   {
    "s": "HG=F",
    "p": 6.64,
-   "c": 1.01,
+   "c": 1.0,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03102699,
-   "c": -0.06,
+   "p": 0.03103662,
+   "c": -0.03,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100112.aspx"
   },
   {
-   "t": "1 Million Reasons to Buy SoFi Stock Now",
+   "t": "Jim Cramer Weighs In on Space Equities: Rocket Lab (RKLB) vs. Voyager Technologies (VOYG)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/1-million-reasons-buy-sofi-193002673.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-space-equities-195141942.html"
   },
   {
    "t": "焦佑衡：漲價反映成本　被動元件能見度不錯",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100104.aspx"
   },
   {
-   "t": "Nokia’s (NOK) AI Network Bet Gets A Taiwan Proving Ground",
+   "t": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nokia-nok-ai-network-bet-193932563.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-taalas-ai-194609482.html"
   },
   {
    "t": "台灣大推社交工程演練平台　首季資安營收年增近4倍",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100097.aspx"
   },
   {
-   "t": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
+   "t": "Nokia’s (NOK) AI Network Bet Gets A Taiwan Proving Ground",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-taalas-ai-194609482.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nokia-nok-ai-network-bet-193932563.html"
   },
   {
    "t": "六角、聯發國際跨出手搖飲圈　邁向全球餐飲平台",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100094.aspx"
   },
   {
-   "t": "Jim Cramer Weighs In on Space Equities: Rocket Lab (RKLB) vs. Voyager Technologies (VOYG)",
+   "t": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-space-equities-195141942.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-telling-investors-accumulate-200218837.html"
   },
   {
    "t": "三菱紐西蘭新純電車第4季上市　由裕隆三義廠製造",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202608100091.aspx"
   },
   {
-   "t": "Here's the Best Way to Make the 4% Rule Work for You in Retirement",
+   "t": "Better GLP-1 Stock to Buy: Eli Lilly or Viking Therapeutics?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/heres-best-way-4-rule-193800575.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/better-glp-1-stock-buy-195000742.html"
   }
  ],
  "inst": {
-  "date": "2026-08-07",
+  "date": "2026-08-06",
   "byCode": {
-   "2330": {
-    "f": 641,
-    "t": 61,
-    "all": 1945
-   },
-   "4722": {
-    "f": 97,
-    "t": 0,
-    "all": 72
-   },
-   "6862": {
-    "f": -6,
-    "t": 0,
-    "all": -9
-   },
-   "6515": {
-    "f": -15,
-    "t": -28,
-    "all": -40
-   },
-   "6706": {
-    "f": -51,
-    "t": 0,
-    "all": -56
-   },
-   "2454": {
-    "f": 71,
-    "t": -128,
-    "all": -73
-   },
-   "6446": {
-    "f": -269,
-    "t": 11,
-    "all": -255
-   },
-   "6442": {
-    "f": -145,
-    "t": -115,
-    "all": -262
-   },
-   "3701": {
-    "f": -980,
-    "t": 0,
-    "all": -984
+   "2317": {
+    "f": 21743,
+    "t": 135,
+    "all": 22027
    },
    "2308": {
-    "f": -1698,
-    "t": 55,
-    "all": -1800
-   },
-   "2305": {
-    "f": -2443,
-    "t": 0,
-    "all": -2433
+    "f": 73,
+    "t": 482,
+    "all": 594
    },
    "1802": {
-    "f": -2943,
+    "f": 20,
     "t": 0,
-    "all": -2719
+    "all": 271
    },
-   "2317": {
-    "f": -5329,
-    "t": -800,
-    "all": -6755
+   "6446": {
+    "f": 179,
+    "t": -3,
+    "all": 155
+   },
+   "2305": {
+    "f": 29,
+    "t": 0,
+    "all": 29
+   },
+   "6862": {
+    "f": 2,
+    "t": 0,
+    "all": 3
+   },
+   "6515": {
+    "f": 4,
+    "t": 1,
+    "all": -6
+   },
+   "4722": {
+    "f": -83,
+    "t": 0,
+    "all": -23
+   },
+   "6442": {
+    "f": -107,
+    "t": -211,
+    "all": -298
+   },
+   "6706": {
+    "f": -723,
+    "t": 0,
+    "all": -714
+   },
+   "2454": {
+    "f": -994,
+    "t": -98,
+    "all": -1179
+   },
+   "3701": {
+    "f": -1182,
+    "t": 0,
+    "all": -1185
+   },
+   "2330": {
+    "f": -4012,
+    "t": -83,
+    "all": -4678
    },
    "2327": {
-    "f": -9348,
-    "t": -1516,
-    "all": -10722
+    "f": -4367,
+    "t": -1648,
+    "all": -5780
    }
   },
-  "totalNetE": -428.9
+  "totalNetE": 51.2
  }
 }
