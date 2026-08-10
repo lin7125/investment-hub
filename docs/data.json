@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 00:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 00:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 219.66,
-   "c": -1.92,
-   "a50": 206.18,
-   "a200": 194.17,
+   "p": 216.9,
+   "c": -3.15,
+   "a50": 206.13,
+   "a200": 194.16,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.62,
-   "r": 60.0
+   "a20": 207.49,
+   "r": 57.5
   },
   {
    "s": "TSLA",
-   "p": 330.3,
-   "c": 0.52,
+   "p": 329.93,
+   "c": 0.41,
    "a50": 378.2,
    "a200": 408.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.11,
-   "r": 42.2
+   "a20": 340.09,
+   "r": 42.1
   },
   {
    "s": "META",
-   "p": 596.78,
-   "c": 0.79,
-   "a50": 598.99,
+   "p": 595.68,
+   "c": 0.6,
+   "a50": 598.96,
    "a200": 630.61,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 609.27,
-   "r": 49.1
+   "a20": 609.21,
+   "r": 48.8
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7758.81,
-   "c": 0.02,
-   "a50": 7498.14,
-   "a200": 7055.15,
-   "yh": 7758.81,
+   "p": 7749.76,
+   "c": -0.1,
+   "a50": 7497.96,
+   "a200": 7055.1,
+   "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7537.58,
-   "r": 66.4
+   "a20": 7537.13,
+   "r": 65.6
   },
   {
    "s": "^VIX",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 86.5,
-   "c": 3.53,
+   "p": 86.69,
+   "c": 3.76,
    "a50": 84.47,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.56,
-   "r": 51.4
+   "a20": 87.57,
+   "r": 51.6
   },
   {
    "s": "GC=F",
-   "p": 4421.2,
-   "c": 1.85,
-   "a50": 4167.71,
-   "a200": 4480.34,
+   "p": 4422.5,
+   "c": 1.88,
+   "a50": 4167.74,
+   "a200": 4480.35,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4105.97,
+   "a20": 4106.04,
    "r": 68.6
   },
   {
    "s": "HG=F",
    "p": 6.63,
-   "c": 0.97,
+   "c": 0.93,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 61.3
+   "r": 61.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03101737,
-   "c": -0.11,
+   "c": -0.12,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100331.aspx"
   },
   {
-   "t": "US appeals court allows thousands of lawsuits against social media companies over user addiction claims to proceed",
+   "t": "Deal Valued At $1.1 Billion Sends This X-Ray Stock Soaring 48%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/us-appeals-court-allows-thousands-161341980.html"
+   "u": "https://www.investors.com/news/teledyne-technologies-tdy-stock-varex-imaging-vrex/?src=A00220&yptr=yahoo"
   },
   {
    "t": "友達、群創7月電視面板出貨疲弱　營收月減逾1成",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100328.aspx"
   },
   {
-   "t": "Energy Sector Rotation and Falling Oil Prices Pressure TotalEnergies SE (TTE)",
+   "t": "Tech stocks today: Meta lays out new AI path, Intel to sell $15 billion in stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/energy-sector-rotation-falling-oil-161152521.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-lays-out-new-ai-path-intel-to-sell-15-billion-in-stock-135605566.html"
   },
   {
    "t": "今彩539第115193期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608100325.aspx"
   },
   {
-   "t": "S&P 500 on Pace for Fresh Record Despite Early Struggles",
+   "t": "How mortgage preapproval works: A beginner's guide",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/livecoverage/stock-market-news-today-081026/card/s-p-500-on-pace-for-fresh-record-despite-early-struggles-pt8dWJtXY67oJzgmvqjt?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/real-estate/articles/mortgage-preapproval-works-beginners-guide-162227412.html"
   },
   {
    "t": "威力彩第115064期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100324.aspx"
   },
   {
-   "t": "Meta (META) Unveils Muse Glimmer as Open-Source AI Spending Debate Intensifies",
+   "t": "Weekly survey of mortgage lenders with the lowest rates: Lower rates and stiff fees",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/meta-meta-unveils-muse-glimmer-160609898.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-10-170834159.html"
   },
   {
    "t": "立陶宛獲評A+展望穩定　經濟成長居同級國家前列",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100322.aspx"
   },
   {
-   "t": "Sotera Health Company (SHC) Reported Positive Results Amid Litigation Wins",
+   "t": "US appeals court allows thousands of lawsuits against social media companies over user addiction claims to proceed",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/sotera-health-company-shc-reported-160255464.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/us-appeals-court-allows-thousands-161341980.html"
   },
   {
    "t": "韓國將啟動5兆韓元半導體基金　扶植具潛力企業",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100321.aspx"
   },
   {
-   "t": "Amazon, IBD Stock Of The Day, Rides Cloud Momentum To $3 Trillion Milestone",
+   "t": "Why Vertex Pharma Popped, As A Key Rival Plummeted 90%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/amazon-stock-ai-3-trillion-record-high/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/vertex-stock-sionna-therapeutics-cystic-fibrosis-treatment/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
