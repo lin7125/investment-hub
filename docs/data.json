@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 00:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 00:48（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 305.45,
-   "c": -2.51,
-   "a50": 309.64,
+   "p": 305.83,
+   "c": -2.39,
+   "a50": 309.65,
    "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.84,
-   "r": 42.4
+   "a20": 322.86,
+   "r": 42.6
   },
   {
    "s": "NVDA",
-   "p": 216.9,
-   "c": -3.15,
-   "a50": 206.13,
+   "p": 217.41,
+   "c": -2.92,
+   "a50": 206.14,
    "a200": 194.16,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.49,
-   "r": 57.5
+   "a20": 207.51,
+   "r": 57.9
   },
   {
    "s": "TSLA",
-   "p": 329.93,
-   "c": 0.41,
-   "a50": 378.2,
+   "p": 329.49,
+   "c": 0.28,
+   "a50": 378.19,
    "a200": 408.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.09,
-   "r": 42.1
+   "a20": 340.07,
+   "r": 41.9
   },
   {
    "s": "META",
-   "p": 595.68,
-   "c": 0.6,
-   "a50": 598.96,
-   "a200": 630.61,
+   "p": 592.93,
+   "c": 0.14,
+   "a50": 598.91,
+   "a200": 630.59,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 609.21,
-   "r": 48.8
+   "a20": 609.08,
+   "r": 47.9
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7749.76,
-   "c": -0.1,
-   "a50": 7497.96,
-   "a200": 7055.1,
+   "p": 7747.34,
+   "c": -0.13,
+   "a50": 7497.91,
+   "a200": 7055.09,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7537.13,
-   "r": 65.6
+   "a20": 7537.01,
+   "r": 65.3
   },
   {
    "s": "^VIX",
-   "p": 15.13,
-   "c": 1.54,
-   "a50": 17.26,
-   "a200": 18.56,
+   "p": 15.72,
+   "c": 5.5,
+   "a50": 17.27,
+   "a200": 18.57,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.06,
-   "r": 42.9
+   "a20": 17.09,
+   "r": 45.4
   },
   {
    "s": "BZ=F",
-   "p": 86.69,
-   "c": 3.76,
-   "a50": 84.47,
+   "p": 86.83,
+   "c": 3.93,
+   "a50": 84.48,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.57,
-   "r": 51.6
+   "a20": 87.58,
+   "r": 51.8
   },
   {
    "s": "GC=F",
-   "p": 4422.5,
-   "c": 1.88,
-   "a50": 4167.74,
-   "a200": 4480.35,
+   "p": 4418.4,
+   "c": 1.79,
+   "a50": 4167.66,
+   "a200": 4480.32,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4106.04,
-   "r": 68.6
+   "a20": 4105.83,
+   "r": 68.5
   },
   {
    "s": "HG=F",
-   "p": 6.63,
-   "c": 0.93,
+   "p": 6.62,
+   "c": 0.82,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 61.2
+   "r": 60.9
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100331.aspx"
   },
   {
-   "t": "Deal Valued At $1.1 Billion Sends This X-Ray Stock Soaring 48%",
+   "t": "Destiny USA CMBS Debt Faces More Than $350M in Losses",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/teledyne-technologies-tdy-stock-varex-imaging-vrex/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/real-estate/articles/destiny-usa-cmbs-debt-faces-164231802.html"
   },
   {
    "t": "友達、群創7月電視面板出貨疲弱　營收月減逾1成",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100328.aspx"
   },
   {
-   "t": "Tech stocks today: Meta lays out new AI path, Intel to sell $15 billion in stock",
+   "t": "Here's how SpaceX hits this $100 billion number in under 5 months",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-lays-out-new-ai-path-intel-to-sell-15-billion-in-stock-135605566.html"
+   "u": "https://finance.yahoo.com/markets/article/heres-how-spacex-hits-this-100-billion-number-in-under-5-months-163945554.html"
   },
   {
    "t": "今彩539第115193期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608100325.aspx"
   },
   {
-   "t": "How mortgage preapproval works: A beginner's guide",
+   "t": "Tech stocks still have plenty of believers on Wall Street, inflow data shows",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/mortgage-preapproval-works-beginners-guide-162227412.html"
+   "u": "https://finance.yahoo.com/technology/article/tech-stocks-still-have-plenty-of-believers-on-wall-street-inflow-data-shows-163544665.html"
   },
   {
    "t": "威力彩第115064期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100324.aspx"
   },
   {
-   "t": "Weekly survey of mortgage lenders with the lowest rates: Lower rates and stiff fees",
+   "t": "IBD 50 Stock To Watch: Travel Giant Expedia In Buy Zone Following Latest Breakout",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-10-170834159.html"
+   "u": "https://www.investors.com/research/expedia-stock-expe/?src=A00220&yptr=yahoo"
   },
   {
    "t": "立陶宛獲評A+展望穩定　經濟成長居同級國家前列",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100322.aspx"
   },
   {
-   "t": "US appeals court allows thousands of lawsuits against social media companies over user addiction claims to proceed",
+   "t": "Stock market today: Nasdaq slips, Dow and S&P 500 little changed in wait for key inflation data",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/us-appeals-court-allows-thousands-161341980.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html"
   },
   {
    "t": "韓國將啟動5兆韓元半導體基金　扶植具潛力企業",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100321.aspx"
   },
   {
-   "t": "Why Vertex Pharma Popped, As A Key Rival Plummeted 90%",
+   "t": "SpaceX Stock Has Plunged 34%. Elon Musk's \"Secret Master Plan\" Points to What Could Come Next.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/vertex-stock-sionna-therapeutics-cystic-fibrosis-treatment/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-plunged-34-elon-164000282.html"
   }
  ],
  "inst": {
