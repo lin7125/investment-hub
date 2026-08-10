@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 02:22（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 02:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.7,
-   "c": -2.11,
+   "p": 306.89,
+   "c": -2.06,
    "a50": 309.67,
    "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.9,
-   "r": 43.1
+   "a20": 322.91,
+   "r": 43.2
   },
   {
    "s": "NVDA",
-   "p": 218.46,
-   "c": -2.46,
+   "p": 218.52,
+   "c": -2.43,
    "a50": 206.16,
    "a200": 194.17,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.56,
+   "a20": 207.57,
    "r": 58.9
   },
   {
    "s": "TSLA",
-   "p": 329.12,
-   "c": 0.17,
-   "a50": 378.18,
-   "a200": 408.23,
+   "p": 328.4,
+   "c": -0.05,
+   "a50": 378.17,
+   "a200": 408.22,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.05,
-   "r": 41.7
+   "a20": 340.01,
+   "r": 41.3
   },
   {
    "s": "META",
-   "p": 593.46,
-   "c": 0.23,
-   "a50": 598.92,
-   "a200": 630.6,
+   "p": 593.08,
+   "c": 0.17,
+   "a50": 598.91,
+   "a200": 630.59,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 609.1,
-   "r": 48.1
+   "a20": 609.08,
+   "r": 48.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7749.72,
-   "c": -0.1,
-   "a50": 7497.96,
+   "p": 7748.92,
+   "c": -0.11,
+   "a50": 7497.95,
    "a200": 7055.1,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7537.13,
-   "r": 65.6
+   "a20": 7537.09,
+   "r": 65.5
   },
   {
    "s": "^VIX",
-   "p": 15.34,
-   "c": 2.95,
+   "p": 15.37,
+   "c": 3.15,
    "a50": 17.27,
    "a200": 18.57,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.07,
-   "r": 43.9
+   "r": 44.0
   },
   {
    "s": "BZ=F",
-   "p": 87.37,
-   "c": 4.57,
-   "a50": 84.49,
+   "p": 87.83,
+   "c": 5.12,
+   "a50": 84.5,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.61,
-   "r": 52.4
+   "a20": 87.63,
+   "r": 52.9
   },
   {
    "s": "GC=F",
-   "p": 4423.2,
-   "c": 1.9,
-   "a50": 4167.75,
+   "p": 4422.7,
+   "c": 1.89,
+   "a50": 4167.74,
    "a200": 4480.35,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4106.07,
-   "r": 68.7
+   "a20": 4106.05,
+   "r": 68.6
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.66,
+   "c": 0.61,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 60.5
+   "r": 60.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03100775,
-   "c": -0.12,
+   "c": -0.13,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100331.aspx"
   },
   {
-   "t": "This Trillion-Dollar AI Stock Offers Better Quantum Computing Exposure Than IonQ, Rigetti, or D-Wave at a Multi-Year Valuation Low",
+   "t": "This Is the 1 ETF Warren Buffett Recommends Most People Buy -- and History Says He's Always Been Right",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/trillion-dollar-ai-stock-offers-092500690.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/1-etf-warren-buffett-recommends-092900227.html"
   },
   {
    "t": "友達、群創7月電視面板出貨疲弱　營收月減逾1成",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608100325.aspx"
   },
   {
-   "t": "Eli Lilly (LLY) Posts Blowout Growth And Raises Its Outlook",
+   "t": "What Do Cost of Carry Tables Tell Us Heading Into Fall Harvest?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-posts-blowout-085111847.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/cost-carry-tables-tell-us-094525020.html"
   },
   {
    "t": "威力彩第115064期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100324.aspx"
   },
   {
-   "t": "What Do Cost of Carry Tables Tell Us Heading Into Fall Harvest?",
+   "t": "Eli Lilly (LLY) Posts Blowout Growth And Raises Its Outlook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/cost-carry-tables-tell-us-094525020.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-posts-blowout-085111847.html"
   },
   {
    "t": "立陶宛獲評A+展望穩定　經濟成長居同級國家前列",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100321.aspx"
   },
   {
-   "t": "Down 29%, Is MercadoLibre Stock a Better Buy Than SpaceX and the \"Magnificent Seven\" Stocks in August?",
+   "t": "How Liquid Are Private-Credit Funds? It Depends How You Define ‘Liquidity’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/down-29-mercadolibre-stock-better-092000043.html"
+   "u": "https://www.wsj.com/articles/how-liquid-are-private-credit-funds-it-depends-how-you-define-liquidity-854ebcb0?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
