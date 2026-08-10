@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10 23:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-10 23:26（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.57,
-   "c": -2.16,
+   "p": 306.49,
+   "c": -2.18,
    "a50": 309.67,
    "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 322.89,
-   "r": 43.1
+   "r": 43.0
   },
   {
    "s": "NVDA",
-   "p": 219.35,
-   "c": -2.06,
-   "a50": 206.18,
+   "p": 219.22,
+   "c": -2.12,
+   "a50": 206.17,
    "a200": 194.17,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.61,
-   "r": 59.7
+   "a20": 207.6,
+   "r": 59.6
   },
   {
    "s": "TSLA",
-   "p": 329.93,
-   "c": 0.41,
-   "a50": 378.2,
+   "p": 329.7,
+   "c": 0.34,
+   "a50": 378.19,
    "a200": 408.23,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.09,
-   "r": 42.1
+   "a20": 340.08,
+   "r": 42.0
   },
   {
    "s": "META",
-   "p": 599.7,
-   "c": 1.28,
-   "a50": 599.05,
+   "p": 599.25,
+   "c": 1.21,
+   "a50": 599.04,
    "a200": 630.63,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 609.41,
-   "r": 50.0
+   "a20": 609.39,
+   "r": 49.9
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7764.3,
-   "c": 0.09,
-   "a50": 7498.25,
-   "a200": 7055.17,
-   "yh": 7764.3,
+   "p": 7759.56,
+   "c": 0.02,
+   "a50": 7498.16,
+   "a200": 7055.15,
+   "yh": 7759.56,
    "yl": 6343.72,
-   "a20": 7537.85,
-   "r": 66.6
+   "a20": 7537.62,
+   "r": 66.4
   },
   {
    "s": "^VIX",
-   "p": 15.21,
-   "c": 2.08,
+   "p": 15.22,
+   "c": 2.15,
    "a50": 17.26,
    "a200": 18.56,
    "yh": 31.05,
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 86.41,
-   "c": 3.42,
-   "a50": 84.47,
+   "p": 86.31,
+   "c": 3.3,
+   "a50": 84.46,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.56,
-   "r": 51.3
+   "a20": 87.55,
+   "r": 51.2
   },
   {
    "s": "GC=F",
-   "p": 4406.4,
-   "c": 1.51,
-   "a50": 4167.42,
-   "a200": 4480.26,
+   "p": 4408.9,
+   "c": 1.57,
+   "a50": 4167.47,
+   "a200": 4480.28,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4105.23,
-   "r": 68.0
+   "a20": 4105.36,
+   "r": 68.1
   },
   {
    "s": "HG=F",
    "p": 6.64,
-   "c": 1.02,
+   "c": 1.0,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03101737,
-   "c": -0.1,
+   "p": 0.03102699,
+   "c": -0.06,
    "a50": 0.03128911,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100331.aspx"
   },
   {
-   "t": "SpaceX Has Already Imploded 48% — But This Wall Street Vet Just Warned Against Bottom-Fishing",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq little changed in wait for key inflation data",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-already-imploded-48-wall-150120377.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html"
   },
   {
    "t": "友達、群創7月電視面板出貨疲弱　營收月減逾1成",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100328.aspx"
   },
   {
-   "t": "Cathie Wood Ignores AI Panic — Buys More Nvidia, Sells This Gaming Stock Instead",
+   "t": "Why Rigetti Stock Fell 22% in July",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ignores-ai-panic-145750434.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-rigetti-stock-fell-22-150800146.html"
   },
   {
    "t": "今彩539第115193期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608100325.aspx"
   },
   {
-   "t": "Is Netflix’s (NFLX) Long-Term Dominance Under Threat?",
+   "t": "SpaceX Rivals Rocket Lab, AST SpaceMobile About To Report Earnings. What To Expect.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/netflix-nflx-long-term-dominance-145700986.html"
+   "u": "https://www.investors.com/news/spacex-rocket-lab-ast-spacemobile-earnings-electron-launch-neutron-rocket/?src=A00220&yptr=yahoo"
   },
   {
    "t": "威力彩第115064期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100324.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq little changed in wait for key inflation data",
+   "t": "Evaluating Datadog’s Reincorporation Proposal and Governance Roadmap",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/evaluating-datadog-reincorporation-proposal-governance-150244423.html"
   },
   {
    "t": "立陶宛獲評A+展望穩定　經濟成長居同級國家前列",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100322.aspx"
   },
   {
-   "t": "Here’s Why Sands Capital Technology Innovators Fund Sold Roblox Corporation (RBLX)",
+   "t": "AI Workload Evolution Is Creating a New Growth Catalyst for Arm Holdings plc (ARM)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-sands-capital-technology-innovators-145606840.html"
+   "u": "https://finance.yahoo.com/technology/articles/ai-workload-evolution-creating-growth-150103838.html"
   },
   {
    "t": "韓國將啟動5兆韓元半導體基金　扶植具潛力企業",
