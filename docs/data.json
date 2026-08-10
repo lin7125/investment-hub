@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 00:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 00:11（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.19,
-   "c": -2.28,
+   "p": 306.06,
+   "c": -2.32,
    "a50": 309.66,
    "a200": 279.63,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.88,
-   "r": 42.8
+   "a20": 322.87,
+   "r": 42.7
   },
   {
    "s": "NVDA",
-   "p": 219.59,
-   "c": -1.95,
+   "p": 219.68,
+   "c": -1.91,
    "a50": 206.18,
    "a200": 194.17,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 207.62,
-   "r": 59.9
+   "r": 60.0
   },
   {
    "s": "TSLA",
-   "p": 331.33,
-   "c": 0.84,
-   "a50": 378.23,
+   "p": 331.05,
+   "c": 0.75,
+   "a50": 378.22,
    "a200": 408.24,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 340.16,
-   "r": 42.7
+   "a20": 340.15,
+   "r": 42.6
   },
   {
    "s": "META",
-   "p": 599.53,
-   "c": 1.26,
-   "a50": 599.04,
+   "p": 599.91,
+   "c": 1.32,
+   "a50": 599.05,
    "a200": 630.63,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 609.41,
-   "r": 50.0
+   "a20": 609.43,
+   "r": 50.1
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7763.41,
+   "p": 7763.14,
    "c": 0.07,
-   "a50": 7498.24,
+   "a50": 7498.23,
    "a200": 7055.17,
-   "yh": 7763.41,
+   "yh": 7763.14,
    "yl": 6343.72,
-   "a20": 7537.81,
+   "a20": 7537.8,
    "r": 66.6
   },
   {
    "s": "^VIX",
-   "p": 15.14,
-   "c": 1.61,
+   "p": 15.12,
+   "c": 1.48,
    "a50": 17.26,
    "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.06,
-   "r": 43.0
+   "r": 42.9
   },
   {
    "s": "BZ=F",
-   "p": 86.73,
-   "c": 3.81,
+   "p": 86.58,
+   "c": 3.63,
    "a50": 84.47,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.57,
-   "r": 51.7
+   "r": 51.5
   },
   {
    "s": "GC=F",
-   "p": 4416.5,
-   "c": 1.75,
-   "a50": 4167.62,
-   "a200": 4480.32,
+   "p": 4419.4,
+   "c": 1.81,
+   "a50": 4167.68,
+   "a200": 4480.33,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4105.74,
-   "r": 68.4
+   "a20": 4105.88,
+   "r": 68.5
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 1.12,
+   "p": 6.65,
+   "c": 1.15,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100331.aspx"
   },
   {
-   "t": "Pro-Dex Inc (PDEX) Positioned to Strengthen with Zimmer’s mBos Robot Commercialization",
+   "t": "Why Micron is Decisively Better Positioned Than Intel Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/pro-dex-inc-pdex-positioned-154653895.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-micron-decisively-better-positioned-155340568.html"
   },
   {
    "t": "友達、群創7月電視面板出貨疲弱　營收月減逾1成",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100328.aspx"
   },
   {
-   "t": "Analyst Warns Alphabet (GOOG) Faces Two Major AI Problems; SpaceX (SPCX) a Better AI Bet?",
+   "t": "‘Groceries are too high!’ Thomas Massie says PRIME Act could lower beef and pork costs, but not overnight. Will it work?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/analyst-warns-alphabet-goog-faces-154504509.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/groceries-too-high-thomas-massie-155000594.html"
   },
   {
    "t": "今彩539第115193期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608100325.aspx"
   },
   {
-   "t": "Powerball jackpot climbs to $905 million. What you’d pocket after taxes, and what to do with the rest.",
+   "t": "Pro-Dex Inc (PDEX) Positioned to Strengthen with Zimmer’s mBos Robot Commercialization",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/powerball-jackpot-climbs-to-905-million-what-youd-pocket-after-taxes-and-what-to-do-with-the-rest-154401967.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/pro-dex-inc-pdex-positioned-154653895.html"
   },
   {
    "t": "威力彩第115064期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608100324.aspx"
   },
   {
-   "t": "Perma Fix Environmental Services’ (PESI) Strong Backlog Overshadows Weak Results",
+   "t": "Alarm Bells Are Sounding for the Grid: Answering Them Takes More Than Megawatts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/perma-fix-environmental-services-pesi-154243279.html"
+   "u": "https://finance.yahoo.com/energy/articles/alarm-bells-sounding-grid-answering-154547511.html"
   },
   {
    "t": "立陶宛獲評A+展望穩定　經濟成長居同級國家前列",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100322.aspx"
   },
   {
-   "t": "Daily – Vickers Top Buyers & Sellers for 08/10/2026",
+   "t": "Analyst Warns Alphabet (GOOG) Faces Two Major AI Problems; SpaceX (SPCX) a Better AI Bet?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_47864_TopBottomInsiderActivity_1786362180000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/technology/ai/articles/analyst-warns-alphabet-goog-faces-154504509.html"
   },
   {
    "t": "韓國將啟動5兆韓元半導體基金　扶植具潛力企業",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608100321.aspx"
   },
   {
-   "t": "Stock market today: Nasdaq slips, Dow and S&P 500 little changed in wait for key inflation data",
+   "t": "Daily – Vickers Top Buyers & Sellers for 08/10/2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_47864_TopBottomInsiderActivity_1786362180000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
