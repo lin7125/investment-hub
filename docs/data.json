@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 11:15（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 11:26（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,135 +14,135 @@
   },
   {
    "s": "2317.TW",
-   "p": 262.0,
-   "c": -0.95,
-   "a50": 255.01,
+   "p": 262.5,
+   "c": -0.76,
+   "a50": 255.02,
    "a200": 234.98,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 248.9,
-   "r": 57.6
+   "a20": 248.92,
+   "r": 58.0
   },
   {
    "s": "2308.TW",
-   "p": 1825.0,
-   "c": 0.55,
-   "a50": 1943.1,
-   "a200": 1509.44,
+   "p": 1820.0,
+   "c": 0.28,
+   "a50": 1943.0,
+   "a200": 1509.42,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1722.0,
-   "r": 53.1
+   "a20": 1721.75,
+   "r": 52.8
   },
   {
    "s": "2454.TW",
-   "p": 3935.0,
-   "c": -0.63,
-   "a50": 4007.1,
-   "a200": 2405.2,
+   "p": 3940.0,
+   "c": -0.51,
+   "a50": 4007.2,
+   "a200": 2405.22,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3686.0,
-   "r": 53.8
+   "a20": 3686.25,
+   "r": 53.9
   },
   {
    "s": "2327.TW",
-   "p": 614.0,
-   "c": 7.16,
-   "a50": 807.51,
-   "a200": 422.04,
+   "p": 611.0,
+   "c": 6.63,
+   "a50": 807.45,
+   "a200": 422.02,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 613.02,
-   "r": 45.1
+   "a20": 612.88,
+   "r": 44.8
   },
   {
    "s": "1802.TW",
-   "p": 55.2,
-   "c": 0.91,
-   "a50": 61.55,
+   "p": 55.4,
+   "c": 1.28,
+   "a50": 61.56,
    "a200": 51.84,
    "yh": 76.6,
    "yl": 24.7,
-   "a20": 52.71,
-   "r": 49.2
+   "a20": 52.72,
+   "r": 49.6
   },
   {
    "s": "6862.TW",
-   "p": 150.0,
-   "c": 0.67,
-   "a50": 173.83,
-   "a200": 177.76,
+   "p": 149.0,
+   "c": 0.0,
+   "a50": 173.81,
+   "a200": 177.75,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 143.43,
-   "r": 48.1
+   "a20": 143.38,
+   "r": 47.4
   },
   {
    "s": "3701.TW",
-   "p": 41.2,
-   "c": 0.12,
-   "a50": 44.18,
+   "p": 41.1,
+   "c": -0.12,
+   "a50": 44.17,
    "a200": 48.79,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.49,
-   "r": 50.0
+   "a20": 39.48,
+   "r": 49.7
   },
   {
    "s": "4722.TW",
-   "p": 215.0,
-   "c": -0.23,
-   "a50": 243.16,
-   "a200": 199.14,
+   "p": 217.5,
+   "c": 0.93,
+   "a50": 243.21,
+   "a200": 199.16,
    "yh": 306.5,
    "yl": 78.1,
-   "a20": 210.9,
-   "r": 47.9
+   "a20": 211.02,
+   "r": 48.7
   },
   {
    "s": "6706.TW",
-   "p": 118.5,
-   "c": 3.04,
-   "a50": 139.64,
+   "p": 117.5,
+   "c": 2.17,
+   "a50": 139.62,
    "a200": 125.58,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 109.0,
-   "r": 50.0
+   "a20": 108.95,
+   "r": 49.3
   },
   {
    "s": "2305.TW",
-   "p": 27.3,
-   "c": -6.02,
+   "p": 27.35,
+   "c": -5.85,
    "a50": 31.74,
    "a200": 18.28,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 30.84,
-   "r": 41.9
+   "a20": 30.85,
+   "r": 42.0
   },
   {
    "s": "6442.TW",
-   "p": 1415.0,
-   "c": -0.7,
-   "a50": 1588.2,
-   "a200": 1576.2,
+   "p": 1420.0,
+   "c": -0.35,
+   "a50": 1588.3,
+   "a200": 1576.23,
    "yh": 2370.0,
    "yl": 648.0,
-   "a20": 1307.5,
-   "r": 50.9
+   "a20": 1307.75,
+   "r": 51.1
   },
   {
    "s": "6515.TW",
-   "p": 6915.0,
-   "c": 1.24,
-   "a50": 7761.1,
-   "a200": 5925.72,
+   "p": 6850.0,
+   "c": 0.29,
+   "a50": 7759.8,
+   "a200": 5925.4,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6399.75,
-   "r": 50.0
+   "a20": 6396.5,
+   "r": 49.2
   },
   {
    "s": "6446.TW",
@@ -157,14 +157,14 @@
   },
   {
    "s": "3324.TWO",
-   "p": 1030.0,
-   "c": 1.98,
-   "a50": 991.42,
-   "a200": 997.44,
+   "p": 1035.0,
+   "c": 2.48,
+   "a50": 991.52,
+   "a200": 997.46,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 930.7,
-   "r": 58.5
+   "a20": 930.95,
+   "r": 59.0
   },
   {
    "s": "3491.TWO",
@@ -179,24 +179,24 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.9,
-   "c": -7.93,
-   "a50": 62.74,
+   "p": 50.0,
+   "c": -7.75,
+   "a50": 62.75,
    "a200": 40.94,
    "yh": 165.0,
    "yl": 5.63,
    "a20": 48.2,
-   "r": 45.8
+   "r": 45.9
   },
   {
    "s": "6223.TWO",
-   "p": 6280.0,
-   "c": 0.88,
-   "a50": 6173.7,
-   "a200": 3949.95,
+   "p": 6275.0,
+   "c": 0.8,
+   "a50": 6173.6,
+   "a200": 3949.92,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5802.25,
+   "a20": 5802.0,
    "r": 54.4
   },
   {
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 44901.22,
-   "c": -0.06,
-   "a50": 44782.22,
-   "a200": 35626.87,
+   "p": 44892.77,
+   "c": -0.08,
+   "a50": 44782.05,
+   "a200": 35626.83,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43604.14,
+   "a20": 43603.72,
    "r": 54.7
   },
   {
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4473.4,
-   "c": 3.06,
-   "a50": 4168.76,
-   "a200": 4480.6,
+   "p": 4475.1,
+   "c": 3.1,
+   "a50": 4168.79,
+   "a200": 4480.61,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4108.58,
+   "a20": 4108.67,
    "r": 70.6
   },
   {
    "s": "HG=F",
-   "p": 6.66,
-   "c": 1.38,
+   "p": 6.65,
+   "c": 1.25,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 62.3
+   "r": 62.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03103662,
-   "c": 0.03,
+   "p": 0.03104626,
+   "c": 0.07,
    "a50": 0.03126954,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "台股開盤跌44.86點",
+   "t": "台股盤中震盪　被動元件族群走強",
    "pub": "中央社財經",
    "d": "2026-08-11",
-   "u": "https://www.cna.com.tw/news/afe/202608110024.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608110056.aspx"
   },
   {
    "t": "Dividend King Coca-Cola is suddenly acting like a growth stock",
@@ -344,22 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/dividend-king-coca-cola-suddenly-160300397.html"
   },
   {
-   "t": "新台幣開盤貶1.9分　為32.25元",
+   "t": "聯電股價第2季大漲108元　矽統每股淨值竄升至95元",
    "pub": "中央社財經",
    "d": "2026-08-11",
-   "u": "https://www.cna.com.tw/news/afe/202608110023.aspx"
-  },
-  {
-   "t": "Billionaire Larry Fink Warns Keeping Your Savings in a Bank Account Is 'One Of The Worst Financial Decisions Of A Lifetime' — But Mark Cuban Told People To Do the Opposite",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-larry-fink-warns-keeping-153002541.html"
-  },
-  {
-   "t": "美股收跌費半挫近3%　投顧：本週聚焦電子股法說",
-   "pub": "中央社財經",
-   "d": "2026-08-11",
-   "u": "https://www.cna.com.tw/news/afe/202608110019.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608110035.aspx"
   },
   {
    "t": "A $72 Billion Reason to Buy Caterpillar Stock Now",
@@ -368,10 +356,22 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/72-billion-reason-buy-caterpillar-160002878.html"
   },
   {
-   "t": "川普媒體Q2虧損逾10倍　加密幣等數位資產跌價",
+   "t": "和運租車每股42元掛牌上市　早盤上漲7%",
    "pub": "中央社財經",
    "d": "2026-08-11",
-   "u": "https://www.cna.com.tw/news/aopl/202608110015.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608110030.aspx"
+  },
+  {
+   "t": "Billionaire Larry Fink Warns Keeping Your Savings in a Bank Account Is 'One Of The Worst Financial Decisions Of A Lifetime' — But Mark Cuban Told People To Do the Opposite",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-larry-fink-warns-keeping-153002541.html"
+  },
+  {
+   "t": "日圓回吐近半漲幅　市場關注日本央行升息步伐",
+   "pub": "中央社財經",
+   "d": "2026-08-11",
+   "u": "https://www.cna.com.tw/news/aopl/202608110028.aspx"
   },
   {
    "t": "Seek more context when you hear these popular words and phrases about markets",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/economy/article/seek-more-context-when-you-hear-these-popular-words-and-phrases-about-markets-163746764.html"
   },
   {
-   "t": "輝達攜手華爾街巨擘募資　擴大AI基建與生態系統",
+   "t": "美股收跌台股早盤震盪翻紅　台積電上漲5元",
    "pub": "中央社財經",
    "d": "2026-08-11",
-   "u": "https://www.cna.com.tw/news/afe/202608110013.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608110027.aspx"
   },
   {
    "t": "How caregiving can blow a hole in retirement savings",
@@ -392,16 +392,16 @@
    "u": "https://finance.yahoo.com/economy/article/how-caregiving-can-blow-a-hole-in-retirement-savings-164639249.html"
   },
   {
-   "t": "荷莫茲海峽重開協議陷不確定性　美國股市收跌",
+   "t": "台股開盤跌44.86點",
    "pub": "中央社財經",
    "d": "2026-08-11",
-   "u": "https://www.cna.com.tw/news/afe/202608110010.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608110024.aspx"
   },
   {
-   "t": "Palo Alto Networks Is Worth Nearly $300 Billion. A Year Ago It Was Worth About $113 Billion.",
+   "t": "Iranian Demands Disrupt Trump’s Plan to End the War",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-worth-nearly-155400611.html"
+   "u": "https://www.wsj.com/finance/iranian-demands-disrupt-trumps-plan-to-end-the-war-4ca53b85?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
