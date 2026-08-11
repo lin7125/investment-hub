@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 00:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 00:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.53,
-   "c": -0.56,
-   "a50": 309.59,
+   "p": 306.07,
+   "c": -0.71,
+   "a50": 309.58,
    "a200": 279.88,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.56,
-   "r": 42.9
+   "a20": 322.54,
+   "r": 42.6
   },
   {
    "s": "NVDA",
-   "p": 219.18,
-   "c": 0.75,
-   "a50": 206.3,
+   "p": 218.53,
+   "c": 0.45,
+   "a50": 206.29,
    "a200": 194.35,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.89,
-   "r": 59.2
+   "a20": 207.85,
+   "r": 58.7
   },
   {
    "s": "TSLA",
-   "p": 332.06,
-   "c": 0.36,
+   "p": 331.75,
+   "c": 0.26,
    "a50": 376.14,
    "a200": 407.7,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 336.93,
-   "r": 43.1
+   "a20": 336.92,
+   "r": 43.0
   },
   {
    "s": "META",
-   "p": 604.06,
-   "c": 1.54,
-   "a50": 598.38,
-   "a200": 629.96,
+   "p": 603.44,
+   "c": 1.43,
+   "a50": 598.37,
+   "a200": 629.95,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 606.33,
-   "r": 51.4
+   "a20": 606.3,
+   "r": 51.3
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7742.25,
-   "c": -0.14,
-   "a50": 7501.27,
-   "a200": 7060.33,
+   "p": 7736.66,
+   "c": -0.21,
+   "a50": 7501.16,
+   "a200": 7060.3,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7547.23,
-   "r": 64.8
+   "a20": 7546.95,
+   "r": 64.2
   },
   {
    "s": "^VIX",
-   "p": 15.38,
-   "c": -0.52,
+   "p": 15.47,
+   "c": 0.06,
    "a50": 17.27,
    "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.02,
-   "r": 44.1
+   "a20": 17.03,
+   "r": 44.4
   },
   {
    "s": "BZ=F",
-   "p": 88.5,
-   "c": 0.89,
+   "p": 88.36,
+   "c": 0.73,
    "a50": 84.42,
    "a200": 81.41,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.81,
-   "r": 53.7
+   "a20": 87.8,
+   "r": 53.5
   },
   {
    "s": "GC=F",
-   "p": 4440.4,
-   "c": 1.8,
-   "a50": 4164.12,
-   "a200": 4482.02,
+   "p": 4443.0,
+   "c": 1.86,
+   "a50": 4164.17,
+   "a200": 4482.03,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4121.97,
-   "r": 69.6
+   "a20": 4122.1,
+   "r": 69.7
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 0.68,
+   "p": 6.63,
+   "c": 0.61,
    "a50": 6.35,
    "a200": 5.85,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.44,
-   "r": 61.6
+   "r": 61.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03103662,
-   "c": 0.05,
+   "p": 0.03104626,
+   "c": 0.07,
    "a50": 0.03126954,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110382.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq dip as US, Iran reach impasse",
+   "t": "MoneyGram brings cash-to-crypto service to Solana",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/moneygram-brings-cash-crypto-solana-163546890.html"
   },
   {
    "t": "陳冠如任職國票證及雷虎　金管會：證券無產金分離規定",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110379.aspx"
   },
   {
-   "t": "NYPD investigates gold bar scam that has stolen more than $100 million from retirees.",
+   "t": "A town outside of Boston is the hottest ZIP code in the US — you may need $50,000 over asking price to buy a home there",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/nypd-investigates-gold-bar-scam-161500522.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/town-outside-boston-hottest-zip-163500603.html"
   },
   {
    "t": "信驊違約交割1800萬　今年櫃買第13次達揭露標準",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110377.aspx"
   },
   {
-   "t": "Jim Cramer Weighs In on SoFi’s (SOFI) $16–$19 Range",
+   "t": "Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-sofi-sofi-161447804.html"
+   "u": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-ai-giants-nvidia-stock-nvda-amazon-amzn/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115194期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110374.aspx"
   },
   {
-   "t": "Lake Victoria Gold Unveils Maiden 580,000-Ounce Resource at Tembo Project in Tanzania",
+   "t": "Government fights trade judge’s order for tariff refunds to all importers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/lake-victoria-gold-unveils-maiden-161323906.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/government-fights-trade-judge-order-162501578.html"
   },
   {
    "t": "大樂透第115078期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110373.aspx"
   },
   {
-   "t": "Daily Spotlight: Sovereign Debt Yields",
+   "t": "Skip short-term gains: Jim Cramer says retirement wealth comes down to 3 key assets. Do you own the right ones?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_47879_MarketOutlook_1786447655000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/skip-short-term-gains-jim-162000487.html"
   },
   {
    "t": "兆基屋管聯貸案　金管會：目前履約付息皆正常",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110366.aspx"
   },
   {
-   "t": "AI Manufacturing Stock Rises Above Key Level On Analyst 'Buy' Rating",
+   "t": "Daily Spotlight: Sovereign Debt Yields",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/jabil-jbl-stock-ai-manufacturing-analyst-upgrade/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_47879_MarketOutlook_1786447655000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
