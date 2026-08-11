@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 04:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 04:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,36 +278,36 @@
   },
   {
    "s": "^VIX",
-   "p": 15.32,
-   "c": -0.91,
+   "p": 15.27,
+   "c": -1.23,
    "a50": 17.27,
    "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.02,
-   "r": 43.9
+   "r": 43.7
   },
   {
    "s": "BZ=F",
-   "p": 89.12,
-   "c": 1.6,
-   "a50": 84.43,
+   "p": 89.17,
+   "c": 1.65,
+   "a50": 84.44,
    "a200": 81.42,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.84,
-   "r": 54.4
+   "r": 54.5
   },
   {
    "s": "GC=F",
-   "p": 4427.8,
-   "c": 1.51,
-   "a50": 4163.87,
-   "a200": 4481.96,
+   "p": 4429.6,
+   "c": 1.55,
+   "a50": 4163.91,
+   "a200": 4481.97,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4121.33,
-   "r": 69.0
+   "a20": 4121.43,
+   "r": 69.1
   },
   {
    "s": "HG=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03102699,
-   "c": 0.02,
+   "p": 0.03103662,
+   "c": 0.03,
    "a50": 0.03126954,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110382.aspx"
   },
   {
-   "t": "Unitree's Shanghai IPO more than 8,000 times oversubscribed by retail investors",
+   "t": "S&P 500 Companies' Second-Quarter Profit Boomed — What's Next?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/unitrees-shanghai-ipo-more-8-112909363.html"
+   "u": "https://www.investors.com/etfs-and-funds/sectors/sp-500-companies-second-quarter-profit-boomed-whats-next/?src=A00220&yptr=yahoo"
   },
   {
    "t": "陳冠如任職國票證及雷虎　金管會：證券無產金分離規定",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110379.aspx"
   },
   {
-   "t": "S&P 500 Companies' Second-Quarter Profit Boomed — What's Next?",
+   "t": "Why Didn't a $100 Billion Lockup Expiration Crash SpaceX Stock? 3 Numbers That Explain Its 10% Rally.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/etfs-and-funds/sectors/sp-500-companies-second-quarter-profit-boomed-whats-next/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-didnt-100-billion-lockup-113002361.html"
   },
   {
    "t": "信驊違約交割1800萬　今年櫃買第13次達揭露標準",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110377.aspx"
   },
   {
-   "t": "Why Didn't a $100 Billion Lockup Expiration Crash SpaceX Stock? 3 Numbers That Explain Its 10% Rally.",
+   "t": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea Oil Exports",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-didnt-100-billion-lockup-113002361.html"
+   "u": "https://finance.yahoo.com/energy/articles/kazakhstan-weighs-routes-drone-strikes-113000568.html"
   },
   {
    "t": "今彩539第115194期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110374.aspx"
   },
   {
-   "t": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea Oil Exports",
+   "t": "Unitree's Shanghai IPO more than 8,000 times oversubscribed by retail investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/kazakhstan-weighs-routes-drone-strikes-113000568.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/unitrees-shanghai-ipo-more-8-112909363.html"
   },
   {
    "t": "大樂透第115078期　頭獎槓龜",
