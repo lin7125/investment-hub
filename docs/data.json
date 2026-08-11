@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 13:39（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 13:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,25 +14,25 @@
   },
   {
    "s": "2317.TW",
-   "p": 263.5,
-   "c": -0.38,
-   "a50": 255.04,
+   "p": 263.0,
+   "c": -0.57,
+   "a50": 255.03,
    "a200": 234.98,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 248.98,
-   "r": 58.8
+   "a20": 248.95,
+   "r": 58.4
   },
   {
    "s": "2308.TW",
-   "p": 1810.0,
-   "c": -0.28,
-   "a50": 1942.8,
-   "a200": 1509.36,
+   "p": 1805.0,
+   "c": -0.55,
+   "a50": 1942.7,
+   "a200": 1509.34,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1721.25,
-   "r": 52.3
+   "a20": 1721.0,
+   "r": 52.0
   },
   {
    "s": "2454.TW",
@@ -47,25 +47,25 @@
   },
   {
    "s": "2327.TW",
-   "p": 613.0,
-   "c": 6.98,
-   "a50": 807.49,
-   "a200": 422.03,
+   "p": 611.0,
+   "c": 6.63,
+   "a50": 807.45,
+   "a200": 422.02,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 612.98,
-   "r": 45.0
+   "a20": 612.88,
+   "r": 44.8
   },
   {
    "s": "1802.TW",
-   "p": 56.0,
-   "c": 2.38,
-   "a50": 61.57,
+   "p": 55.7,
+   "c": 1.83,
+   "a50": 61.56,
    "a200": 51.85,
    "yh": 76.6,
    "yl": 24.7,
-   "a20": 52.75,
-   "r": 50.6
+   "a20": 52.73,
+   "r": 50.1
   },
   {
    "s": "6862.TW",
@@ -91,36 +91,36 @@
   },
   {
    "s": "4722.TW",
-   "p": 214.5,
-   "c": -0.46,
-   "a50": 243.15,
+   "p": 214.0,
+   "c": -0.7,
+   "a50": 243.14,
    "a200": 199.14,
    "yh": 306.5,
    "yl": 78.1,
-   "a20": 210.88,
-   "r": 47.7
+   "a20": 210.85,
+   "r": 47.5
   },
   {
    "s": "6706.TW",
-   "p": 118.0,
-   "c": 2.61,
-   "a50": 139.63,
+   "p": 117.0,
+   "c": 1.74,
+   "a50": 139.61,
    "a200": 125.58,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 108.97,
-   "r": 49.6
+   "a20": 108.92,
+   "r": 48.9
   },
   {
    "s": "2305.TW",
-   "p": 27.25,
-   "c": -6.2,
+   "p": 27.3,
+   "c": -6.02,
    "a50": 31.74,
    "a200": 18.28,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 30.84,
-   "r": 41.8
+   "r": 41.9
   },
   {
    "s": "6442.TW",
@@ -168,36 +168,36 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1265.0,
-   "c": 2.43,
-   "a50": 1374.54,
-   "a200": 1177.17,
+   "p": 1270.0,
+   "c": 2.83,
+   "a50": 1374.64,
+   "a200": 1177.19,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1191.1,
-   "r": 51.3
+   "a20": 1191.35,
+   "r": 51.6
   },
   {
    "s": "3585.TWO",
-   "p": 50.2,
-   "c": -7.38,
-   "a50": 62.75,
+   "p": 50.5,
+   "c": -6.83,
+   "a50": 62.76,
    "a200": 40.94,
    "yh": 165.0,
    "yl": 5.63,
-   "a20": 48.21,
-   "r": 46.1
+   "a20": 48.23,
+   "r": 46.5
   },
   {
    "s": "6223.TWO",
-   "p": 6295.0,
-   "c": 1.12,
-   "a50": 6174.0,
-   "a200": 3950.02,
+   "p": 6280.0,
+   "c": 0.88,
+   "a50": 6173.7,
+   "a200": 3949.95,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5803.0,
-   "r": 54.6
+   "a20": 5802.25,
+   "r": 54.4
   },
   {
    "s": "6750.TWO",
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 45141.73,
+   "p": 45141.38,
    "c": 0.47,
-   "a50": 44787.03,
+   "a50": 44787.02,
    "a200": 35628.07,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43616.17,
+   "a20": 43616.15,
    "r": 55.8
   },
   {
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.94,
-   "c": 0.25,
+   "p": 87.87,
+   "c": 0.17,
    "a50": 84.41,
    "a200": 81.41,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.78,
-   "r": 53.1
+   "r": 53.0
   },
   {
    "s": "GC=F",
-   "p": 4450.7,
-   "c": 2.04,
-   "a50": 4164.33,
-   "a200": 4482.07,
+   "p": 4441.1,
+   "c": 1.82,
+   "a50": 4164.14,
+   "a200": 4482.03,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4122.48,
-   "r": 70.0
+   "a20": 4122.0,
+   "r": 69.6
   },
   {
    "s": "HG=F",
-   "p": 6.63,
-   "c": 0.47,
+   "p": 6.62,
+   "c": 0.4,
    "a50": 6.34,
    "a200": 5.85,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.44,
-   "r": 61.0
+   "r": 60.9
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110089.aspx"
   },
   {
-   "t": "Global-E COO Tamari Shahar Sells 24,999 Shares for $1.0 Million -- Should Investors Take Note?",
+   "t": "AI Spending is Slowing Down. How Will the S&P 500 React?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/global-e-coo-tamari-shahar-180112000.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ai-spending-slowing-down-p-180451682.html"
   },
   {
    "t": "新光三越估花2年8個月改造北車　餐飲占比降至7成",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110056.aspx"
   },
   {
-   "t": "Ford’s (F) $28,350 Electric Pickup Bet Meets A Cheap Stock",
+   "t": "IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profits?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ford-f-28-350-electric-174959508.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/iren-iren-vs-corz-apld-182431338.html"
   },
   {
    "t": "聯電股價第2季大漲108元　矽統每股淨值竄升至95元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110035.aspx"
   },
   {
-   "t": "IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profits?",
+   "t": "Ford’s (F) $28,350 Electric Pickup Bet Meets A Cheap Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/iren-iren-vs-corz-apld-182431338.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ford-f-28-350-electric-174959508.html"
   },
   {
    "t": "和運租車每股42元掛牌上市　早盤上漲7%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110030.aspx"
   },
   {
-   "t": "Inflation Data, Super Micro, Cisco, Rocket Lab, Tapestry, and More to Watch This Week",
+   "t": "Zoetis Q2 Earnings Call Highlights",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/inflation-data-super-micro-cisco-rocket-lab-tapestry-and-more-to-watch-this-week-14826711?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/zoetis-q2-earnings-call-highlights-180354196.html"
   }
  ],
  "inst": {
