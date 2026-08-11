@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 02:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 02:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 304.96,
-   "c": -1.07,
-   "a50": 309.56,
+   "p": 304.72,
+   "c": -1.15,
+   "a50": 309.55,
    "a200": 279.87,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.48,
-   "r": 41.9
+   "a20": 322.47,
+   "r": 41.8
   },
   {
    "s": "NVDA",
-   "p": 217.12,
-   "c": -0.2,
+   "p": 216.95,
+   "c": -0.28,
    "a50": 206.26,
    "a200": 194.34,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 207.78,
-   "r": 57.7
+   "r": 57.5
   },
   {
    "s": "TSLA",
-   "p": 331.77,
-   "c": 0.27,
-   "a50": 376.14,
+   "p": 332.28,
+   "c": 0.42,
+   "a50": 376.15,
    "a200": 407.7,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 336.92,
-   "r": 43.0
+   "a20": 336.94,
+   "r": 43.2
   },
   {
    "s": "META",
-   "p": 603.47,
-   "c": 1.44,
-   "a50": 598.37,
-   "a200": 629.95,
+   "p": 604.19,
+   "c": 1.56,
+   "a50": 598.38,
+   "a200": 629.96,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 606.3,
-   "r": 51.3
+   "a20": 606.33,
+   "r": 51.5
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7729.71,
-   "c": -0.3,
-   "a50": 7501.02,
+   "p": 7729.04,
+   "c": -0.31,
+   "a50": 7501.01,
    "a200": 7060.27,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7546.6,
-   "r": 63.6
+   "a20": 7546.57,
+   "r": 63.5
   },
   {
    "s": "^VIX",
-   "p": 15.26,
-   "c": -1.29,
+   "p": 15.27,
+   "c": -1.23,
    "a50": 17.27,
    "a200": 18.56,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.88,
-   "c": 1.32,
+   "p": 88.75,
+   "c": 1.17,
    "a50": 84.43,
    "a200": 81.41,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.83,
-   "r": 54.1
+   "a20": 87.82,
+   "r": 54.0
   },
   {
    "s": "GC=F",
-   "p": 4425.9,
-   "c": 1.47,
-   "a50": 4163.83,
-   "a200": 4481.95,
+   "p": 4421.4,
+   "c": 1.37,
+   "a50": 4163.74,
+   "a200": 4481.93,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4121.24,
-   "r": 69.0
+   "a20": 4121.02,
+   "r": 68.8
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 0.64,
-   "a50": 6.35,
+   "p": 6.62,
+   "c": 0.45,
+   "a50": 6.34,
    "a200": 5.85,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.44,
-   "r": 61.5
+   "r": 61.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03101737,
-   "c": -0.01,
+   "c": 0.0,
    "a50": 0.03126954,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -332,46 +332,22 @@
  ],
  "news": [
   {
+   "t": "投資人靜待通膨報告出爐　歐洲股市收盤漲跌互見",
+   "pub": "中央社財經",
+   "d": "2026-08-12",
+   "u": "https://www.cna.com.tw/news/afe/202608120002.aspx"
+  },
+  {
+   "t": "He Retired From the Oil Fields but Took $30,000 to Stay on Call. Social Security Counted It Before the Phone Rang.",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/economy/policy/articles/retired-oil-fields-took-30-090214042.html"
+  },
+  {
    "t": "綜所稅助攻　信用卡6月簽帳金額達7887億衝單月新高",
    "pub": "中央社財經",
    "d": "2026-08-11",
    "u": "https://www.cna.com.tw/news/afe/202608110382.aspx"
-  },
-  {
-   "t": "Is Wall Street Bullish or Bearish on Stanley Black & Decker Stock?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-stanley-085859245.html"
-  },
-  {
-   "t": "陳冠如任職國票證及雷虎　金管會：證券無產金分離規定",
-   "pub": "中央社財經",
-   "d": "2026-08-11",
-   "u": "https://www.cna.com.tw/news/afe/202608110379.aspx"
-  },
-  {
-   "t": "Iran demands, Berkshire Hathaway results and U.S. inflation shape market sentiment: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/iran-demands-berkshire-hathaway-results-090605979.html"
-  },
-  {
-   "t": "信驊違約交割1800萬　今年櫃買第13次達揭露標準",
-   "pub": "中央社財經",
-   "d": "2026-08-11",
-   "u": "https://www.cna.com.tw/news/afe/202608110377.aspx"
-  },
-  {
-   "t": "I Want to Convert $900k to a Roth Before RMDs Start. Do I Have to Wait 5 Years to Access It?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/rmds-start-soon-want-convert-123106570.html"
-  },
-  {
-   "t": "今彩539第115194期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-08-11",
-   "u": "https://www.cna.com.tw/news/ahel/202608110374.aspx"
   },
   {
    "t": "What Are Wall Street Analysts' Target Price for Global Payments Stock?",
@@ -380,22 +356,46 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-090218664.html"
   },
   {
+   "t": "陳冠如任職國票證及雷虎　金管會：證券無產金分離規定",
+   "pub": "中央社財經",
+   "d": "2026-08-11",
+   "u": "https://www.cna.com.tw/news/afe/202608110379.aspx"
+  },
+  {
+   "t": "Kalshi ties up with Nasdaq to bolster trade surveillance",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/options/articles/kalshi-ties-nasdaq-bolster-trade-090302425.html"
+  },
+  {
+   "t": "信驊違約交割1800萬　今年櫃買第13次達揭露標準",
+   "pub": "中央社財經",
+   "d": "2026-08-11",
+   "u": "https://www.cna.com.tw/news/afe/202608110377.aspx"
+  },
+  {
+   "t": "Is Wall Street Bullish or Bearish on Stanley Black & Decker Stock?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-stanley-085859245.html"
+  },
+  {
+   "t": "今彩539第115194期　頭獎槓龜",
+   "pub": "中央社財經",
+   "d": "2026-08-11",
+   "u": "https://www.cna.com.tw/news/ahel/202608110374.aspx"
+  },
+  {
+   "t": "Are Wall Street Analysts Bullish on Ventas Stock?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/real-estate/articles/wall-street-analysts-bullish-ventas-085504268.html"
+  },
+  {
    "t": "大樂透第115078期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-08-11",
    "u": "https://www.cna.com.tw/news/ahel/202608110373.aspx"
-  },
-  {
-   "t": "American Express Stock: Is Wall Street Bullish or Bearish?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/american-express-stock-wall-street-085218991.html"
-  },
-  {
-   "t": "兆基屋管聯貸案　金管會：目前履約付息皆正常",
-   "pub": "中央社財經",
-   "d": "2026-08-11",
-   "u": "https://www.cna.com.tw/news/afe/202608110366.aspx"
   },
   {
    "t": "Daily Spotlight: Sovereign Debt Yields",
