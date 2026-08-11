@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 02:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 03:02（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,21 +212,21 @@
   },
   {
    "s": "AAPL",
-   "p": 303.71,
-   "c": -1.48,
-   "a50": 309.53,
+   "p": 304.4,
+   "c": -1.25,
+   "a50": 309.55,
    "a200": 279.87,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.42,
-   "r": 41.2
+   "a20": 322.46,
+   "r": 41.6
   },
   {
    "s": "NVDA",
-   "p": 217.18,
-   "c": -0.17,
+   "p": 217.22,
+   "c": -0.15,
    "a50": 206.26,
-   "a200": 194.34,
+   "a200": 194.35,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 207.79,
@@ -234,8 +234,8 @@
   },
   {
    "s": "TSLA",
-   "p": 332.08,
-   "c": 0.36,
+   "p": 331.95,
+   "c": 0.32,
    "a50": 376.14,
    "a200": 407.7,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 603.31,
-   "c": 1.41,
-   "a50": 598.37,
+   "p": 601.96,
+   "c": 1.18,
+   "a50": 598.34,
    "a200": 629.95,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 606.29,
-   "r": 51.2
+   "a20": 606.22,
+   "r": 50.8
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7725.22,
-   "c": -0.36,
-   "a50": 7500.93,
-   "a200": 7060.25,
+   "p": 7722.95,
+   "c": -0.39,
+   "a50": 7500.89,
+   "a200": 7060.24,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7546.38,
-   "r": 63.1
+   "a20": 7546.26,
+   "r": 62.9
   },
   {
    "s": "^VIX",
-   "p": 15.36,
-   "c": -0.65,
+   "p": 15.35,
+   "c": -0.71,
    "a50": 17.27,
    "a200": 18.56,
    "yh": 31.05,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4428.4,
-   "c": 1.53,
-   "a50": 4163.88,
-   "a200": 4481.96,
+   "p": 4431.1,
+   "c": 1.59,
+   "a50": 4163.94,
+   "a200": 4481.98,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4121.37,
-   "r": 69.1
+   "a20": 4121.5,
+   "r": 69.2
   },
   {
    "s": "HG=F",
    "p": 6.63,
-   "c": 0.52,
-   "a50": 6.34,
+   "c": 0.56,
+   "a50": 6.35,
    "a200": 5.85,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.44,
-   "r": 61.2
+   "r": 61.3
   },
   {
    "s": "TWDUSD",
    "p": 0.03102699,
-   "c": 0.02,
+   "c": 0.03,
    "a50": 0.03126954,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120002.aspx"
   },
   {
-   "t": "Vanguard reveals what could be coming for US stocks. Here’s why it’s raising alarm bells for retirees",
+   "t": "Are Wall Street Analysts Predicting GE HealthCare Stock Will Climb or Sink?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/vanguard-reveals-could-coming-us-094500956.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-ge-094929883.html"
   },
   {
    "t": "綜所稅助攻　信用卡6月簽帳金額達7887億衝單月新高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110382.aspx"
   },
   {
-   "t": "What a Family Business Taught e.l.f. Beauty’s CEO",
+   "t": "Will Kernan to Succeed Peter Ruis as John Lewis Managing Director",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/cio-journal/what-a-family-business-taught-e-l-f-beautys-ceo-38b442b2?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/small-business/articles/kernan-succeed-peter-ruis-john-093928830.html"
   },
   {
    "t": "陳冠如任職國票證及雷虎　金管會：證券無產金分離規定",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110379.aspx"
   },
   {
-   "t": "Is Wall Street Bullish or Bearish on Honeywell Aerospace Stock?",
+   "t": "Serica Declares Pharos Energy Takeover Bid Final as Rival Raises Offer",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-honeywell-093240757.html"
+   "u": "https://finance.yahoo.com/energy/articles/serica-declares-pharos-energy-takeover-095600933.html"
   },
   {
    "t": "信驊違約交割1800萬　今年櫃買第13次達揭露標準",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110374.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Predicting GE HealthCare Stock Will Climb or Sink?",
+   "t": "Vanguard reveals what could be coming for US stocks. Here’s why it’s raising alarm bells for retirees",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-ge-094929883.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/vanguard-reveals-could-coming-us-094500956.html"
   },
   {
    "t": "大樂透第115078期　頭獎槓龜",
