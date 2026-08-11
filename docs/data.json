@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 04:44（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 04:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 89.13,
-   "c": 1.61,
-   "a50": 84.43,
+   "p": 89.2,
+   "c": 1.69,
+   "a50": 84.44,
    "a200": 81.42,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.84,
-   "r": 54.4
+   "a20": 87.85,
+   "r": 54.5
   },
   {
    "s": "GC=F",
-   "p": 4428.7,
-   "c": 1.53,
-   "a50": 4163.89,
-   "a200": 4481.96,
+   "p": 4426.7,
+   "c": 1.49,
+   "a50": 4163.85,
+   "a200": 4481.95,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4121.38,
-   "r": 69.1
+   "a20": 4121.28,
+   "r": 69.0
   },
   {
    "s": "HG=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03103662,
-   "c": 0.04,
+   "p": 0.03102699,
+   "c": 0.02,
    "a50": 0.03126954,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110382.aspx"
   },
   {
-   "t": "PE-backed UK companies shirk IPOs while delistings mount",
+   "t": "Why JPMorgan sees more big gains ahead for the S&P 500",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/pe-backed-uk-companies-shirk-115733577.html"
+   "u": "https://finance.yahoo.com/markets/article/why-jpmorgan-sees-more-big-gains-ahead-for-the-sp-500-120624177.html"
   },
   {
    "t": "陳冠如任職國票證及雷虎　金管會：證券無產金分離規定",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110379.aspx"
   },
   {
-   "t": "Archer Daniels Stock: Analyst Estimates & Ratings",
+   "t": "Intel raises $20 billion from upsized share sale",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/archer-daniels-stock-analyst-estimates-114636432.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/intel-launches-15-billion-share-120506693.html"
   },
   {
    "t": "信驊違約交割1800萬　今年櫃買第13次達揭露標準",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110377.aspx"
   },
   {
-   "t": "Mariner Logistics taps Flock Freight veteran as CEO",
+   "t": "GameStop weighing withdrawal of eBay bid, Bloomberg News reports",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/mariner-logistics-taps-flock-freight-120000711.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/gamestop-weighing-withdrawal-ebay-bid-120023965.html"
   },
   {
    "t": "今彩539第115194期　頭獎槓龜",
