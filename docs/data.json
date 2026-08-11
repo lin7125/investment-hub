@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 15:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 15:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.4,
-   "c": -7.01,
-   "a50": 62.75,
+   "p": 50.6,
+   "c": -6.64,
+   "a50": 62.76,
    "a200": 40.94,
    "yh": 165.0,
    "yl": 5.63,
-   "a20": 48.22,
-   "r": 46.4
+   "a20": 48.23,
+   "r": 46.6
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 57.3,
-   "c": -4.02,
+   "p": 57.4,
+   "c": -3.85,
    "a50": 61.53,
    "a200": 56.55,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.91,
-   "r": 48.9
+   "a20": 55.92,
+   "r": 49.1
   },
   {
    "s": "AAPL",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 89.11,
-   "c": 1.58,
-   "a50": 84.43,
+   "p": 89.22,
+   "c": 1.71,
+   "a50": 84.44,
    "a200": 81.42,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.84,
-   "r": 54.4
+   "a20": 87.85,
+   "r": 54.5
   },
   {
    "s": "GC=F",
-   "p": 4425.9,
-   "c": 1.47,
-   "a50": 4163.83,
-   "a200": 4481.95,
+   "p": 4421.6,
+   "c": 1.37,
+   "a50": 4163.75,
+   "a200": 4481.93,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4121.24,
-   "r": 69.0
+   "a20": 4121.03,
+   "r": 68.8
   },
   {
    "s": "HG=F",
-   "p": 6.63,
-   "c": 0.57,
+   "p": 6.64,
+   "c": 0.65,
    "a50": 6.35,
    "a200": 5.85,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.44,
-   "r": 61.3
+   "r": 61.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03096934,
-   "c": -0.17,
+   "p": 0.03099814,
+   "c": -0.09,
    "a50": 0.03126954,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110154.aspx"
   },
   {
-   "t": "Vaxart Q2 Earnings Call Highlights",
+   "t": "Why MercadoLibre Stock Jumped 11% in July",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/vaxart-q2-earnings-call-highlights-200353739.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-mercadolibre-stock-jumped-11-195645986.html"
   },
   {
    "t": "8月台股期指漲100點",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110150.aspx"
   },
   {
-   "t": "Nvidia Is Going to Space With Elon Musk's Million-Satellites Plan. Here's Why It Could Be the Start of a Trillion-Dollar Cycle.",
+   "t": "Complacency in Gold May Be Hiding the Next Big Move",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-going-space-elon-musks-201112026.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/complacency-gold-may-hiding-next-194637275.html"
   },
   {
    "t": "8月電子期漲　金融期跌",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110149.aspx"
   },
   {
-   "t": "Complacency in Gold May Be Hiding the Next Big Move",
+   "t": "Berkshire breaks 14-quarter selling streak with $23.5B of stock buys — $10B went to 1 company at a private price",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/complacency-gold-may-hiding-next-194637275.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/berkshire-breaks-14-quarter-selling-194000465.html"
   },
   {
    "t": "台股漲191.96點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110141.aspx"
   },
   {
-   "t": "Berkshire breaks 14-quarter selling streak with $23.5B of stock buys — $10B went to 1 company at a private price",
+   "t": "Nvidia Is Going to Space With Elon Musk's Million-Satellites Plan. Here's Why It Could Be the Start of a Trillion-Dollar Cycle.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/berkshire-breaks-14-quarter-selling-194000465.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-going-space-elon-musks-201112026.html"
   },
   {
    "t": "矽品斗六廠動土  耗資千億打造先進封測關鍵引擎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110138.aspx"
   },
   {
-   "t": "Why MercadoLibre Stock Jumped 11% in July",
+   "t": "Costco vs. General Mills: Comparing Revenue Trends Between These Consumer Staples Companies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-mercadolibre-stock-jumped-11-195645986.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/costco-vs-general-mills-comparing-194801511.html"
   }
  ],
  "inst": {
