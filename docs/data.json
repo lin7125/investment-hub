@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 01:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 02:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,7 +212,7 @@
   },
   {
    "s": "AAPL",
-   "p": 306.01,
+   "p": 306.02,
    "c": -0.73,
    "a50": 309.58,
    "a200": 279.88,
@@ -223,8 +223,8 @@
   },
   {
    "s": "NVDA",
-   "p": 217.68,
-   "c": 0.06,
+   "p": 217.73,
+   "c": 0.08,
    "a50": 206.27,
    "a200": 194.35,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 331.7,
-   "c": 0.25,
-   "a50": 376.13,
+   "p": 331.94,
+   "c": 0.32,
+   "a50": 376.14,
    "a200": 407.7,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 336.92,
-   "r": 43.0
+   "a20": 336.93,
+   "r": 43.1
   },
   {
    "s": "META",
-   "p": 604.9,
-   "c": 1.68,
-   "a50": 598.4,
+   "p": 604.31,
+   "c": 1.58,
+   "a50": 598.39,
    "a200": 629.96,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 606.37,
-   "r": 51.7
+   "a20": 606.34,
+   "r": 51.5
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7735.46,
+   "p": 7735.27,
    "c": -0.23,
-   "a50": 7501.14,
+   "a50": 7501.13,
    "a200": 7060.3,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7546.89,
+   "a20": 7546.88,
    "r": 64.1
   },
   {
    "s": "^VIX",
-   "p": 15.36,
-   "c": -0.65,
+   "p": 15.28,
+   "c": -1.16,
    "a50": 17.27,
    "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.02,
-   "r": 44.0
+   "r": 43.7
   },
   {
    "s": "BZ=F",
-   "p": 88.76,
-   "c": 1.19,
+   "p": 88.72,
+   "c": 1.14,
    "a50": 84.43,
    "a200": 81.41,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4435.4,
-   "c": 1.69,
-   "a50": 4164.02,
+   "p": 4436.1,
+   "c": 1.7,
+   "a50": 4164.04,
    "a200": 4482.0,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4121.72,
+   "a20": 4121.75,
    "r": 69.4
   },
   {
    "s": "HG=F",
-   "p": 6.63,
-   "c": 0.57,
+   "p": 6.64,
+   "c": 0.63,
    "a50": 6.35,
    "a200": 5.85,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.44,
-   "r": 61.3
+   "r": 61.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03102699,
-   "c": 0.02,
+   "c": 0.03,
    "a50": 0.03126954,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110379.aspx"
   },
   {
-   "t": "Strata Critical Medical (SRTA) Q2 2026 Earnings Call Transcript",
+   "t": "SpaceX analyst plots path to bold $100 billion claim",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/strata-critical-medical-srta-q2-173543888.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-analyst-plots-path-bold-173300897.html"
   },
   {
    "t": "信驊違約交割1800萬　今年櫃買第13次達揭露標準",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110377.aspx"
   },
   {
-   "t": "Xtant Medical Holdings, Inc. Q2 2026 Earnings Call Summary",
+   "t": "QumulusAI (QMLS) Signs Nvidia DRW Blackwell Deal: Can Contract Momentum Translate Into Revenue?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/xtant-medical-holdings-inc-q2-173059302.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/qumulusai-qmls-signs-nvidia-drw-173037000.html"
   },
   {
    "t": "今彩539第115194期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110374.aspx"
   },
   {
-   "t": "Cardinal Infrastructure Group Inc. Class A Common Stock Q2 2026 Earnings Call Summary",
+   "t": "Options trading vs. stock trading: Key differences explained",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cardinal-infrastructure-group-inc-class-173045413.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/options-trading-vs-stock-trading-170741990.html"
   },
   {
    "t": "大樂透第115078期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110373.aspx"
   },
   {
-   "t": "QumulusAI (QMLS) Signs Nvidia DRW Blackwell Deal: Can Contract Momentum Translate Into Revenue?",
+   "t": "Exxon’s (XOM) Profit Missed. So Why Is The Dividend Getting Stronger?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/qumulusai-qmls-signs-nvidia-drw-173037000.html"
+   "u": "https://finance.yahoo.com/energy/articles/exxon-xom-profit-missed-why-172811797.html"
   },
   {
    "t": "兆基屋管聯貸案　金管會：目前履約付息皆正常",
