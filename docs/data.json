@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 01:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 01:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,9 +212,9 @@
   },
   {
    "s": "AAPL",
-   "p": 306.24,
-   "c": -0.66,
-   "a50": 309.58,
+   "p": 306.32,
+   "c": -0.63,
+   "a50": 309.59,
    "a200": 279.88,
    "yh": 340.08,
    "yl": 224.9,
@@ -223,18 +223,18 @@
   },
   {
    "s": "NVDA",
-   "p": 217.28,
-   "c": -0.12,
+   "p": 217.18,
+   "c": -0.17,
    "a50": 206.26,
-   "a200": 194.35,
+   "a200": 194.34,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 207.79,
-   "r": 57.8
+   "r": 57.7
   },
   {
    "s": "TSLA",
-   "p": 331.7,
+   "p": 331.71,
    "c": 0.25,
    "a50": 376.13,
    "a200": 407.7,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 603.97,
-   "c": 1.52,
-   "a50": 598.38,
+   "p": 604.7,
+   "c": 1.64,
+   "a50": 598.39,
    "a200": 629.96,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 606.32,
-   "r": 51.4
+   "a20": 606.36,
+   "r": 51.6
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7730.99,
-   "c": -0.29,
-   "a50": 7501.05,
+   "p": 7731.81,
+   "c": -0.27,
+   "a50": 7501.06,
    "a200": 7060.28,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7546.67,
-   "r": 63.7
+   "a20": 7546.71,
+   "r": 63.8
   },
   {
    "s": "^VIX",
-   "p": 15.46,
-   "c": 0.0,
+   "p": 15.41,
+   "c": -0.32,
    "a50": 17.27,
    "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.03,
-   "r": 44.4
+   "a20": 17.02,
+   "r": 44.2
   },
   {
    "s": "BZ=F",
-   "p": 88.65,
-   "c": 1.06,
-   "a50": 84.42,
+   "p": 88.78,
+   "c": 1.21,
+   "a50": 84.43,
    "a200": 81.41,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.82,
-   "r": 53.9
+   "a20": 87.83,
+   "r": 54.0
   },
   {
    "s": "GC=F",
-   "p": 4442.1,
-   "c": 1.84,
-   "a50": 4164.16,
-   "a200": 4482.03,
+   "p": 4439.4,
+   "c": 1.78,
+   "a50": 4164.1,
+   "a200": 4482.02,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4122.05,
-   "r": 69.6
+   "a20": 4121.92,
+   "r": 69.5
   },
   {
    "s": "HG=F",
    "p": 6.63,
-   "c": 0.58,
+   "c": 0.57,
    "a50": 6.35,
    "a200": 5.85,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.44,
-   "r": 61.4
+   "r": 61.3
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110382.aspx"
   },
   {
-   "t": "The Middleby Corporation Q2 2026 Earnings Call Summary",
+   "t": "Options trading vs. stock trading: Key differences explained",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/middleby-corporation-q2-2026-earnings-170839015.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/options-trading-vs-stock-trading-170741990.html"
   },
   {
    "t": "陳冠如任職國票證及雷虎　金管會：證券無產金分離規定",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110379.aspx"
   },
   {
-   "t": "Exclusive-Alpha Compute to buy Pennsylvania land, gas rights for $55 million data center campus, company says",
+   "t": "Broadwind, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/exclusive-alpha-compute-buy-pennsylvania-170027769.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/broadwind-inc-q2-2026-earnings-172405087.html"
   },
   {
    "t": "信驊違約交割1800萬　今年櫃買第13次達揭露標準",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110377.aspx"
   },
   {
-   "t": "Janus International Group, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq dip as US, Iran reach impasse",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/janus-international-group-inc-q2-170239194.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html"
   },
   {
    "t": "今彩539第115194期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110374.aspx"
   },
   {
-   "t": "AXT Slides Before Lumentum and Coherent Report Earnings This Week.",
+   "t": "Team, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/axt-slides-lumentum-coherent-report-170157183.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/team-inc-q2-2026-earnings-171902990.html"
   },
   {
    "t": "大樂透第115078期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110373.aspx"
   },
   {
-   "t": "Wall St inches lower as tech drags, US-Iran peace optimism fades",
+   "t": "Daily Spotlight: Sovereign Debt Yields",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/wall-st-futures-muted-us-102532652.html"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_47879_MarketOutlook_1786447655000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   },
   {
    "t": "兆基屋管聯貸案　金管會：目前履約付息皆正常",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110366.aspx"
   },
   {
-   "t": "Daily Spotlight: Sovereign Debt Yields",
+   "t": "Stock Market Today: Dow Falls, Oil Rises On Mixed Signals On Iran; Roger Federer Play Dives On This (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_47879_MarketOutlook_1786447655000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-spacex-rocket-lab-rklb/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
