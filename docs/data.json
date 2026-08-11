@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 12:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 12:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -36,58 +36,58 @@
   },
   {
    "s": "2454.TW",
-   "p": 4020.0,
-   "c": 1.52,
-   "a50": 4008.8,
-   "a200": 2405.62,
+   "p": 4010.0,
+   "c": 1.26,
+   "a50": 4008.6,
+   "a200": 2405.57,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3690.25,
-   "r": 56.0
+   "a20": 3689.75,
+   "r": 55.8
   },
   {
    "s": "2327.TW",
-   "p": 610.0,
-   "c": 6.46,
-   "a50": 807.43,
-   "a200": 422.02,
+   "p": 612.0,
+   "c": 6.81,
+   "a50": 807.47,
+   "a200": 422.03,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 612.83,
-   "r": 44.6
+   "a20": 612.92,
+   "r": 44.9
   },
   {
    "s": "1802.TW",
-   "p": 55.6,
-   "c": 1.65,
+   "p": 55.5,
+   "c": 1.46,
    "a50": 61.56,
-   "a200": 51.85,
+   "a200": 51.84,
    "yh": 76.6,
    "yl": 24.7,
-   "a20": 52.73,
-   "r": 49.9
+   "a20": 52.72,
+   "r": 49.7
   },
   {
    "s": "6862.TW",
-   "p": 149.5,
-   "c": 0.34,
-   "a50": 173.82,
-   "a200": 177.76,
+   "p": 148.0,
+   "c": -0.67,
+   "a50": 173.79,
+   "a200": 177.75,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 143.4,
-   "r": 47.7
+   "a20": 143.32,
+   "r": 46.7
   },
   {
    "s": "3701.TW",
-   "p": 41.1,
-   "c": -0.12,
+   "p": 41.05,
+   "c": -0.24,
    "a50": 44.17,
    "a200": 48.79,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.48,
-   "r": 49.7
+   "r": 49.6
   },
   {
    "s": "4722.TW",
@@ -113,8 +113,8 @@
   },
   {
    "s": "2305.TW",
-   "p": 27.5,
-   "c": -5.34,
+   "p": 27.45,
+   "c": -5.51,
    "a50": 31.74,
    "a200": 18.28,
    "yh": 42.65,
@@ -157,47 +157,47 @@
   },
   {
    "s": "3324.TWO",
-   "p": 1040.0,
-   "c": 2.97,
-   "a50": 991.62,
-   "a200": 997.48,
+   "p": 1035.0,
+   "c": 2.48,
+   "a50": 991.52,
+   "a200": 997.46,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 931.2,
-   "r": 59.4
+   "a20": 930.95,
+   "r": 59.0
   },
   {
    "s": "3491.TWO",
-   "p": 1250.0,
-   "c": 1.21,
-   "a50": 1374.24,
-   "a200": 1177.09,
+   "p": 1245.0,
+   "c": 0.81,
+   "a50": 1374.14,
+   "a200": 1177.07,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1190.35,
-   "r": 50.5
+   "a20": 1190.1,
+   "r": 50.3
   },
   {
    "s": "3585.TWO",
-   "p": 49.85,
-   "c": -8.03,
-   "a50": 62.74,
-   "a200": 40.93,
+   "p": 50.6,
+   "c": -6.64,
+   "a50": 62.76,
+   "a200": 40.94,
    "yh": 165.0,
    "yl": 5.63,
-   "a20": 48.19,
-   "r": 45.8
+   "a20": 48.23,
+   "r": 46.6
   },
   {
    "s": "6223.TWO",
-   "p": 6300.0,
-   "c": 1.2,
-   "a50": 6174.1,
-   "a200": 3950.05,
+   "p": 6335.0,
+   "c": 1.77,
+   "a50": 6174.8,
+   "a200": 3950.22,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5803.25,
-   "r": 54.7
+   "a20": 5805.0,
+   "r": 55.1
   },
   {
    "s": "6750.TWO",
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 45028.75,
+   "p": 45029.78,
    "c": 0.22,
-   "a50": 44784.77,
+   "a50": 44784.79,
    "a200": 35627.51,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43610.52,
+   "a20": 43610.57,
    "r": 55.3
   },
   {
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.59,
-   "c": -0.15,
+   "p": 87.57,
+   "c": -0.17,
    "a50": 84.4,
    "a200": 81.41,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.77,
+   "a20": 87.76,
    "r": 52.6
   },
   {
    "s": "GC=F",
-   "p": 4477.1,
-   "c": 2.64,
-   "a50": 4164.86,
-   "a200": 4482.21,
+   "p": 4473.7,
+   "c": 2.57,
+   "a50": 4164.79,
+   "a200": 4482.19,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4123.8,
-   "r": 71.0
+   "a20": 4123.63,
+   "r": 70.9
   },
   {
    "s": "HG=F",
    "p": 6.65,
-   "c": 0.89,
+   "c": 0.88,
    "a50": 6.35,
    "a200": 5.85,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.44,
-   "r": 62.2
+   "r": 62.1
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110089.aspx"
   },
   {
-   "t": "Why Usana Health Sciences Stock Plummeted This Week",
+   "t": "Inflation Date, Earnings Momentum and Other Key Things to Watch this Week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-usana-health-sciences-stock-164851585.html"
+   "u": "https://finance.yahoo.com/economy/articles/inflation-date-earnings-momentum-other-170002840.html"
   },
   {
    "t": "新光三越估花2年8個月改造北車　餐飲占比降至7成",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110084.aspx"
   },
   {
-   "t": "How caregiving can blow a hole in retirement savings",
+   "t": "Man, 41, Inherits $2 Million From Parents — His Wife Wants To Put Half Into Her Sister's Struggling Business",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/how-caregiving-can-blow-a-hole-in-retirement-savings-164639249.html"
+   "u": "https://finance.yahoo.com/small-business/articles/man-41-inherits-2-million-170137474.html"
   },
   {
    "t": "黃志芳：結合醫療、數據和科技轉化解決方案推向全球",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110080.aspx"
   },
   {
-   "t": "Inflation Date, Earnings Momentum and Other Key Things to Watch this Week",
+   "t": "How caregiving can blow a hole in retirement savings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/inflation-date-earnings-momentum-other-170002840.html"
+   "u": "https://finance.yahoo.com/economy/article/how-caregiving-can-blow-a-hole-in-retirement-savings-164639249.html"
   },
   {
    "t": "台股盤中震盪　被動元件族群走強",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110030.aspx"
   },
   {
-   "t": "What to Know When a Magnite Director Sells Into a 36% Growth Quarter",
+   "t": "Ford’s (F) $28,350 Electric Pickup Bet Meets A Cheap Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/know-magnite-director-sells-36-165217523.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ford-f-28-350-electric-174959508.html"
   }
  ],
  "inst": {
