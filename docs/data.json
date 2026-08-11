@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 01:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 01:28（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,40 +212,40 @@
   },
   {
    "s": "AAPL",
-   "p": 306.07,
-   "c": -0.71,
+   "p": 306.24,
+   "c": -0.66,
    "a50": 309.58,
    "a200": 279.88,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.54,
-   "r": 42.7
+   "a20": 322.55,
+   "r": 42.8
   },
   {
    "s": "NVDA",
-   "p": 217.06,
-   "c": -0.23,
+   "p": 217.28,
+   "c": -0.12,
    "a50": 206.26,
-   "a200": 194.34,
+   "a200": 194.35,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.78,
-   "r": 57.6
+   "a20": 207.79,
+   "r": 57.8
   },
   {
    "s": "TSLA",
-   "p": 331.69,
-   "c": 0.24,
+   "p": 331.7,
+   "c": 0.25,
    "a50": 376.13,
    "a200": 407.7,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 336.9,
-   "r": 42.8
+   "a20": 336.92,
+   "r": 42.9
   },
   {
    "s": "META",
-   "p": 603.94,
+   "p": 603.97,
    "c": 1.52,
    "a50": 598.38,
    "a200": 629.96,
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7729.75,
-   "c": -0.3,
-   "a50": 7501.02,
-   "a200": 7060.27,
+   "p": 7730.99,
+   "c": -0.29,
+   "a50": 7501.05,
+   "a200": 7060.28,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7546.6,
-   "r": 63.6
+   "a20": 7546.67,
+   "r": 63.7
   },
   {
    "s": "^VIX",
-   "p": 15.47,
-   "c": 0.06,
+   "p": 15.46,
+   "c": 0.0,
    "a50": 17.27,
    "a200": 18.56,
    "yh": 31.05,
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.76,
-   "c": 1.19,
-   "a50": 84.43,
+   "p": 88.65,
+   "c": 1.06,
+   "a50": 84.42,
    "a200": 81.41,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.82,
-   "r": 54.0
+   "r": 53.9
   },
   {
    "s": "GC=F",
-   "p": 4443.4,
-   "c": 1.87,
-   "a50": 4164.18,
-   "a200": 4482.04,
+   "p": 4442.1,
+   "c": 1.84,
+   "a50": 4164.16,
+   "a200": 4482.03,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4122.12,
-   "r": 69.7
+   "a20": 4122.05,
+   "r": 69.6
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 0.63,
+   "p": 6.63,
+   "c": 0.58,
    "a50": 6.35,
    "a200": 5.85,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.44,
-   "r": 61.5
+   "r": 61.4
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110382.aspx"
   },
   {
-   "t": "Exclusive-Alpha Compute to buy Pennsylvania land, gas rights for $55 million data center campus, company says",
+   "t": "The Middleby Corporation Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/exclusive-alpha-compute-buy-pennsylvania-170027769.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/middleby-corporation-q2-2026-earnings-170839015.html"
   },
   {
    "t": "陳冠如任職國票證及雷虎　金管會：證券無產金分離規定",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110379.aspx"
   },
   {
-   "t": "AXT Slides Before Lumentum and Coherent Report Earnings This Week.",
+   "t": "Exclusive-Alpha Compute to buy Pennsylvania land, gas rights for $55 million data center campus, company says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/axt-slides-lumentum-coherent-report-170157183.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/exclusive-alpha-compute-buy-pennsylvania-170027769.html"
   },
   {
    "t": "信驊違約交割1800萬　今年櫃買第13次達揭露標準",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110377.aspx"
   },
   {
-   "t": "Wall St inches lower as tech drags, US-Iran peace optimism fades",
+   "t": "Janus International Group, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/wall-st-futures-muted-us-102532652.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/janus-international-group-inc-q2-170239194.html"
   },
   {
    "t": "今彩539第115194期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110374.aspx"
   },
   {
-   "t": "Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch",
+   "t": "AXT Slides Before Lumentum and Coherent Report Earnings This Week.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-ai-giants-nvidia-stock-nvda-amazon-amzn/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/axt-slides-lumentum-coherent-report-170157183.html"
   },
   {
    "t": "大樂透第115078期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110373.aspx"
   },
   {
-   "t": "Jim Cramer Weighs In on Sentiment Shifts Driving Accenture and Cognizant Rallies",
+   "t": "Wall St inches lower as tech drags, US-Iran peace optimism fades",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-sentiment-shifts-165245860.html"
+   "u": "https://finance.yahoo.com/energy/articles/wall-st-futures-muted-us-102532652.html"
   },
   {
    "t": "兆基屋管聯貸案　金管會：目前履約付息皆正常",
