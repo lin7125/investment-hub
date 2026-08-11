@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 13:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 13:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,14 +14,14 @@
   },
   {
    "s": "2317.TW",
-   "p": 264.0,
-   "c": -0.19,
-   "a50": 255.05,
-   "a200": 234.99,
+   "p": 263.5,
+   "c": -0.38,
+   "a50": 255.04,
+   "a200": 234.98,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 249.0,
-   "r": 59.2
+   "a20": 248.98,
+   "r": 58.8
   },
   {
    "s": "2308.TW",
@@ -36,25 +36,25 @@
   },
   {
    "s": "2454.TW",
-   "p": 4020.0,
-   "c": 1.52,
-   "a50": 4008.8,
-   "a200": 2405.62,
+   "p": 4025.0,
+   "c": 1.64,
+   "a50": 4008.9,
+   "a200": 2405.65,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3690.25,
-   "r": 56.0
+   "a20": 3690.5,
+   "r": 56.1
   },
   {
    "s": "2327.TW",
-   "p": 616.0,
-   "c": 7.5,
-   "a50": 807.55,
+   "p": 617.0,
+   "c": 7.68,
+   "a50": 807.57,
    "a200": 422.05,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 613.12,
-   "r": 45.3
+   "a20": 613.17,
+   "r": 45.4
   },
   {
    "s": "1802.TW",
@@ -69,25 +69,25 @@
   },
   {
    "s": "6862.TW",
-   "p": 148.5,
-   "c": -0.34,
-   "a50": 173.8,
+   "p": 149.0,
+   "c": 0.0,
+   "a50": 173.81,
    "a200": 177.75,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 143.35,
-   "r": 47.0
+   "a20": 143.38,
+   "r": 47.4
   },
   {
    "s": "3701.TW",
-   "p": 40.95,
-   "c": -0.49,
+   "p": 41.0,
+   "c": -0.36,
    "a50": 44.17,
    "a200": 48.79,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.47,
-   "r": 49.3
+   "a20": 39.48,
+   "r": 49.5
   },
   {
    "s": "4722.TW",
@@ -113,36 +113,36 @@
   },
   {
    "s": "2305.TW",
-   "p": 27.35,
-   "c": -5.85,
+   "p": 27.3,
+   "c": -6.02,
    "a50": 31.74,
    "a200": 18.28,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 30.85,
-   "r": 42.0
+   "a20": 30.84,
+   "r": 41.9
   },
   {
    "s": "6442.TW",
-   "p": 1465.0,
-   "c": 2.81,
-   "a50": 1589.2,
-   "a200": 1576.46,
+   "p": 1460.0,
+   "c": 2.46,
+   "a50": 1589.1,
+   "a200": 1576.43,
    "yh": 2370.0,
    "yl": 648.0,
-   "a20": 1310.0,
-   "r": 53.3
+   "a20": 1309.75,
+   "r": 53.1
   },
   {
    "s": "6515.TW",
-   "p": 6830.0,
-   "c": 0.0,
-   "a50": 7759.4,
-   "a200": 5925.3,
+   "p": 6895.0,
+   "c": 0.95,
+   "a50": 7760.7,
+   "a200": 5925.62,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6395.5,
-   "r": 48.9
+   "a20": 6398.75,
+   "r": 49.7
   },
   {
    "s": "6446.TW",
@@ -157,58 +157,58 @@
   },
   {
    "s": "3324.TWO",
-   "p": 1045.0,
-   "c": 3.47,
-   "a50": 991.72,
-   "a200": 997.51,
+   "p": 1040.0,
+   "c": 2.97,
+   "a50": 991.62,
+   "a200": 997.48,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 931.45,
-   "r": 59.9
+   "a20": 931.2,
+   "r": 59.4
   },
   {
    "s": "3491.TWO",
-   "p": 1255.0,
-   "c": 1.62,
-   "a50": 1374.34,
-   "a200": 1177.12,
+   "p": 1260.0,
+   "c": 2.02,
+   "a50": 1374.44,
+   "a200": 1177.14,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1190.6,
-   "r": 50.8
+   "a20": 1190.85,
+   "r": 51.1
   },
   {
    "s": "3585.TWO",
-   "p": 50.4,
-   "c": -7.01,
+   "p": 50.3,
+   "c": -7.2,
    "a50": 62.75,
    "a200": 40.94,
    "yh": 165.0,
    "yl": 5.63,
    "a20": 48.22,
-   "r": 46.4
+   "r": 46.3
   },
   {
    "s": "6223.TWO",
-   "p": 6260.0,
-   "c": 0.56,
-   "a50": 6173.3,
-   "a200": 3949.85,
+   "p": 6280.0,
+   "c": 0.88,
+   "a50": 6173.7,
+   "a200": 3949.95,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5801.25,
-   "r": 54.2
+   "a20": 5802.25,
+   "r": 54.4
   },
   {
    "s": "6750.TWO",
-   "p": 57.4,
-   "c": -3.85,
+   "p": 57.5,
+   "c": -3.69,
    "a50": 61.53,
    "a200": 56.55,
    "yh": 74.3,
    "yl": 37.6,
    "a20": 55.92,
-   "r": 49.1
+   "r": 49.3
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45130.43,
-   "c": 0.45,
-   "a50": 44786.81,
-   "a200": 35628.01,
+   "p": 45137.09,
+   "c": 0.46,
+   "a50": 44786.94,
+   "a200": 35628.05,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43615.6,
-   "r": 55.7
+   "a20": 43615.94,
+   "r": 55.8
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.83,
-   "c": 0.13,
+   "p": 88.01,
+   "c": 0.33,
    "a50": 84.41,
    "a200": 81.41,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.78,
-   "r": 52.9
+   "a20": 87.79,
+   "r": 53.1
   },
   {
    "s": "GC=F",
-   "p": 4465.4,
-   "c": 2.38,
-   "a50": 4164.62,
-   "a200": 4482.15,
+   "p": 4458.8,
+   "c": 2.22,
+   "a50": 4164.49,
+   "a200": 4482.11,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4123.22,
-   "r": 70.6
+   "a20": 4122.88,
+   "r": 70.3
   },
   {
    "s": "HG=F",
    "p": 6.64,
-   "c": 0.74,
+   "c": 0.7,
    "a50": 6.35,
    "a200": 5.85,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.44,
-   "r": 61.8
+   "r": 61.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03101737,
-   "c": -0.03,
+   "c": -0.01,
    "a50": 0.03126954,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110089.aspx"
   },
   {
-   "t": "Opinion: The Best AI Memory Stock to Buy Isn't Micron or Sandisk -- It's This Korean Giant",
+   "t": "Which Crypto Do AI Models Say to Buy Right Now: Bitcoin, Ethereum, or XRP?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/opinion-best-ai-memory-stock-174300599.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/crypto-ai-models-buy-now-175554639.html"
   },
   {
    "t": "新光三越估花2年8個月改造北車　餐飲占比降至7成",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110080.aspx"
   },
   {
-   "t": "The Nvidia-SpaceX Deal Is Sending a Clear Signal on AI Dominance",
+   "t": "UnitedHealth (UNH) Commits $4M to Tennessee Health Hub Expansion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-spacex-deal-sending-clear-173002617.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-commits-4m-tennessee-181302253.html"
   },
   {
    "t": "台股盤中震盪　被動元件族群走強",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110056.aspx"
   },
   {
-   "t": "UnitedHealth (UNH) Commits $4M to Tennessee Health Hub Expansion",
+   "t": "Marvell (MRVL) vs. AVGO and NVDA: Can AI Interconnect Growth Deliver the Earnings Its Premium Valuation Demands?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-commits-4m-tennessee-181302253.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-vs-avgo-nvda-181931790.html"
   },
   {
    "t": "聯電股價第2季大漲108元　矽統每股淨值竄升至95元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110035.aspx"
   },
   {
-   "t": "Marvell (MRVL) vs. AVGO and NVDA: Can AI Interconnect Growth Deliver the Earnings Its Premium Valuation Demands?",
+   "t": "IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profits?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-vs-avgo-nvda-181931790.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/iren-iren-vs-corz-apld-182431338.html"
   },
   {
    "t": "和運租車每股42元掛牌上市　早盤上漲7%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110030.aspx"
   },
   {
-   "t": "Micron Has Surged 207% This Year. Brace for a Steep Pullback.",
+   "t": "Inflation Data, Super Micro, Cisco, Rocket Lab, Tapestry, and More to Watch This Week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/micron-surged-207-brace-steep-174500170.html"
+   "u": "https://www.barrons.com/articles/inflation-data-super-micro-cisco-rocket-lab-tapestry-and-more-to-watch-this-week-14826711?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
