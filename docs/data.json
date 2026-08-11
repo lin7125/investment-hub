@@ -212,31 +212,31 @@
   },
   {
    "s": "AAPL",
-   "p": 306.08,
-   "c": -0.71,
+   "p": 306.01,
+   "c": -0.73,
    "a50": 309.58,
    "a200": 279.88,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 322.54,
-   "r": 42.7
+   "r": 42.6
   },
   {
    "s": "NVDA",
-   "p": 217.75,
-   "c": 0.09,
+   "p": 217.68,
+   "c": 0.06,
    "a50": 206.27,
    "a200": 194.35,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 207.82,
+   "a20": 207.81,
    "r": 58.2
   },
   {
    "s": "TSLA",
-   "p": 331.8,
-   "c": 0.28,
-   "a50": 376.14,
+   "p": 331.7,
+   "c": 0.25,
+   "a50": 376.13,
    "a200": 407.7,
    "yh": 489.88,
    "yl": 298.32,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 605.23,
-   "c": 1.73,
+   "p": 604.9,
+   "c": 1.68,
    "a50": 598.4,
    "a200": 629.96,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 606.39,
-   "r": 51.8
+   "a20": 606.37,
+   "r": 51.7
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7735.93,
-   "c": -0.22,
-   "a50": 7501.15,
+   "p": 7735.46,
+   "c": -0.23,
+   "a50": 7501.14,
    "a200": 7060.3,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7546.91,
-   "r": 64.2
+   "a20": 7546.89,
+   "r": 64.1
   },
   {
    "s": "^VIX",
@@ -300,13 +300,13 @@
   },
   {
    "s": "GC=F",
-   "p": 4435.8,
-   "c": 1.7,
-   "a50": 4164.03,
+   "p": 4435.4,
+   "c": 1.69,
+   "a50": 4164.02,
    "a200": 4482.0,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4121.73,
+   "a20": 4121.72,
    "r": 69.4
   },
   {
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110379.aspx"
   },
   {
-   "t": "SpaceX analyst plots path to bold $100 billion claim",
+   "t": "Strata Critical Medical (SRTA) Q2 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-analyst-plots-path-bold-173300897.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/strata-critical-medical-srta-q2-173543888.html"
   },
   {
    "t": "信驊違約交割1800萬　今年櫃買第13次達揭露標準",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110377.aspx"
   },
   {
-   "t": "QumulusAI (QMLS) Signs Nvidia DRW Blackwell Deal: Can Contract Momentum Translate Into Revenue?",
+   "t": "Xtant Medical Holdings, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/qumulusai-qmls-signs-nvidia-drw-173037000.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/xtant-medical-holdings-inc-q2-173059302.html"
   },
   {
    "t": "今彩539第115194期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110374.aspx"
   },
   {
-   "t": "Options trading vs. stock trading: Key differences explained",
+   "t": "Cardinal Infrastructure Group Inc. Class A Common Stock Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/options-trading-vs-stock-trading-170741990.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cardinal-infrastructure-group-inc-class-173045413.html"
   },
   {
    "t": "大樂透第115078期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110373.aspx"
   },
   {
-   "t": "Exxon’s (XOM) Profit Missed. So Why Is The Dividend Getting Stronger?",
+   "t": "QumulusAI (QMLS) Signs Nvidia DRW Blackwell Deal: Can Contract Momentum Translate Into Revenue?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/exxon-xom-profit-missed-why-172811797.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/qumulusai-qmls-signs-nvidia-drw-173037000.html"
   },
   {
    "t": "兆基屋管聯貸案　金管會：目前履約付息皆正常",
