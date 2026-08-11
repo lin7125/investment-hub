@@ -1,214 +1,214 @@
 {
- "generatedAt": "2026-08-11 06:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 10:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2380.0,
-   "c": 0.42,
-   "a50": 2380.4,
-   "a200": 1925.52,
+   "p": 2395.0,
+   "c": 0.63,
+   "a50": 2381.2,
+   "a200": 1930.38,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2358.75,
-   "r": 51.3
+   "a20": 2357.5,
+   "r": 52.5
   },
   {
    "s": "2317.TW",
-   "p": 264.5,
-   "c": 1.73,
-   "a50": 255.64,
-   "a200": 234.7,
+   "p": 262.5,
+   "c": -0.76,
+   "a50": 255.02,
+   "a200": 234.98,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 247.58,
-   "r": 59.6
+   "a20": 248.92,
+   "r": 58.0
   },
   {
    "s": "2308.TW",
-   "p": 1815.0,
-   "c": 10.0,
-   "a50": 1955.0,
-   "a200": 1505.28,
+   "p": 1820.0,
+   "c": 0.28,
+   "a50": 1943.0,
+   "a200": 1509.42,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1723.5,
-   "r": 52.6
+   "a20": 1721.75,
+   "r": 52.8
   },
   {
    "s": "2454.TW",
-   "p": 3960.0,
-   "c": 1.54,
-   "a50": 4019.5,
-   "a200": 2392.05,
+   "p": 3930.0,
+   "c": -0.76,
+   "a50": 4007.0,
+   "a200": 2405.18,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3672.25,
-   "r": 54.5
+   "a20": 3685.75,
+   "r": 53.6
   },
   {
    "s": "2327.TW",
-   "p": 573.0,
-   "c": 6.11,
-   "a50": 811.03,
-   "a200": 419.83,
+   "p": 599.0,
+   "c": 4.54,
+   "a50": 807.21,
+   "a200": 421.96,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 621.22,
-   "r": 40.3
+   "a20": 612.28,
+   "r": 43.4
   },
   {
    "s": "1802.TW",
-   "p": 54.7,
-   "c": 3.01,
-   "a50": 61.95,
-   "a200": 51.71,
+   "p": 55.3,
+   "c": 1.1,
+   "a50": 61.56,
+   "a200": 51.84,
    "yh": 76.6,
    "yl": 24.7,
-   "a20": 53.06,
-   "r": 48.3
+   "a20": 52.71,
+   "r": 49.4
   },
   {
    "s": "6862.TW",
-   "p": 149.0,
-   "c": 2.05,
-   "a50": 175.11,
-   "a200": 177.78,
+   "p": 147.5,
+   "c": -1.01,
+   "a50": 173.78,
+   "a200": 177.74,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 144.28,
-   "r": 47.4
+   "a20": 143.3,
+   "r": 46.4
   },
   {
    "s": "3701.TW",
-   "p": 41.15,
-   "c": -3.29,
-   "a50": 44.47,
-   "a200": 48.77,
+   "p": 41.05,
+   "c": -0.24,
+   "a50": 44.17,
+   "a200": 48.79,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.5,
-   "r": 49.9
+   "a20": 39.48,
+   "r": 49.6
   },
   {
    "s": "4722.TW",
-   "p": 215.5,
-   "c": -7.11,
-   "a50": 244.58,
-   "a200": 199.03,
+   "p": 214.5,
+   "c": -0.46,
+   "a50": 243.15,
+   "a200": 199.14,
    "yh": 306.5,
    "yl": 78.1,
-   "a20": 213.18,
-   "r": 48.0
+   "a20": 210.88,
+   "r": 47.7
   },
   {
    "s": "6706.TW",
-   "p": 115.0,
-   "c": 5.5,
-   "a50": 141.6,
-   "a200": 125.34,
+   "p": 119.5,
+   "c": 3.91,
+   "a50": 139.66,
+   "a200": 125.59,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 109.37,
-   "r": 47.5
+   "a20": 109.05,
+   "r": 50.6
   },
   {
    "s": "2305.TW",
-   "p": 29.05,
-   "c": 9.62,
-   "a50": 31.66,
-   "a200": 18.19,
+   "p": 27.45,
+   "c": -5.51,
+   "a50": 31.74,
+   "a200": 18.28,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 31.33,
-   "r": 45.3
+   "a20": 30.85,
+   "r": 42.2
   },
   {
    "s": "6442.TW",
-   "p": 1425.0,
-   "c": 7.55,
-   "a50": 1597.6,
-   "a200": 1573.12,
+   "p": 1445.0,
+   "c": 1.4,
+   "a50": 1588.8,
+   "a200": 1576.36,
    "yh": 2370.0,
    "yl": 648.0,
-   "a20": 1302.5,
-   "r": 51.4
+   "a20": 1309.0,
+   "r": 52.4
   },
   {
    "s": "6515.TW",
-   "p": 6830.0,
-   "c": 1.04,
-   "a50": 7796.9,
-   "a200": 5902.52,
+   "p": 6950.0,
+   "c": 1.76,
+   "a50": 7761.8,
+   "a200": 5925.9,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6406.0,
-   "r": 48.9
+   "a20": 6401.5,
+   "r": 50.4
   },
   {
    "s": "6446.TW",
-   "p": 1330.0,
-   "c": 7.26,
-   "a50": 1100.69,
-   "a200": 686.28,
-   "yh": 1379.28,
+   "p": 1460.0,
+   "c": 9.77,
+   "a50": 1112.55,
+   "a200": 691.26,
+   "yh": 1460.0,
    "yl": 398.46,
-   "a20": 1192.0,
-   "r": 61.1
+   "a20": 1205.0,
+   "r": 67.2
   },
   {
    "s": "3324.TWO",
-   "p": 1010.0,
-   "c": -0.49,
-   "a50": 993.72,
-   "a200": 996.82,
+   "p": 1035.0,
+   "c": 2.48,
+   "a50": 991.52,
+   "a200": 997.46,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 922.4,
-   "r": 56.6
+   "a20": 930.95,
+   "r": 59.0
   },
   {
    "s": "3491.TWO",
-   "p": 1235.0,
-   "c": 0.0,
-   "a50": 1392.54,
-   "a200": 1172.96,
+   "p": 1255.0,
+   "c": 1.62,
+   "a50": 1374.34,
+   "a200": 1177.12,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1187.6,
-   "r": 49.7
+   "a20": 1190.6,
+   "r": 50.8
   },
   {
    "s": "3585.TWO",
-   "p": 54.2,
-   "c": 12.68,
-   "a50": 63.27,
-   "a200": 40.75,
+   "p": 50.7,
+   "c": -6.46,
+   "a50": 62.76,
+   "a200": 40.94,
    "yh": 165.0,
    "yl": 5.63,
-   "a20": 48.56,
-   "r": 50.9
+   "a20": 48.24,
+   "r": 46.7
   },
   {
    "s": "6223.TWO",
-   "p": 6225.0,
-   "c": 2.05,
-   "a50": 6161.7,
-   "a200": 3927.25,
+   "p": 6340.0,
+   "c": 1.85,
+   "a50": 6174.9,
+   "a200": 3950.25,
    "yh": 7380.0,
    "yl": 1120.0,
    "a20": 5805.25,
-   "r": 53.7
+   "r": 55.2
   },
   {
    "s": "6750.TWO",
-   "p": 59.7,
-   "c": 4.37,
-   "a50": 61.74,
-   "a200": 56.49,
+   "p": 57.5,
+   "c": -3.69,
+   "a50": 61.53,
+   "a200": 56.55,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.14,
-   "r": 54.7
+   "a20": 55.92,
+   "r": 49.3
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44225.91,
-   "c": -0.38,
-   "a50": 44753.01,
-   "a200": 35448.85,
+   "p": 44969.4,
+   "c": 0.09,
+   "a50": 44783.58,
+   "a200": 35627.21,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43618.57,
-   "r": 51.8
+   "a20": 43607.55,
+   "r": 55.0
   },
   {
    "s": "^GSPC",
@@ -289,42 +289,42 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.85,
-   "c": 5.15,
-   "a50": 84.5,
+   "p": 87.75,
+   "c": 5.03,
+   "a50": 84.49,
    "a200": 81.28,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.63,
-   "r": 52.9
+   "a20": 87.62,
+   "r": 52.8
   },
   {
    "s": "GC=F",
-   "p": 4448.6,
-   "c": 2.49,
-   "a50": 4168.26,
-   "a200": 4480.48,
+   "p": 4478.8,
+   "c": 3.18,
+   "a50": 4168.86,
+   "a200": 4480.63,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4107.34,
-   "r": 69.7
+   "a20": 4108.85,
+   "r": 70.8
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 0.99,
+   "p": 6.66,
+   "c": 1.4,
    "a50": 6.34,
    "a200": 5.84,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.43,
-   "r": 61.3
+   "r": 62.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03101737,
-   "c": -0.09,
-   "a50": 0.03128911,
+   "p": 0.03102699,
+   "c": 0.02,
+   "a50": 0.03126954,
    "a200": 0.03163556,
    "yh": 0.033278,
    "yl": 0.030864
@@ -332,76 +332,76 @@
  ],
  "news": [
   {
-   "t": "市場觀望經濟數據和中東局勢　歐股收盤互有漲跌",
+   "t": "台股開盤跌44.86點",
    "pub": "中央社財經",
    "d": "2026-08-11",
-   "u": "https://www.cna.com.tw/news/afe/202608110002.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608110024.aspx"
   },
   {
-   "t": "Jeff Bezos breaks his own Amazon record",
+   "t": "Dividend King Coca-Cola is suddenly acting like a growth stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-breaks-own-amazon-140700871.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dividend-king-coca-cola-suddenly-160300397.html"
   },
   {
-   "t": "美媒：微軟最快9月發表Maia 300　已與台積電洽談產能",
+   "t": "新台幣開盤貶1.9分　為32.25元",
    "pub": "中央社財經",
-   "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/aopl/202608100331.aspx"
+   "d": "2026-08-11",
+   "u": "https://www.cna.com.tw/news/afe/202608110023.aspx"
   },
   {
-   "t": "Advanced Micro Devices Reported Record Revenue. AMD Stock Sank Anyway.",
+   "t": "Billionaire Larry Fink Warns Keeping Your Savings in a Bank Account Is 'One Of The Worst Financial Decisions Of A Lifetime' — But Mark Cuban Told People To Do the Opposite",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-reported-record-131502549.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-larry-fink-warns-keeping-153002541.html"
   },
   {
-   "t": "友達、群創7月電視面板出貨疲弱　營收月減逾1成",
+   "t": "美股收跌費半挫近3%　投顧：本週聚焦電子股法說",
    "pub": "中央社財經",
-   "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/afe/202608100328.aspx"
+   "d": "2026-08-11",
+   "u": "https://www.cna.com.tw/news/afe/202608110019.aspx"
   },
   {
-   "t": "Dear Intuitive Machines Stock Fans, Mark Your Calendars for August 13",
+   "t": "A SpaceX investor thought he had $300,000 in shares — then discovered his firm sold them without notice",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-intuitive-machines-stock-fans-130002352.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-investor-thought-had-300-150000689.html"
   },
   {
-   "t": "今彩539第115193期　頭獎1注中獎",
+   "t": "川普媒體Q2虧損逾10倍　加密幣等數位資產跌價",
    "pub": "中央社財經",
-   "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/ahel/202608100325.aspx"
+   "d": "2026-08-11",
+   "u": "https://www.cna.com.tw/news/aopl/202608110015.aspx"
   },
   {
-   "t": "Dear Baidu Stock Fans, Mark Your Calendars for August 18",
+   "t": "Don’t Assume Micron Will Share SanDisk’s Fate. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-baidu-stock-fans-mark-130002368.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/don-t-assume-micron-share-150002220.html"
   },
   {
-   "t": "威力彩第115064期　頭獎槓龜",
+   "t": "輝達攜手華爾街巨擘募資　擴大AI基建與生態系統",
    "pub": "中央社財經",
-   "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/afe/202608100324.aspx"
+   "d": "2026-08-11",
+   "u": "https://www.cna.com.tw/news/afe/202608110013.aspx"
   },
   {
-   "t": "Dear Palo Alto Stock Fans, Mark Your Calendars for September 1",
+   "t": "A $72 Billion Reason to Buy Caterpillar Stock Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-palo-alto-stock-fans-130002528.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/72-billion-reason-buy-caterpillar-160002878.html"
   },
   {
-   "t": "立陶宛獲評A+展望穩定　經濟成長居同級國家前列",
+   "t": "荷莫茲海峽重開協議陷不確定性　美國股市收跌",
    "pub": "中央社財經",
-   "d": "2026-08-10",
-   "u": "https://www.cna.com.tw/news/aopl/202608100322.aspx"
+   "d": "2026-08-11",
+   "u": "https://www.cna.com.tw/news/afe/202608110010.aspx"
   },
   {
-   "t": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
+   "t": "Rocket Lab Is Down 57% From Its Peak While Analysts See 49% Upside. Who Has It Right?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/top-semiconductor-stock-outpacing-nvidia-132000887.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-down-57-peak-152500671.html"
   }
  ],
  "inst": {
