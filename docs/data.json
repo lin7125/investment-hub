@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11 23:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-11 23:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.53,
-   "c": -0.56,
+   "p": 306.71,
+   "c": -0.5,
    "a50": 309.59,
    "a200": 279.88,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 322.56,
-   "r": 42.9
+   "a20": 322.57,
+   "r": 43.1
   },
   {
    "s": "NVDA",
-   "p": 218.95,
-   "c": 0.64,
+   "p": 219.1,
+   "c": 0.71,
    "a50": 206.3,
    "a200": 194.35,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 207.88,
-   "r": 59.0
+   "r": 59.1
   },
   {
    "s": "TSLA",
-   "p": 333.04,
-   "c": 0.65,
+   "p": 332.76,
+   "c": 0.57,
    "a50": 376.16,
    "a200": 407.71,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 336.98,
-   "r": 43.6
+   "a20": 336.97,
+   "r": 43.5
   },
   {
    "s": "META",
-   "p": 610.37,
-   "c": 2.6,
-   "a50": 598.51,
-   "a200": 629.99,
+   "p": 606.42,
+   "c": 1.93,
+   "a50": 598.43,
+   "a200": 629.97,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 606.64,
-   "r": 53.3
+   "a20": 606.44,
+   "r": 52.1
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7748.31,
-   "c": -0.06,
-   "a50": 7501.39,
-   "a200": 7060.36,
+   "p": 7743.37,
+   "c": -0.13,
+   "a50": 7501.3,
+   "a200": 7060.34,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7547.53,
-   "r": 65.4
+   "a20": 7547.28,
+   "r": 64.9
   },
   {
    "s": "^VIX",
-   "p": 15.32,
-   "c": -0.91,
+   "p": 15.3,
+   "c": -1.03,
    "a50": 17.27,
    "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 17.02,
-   "r": 43.9
+   "r": 43.8
   },
   {
    "s": "BZ=F",
-   "p": 88.23,
-   "c": 0.58,
+   "p": 88.22,
+   "c": 0.57,
    "a50": 84.42,
    "a200": 81.41,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4449.6,
-   "c": 2.01,
-   "a50": 4164.31,
-   "a200": 4482.07,
+   "p": 4442.5,
+   "c": 1.85,
+   "a50": 4164.16,
+   "a200": 4482.03,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4122.43,
-   "r": 69.9
+   "a20": 4122.07,
+   "r": 69.7
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 0.86,
+   "p": 6.64,
+   "c": 0.76,
    "a50": 6.35,
    "a200": 5.85,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.44,
-   "r": 62.1
+   "r": 61.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03103662,
-   "c": 0.04,
+   "p": 0.03102699,
+   "c": 0.02,
    "a50": 0.03126954,
    "a200": 0.03163556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110382.aspx"
   },
   {
-   "t": "Here Are 9 Important Ages to Understand as You Approach and Move Through Retirement",
+   "t": "Clover Health Eyes 2026 GAAP Profit as AI Platform Fuels Medicare Advantage Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/9-important-ages-understand-approach-150500688.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/clover-health-eyes-2026-gaap-150538397.html"
   },
   {
    "t": "陳冠如任職國票證及雷虎　金管會：證券無產金分離規定",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110379.aspx"
   },
   {
-   "t": "US fuel exports to Cuba spur chaotic black market",
+   "t": "Cherry Hill Mortgage’s 29% Premium Deal: $9B Merger Opens Door to Bigger Upside – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/us-fuel-sales-cuban-business-100512481.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cherry-hill-mortgage-29-premium-150508758.html"
   },
   {
    "t": "信驊違約交割1800萬　今年櫃買第13次達揭露標準",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608110377.aspx"
   },
   {
-   "t": "Tech stocks today: CoreWeave and Supermicro to report results, Intel to upsizes stock sale",
+   "t": "US fuel exports to Cuba spur chaotic black market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-coreweave-and-supermicro-to-report-results-intel-to-upsizes-stock-sale-135605566.html"
+   "u": "https://finance.yahoo.com/news/us-fuel-sales-cuban-business-100512481.html"
   },
   {
    "t": "今彩539第115194期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110374.aspx"
   },
   {
-   "t": "Russia to Allow Bitcoin, Ether, Tether Trading on Official Exchanges",
+   "t": "Tech stocks today: CoreWeave and Supermicro to report results, Intel to upsizes stock sale",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/russia-allow-bitcoin-ether-tether-145700776.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-coreweave-and-supermicro-to-report-results-intel-to-upsizes-stock-sale-135605566.html"
   },
   {
    "t": "大樂透第115078期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608110373.aspx"
   },
   {
-   "t": "Sharplink Posts $394M Loss as Ether Treasury Weighs on Q2 Results",
+   "t": "Russia to Allow Bitcoin, Ether, Tether Trading on Official Exchanges",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/sharplink-posts-394m-loss-ether-145500529.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/russia-allow-bitcoin-ether-tether-145700776.html"
   },
   {
    "t": "兆基屋管聯貸案　金管會：目前履約付息皆正常",
