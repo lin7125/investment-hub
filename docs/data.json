@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 00:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 00:48（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,29 +212,29 @@
   },
   {
    "s": "AAPL",
-   "p": 301.55,
-   "c": -1.1,
-   "a50": 309.46,
+   "p": 301.7,
+   "c": -1.05,
+   "a50": 309.47,
    "a200": 280.08,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 321.18,
-   "r": 39.8
+   "a20": 321.19,
+   "r": 39.9
   },
   {
    "s": "NVDA",
-   "p": 222.75,
-   "c": 2.41,
+   "p": 223.08,
+   "c": 2.57,
    "a50": 206.24,
    "a200": 194.55,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 208.32,
-   "r": 61.6
+   "a20": 208.33,
+   "r": 61.8
   },
   {
    "s": "TSLA",
-   "p": 326.99,
+   "p": 326.98,
    "c": -1.75,
    "a50": 374.38,
    "a200": 407.1,
@@ -245,13 +245,13 @@
   },
   {
    "s": "META",
-   "p": 582.0,
-   "c": -2.86,
+   "p": 582.02,
+   "c": -2.85,
    "a50": 597.91,
    "a200": 629.17,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 601.11,
+   "a20": 601.12,
    "r": 44.7
   },
   {
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7746.74,
-   "c": 0.24,
-   "a50": 7503.93,
-   "a200": 7065.3,
+   "p": 7750.11,
+   "c": 0.28,
+   "a50": 7504.0,
+   "a200": 7065.32,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7555.24,
-   "r": 64.5
+   "a20": 7555.41,
+   "r": 64.7
   },
   {
    "s": "^VIX",
-   "p": 14.8,
-   "c": -3.14,
+   "p": 14.79,
+   "c": -3.21,
    "a50": 17.24,
    "a200": 18.55,
    "yh": 31.05,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.75,
-   "c": -0.18,
+   "p": 88.73,
+   "c": -0.2,
    "a50": 84.31,
    "a200": 81.53,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4483.3,
-   "c": 2.29,
-   "a50": 4163.14,
-   "a200": 4483.52,
+   "p": 4473.6,
+   "c": 2.07,
+   "a50": 4162.94,
+   "a200": 4483.48,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4141.06,
-   "r": 71.5
+   "a20": 4140.58,
+   "r": 71.1
   },
   {
    "s": "HG=F",
-   "p": 6.63,
-   "c": 0.3,
+   "p": 6.64,
+   "c": 0.39,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 61.4
+   "r": 61.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03103662,
-   "c": 0.02,
+   "c": 0.01,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120351.aspx"
   },
   {
-   "t": "Gas prices have never been this high in mid-August",
+   "t": "Stock Market Today: Nasdaq Leads Charge As Aerospace Name Breaks Out To Highs (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/gas-prices-have-never-been-this-high-in-mid-august-161923583.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-cpi-inflation-nvidia-partner-coreweave/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台積電等科技股助攻　挪威主權基金上半年投報創新高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "Aluminum Stock Briefly Tops Buy Point. Earnings Surge 357% Amid Strong Trends.",
+   "t": "Southwest Gas (SWX) Q2 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/aluminum-stock-briefly-tops-buy-point-earnings-surge-357-amid-strong-trends/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/southwest-gas-swx-q2-2026-162822655.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "Ecovyst (ECVT) Q2 2026 Earnings Call Transcript",
+   "t": "Alico 3Q Revenue Jumps on Booming Land Management Strategy – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ecovyst-ecvt-q2-2026-earnings-161452441.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/alico-3q-revenue-jumps-booming-162347279.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120345.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after CPI data cools slightly",
+   "t": "Gas prices have never been this high in mid-August",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html"
+   "u": "https://finance.yahoo.com/markets/article/gas-prices-have-never-been-this-high-in-mid-august-161923583.html"
   },
   {
    "t": "美利達上半年每股賺2.15元　高基期影響獲利年減2成",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120342.aspx"
   },
   {
-   "t": "Stock Of The Day: Boeing, Airbus Supplier Soars 15% On Earnings, Flashing Buy Signals",
+   "t": "Aluminum Stock Briefly Tops Buy Point. Earnings Surge 357% Amid Strong Trends.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/boeing-supplier-astronics-stock-earnings-buy-signals/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/aluminum-stock-briefly-tops-buy-point-earnings-surge-357-amid-strong-trends/?src=A00220&yptr=yahoo"
   },
   {
    "t": "8品牌召回逾8.7萬顆行動電源　經部籲民眾主動查詢",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120341.aspx"
   },
   {
-   "t": "National Vision Raises Outlook as Higher-Value Customers Fuel Breakout Quarter",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after CPI data cools slightly",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/national-vision-raises-outlook-higher-155813048.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html"
   }
  ],
  "inst": {
