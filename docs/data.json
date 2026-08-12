@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 11:56（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 12:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -25,102 +25,102 @@
   },
   {
    "s": "2308.TW",
-   "p": 1805.0,
-   "c": 0.0,
-   "a50": 1931.6,
-   "a200": 1513.29,
+   "p": 1800.0,
+   "c": -0.28,
+   "a50": 1931.5,
+   "a200": 1513.26,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1716.75,
-   "r": 52.0
+   "a20": 1716.5,
+   "r": 51.6
   },
   {
    "s": "2454.TW",
-   "p": 4000.0,
-   "c": -0.5,
-   "a50": 3998.3,
-   "a200": 2419.05,
+   "p": 3985.0,
+   "c": -0.87,
+   "a50": 3998.0,
+   "a200": 2418.98,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3703.25,
-   "r": 55.4
+   "a20": 3702.5,
+   "r": 54.9
   },
   {
    "s": "2327.TW",
-   "p": 613.0,
-   "c": -0.65,
-   "a50": 802.91,
-   "a200": 424.24,
+   "p": 610.0,
+   "c": -1.13,
+   "a50": 802.85,
+   "a200": 424.23,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 603.92,
-   "r": 45.0
+   "a20": 603.78,
+   "r": 44.7
   },
   {
    "s": "1802.TW",
-   "p": 57.9,
-   "c": 3.58,
-   "a50": 61.31,
+   "p": 57.6,
+   "c": 3.04,
+   "a50": 61.3,
    "a200": 51.99,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.48,
-   "r": 53.7
+   "a20": 52.46,
+   "r": 53.3
   },
   {
    "s": "6862.TW",
-   "p": 150.0,
-   "c": 1.35,
-   "a50": 172.8,
+   "p": 149.0,
+   "c": 0.68,
+   "a50": 172.78,
    "a200": 177.71,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 142.32,
-   "r": 48.2
+   "a20": 142.28,
+   "r": 47.5
   },
   {
    "s": "3701.TW",
-   "p": 41.7,
-   "c": 1.21,
+   "p": 41.85,
+   "c": 1.58,
    "a50": 43.88,
    "a200": 48.82,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.44,
-   "r": 51.4
+   "r": 51.8
   },
   {
    "s": "4722.TW",
-   "p": 210.5,
-   "c": -2.09,
-   "a50": 241.79,
+   "p": 210.0,
+   "c": -2.33,
+   "a50": 241.78,
    "a200": 199.19,
    "yh": 306.5,
    "yl": 83.6,
-   "a20": 207.7,
-   "r": 46.3
+   "a20": 207.68,
+   "r": 46.2
   },
   {
    "s": "6706.TW",
-   "p": 122.5,
-   "c": 4.7,
-   "a50": 137.92,
-   "a200": 125.84,
+   "p": 121.5,
+   "c": 3.85,
+   "a50": 137.9,
+   "a200": 125.83,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 108.62,
-   "r": 52.8
+   "a20": 108.57,
+   "r": 52.1
   },
   {
    "s": "2305.TW",
-   "p": 27.6,
-   "c": 1.28,
+   "p": 27.55,
+   "c": 1.1,
    "a50": 31.82,
    "a200": 18.36,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 30.47,
-   "r": 42.7
+   "r": 42.6
   },
   {
    "s": "6442.TW",
@@ -135,25 +135,25 @@
   },
   {
    "s": "6515.TW",
-   "p": 7095.0,
-   "c": 2.53,
-   "a50": 7741.5,
-   "a200": 5948.95,
+   "p": 7115.0,
+   "c": 2.82,
+   "a50": 7741.9,
+   "a200": 5949.05,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6392.0,
-   "r": 52.4
+   "a20": 6393.0,
+   "r": 52.6
   },
   {
    "s": "6446.TW",
-   "p": 1425.0,
-   "c": -2.4,
-   "a50": 1124.78,
-   "a200": 696.06,
+   "p": 1430.0,
+   "c": -2.05,
+   "a50": 1124.88,
+   "a200": 696.09,
    "yh": 1460.0,
    "yl": 398.46,
-   "a20": 1210.25,
-   "r": 64.3
+   "a20": 1210.5,
+   "r": 64.7
   },
   {
    "s": "3324.TWO",
@@ -168,47 +168,47 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1330.0,
-   "c": 4.31,
-   "a50": 1359.94,
-   "a200": 1181.7,
+   "p": 1335.0,
+   "c": 4.71,
+   "a50": 1360.04,
+   "a200": 1181.72,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1198.35,
-   "r": 54.7
+   "a20": 1198.6,
+   "r": 55.0
   },
   {
    "s": "3585.TWO",
-   "p": 51.0,
-   "c": 1.59,
-   "a50": 62.35,
-   "a200": 41.12,
+   "p": 50.2,
+   "c": 0.0,
+   "a50": 62.33,
+   "a200": 41.11,
    "yh": 165.0,
    "yl": 5.68,
-   "a20": 47.75,
-   "r": 47.2
+   "a20": 47.71,
+   "r": 46.1
   },
   {
    "s": "6223.TWO",
-   "p": 6515.0,
-   "c": 3.17,
-   "a50": 6194.4,
-   "a200": 3973.15,
+   "p": 6520.0,
+   "c": 3.25,
+   "a50": 6194.5,
+   "a200": 3973.18,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5813.25,
+   "a20": 5813.5,
    "r": 57.5
   },
   {
    "s": "6750.TWO",
-   "p": 58.8,
-   "c": 2.44,
+   "p": 59.0,
+   "c": 2.79,
    "a50": 61.35,
    "a200": 56.62,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.8,
-   "r": 52.3
+   "a20": 55.81,
+   "r": 52.7
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45434.75,
-   "c": 0.7,
-   "a50": 44788.55,
-   "a200": 35721.17,
+   "p": 45382.58,
+   "c": 0.58,
+   "a50": 44818.08,
+   "a200": 35465.11,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43605.28,
-   "r": 57.1
+   "a20": 43781.25,
+   "r": 55.9
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 89.85,
-   "c": 2.43,
-   "a50": 84.45,
+   "p": 88.91,
+   "c": 1.36,
+   "a50": 84.43,
    "a200": 81.42,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.88,
-   "r": 55.2
+   "a20": 87.83,
+   "r": 54.2
   },
   {
    "s": "GC=F",
-   "p": 4462.0,
-   "c": 2.3,
-   "a50": 4164.55,
-   "a200": 4482.13,
+   "p": 4383.0,
+   "c": 0.49,
+   "a50": 4162.97,
+   "a200": 4481.73,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4123.05,
-   "r": 70.4
+   "a20": 4119.1,
+   "r": 67.0
   },
   {
    "s": "HG=F",
-   "p": 6.66,
-   "c": 0.96,
-   "a50": 6.35,
+   "p": 6.61,
+   "c": 0.27,
+   "a50": 6.34,
    "a200": 5.85,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.44,
-   "r": 62.3
+   "r": 60.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.0310559,
-   "c": 0.09,
+   "p": 0.03106555,
+   "c": 0.12,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120058.aspx"
   },
   {
-   "t": "Meta (META) Unveils Muse Glimmer as Open-Source AI Spending Debate Intensifies",
+   "t": "US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/meta-meta-unveils-muse-glimmer-160609898.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/us-appeals-court-allows-thousands-161341980.html"
   },
   {
    "t": "瑞恩航空導入Google雲端服務　瞄準年載客3億人次",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120042.aspx"
   },
   {
-   "t": "Sotera Health Company (SHC) Reported Positive Results Amid Litigation Wins",
+   "t": "Energy Sector Rotation and Falling Oil Prices Pressure TotalEnergies SE (TTE)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/sotera-health-company-shc-reported-160255464.html"
+   "u": "https://finance.yahoo.com/energy/articles/energy-sector-rotation-falling-oil-161152521.html"
   },
   {
    "t": "台積電上漲10元　台股上揚逾300點突破45400點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120032.aspx"
   },
   {
-   "t": "Energy Sector Rotation and Falling Oil Prices Pressure TotalEnergies SE (TTE)",
+   "t": "Weekly survey of mortgage lenders with the lowest rates: Lower rates and stiff fees",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/energy-sector-rotation-falling-oil-161152521.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-10-170834159.html"
   },
   {
    "t": "新台幣開盤升2.8分　為32.25元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120028.aspx"
   },
   {
-   "t": "US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction",
+   "t": "Meta (META) Unveils Muse Glimmer as Open-Source AI Spending Debate Intensifies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/us-appeals-court-allows-thousands-161341980.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/meta-meta-unveils-muse-glimmer-160609898.html"
   },
   {
    "t": "台股開盤漲54.98點",
