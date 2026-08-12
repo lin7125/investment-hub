@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 03:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 03:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 301.66,
-   "c": -1.07,
-   "a50": 309.46,
+   "p": 301.8,
+   "c": -1.02,
+   "a50": 309.47,
    "a200": 280.08,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 321.19,
+   "a20": 321.2,
    "r": 39.9
   },
   {
    "s": "NVDA",
-   "p": 222.85,
-   "c": 2.46,
-   "a50": 206.24,
+   "p": 222.61,
+   "c": 2.35,
+   "a50": 206.23,
    "a200": 194.55,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 208.32,
-   "r": 61.7
+   "a20": 208.31,
+   "r": 61.5
   },
   {
    "s": "TSLA",
-   "p": 327.67,
-   "c": -1.55,
+   "p": 327.72,
+   "c": -1.53,
    "a50": 374.39,
    "a200": 407.1,
    "yh": 489.88,
@@ -245,8 +245,8 @@
   },
   {
    "s": "META",
-   "p": 580.6,
-   "c": -3.09,
+   "p": 580.56,
+   "c": -3.1,
    "a50": 597.88,
    "a200": 629.16,
    "yh": 790.0,
@@ -267,21 +267,21 @@
   },
   {
    "s": "^GSPC",
-   "p": 7751.72,
-   "c": 0.3,
-   "a50": 7508.94,
-   "a200": 7053.71,
+   "p": 7751.82,
+   "c": 0.31,
+   "a50": 7504.03,
+   "a200": 7065.33,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7562.16,
-   "r": 64.7
+   "a20": 7555.5,
+   "r": 64.8
   },
   {
    "s": "^VIX",
-   "p": 14.48,
-   "c": -5.24,
-   "a50": 17.19,
-   "a200": 18.56,
+   "p": 14.47,
+   "c": -5.3,
+   "a50": 17.24,
+   "a200": 18.55,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.94,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.79,
-   "c": -0.13,
+   "p": 88.81,
+   "c": -0.11,
    "a50": 84.31,
    "a200": 81.53,
    "yh": 118.35,
@@ -300,13 +300,13 @@
   },
   {
    "s": "GC=F",
-   "p": 4477.5,
-   "c": 2.16,
-   "a50": 4163.02,
+   "p": 4477.1,
+   "c": 2.15,
+   "a50": 4163.01,
    "a200": 4483.49,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.77,
+   "a20": 4140.75,
    "r": 71.3
   },
   {
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03102699,
-   "c": 0.0,
+   "c": -0.01,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130004.aspx"
   },
   {
-   "t": "Rémy Cointreau picks Monika Alcobev to distribute in India",
+   "t": "Healthcare Traders Need to Be Part-Time AI Specialists Just to Keep Up",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/r-cointreau-picks-monika-alcobev-102955223.html"
+   "u": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-11-2026/card/healthcare-traders-need-to-be-part-time-ai-specialists-just-to-keep-up-SPCXiC40PuXOTh5XQ84v?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "美夏季通膨放緩　油價與機票漲幅最高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "Larry Fink says Americans’ retirement savings need to fund $10 trillion AI infrastructure demands. Protect your wealth",
+   "t": "Stock Index Futures Gain as Oil Retreats on U.S.-Iran Deal Hopes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/larry-fink-says-americans-retirement-101500090.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-gain-oil-103820793.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "Stock Index Futures Gain as Oil Retreats on U.S.-Iran Deal Hopes",
+   "t": "Is Lam Research, KLA, or Applied Materials the Best Chip Equipment Buy? Jim Cramer Weighs In",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-gain-oil-103820793.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lam-research-kla-applied-materials-104048217.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
