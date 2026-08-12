@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 15:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 15:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -269,17 +269,17 @@
    "s": "^GSPC",
    "p": 7728.2,
    "c": -0.32,
-   "a50": 7504.32,
-   "a200": 7048.62,
+   "a50": 7500.99,
+   "a200": 7060.26,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7553.35,
+   "a20": 7546.53,
    "r": 63.4
   },
   {
    "s": "^VIX",
-   "p": 15.32,
-   "c": 0.26,
+   "p": 15.31,
+   "c": 0.2,
    "a50": 17.2,
    "a200": 18.56,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 89.42,
-   "c": 0.57,
+   "p": 89.55,
+   "c": 0.72,
    "a50": 84.32,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.06,
-   "r": 54.8
+   "r": 54.9
   },
   {
    "s": "GC=F",
-   "p": 4461.6,
-   "c": 1.79,
-   "a50": 4162.7,
-   "a200": 4483.42,
+   "p": 4467.7,
+   "c": 1.93,
+   "a50": 4162.82,
+   "a200": 4483.45,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4139.98,
-   "r": 70.7
+   "a20": 4140.28,
+   "r": 70.9
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 0.89,
+   "c": 0.95,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 63.0
+   "r": 63.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03104626,
-   "c": 0.07,
+   "p": 0.0310559,
+   "c": 0.09,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120096.aspx"
   },
   {
-   "t": "Why Vertex Pharma Popped, As A Key Rival Plummeted 92%",
+   "t": "Landstar has cut more than 35,000 carriers from approved network",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/vertex-stock-sionna-therapeutics-cystic-fibrosis-treatment/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/landstar-cut-more-35-000-202924118.html"
   },
   {
    "t": "創見參加自動化工業大展　聚焦AI視覺辨識應用",
