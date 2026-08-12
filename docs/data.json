@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 13:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 13:50（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,36 +14,36 @@
   },
   {
    "s": "2317.TW",
-   "p": 269.5,
-   "c": 2.47,
-   "a50": 254.39,
+   "p": 270.0,
+   "c": 2.66,
+   "a50": 254.4,
    "a200": 235.3,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 250.48,
-   "r": 62.0
+   "a20": 250.5,
+   "r": 62.2
   },
   {
    "s": "2308.TW",
-   "p": 1800.0,
-   "c": -0.28,
-   "a50": 1931.5,
-   "a200": 1513.26,
+   "p": 1790.0,
+   "c": -0.83,
+   "a50": 1931.3,
+   "a200": 1513.22,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1716.5,
-   "r": 51.6
+   "a20": 1716.0,
+   "r": 51.0
   },
   {
    "s": "2454.TW",
-   "p": 4000.0,
-   "c": -0.5,
-   "a50": 3998.3,
-   "a200": 2419.05,
+   "p": 4015.0,
+   "c": -0.12,
+   "a50": 3998.6,
+   "a200": 2419.12,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3703.25,
-   "r": 55.4
+   "a20": 3704.0,
+   "r": 55.9
   },
   {
    "s": "2327.TW",
@@ -269,23 +269,23 @@
    "s": "^GSPC",
    "p": 7728.2,
    "c": -0.32,
-   "a50": 7500.99,
-   "a200": 7060.26,
+   "a50": 7504.32,
+   "a200": 7048.62,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7546.53,
+   "a20": 7553.35,
    "r": 63.4
   },
   {
    "s": "^VIX",
    "p": 15.28,
    "c": -1.16,
-   "a50": 17.22,
-   "a200": 18.58,
+   "a50": 17.27,
+   "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.97,
-   "r": 43.3
+   "a20": 17.02,
+   "r": 43.7
   },
   {
    "s": "BZ=F",
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4454.7,
-   "c": 1.64,
-   "a50": 4162.56,
+   "p": 4453.6,
+   "c": 1.61,
+   "a50": 4162.54,
    "a200": 4483.38,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4139.63,
-   "r": 70.4
+   "a20": 4139.58,
+   "r": 70.3
   },
   {
    "s": "HG=F",
    "p": 6.65,
-   "c": 0.6,
+   "c": 0.59,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.0310559,
-   "c": 0.09,
+   "p": 0.03106555,
+   "c": 0.1,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120058.aspx"
   },
   {
-   "t": "Sony (SONY), TSMC (TSM) Bet $6.3B On Next-Gen Sensors",
+   "t": "Colis Privé expands last-mile delivery business into Spain and Portugal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/sony-sony-tsmc-tsm-bet-175632973.html"
+   "u": "https://finance.yahoo.com/small-business/articles/colis-priv-expands-last-mile-180127257.html"
   },
   {
    "t": "瑞恩航空導入Google雲端服務　瞄準年載客3億人次",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120042.aspx"
   },
   {
-   "t": "Airbnb’s (ABNB) Breakout Quarter Reopens Its Growth Story",
+   "t": "Penske Lawsuit SHOCKS Brokers: Who’s Liable for Freight?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-breakout-quarter-reopens-175523801.html"
+   "u": "https://finance.yahoo.com/markets/articles/penske-lawsuit-shocks-brokers-liable-180123615.html"
   },
   {
    "t": "台積電上漲10元　台股上揚逾300點突破45400點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120032.aspx"
   },
   {
-   "t": "Jim Cramer Sees Cheap Valuation in Becton, Dickinson (BDX) After Q3 Beat and Raised Guidance",
+   "t": "Monday.com Falls As Software Maker's Guidance Trumps Earnings Beat",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sees-cheap-valuation-175313326.html"
+   "u": "https://www.investors.com/news/technology/monday-stock-monday-earnings-q22026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "新台幣開盤升2.8分　為32.25元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120028.aspx"
   },
   {
-   "t": "Ahead of Plug Power Earnings, Here's What Barchart Data Says Comes Next for PLUG Stock",
+   "t": "Michael Burry vs. Nvidia: What to Know as Burry Bets Against Nvidia-Backed Nebius Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-plug-power-earnings-heres-175903748.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-vs-nvidia-know-180107287.html"
   },
   {
    "t": "台股開盤漲54.98點",
