@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 11:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 11:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -25,80 +25,80 @@
   },
   {
    "s": "2308.TW",
-   "p": 1820.0,
-   "c": 0.83,
-   "a50": 1931.9,
-   "a200": 1513.36,
+   "p": 1815.0,
+   "c": 0.55,
+   "a50": 1931.8,
+   "a200": 1513.34,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1717.5,
-   "r": 52.8
+   "a20": 1717.25,
+   "r": 52.5
   },
   {
    "s": "2454.TW",
-   "p": 4010.0,
-   "c": -0.25,
-   "a50": 3998.5,
-   "a200": 2419.1,
+   "p": 4005.0,
+   "c": -0.37,
+   "a50": 3998.4,
+   "a200": 2419.07,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3703.75,
-   "r": 55.7
+   "a20": 3703.5,
+   "r": 55.5
   },
   {
    "s": "2327.TW",
-   "p": 621.0,
-   "c": 0.65,
-   "a50": 803.07,
-   "a200": 424.28,
+   "p": 618.0,
+   "c": 0.16,
+   "a50": 803.01,
+   "a200": 424.27,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 604.33,
-   "r": 45.8
+   "a20": 604.17,
+   "r": 45.5
   },
   {
    "s": "1802.TW",
-   "p": 58.5,
-   "c": 4.65,
+   "p": 58.4,
+   "c": 4.47,
    "a50": 61.32,
-   "a200": 52.0,
+   "a200": 51.99,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.51,
-   "r": 54.6
+   "a20": 52.5,
+   "r": 54.5
   },
   {
    "s": "6862.TW",
-   "p": 149.5,
-   "c": 1.01,
-   "a50": 172.79,
+   "p": 150.0,
+   "c": 1.35,
+   "a50": 172.8,
    "a200": 177.71,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 142.3,
-   "r": 47.9
+   "a20": 142.32,
+   "r": 48.2
   },
   {
    "s": "3701.TW",
-   "p": 41.4,
-   "c": 0.49,
+   "p": 41.5,
+   "c": 0.73,
    "a50": 43.87,
    "a200": 48.82,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.42,
-   "r": 50.5
+   "a20": 39.43,
+   "r": 50.8
   },
   {
    "s": "4722.TW",
-   "p": 212.0,
-   "c": -1.4,
-   "a50": 241.82,
+   "p": 212.5,
+   "c": -1.16,
+   "a50": 241.83,
    "a200": 199.2,
    "yh": 306.5,
    "yl": 83.6,
-   "a20": 207.78,
-   "r": 46.8
+   "a20": 207.8,
+   "r": 47.0
   },
   {
    "s": "6706.TW",
@@ -113,14 +113,14 @@
   },
   {
    "s": "2305.TW",
-   "p": 28.0,
-   "c": 2.75,
+   "p": 27.8,
+   "c": 2.02,
    "a50": 31.83,
    "a200": 18.36,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 30.49,
-   "r": 43.7
+   "a20": 30.48,
+   "r": 43.2
   },
   {
    "s": "6442.TW",
@@ -146,14 +146,14 @@
   },
   {
    "s": "6446.TW",
-   "p": 1435.0,
-   "c": -1.71,
-   "a50": 1124.98,
-   "a200": 696.11,
+   "p": 1430.0,
+   "c": -2.05,
+   "a50": 1124.88,
+   "a200": 696.09,
    "yh": 1460.0,
    "yl": 398.46,
-   "a20": 1210.75,
-   "r": 65.1
+   "a20": 1210.5,
+   "r": 64.7
   },
   {
    "s": "3324.TWO",
@@ -168,36 +168,36 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1330.0,
-   "c": 4.31,
-   "a50": 1359.94,
-   "a200": 1181.7,
+   "p": 1335.0,
+   "c": 4.71,
+   "a50": 1360.04,
+   "a200": 1181.72,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1198.35,
-   "r": 54.7
+   "a20": 1198.6,
+   "r": 55.0
   },
   {
    "s": "3585.TWO",
-   "p": 51.5,
-   "c": 2.59,
-   "a50": 62.36,
+   "p": 51.1,
+   "c": 1.79,
+   "a50": 62.35,
    "a200": 41.12,
    "yh": 165.0,
    "yl": 5.68,
-   "a20": 47.77,
-   "r": 47.8
+   "a20": 47.75,
+   "r": 47.3
   },
   {
    "s": "6223.TWO",
-   "p": 6555.0,
-   "c": 3.8,
-   "a50": 6195.2,
-   "a200": 3973.35,
+   "p": 6560.0,
+   "c": 3.88,
+   "a50": 6195.3,
+   "a200": 3973.38,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5815.25,
-   "r": 57.9
+   "a20": 5815.5,
+   "r": 58.0
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45475.36,
-   "c": 0.79,
-   "a50": 44789.36,
-   "a200": 35721.38,
+   "p": 45462.78,
+   "c": 0.76,
+   "a50": 44789.11,
+   "a200": 35721.31,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43607.31,
-   "r": 57.3
+   "a20": 43606.68,
+   "r": 57.2
   },
   {
    "s": "^GSPC",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 89.7,
-   "c": 2.26,
+   "p": 89.81,
+   "c": 2.38,
    "a50": 84.45,
    "a200": 81.42,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.87,
-   "r": 55.0
+   "a20": 87.88,
+   "r": 55.2
   },
   {
    "s": "GC=F",
-   "p": 4471.7,
-   "c": 2.52,
-   "a50": 4164.75,
-   "a200": 4482.18,
+   "p": 4466.1,
+   "c": 2.39,
+   "a50": 4164.64,
+   "a200": 4482.15,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4123.53,
-   "r": 70.8
+   "a20": 4123.25,
+   "r": 70.6
   },
   {
    "s": "HG=F",
    "p": 6.65,
-   "c": 0.89,
+   "c": 0.8,
    "a50": 6.35,
    "a200": 5.85,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.44,
-   "r": 62.2
+   "r": 61.9
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120058.aspx"
   },
   {
-   "t": "Record Backlog Powers NRC Health’s (NRC) Upward Potential",
+   "t": "Perma Fix Environmental Services’ (PESI) Strong Backlog Overshadows Weak Results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/record-backlog-powers-nrc-health-153446918.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/perma-fix-environmental-services-pesi-154243279.html"
   },
   {
    "t": "瑞恩航空導入Google雲端服務　瞄準年載客3億人次",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120042.aspx"
   },
   {
-   "t": "'An unprecedented boom': Corporate profits are on pace for fastest growth since 2021",
+   "t": "Alarm Bells Are Sounding for the Grid: Answering Them Takes More Than Megawatts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/an-unprecedented-boom-corporate-profits-are-on-pace-for-fastest-growth-since-2021-152552912.html"
+   "u": "https://finance.yahoo.com/energy/articles/alarm-bells-sounding-grid-answering-154547511.html"
   },
   {
    "t": "台積電上漲10元　台股上揚逾300點突破45400點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120032.aspx"
   },
   {
-   "t": "Crude Prices Soar as Middle East Tensions Curb Global Oil Supplies",
+   "t": "Pro-Dex Inc (PDEX) Positioned to Strengthen with Zimmer’s mBos Robot Commercialization",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/crude-prices-soar-middle-east-153512948.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/pro-dex-inc-pdex-positioned-154653895.html"
   },
   {
    "t": "新台幣開盤升2.8分　為32.25元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120028.aspx"
   },
   {
-   "t": "Why SpaceX Stock Plunged Despite a Strong Q2 Earnings Beat",
+   "t": "Analyst Warns Alphabet (GOOG) Faces Two Major AI Problems; SpaceX (SPCX) a Better AI Bet?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-spacex-stock-plunged-despite-154211380.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/analyst-warns-alphabet-goog-faces-154504509.html"
   },
   {
    "t": "台股開盤漲54.98點",
