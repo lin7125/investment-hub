@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 12:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 12:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,25 +14,25 @@
   },
   {
    "s": "2317.TW",
-   "p": 269.0,
-   "c": 2.28,
-   "a50": 254.38,
-   "a200": 235.3,
+   "p": 268.5,
+   "c": 2.09,
+   "a50": 254.37,
+   "a200": 235.29,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 250.45,
-   "r": 61.7
+   "a20": 250.42,
+   "r": 61.4
   },
   {
    "s": "2308.TW",
-   "p": 1795.0,
-   "c": -0.55,
-   "a50": 1931.4,
-   "a200": 1513.24,
+   "p": 1810.0,
+   "c": 0.28,
+   "a50": 1931.7,
+   "a200": 1513.32,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1716.25,
-   "r": 51.3
+   "a20": 1717.0,
+   "r": 52.3
   },
   {
    "s": "2454.TW",
@@ -47,14 +47,14 @@
   },
   {
    "s": "2327.TW",
-   "p": 609.0,
-   "c": -1.3,
-   "a50": 802.83,
-   "a200": 424.22,
+   "p": 607.0,
+   "c": -1.62,
+   "a50": 802.79,
+   "a200": 424.21,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 603.72,
-   "r": 44.7
+   "a20": 603.62,
+   "r": 44.5
   },
   {
    "s": "1802.TW",
@@ -69,36 +69,36 @@
   },
   {
    "s": "6862.TW",
-   "p": 149.5,
-   "c": 1.01,
-   "a50": 172.79,
+   "p": 149.0,
+   "c": 0.68,
+   "a50": 172.78,
    "a200": 177.71,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 142.3,
-   "r": 47.9
+   "a20": 142.28,
+   "r": 47.5
   },
   {
    "s": "3701.TW",
-   "p": 41.75,
-   "c": 1.33,
+   "p": 41.7,
+   "c": 1.21,
    "a50": 43.88,
    "a200": 48.82,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.44,
-   "r": 51.5
+   "r": 51.4
   },
   {
    "s": "4722.TW",
-   "p": 211.0,
-   "c": -1.86,
-   "a50": 241.8,
+   "p": 212.5,
+   "c": -1.16,
+   "a50": 241.83,
    "a200": 199.2,
    "yh": 306.5,
    "yl": 83.6,
-   "a20": 207.72,
-   "r": 46.5
+   "a20": 207.8,
+   "r": 47.0
   },
   {
    "s": "6706.TW",
@@ -135,14 +135,14 @@
   },
   {
    "s": "6515.TW",
-   "p": 7080.0,
-   "c": 2.31,
-   "a50": 7741.2,
-   "a200": 5948.88,
+   "p": 7050.0,
+   "c": 1.88,
+   "a50": 7740.6,
+   "a200": 5948.72,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6391.25,
-   "r": 52.2
+   "a20": 6389.75,
+   "r": 51.8
   },
   {
    "s": "6446.TW",
@@ -168,36 +168,36 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1340.0,
-   "c": 5.1,
-   "a50": 1360.14,
-   "a200": 1181.75,
+   "p": 1325.0,
+   "c": 3.92,
+   "a50": 1359.84,
+   "a200": 1181.67,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1198.85,
-   "r": 55.2
+   "a20": 1198.1,
+   "r": 54.5
   },
   {
    "s": "3585.TWO",
-   "p": 51.0,
-   "c": 1.59,
+   "p": 50.9,
+   "c": 1.39,
    "a50": 62.35,
    "a200": 41.12,
    "yh": 165.0,
    "yl": 5.68,
-   "a20": 47.75,
-   "r": 47.2
+   "a20": 47.74,
+   "r": 47.1
   },
   {
    "s": "6223.TWO",
-   "p": 6485.0,
-   "c": 2.69,
-   "a50": 6193.8,
-   "a200": 3973.0,
+   "p": 6490.0,
+   "c": 2.77,
+   "a50": 6193.9,
+   "a200": 3973.02,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5811.75,
-   "r": 57.1
+   "a20": 5812.0,
+   "r": 57.2
   },
   {
    "s": "6750.TWO",
@@ -256,24 +256,24 @@
   },
   {
    "s": "^TWII",
-   "p": 45380.41,
-   "c": 0.58,
-   "a50": 44787.46,
-   "a200": 35720.9,
+   "p": 45427.75,
+   "c": 0.68,
+   "a50": 44818.99,
+   "a200": 35465.34,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43602.56,
-   "r": 56.9
+   "a20": 43783.51,
+   "r": 56.1
   },
   {
    "s": "^GSPC",
    "p": 7728.2,
    "c": -0.32,
-   "a50": 7500.99,
-   "a200": 7060.26,
+   "a50": 7504.32,
+   "a200": 7048.62,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7546.53,
+   "a20": 7553.35,
    "r": 63.4
   },
   {
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 89.88,
-   "c": 1.09,
+   "p": 89.76,
+   "c": 0.96,
    "a50": 84.33,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.08,
-   "r": 55.3
+   "a20": 88.07,
+   "r": 55.2
   },
   {
    "s": "GC=F",
-   "p": 4461.4,
-   "c": 1.79,
-   "a50": 4162.7,
-   "a200": 4483.41,
+   "p": 4456.4,
+   "c": 1.67,
+   "a50": 4162.6,
+   "a200": 4483.39,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4139.97,
-   "r": 70.6
+   "a20": 4139.72,
+   "r": 70.4
   },
   {
    "s": "HG=F",
-   "p": 6.66,
-   "c": 0.67,
+   "p": 6.65,
+   "c": 0.56,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 62.4
+   "r": 62.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.0310559,
-   "c": 0.1,
+   "p": 0.03106555,
+   "c": 0.11,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120058.aspx"
   },
   {
-   "t": "Deal Valued At $1.1 Billion Sends This X-Ray Stock Soaring 48%",
+   "t": "Tech stocks still have plenty of believers on Wall Street, inflow data shows",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/teledyne-technologies-tdy-stock-varex-imaging-vrex/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/article/tech-stocks-still-have-plenty-of-believers-on-wall-street-inflow-data-shows-163544665.html"
   },
   {
    "t": "瑞恩航空導入Google雲端服務　瞄準年載客3億人次",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120042.aspx"
   },
   {
-   "t": "Weekly survey of mortgage lenders with the lowest rates: Lower rates and stiff fees",
+   "t": "The ONE Group: A Restaurant Stock With Rising Traffic, Expanding Margins – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-10-170834159.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/one-group-restaurant-stock-rising-163726049.html"
   },
   {
    "t": "台積電上漲10元　台股上揚逾300點突破45400點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120032.aspx"
   },
   {
-   "t": "IBD 50 Stock To Watch: Travel Giant Expedia In Buy Zone Following Latest Breakout",
+   "t": "Here's how SpaceX hits this $100 billion number in under 5 months",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/expedia-stock-expe/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/heres-how-spacex-hits-this-100-billion-number-in-under-5-months-163945554.html"
   },
   {
    "t": "新台幣開盤升2.8分　為32.25元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120028.aspx"
   },
   {
-   "t": "US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction",
+   "t": "U.S. Dollar Moves Higher As Oil Rallies 5%: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/us-appeals-court-allows-thousands-161341980.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/u-dollar-moves-higher-oil-163435131.html"
   },
   {
    "t": "台股開盤漲54.98點",
