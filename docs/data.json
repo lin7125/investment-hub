@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 02:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 02:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 301.58,
-   "c": -1.09,
+   "p": 301.39,
+   "c": -1.15,
    "a50": 309.46,
    "a200": 280.08,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 321.19,
-   "r": 39.8
+   "a20": 321.18,
+   "r": 39.7
   },
   {
    "s": "NVDA",
-   "p": 223.63,
-   "c": 2.82,
+   "p": 223.74,
+   "c": 2.87,
    "a50": 206.25,
    "a200": 194.55,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 208.36,
-   "r": 62.1
+   "r": 62.2
   },
   {
    "s": "TSLA",
-   "p": 326.42,
-   "c": -1.92,
-   "a50": 374.37,
+   "p": 326.18,
+   "c": -1.99,
+   "a50": 374.36,
    "a200": 407.09,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 333.57,
-   "r": 41.0
+   "a20": 333.56,
+   "r": 40.9
   },
   {
    "s": "META",
-   "p": 580.9,
-   "c": -3.04,
-   "a50": 597.89,
-   "a200": 629.17,
+   "p": 580.1,
+   "c": -3.17,
+   "a50": 597.87,
+   "a200": 629.16,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 601.06,
-   "r": 44.4
+   "a20": 601.02,
+   "r": 44.2
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7751.8,
+   "p": 7752.43,
    "c": 0.31,
-   "a50": 7504.03,
-   "a200": 7065.33,
+   "a50": 7508.96,
+   "a200": 7053.71,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7555.47,
-   "r": 64.7
+   "a20": 7562.2,
+   "r": 64.8
   },
   {
    "s": "^VIX",
-   "p": 14.58,
-   "c": -4.58,
+   "p": 14.57,
+   "c": -4.65,
    "a50": 17.24,
    "a200": 18.55,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.84,
-   "c": -0.08,
-   "a50": 84.31,
+   "p": 88.6,
+   "c": -0.35,
+   "a50": 84.3,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.03,
-   "r": 54.1
+   "a20": 88.01,
+   "r": 53.7
   },
   {
    "s": "GC=F",
-   "p": 4458.7,
-   "c": 1.73,
-   "a50": 4162.64,
-   "a200": 4483.4,
+   "p": 4464.7,
+   "c": 1.86,
+   "a50": 4162.76,
+   "a200": 4483.43,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4139.83,
-   "r": 70.5
+   "a20": 4140.13,
+   "r": 70.8
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": -0.04,
+   "c": 0.01,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 60.3
+   "r": 60.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03102699,
-   "c": -0.02,
+   "p": 0.03101737,
+   "c": -0.03,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130004.aspx"
   },
   {
-   "t": "GameStop weighs eBay partnership as takeover bid falters – report",
+   "t": "SAIHEAT agrees merger with Canopy Wave in AI inference pivot",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gamestop-weighs-ebay-partnership-takeover-091343987.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/saiheat-agrees-merger-canopy-wave-092442196.html"
   },
   {
    "t": "美夏季通膨放緩　油價與機票漲幅最高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "Trump Media's quarterly loss widens to $238 million from $20 million a year earlier",
+   "t": "China’s Teapot Refiners Poised to Ramp Up Iranian Oil Buying",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/trump-medias-quarterly-loss-widens-085624345.html"
+   "u": "https://finance.yahoo.com/energy/articles/china-teapot-refiners-poised-ramp-093000992.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "US Dollar Price Forecast: Will CPI Revive DXY as EUR/USD and GBP/USD Test Resistance?",
+   "t": "Trump Media's quarterly loss widens to $238 million from $20 million a year earlier",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-cpi-080528660.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/trump-medias-quarterly-loss-widens-085624345.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120345.aspx"
   },
   {
-   "t": "The recycling infrastructure disconnect: why design isn’t enough",
+   "t": "HCA Healthcare’s former CFO on the role of partnerships in health",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/recycling-infrastructure-disconnect-why-design-090815318.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/hca-healthcare-former-cfo-role-092400306.html"
   }
  ],
  "inst": {
