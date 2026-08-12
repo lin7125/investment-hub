@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 02:52（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 03:02（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 301.62,
-   "c": -1.08,
+   "p": 301.48,
+   "c": -1.12,
    "a50": 309.46,
    "a200": 280.08,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 321.19,
+   "a20": 321.18,
    "r": 39.8
   },
   {
    "s": "NVDA",
-   "p": 223.89,
-   "c": 2.94,
+   "p": 223.77,
+   "c": 2.88,
    "a50": 206.26,
-   "a200": 194.56,
+   "a200": 194.55,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 208.37,
-   "r": 62.3
+   "r": 62.2
   },
   {
    "s": "TSLA",
-   "p": 327.02,
-   "c": -1.74,
+   "p": 326.96,
+   "c": -1.76,
    "a50": 374.38,
    "a200": 407.1,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 582.53,
-   "c": -2.77,
-   "a50": 597.92,
-   "a200": 629.17,
+   "p": 579.15,
+   "c": -3.33,
+   "a50": 597.86,
+   "a200": 629.16,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 601.14,
-   "r": 44.9
+   "a20": 600.97,
+   "r": 43.9
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7758.56,
-   "c": 0.39,
-   "a50": 7504.16,
-   "a200": 7065.36,
-   "yh": 7758.56,
+   "p": 7755.21,
+   "c": 0.35,
+   "a50": 7504.1,
+   "a200": 7065.35,
+   "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7555.83,
-   "r": 65.1
+   "a20": 7555.67,
+   "r": 65.0
   },
   {
    "s": "^VIX",
-   "p": 14.53,
-   "c": -4.91,
+   "p": 14.51,
+   "c": -5.04,
    "a50": 17.24,
    "a200": 18.55,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.96,
-   "r": 41.1
+   "r": 41.0
   },
   {
    "s": "BZ=F",
-   "p": 88.97,
-   "c": 0.07,
+   "p": 88.85,
+   "c": -0.07,
    "a50": 84.31,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.03,
-   "r": 54.2
+   "r": 54.1
   },
   {
    "s": "GC=F",
-   "p": 4471.8,
-   "c": 2.03,
-   "a50": 4162.91,
-   "a200": 4483.47,
+   "p": 4475.6,
+   "c": 2.11,
+   "a50": 4162.98,
+   "a200": 4483.49,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.48,
-   "r": 71.1
+   "a20": 4140.68,
+   "r": 71.2
   },
   {
    "s": "HG=F",
    "p": 6.62,
-   "c": 0.09,
+   "c": 0.08,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 60.8
+   "r": 60.7
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130004.aspx"
   },
   {
-   "t": "UnitedHealth Group Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "t": "AST SpaceMobile Stock Falls After Q2 Revenue Miss and Wider-Than-Expected Loss",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-stock-outlook-wall-095424590.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-stock-falls-q2-101206328.html"
   },
   {
    "t": "美夏季通膨放緩　油價與機票漲幅最高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130003.aspx"
   },
   {
-   "t": "Is Bitcoin Ready To Explode? Here's Why Crypto Is at a 'Major Inflection Point'",
+   "t": "UnitedHealth Group Stock Outlook: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ready-explode-heres-why-094623414.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-stock-outlook-wall-095424590.html"
   },
   {
    "t": "通膨走緩　華爾街股巿早盤走升",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "China’s Teapot Refiners Poised to Ramp Up Iranian Oil Buying",
+   "t": "Larry Fink says Americans’ retirement savings need to fund $10 trillion AI infrastructure demands. Protect your wealth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/china-teapot-refiners-poised-ramp-093000992.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/larry-fink-says-americans-retirement-101500090.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "Dave Ramsey warns nearly 50% of Americans make 1 big Social Security mistake — here's how to fix it in 3 steps",
+   "t": "China’s Teapot Refiners Poised to Ramp Up Iranian Oil Buying",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/dave-ramsey-warns-nearly-50-091000204.html"
+   "u": "https://finance.yahoo.com/energy/articles/china-teapot-refiners-poised-ramp-093000992.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120345.aspx"
   },
   {
-   "t": "How Much Should Retirees Keep in Stocks, Bonds and Cash?",
+   "t": "How To Earn $500 A Month From Cisco Stock Ahead Of Q4 Earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/heres-much-keep-stocks-bonds-205122372.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/earn-500-month-cisco-stock-100109396.html"
   }
  ],
  "inst": {
