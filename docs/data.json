@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 22:45（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 22:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 302.9,
-   "c": -0.66,
-   "a50": 309.49,
+   "p": 302.59,
+   "c": -0.76,
+   "a50": 309.48,
    "a200": 280.09,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 321.25,
-   "r": 40.6
+   "a20": 321.24,
+   "r": 40.4
   },
   {
    "s": "NVDA",
-   "p": 224.77,
-   "c": 3.34,
-   "a50": 206.28,
+   "p": 224.03,
+   "c": 3.0,
+   "a50": 206.26,
    "a200": 194.56,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 208.42,
-   "r": 62.8
+   "a20": 208.38,
+   "r": 62.4
   },
   {
    "s": "TSLA",
-   "p": 325.04,
-   "c": -2.33,
-   "a50": 374.34,
-   "a200": 407.09,
+   "p": 323.91,
+   "c": -2.67,
+   "a50": 374.32,
+   "a200": 407.08,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 333.5,
-   "r": 40.5
+   "a20": 333.44,
+   "r": 40.1
   },
   {
    "s": "META",
-   "p": 586.06,
-   "c": -2.18,
-   "a50": 597.99,
+   "p": 585.05,
+   "c": -2.35,
+   "a50": 597.97,
    "a200": 629.19,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 601.32,
-   "r": 45.8
+   "a20": 601.27,
+   "r": 45.6
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7752.37,
-   "c": 0.31,
-   "a50": 7504.04,
-   "a200": 7065.33,
+   "p": 7743.45,
+   "c": 0.2,
+   "a50": 7503.86,
+   "a200": 7065.29,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7555.52,
-   "r": 64.8
+   "a20": 7555.08,
+   "r": 64.3
   },
   {
    "s": "^VIX",
-   "p": 14.77,
-   "c": -3.34,
+   "p": 14.83,
+   "c": -2.95,
    "a50": 17.24,
    "a200": 18.55,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.97,
-   "r": 41.9
+   "a20": 16.98,
+   "r": 42.1
   },
   {
    "s": "BZ=F",
-   "p": 88.61,
-   "c": -0.34,
+   "p": 88.57,
+   "c": -0.38,
    "a50": 84.3,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.02,
+   "a20": 88.01,
    "r": 53.7
   },
   {
    "s": "GC=F",
-   "p": 4481.0,
-   "c": 2.24,
-   "a50": 4163.09,
-   "a200": 4483.51,
+   "p": 4484.3,
+   "c": 2.31,
+   "a50": 4163.16,
+   "a200": 4483.53,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.95,
-   "r": 71.4
+   "a20": 4141.11,
+   "r": 71.6
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 0.54,
+   "p": 6.66,
+   "c": 0.7,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 62.1
+   "r": 62.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03103662,
-   "c": 0.01,
+   "p": 0.03102699,
+   "c": -0.01,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "Paramount Skydance Corporation (PSKY) vs. Warner Bros. Discovery, Inc. (WBD): A Deal Stuck in Legal Limbo",
+   "t": "Consumer inflation eased to 3.4% in July, despite recent energy shocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-corporation-psky-vs-143126843.html"
+   "u": "https://finance.yahoo.com/economy/article/consumer-inflation-eased-to-34-in-july-despite-recent-energy-shocks-182926153.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "Operational Traction Restores Investors’ Confidence in Cracker Barrel Old Country Store (CBRL)",
+   "t": "BorgWarner (BWA) Q2 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/operational-traction-restores-investors-confidence-142809528.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/borgwarner-bwa-q2-2026-earnings-143732017.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120342.aspx"
   },
   {
-   "t": "Ray Dalio: The AI investment game is happening — here's how to play",
+   "t": "Paramount Skydance Corporation (PSKY) vs. Warner Bros. Discovery, Inc. (WBD): A Deal Stuck in Legal Limbo",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/ray-dalio-the-ai-investment-game-is-happening--heres-how-to-play-134808570.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-corporation-psky-vs-143126843.html"
   },
   {
    "t": "8品牌召回逾8.7萬顆行動電源　經部籲民眾主動查詢",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120341.aspx"
   },
   {
-   "t": "Daily Spotlight: Profit Margins Widening",
+   "t": "IBD 50 Stocks To Watch: Obesity Drug Giant Eli Lilly Offers New Buy Point",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_47893_MarketOutlook_1786535027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://www.investors.com/research/eli-lilly-stock-lly-buy-point/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台泥整合土葡非建材事業　籌備海外上市",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120339.aspx"
   },
   {
-   "t": "What Makes Itron (ITRI) a Strong Investment Bet?",
+   "t": "Daily Spotlight: Profit Margins Widening",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/makes-itron-itri-strong-investment-142417604.html"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_47893_MarketOutlook_1786535027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
