@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 04:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 05:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -280,17 +280,17 @@
    "s": "^VIX",
    "p": 14.55,
    "c": -4.78,
-   "a50": 17.24,
-   "a200": 18.55,
+   "a50": 17.19,
+   "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.96,
-   "r": 41.1
+   "a20": 16.94,
+   "r": 40.7
   },
   {
    "s": "BZ=F",
-   "p": 88.34,
-   "c": -0.64,
+   "p": 88.37,
+   "c": -0.61,
    "a50": 84.3,
    "a200": 81.53,
    "yh": 118.35,
@@ -300,13 +300,13 @@
   },
   {
    "s": "GC=F",
-   "p": 4467.5,
-   "c": 1.93,
-   "a50": 4162.82,
-   "a200": 4483.44,
+   "p": 4467.9,
+   "c": 1.94,
+   "a50": 4162.83,
+   "a200": 4483.45,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.27,
+   "a20": 4140.29,
    "r": 70.9
   },
   {
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03103662,
-   "c": 0.04,
+   "c": 0.03,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130003.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Bullish on Cigna Group Stock?",
+   "t": "Is Wall Street Bullish or Bearish on Datadog Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-cigna-121605571.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-datadog-122206564.html"
   },
   {
    "t": "通膨走緩　華爾街股巿早盤走升",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120351.aspx"
   },
   {
-   "t": "Optimum Communications (OPTU): Evaluating a Tender Offer Arbitrage",
+   "t": "Pfizer Inc. (PFE) vs. BioNTech SE (BNTX): Which Pharma Giant Is Better Positioned for the Post-COVID Era?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/optimum-communications-optu-evaluating-tender-120934380.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/pfizer-inc-pfe-vs-biontech-123110407.html"
   },
   {
    "t": "台積電等科技股助攻　挪威主權基金上半年投報創新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for Lennox Stock?",
+   "t": "Soybeans Slipping on Tuesday Morning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-121302165.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-slipping-tuesday-morning-121926285.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "Could Alkermes plc (ALKS) Stock Rebound After Investors Look Beyond Near-Term Profit Pressure?",
+   "t": "Yum! Brands Stock: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/could-alkermes-plc-alks-stock-122245907.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-stock-wall-street-122055597.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
