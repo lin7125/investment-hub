@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 03:43（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 03:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,31 +212,31 @@
   },
   {
    "s": "AAPL",
-   "p": 301.17,
-   "c": -1.23,
-   "a50": 309.45,
+   "p": 301.59,
+   "c": -1.09,
+   "a50": 309.46,
    "a200": 280.08,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 321.17,
-   "r": 39.6
+   "a20": 321.19,
+   "r": 39.8
   },
   {
    "s": "NVDA",
-   "p": 222.26,
-   "c": 2.19,
-   "a50": 206.23,
+   "p": 223.19,
+   "c": 2.62,
+   "a50": 206.24,
    "a200": 194.55,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 208.29,
-   "r": 61.3
+   "a20": 208.34,
+   "r": 61.9
   },
   {
    "s": "TSLA",
-   "p": 327.24,
-   "c": -1.67,
-   "a50": 374.38,
+   "p": 327.3,
+   "c": -1.66,
+   "a50": 374.39,
    "a200": 407.1,
    "yh": 489.88,
    "yl": 298.32,
@@ -245,85 +245,85 @@
   },
   {
    "s": "META",
-   "p": 581.43,
-   "c": -2.95,
-   "a50": 597.9,
-   "a200": 629.17,
+   "p": 580.52,
+   "c": -3.11,
+   "a50": 597.88,
+   "a200": 629.16,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 601.09,
-   "r": 44.6
+   "a20": 601.04,
+   "r": 44.3
   },
   {
    "s": "^TWII",
    "p": 45120.72,
    "c": 0.43,
-   "a50": 44795.57,
-   "a200": 35373.52,
+   "a50": 44786.61,
+   "a200": 35627.97,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43779.85,
-   "r": 54.8
+   "a20": 43615.12,
+   "r": 55.7
   },
   {
    "s": "^GSPC",
-   "p": 7748.21,
-   "c": 0.26,
-   "a50": 7508.87,
-   "a200": 7053.69,
+   "p": 7746.31,
+   "c": 0.23,
+   "a50": 7508.84,
+   "a200": 7053.68,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7561.99,
-   "r": 64.5
+   "a20": 7561.89,
+   "r": 64.4
   },
   {
    "s": "^VIX",
-   "p": 14.45,
-   "c": -5.43,
-   "a50": 17.18,
-   "a200": 18.56,
+   "p": 14.4,
+   "c": -5.76,
+   "a50": 17.24,
+   "a200": 18.55,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.94,
-   "r": 40.4
+   "a20": 16.95,
+   "r": 40.6
   },
   {
    "s": "BZ=F",
-   "p": 88.71,
-   "c": -0.22,
+   "p": 88.66,
+   "c": -0.28,
    "a50": 84.3,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.02,
-   "r": 53.9
+   "r": 53.8
   },
   {
    "s": "GC=F",
-   "p": 4474.1,
-   "c": 2.08,
-   "a50": 4162.95,
-   "a200": 4483.48,
+   "p": 4472.0,
+   "c": 2.03,
+   "a50": 4162.91,
+   "a200": 4483.47,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.6,
-   "r": 71.2
+   "a20": 4140.5,
+   "r": 71.1
   },
   {
    "s": "HG=F",
-   "p": 6.61,
-   "c": 0.01,
+   "p": 6.6,
+   "c": -0.11,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 60.5
+   "r": 60.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03102699,
-   "c": -0.01,
+   "c": 0.0,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130004.aspx"
   },
   {
-   "t": "Is Lam Research, KLA, or Applied Materials the Best Chip Equipment Buy? Jim Cramer Weighs In",
+   "t": "Bank of America sends blunt message to Nvidia stock investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lam-research-kla-applied-materials-104048217.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html"
   },
   {
    "t": "美夏季通膨放緩　油價與機票漲幅最高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130003.aspx"
   },
   {
-   "t": "Uniper Profits Surge as Germany Prepares to Sell Energy Giant",
+   "t": "Stock Index Futures Gain as Oil Retreats on U.S.-Iran Deal Hopes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/uniper-profits-surge-germany-prepares-103000190.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-gain-oil-103820793.html"
   },
   {
    "t": "通膨走緩　華爾街股巿早盤走升",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120351.aspx"
   },
   {
-   "t": "Stock Index Futures Gain as Oil Retreats on U.S.-Iran Deal Hopes",
+   "t": "Morning Bid: Long bond bother",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-gain-oil-103820793.html"
+   "u": "https://finance.yahoo.com/markets/articles/morning-bid-long-bond-bother-104255410.html"
   },
   {
    "t": "台積電等科技股助攻　挪威主權基金上半年投報創新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "Morning Bid: Long bond bother",
+   "t": "Is Lam Research, KLA, or Applied Materials the Best Chip Equipment Buy? Jim Cramer Weighs In",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/morning-bid-long-bond-bother-104255410.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lam-research-kla-applied-materials-104048217.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "Market Update: BTI, MCHP, APTV, TWLO, CAVA",
+   "t": "Top Iron Condor Setups for August 11th (Screener Results)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_47898_MarketUpdate_1786560461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/markets/options/articles/top-iron-condor-setups-august-110002674.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120345.aspx"
   },
   {
-   "t": "Top Iron Condor Setups for August 11th (Screener Results)",
+   "t": "Market Update: BTI, MCHP, APTV, TWLO, CAVA",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/top-iron-condor-setups-august-110002674.html"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_47898_MarketUpdate_1786560461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   }
  ],
  "inst": {
