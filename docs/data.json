@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 00:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 00:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 301.17,
-   "c": -1.23,
-   "a50": 309.45,
+   "p": 301.71,
+   "c": -1.05,
+   "a50": 309.47,
    "a200": 280.08,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 321.17,
-   "r": 39.6
+   "a20": 321.19,
+   "r": 39.9
   },
   {
    "s": "NVDA",
-   "p": 223.22,
-   "c": 2.63,
-   "a50": 206.24,
+   "p": 223.82,
+   "c": 2.91,
+   "a50": 206.26,
    "a200": 194.55,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 208.34,
-   "r": 61.9
+   "a20": 208.37,
+   "r": 62.3
   },
   {
    "s": "TSLA",
-   "p": 326.63,
-   "c": -1.86,
+   "p": 326.69,
+   "c": -1.84,
    "a50": 374.37,
    "a200": 407.09,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 581.46,
-   "c": -2.95,
-   "a50": 597.9,
+   "p": 580.96,
+   "c": -3.03,
+   "a50": 597.89,
    "a200": 629.17,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 601.09,
-   "r": 44.6
+   "a20": 601.06,
+   "r": 44.4
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7744.58,
-   "c": 0.21,
-   "a50": 7503.89,
-   "a200": 7065.29,
+   "p": 7746.45,
+   "c": 0.24,
+   "a50": 7503.92,
+   "a200": 7065.3,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7555.13,
-   "r": 64.4
+   "a20": 7555.23,
+   "r": 64.5
   },
   {
    "s": "^VIX",
-   "p": 14.79,
-   "c": -3.21,
+   "p": 14.8,
+   "c": -3.14,
    "a50": 17.24,
    "a200": 18.55,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.91,
-   "c": 0.0,
-   "a50": 84.31,
+   "p": 88.66,
+   "c": -0.28,
+   "a50": 84.3,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.03,
-   "r": 54.2
+   "a20": 88.02,
+   "r": 53.8
   },
   {
    "s": "GC=F",
-   "p": 4478.3,
-   "c": 2.17,
-   "a50": 4163.04,
-   "a200": 4483.5,
+   "p": 4483.2,
+   "c": 2.29,
+   "a50": 4163.13,
+   "a200": 4483.52,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.81,
-   "r": 71.3
+   "a20": 4141.06,
+   "r": 71.5
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": 0.14,
+   "p": 6.63,
+   "c": 0.28,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 60.9
+   "r": 61.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03102699,
-   "c": -0.02,
+   "p": 0.03101737,
+   "c": -0.03,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -332,16 +332,28 @@
  ],
  "news": [
   {
+   "t": "通膨走緩　華爾街股巿早盤走升",
+   "pub": "中央社財經",
+   "d": "2026-08-12",
+   "u": "https://www.cna.com.tw/news/afe/202608120351.aspx"
+  },
+  {
+   "t": "Best credit cards with no annual fee for August 2026",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html"
+  },
+  {
    "t": "台積電等科技股助攻　挪威主權基金上半年投報創新高",
    "pub": "中央社財經",
    "d": "2026-08-12",
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "What happens if you exceed your credit limit, and how to avoid doing so — even if you can pay it off",
+   "t": "In-Line Inflation Reading Buys the Fed More Time to Defend Its Forecast",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-happens-if-you-exceed-your-credit-limit-180743802.html"
+   "u": "https://www.wsj.com/economy/central-banking/inflation-federal-reserve-interest-rates-296d1430?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -350,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "Will the housing market crash in 2026? Here's what we know",
+   "t": "What happens if you exceed your credit limit, and how to avoid doing so — even if you can pay it off",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-in-2026-heres-what-we-know-170038540.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-happens-if-you-exceed-your-credit-limit-180743802.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
@@ -362,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120345.aspx"
   },
   {
-   "t": "How to request a lower credit card minimum payment",
+   "t": "Will the housing market crash in 2026? Here's what we know",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-lower-minimum-payment-on-credit-card-210604122.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-in-2026-heres-what-we-know-170038540.html"
   },
   {
    "t": "美利達上半年每股賺2.15元　高基期影響獲利年減2成",
@@ -374,28 +386,16 @@
    "u": "https://www.cna.com.tw/news/afe/202608120342.aspx"
   },
   {
-   "t": "The best credit cards for August: See our picks for the top cash-back, rewards, travel cards, and more",
+   "t": "How to request a lower credit card minimum payment",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-202825345.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-lower-minimum-payment-on-credit-card-210604122.html"
   },
   {
    "t": "8品牌召回逾8.7萬顆行動電源　經部籲民眾主動查詢",
    "pub": "中央社財經",
    "d": "2026-08-12",
    "u": "https://www.cna.com.tw/news/ahel/202608120341.aspx"
-  },
-  {
-   "t": "Seniors could see a bigger raise in 2027, according to new Social Security COLA estimate",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/economy/article/seniors-could-see-a-bigger-raise-in-2027-according-to-new-social-security-cola-estimate-142217210.html"
-  },
-  {
-   "t": "台泥整合土葡非建材事業　籌備海外上市",
-   "pub": "中央社財經",
-   "d": "2026-08-12",
-   "u": "https://www.cna.com.tw/news/afe/202608120339.aspx"
   },
   {
    "t": "Daily Spotlight: Profit Margins Widening",
