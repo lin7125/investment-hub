@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 04:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 04:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -269,56 +269,56 @@
    "s": "^GSPC",
    "p": 7748.5,
    "c": 0.26,
-   "a50": 7503.96,
-   "a200": 7065.31,
+   "a50": 7508.88,
+   "a200": 7053.69,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7555.33,
-   "r": 64.6
+   "a20": 7562.0,
+   "r": 64.5
   },
   {
    "s": "^VIX",
-   "p": 14.47,
-   "c": -5.3,
-   "a50": 17.24,
-   "a200": 18.55,
+   "p": 14.55,
+   "c": -4.78,
+   "a50": 17.19,
+   "a200": 18.56,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.96,
-   "r": 40.9
+   "a20": 16.94,
+   "r": 40.7
   },
   {
    "s": "BZ=F",
-   "p": 88.62,
-   "c": -0.33,
+   "p": 88.61,
+   "c": -0.34,
    "a50": 84.3,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.02,
-   "r": 53.8
+   "r": 53.7
   },
   {
    "s": "GC=F",
-   "p": 4469.4,
-   "c": 1.97,
-   "a50": 4162.86,
+   "p": 4468.0,
+   "c": 1.94,
+   "a50": 4162.83,
    "a200": 4483.45,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.37,
-   "r": 71.0
+   "a20": 4140.3,
+   "r": 70.9
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": -0.08,
+   "c": -0.1,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 60.1
+   "r": 60.0
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130003.aspx"
   },
   {
-   "t": "Ameren Stock: Analyst Estimates & Ratings",
+   "t": "Frontdoor’s (FTDR) Free Cash Flow Powers Upward Potential",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ameren-stock-analyst-estimates-ratings-115440252.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/frontdoor-ftdr-free-cash-flow-121324295.html"
   },
   {
    "t": "通膨走緩　華爾街股巿早盤走升",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120351.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Bullish on News Corporation Stock?",
+   "t": "What to Know as Sandisk Stock Scores a 'New' Buy Rating",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-news-114644603.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/know-sandisk-stock-scores-buy-120002498.html"
   },
   {
    "t": "台積電等科技股助攻　挪威主權基金上半年投報創新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "Linde Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Rebuilt Leadership Teams Make VF Corp (VFC) a Quality Turnaround Story",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/linde-stock-wall-street-bullish-115110960.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rebuilt-leadership-teams-vf-corp-121122258.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for McDonald's Stock?",
+   "t": "Optimum Communications (OPTU): Evaluating a Tender Offer Arbitrage",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-115932224.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/optimum-communications-optu-evaluating-tender-120934380.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
