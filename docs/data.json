@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 14:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 15:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.4,
-   "c": 0.4,
-   "a50": 62.34,
-   "a200": 41.12,
+   "p": 50.0,
+   "c": -0.4,
+   "a50": 62.33,
+   "a200": 41.11,
    "yh": 165.0,
    "yl": 5.68,
-   "a20": 47.72,
-   "r": 46.4
+   "a20": 47.7,
+   "r": 45.9
   },
   {
    "s": "6223.TWO",
@@ -280,49 +280,49 @@
    "s": "^VIX",
    "p": 15.28,
    "c": -1.16,
-   "a50": 17.27,
-   "a200": 18.56,
+   "a50": 17.22,
+   "a200": 18.58,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 17.02,
-   "r": 43.7
+   "a20": 16.97,
+   "r": 43.3
   },
   {
    "s": "BZ=F",
-   "p": 89.18,
-   "c": 0.3,
+   "p": 89.12,
+   "c": 0.24,
    "a50": 84.31,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.04,
-   "r": 54.5
+   "r": 54.4
   },
   {
    "s": "GC=F",
-   "p": 4456.2,
-   "c": 1.67,
-   "a50": 4162.59,
-   "a200": 4483.39,
+   "p": 4460.9,
+   "c": 1.78,
+   "a50": 4162.69,
+   "a200": 4483.41,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4139.71,
-   "r": 70.4
+   "a20": 4139.94,
+   "r": 70.6
   },
   {
    "s": "HG=F",
-   "p": 6.66,
-   "c": 0.65,
+   "p": 6.67,
+   "c": 0.82,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 62.4
+   "r": 62.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03104626,
+   "p": 0.0310559,
    "c": 0.07,
    "a50": 0.03125,
    "a200": 0.03162555,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120136.aspx"
   },
   {
-   "t": "DoorDash (DASH) Powers Through Growth With Costs Rising Too",
+   "t": "CELH Stock Alert: What to Know as Rockstar Energy Founder Takes Aim at Celsius",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/doordash-dash-powers-growth-costs-190643623.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/celh-stock-alert-know-rockstar-192835990.html"
   },
   {
    "t": "鴻騰搶攻光通訊互連　富智康拚機器人和低軌衛星應用",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120105.aspx"
   },
   {
-   "t": "Ahead of Rocket Lab Earnings, Here's What Barchart Data Says Comes Next for RKLB Stock",
+   "t": "Datadog (DDOG) Grows Fast, Then Gets Punished For Slowing Down",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-rocket-lab-earnings-heres-191335288.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/datadog-ddog-grows-fast-then-193404859.html"
   },
   {
    "t": "新台幣午盤升7.1分　暫收32.207元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120100.aspx"
   },
   {
-   "t": "DV Stock Alert: What to Know as Nielsen Buys DoubleVerify in $2.15 Billion Deal",
+   "t": "Ahead of Rocket Lab Earnings, Here's What Barchart Data Says Comes Next for RKLB Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dv-stock-alert-know-nielsen-191028322.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-rocket-lab-earnings-heres-191335288.html"
   },
   {
    "t": "美加新關稅啟動在即  談判若破局逾31萬人失業",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120096.aspx"
   },
   {
-   "t": "Nat-Gas Prices Surge on Hot US Weather Forecasts",
+   "t": "Crude Prices Soar as Strait of Hormuz Reopening in Doubt",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-surge-hot-191539730.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-prices-soar-strait-hormuz-191642970.html"
   },
   {
    "t": "創見參加自動化工業大展　聚焦AI視覺辨識應用",
