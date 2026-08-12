@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 00:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 01:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 302.13,
-   "c": -0.91,
-   "a50": 309.47,
+   "p": 302.34,
+   "c": -0.84,
+   "a50": 309.48,
    "a200": 280.09,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 321.21,
-   "r": 40.1
+   "a20": 321.22,
+   "r": 40.3
   },
   {
    "s": "NVDA",
-   "p": 223.92,
-   "c": 2.95,
+   "p": 224.08,
+   "c": 3.03,
    "a50": 206.26,
    "a200": 194.56,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 208.37,
-   "r": 62.3
+   "a20": 208.38,
+   "r": 62.4
   },
   {
    "s": "TSLA",
-   "p": 326.96,
-   "c": -1.76,
+   "p": 326.91,
+   "c": -1.77,
    "a50": 374.38,
    "a200": 407.1,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 333.6,
+   "a20": 333.59,
    "r": 41.2
   },
   {
    "s": "META",
-   "p": 582.3,
-   "c": -2.81,
+   "p": 582.15,
+   "c": -2.83,
    "a50": 597.92,
    "a200": 629.17,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 601.13,
+   "a20": 601.12,
    "r": 44.8
   },
   {
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7752.61,
-   "c": 0.32,
-   "a50": 7504.05,
-   "a200": 7065.33,
+   "p": 7755.57,
+   "c": 0.35,
+   "a50": 7504.1,
+   "a200": 7065.35,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7555.54,
-   "r": 64.8
+   "a20": 7555.68,
+   "r": 65.0
   },
   {
    "s": "^VIX",
-   "p": 14.68,
-   "c": -3.93,
+   "p": 14.67,
+   "c": -3.99,
    "a50": 17.24,
    "a200": 18.55,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.97,
-   "r": 41.6
+   "r": 41.5
   },
   {
    "s": "BZ=F",
-   "p": 88.69,
-   "c": -0.25,
+   "p": 88.58,
+   "c": -0.37,
    "a50": 84.3,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.02,
-   "r": 53.9
+   "a20": 88.01,
+   "r": 53.7
   },
   {
    "s": "GC=F",
-   "p": 4465.2,
-   "c": 1.88,
-   "a50": 4162.77,
-   "a200": 4483.43,
+   "p": 4460.4,
+   "c": 1.77,
+   "a50": 4162.68,
+   "a200": 4483.41,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.16,
-   "r": 70.8
+   "a20": 4139.92,
+   "r": 70.6
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": 0.05,
+   "p": 6.61,
+   "c": 0.03,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03103662,
-   "c": 0.01,
+   "c": 0.02,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120351.aspx"
   },
   {
-   "t": "Stocks inch up, oil dips as traders eye US-Iran talks",
+   "t": "She Sold the Family House at 63 and Banked the Gain. At 65, Medicare Priced Her Like a Millionaire.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/stocks-inch-oil-dips-traders-163401004.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/she-sold-family-house-63-164853504.html"
   },
   {
    "t": "台積電等科技股助攻　挪威主權基金上半年投報創新高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "Wendy's has a billionaire circling its ailing business",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after CPI data cools slightly",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/wendys-has-a-billionaire-circling-its-ailing-business-122815256.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "Consumer inflation eased to 3.4% in July, despite recent energy shocks",
+   "t": "MSGE Stock Breaks Out On Blowout Earnings, Spiking Concert Volumes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/consumer-inflation-eased-to-34-in-july-despite-recent-energy-shocks-182926153.html"
+   "u": "https://www.investors.com/news/msge-stock-breakout-blowout-earnings-explosive-concert-volumes-cash-flow/?src=A00220&yptr=yahoo"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120345.aspx"
   },
   {
-   "t": "9 options trading strategies for beginners, ranked by risk",
+   "t": "Stocks inch up, oil dips as traders eye US-Iran talks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/options-trading-strategies-163751717.html"
+   "u": "https://finance.yahoo.com/markets/articles/stocks-inch-oil-dips-traders-163401004.html"
   },
   {
    "t": "美利達上半年每股賺2.15元　高基期影響獲利年減2成",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120342.aspx"
   },
   {
-   "t": "Nvidia Is Up Just 20% This Year. Here Is What History Says Happens Next.",
+   "t": "Supermicro Soars On Report. Why Nvidia Is Also Rallying.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-20-history-says-164000295.html"
+   "u": "https://www.investors.com/news/technology/supermicro-stock-analysts-cautious-nvidia-positive-news/?src=A00220&yptr=yahoo"
   },
   {
    "t": "8品牌召回逾8.7萬顆行動電源　經部籲民眾主動查詢",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120341.aspx"
   },
   {
-   "t": "This Bullish Trade Cuts The Price Tag On Access To Highflying Cloudflare Stock",
+   "t": "Wendy's has a billionaire circling its ailing business",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/cloudflare-stock-net-tech-options-trade-strategy-markets-investing/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/article/wendys-has-a-billionaire-circling-its-ailing-business-122815256.html"
   }
  ],
  "inst": {
