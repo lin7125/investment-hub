@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 23:26（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 23:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 301.27,
-   "c": -1.2,
-   "a50": 309.46,
+   "p": 301.12,
+   "c": -1.24,
+   "a50": 309.45,
    "a200": 280.08,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 321.17,
-   "r": 39.6
+   "a20": 321.16,
+   "r": 39.5
   },
   {
    "s": "NVDA",
-   "p": 223.71,
-   "c": 2.86,
+   "p": 223.34,
+   "c": 2.69,
    "a50": 206.25,
    "a200": 194.55,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 208.36,
-   "r": 62.2
+   "a20": 208.34,
+   "r": 62.0
   },
   {
    "s": "TSLA",
-   "p": 324.2,
-   "c": -2.59,
+   "p": 323.83,
+   "c": -2.7,
    "a50": 374.32,
    "a200": 407.08,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 333.46,
-   "r": 40.2
+   "a20": 333.44,
+   "r": 40.1
   },
   {
    "s": "META",
-   "p": 584.2,
-   "c": -2.49,
-   "a50": 597.96,
-   "a200": 629.18,
+   "p": 582.45,
+   "c": -2.78,
+   "a50": 597.92,
+   "a200": 629.17,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 601.22,
-   "r": 45.3
+   "a20": 601.14,
+   "r": 44.8
   },
   {
    "s": "^TWII",
@@ -267,7 +267,7 @@
   },
   {
    "s": "^GSPC",
-   "p": 7741.24,
+   "p": 7741.38,
    "c": 0.17,
    "a50": 7503.82,
    "a200": 7065.28,
@@ -278,25 +278,25 @@
   },
   {
    "s": "^VIX",
-   "p": 14.84,
-   "c": -2.88,
+   "p": 14.8,
+   "c": -3.14,
    "a50": 17.24,
    "a200": 18.55,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.98,
-   "r": 42.1
+   "a20": 16.97,
+   "r": 42.0
   },
   {
    "s": "BZ=F",
-   "p": 89.08,
-   "c": 0.19,
+   "p": 88.87,
+   "c": -0.04,
    "a50": 84.31,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.04,
-   "r": 54.4
+   "a20": 88.03,
+   "r": 54.1
   },
   {
    "s": "GC=F",
@@ -311,19 +311,19 @@
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 0.51,
+   "p": 6.64,
+   "c": 0.47,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 62.0
+   "r": 61.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03102699,
-   "c": -0.01,
+   "c": -0.02,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "Nebius Jumps 20% Days After Michael Burry Said His AI Shorts Were Like ‘Shooting Fish in a Barrel’",
+   "t": "Adobe vs. AppLovin: Which Technology Stock Is a Better Buy in 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nebius-jumps-20-days-michael-151142746.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/adobe-vs-applovin-technology-stock-152024741.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "Cerebras Systems (CBRS) Is Uniquely Positioned to Own the Fast Inference Market",
+   "t": "What is inflation, and how does it affect you?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-cbrs-uniquely-positioned-150720824.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/inflation-definition-195527231.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120345.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after CPI data cools slightly",
+   "t": "Ray Dalio: The AI investment game is happening — here's how to play",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html"
+   "u": "https://finance.yahoo.com/markets/articles/ray-dalio-the-ai-investment-game-is-happening--heres-how-to-play-134808570.html"
   },
   {
    "t": "美利達上半年每股賺2.15元　高基期影響獲利年減2成",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120342.aspx"
   },
   {
-   "t": "Nvidia's $70 billion bet on OpenAI, Anthropic, and others could pay off big for shareholders",
+   "t": "Wintermute Plans $1B AI Infrastructure Push as It Diversifies Beyond Crypto",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/nvidias-70-billion-bet-on-openai-anthropic-and-others-could-pay-off-big-for-shareholders-150039868.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/wintermute-plans-1b-ai-infrastructure-151400003.html"
   },
   {
    "t": "8品牌召回逾8.7萬顆行動電源　經部籲民眾主動查詢",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120341.aspx"
   },
   {
-   "t": "Microsoft Corporation (MSFT) vs. Meta Platforms, Inc. (META): Two Different Bets Behind Big Tech’s $1 Trillion Lease Bill",
+   "t": "Cerebras Systems (CBRS) Is Uniquely Positioned to Own the Fast Inference Market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/microsoft-corporation-msft-vs-meta-150020825.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-cbrs-uniquely-positioned-150720824.html"
   },
   {
    "t": "台泥整合土葡非建材事業　籌備海外上市",
