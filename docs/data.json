@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 01:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 01:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,41 +212,41 @@
   },
   {
    "s": "AAPL",
-   "p": 302.23,
-   "c": -0.88,
+   "p": 302.35,
+   "c": -0.84,
    "a50": 309.48,
    "a200": 280.09,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 321.22,
-   "r": 40.2
+   "r": 40.3
   },
   {
    "s": "NVDA",
-   "p": 223.81,
-   "c": 2.9,
+   "p": 224.13,
+   "c": 3.05,
    "a50": 206.26,
-   "a200": 194.55,
+   "a200": 194.56,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 208.37,
-   "r": 62.3
+   "a20": 208.38,
+   "r": 62.5
   },
   {
    "s": "TSLA",
-   "p": 326.39,
-   "c": -1.93,
-   "a50": 374.37,
+   "p": 326.15,
+   "c": -2.0,
+   "a50": 374.36,
    "a200": 407.09,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 333.57,
-   "r": 41.0
+   "a20": 333.55,
+   "r": 40.9
   },
   {
    "s": "META",
-   "p": 581.53,
-   "c": -2.94,
+   "p": 581.55,
+   "c": -2.93,
    "a50": 597.9,
    "a200": 629.17,
    "yh": 790.0,
@@ -258,72 +258,72 @@
    "s": "^TWII",
    "p": 45120.72,
    "c": 0.43,
-   "a50": 44795.57,
-   "a200": 35373.52,
+   "a50": 44786.61,
+   "a200": 35627.97,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43779.85,
-   "r": 54.8
+   "a20": 43615.12,
+   "r": 55.7
   },
   {
    "s": "^GSPC",
-   "p": 7750.23,
-   "c": 0.29,
-   "a50": 7504.0,
-   "a200": 7065.32,
+   "p": 7751.66,
+   "c": 0.3,
+   "a50": 7504.03,
+   "a200": 7065.33,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7555.42,
-   "r": 64.7
+   "a20": 7555.49,
+   "r": 64.8
   },
   {
    "s": "^VIX",
-   "p": 14.68,
-   "c": -3.93,
-   "a50": 17.19,
-   "a200": 18.56,
+   "p": 14.67,
+   "c": -3.99,
+   "a50": 17.24,
+   "a200": 18.55,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.95,
-   "r": 41.2
+   "a20": 16.97,
+   "r": 41.5
   },
   {
    "s": "BZ=F",
-   "p": 88.54,
-   "c": -0.42,
-   "a50": 84.3,
+   "p": 88.79,
+   "c": -0.13,
+   "a50": 84.31,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.01,
-   "r": 53.6
+   "a20": 88.02,
+   "r": 54.0
   },
   {
    "s": "GC=F",
-   "p": 4466.4,
-   "c": 1.9,
-   "a50": 4162.8,
-   "a200": 4483.44,
+   "p": 4462.9,
+   "c": 1.82,
+   "a50": 4162.73,
+   "a200": 4483.42,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.22,
-   "r": 70.8
+   "a20": 4140.04,
+   "r": 70.7
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": -0.02,
+   "c": -0.04,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 60.4
+   "r": 60.3
   },
   {
    "s": "TWDUSD",
    "p": 0.03103662,
-   "c": 0.01,
+   "c": 0.02,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -332,34 +332,22 @@
  ],
  "news": [
   {
-   "t": "通膨走緩　華爾街股巿早盤走升",
+   "t": "能源股走弱拖累　歐股小幅收低",
    "pub": "中央社財經",
-   "d": "2026-08-12",
-   "u": "https://www.cna.com.tw/news/afe/202608120351.aspx"
+   "d": "2026-08-13",
+   "u": "https://www.cna.com.tw/news/afe/202608130004.aspx"
   },
   {
-   "t": "Azure, Foundries, and Accelerators: Grading the AI Buildout’s Big Three",
+   "t": "What is a credit card welcome offer?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/azure-foundries-accelerators-grading-ai-170031235.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-card-welcome-offer-181029348.html"
   },
   {
-   "t": "台積電等科技股助攻　挪威主權基金上半年投報創新高",
+   "t": "美夏季通膨放緩　油價與機票漲幅最高",
    "pub": "中央社財經",
-   "d": "2026-08-12",
-   "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
-  },
-  {
-   "t": "MSGE Stock Breaks Out On Blowout Earnings As Concert Volumes Double",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://www.investors.com/news/msge-stock-breakout-blowout-earnings-explosive-concert-volumes-cash-flow/?src=A00220&yptr=yahoo"
-  },
-  {
-   "t": "今彩539第115195期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-08-12",
-   "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
+   "d": "2026-08-13",
+   "u": "https://www.cna.com.tw/news/aopl/202608130003.aspx"
   },
   {
    "t": "Stock market today: Dow, S&P 500, Nasdaq rise after CPI data cools slightly",
@@ -368,40 +356,52 @@
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html"
   },
   {
+   "t": "通膨走緩　華爾街股巿早盤走升",
+   "pub": "中央社財經",
+   "d": "2026-08-12",
+   "u": "https://www.cna.com.tw/news/afe/202608120351.aspx"
+  },
+  {
+   "t": "Wall Street just borrowed $500 billion to build AI — here's what it could mean for your 401(k)",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/technology/ai/articles/wall-street-just-borrowed-500-171500367.html"
+  },
+  {
+   "t": "台積電等科技股助攻　挪威主權基金上半年投報創新高",
+   "pub": "中央社財經",
+   "d": "2026-08-12",
+   "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
+  },
+  {
+   "t": "5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/5-semiconductor-stocks-jim-cramer-171441263.html"
+  },
+  {
+   "t": "今彩539第115195期　頭獎槓龜",
+   "pub": "中央社財經",
+   "d": "2026-08-12",
+   "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
+  },
+  {
+   "t": "Stock Market Today: Nasdaq Charges Higher; SpaceX Pops On Musk Starlink Claim (Live Coverage)",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-cpi-inflation-nvidia-partner-coreweave/?src=A00220&yptr=yahoo"
+  },
+  {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
    "pub": "中央社財經",
    "d": "2026-08-12",
    "u": "https://www.cna.com.tw/news/aopl/202608120345.aspx"
   },
   {
-   "t": "Stocks inch up, oil dips as traders eye US-Iran talks",
+   "t": "SpaceX Supplier Tumbles After First Earnings Report Since IPO",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/stocks-inch-oil-dips-traders-163401004.html"
-  },
-  {
-   "t": "美利達上半年每股賺2.15元　高基期影響獲利年減2成",
-   "pub": "中央社財經",
-   "d": "2026-08-12",
-   "u": "https://www.cna.com.tw/news/afe/202608120342.aspx"
-  },
-  {
-   "t": "Supermicro Soars On Report. Why Nvidia Is Also Rallying.",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://www.investors.com/news/technology/supermicro-stock-analysts-cautious-nvidia-positive-news/?src=A00220&yptr=yahoo"
-  },
-  {
-   "t": "8品牌召回逾8.7萬顆行動電源　經部籲民眾主動查詢",
-   "pub": "中央社財經",
-   "d": "2026-08-12",
-   "u": "https://www.cna.com.tw/news/ahel/202608120341.aspx"
-  },
-  {
-   "t": "Rocket Lab Shares Surge: What's Driving the Rally",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-shares-surge-whats-165000439.html"
+   "u": "https://www.investors.com/news/spacex-applied-aerospace-defense-space-industry-earnings/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
