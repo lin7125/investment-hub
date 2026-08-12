@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 12:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 13:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,14 +14,14 @@
   },
   {
    "s": "2317.TW",
-   "p": 269.5,
-   "c": 2.47,
-   "a50": 254.39,
+   "p": 270.0,
+   "c": 2.66,
+   "a50": 254.4,
    "a200": 235.3,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 250.48,
-   "r": 62.0
+   "a20": 250.5,
+   "r": 62.2
   },
   {
    "s": "2308.TW",
@@ -69,47 +69,47 @@
   },
   {
    "s": "6862.TW",
-   "p": 148.5,
-   "c": 0.34,
-   "a50": 172.77,
+   "p": 147.5,
+   "c": -0.34,
+   "a50": 172.75,
    "a200": 177.7,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 142.25,
-   "r": 47.1
+   "a20": 142.2,
+   "r": 46.4
   },
   {
    "s": "3701.TW",
-   "p": 41.8,
-   "c": 1.46,
+   "p": 41.65,
+   "c": 1.09,
    "a50": 43.88,
    "a200": 48.82,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.44,
-   "r": 51.6
+   "r": 51.2
   },
   {
    "s": "4722.TW",
-   "p": 213.5,
-   "c": -0.7,
-   "a50": 241.85,
-   "a200": 199.21,
+   "p": 212.5,
+   "c": -1.16,
+   "a50": 241.83,
+   "a200": 199.2,
    "yh": 306.5,
    "yl": 83.6,
-   "a20": 207.85,
-   "r": 47.3
+   "a20": 207.8,
+   "r": 47.0
   },
   {
    "s": "6706.TW",
-   "p": 123.5,
-   "c": 5.56,
-   "a50": 137.94,
+   "p": 123.0,
+   "c": 5.13,
+   "a50": 137.93,
    "a200": 125.84,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 108.67,
-   "r": 53.4
+   "a20": 108.65,
+   "r": 53.1
   },
   {
    "s": "2305.TW",
@@ -135,14 +135,14 @@
   },
   {
    "s": "6515.TW",
-   "p": 7035.0,
-   "c": 1.66,
-   "a50": 7740.3,
-   "a200": 5948.65,
+   "p": 7030.0,
+   "c": 1.59,
+   "a50": 7740.2,
+   "a200": 5948.62,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6389.0,
-   "r": 51.6
+   "a20": 6388.75,
+   "r": 51.5
   },
   {
    "s": "6446.TW",
@@ -179,25 +179,25 @@
   },
   {
    "s": "3585.TWO",
-   "p": 51.1,
-   "c": 1.79,
-   "a50": 62.35,
-   "a200": 41.12,
+   "p": 49.9,
+   "c": -0.6,
+   "a50": 62.33,
+   "a200": 41.11,
    "yh": 165.0,
    "yl": 5.68,
-   "a20": 47.75,
-   "r": 47.3
+   "a20": 47.69,
+   "r": 45.8
   },
   {
    "s": "6223.TWO",
-   "p": 6520.0,
-   "c": 3.25,
-   "a50": 6194.5,
-   "a200": 3973.18,
+   "p": 6525.0,
+   "c": 3.33,
+   "a50": 6194.6,
+   "a200": 3973.2,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5813.5,
-   "r": 57.5
+   "a20": 5813.75,
+   "r": 57.6
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45473.06,
-   "c": 0.78,
-   "a50": 44819.89,
-   "a200": 35465.57,
+   "p": 45480.56,
+   "c": 0.8,
+   "a50": 44789.46,
+   "a200": 35721.4,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43785.78,
-   "r": 56.3
+   "a20": 43607.57,
+   "r": 57.3
   },
   {
    "s": "^GSPC",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 89.49,
-   "c": 0.65,
+   "p": 89.43,
+   "c": 0.58,
    "a50": 84.32,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.06,
-   "r": 54.9
+   "r": 54.8
   },
   {
    "s": "GC=F",
-   "p": 4461.2,
-   "c": 1.78,
-   "a50": 4162.69,
+   "p": 4460.5,
+   "c": 1.77,
+   "a50": 4162.68,
    "a200": 4483.41,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4139.96,
+   "a20": 4139.92,
    "r": 70.6
   },
   {
    "s": "HG=F",
    "p": 6.66,
-   "c": 0.73,
+   "c": 0.76,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03106555,
-   "c": 0.12,
+   "c": 0.11,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120058.aspx"
   },
   {
-   "t": "Jim Cramer Examines Akamai Technologies’ (AKAM) Cloud Pivot and Robotics Win",
+   "t": "Soybeans Holding onto Gains at Midday",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-examines-akamai-technologies-170741404.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-holding-onto-gains-midday-171747741.html"
   },
   {
    "t": "瑞恩航空導入Google雲端服務　瞄準年載客3億人次",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120042.aspx"
   },
   {
-   "t": "With a $40 Billion Backlog, Nebius Stock Appears Positioned for Sustained Growth",
+   "t": "Corn Ticking Back Lower at Monday’s Midday",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/40-billion-backlog-nebius-stock-170854684.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-ticking-back-lower-monday-171747316.html"
   },
   {
    "t": "台積電上漲10元　台股上揚逾300點突破45400點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120032.aspx"
   },
   {
-   "t": "AbbVie’s (ABBV) Botox Just Got A Step Closer To A Fifth Use",
+   "t": "Jim Cramer Dumps Honeywell Aerospace (HONA) After Shock Guidance Cut Triggers Sharp Selloff",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/abbvie-abbv-botox-just-got-165940206.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-dumps-honeywell-aerospace-171533014.html"
   },
   {
    "t": "新台幣開盤升2.8分　為32.25元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120028.aspx"
   },
   {
-   "t": "BNSF earnings rise on higher volume and revenue",
+   "t": "Hertz Stuns on Strong Q2 Earnings. What Comes Next for HTZ Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bnsf-earnings-rise-higher-volume-165849800.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hertz-stuns-strong-q2-earnings-171138980.html"
   },
   {
    "t": "台股開盤漲54.98點",
