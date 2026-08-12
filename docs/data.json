@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 03:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 03:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 301.48,
-   "c": -1.12,
+   "p": 301.28,
+   "c": -1.19,
    "a50": 309.46,
    "a200": 280.08,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 321.18,
-   "r": 39.8
+   "a20": 321.17,
+   "r": 39.6
   },
   {
    "s": "NVDA",
-   "p": 223.77,
-   "c": 2.88,
-   "a50": 206.26,
+   "p": 223.49,
+   "c": 2.75,
+   "a50": 206.25,
    "a200": 194.55,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 208.37,
-   "r": 62.2
+   "a20": 208.35,
+   "r": 62.1
   },
   {
    "s": "TSLA",
-   "p": 326.96,
-   "c": -1.76,
+   "p": 327.18,
+   "c": -1.69,
    "a50": 374.38,
    "a200": 407.1,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 333.6,
-   "r": 41.2
+   "a20": 333.61,
+   "r": 41.3
   },
   {
    "s": "META",
-   "p": 579.15,
-   "c": -3.33,
+   "p": 579.47,
+   "c": -3.28,
    "a50": 597.86,
    "a200": 629.16,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 600.97,
-   "r": 43.9
+   "a20": 600.99,
+   "r": 44.0
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7755.21,
-   "c": 0.35,
-   "a50": 7504.1,
-   "a200": 7065.35,
+   "p": 7753.53,
+   "c": 0.33,
+   "a50": 7508.98,
+   "a200": 7053.71,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7555.67,
-   "r": 65.0
+   "a20": 7562.25,
+   "r": 64.8
   },
   {
    "s": "^VIX",
-   "p": 14.51,
-   "c": -5.04,
+   "p": 14.52,
+   "c": -4.97,
    "a50": 17.24,
    "a200": 18.55,
    "yh": 31.05,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.85,
-   "c": -0.07,
+   "p": 88.84,
+   "c": -0.08,
    "a50": 84.31,
    "a200": 81.53,
    "yh": 118.35,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4475.6,
-   "c": 2.11,
-   "a50": 4162.98,
+   "p": 4475.9,
+   "c": 2.12,
+   "a50": 4162.99,
    "a200": 4483.49,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.68,
+   "a20": 4140.69,
    "r": 71.2
   },
   {
    "s": "HG=F",
    "p": 6.62,
-   "c": 0.08,
+   "c": 0.07,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130004.aspx"
   },
   {
-   "t": "AST SpaceMobile Stock Falls After Q2 Revenue Miss and Wider-Than-Expected Loss",
+   "t": "Nvidia Targets Over $500 Billion for AI Infrastructure Financing with Global Financial Giants",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-stock-falls-q2-101206328.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-targets-over-500-billion-100709208.html"
   },
   {
    "t": "美夏季通膨放緩　油價與機票漲幅最高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130003.aspx"
   },
   {
-   "t": "UnitedHealth Group Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "t": "Larry Fink says Americans’ retirement savings need to fund $10 trillion AI infrastructure demands. Protect your wealth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-stock-outlook-wall-095424590.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/larry-fink-says-americans-retirement-101500090.html"
   },
   {
    "t": "通膨走緩　華爾街股巿早盤走升",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120351.aspx"
   },
   {
-   "t": "TSMC, Sony to invest $4.7 billion in joint venture for image sensors",
+   "t": "UnitedHealth Group Stock Outlook: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/tsmc-invest-1-8-billion-094545499.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-stock-outlook-wall-095424590.html"
   },
   {
    "t": "台積電等科技股助攻　挪威主權基金上半年投報創新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "Larry Fink says Americans’ retirement savings need to fund $10 trillion AI infrastructure demands. Protect your wealth",
+   "t": "Do Wall Street Analysts Like Consolidated Edison Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/larry-fink-says-americans-retirement-101500090.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-consolidated-edison-102139930.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "China’s Teapot Refiners Poised to Ramp Up Iranian Oil Buying",
+   "t": "Uniper Profits Surge as Germany Prepares to Sell Energy Giant",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/china-teapot-refiners-poised-ramp-093000992.html"
+   "u": "https://finance.yahoo.com/energy/articles/uniper-profits-surge-germany-prepares-103000190.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120345.aspx"
   },
   {
-   "t": "How To Earn $500 A Month From Cisco Stock Ahead Of Q4 Earnings",
+   "t": "His $5,000 Employer Disability Check Reduced His Social Security. Six Months Later, It Stopped Counting.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/earn-500-month-cisco-stock-100109396.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/5-000-employer-disability-check-100250912.html"
   }
  ],
  "inst": {
