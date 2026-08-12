@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 00:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 00:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 301.61,
-   "c": -1.08,
+   "p": 301.37,
+   "c": -1.16,
    "a50": 309.46,
    "a200": 280.08,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 321.19,
-   "r": 39.8
+   "a20": 321.18,
+   "r": 39.7
   },
   {
    "s": "NVDA",
-   "p": 223.39,
-   "c": 2.71,
+   "p": 223.26,
+   "c": 2.65,
    "a50": 206.25,
    "a200": 194.55,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 208.35,
-   "r": 62.0
+   "a20": 208.34,
+   "r": 61.9
   },
   {
    "s": "TSLA",
-   "p": 326.37,
-   "c": -1.93,
-   "a50": 374.37,
-   "a200": 407.09,
+   "p": 326.89,
+   "c": -1.78,
+   "a50": 374.38,
+   "a200": 407.1,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 333.57,
-   "r": 41.0
+   "a20": 333.59,
+   "r": 41.2
   },
   {
    "s": "META",
-   "p": 581.63,
-   "c": -2.92,
+   "p": 581.79,
+   "c": -2.89,
    "a50": 597.91,
    "a200": 629.17,
    "yh": 790.0,
    "yl": 525.72,
    "a20": 601.1,
-   "r": 44.6
+   "r": 44.7
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7747.86,
-   "c": 0.25,
-   "a50": 7503.95,
-   "a200": 7065.31,
+   "p": 7746.93,
+   "c": 0.24,
+   "a50": 7503.93,
+   "a200": 7065.3,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7555.3,
+   "a20": 7555.25,
    "r": 64.5
   },
   {
    "s": "^VIX",
-   "p": 14.77,
-   "c": -3.34,
+   "p": 14.8,
+   "c": -3.14,
    "a50": 17.24,
    "a200": 18.55,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.97,
-   "r": 41.9
+   "r": 42.0
   },
   {
    "s": "BZ=F",
-   "p": 88.71,
-   "c": -0.22,
+   "p": 88.56,
+   "c": -0.39,
    "a50": 84.3,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.02,
-   "r": 53.9
+   "a20": 88.01,
+   "r": 53.7
   },
   {
    "s": "GC=F",
-   "p": 4480.0,
-   "c": 2.21,
-   "a50": 4163.07,
-   "a200": 4483.51,
+   "p": 4483.2,
+   "c": 2.29,
+   "a50": 4163.13,
+   "a200": 4483.52,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.9,
-   "r": 71.4
+   "a20": 4141.06,
+   "r": 71.5
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": 0.2,
+   "p": 6.63,
+   "c": 0.27,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 61.1
+   "r": 61.3
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120351.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after CPI data cools slightly",
+   "t": "Gas prices have never been this high in mid-August",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html"
+   "u": "https://finance.yahoo.com/markets/article/gas-prices-have-never-been-this-high-in-mid-august-161923583.html"
   },
   {
    "t": "台積電等科技股助攻　挪威主權基金上半年投報創新高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "Global Indemnity (GBLI) Q2 2026 Earnings Call Transcript",
+   "t": "Ecovyst (ECVT) Q2 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/global-indemnity-gbli-q2-2026-155913568.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ecovyst-ecvt-q2-2026-earnings-161452441.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "National Vision Raises Outlook as Higher-Value Customers Fuel Breakout Quarter",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after CPI data cools slightly",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/national-vision-raises-outlook-higher-155813048.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120345.aspx"
   },
   {
-   "t": "Best credit cards with no annual fee for August 2026",
+   "t": "Stock Of The Day: Boeing, Airbus Supplier Soars 15% On Earnings, Flashing Buy Signals",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/boeing-supplier-astronics-stock-earnings-buy-signals/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美利達上半年每股賺2.15元　高基期影響獲利年減2成",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120342.aspx"
   },
   {
-   "t": "What happens if you exceed your credit limit, and how to avoid doing so — even if you can pay it off",
+   "t": "National Vision Raises Outlook as Higher-Value Customers Fuel Breakout Quarter",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-happens-if-you-exceed-your-credit-limit-180743802.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/national-vision-raises-outlook-higher-155813048.html"
   },
   {
    "t": "8品牌召回逾8.7萬顆行動電源　經部籲民眾主動查詢",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120341.aspx"
   },
   {
-   "t": "Daily Spotlight: Profit Margins Widening",
+   "t": "Best credit cards with no annual fee for August 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_47893_MarketOutlook_1786535027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html"
   }
  ],
  "inst": {
