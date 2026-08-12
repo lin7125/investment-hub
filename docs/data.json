@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12 22:34（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-12 22:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 302.72,
-   "c": -0.72,
+   "p": 302.9,
+   "c": -0.66,
    "a50": 309.49,
    "a200": 280.09,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 321.24,
-   "r": 40.5
+   "a20": 321.25,
+   "r": 40.6
   },
   {
    "s": "NVDA",
-   "p": 224.01,
-   "c": 2.99,
-   "a50": 206.26,
+   "p": 224.77,
+   "c": 3.34,
+   "a50": 206.28,
    "a200": 194.56,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 208.38,
-   "r": 62.4
+   "a20": 208.42,
+   "r": 62.8
   },
   {
    "s": "TSLA",
-   "p": 324.84,
-   "c": -2.39,
+   "p": 325.04,
+   "c": -2.33,
    "a50": 374.34,
    "a200": 407.09,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 333.49,
+   "a20": 333.5,
    "r": 40.5
   },
   {
    "s": "META",
-   "p": 585.68,
-   "c": -2.24,
+   "p": 586.06,
+   "c": -2.18,
    "a50": 597.99,
    "a200": 629.19,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 601.3,
-   "r": 45.7
+   "a20": 601.32,
+   "r": 45.8
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7744.63,
-   "c": 0.21,
-   "a50": 7503.89,
-   "a200": 7065.29,
+   "p": 7752.37,
+   "c": 0.31,
+   "a50": 7504.04,
+   "a200": 7065.33,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7555.14,
-   "r": 64.4
+   "a20": 7555.52,
+   "r": 64.8
   },
   {
    "s": "^VIX",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.56,
-   "c": -0.39,
+   "p": 88.61,
+   "c": -0.34,
    "a50": 84.3,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.01,
+   "a20": 88.02,
    "r": 53.7
   },
   {
    "s": "GC=F",
-   "p": 4496.8,
-   "c": 2.6,
-   "a50": 4163.41,
-   "a200": 4483.59,
+   "p": 4481.0,
+   "c": 2.24,
+   "a50": 4163.09,
+   "a200": 4483.51,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4141.73,
-   "r": 72.0
+   "a20": 4140.95,
+   "r": 71.4
   },
   {
    "s": "HG=F",
-   "p": 6.66,
-   "c": 0.72,
+   "p": 6.65,
+   "c": 0.54,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 62.5
+   "r": 62.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03104626,
-   "c": 0.07,
+   "p": 0.03103662,
+   "c": 0.01,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "Coinbase, Polymarket, Kalshi Face NYC Prediction Market Investigation",
+   "t": "Paramount Skydance Corporation (PSKY) vs. Warner Bros. Discovery, Inc. (WBD): A Deal Stuck in Legal Limbo",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/coinbase-polymarket-kalshi-face-nyc-141747160.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/paramount-skydance-corporation-psky-vs-143126843.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "Tech stocks today: CoreWeave and Supermicro results win over investors",
+   "t": "Operational Traction Restores Investors’ Confidence in Cracker Barrel Old Country Store (CBRL)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-coreweave-and-supermicro-results-win-over-investors-135605566.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/operational-traction-restores-investors-confidence-142809528.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120345.aspx"
   },
   {
-   "t": "Oil prices dip as investors weigh lower demand forecasts against US-Iran talks deadlock",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after CPI data cools slightly",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/oil-rises-doubts-over-us-063114070.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html"
   },
   {
    "t": "美利達上半年每股賺2.15元　高基期影響獲利年減2成",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120342.aspx"
   },
   {
-   "t": "Liquidia, An IBD 50 Stock, Tops Sales Views Amid United Therapeutics Rivalry",
+   "t": "Ray Dalio: The AI investment game is happening — here's how to play",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/liquidia-stock-liquidia-earnings-q2-2026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/articles/ray-dalio-the-ai-investment-game-is-happening--heres-how-to-play-134808570.html"
   },
   {
    "t": "8品牌召回逾8.7萬顆行動電源　經部籲民眾主動查詢",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120341.aspx"
   },
   {
-   "t": "Why fast food chains like McDonald's and Starbucks are going all in on energy drinks",
+   "t": "Daily Spotlight: Profit Margins Widening",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/why-fast-food-chains-like-mcdonalds-and-starbucks-are-going-all-in-on-energy-drinks-140403330.html"
+   "u": "https://finance.yahoo.com/research/reports/ARGUS_47893_MarketOutlook_1786535027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
   },
   {
    "t": "台泥整合土葡非建材事業　籌備海外上市",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120339.aspx"
   },
   {
-   "t": "Daily Spotlight: Profit Margins Widening",
+   "t": "What Makes Itron (ITRI) a Strong Investment Bet?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/research/reports/ARGUS_47893_MarketOutlook_1786535027000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/makes-itron-itri-strong-investment-142417604.html"
   }
  ],
  "inst": {
