@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 02:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 02:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,9 +212,9 @@
   },
   {
    "s": "AAPL",
-   "p": 301.17,
-   "c": -1.23,
-   "a50": 309.45,
+   "p": 301.19,
+   "c": -1.22,
+   "a50": 309.46,
    "a200": 280.08,
    "yh": 340.08,
    "yl": 224.9,
@@ -223,8 +223,8 @@
   },
   {
    "s": "NVDA",
-   "p": 224.24,
-   "c": 3.1,
+   "p": 224.22,
+   "c": 3.09,
    "a50": 206.26,
    "a200": 194.56,
    "yh": 235.74,
@@ -234,10 +234,10 @@
   },
   {
    "s": "TSLA",
-   "p": 326.63,
-   "c": -1.86,
+   "p": 326.75,
+   "c": -1.82,
    "a50": 374.37,
-   "a200": 407.09,
+   "a200": 407.1,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 333.58,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 581.33,
-   "c": -2.97,
-   "a50": 597.9,
-   "a200": 629.17,
+   "p": 583.32,
+   "c": -2.64,
+   "a50": 597.94,
+   "a200": 629.18,
    "yh": 790.0,
    "yl": 525.72,
-   "a20": 601.08,
-   "r": 44.5
+   "a20": 601.18,
+   "r": 45.1
   },
   {
    "s": "^TWII",
@@ -267,62 +267,62 @@
   },
   {
    "s": "^GSPC",
-   "p": 7754.28,
-   "c": 0.34,
-   "a50": 7504.08,
-   "a200": 7065.34,
-   "yh": 7757.64,
+   "p": 7758.63,
+   "c": 0.39,
+   "a50": 7504.17,
+   "a200": 7065.36,
+   "yh": 7758.63,
    "yl": 6343.72,
-   "a20": 7555.62,
-   "r": 64.9
+   "a20": 7555.84,
+   "r": 65.1
   },
   {
    "s": "^VIX",
-   "p": 14.56,
-   "c": -4.71,
+   "p": 14.54,
+   "c": -4.84,
    "a50": 17.24,
    "a200": 18.55,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.96,
-   "r": 41.2
+   "r": 41.1
   },
   {
    "s": "BZ=F",
-   "p": 88.77,
-   "c": -0.16,
+   "p": 88.97,
+   "c": 0.07,
    "a50": 84.31,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.02,
-   "r": 54.0
+   "a20": 88.03,
+   "r": 54.2
   },
   {
    "s": "GC=F",
-   "p": 4467.8,
-   "c": 1.93,
-   "a50": 4162.83,
-   "a200": 4483.45,
+   "p": 4470.1,
+   "c": 1.99,
+   "a50": 4162.87,
+   "a200": 4483.46,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.28,
-   "r": 70.9
+   "a20": 4140.4,
+   "r": 71.0
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.0,
+   "c": 0.04,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 60.5
+   "r": 60.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03102699,
+   "p": 0.03101737,
    "c": -0.02,
    "a50": 0.03125,
    "a200": 0.03162555,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130004.aspx"
   },
   {
-   "t": "Tesla and SpaceX Committed $16.8 Billion to One Chip Plant. Tesla's Entire Annual Profit Is $3.8 Billion.",
+   "t": "\"SaaSpocalypse?\" Not for Atlassian Stock, Which Has Now Soared 166% From Its 52-Week Low.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/tesla-spacex-committed-16-8-093200683.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/saaspocalypse-not-atlassian-stock-now-093500204.html"
   },
   {
    "t": "美夏季通膨放緩　油價與機票漲幅最高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "How Much Should Retirees Keep in Stocks, Bonds and Cash?",
+   "t": "Trump Media's quarterly loss widens to $238 million from $20 million a year earlier",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/heres-much-keep-stocks-bonds-205122372.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/trump-medias-quarterly-loss-widens-085624345.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "Trump Media's quarterly loss widens to $238 million from $20 million a year earlier",
+   "t": "How Much Should Retirees Keep in Stocks, Bonds and Cash?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/trump-medias-quarterly-loss-widens-085624345.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/heres-much-keep-stocks-bonds-205122372.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120345.aspx"
   },
   {
-   "t": "CPP Investments to acquire stake in two Hilton hotels in Brazil",
+   "t": "A year in the life of HP: How the UK&I MD is balancing perfection and speed—and putting people first",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/cpp-investments-acquire-stake-two-092937208.html"
+   "u": "https://finance.yahoo.com/technology/articles/life-hp-uk-md-balancing-093018184.html"
   }
  ],
  "inst": {
