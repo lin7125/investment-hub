@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 01:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 02:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 301.58,
-   "c": -1.09,
+   "p": 301.61,
+   "c": -1.08,
    "a50": 309.46,
    "a200": 280.08,
    "yh": 340.08,
@@ -223,30 +223,30 @@
   },
   {
    "s": "NVDA",
-   "p": 223.74,
-   "c": 2.87,
+   "p": 223.66,
+   "c": 2.83,
    "a50": 206.25,
    "a200": 194.55,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 208.37,
+   "a20": 208.36,
    "r": 62.2
   },
   {
    "s": "TSLA",
-   "p": 325.83,
-   "c": -2.1,
-   "a50": 374.36,
+   "p": 326.3,
+   "c": -1.96,
+   "a50": 374.37,
    "a200": 407.09,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 333.54,
-   "r": 40.8
+   "a20": 333.56,
+   "r": 41.0
   },
   {
    "s": "META",
-   "p": 578.69,
-   "c": -3.41,
+   "p": 578.72,
+   "c": -3.4,
    "a50": 597.85,
    "a200": 629.16,
    "yh": 790.0,
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7750.61,
-   "c": 0.29,
-   "a50": 7504.01,
-   "a200": 7065.32,
+   "p": 7751.84,
+   "c": 0.31,
+   "a50": 7504.03,
+   "a200": 7065.33,
    "yh": 7757.64,
    "yl": 6343.72,
-   "a20": 7555.44,
-   "r": 64.7
+   "a20": 7555.5,
+   "r": 64.8
   },
   {
    "s": "^VIX",
-   "p": 14.64,
-   "c": -4.19,
+   "p": 14.6,
+   "c": -4.45,
    "a50": 17.24,
    "a200": 18.55,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.97,
-   "r": 41.4
+   "a20": 16.96,
+   "r": 41.3
   },
   {
    "s": "BZ=F",
-   "p": 88.82,
-   "c": -0.1,
-   "a50": 84.31,
+   "p": 88.66,
+   "c": -0.28,
+   "a50": 84.3,
    "a200": 81.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.03,
-   "r": 54.0
+   "a20": 88.02,
+   "r": 53.8
   },
   {
    "s": "GC=F",
-   "p": 4464.8,
-   "c": 1.87,
-   "a50": 4162.77,
+   "p": 4463.8,
+   "c": 1.84,
+   "a50": 4162.75,
    "a200": 4483.43,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.13,
-   "r": 70.8
+   "a20": 4140.08,
+   "r": 70.7
   },
   {
    "s": "HG=F",
-   "p": 6.62,
+   "p": 6.61,
    "c": 0.05,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.46,
-   "r": 60.7
+   "r": 60.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03102699,
-   "c": -0.01,
+   "p": 0.03103662,
+   "c": 0.01,
    "a50": 0.03125,
    "a200": 0.03162555,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130004.aspx"
   },
   {
-   "t": "Nelson Peltz's Trian preparing take-private bid for Wendy's",
+   "t": "CoreWeave and Nebius Group Deliver Earnings Shocker. Here's What It Signals About the Future of AI.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nelson-peltzs-trian-preparing-private-172437605.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-group-deliver-earnings-174505345.html"
   },
   {
    "t": "美夏季通膨放緩　油價與機票漲幅最高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130003.aspx"
   },
   {
-   "t": "What is a credit card welcome offer?",
+   "t": "Exclusive-Inside the Google executive moves that led to its big AI reshuffle",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-card-welcome-offer-181029348.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/exclusive-inside-google-executive-moves-173536292.html"
   },
   {
    "t": "通膨走緩　華爾街股巿早盤走升",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120351.aspx"
   },
   {
-   "t": "LiveOne, Inc. Q1 2027 Earnings Call Summary",
+   "t": "Social Security to see $2,400 ‘Bernie Bump’ under proposed plan: ‘It’s what the American people want.’ Do you qualify?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/liveone-inc-q1-2027-earnings-171537219.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/social-security-see-2-400-173144630.html"
   },
   {
    "t": "台積電等科技股助攻　挪威主權基金上半年投報創新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise after CPI data cools slightly",
+   "t": "Sound Point Meridian Capital Inc Q1 2027 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sound-point-meridian-capital-inc-172429082.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "Wall Street just borrowed $500 billion to build AI — here's what it could mean for your 401(k)",
+   "t": "Madison Square Garden Entertainment Corp. Q4 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/wall-street-just-borrowed-500-171500367.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/madison-square-garden-entertainment-corp-172110450.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120345.aspx"
   },
   {
-   "t": "Why Astronics Stock Popped Today",
+   "t": "Comex Gold Settles 0.59% Higher at $4408.90",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-astronics-stock-popped-today-172137893.html"
+   "u": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-ahead-of-u-s-inflation-data-11bb4f20?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
