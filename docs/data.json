@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 05:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 05:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -258,12 +258,12 @@
    "s": "^TWII",
    "p": 45120.72,
    "c": 0.43,
-   "a50": 44795.57,
-   "a200": 35373.52,
+   "a50": 44786.61,
+   "a200": 35627.97,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43779.85,
-   "r": 54.8
+   "a20": 43615.12,
+   "r": 55.7
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.37,
-   "c": -0.61,
+   "p": 88.39,
+   "c": -0.58,
    "a50": 84.3,
    "a200": 81.53,
    "yh": 118.35,
@@ -300,13 +300,13 @@
   },
   {
    "s": "GC=F",
-   "p": 4467.9,
+   "p": 4468.2,
    "c": 1.94,
    "a50": 4162.83,
    "a200": 4483.45,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4140.29,
+   "a20": 4140.31,
    "r": 70.9
   },
   {
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130003.aspx"
   },
   {
-   "t": "Is Wall Street Bullish or Bearish on Datadog Stock?",
+   "t": "Fura acquires Pacific Northwest freight broker",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-datadog-122206564.html"
+   "u": "https://finance.yahoo.com/technology/articles/fura-acquires-pacific-northwest-freight-123828287.html"
   },
   {
    "t": "通膨走緩　華爾街股巿早盤走升",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608120351.aspx"
   },
   {
-   "t": "Pfizer Inc. (PFE) vs. BioNTech SE (BNTX): Which Pharma Giant Is Better Positioned for the Post-COVID Era?",
+   "t": "Hims & Hers Health, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/pfizer-inc-pfe-vs-biontech-123110407.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/hims-hers-health-inc-q2-123000594.html"
   },
   {
    "t": "台積電等科技股助攻　挪威主權基金上半年投報創新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608120348.aspx"
   },
   {
-   "t": "Soybeans Slipping on Tuesday Morning",
+   "t": "AlTi Global, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-slipping-tuesday-morning-121926285.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/alti-global-inc-q2-2026-123000358.html"
   },
   {
    "t": "今彩539第115195期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608120347.aspx"
   },
   {
-   "t": "Yum! Brands Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Tactile Systems Technology, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-stock-wall-street-122055597.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/tactile-systems-technology-inc-q2-123000487.html"
   },
   {
    "t": "法國因暑熱提早採收葡萄　氣候暖化成北歐釀酒契機",
