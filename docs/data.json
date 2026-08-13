@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 04:29（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 04:39（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -258,12 +258,12 @@
    "s": "^TWII",
    "p": 45518.07,
    "c": 0.88,
-   "a50": 44820.79,
-   "a200": 35465.79,
+   "a50": 44790.21,
+   "a200": 35721.59,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43788.03,
-   "r": 56.4
+   "a20": 43609.44,
+   "r": 57.4
   },
   {
    "s": "^GSPC",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.62,
-   "c": 0.48,
+   "p": 14.63,
+   "c": 0.55,
    "a50": 17.16,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.82,
-   "r": 41.1
+   "r": 41.2
   },
   {
    "s": "BZ=F",
-   "p": 86.95,
-   "c": -2.28,
+   "p": 87.06,
+   "c": -2.16,
    "a50": 84.13,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.17,
-   "r": 51.3
+   "a20": 88.18,
+   "r": 51.5
   },
   {
    "s": "GC=F",
-   "p": 4406.4,
-   "c": -0.06,
-   "a50": 4159.99,
-   "a200": 4484.59,
+   "p": 4407.9,
+   "c": -0.02,
+   "a50": 4160.02,
+   "a200": 4484.6,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4158.38,
-   "r": 68.0
+   "a20": 4158.45,
+   "r": 68.2
   },
   {
    "s": "HG=F",
    "p": 6.58,
-   "c": -0.2,
+   "c": -0.19,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 58.5
+   "r": 58.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03114295,
-   "c": 0.3,
+   "p": 0.03113325,
+   "c": 0.29,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130353.aspx"
   },
   {
-   "t": "Silver prices today, Wednesday, August 12, 2026: Surpassing $66 as expectations for July inflation ease",
+   "t": "Goldman doubles down on active ETFs with $2.3 billion Neos deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-12-2026-surpassing-66-as-expectations-for-july-inflation-ease-115635475.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/goldman-sachs-buy-etf-provider-121032422.html"
   },
   {
    "t": "市場衡量油價走跌和美國PPI指數　美股開盤小漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "Do Wall Street Analysts Like Teradyne Stock?",
+   "t": "Do Wall Street Analysts Like Union Pacific Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-teradyne-stock-115011724.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-union-pacific-121153984.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "SpaceX (SPCX) and Northrop Grumman (NOC) Clear Golden Dome Test: Who Has More to Gain?",
+   "t": "What Are Wall Street Analysts' Target Price for Waste Management Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-northrop-grumman-noc-115136453.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-121901530.html"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Predicting the Bank of New York Mellon Stock Will Climb or Sink?",
+   "t": "Bitcoin and ethereum prices today, Wednesday, August 12, 2026:  Crypto prices rise with CPI report on deck",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-bank-115847601.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-12-2026-crypto-prices-rise-with-cpi-report-on-deck-121022039.html"
   },
   {
    "t": "威力彩第115065期　頭獎槓龜",
