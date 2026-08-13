@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 16:00（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 22:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,118 +212,118 @@
   },
   {
    "s": "AAPL",
-   "p": 302.25,
-   "c": -0.87,
-   "a50": 309.48,
-   "a200": 280.09,
+   "p": 305.1,
+   "c": 0.94,
+   "a50": 309.27,
+   "a200": 280.3,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 321.22,
-   "r": 40.2
+   "a20": 319.81,
+   "r": 42.9
   },
   {
    "s": "NVDA",
-   "p": 224.09,
-   "c": 3.03,
-   "a50": 206.26,
-   "a200": 194.56,
+   "p": 226.04,
+   "c": 0.87,
+   "a50": 206.33,
+   "a200": 194.76,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 208.38,
-   "r": 62.4
+   "a20": 209.31,
+   "r": 63.6
   },
   {
    "s": "TSLA",
-   "p": 327.51,
-   "c": -1.59,
-   "a50": 374.39,
-   "a200": 407.1,
+   "p": 333.06,
+   "c": 1.69,
+   "a50": 372.58,
+   "a200": 406.6,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 333.62,
-   "r": 41.4
+   "a20": 330.72,
+   "r": 44.4
   },
   {
    "s": "META",
-   "p": 578.85,
-   "c": -3.38,
-   "a50": 597.85,
-   "a200": 629.16,
+   "p": 590.23,
+   "c": 1.97,
+   "a50": 597.7,
+   "a200": 628.42,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 600.96,
-   "r": 43.9
+   "a20": 597.24,
+   "r": 47.7
   },
   {
    "s": "^TWII",
    "p": 46021.48,
    "c": 1.11,
-   "a50": 44799.5,
-   "a200": 35815.32,
+   "a50": 44868.49,
+   "a200": 35559.39,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43629.27,
-   "r": 59.6
+   "a20": 43820.07,
+   "r": 58.5
   },
   {
    "s": "^GSPC",
-   "p": 7748.5,
-   "c": 0.26,
-   "a50": 7503.96,
-   "a200": 7065.31,
-   "yh": 7757.64,
+   "p": 7814.07,
+   "c": 0.85,
+   "a50": 7513.89,
+   "a200": 7059.08,
+   "yh": 7814.07,
    "yl": 6343.72,
-   "a20": 7555.33,
-   "r": 64.6
+   "a20": 7576.94,
+   "r": 68.0
   },
   {
    "s": "^VIX",
-   "p": 14.66,
-   "c": 0.76,
-   "a50": 17.22,
+   "p": 14.73,
+   "c": 1.24,
+   "a50": 17.17,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.86,
+   "a20": 16.82,
    "r": 41.7
   },
   {
    "s": "BZ=F",
-   "p": 87.8,
-   "c": -1.33,
-   "a50": 84.15,
-   "a200": 81.64,
+   "p": 86.47,
+   "c": -2.82,
+   "a50": 84.12,
+   "a200": 81.63,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.21,
-   "r": 52.5
+   "a20": 88.15,
+   "r": 50.7
   },
   {
    "s": "GC=F",
-   "p": 4427.4,
-   "c": 0.42,
-   "a50": 4160.41,
+   "p": 4428.5,
+   "c": 0.44,
+   "a50": 4160.44,
    "a200": 4484.7,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4159.43,
-   "r": 69.2
+   "a20": 4159.48,
+   "r": 69.3
   },
   {
    "s": "HG=F",
-   "p": 6.51,
-   "c": -1.28,
-   "a50": 6.34,
+   "p": 6.61,
+   "c": 0.27,
+   "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 53.9
+   "r": 60.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.0311042,
-   "c": 0.18,
+   "p": 0.03118179,
+   "c": 0.43,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "8月台股期指漲489點",
+   "t": "長榮航上半年每股賺2.24元　客貨運需求暢旺",
    "pub": "中央社財經",
    "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/afe/202608130152.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608130335.aspx"
   },
   {
    "t": "Bank of America sends blunt message to Nvidia stock investors",
@@ -344,58 +344,58 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html"
   },
   {
-   "t": "8月電子期漲　金融期跌",
+   "t": "生技業籲擴大投資與市場　打造亞洲醫藥研發製造中心",
    "pub": "中央社財經",
    "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/afe/202608130150.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608130330.aspx"
   },
   {
-   "t": "Israeli Defense Contractor Beats Earnings Estimates; Stock Sinks Over Iran War Renewal",
+   "t": "Patriots and THAAD: Lockheed Martin Corporation (LMT) and Northrop Grumman Corporation (NOC) Bet Big on Missile Defense Surge",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/elbit-systems-iran-war-israel-defense-aerospace/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/patriots-thaad-lockheed-martin-corporation-140553456.html"
   },
   {
-   "t": "薪酬爭議延燒　國票證撤回副董事長續任案",
+   "t": "3大境外金融中心上半年賺18.5億美元　創5年新高",
    "pub": "中央社財經",
    "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/afe/202608130145.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608130328.aspx"
   },
   {
-   "t": "Is Hims The Next Big Name In Peptides? Shares Topple Despite Sales Beat.",
+   "t": "Molina Healthcare (MOH) Surged on Medicaid Clarity and Robust Results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/hims-stock-hims-hers-health-earnings-q2-2026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/molina-healthcare-moh-surged-medicaid-140522775.html"
   },
   {
-   "t": "台股漲503.41點站上46000點",
+   "t": "威力彩第115065期開獎",
    "pub": "中央社財經",
    "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/afe/202608130141.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608130327.aspx"
   },
   {
-   "t": "Financial Giants Jump Amid Nvidia AI Funding Deal; 1 Eyes Breakout",
+   "t": "Tech stocks today: Anthropic investors aiming for $2 trillion IPO",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/financial-stocks-jump-nvidia-ai-funding-deal/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-anthropic-investors-aiming-for-2-trillion-ipo-135605566.html"
   },
   {
-   "t": "台股漲503.41點",
+   "t": "今彩539第115196期開獎",
    "pub": "中央社財經",
    "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/afe/202608130140.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608130326.aspx"
   },
   {
-   "t": "SpaceX Stock Falls Back Below IPO Price, Snaps Three-Day Streak",
+   "t": "Stock Market Today: Dow Rises On Surprise Inflation Data; Cisco, AI Name Dive On Earnings (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/spacex-rocket-lab-elon-musk-rocket-lab-ast-spacemobile-space-industry/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-cisco-cerebras-earnings/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "房仲：房市冷颼颼  北市新推案以低總價吸引買氣",
+   "t": "群聯上半年每股純益187.43元　配息60元",
    "pub": "中央社財經",
    "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/afe/202608130130.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608130324.aspx"
   },
   {
    "t": "AARP issues urgent call on Medicare drug costs",
@@ -405,79 +405,79 @@
   }
  ],
  "inst": {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "byCode": {
-   "2317": {
-    "f": 29370,
-    "t": 255,
-    "all": 31084
+   "2327": {
+    "f": 4761,
+    "t": 1505,
+    "all": 5894
    },
    "2330": {
-    "f": 2626,
-    "t": 587,
-    "all": 2923
-   },
-   "1802": {
-    "f": 2156,
-    "t": 0,
-    "all": 2390
-   },
-   "6706": {
-    "f": 346,
-    "t": 0,
-    "all": 368
-   },
-   "2305": {
-    "f": 367,
-    "t": -9,
-    "all": 323
-   },
-   "3701": {
-    "f": 186,
-    "t": 0,
-    "all": 188
-   },
-   "6442": {
-    "f": 13,
-    "t": 145,
-    "all": 176
-   },
-   "6446": {
-    "f": -103,
-    "t": 234,
-    "all": 105
-   },
-   "6515": {
-    "f": 20,
-    "t": -1,
-    "all": 18
-   },
-   "6862": {
-    "f": 20,
-    "t": 0,
-    "all": 15
+    "f": 3972,
+    "t": 735,
+    "all": 4801
    },
    "2454": {
-    "f": 148,
-    "t": -123,
-    "all": 4
+    "f": 3760,
+    "t": -62,
+    "all": 3568
    },
-   "4722": {
-    "f": -107,
+   "2305": {
+    "f": 2120,
     "t": 0,
-    "all": -126
+    "all": 2126
    },
    "2308": {
-    "f": -1167,
-    "t": 170,
-    "all": -830
+    "f": 1400,
+    "t": 76,
+    "all": 1530
    },
-   "2327": {
-    "f": -10378,
-    "t": 229,
-    "all": -10294
+   "1802": {
+    "f": 524,
+    "t": 0,
+    "all": 495
+   },
+   "3701": {
+    "f": 109,
+    "t": 0,
+    "all": 111
+   },
+   "6706": {
+    "f": 106,
+    "t": 0,
+    "all": 65
+   },
+   "4722": {
+    "f": 43,
+    "t": 0,
+    "all": 29
+   },
+   "6862": {
+    "f": 4,
+    "t": 0,
+    "all": -1
+   },
+   "6515": {
+    "f": 76,
+    "t": -310,
+    "all": -227
+   },
+   "6446": {
+    "f": -263,
+    "t": 2,
+    "all": -244
+   },
+   "6442": {
+    "f": -585,
+    "t": 332,
+    "all": -253
+   },
+   "2317": {
+    "f": -33364,
+    "t": -81,
+    "all": -35569
    }
   },
-  "totalNetE": 220.0
+  "totalNetE": 892.5
  }
 }
