@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 02:56（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 03:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,7 +212,7 @@
   },
   {
    "s": "AAPL",
-   "p": 303.44,
+   "p": 303.43,
    "c": 0.39,
    "a50": 309.24,
    "a200": 280.29,
@@ -223,96 +223,96 @@
   },
   {
    "s": "NVDA",
-   "p": 225.7,
-   "c": 0.72,
-   "a50": 206.32,
-   "a200": 194.75,
+   "p": 226.07,
+   "c": 0.88,
+   "a50": 206.33,
+   "a200": 194.76,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 209.3,
-   "r": 63.4
+   "a20": 209.32,
+   "r": 63.7
   },
   {
    "s": "TSLA",
-   "p": 339.43,
-   "c": 3.64,
-   "a50": 372.7,
+   "p": 340.16,
+   "c": 3.86,
+   "a50": 372.72,
    "a200": 406.63,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 331.04,
-   "r": 47.5
+   "a20": 331.08,
+   "r": 47.8
   },
   {
    "s": "META",
-   "p": 592.82,
-   "c": 2.41,
-   "a50": 597.75,
+   "p": 594.05,
+   "c": 2.63,
+   "a50": 597.78,
    "a200": 628.43,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 597.37,
-   "r": 48.5
+   "a20": 597.43,
+   "r": 48.9
   },
   {
    "s": "^TWII",
    "p": 45518.07,
    "c": 0.88,
-   "a50": 44790.21,
-   "a200": 35721.59,
+   "a50": 44820.79,
+   "a200": 35465.79,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43609.44,
-   "r": 57.4
+   "a20": 43788.03,
+   "r": 56.4
   },
   {
    "s": "^GSPC",
-   "p": 7801.78,
-   "c": 0.69,
-   "a50": 7507.8,
-   "a200": 7070.36,
-   "yh": 7801.78,
+   "p": 7803.7,
+   "c": 0.71,
+   "a50": 7507.84,
+   "a200": 7070.37,
+   "yh": 7803.7,
    "yl": 6343.72,
-   "a20": 7568.73,
-   "r": 67.5
+   "a20": 7568.83,
+   "r": 67.6
   },
   {
    "s": "^VIX",
-   "p": 14.64,
-   "c": 0.62,
+   "p": 14.69,
+   "c": 0.96,
    "a50": 17.22,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.86,
-   "r": 41.6
+   "r": 41.8
   },
   {
    "s": "BZ=F",
-   "p": 86.85,
-   "c": -2.39,
+   "p": 86.98,
+   "c": -2.25,
    "a50": 84.13,
-   "a200": 81.63,
+   "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.16,
-   "r": 51.2
+   "a20": 88.17,
+   "r": 51.4
   },
   {
    "s": "GC=F",
-   "p": 4414.7,
-   "c": 0.13,
-   "a50": 4160.16,
+   "p": 4413.6,
+   "c": 0.11,
+   "a50": 4160.14,
    "a200": 4484.63,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4158.8,
+   "a20": 4158.74,
    "r": 68.6
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": -0.09,
+   "c": -0.1,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03115265,
-   "c": 0.34,
+   "p": 0.03114295,
+   "c": 0.31,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130353.aspx"
   },
   {
-   "t": "E.ON Reaffirms 2026 Outlook as First-Half Earnings Edge Higher",
+   "t": "I'm 64 With $650K in an IRA. Is Now the Right Time to Start Roth Conversions?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/e-reaffirms-2026-outlook-first-083541935.html"
+   "u": "https://finance.yahoo.com/news/im-64-650k-ira-start-150416857.html"
   },
   {
    "t": "市場衡量油價走跌和美國PPI指數　美股開盤小漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "I'm 64 With $650K in an IRA. Is Now the Right Time to Start Roth Conversions?",
+   "t": "Bank of America pledges $250 billion for US infrastructure financing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/im-64-650k-ira-start-150416857.html"
+   "u": "https://finance.yahoo.com/technology/articles/bank-america-launches-250-billion-090237128.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "Bank of America pledges $250 billion for US infrastructure financing",
+   "t": "E.ON Reaffirms 2026 Outlook as First-Half Earnings Edge Higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/bank-america-launches-250-billion-090237128.html"
+   "u": "https://finance.yahoo.com/energy/articles/e-reaffirms-2026-outlook-first-083541935.html"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
