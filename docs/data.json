@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 02:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 02:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 303.09,
-   "c": 0.28,
-   "a50": 309.23,
+   "p": 303.43,
+   "c": 0.39,
+   "a50": 309.24,
    "a200": 280.29,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 319.71,
-   "r": 41.0
+   "a20": 319.73,
+   "r": 41.4
   },
   {
    "s": "NVDA",
-   "p": 225.28,
-   "c": 0.53,
+   "p": 225.21,
+   "c": 0.5,
    "a50": 206.31,
    "a200": 194.75,
    "yh": 235.74,
@@ -234,75 +234,75 @@
   },
   {
    "s": "TSLA",
-   "p": 337.1,
-   "c": 2.93,
-   "a50": 372.66,
+   "p": 337.96,
+   "c": 3.19,
+   "a50": 372.67,
    "a200": 406.62,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.92,
-   "r": 46.4
+   "a20": 330.97,
+   "r": 46.8
   },
   {
    "s": "META",
-   "p": 589.48,
-   "c": 1.84,
-   "a50": 597.69,
+   "p": 589.97,
+   "c": 1.92,
+   "a50": 597.7,
    "a200": 628.41,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 597.2,
-   "r": 47.5
+   "a20": 597.23,
+   "r": 47.6
   },
   {
    "s": "^TWII",
    "p": 45518.07,
    "c": 0.88,
-   "a50": 44790.21,
-   "a200": 35721.59,
+   "a50": 44820.79,
+   "a200": 35465.79,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43609.44,
-   "r": 57.4
+   "a20": 43788.03,
+   "r": 56.4
   },
   {
    "s": "^GSPC",
-   "p": 7791.01,
-   "c": 0.55,
-   "a50": 7507.59,
-   "a200": 7070.31,
-   "yh": 7791.01,
+   "p": 7793.88,
+   "c": 0.59,
+   "a50": 7513.48,
+   "a200": 7058.98,
+   "yh": 7793.88,
    "yl": 6343.72,
-   "a20": 7568.19,
-   "r": 66.9
+   "a20": 7575.93,
+   "r": 67.0
   },
   {
    "s": "^VIX",
-   "p": 14.67,
-   "c": 0.82,
+   "p": 14.69,
+   "c": 0.96,
    "a50": 17.22,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.86,
-   "r": 41.7
+   "r": 41.8
   },
   {
    "s": "BZ=F",
-   "p": 87.36,
-   "c": -1.82,
-   "a50": 84.14,
+   "p": 87.14,
+   "c": -2.07,
+   "a50": 84.13,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.19,
-   "r": 51.9
+   "a20": 88.18,
+   "r": 51.6
   },
   {
    "s": "GC=F",
-   "p": 4413.6,
-   "c": 0.11,
-   "a50": 4160.14,
+   "p": 4414.9,
+   "c": 0.14,
+   "a50": 4160.16,
    "a200": 4484.63,
    "yh": 5318.4,
    "yl": 3313.4,
@@ -312,7 +312,7 @@
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.02,
+   "c": 0.01,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130353.aspx"
   },
   {
-   "t": "Stock market today: S&P 500 and Nasdaq gain on soft inflation data, Dow dips",
+   "t": "Hedge funds upped short AI bets in July, Hazeltree says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-and-nasdaq-gain-on-soft-inflation-data-dow-dips-100145282.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hedge-funds-upped-short-ai-080808612.html"
   },
   {
    "t": "市場衡量油價走跌和美國PPI指數　美股開盤小漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "Anthropic IPO Value Could Beat SpaceX's Record: Report",
+   "t": "US Dollar Price Forecast: CPI Test Looms as DXY, EUR/USD and GBP/USD Hold Key Levels",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/anthropic-ipo-valuation-timing-spacex/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-cpi-081412880.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "UWM lost $603 million on rate bets — now Oaktree is extracting 10% a year for a $2.05 billion lifeline",
+   "t": "E.ON Reaffirms 2026 Outlook as First-Half Earnings Edge Higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/uwm-lost-603-million-rate-173500155.html"
+   "u": "https://finance.yahoo.com/energy/articles/e-reaffirms-2026-outlook-first-083541935.html"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
   },
   {
-   "t": "Aveanna Healthcare Holdings Inc. Q2 2026 Earnings Call Summary",
+   "t": "I'm 62 With $890k in a 401(k), $115k in a Roth and Social Security Eligibility. What's a Realistic Retirement Budget?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/aveanna-healthcare-holdings-inc-q2-172036312.html"
+   "u": "https://finance.yahoo.com/news/whats-realistic-retirement-budget-im-145429897.html"
   },
   {
    "t": "威力彩第115065期　頭獎槓龜",
