@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 00:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 00:59（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 303.74,
-   "c": 0.49,
-   "a50": 309.25,
+   "p": 303.02,
+   "c": 0.25,
+   "a50": 309.23,
    "a200": 280.29,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 319.74,
-   "r": 41.6
+   "a20": 319.71,
+   "r": 41.0
   },
   {
    "s": "NVDA",
-   "p": 225.34,
-   "c": 0.56,
+   "p": 225.33,
+   "c": 0.55,
    "a50": 206.31,
    "a200": 194.75,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 335.9,
-   "c": 2.56,
-   "a50": 372.63,
+   "p": 336.46,
+   "c": 2.73,
+   "a50": 372.64,
    "a200": 406.61,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.86,
-   "r": 45.8
+   "a20": 330.89,
+   "r": 46.1
   },
   {
    "s": "META",
-   "p": 588.47,
-   "c": 1.66,
-   "a50": 597.67,
-   "a200": 628.41,
+   "p": 587.9,
+   "c": 1.56,
+   "a50": 597.65,
+   "a200": 628.4,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 597.15,
-   "r": 47.1
+   "a20": 597.12,
+   "r": 47.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7788.04,
-   "c": 0.51,
-   "a50": 7507.53,
-   "a200": 7070.29,
-   "yh": 7788.04,
+   "p": 7789.8,
+   "c": 0.53,
+   "a50": 7507.56,
+   "a200": 7070.3,
+   "yh": 7789.8,
    "yl": 6343.72,
-   "a20": 7568.04,
-   "r": 66.8
+   "a20": 7568.13,
+   "r": 66.9
   },
   {
    "s": "^VIX",
-   "p": 14.69,
-   "c": 0.96,
+   "p": 14.71,
+   "c": 1.1,
    "a50": 17.22,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.86,
-   "r": 41.8
+   "r": 41.9
   },
   {
    "s": "BZ=F",
-   "p": 87.74,
-   "c": -1.39,
+   "p": 87.65,
+   "c": -1.49,
    "a50": 84.14,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.21,
-   "r": 52.4
+   "a20": 88.2,
+   "r": 52.3
   },
   {
    "s": "GC=F",
-   "p": 4420.5,
-   "c": 0.26,
-   "a50": 4160.28,
-   "a200": 4484.66,
+   "p": 4422.8,
+   "c": 0.32,
+   "a50": 4160.32,
+   "a200": 4484.67,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4159.08,
-   "r": 68.9
+   "a20": 4159.2,
+   "r": 69.0
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.06,
+   "c": 0.11,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 59.6
+   "r": 59.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03114295,
-   "c": 0.31,
+   "p": 0.03115265,
+   "c": 0.33,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130353.aspx"
   },
   {
-   "t": "Mortgage rate predictions through 2030: Will the market crash?",
+   "t": "Forget Nvidia: Michael Burry and Bill Ackman Are Buying These Two Beaten Down Stocks — Should You?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-2030-will-the-market-crash-195826935.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/forget-nvidia-michael-burry-bill-164857627.html"
   },
   {
    "t": "市場衡量油價走跌和美國PPI指數　美股開盤小漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "WeRide (WRD) Wants The World, But Can It Turn A Profit?",
+   "t": "Oil pares losses after reports Houthis attacked Saudi Aramco refinery",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/weride-wrd-wants-world-turn-162940849.html"
+   "u": "https://finance.yahoo.com/news/oil-eases-weaker-demand-outlook-045929013.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "Retail Stock Almost Touches Buy Point As Analyst Upgrades, Citing Big Transformation",
+   "t": "Sandisk Stock Jumps On Bullish Outlook, Leads Memory Names Higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/five-below-upgrade-retail-stock/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/sandisk-stock-jumps-bullish-outlook-memory-names-follow/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
   },
   {
-   "t": "IREN’s $100 Bull Case Hinges on a 5-10x AI Cloud Advantage",
+   "t": "Trio of economic forces could boost electric vehicles, WoodMac says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/iren-100-bull-case-hinges-162631786.html"
+   "u": "https://finance.yahoo.com/energy/articles/trio-economic-forces-could-boost-164310823.html"
   },
   {
    "t": "威力彩第115065期　頭獎槓龜",
