@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 00:39（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 00:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,118 +212,118 @@
   },
   {
    "s": "AAPL",
-   "p": 303.29,
-   "c": 0.34,
-   "a50": 309.24,
+   "p": 303.74,
+   "c": 0.49,
+   "a50": 309.25,
    "a200": 280.29,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 319.72,
-   "r": 41.2
+   "a20": 319.74,
+   "r": 41.6
   },
   {
    "s": "NVDA",
-   "p": 225.24,
-   "c": 0.51,
+   "p": 225.34,
+   "c": 0.56,
    "a50": 206.31,
    "a200": 194.75,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 209.27,
+   "a20": 209.28,
    "r": 63.2
   },
   {
    "s": "TSLA",
-   "p": 334.9,
-   "c": 2.26,
-   "a50": 372.61,
-   "a200": 406.6,
+   "p": 335.9,
+   "c": 2.56,
+   "a50": 372.63,
+   "a200": 406.61,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.81,
-   "r": 45.3
+   "a20": 330.86,
+   "r": 45.8
   },
   {
    "s": "META",
-   "p": 587.05,
-   "c": 1.42,
-   "a50": 597.64,
-   "a200": 628.4,
+   "p": 588.47,
+   "c": 1.66,
+   "a50": 597.67,
+   "a200": 628.41,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 597.08,
-   "r": 46.7
+   "a20": 597.15,
+   "r": 47.1
   },
   {
    "s": "^TWII",
    "p": 45518.07,
    "c": 0.88,
-   "a50": 44790.21,
-   "a200": 35721.59,
+   "a50": 44820.79,
+   "a200": 35465.79,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43609.44,
-   "r": 57.4
+   "a20": 43788.03,
+   "r": 56.4
   },
   {
    "s": "^GSPC",
-   "p": 7788.07,
+   "p": 7788.04,
    "c": 0.51,
-   "a50": 7513.37,
-   "a200": 7058.95,
-   "yh": 7788.07,
+   "a50": 7507.53,
+   "a200": 7070.29,
+   "yh": 7788.04,
    "yl": 6343.72,
-   "a20": 7575.64,
-   "r": 66.7
+   "a20": 7568.04,
+   "r": 66.8
   },
   {
    "s": "^VIX",
-   "p": 14.71,
-   "c": 1.1,
+   "p": 14.69,
+   "c": 0.96,
    "a50": 17.22,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.86,
-   "r": 41.9
+   "r": 41.8
   },
   {
    "s": "BZ=F",
-   "p": 88.07,
-   "c": -1.02,
-   "a50": 84.15,
+   "p": 87.74,
+   "c": -1.39,
+   "a50": 84.14,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.23,
-   "r": 52.9
+   "a20": 88.21,
+   "r": 52.4
   },
   {
    "s": "GC=F",
-   "p": 4416.1,
-   "c": 0.16,
-   "a50": 4160.19,
-   "a200": 4484.64,
+   "p": 4420.5,
+   "c": 0.26,
+   "a50": 4160.28,
+   "a200": 4484.66,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4158.87,
-   "r": 68.7
+   "a20": 4159.08,
+   "r": 68.9
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.08,
+   "c": 0.06,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 59.7
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03113325,
-   "c": 0.28,
+   "p": 0.03114295,
+   "c": 0.31,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130353.aspx"
   },
   {
-   "t": "How To Give A Bull Wings While Trading This Hot Energy Stock",
+   "t": "Mortgage rate predictions through 2030: Will the market crash?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/valero-energy-vlo-stock-bullish-butterfly-spread-options/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-2030-will-the-market-crash-195826935.html"
   },
   {
    "t": "市場衡量油價走跌和美國PPI指數　美股開盤小漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "Tapestry Triggers Sell Signal Despite Strong Earnings. Here's Why.",
+   "t": "WeRide (WRD) Wants The World, But Can It Turn A Profit?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/tpr-stock-tapestry-sinks-sluggish-guidance-outweighs-strong-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/ai/articles/weride-wrd-wants-world-turn-162940849.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "Dave Ramsey calls out the 3 ‘Dumb! Really dumb!’ money mistakes his callers make. Avoid these financial pitfalls now",
+   "t": "Retail Stock Almost Touches Buy Point As Analyst Upgrades, Citing Big Transformation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/dave-ramsey-calls-3-dumb-161500078.html"
+   "u": "https://www.investors.com/news/five-below-upgrade-retail-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
   },
   {
-   "t": "Stock market today: S&P 500 and Nasdaq gain on soft inflation data, Dow dips",
+   "t": "IREN’s $100 Bull Case Hinges on a 5-10x AI Cloud Advantage",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-and-nasdaq-gain-on-soft-inflation-data-dow-dips-100145282.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/iren-100-bull-case-hinges-162631786.html"
   },
   {
    "t": "威力彩第115065期　頭獎槓龜",
