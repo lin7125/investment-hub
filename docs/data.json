@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 14:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 15:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.2,
-   "c": 0.4,
+   "p": 50.0,
+   "c": 0.0,
    "a50": 61.64,
    "a200": 41.29,
    "yh": 165.0,
    "yl": 6.99,
-   "a20": 47.37,
-   "r": 46.2
+   "a20": 47.36,
+   "r": 45.9
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.67,
-   "c": -0.35,
+   "p": 88.59,
+   "c": -0.44,
    "a50": 84.16,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.26,
-   "r": 53.8
+   "a20": 88.25,
+   "r": 53.7
   },
   {
    "s": "GC=F",
-   "p": 4430.7,
-   "c": 0.49,
-   "a50": 4160.48,
-   "a200": 4484.71,
+   "p": 4436.6,
+   "c": 0.63,
+   "a50": 4160.6,
+   "a200": 4484.74,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4159.6,
-   "r": 69.4
+   "a20": 4159.89,
+   "r": 69.7
   },
   {
    "s": "HG=F",
    "p": 6.55,
-   "c": -0.75,
+   "c": -0.68,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 56.1
+   "r": 56.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03108486,
-   "c": 0.14,
+   "p": 0.03109453,
+   "c": 0.15,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130150.aspx"
   },
   {
-   "t": "Limited-time offer: Earn a bigger cash bonus on everyday spending with these Capital One credit cards",
+   "t": "5 smart ways to use a high-yield savings account",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/limited-time-offer-earn-a-bigger-cash-bonus-on-everyday-spending-with-these-capital-one-credit-cards-182644810.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-to-use-a-high-yield-savings-account-183827481.html"
   },
   {
    "t": "薪酬爭議延燒　國票證撤回副董事長續任案",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130145.aspx"
   },
   {
-   "t": "Cathie Wood Is Dumping More Palantir Shares. But Revenue Growth and Swelling Cash Flows Bode Well for PLTR Stock.",
+   "t": "Are you saving enough for retirement? Here's how to tell.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumping-more-palantir-184403363.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/are-you-saving-enough-for-retirement-heres-how-to-tell-184639709.html"
   },
   {
    "t": "台股漲503.41點站上46000點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130141.aspx"
   },
   {
-   "t": "Crude Prices Settle Higher as Middle East Supplies Tighten",
+   "t": "Can Gold Make a New High in 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/crude-prices-settle-higher-middle-191539221.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-high-2026-190002769.html"
   },
   {
    "t": "台股漲503.41點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130140.aspx"
   },
   {
-   "t": "Nat-Gas Prices Slip on the Outlook for Robust US Storage",
+   "t": "The M7 By The Numbers 2026: MBA Hiring Rebounds, Pay Holds Strong",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-slip-outlook-191421446.html"
+   "u": "https://finance.yahoo.com/small-business/articles/m7-numbers-2026-mba-hiring-190754075.html"
   },
   {
    "t": "房仲：房市冷颼颼  北市新推案以低總價吸引買氣",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130130.aspx"
   },
   {
-   "t": "Peter Thiel-backed company faces Q2 reality check before earnings",
+   "t": "Edward Jones Posts Record $5B in Quarterly Revenue",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/peter-thiel-backed-company-faces-184033055.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/edward-jones-posts-record-5b-185756021.html"
   }
  ],
  "inst": {
