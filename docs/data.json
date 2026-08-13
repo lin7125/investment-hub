@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 23:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 23:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 304.46,
-   "c": 0.73,
-   "a50": 309.26,
+   "p": 304.11,
+   "c": 0.62,
+   "a50": 309.25,
    "a200": 280.29,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 319.78,
-   "r": 42.3
+   "a20": 319.76,
+   "r": 42.0
   },
   {
    "s": "NVDA",
-   "p": 224.58,
-   "c": 0.22,
+   "p": 224.95,
+   "c": 0.38,
    "a50": 206.3,
    "a200": 194.75,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 209.24,
-   "r": 62.7
+   "a20": 209.26,
+   "r": 63.0
   },
   {
    "s": "TSLA",
-   "p": 334.19,
-   "c": 2.04,
-   "a50": 372.6,
+   "p": 334.52,
+   "c": 2.14,
+   "a50": 372.61,
    "a200": 406.6,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.78,
-   "r": 45.0
+   "a20": 330.8,
+   "r": 45.1
   },
   {
    "s": "META",
-   "p": 589.09,
-   "c": 1.77,
-   "a50": 597.68,
+   "p": 588.72,
+   "c": 1.71,
+   "a50": 597.67,
    "a200": 628.41,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 597.18,
-   "r": 47.3
+   "a20": 597.17,
+   "r": 47.2
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7797.58,
-   "c": 0.63,
-   "a50": 7507.72,
-   "a200": 7070.34,
-   "yh": 7797.58,
+   "p": 7794.24,
+   "c": 0.59,
+   "a50": 7507.65,
+   "a200": 7070.33,
+   "yh": 7794.24,
    "yl": 6343.72,
-   "a20": 7568.52,
-   "r": 67.3
+   "a20": 7568.35,
+   "r": 67.1
   },
   {
    "s": "^VIX",
-   "p": 14.5,
-   "c": -0.34,
-   "a50": 17.16,
+   "p": 14.47,
+   "c": -0.55,
+   "a50": 17.21,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.81,
-   "r": 40.6
+   "a20": 16.85,
+   "r": 40.8
   },
   {
    "s": "BZ=F",
-   "p": 86.92,
-   "c": -2.32,
+   "p": 87.15,
+   "c": -2.06,
    "a50": 84.13,
-   "a200": 81.63,
+   "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.17,
-   "r": 51.3
+   "a20": 88.18,
+   "r": 51.6
   },
   {
    "s": "GC=F",
-   "p": 4442.0,
-   "c": 0.75,
-   "a50": 4160.71,
-   "a200": 4484.77,
+   "p": 4431.7,
+   "c": 0.52,
+   "a50": 4160.5,
+   "a200": 4484.72,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4160.16,
-   "r": 69.9
+   "a20": 4159.65,
+   "r": 69.4
   },
   {
    "s": "HG=F",
-   "p": 6.63,
-   "c": 0.45,
+   "p": 6.61,
+   "c": 0.23,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 60.9
+   "r": 60.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03118179,
-   "c": 0.42,
+   "p": 0.03116236,
+   "c": 0.37,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130353.aspx"
   },
   {
-   "t": "Ray Dalio: The AI investment game is happening — here's how to play",
+   "t": "Devon Energy Corp. (DVN) Slipped Post-Acquisition",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/ray-dalio-the-ai-investment-game-is-happening--heres-how-to-play-134808570.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-corp-dvn-slipped-145027877.html"
   },
   {
    "t": "市場衡量油價走跌和美國PPI指數　美股開盤小漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "This Biotech Stock Just Gapped Up To A Five-Year High; Here's Why",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq gain on soft inflation data, earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/omeros-stock-omeros-earnings-q2-2026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-gain-on-soft-inflation-data-earnings-100145282.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq gain on soft inflation data, earnings",
+   "t": "Soft Outlook Overshadows Trimble’s (TRMB) Strong Results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-gain-on-soft-inflation-data-earnings-100145282.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/soft-outlook-overshadows-trimble-trmb-144409470.html"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
   },
   {
-   "t": "Widening Spreads and Tariff Protection Drive Steel Dynamics’ (STLD) Rally",
+   "t": "Kalshi In Talks To Raise Money At $40 Billion Valuation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/widening-spreads-tariff-protection-drive-143001351.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kalshi-talks-raise-money-40-144000532.html"
   },
   {
    "t": "威力彩第115065期　頭獎槓龜",
