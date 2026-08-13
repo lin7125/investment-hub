@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 14:34（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 14:44（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.87,
-   "c": -0.12,
+   "p": 88.92,
+   "c": -0.07,
    "a50": 84.17,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.27,
-   "r": 54.1
+   "r": 54.2
   },
   {
    "s": "GC=F",
-   "p": 4432.1,
-   "c": 0.53,
-   "a50": 4160.51,
-   "a200": 4484.72,
+   "p": 4427.8,
+   "c": 0.43,
+   "a50": 4160.42,
+   "a200": 4484.7,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4159.67,
-   "r": 69.5
+   "a20": 4159.45,
+   "r": 69.3
   },
   {
    "s": "HG=F",
-   "p": 6.56,
-   "c": -0.63,
+   "p": 6.55,
+   "c": -0.75,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 56.6
+   "r": 56.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03106555,
-   "c": 0.06,
+   "p": 0.03109453,
+   "c": 0.14,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130094.aspx"
   },
   {
-   "t": "Warner Bros. Discovery (WBD): Will A Courtroom Decide This Stock’s Next Move?",
+   "t": "Limited-time offer: Earn a bigger cash bonus on everyday spending with these Capital One credit cards",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fourwarner-bros-discovery-wbd-courtroom-182227632.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/limited-time-offer-earn-a-bigger-cash-bonus-on-everyday-spending-with-these-capital-one-credit-cards-182644810.html"
   },
   {
    "t": "新台幣午盤升7.9分　暫收32.167元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130082.aspx"
   },
   {
-   "t": "AI Spending Remains a Concern for Other Chip Stocks, But Taiwan Semiconductor Has No Worries",
+   "t": "Cathie Wood Is Dumping More Palantir Shares. But Revenue Growth and Swelling Cash Flows Bode Well for PLTR Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-spending-remains-concern-other-182449944.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumping-more-palantir-184403363.html"
   },
   {
    "t": "AI交易回溫韓股領漲科技股　KOSPI大漲近4%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130075.aspx"
   },
   {
-   "t": "Trucking M&A: 3 Reasons Private Equity Struggles With Assets",
+   "t": "Crude Prices Settle Higher as Middle East Supplies Tighten",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/trucking-m-3-reasons-private-182941953.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-prices-settle-higher-middle-191539221.html"
   },
   {
    "t": "裕隆擴大太陽能發電　拓展儲能和能源市場",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130073.aspx"
   },
   {
-   "t": "Can Gold Make a New High in 2026?",
+   "t": "Nat-Gas Prices Slip on the Outlook for Robust US Storage",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-high-2026-190002769.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-slip-outlook-191421446.html"
   },
   {
    "t": "台股走高登46000點　科技股強勢",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202608130064.aspx"
   },
   {
-   "t": "Berkshire Hathaway's CEO Greg Abel Sold $8.1 Billion in Stocks in Q1 ... a Sign He Sees Few Bargains. Did That Change in Q2?",
+   "t": "Peter Thiel-backed company faces Q2 reality check before earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-ceo-greg-abel-182200257.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/peter-thiel-backed-company-faces-184033055.html"
   }
  ],
  "inst": {
-  "date": "2026-08-10",
+  "date": "2026-08-12",
   "byCode": {
    "2317": {
-    "f": 7881,
-    "t": 136,
-    "all": 8396
-   },
-   "2327": {
-    "f": 3620,
-    "t": 957,
-    "all": 5246
-   },
-   "2308": {
-    "f": 1370,
-    "t": 604,
-    "all": 2378
-   },
-   "2454": {
-    "f": 1390,
-    "t": -63,
-    "all": 1420
-   },
-   "1802": {
-    "f": 776,
-    "t": 0,
-    "all": 893
-   },
-   "6446": {
-    "f": 864,
-    "t": 68,
-    "all": 882
+    "f": 29370,
+    "t": 255,
+    "all": 31084
    },
    "2330": {
-    "f": 119,
-    "t": 152,
-    "all": 719
+    "f": 2626,
+    "t": 587,
+    "all": 2923
    },
-   "2305": {
-    "f": 674,
+   "1802": {
+    "f": 2156,
     "t": 0,
-    "all": 656
-   },
-   "6442": {
-    "f": 329,
-    "t": 165,
-    "all": 475
+    "all": 2390
    },
    "6706": {
-    "f": 35,
+    "f": 346,
     "t": 0,
-    "all": 102
+    "all": 368
    },
-   "6862": {
-    "f": -5,
-    "t": 0,
-    "all": -5
-   },
-   "6515": {
-    "f": -33,
-    "t": 12,
-    "all": -24
+   "2305": {
+    "f": 367,
+    "t": -9,
+    "all": 323
    },
    "3701": {
-    "f": -207,
+    "f": 186,
     "t": 0,
-    "all": -208
+    "all": 188
+   },
+   "6442": {
+    "f": 13,
+    "t": 145,
+    "all": 176
+   },
+   "6446": {
+    "f": -103,
+    "t": 234,
+    "all": 105
+   },
+   "6515": {
+    "f": 20,
+    "t": -1,
+    "all": 18
+   },
+   "6862": {
+    "f": 20,
+    "t": 0,
+    "all": 15
+   },
+   "2454": {
+    "f": 148,
+    "t": -123,
+    "all": 4
    },
    "4722": {
-    "f": -294,
+    "f": -107,
     "t": 0,
-    "all": -317
+    "all": -126
+   },
+   "2308": {
+    "f": -1167,
+    "t": 170,
+    "all": -830
+   },
+   "2327": {
+    "f": -10378,
+    "t": 229,
+    "all": -10294
    }
   },
-  "totalNetE": 736.1
+  "totalNetE": 220.0
  }
 }
