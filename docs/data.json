@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 03:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 03:28（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 304.43,
-   "c": 0.72,
+   "p": 304.35,
+   "c": 0.69,
    "a50": 309.26,
    "a200": 280.29,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 319.78,
-   "r": 42.3
+   "a20": 319.77,
+   "r": 42.2
   },
   {
    "s": "NVDA",
-   "p": 225.73,
-   "c": 0.73,
+   "p": 225.92,
+   "c": 0.82,
    "a50": 206.32,
    "a200": 194.75,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 209.3,
-   "r": 63.5
+   "a20": 209.31,
+   "r": 63.6
   },
   {
    "s": "TSLA",
-   "p": 338.66,
-   "c": 3.4,
+   "p": 338.85,
+   "c": 3.46,
    "a50": 372.69,
    "a200": 406.62,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 331.0,
-   "r": 47.1
+   "a20": 331.01,
+   "r": 47.2
   },
   {
    "s": "META",
-   "p": 595.22,
-   "c": 2.83,
+   "p": 595.35,
+   "c": 2.85,
    "a50": 597.8,
    "a200": 628.44,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 597.49,
-   "r": 49.2
+   "a20": 597.5,
+   "r": 49.3
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7802.93,
-   "c": 0.7,
-   "a50": 7513.66,
-   "a200": 7059.03,
-   "yh": 7802.93,
+   "p": 7804.23,
+   "c": 0.72,
+   "a50": 7507.85,
+   "a200": 7070.38,
+   "yh": 7804.23,
    "yl": 6343.72,
-   "a20": 7576.38,
-   "r": 67.5
+   "a20": 7568.85,
+   "r": 67.6
   },
   {
    "s": "^VIX",
-   "p": 14.76,
-   "c": 1.44,
-   "a50": 17.17,
+   "p": 14.77,
+   "c": 1.51,
+   "a50": 17.22,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.82,
-   "r": 41.8
+   "a20": 16.86,
+   "r": 42.2
   },
   {
    "s": "BZ=F",
-   "p": 87.06,
-   "c": -2.16,
+   "p": 87.1,
+   "c": -2.11,
    "a50": 84.13,
    "a200": 81.64,
    "yh": 118.35,
@@ -300,14 +300,14 @@
   },
   {
    "s": "GC=F",
-   "p": 4404.9,
-   "c": -0.09,
-   "a50": 4159.96,
+   "p": 4403.4,
+   "c": -0.12,
+   "a50": 4159.93,
    "a200": 4484.58,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4158.3,
-   "r": 67.9
+   "a20": 4158.23,
+   "r": 67.7
   },
   {
    "s": "HG=F",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130353.aspx"
   },
   {
-   "t": "S&P 500 dividend yield hits record low near 1% and it has some retirees rethinking their strategies",
+   "t": "Experts say putting every dollar toward $35,000 in credit card debt could backfire — here's another approach",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-dividend-yield-hits-103000153.html"
+   "u": "https://finance.yahoo.com/markets/articles/experts-putting-every-dollar-toward-103500069.html"
   },
   {
    "t": "市場衡量油價走跌和美國PPI指數　美股開盤小漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "Nasdaq Futures Climb as CoreWeave and Super Micro Provide a Boost, U.S. Inflation Data in Focus",
+   "t": "Morning Bid: Inflation obscures all",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-coreweave-super-103334426.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/morning-bid-inflation-obscures-104502792.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "Experts say putting every dollar toward $35,000 in credit card debt could backfire — here's another approach",
+   "t": "Nasdaq Futures Climb as CoreWeave and Super Micro Provide a Boost, U.S. Inflation Data in Focus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/experts-putting-every-dollar-toward-103500069.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-coreweave-super-103334426.html"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
