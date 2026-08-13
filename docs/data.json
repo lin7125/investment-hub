@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 04:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 05:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -258,12 +258,12 @@
    "s": "^TWII",
    "p": 45518.07,
    "c": 0.88,
-   "a50": 44820.79,
-   "a200": 35465.79,
+   "a50": 44790.21,
+   "a200": 35721.59,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43788.03,
-   "r": 56.4
+   "a20": 43609.44,
+   "r": 57.4
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 86.89,
-   "c": -2.35,
+   "p": 87.0,
+   "c": -2.23,
    "a50": 84.13,
-   "a200": 81.63,
+   "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.17,
-   "r": 51.2
+   "r": 51.4
   },
   {
    "s": "GC=F",
-   "p": 4405.6,
-   "c": -0.07,
-   "a50": 4159.98,
+   "p": 4406.2,
+   "c": -0.06,
+   "a50": 4159.99,
    "a200": 4484.59,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4158.34,
-   "r": 67.9
+   "a20": 4158.37,
+   "r": 68.0
   },
   {
    "s": "HG=F",
-   "p": 6.59,
-   "c": -0.16,
+   "p": 6.58,
+   "c": -0.21,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 58.7
+   "r": 58.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03113325,
-   "c": 0.28,
+   "c": 0.26,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "元太上半年淨利創高　記憶體漲價效應下修年營收增幅",
+   "t": "需求展望疲弱、美原油庫存大增　國際油價重挫",
    "pub": "中央社財經",
-   "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/afe/202608130354.aspx"
+   "d": "2026-08-14",
+   "u": "https://www.cna.com.tw/news/afe/202608140009.aspx"
   },
   {
    "t": "Bank of America sends blunt message to Nvidia stock investors",
@@ -344,58 +344,58 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html"
   },
   {
+   "t": "長榮航空12月直飛德里　成台灣與印度交流重要橋梁",
+   "pub": "中央社財經",
+   "d": "2026-08-14",
+   "u": "https://www.cna.com.tw/news/afe/202608140006.aspx"
+  },
+  {
+   "t": "Corn Popping Higher on Wednesday with Spillover from Wheat",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-popping-higher-wednesday-spillover-123458332.html"
+  },
+  {
+   "t": "歐股收黑　投資人等候歐元區通膨數據出爐",
+   "pub": "中央社財經",
+   "d": "2026-08-14",
+   "u": "https://www.cna.com.tw/news/afe/202608140002.aspx"
+  },
+  {
+   "t": "Wheat Rallying on Black Sea Strikes",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/wheat-rallying-black-sea-strikes-123458998.html"
+  },
+  {
+   "t": "元太上半年淨利創高　記憶體漲價效應下修年營收增幅",
+   "pub": "中央社財經",
+   "d": "2026-08-13",
+   "u": "https://www.cna.com.tw/news/afe/202608130354.aspx"
+  },
+  {
+   "t": "Soybeans Bouncing Ahead of USDA Data",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-bouncing-ahead-usda-data-123458008.html"
+  },
+  {
    "t": "綠電業上半年財報泓德、雲豹虧損　麗升轉虧為盈",
    "pub": "中央社財經",
    "d": "2026-08-13",
    "u": "https://www.cna.com.tw/news/afe/202608130353.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for Waste Management Stock?",
+   "t": "NIO Stock Falls as Blackrock Slashes Stake in EV Maker",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-121901530.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nio-stock-falls-blackrock-slashes-123002313.html"
   },
   {
    "t": "市場衡量油價走跌和美國PPI指數　美股開盤小漲",
    "pub": "中央社財經",
    "d": "2026-08-13",
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
-  },
-  {
-   "t": "Here's the biggest risk to America's data center building boom",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/economy/article/heres-the-biggest-risk-to-americas-data-center-building-boom-121942236.html"
-  },
-  {
-   "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
-   "pub": "中央社財經",
-   "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
-  },
-  {
-   "t": "Accel deepens Europe presence with $800M allocation",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/accel-deepens-europe-presence-800m-121854601.html"
-  },
-  {
-   "t": "今彩539第115196期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
-  },
-  {
-   "t": "Do Wall Street Analysts Like Union Pacific Stock?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-union-pacific-121153984.html"
-  },
-  {
-   "t": "威力彩第115065期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/ahel/202608130348.aspx"
   },
   {
    "t": "AARP issues urgent call on Medicare drug costs",
