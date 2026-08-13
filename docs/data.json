@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 04:39（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 04:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -258,12 +258,12 @@
    "s": "^TWII",
    "p": 45518.07,
    "c": 0.88,
-   "a50": 44790.21,
-   "a200": 35721.59,
+   "a50": 44820.79,
+   "a200": 35465.79,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43609.44,
-   "r": 57.4
+   "a20": 43788.03,
+   "r": 56.4
   },
   {
    "s": "^GSPC",
@@ -280,50 +280,50 @@
    "s": "^VIX",
    "p": 14.63,
    "c": 0.55,
-   "a50": 17.16,
+   "a50": 17.22,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.82,
-   "r": 41.2
+   "a20": 16.86,
+   "r": 41.5
   },
   {
    "s": "BZ=F",
-   "p": 87.06,
-   "c": -2.16,
+   "p": 86.89,
+   "c": -2.35,
    "a50": 84.13,
-   "a200": 81.64,
+   "a200": 81.63,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.18,
-   "r": 51.5
+   "a20": 88.17,
+   "r": 51.2
   },
   {
    "s": "GC=F",
-   "p": 4407.9,
-   "c": -0.02,
-   "a50": 4160.02,
-   "a200": 4484.6,
+   "p": 4405.6,
+   "c": -0.07,
+   "a50": 4159.98,
+   "a200": 4484.59,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4158.45,
-   "r": 68.2
+   "a20": 4158.34,
+   "r": 67.9
   },
   {
    "s": "HG=F",
-   "p": 6.58,
-   "c": -0.19,
+   "p": 6.59,
+   "c": -0.16,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 58.6
+   "r": 58.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03113325,
-   "c": 0.29,
+   "c": 0.28,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130353.aspx"
   },
   {
-   "t": "Goldman doubles down on active ETFs with $2.3 billion Neos deal",
+   "t": "What Are Wall Street Analysts' Target Price for Waste Management Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/goldman-sachs-buy-etf-provider-121032422.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-121901530.html"
   },
   {
    "t": "市場衡量油價走跌和美國PPI指數　美股開盤小漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "Do Wall Street Analysts Like Union Pacific Stock?",
+   "t": "Here's the biggest risk to America's data center building boom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-union-pacific-121153984.html"
+   "u": "https://finance.yahoo.com/economy/article/heres-the-biggest-risk-to-americas-data-center-building-boom-121942236.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for Waste Management Stock?",
+   "t": "Accel deepens Europe presence with $800M allocation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-121901530.html"
+   "u": "https://finance.yahoo.com/small-business/articles/accel-deepens-europe-presence-800m-121854601.html"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
   },
   {
-   "t": "Bitcoin and ethereum prices today, Wednesday, August 12, 2026:  Crypto prices rise with CPI report on deck",
+   "t": "Do Wall Street Analysts Like Union Pacific Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-12-2026-crypto-prices-rise-with-cpi-report-on-deck-121022039.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-union-pacific-121153984.html"
   },
   {
    "t": "威力彩第115065期　頭獎槓龜",
@@ -405,79 +405,79 @@
   }
  ],
  "inst": {
-  "date": "2026-08-12",
+  "date": "2026-08-11",
   "byCode": {
-   "2317": {
-    "f": 29370,
-    "t": 255,
-    "all": 31084
+   "1802": {
+    "f": 4354,
+    "t": -5,
+    "all": 4759
    },
    "2330": {
-    "f": 2626,
-    "t": 587,
-    "all": 2923
-   },
-   "1802": {
-    "f": 2156,
-    "t": 0,
-    "all": 2390
-   },
-   "6706": {
-    "f": 346,
-    "t": 0,
-    "all": 368
-   },
-   "2305": {
-    "f": 367,
-    "t": -9,
-    "all": 323
-   },
-   "3701": {
-    "f": 186,
-    "t": 0,
-    "all": 188
-   },
-   "6442": {
-    "f": 13,
-    "t": 145,
-    "all": 176
+    "f": 3498,
+    "t": 381,
+    "all": 3691
    },
    "6446": {
-    "f": -103,
-    "t": 234,
-    "all": 105
-   },
-   "6515": {
-    "f": 20,
+    "f": 1760,
     "t": -1,
-    "all": 18
-   },
-   "6862": {
-    "f": 20,
-    "t": 0,
-    "all": 15
+    "all": 1789
    },
    "2454": {
-    "f": 148,
-    "t": -123,
-    "all": 4
+    "f": 837,
+    "t": -168,
+    "all": 764
+   },
+   "6442": {
+    "f": -45,
+    "t": 85,
+    "all": 47
+   },
+   "6515": {
+    "f": 2,
+    "t": -6,
+    "all": -1
+   },
+   "6862": {
+    "f": -3,
+    "t": 0,
+    "all": -4
    },
    "4722": {
-    "f": -107,
+    "f": -10,
     "t": 0,
-    "all": -126
+    "all": -29
+   },
+   "3701": {
+    "f": -106,
+    "t": 0,
+    "all": -96
+   },
+   "6706": {
+    "f": -171,
+    "t": 0,
+    "all": -181
+   },
+   "2305": {
+    "f": -501,
+    "t": 0,
+    "all": -496
+   },
+   "2317": {
+    "f": -1140,
+    "t": 397,
+    "all": -821
    },
    "2308": {
-    "f": -1167,
-    "t": 170,
-    "all": -830
+    "f": -4630,
+    "t": 1007,
+    "all": -3951
    },
    "2327": {
-    "f": -10378,
-    "t": 229,
-    "all": -10294
+    "f": -7790,
+    "t": 2124,
+    "all": -5481
    }
   },
-  "totalNetE": 220.0
+  "totalNetE": 280.1
  }
 }
