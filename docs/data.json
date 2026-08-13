@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 01:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 01:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,113 +212,113 @@
   },
   {
    "s": "AAPL",
-   "p": 303.36,
-   "c": 0.37,
-   "a50": 309.24,
+   "p": 303.8,
+   "c": 0.51,
+   "a50": 309.25,
    "a200": 280.29,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 319.72,
-   "r": 41.3
+   "a20": 319.75,
+   "r": 41.7
   },
   {
    "s": "NVDA",
-   "p": 225.43,
-   "c": 0.6,
+   "p": 225.39,
+   "c": 0.58,
    "a50": 206.31,
    "a200": 194.75,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 209.28,
-   "r": 63.3
+   "r": 63.2
   },
   {
    "s": "TSLA",
-   "p": 336.4,
-   "c": 2.71,
+   "p": 336.34,
+   "c": 2.7,
    "a50": 372.64,
    "a200": 406.61,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 330.89,
-   "r": 46.1
+   "r": 46.0
   },
   {
    "s": "META",
-   "p": 588.58,
-   "c": 1.68,
-   "a50": 597.67,
+   "p": 588.16,
+   "c": 1.61,
+   "a50": 597.66,
    "a200": 628.41,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 597.16,
-   "r": 47.2
+   "a20": 597.14,
+   "r": 47.0
   },
   {
    "s": "^TWII",
    "p": 45518.07,
    "c": 0.88,
-   "a50": 44820.79,
-   "a200": 35465.79,
+   "a50": 44790.21,
+   "a200": 35721.59,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43788.03,
-   "r": 56.4
+   "a20": 43609.44,
+   "r": 57.4
   },
   {
    "s": "^GSPC",
-   "p": 7794.72,
-   "c": 0.6,
-   "a50": 7513.5,
-   "a200": 7058.99,
-   "yh": 7794.72,
+   "p": 7791.45,
+   "c": 0.55,
+   "a50": 7513.44,
+   "a200": 7058.97,
+   "yh": 7791.45,
    "yl": 6343.72,
-   "a20": 7575.97,
-   "r": 67.1
+   "a20": 7575.81,
+   "r": 66.9
   },
   {
    "s": "^VIX",
-   "p": 14.72,
-   "c": 1.17,
+   "p": 14.75,
+   "c": 1.37,
    "a50": 17.22,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.86,
-   "r": 42.0
+   "r": 42.1
   },
   {
    "s": "BZ=F",
-   "p": 87.83,
-   "c": -1.29,
-   "a50": 84.15,
+   "p": 87.64,
+   "c": -1.51,
+   "a50": 84.14,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.21,
-   "r": 52.5
+   "a20": 88.2,
+   "r": 52.3
   },
   {
    "s": "GC=F",
-   "p": 4424.7,
-   "c": 0.36,
-   "a50": 4160.36,
-   "a200": 4484.68,
+   "p": 4420.1,
+   "c": 0.25,
+   "a50": 4160.27,
+   "a200": 4484.66,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4159.3,
-   "r": 69.1
+   "a20": 4159.07,
+   "r": 68.9
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.2,
+   "c": 0.12,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 60.1
+   "r": 59.8
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "SEC May Advance Crypto Rules, 24/7 Trading Without Clarity Act. OCC Paves Way For Crypto Banks.",
+   "t": "Terrestrial Energy’s Lifetime Revenue Up 29%, Advancing in Texas A&M, DOE Fuel Program – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/sec-cryptocurrency-rules-innovation-trading-clarity-act-senate-delay-occ-national-banks-bitcoin/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/energy/articles/terrestrial-energy-lifetime-revenue-29-171715432.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "Brookfield Corporation Q2 2026 Earnings Call Summary",
+   "t": "SEC May Advance Crypto Rules, 24/7 Trading Without Clarity Act. OCC Paves Way For Crypto Banks.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/brookfield-corporation-q2-2026-earnings-171702650.html"
+   "u": "https://www.investors.com/news/sec-cryptocurrency-rules-innovation-trading-clarity-act-senate-delay-occ-national-banks-bitcoin/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
   },
   {
-   "t": "Arcos Dorados Holdings Inc. Q2 2026 Earnings Call Summary",
+   "t": "Brookfield Corporation Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/arcos-dorados-holdings-inc-q2-171220328.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/brookfield-corporation-q2-2026-earnings-171702650.html"
   },
   {
    "t": "威力彩第115065期　頭獎槓龜",
