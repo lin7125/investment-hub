@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 02:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 02:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 303.54,
-   "c": 0.43,
+   "p": 303.44,
+   "c": 0.39,
    "a50": 309.24,
    "a200": 280.29,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 319.73,
-   "r": 41.5
+   "r": 41.4
   },
   {
    "s": "NVDA",
-   "p": 225.53,
-   "c": 0.64,
+   "p": 225.7,
+   "c": 0.72,
    "a50": 206.32,
    "a200": 194.75,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 209.29,
-   "r": 63.3
+   "a20": 209.3,
+   "r": 63.4
   },
   {
    "s": "TSLA",
-   "p": 338.95,
-   "c": 3.49,
-   "a50": 372.69,
+   "p": 339.43,
+   "c": 3.64,
+   "a50": 372.7,
    "a200": 406.63,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 331.02,
-   "r": 47.3
+   "a20": 331.04,
+   "r": 47.5
   },
   {
    "s": "META",
-   "p": 590.53,
-   "c": 2.02,
-   "a50": 597.71,
-   "a200": 628.42,
+   "p": 592.82,
+   "c": 2.41,
+   "a50": 597.75,
+   "a200": 628.43,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 597.26,
-   "r": 47.8
+   "a20": 597.37,
+   "r": 48.5
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7800.22,
-   "c": 0.67,
-   "a50": 7507.77,
+   "p": 7801.78,
+   "c": 0.69,
+   "a50": 7507.8,
    "a200": 7070.36,
-   "yh": 7800.22,
+   "yh": 7801.78,
    "yl": 6343.72,
-   "a20": 7568.65,
-   "r": 67.4
+   "a20": 7568.73,
+   "r": 67.5
   },
   {
    "s": "^VIX",
-   "p": 14.69,
-   "c": 0.96,
+   "p": 14.64,
+   "c": 0.62,
    "a50": 17.22,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.86,
-   "r": 41.8
+   "r": 41.6
   },
   {
    "s": "BZ=F",
-   "p": 86.97,
-   "c": -2.26,
+   "p": 86.85,
+   "c": -2.39,
    "a50": 84.13,
-   "a200": 81.64,
+   "a200": 81.63,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.17,
-   "r": 51.3
+   "a20": 88.16,
+   "r": 51.2
   },
   {
    "s": "GC=F",
-   "p": 4415.3,
-   "c": 0.15,
-   "a50": 4160.17,
-   "a200": 4484.64,
+   "p": 4414.7,
+   "c": 0.13,
+   "a50": 4160.16,
+   "a200": 4484.63,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4158.82,
+   "a20": 4158.8,
    "r": 68.6
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": -0.02,
-   "a50": 6.35,
+   "p": 6.59,
+   "c": -0.09,
+   "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 59.4
+   "r": 59.0
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "US Dollar Price Forecast: CPI Test Looms as DXY, EUR/USD and GBP/USD Hold Key Levels",
+   "t": "I'm 64 With $650K in an IRA. Is Now the Right Time to Start Roth Conversions?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-cpi-081412880.html"
+   "u": "https://finance.yahoo.com/news/im-64-650k-ira-start-150416857.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "Hedge funds upped short AI bets in July, Hazeltree says",
+   "t": "Bank of America pledges $250 billion for US infrastructure financing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/hedge-funds-upped-short-ai-080808612.html"
+   "u": "https://finance.yahoo.com/technology/articles/bank-america-launches-250-billion-090237128.html"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
   },
   {
-   "t": "I'm 64 With $650K in an IRA. Is Now the Right Time to Start Roth Conversions?",
+   "t": "US Dollar Price Forecast: CPI Test Looms as DXY, EUR/USD and GBP/USD Hold Key Levels",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/im-64-650k-ira-start-150416857.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-cpi-081412880.html"
   },
   {
    "t": "威力彩第115065期　頭獎槓龜",
