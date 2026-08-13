@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 13:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 13:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -25,25 +25,25 @@
   },
   {
    "s": "2308.TW",
-   "p": 1880.0,
-   "c": 5.03,
-   "a50": 1919.8,
-   "a200": 1517.49,
+   "p": 1885.0,
+   "c": 5.31,
+   "a50": 1919.9,
+   "a200": 1517.52,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1714.75,
-   "r": 56.2
+   "a20": 1715.0,
+   "r": 56.5
   },
   {
    "s": "2454.TW",
-   "p": 4220.0,
-   "c": 5.11,
-   "a50": 3992.1,
-   "a200": 2433.57,
+   "p": 4215.0,
+   "c": 4.98,
+   "a50": 3992.0,
+   "a200": 2433.55,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3730.0,
-   "r": 60.9
+   "a20": 3729.75,
+   "r": 60.8
   },
   {
    "s": "2327.TW",
@@ -80,36 +80,36 @@
   },
   {
    "s": "3701.TW",
-   "p": 40.95,
-   "c": -1.33,
-   "a50": 43.53,
+   "p": 40.8,
+   "c": -1.69,
+   "a50": 43.52,
    "a200": 48.84,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.41,
-   "r": 49.2
+   "r": 48.8
   },
   {
    "s": "4722.TW",
-   "p": 209.5,
-   "c": -0.24,
-   "a50": 240.41,
-   "a200": 199.22,
+   "p": 208.5,
+   "c": -0.71,
+   "a50": 240.39,
+   "a200": 199.21,
    "yh": 306.5,
    "yl": 83.6,
-   "a20": 205.5,
-   "r": 46.0
+   "a20": 205.45,
+   "r": 45.7
   },
   {
    "s": "6706.TW",
-   "p": 122.0,
-   "c": -1.61,
-   "a50": 136.27,
-   "a200": 126.1,
+   "p": 121.0,
+   "c": -2.42,
+   "a50": 136.25,
+   "a200": 126.09,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 108.7,
-   "r": 52.2
+   "a20": 108.65,
+   "r": 51.5
   },
   {
    "s": "2305.TW",
@@ -124,25 +124,25 @@
   },
   {
    "s": "6442.TW",
-   "p": 1565.0,
-   "c": -1.88,
-   "a50": 1573.2,
-   "a200": 1584.44,
+   "p": 1550.0,
+   "c": -2.82,
+   "a50": 1572.9,
+   "a200": 1584.36,
    "yh": 2370.0,
    "yl": 688.0,
-   "a20": 1328.25,
-   "r": 57.3
+   "a20": 1327.5,
+   "r": 56.4
   },
   {
    "s": "6515.TW",
-   "p": 6765.0,
-   "c": -5.65,
-   "a50": 7713.9,
-   "a200": 5971.0,
+   "p": 6745.0,
+   "c": -5.93,
+   "a50": 7713.5,
+   "a200": 5970.9,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6397.25,
-   "r": 47.9
+   "a20": 6396.25,
+   "r": 47.7
   },
   {
    "s": "6446.TW",
@@ -168,25 +168,25 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1345.0,
-   "c": 1.89,
-   "a50": 1346.24,
-   "a200": 1186.1,
+   "p": 1350.0,
+   "c": 2.27,
+   "a50": 1346.34,
+   "a200": 1186.12,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1199.6,
-   "r": 55.5
+   "a20": 1199.85,
+   "r": 55.8
   },
   {
    "s": "3585.TWO",
-   "p": 50.6,
-   "c": 1.2,
-   "a50": 61.65,
+   "p": 51.0,
+   "c": 2.0,
+   "a50": 61.66,
    "a200": 41.3,
    "yh": 165.0,
    "yl": 6.99,
-   "a20": 47.39,
-   "r": 46.8
+   "a20": 47.41,
+   "r": 47.3
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46004.07,
-   "c": 1.07,
-   "a50": 44799.15,
-   "a200": 35815.23,
+   "p": 45988.94,
+   "c": 1.03,
+   "a50": 44798.85,
+   "a200": 35815.16,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43628.4,
-   "r": 59.6
+   "a20": 43627.64,
+   "r": 59.5
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.88,
-   "c": -0.11,
+   "p": 88.92,
+   "c": -0.07,
    "a50": 84.17,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.27,
-   "r": 54.1
+   "r": 54.2
   },
   {
    "s": "GC=F",
-   "p": 4460.5,
-   "c": 1.17,
-   "a50": 4161.08,
-   "a200": 4484.86,
+   "p": 4453.3,
+   "c": 1.01,
+   "a50": 4160.93,
+   "a200": 4484.83,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4161.08,
-   "r": 70.8
+   "a20": 4160.72,
+   "r": 70.4
   },
   {
    "s": "HG=F",
-   "p": 6.57,
-   "c": -0.46,
+   "p": 6.56,
+   "c": -0.52,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 57.3
+   "r": 57.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03108486,
-   "c": 0.13,
+   "c": 0.12,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130094.aspx"
   },
   {
-   "t": "Cardinal Infrastructure Group Inc. Class A Common Stock Q2 2026 Earnings Call Summary",
+   "t": "Walmart (WMT) Bets On Streaming Ads. Can The Stock Catch Up?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cardinal-infrastructure-group-inc-class-173045413.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/walmart-wmt-bets-streaming-ads-174139975.html"
   },
   {
    "t": "新台幣午盤升7.9分　暫收32.167元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130082.aspx"
   },
   {
-   "t": "QumulusAI (QMLS) Signs DRW Blackwell Deal: Can Momentum Translate Into Revenue?",
+   "t": "DarioHealth Corp. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/qumulusai-qmls-signs-nvidia-drw-173037000.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/dariohealth-corp-q2-2026-earnings-173637580.html"
   },
   {
    "t": "AI交易回溫韓股領漲科技股　KOSPI大漲近4%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130075.aspx"
   },
   {
-   "t": "Xtant Medical Holdings, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Dear Intel Stock Fans, Mark Your Calendars for August 12",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/xtant-medical-holdings-inc-q2-173059302.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-intel-stock-fans-mark-174805368.html"
   },
   {
    "t": "裕隆擴大太陽能發電　拓展儲能和能源市場",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130073.aspx"
   },
   {
-   "t": "Airbnb Has Been on a Tear, But There’s 1 Key Reason to Wait to Buy ABNB Stock",
+   "t": "Is Broadcom’s (AVGO) Next Big Bet Hidden in Plain Sight?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/airbnb-tear-1-key-reason-172852206.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-next-big-bet-175031316.html"
   },
   {
    "t": "台股走高登46000點　科技股強勢",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202608130064.aspx"
   },
   {
-   "t": "Fluor's Profit Jump Was Borrowed From Its Own Second Half",
+   "t": "BellRing Brands (BRBR) Q3 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fluors-profit-jump-borrowed-own-173446421.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bellring-brands-brbr-q3-2026-174348898.html"
   }
  ],
  "inst": {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "byCode": {
-   "1802": {
-    "f": 4354,
-    "t": -5,
-    "all": 4759
+   "2317": {
+    "f": 29370,
+    "t": 255,
+    "all": 31084
    },
    "2330": {
-    "f": 3498,
-    "t": 381,
-    "all": 3691
+    "f": 2626,
+    "t": 587,
+    "all": 2923
    },
-   "6446": {
-    "f": 1760,
-    "t": -1,
-    "all": 1789
-   },
-   "2454": {
-    "f": 837,
-    "t": -168,
-    "all": 764
-   },
-   "6442": {
-    "f": -45,
-    "t": 85,
-    "all": 47
-   },
-   "6515": {
-    "f": 2,
-    "t": -6,
-    "all": -1
-   },
-   "6862": {
-    "f": -3,
+   "1802": {
+    "f": 2156,
     "t": 0,
-    "all": -4
-   },
-   "4722": {
-    "f": -10,
-    "t": 0,
-    "all": -29
-   },
-   "3701": {
-    "f": -106,
-    "t": 0,
-    "all": -96
+    "all": 2390
    },
    "6706": {
-    "f": -171,
+    "f": 346,
     "t": 0,
-    "all": -181
+    "all": 368
    },
    "2305": {
-    "f": -501,
-    "t": 0,
-    "all": -496
+    "f": 367,
+    "t": -9,
+    "all": 323
    },
-   "2317": {
-    "f": -1140,
-    "t": 397,
-    "all": -821
+   "3701": {
+    "f": 186,
+    "t": 0,
+    "all": 188
+   },
+   "6442": {
+    "f": 13,
+    "t": 145,
+    "all": 176
+   },
+   "6446": {
+    "f": -103,
+    "t": 234,
+    "all": 105
+   },
+   "6515": {
+    "f": 20,
+    "t": -1,
+    "all": 18
+   },
+   "6862": {
+    "f": 20,
+    "t": 0,
+    "all": 15
+   },
+   "2454": {
+    "f": 148,
+    "t": -123,
+    "all": 4
+   },
+   "4722": {
+    "f": -107,
+    "t": 0,
+    "all": -126
    },
    "2308": {
-    "f": -4630,
-    "t": 1007,
-    "all": -3951
+    "f": -1167,
+    "t": 170,
+    "all": -830
    },
    "2327": {
-    "f": -7790,
-    "t": 2124,
-    "all": -5481
+    "f": -10378,
+    "t": 229,
+    "all": -10294
    }
   },
-  "totalNetE": 280.1
+  "totalNetE": 220.0
  }
 }
