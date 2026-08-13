@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 04:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 04:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 14.65,
-   "c": 0.69,
-   "a50": 17.22,
+   "p": 14.56,
+   "c": 0.07,
+   "a50": 17.16,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.86,
-   "r": 41.6
+   "a20": 16.81,
+   "r": 40.8
   },
   {
    "s": "BZ=F",
-   "p": 87.04,
-   "c": -2.18,
+   "p": 86.96,
+   "c": -2.27,
    "a50": 84.13,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.17,
-   "r": 51.4
+   "r": 51.3
   },
   {
    "s": "GC=F",
-   "p": 4404.5,
-   "c": -0.1,
-   "a50": 4159.96,
-   "a200": 4484.58,
+   "p": 4405.3,
+   "c": -0.08,
+   "a50": 4159.97,
+   "a200": 4484.59,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4158.28,
-   "r": 67.8
+   "a20": 4158.32,
+   "r": 67.9
   },
   {
    "s": "HG=F",
-   "p": 6.58,
-   "c": -0.23,
+   "p": 6.59,
+   "c": -0.18,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 58.3
+   "r": 58.6
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130353.aspx"
   },
   {
-   "t": "Best CD rates today, Wednesday, August 12, 2026: Earn up to 4.30% APY",
+   "t": "Do Wall Street Analysts Like Teradyne Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-12-2026-earn-up-to-430-apy-100000560.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-teradyne-stock-115011724.html"
   },
   {
    "t": "市場衡量油價走跌和美國PPI指數　美股開盤小漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "Tech stocks are getting cheaper even as earnings stay strong: Chart of the Day",
+   "t": "SpaceX (SPCX) and Northrop Grumman (NOC) Clear Golden Dome Test: Who Has More to Gain?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/tech-stocks-are-getting-cheaper-even-as-earnings-stay-strong-chart-of-the-day-100000044.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-northrop-grumman-noc-115136453.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "Cleveland Fed's Beth Hammack warns one rate hike won't cut it as inflation swallows workers' wage gains",
+   "t": "Gold prices today, Wednesday, August 12, 2026: Holding over $4,400 ahead of CPI report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/cleveland-feds-beth-hammack-warns-100000049.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-12-2026-holding-over-4400-ahead-of-cpi-report-114442535.html"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
   },
   {
-   "t": "Mortgage and refinance interest rates today, Wednesday, August 12, 2026: Fixed rates move higher",
+   "t": "Silver prices today, Wednesday, August 12, 2026: Surpassing $66 as expectations for July inflation ease",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-12-2026-fixed-rates-move-higher-100000633.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-12-2026-surpassing-66-as-expectations-for-july-inflation-ease-115635475.html"
   },
   {
    "t": "威力彩第115065期　頭獎槓龜",
@@ -405,79 +405,79 @@
   }
  ],
  "inst": {
-  "date": "2026-08-13",
+  "date": "2026-08-12",
   "byCode": {
-   "2327": {
-    "f": 4761,
-    "t": 1505,
-    "all": 5894
+   "2317": {
+    "f": 29370,
+    "t": 255,
+    "all": 31084
    },
    "2330": {
-    "f": 3972,
-    "t": 735,
-    "all": 4801
-   },
-   "2454": {
-    "f": 3760,
-    "t": -62,
-    "all": 3568
-   },
-   "2305": {
-    "f": 2120,
-    "t": 0,
-    "all": 2126
-   },
-   "2308": {
-    "f": 1400,
-    "t": 76,
-    "all": 1530
+    "f": 2626,
+    "t": 587,
+    "all": 2923
    },
    "1802": {
-    "f": 524,
+    "f": 2156,
     "t": 0,
-    "all": 495
-   },
-   "3701": {
-    "f": 109,
-    "t": 0,
-    "all": 111
+    "all": 2390
    },
    "6706": {
-    "f": 106,
+    "f": 346,
     "t": 0,
-    "all": 65
+    "all": 368
    },
-   "4722": {
-    "f": 43,
+   "2305": {
+    "f": 367,
+    "t": -9,
+    "all": 323
+   },
+   "3701": {
+    "f": 186,
     "t": 0,
-    "all": 29
-   },
-   "6862": {
-    "f": 4,
-    "t": 0,
-    "all": -1
-   },
-   "6515": {
-    "f": 76,
-    "t": -310,
-    "all": -227
-   },
-   "6446": {
-    "f": -263,
-    "t": 2,
-    "all": -244
+    "all": 188
    },
    "6442": {
-    "f": -585,
-    "t": 332,
-    "all": -253
+    "f": 13,
+    "t": 145,
+    "all": 176
    },
-   "2317": {
-    "f": -33364,
-    "t": -81,
-    "all": -35569
+   "6446": {
+    "f": -103,
+    "t": 234,
+    "all": 105
+   },
+   "6515": {
+    "f": 20,
+    "t": -1,
+    "all": 18
+   },
+   "6862": {
+    "f": 20,
+    "t": 0,
+    "all": 15
+   },
+   "2454": {
+    "f": 148,
+    "t": -123,
+    "all": 4
+   },
+   "4722": {
+    "f": -107,
+    "t": 0,
+    "all": -126
+   },
+   "2308": {
+    "f": -1167,
+    "t": 170,
+    "all": -830
+   },
+   "2327": {
+    "f": -10378,
+    "t": 229,
+    "all": -10294
    }
   },
-  "totalNetE": 892.5
+  "totalNetE": 220.0
  }
 }
