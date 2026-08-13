@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 15:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 15:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 14.67,
-   "c": 0.82,
+   "p": 14.66,
+   "c": 0.76,
    "a50": 17.22,
    "a200": 18.54,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.06,
-   "c": -1.03,
+   "p": 87.83,
+   "c": -1.29,
    "a50": 84.15,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.22,
-   "r": 52.9
+   "a20": 88.21,
+   "r": 52.5
   },
   {
    "s": "GC=F",
-   "p": 4431.1,
-   "c": 0.5,
-   "a50": 4160.49,
+   "p": 4432.0,
+   "c": 0.52,
+   "a50": 4160.51,
    "a200": 4484.72,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4159.62,
-   "r": 69.4
+   "a20": 4159.66,
+   "r": 69.5
   },
   {
    "s": "HG=F",
    "p": 6.52,
-   "c": -1.17,
+   "c": -1.23,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 54.3
+   "r": 54.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03109453,
-   "c": 0.14,
+   "p": 0.0311042,
+   "c": 0.17,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130150.aspx"
   },
   {
-   "t": "How are mortgage rates determined? The Fed, your credit score, and more.",
+   "t": "What is compound interest, and how is it calculated?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/what-determines-mortgage-rates-182515831.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-compound-interest-121302430.html"
   },
   {
    "t": "薪酬爭議延燒　國票證撤回副董事長續任案",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130145.aspx"
   },
   {
-   "t": "What is compound interest, and how is it calculated?",
+   "t": "Can Teradyne’s (TER) AI Boom Keep Outrunning Wall Street?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-compound-interest-121302430.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-ai-boom-keep-194633356.html"
   },
   {
    "t": "台股漲503.41點站上46000點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130141.aspx"
   },
   {
-   "t": "Dear SK Hynix Stock Fans, Here's What to Make of the AI Giant's Recent Results",
+   "t": "The Boeing Company (BA) vs. Southwest Airlines Co. (LUV): A Long-Delayed Plane Finally Clears the Runway",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-sk-hynix-stock-fans-193250643.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/boeing-company-ba-vs-southwest-194820074.html"
   },
   {
    "t": "台股漲503.41點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130140.aspx"
   },
   {
-   "t": "Dollar Slightly Higher as Crude Oil Rallies and Stocks Fall",
+   "t": "If Cloud Computing Stocks Get a Second Wind, This ETF Is Primed to Float Higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-slightly-higher-crude-oil-193335507.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cloud-computing-stocks-second-wind-195408260.html"
   },
   {
    "t": "房仲：房市冷颼颼  北市新推案以低總價吸引買氣",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202608130130.aspx"
   },
   {
-   "t": "EToro Announces Deal to Buy TradeZero in Boost to US Presence",
+   "t": "AARP issues urgent call on Medicare drug costs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/video/etoro-announces-deal-buy-tradezero-193120910.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/aarp-issues-urgent-call-medicare-221700862.html"
   }
  ],
  "inst": {
-  "date": "2026-08-12",
+  "date": "2026-08-11",
   "byCode": {
-   "2317": {
-    "f": 29370,
-    "t": 255,
-    "all": 31084
+   "1802": {
+    "f": 4354,
+    "t": -5,
+    "all": 4759
    },
    "2330": {
-    "f": 2626,
-    "t": 587,
-    "all": 2923
-   },
-   "1802": {
-    "f": 2156,
-    "t": 0,
-    "all": 2390
-   },
-   "6706": {
-    "f": 346,
-    "t": 0,
-    "all": 368
-   },
-   "2305": {
-    "f": 367,
-    "t": -9,
-    "all": 323
-   },
-   "3701": {
-    "f": 186,
-    "t": 0,
-    "all": 188
-   },
-   "6442": {
-    "f": 13,
-    "t": 145,
-    "all": 176
+    "f": 3498,
+    "t": 381,
+    "all": 3691
    },
    "6446": {
-    "f": -103,
-    "t": 234,
-    "all": 105
-   },
-   "6515": {
-    "f": 20,
+    "f": 1760,
     "t": -1,
-    "all": 18
-   },
-   "6862": {
-    "f": 20,
-    "t": 0,
-    "all": 15
+    "all": 1789
    },
    "2454": {
-    "f": 148,
-    "t": -123,
-    "all": 4
+    "f": 837,
+    "t": -168,
+    "all": 764
+   },
+   "6442": {
+    "f": -45,
+    "t": 85,
+    "all": 47
+   },
+   "6515": {
+    "f": 2,
+    "t": -6,
+    "all": -1
+   },
+   "6862": {
+    "f": -3,
+    "t": 0,
+    "all": -4
    },
    "4722": {
-    "f": -107,
+    "f": -10,
     "t": 0,
-    "all": -126
+    "all": -29
+   },
+   "3701": {
+    "f": -106,
+    "t": 0,
+    "all": -96
+   },
+   "6706": {
+    "f": -171,
+    "t": 0,
+    "all": -181
+   },
+   "2305": {
+    "f": -501,
+    "t": 0,
+    "all": -496
+   },
+   "2317": {
+    "f": -1140,
+    "t": 397,
+    "all": -821
    },
    "2308": {
-    "f": -1167,
-    "t": 170,
-    "all": -830
+    "f": -4630,
+    "t": 1007,
+    "all": -3951
    },
    "2327": {
-    "f": -10378,
-    "t": 229,
-    "all": -10294
+    "f": -7790,
+    "t": 2124,
+    "all": -5481
    }
   },
-  "totalNetE": 220.0
+  "totalNetE": 280.1
  }
 }
