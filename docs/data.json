@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 15:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 15:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45518.07,
-   "c": 0.88,
-   "a50": 44790.21,
-   "a200": 35721.59,
+   "p": 46021.48,
+   "c": 1.11,
+   "a50": 44799.5,
+   "a200": 35815.32,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43609.44,
-   "r": 57.4
+   "a20": 43629.27,
+   "r": 59.6
   },
   {
    "s": "^GSPC",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.55,
-   "c": -4.78,
-   "a50": 17.24,
-   "a200": 18.55,
+   "p": 14.67,
+   "c": 0.82,
+   "a50": 17.22,
+   "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.96,
-   "r": 41.1
+   "a20": 16.86,
+   "r": 41.7
   },
   {
    "s": "BZ=F",
-   "p": 88.66,
-   "c": -0.36,
+   "p": 88.53,
+   "c": -0.51,
    "a50": 84.16,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.26,
-   "r": 53.8
+   "a20": 88.25,
+   "r": 53.6
   },
   {
    "s": "GC=F",
-   "p": 4433.4,
-   "c": 0.56,
+   "p": 4433.2,
+   "c": 0.55,
    "a50": 4160.53,
    "a200": 4484.73,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4159.73,
+   "a20": 4159.72,
    "r": 69.5
   },
   {
    "s": "HG=F",
-   "p": 6.52,
-   "c": -1.14,
+   "p": 6.53,
+   "c": -1.03,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 54.4
+   "r": 54.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03109453,
-   "c": 0.15,
+   "c": 0.14,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130150.aspx"
   },
   {
-   "t": "5 smart ways to use a high-yield savings account",
+   "t": "How are mortgage rates determined? The Fed, your credit score, and more.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-to-use-a-high-yield-savings-account-183827481.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/what-determines-mortgage-rates-182515831.html"
   },
   {
    "t": "薪酬爭議延燒　國票證撤回副董事長續任案",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130145.aspx"
   },
   {
-   "t": "How are mortgage rates determined? The Fed, your credit score, and more.",
+   "t": "Baird Just Upgraded First Solar Stock. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/what-determines-mortgage-rates-182515831.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/baird-just-upgraded-first-solar-192333810.html"
   },
   {
    "t": "台股漲503.41點站上46000點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130141.aspx"
   },
   {
-   "t": "Baird Just Upgraded First Solar Stock. Here's Why.",
+   "t": "Talen Energy (TLN) Raised Guidance In August, So Why The Loss?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/baird-just-upgraded-first-solar-192333810.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-tln-raised-guidance-192349215.html"
   },
   {
    "t": "台股漲503.41點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130140.aspx"
   },
   {
-   "t": "Talen Energy (TLN) Raised Guidance In August, So Why The Loss?",
+   "t": "Jefferies Downgrades Apple as iPhone Worries Mount. What This Means for AAPL Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-tln-raised-guidance-192349215.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jefferies-downgrades-apple-iphone-worries-192455657.html"
   },
   {
    "t": "房仲：房市冷颼颼  北市新推案以低總價吸引買氣",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202608130130.aspx"
   },
   {
-   "t": "Mega Cap Growth ETF vs Small Cap Growth ETF: Which Wins?",
+   "t": "Nvidia’s New AI Plan Could Make the Stock Riskier. Cathie Wood Is Piling In.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mega-cap-growth-etf-vs-191701545.html"
+   "u": "https://www.barrons.com/articles/nvidia-stock-price-cathie-wood-4679125b?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
-  "date": "2026-08-12",
+  "date": "2026-08-11",
   "byCode": {
-   "2317": {
-    "f": 29370,
-    "t": 255,
-    "all": 31084
+   "1802": {
+    "f": 4354,
+    "t": -5,
+    "all": 4759
    },
    "2330": {
-    "f": 2626,
-    "t": 587,
-    "all": 2923
-   },
-   "1802": {
-    "f": 2156,
-    "t": 0,
-    "all": 2390
-   },
-   "6706": {
-    "f": 346,
-    "t": 0,
-    "all": 368
-   },
-   "2305": {
-    "f": 367,
-    "t": -9,
-    "all": 323
-   },
-   "3701": {
-    "f": 186,
-    "t": 0,
-    "all": 188
-   },
-   "6442": {
-    "f": 13,
-    "t": 145,
-    "all": 176
+    "f": 3498,
+    "t": 381,
+    "all": 3691
    },
    "6446": {
-    "f": -103,
-    "t": 234,
-    "all": 105
-   },
-   "6515": {
-    "f": 20,
+    "f": 1760,
     "t": -1,
-    "all": 18
-   },
-   "6862": {
-    "f": 20,
-    "t": 0,
-    "all": 15
+    "all": 1789
    },
    "2454": {
-    "f": 148,
-    "t": -123,
-    "all": 4
+    "f": 837,
+    "t": -168,
+    "all": 764
+   },
+   "6442": {
+    "f": -45,
+    "t": 85,
+    "all": 47
+   },
+   "6515": {
+    "f": 2,
+    "t": -6,
+    "all": -1
+   },
+   "6862": {
+    "f": -3,
+    "t": 0,
+    "all": -4
    },
    "4722": {
-    "f": -107,
+    "f": -10,
     "t": 0,
-    "all": -126
+    "all": -29
+   },
+   "3701": {
+    "f": -106,
+    "t": 0,
+    "all": -96
+   },
+   "6706": {
+    "f": -171,
+    "t": 0,
+    "all": -181
+   },
+   "2305": {
+    "f": -501,
+    "t": 0,
+    "all": -496
+   },
+   "2317": {
+    "f": -1140,
+    "t": 397,
+    "all": -821
    },
    "2308": {
-    "f": -1167,
-    "t": 170,
-    "all": -830
+    "f": -4630,
+    "t": 1007,
+    "all": -3951
    },
    "2327": {
-    "f": -10378,
-    "t": 229,
-    "all": -10294
+    "f": -7790,
+    "t": 2124,
+    "all": -5481
    }
   },
-  "totalNetE": 220.0
+  "totalNetE": 280.1
  }
 }
