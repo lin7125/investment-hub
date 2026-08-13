@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 15:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 15:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.53,
-   "c": -0.51,
-   "a50": 84.16,
+   "p": 88.06,
+   "c": -1.03,
+   "a50": 84.15,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.25,
-   "r": 53.6
+   "a20": 88.22,
+   "r": 52.9
   },
   {
    "s": "GC=F",
-   "p": 4433.2,
-   "c": 0.55,
-   "a50": 4160.53,
-   "a200": 4484.73,
+   "p": 4431.1,
+   "c": 0.5,
+   "a50": 4160.49,
+   "a200": 4484.72,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4159.72,
-   "r": 69.5
+   "a20": 4159.62,
+   "r": 69.4
   },
   {
    "s": "HG=F",
-   "p": 6.53,
-   "c": -1.03,
+   "p": 6.52,
+   "c": -1.17,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 54.9
+   "r": 54.3
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130145.aspx"
   },
   {
-   "t": "Baird Just Upgraded First Solar Stock. Here's Why.",
+   "t": "What is compound interest, and how is it calculated?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/baird-just-upgraded-first-solar-192333810.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-compound-interest-121302430.html"
   },
   {
    "t": "台股漲503.41點站上46000點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130141.aspx"
   },
   {
-   "t": "Talen Energy (TLN) Raised Guidance In August, So Why The Loss?",
+   "t": "Dear SK Hynix Stock Fans, Here's What to Make of the AI Giant's Recent Results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-tln-raised-guidance-192349215.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-sk-hynix-stock-fans-193250643.html"
   },
   {
    "t": "台股漲503.41點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130140.aspx"
   },
   {
-   "t": "Jefferies Downgrades Apple as iPhone Worries Mount. What This Means for AAPL Stock.",
+   "t": "Dollar Slightly Higher as Crude Oil Rallies and Stocks Fall",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jefferies-downgrades-apple-iphone-worries-192455657.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-slightly-higher-crude-oil-193335507.html"
   },
   {
    "t": "房仲：房市冷颼颼  北市新推案以低總價吸引買氣",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202608130130.aspx"
   },
   {
-   "t": "Nvidia’s New AI Plan Could Make the Stock Riskier. Cathie Wood Is Piling In.",
+   "t": "EToro Announces Deal to Buy TradeZero in Boost to US Presence",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/nvidia-stock-price-cathie-wood-4679125b?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/video/etoro-announces-deal-buy-tradezero-193120910.html"
   }
  ],
  "inst": {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "byCode": {
-   "1802": {
-    "f": 4354,
-    "t": -5,
-    "all": 4759
+   "2317": {
+    "f": 29370,
+    "t": 255,
+    "all": 31084
    },
    "2330": {
-    "f": 3498,
-    "t": 381,
-    "all": 3691
+    "f": 2626,
+    "t": 587,
+    "all": 2923
    },
-   "6446": {
-    "f": 1760,
-    "t": -1,
-    "all": 1789
-   },
-   "2454": {
-    "f": 837,
-    "t": -168,
-    "all": 764
-   },
-   "6442": {
-    "f": -45,
-    "t": 85,
-    "all": 47
-   },
-   "6515": {
-    "f": 2,
-    "t": -6,
-    "all": -1
-   },
-   "6862": {
-    "f": -3,
+   "1802": {
+    "f": 2156,
     "t": 0,
-    "all": -4
-   },
-   "4722": {
-    "f": -10,
-    "t": 0,
-    "all": -29
-   },
-   "3701": {
-    "f": -106,
-    "t": 0,
-    "all": -96
+    "all": 2390
    },
    "6706": {
-    "f": -171,
+    "f": 346,
     "t": 0,
-    "all": -181
+    "all": 368
    },
    "2305": {
-    "f": -501,
-    "t": 0,
-    "all": -496
+    "f": 367,
+    "t": -9,
+    "all": 323
    },
-   "2317": {
-    "f": -1140,
-    "t": 397,
-    "all": -821
+   "3701": {
+    "f": 186,
+    "t": 0,
+    "all": 188
+   },
+   "6442": {
+    "f": 13,
+    "t": 145,
+    "all": 176
+   },
+   "6446": {
+    "f": -103,
+    "t": 234,
+    "all": 105
+   },
+   "6515": {
+    "f": 20,
+    "t": -1,
+    "all": 18
+   },
+   "6862": {
+    "f": 20,
+    "t": 0,
+    "all": 15
+   },
+   "2454": {
+    "f": 148,
+    "t": -123,
+    "all": 4
+   },
+   "4722": {
+    "f": -107,
+    "t": 0,
+    "all": -126
    },
    "2308": {
-    "f": -4630,
-    "t": 1007,
-    "all": -3951
+    "f": -1167,
+    "t": 170,
+    "all": -830
    },
    "2327": {
-    "f": -7790,
-    "t": 2124,
-    "all": -5481
+    "f": -10378,
+    "t": 229,
+    "all": -10294
    }
   },
-  "totalNetE": 280.1
+  "totalNetE": 220.0
  }
 }
