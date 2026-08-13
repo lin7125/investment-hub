@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 01:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 02:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,41 +212,41 @@
   },
   {
    "s": "AAPL",
-   "p": 303.43,
-   "c": 0.39,
-   "a50": 309.24,
+   "p": 303.04,
+   "c": 0.26,
+   "a50": 309.23,
    "a200": 280.29,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 319.73,
-   "r": 41.4
+   "a20": 319.71,
+   "r": 41.0
   },
   {
    "s": "NVDA",
-   "p": 225.36,
-   "c": 0.57,
+   "p": 225.11,
+   "c": 0.46,
    "a50": 206.31,
    "a200": 194.75,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 209.28,
-   "r": 63.2
+   "a20": 209.27,
+   "r": 63.1
   },
   {
    "s": "TSLA",
-   "p": 336.35,
-   "c": 2.7,
+   "p": 336.44,
+   "c": 2.73,
    "a50": 372.64,
    "a200": 406.61,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 330.89,
-   "r": 46.0
+   "r": 46.1
   },
   {
    "s": "META",
-   "p": 588.63,
-   "c": 1.69,
+   "p": 588.59,
+   "c": 1.68,
    "a50": 597.67,
    "a200": 628.41,
    "yh": 785.23,
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7790.83,
+   "p": 7791.26,
    "c": 0.55,
-   "a50": 7507.58,
+   "a50": 7507.59,
    "a200": 7070.31,
-   "yh": 7790.83,
+   "yh": 7791.26,
    "yl": 6343.72,
-   "a20": 7568.18,
-   "r": 66.9
+   "a20": 7568.21,
+   "r": 67.0
   },
   {
    "s": "^VIX",
-   "p": 14.7,
-   "c": 1.03,
+   "p": 14.67,
+   "c": 0.82,
    "a50": 17.22,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.86,
-   "r": 41.9
+   "r": 41.7
   },
   {
    "s": "BZ=F",
-   "p": 87.78,
-   "c": -1.35,
-   "a50": 84.15,
+   "p": 87.66,
+   "c": -1.48,
+   "a50": 84.14,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.21,
-   "r": 52.5
+   "r": 52.3
   },
   {
    "s": "GC=F",
-   "p": 4414.0,
-   "c": 0.12,
-   "a50": 4160.15,
+   "p": 4414.8,
+   "c": 0.13,
+   "a50": 4160.16,
    "a200": 4484.63,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4158.76,
+   "a20": 4158.8,
    "r": 68.6
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.09,
+   "c": 0.04,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 59.7
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130353.aspx"
   },
   {
-   "t": "Bit Digital, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Stock market today: S&P 500 and Nasdaq gain on soft inflation data, Dow dips",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bit-digital-inc-q2-2026-172026696.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-and-nasdaq-gain-on-soft-inflation-data-dow-dips-100145282.html"
   },
   {
    "t": "市場衡量油價走跌和美國PPI指數　美股開盤小漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "Terrestrial Energy’s Lifetime Revenue Up 29%, Advancing in Texas A&M, DOE Fuel Program – Quarterly Update Report",
+   "t": "Anthropic IPO Value Could Beat SpaceX's Record: Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/terrestrial-energy-lifetime-revenue-29-171715432.html"
+   "u": "https://www.investors.com/news/technology/anthropic-ipo-valuation-timing-spacex/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "SEC May Advance Crypto Rules, 24/7 Trading Without Clarity Act. OCC Paves Way For Crypto Banks.",
+   "t": "UWM lost $603 million on rate bets — now Oaktree is extracting 10% a year for a $2.05 billion lifeline",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/sec-cryptocurrency-rules-innovation-trading-clarity-act-senate-delay-occ-national-banks-bitcoin/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/uwm-lost-603-million-rate-173500155.html"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
   },
   {
-   "t": "Brookfield Corporation Q2 2026 Earnings Call Summary",
+   "t": "Aveanna Healthcare Holdings Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/brookfield-corporation-q2-2026-earnings-171702650.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/aveanna-healthcare-holdings-inc-q2-172036312.html"
   },
   {
    "t": "威力彩第115065期　頭獎槓龜",
@@ -405,79 +405,79 @@
   }
  ],
  "inst": {
-  "date": "2026-08-13",
+  "date": "2026-08-12",
   "byCode": {
-   "2327": {
-    "f": 4761,
-    "t": 1505,
-    "all": 5894
+   "2317": {
+    "f": 29370,
+    "t": 255,
+    "all": 31084
    },
    "2330": {
-    "f": 3972,
-    "t": 735,
-    "all": 4801
-   },
-   "2454": {
-    "f": 3760,
-    "t": -62,
-    "all": 3568
-   },
-   "2305": {
-    "f": 2120,
-    "t": 0,
-    "all": 2126
-   },
-   "2308": {
-    "f": 1400,
-    "t": 76,
-    "all": 1530
+    "f": 2626,
+    "t": 587,
+    "all": 2923
    },
    "1802": {
-    "f": 524,
+    "f": 2156,
     "t": 0,
-    "all": 495
-   },
-   "3701": {
-    "f": 109,
-    "t": 0,
-    "all": 111
+    "all": 2390
    },
    "6706": {
-    "f": 106,
+    "f": 346,
     "t": 0,
-    "all": 65
+    "all": 368
    },
-   "4722": {
-    "f": 43,
+   "2305": {
+    "f": 367,
+    "t": -9,
+    "all": 323
+   },
+   "3701": {
+    "f": 186,
     "t": 0,
-    "all": 29
-   },
-   "6862": {
-    "f": 4,
-    "t": 0,
-    "all": -1
-   },
-   "6515": {
-    "f": 76,
-    "t": -310,
-    "all": -227
-   },
-   "6446": {
-    "f": -263,
-    "t": 2,
-    "all": -244
+    "all": 188
    },
    "6442": {
-    "f": -585,
-    "t": 332,
-    "all": -253
+    "f": 13,
+    "t": 145,
+    "all": 176
    },
-   "2317": {
-    "f": -33364,
-    "t": -81,
-    "all": -35569
+   "6446": {
+    "f": -103,
+    "t": 234,
+    "all": 105
+   },
+   "6515": {
+    "f": 20,
+    "t": -1,
+    "all": 18
+   },
+   "6862": {
+    "f": 20,
+    "t": 0,
+    "all": 15
+   },
+   "2454": {
+    "f": 148,
+    "t": -123,
+    "all": 4
+   },
+   "4722": {
+    "f": -107,
+    "t": 0,
+    "all": -126
+   },
+   "2308": {
+    "f": -1167,
+    "t": 170,
+    "all": -830
+   },
+   "2327": {
+    "f": -10378,
+    "t": 229,
+    "all": -10294
    }
   },
-  "totalNetE": 892.5
+  "totalNetE": 220.0
  }
 }
