@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 00:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 00:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,85 +212,85 @@
   },
   {
    "s": "AAPL",
-   "p": 303.39,
-   "c": 0.38,
+   "p": 303.61,
+   "c": 0.45,
    "a50": 309.24,
    "a200": 280.29,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 319.73,
-   "r": 41.3
+   "a20": 319.74,
+   "r": 41.5
   },
   {
    "s": "NVDA",
-   "p": 224.78,
-   "c": 0.31,
-   "a50": 206.3,
+   "p": 225.31,
+   "c": 0.54,
+   "a50": 206.31,
    "a200": 194.75,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 209.25,
-   "r": 62.9
+   "a20": 209.28,
+   "r": 63.2
   },
   {
    "s": "TSLA",
-   "p": 333.6,
-   "c": 1.86,
-   "a50": 372.59,
+   "p": 334.65,
+   "c": 2.18,
+   "a50": 372.61,
    "a200": 406.6,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.75,
-   "r": 44.7
+   "a20": 330.8,
+   "r": 45.2
   },
   {
    "s": "META",
-   "p": 586.43,
-   "c": 1.31,
+   "p": 586.9,
+   "c": 1.39,
    "a50": 597.63,
    "a200": 628.4,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 597.05,
-   "r": 46.5
+   "a20": 597.07,
+   "r": 46.6
   },
   {
    "s": "^TWII",
    "p": 45518.07,
    "c": 0.88,
-   "a50": 44790.21,
-   "a200": 35721.59,
+   "a50": 44820.79,
+   "a200": 35465.79,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43609.44,
-   "r": 57.4
+   "a20": 43788.03,
+   "r": 56.4
   },
   {
    "s": "^GSPC",
-   "p": 7780.85,
-   "c": 0.42,
-   "a50": 7507.38,
-   "a200": 7070.26,
-   "yh": 7780.85,
+   "p": 7786.79,
+   "c": 0.49,
+   "a50": 7507.5,
+   "a200": 7070.29,
+   "yh": 7786.79,
    "yl": 6343.72,
-   "a20": 7567.68,
-   "r": 66.4
+   "a20": 7567.98,
+   "r": 66.7
   },
   {
    "s": "^VIX",
-   "p": 14.65,
-   "c": 0.69,
+   "p": 14.7,
+   "c": 1.03,
    "a50": 17.22,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.86,
-   "r": 41.6
+   "r": 41.9
   },
   {
    "s": "BZ=F",
-   "p": 88.31,
-   "c": -0.75,
+   "p": 88.26,
+   "c": -0.81,
    "a50": 84.16,
    "a200": 81.64,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4418.1,
-   "c": 0.21,
-   "a50": 4160.23,
-   "a200": 4484.65,
+   "p": 4408.9,
+   "c": 0.0,
+   "a50": 4160.04,
+   "a200": 4484.6,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4158.97,
-   "r": 68.8
+   "a20": 4158.5,
+   "r": 68.3
   },
   {
    "s": "HG=F",
-   "p": 6.61,
-   "c": 0.12,
+   "p": 6.6,
+   "c": 0.01,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 59.8
+   "r": 59.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03115265,
-   "c": 0.33,
+   "c": 0.34,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "Mortgage rates see first drop in six weeks: Mortgage and refinance interest rates today, Thursday, August 13, 2026",
+   "t": "AMD looks to raise $4 billion to $5 billion in debt offering, source says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-see-first-drop-in-six-weeks-mortgage-and-refinance-interest-rates-today-thursday-august-13-2026-100000704.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amd-looks-raise-4-billion-160009191.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "Cisco Earnings Beat, But Shares Are Tumbling. Here's Why.",
+   "t": "Michael Burry doubles down on Nvidia short after $500B chip deal he calls a 'Wall Street stunt' with 'shades of Enron'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/cisco-stock-csco-cisco-earnings-q22026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-nvidia-160000531.html"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
   },
   {
-   "t": "Microchip Technology (MCHP) Signals Cyclical Recovery with Q4 Beat and Strong Guidance",
+   "t": "Mortgage rates see first drop in six weeks: Mortgage and refinance interest rates today, Thursday, August 13, 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/microchip-technology-mchp-signals-cyclical-154909053.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-see-first-drop-in-six-weeks-mortgage-and-refinance-interest-rates-today-thursday-august-13-2026-100000704.html"
   },
   {
    "t": "威力彩第115065期　頭獎槓龜",
