@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-08-13 12:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 12:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2425.0,
-   "c": 0.41,
-   "a50": 2381.9,
-   "a200": 1939.82,
+   "p": 2430.0,
+   "c": 0.62,
+   "a50": 2382.0,
+   "a200": 1939.85,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2354.0,
-   "r": 54.8
+   "a20": 2354.25,
+   "r": 55.2
   },
   {
    "s": "2317.TW",
-   "p": 262.0,
-   "c": -2.96,
-   "a50": 253.46,
+   "p": 262.5,
+   "c": -2.78,
+   "a50": 253.47,
    "a200": 235.5,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 251.48,
-   "r": 55.9
+   "a20": 251.5,
+   "r": 56.3
   },
   {
    "s": "2308.TW",
@@ -58,14 +58,14 @@
   },
   {
    "s": "1802.TW",
-   "p": 57.2,
-   "c": -0.69,
+   "p": 57.5,
+   "c": -0.17,
    "a50": 61.01,
    "a200": 52.13,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.24,
-   "r": 52.5
+   "a20": 52.25,
+   "r": 53.1
   },
   {
    "s": "6862.TW",
@@ -80,47 +80,47 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.0,
-   "c": -1.2,
+   "p": 40.95,
+   "c": -1.33,
    "a50": 43.53,
    "a200": 48.84,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.42,
-   "r": 49.4
+   "a20": 39.41,
+   "r": 49.2
   },
   {
    "s": "4722.TW",
-   "p": 209.5,
-   "c": -0.24,
-   "a50": 240.41,
+   "p": 210.0,
+   "c": 0.0,
+   "a50": 240.42,
    "a200": 199.22,
    "yh": 306.5,
    "yl": 83.6,
-   "a20": 205.5,
-   "r": 46.0
+   "a20": 205.52,
+   "r": 46.2
   },
   {
    "s": "6706.TW",
-   "p": 122.5,
-   "c": -1.21,
-   "a50": 136.28,
+   "p": 122.0,
+   "c": -1.61,
+   "a50": 136.27,
    "a200": 126.1,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 108.72,
-   "r": 52.6
+   "a20": 108.7,
+   "r": 52.2
   },
   {
    "s": "2305.TW",
-   "p": 30.05,
-   "c": 8.09,
+   "p": 30.2,
+   "c": 8.63,
    "a50": 31.96,
    "a200": 18.45,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 30.26,
-   "r": 48.8
+   "a20": 30.27,
+   "r": 49.1
   },
   {
    "s": "6442.TW",
@@ -135,14 +135,14 @@
   },
   {
    "s": "6515.TW",
-   "p": 6720.0,
-   "c": -6.28,
-   "a50": 7713.0,
-   "a200": 5970.78,
+   "p": 6800.0,
+   "c": -5.16,
+   "a50": 7714.6,
+   "a200": 5971.18,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6395.0,
-   "r": 47.4
+   "a20": 6399.0,
+   "r": 48.3
   },
   {
    "s": "6446.TW",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 6665.0,
-   "c": 0.98,
-   "a50": 6211.4,
-   "a200": 3997.1,
+   "p": 6675.0,
+   "c": 1.14,
+   "a50": 6211.6,
+   "a200": 3997.15,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5839.75,
-   "r": 59.3
+   "a20": 5840.25,
+   "r": 59.4
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45939.71,
-   "c": 0.93,
-   "a50": 44797.86,
-   "a200": 35814.91,
+   "p": 45995.14,
+   "c": 1.05,
+   "a50": 44798.97,
+   "a200": 35815.19,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43625.18,
-   "r": 59.3
+   "a20": 43627.95,
+   "r": 59.5
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.5,
-   "c": -0.54,
+   "p": 88.72,
+   "c": -0.29,
    "a50": 84.16,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.25,
-   "r": 53.5
+   "a20": 88.26,
+   "r": 53.9
   },
   {
    "s": "GC=F",
-   "p": 4454.0,
-   "c": 1.02,
-   "a50": 4160.95,
-   "a200": 4484.83,
+   "p": 4452.6,
+   "c": 0.99,
+   "a50": 4160.92,
+   "a200": 4484.82,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4160.76,
-   "r": 70.5
+   "a20": 4160.69,
+   "r": 70.4
   },
   {
    "s": "HG=F",
-   "p": 6.56,
-   "c": -0.62,
+   "p": 6.55,
+   "c": -0.67,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 56.6
+   "r": 56.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03109453,
-   "c": 0.16,
+   "p": 0.0311042,
+   "c": 0.18,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130042.aspx"
   },
   {
-   "t": "NYPD investigates gold bar scam that has stolen more than $100 million from retirees.",
+   "t": "US existing home sales fall further; small business sentiment at 11-month high",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/nypd-investigates-gold-bar-scam-161500522.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/us-existing-home-sales-post-140755961.html"
   },
   {
    "t": "台股早盤漲逾680點　越過46200點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130037.aspx"
   },
   {
-   "t": "Jim Cramer Weighs In on SoFi’s (SOFI) $16–$19 Range",
+   "t": "A town outside of Boston is the hottest ZIP code in the US — you may need $50,000 over asking price to buy a home there",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-sofi-sofi-161447804.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/town-outside-boston-hottest-zip-163500603.html"
   },
   {
    "t": "AI晶片競爭升溫　Cerebras營收不如預期股價重挫",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130036.aspx"
   },
   {
-   "t": "Skip short-term gains: Jim Cramer says retirement wealth comes down to 3 key assets. Do you own the right ones?",
+   "t": "Walmart Earnings Are Due. This Short-Term Options Trade Could Post A 14% Return.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/skip-short-term-gains-jim-162000487.html"
+   "u": "https://www.investors.com/research/options/walmart-stock-wmt-retail-earnings-options-trade-markets-strategy-income-return/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股開盤漲158.47點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130033.aspx"
   },
   {
-   "t": "Michael Burry Took a Bearish Bet Against Oracle. Here’s What It Means for ORCL Stock.",
+   "t": "Why Did The Pentagon Just Hand Lockheed Martin (LMT) $58.62B?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-took-bearish-bet-161440991.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-did-pentagon-just-hand-163937740.html"
   },
   {
    "t": "新台幣開盤升2.6分　為32.22元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130032.aspx"
   },
   {
-   "t": "Why Sea Limited Stock Rocketed Higher on Tuesday",
+   "t": "Coupang Keeps Falling: Why One Analyst Expects the Amazon of South Korea to Jump Nearly 100%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-sea-limited-stock-rocketed-161731635.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/coupang-keeps-falling-why-one-163009565.html"
   }
  ],
  "inst": {
