@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 03:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 03:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 304.35,
-   "c": 0.69,
+   "p": 304.14,
+   "c": 0.63,
    "a50": 309.26,
    "a200": 280.29,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 319.77,
-   "r": 42.2
+   "a20": 319.76,
+   "r": 42.0
   },
   {
    "s": "NVDA",
-   "p": 225.92,
-   "c": 0.82,
+   "p": 225.8,
+   "c": 0.76,
    "a50": 206.32,
    "a200": 194.75,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 338.85,
-   "c": 3.46,
+   "p": 338.99,
+   "c": 3.51,
    "a50": 372.69,
-   "a200": 406.62,
+   "a200": 406.63,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 331.01,
-   "r": 47.2
+   "a20": 331.02,
+   "r": 47.3
   },
   {
    "s": "META",
-   "p": 595.35,
-   "c": 2.85,
-   "a50": 597.8,
-   "a200": 628.44,
+   "p": 593.78,
+   "c": 2.58,
+   "a50": 597.77,
+   "a200": 628.43,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 597.5,
-   "r": 49.3
+   "a20": 597.42,
+   "r": 48.8
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7804.23,
-   "c": 0.72,
-   "a50": 7507.85,
-   "a200": 7070.38,
-   "yh": 7804.23,
+   "p": 7800.26,
+   "c": 0.67,
+   "a50": 7513.61,
+   "a200": 7059.01,
+   "yh": 7800.26,
    "yl": 6343.72,
-   "a20": 7568.85,
-   "r": 67.6
+   "a20": 7576.25,
+   "r": 67.3
   },
   {
    "s": "^VIX",
-   "p": 14.77,
-   "c": 1.51,
-   "a50": 17.22,
+   "p": 14.73,
+   "c": 1.24,
+   "a50": 17.17,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.86,
-   "r": 42.2
+   "a20": 16.82,
+   "r": 41.7
   },
   {
    "s": "BZ=F",
-   "p": 87.1,
-   "c": -2.11,
+   "p": 87.05,
+   "c": -2.17,
    "a50": 84.13,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.18,
-   "r": 51.5
+   "a20": 88.17,
+   "r": 51.4
   },
   {
    "s": "GC=F",
-   "p": 4403.4,
-   "c": -0.12,
-   "a50": 4159.93,
-   "a200": 4484.58,
+   "p": 4406.3,
+   "c": -0.06,
+   "a50": 4159.99,
+   "a200": 4484.59,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4158.23,
-   "r": 67.7
+   "a20": 4158.37,
+   "r": 68.0
   },
   {
    "s": "HG=F",
    "p": 6.58,
-   "c": -0.22,
+   "c": -0.2,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 58.4
+   "r": 58.5
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130353.aspx"
   },
   {
-   "t": "Experts say putting every dollar toward $35,000 in credit card debt could backfire — here's another approach",
+   "t": "Morning Bid: Inflation obscures all",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/experts-putting-every-dollar-toward-103500069.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/morning-bid-inflation-obscures-104502792.html"
   },
   {
    "t": "市場衡量油價走跌和美國PPI指數　美股開盤小漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "Morning Bid: Inflation obscures all",
+   "t": "Marc Benioff says experts are wrong about tech job deaths to AI, but backs startup replacing workers with AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/morning-bid-inflation-obscures-104502792.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/marc-benioff-says-experts-wrong-104500039.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "Nasdaq Futures Climb as CoreWeave and Super Micro Provide a Boost, U.S. Inflation Data in Focus",
+   "t": "What do a Couple of Carls Have to Say About Wednesday's \"Market Moving\" Government Numbers?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-coreweave-super-103334426.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/couple-carls-wednesdays-market-moving-105739758.html"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
   },
   {
-   "t": "Marc Benioff says experts are wrong about tech job deaths to AI, but backs startup replacing workers with AI",
+   "t": "The Low-Cost VIX Hedge Most Options Traders Ignore",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/marc-benioff-says-experts-wrong-104500039.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/low-cost-vix-hedge-most-110002535.html"
   },
   {
    "t": "威力彩第115065期　頭獎槓龜",
