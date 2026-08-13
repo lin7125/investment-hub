@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 14:44（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 14:54（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.92,
-   "c": -0.07,
-   "a50": 84.17,
+   "p": 88.67,
+   "c": -0.35,
+   "a50": 84.16,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.27,
-   "r": 54.2
+   "a20": 88.26,
+   "r": 53.8
   },
   {
    "s": "GC=F",
-   "p": 4427.8,
-   "c": 0.43,
-   "a50": 4160.42,
-   "a200": 4484.7,
+   "p": 4430.7,
+   "c": 0.49,
+   "a50": 4160.48,
+   "a200": 4484.71,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4159.45,
-   "r": 69.3
+   "a20": 4159.6,
+   "r": 69.4
   },
   {
    "s": "HG=F",
@@ -322,7 +322,7 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03109453,
+   "p": 0.03108486,
    "c": 0.14,
    "a50": 0.03124024,
    "a200": 0.03161555,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "藥華藥與子公司資訊系統遭駭　評估營運無重大影響",
+   "t": "8月台股期指漲489點",
    "pub": "中央社財經",
    "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/afe/202608130106.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608130152.aspx"
   },
   {
    "t": "Bank of America sends blunt message to Nvidia stock investors",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-blunt-message-174700491.html"
   },
   {
-   "t": "116年健保總額成長率高推估5.5%　規模突破兆元",
+   "t": "8月電子期漲　金融期跌",
    "pub": "中央社財經",
    "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/afe/202608130094.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608130150.aspx"
   },
   {
    "t": "Limited-time offer: Earn a bigger cash bonus on everyday spending with these Capital One credit cards",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/limited-time-offer-earn-a-bigger-cash-bonus-on-everyday-spending-with-these-capital-one-credit-cards-182644810.html"
   },
   {
-   "t": "新台幣午盤升7.9分　暫收32.167元",
+   "t": "薪酬爭議延燒　國票證撤回副董事長續任案",
    "pub": "中央社財經",
    "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/afe/202608130082.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608130145.aspx"
   },
   {
    "t": "Cathie Wood Is Dumping More Palantir Shares. But Revenue Growth and Swelling Cash Flows Bode Well for PLTR Stock.",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumping-more-palantir-184403363.html"
   },
   {
-   "t": "AI交易回溫韓股領漲科技股　KOSPI大漲近4%",
+   "t": "台股漲503.41點站上46000點",
    "pub": "中央社財經",
    "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/afe/202608130075.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608130141.aspx"
   },
   {
    "t": "Crude Prices Settle Higher as Middle East Supplies Tighten",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/energy/articles/crude-prices-settle-higher-middle-191539221.html"
   },
   {
-   "t": "裕隆擴大太陽能發電　拓展儲能和能源市場",
+   "t": "台股漲503.41點",
    "pub": "中央社財經",
    "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/afe/202608130073.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608130140.aspx"
   },
   {
    "t": "Nat-Gas Prices Slip on the Outlook for Robust US Storage",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-slip-outlook-191421446.html"
   },
   {
-   "t": "台股走高登46000點　科技股強勢",
+   "t": "房仲：房市冷颼颼  北市新推案以低總價吸引買氣",
    "pub": "中央社財經",
    "d": "2026-08-13",
-   "u": "https://www.cna.com.tw/news/afe/202608130064.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608130130.aspx"
   },
   {
    "t": "Peter Thiel-backed company faces Q2 reality check before earnings",
