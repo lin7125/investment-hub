@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 00:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 00:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 303.17,
-   "c": 0.3,
+   "p": 303.39,
+   "c": 0.38,
    "a50": 309.24,
    "a200": 280.29,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 319.71,
-   "r": 41.1
+   "a20": 319.73,
+   "r": 41.3
   },
   {
    "s": "NVDA",
-   "p": 225.08,
-   "c": 0.44,
-   "a50": 206.31,
+   "p": 224.78,
+   "c": 0.31,
+   "a50": 206.3,
    "a200": 194.75,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 209.27,
-   "r": 63.1
+   "a20": 209.25,
+   "r": 62.9
   },
   {
    "s": "TSLA",
-   "p": 334.17,
-   "c": 2.03,
-   "a50": 372.6,
+   "p": 333.6,
+   "c": 1.86,
+   "a50": 372.59,
    "a200": 406.6,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.78,
-   "r": 45.0
+   "a20": 330.75,
+   "r": 44.7
   },
   {
    "s": "META",
-   "p": 586.92,
-   "c": 1.4,
-   "a50": 597.64,
+   "p": 586.43,
+   "c": 1.31,
+   "a50": 597.63,
    "a200": 628.4,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 597.08,
-   "r": 46.6
+   "a20": 597.05,
+   "r": 46.5
   },
   {
    "s": "^TWII",
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7783.38,
-   "c": 0.45,
-   "a50": 7507.44,
-   "a200": 7070.27,
-   "yh": 7783.38,
+   "p": 7780.85,
+   "c": 0.42,
+   "a50": 7507.38,
+   "a200": 7070.26,
+   "yh": 7780.85,
    "yl": 6343.72,
-   "a20": 7567.81,
-   "r": 66.5
+   "a20": 7567.68,
+   "r": 66.4
   },
   {
    "s": "^VIX",
-   "p": 14.68,
-   "c": 0.89,
+   "p": 14.65,
+   "c": 0.69,
    "a50": 17.22,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.86,
-   "r": 41.8
+   "r": 41.6
   },
   {
    "s": "BZ=F",
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4422.1,
-   "c": 0.3,
-   "a50": 4160.31,
-   "a200": 4484.67,
+   "p": 4418.1,
+   "c": 0.21,
+   "a50": 4160.23,
+   "a200": 4484.65,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4159.17,
-   "r": 69.0
+   "a20": 4158.97,
+   "r": 68.8
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": 0.11,
+   "p": 6.61,
+   "c": 0.12,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03114295,
-   "c": 0.31,
+   "p": 0.03115265,
+   "c": 0.33,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130353.aspx"
   },
   {
-   "t": "Loss of Market Share in U.S. Antitrust Consulting Pressures FTI Consulting’s (FCN) Top-Line Performance",
+   "t": "Stock market today: S&P 500 and Nasdaq gain on soft inflation data, Dow dips",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/loss-market-share-u-antitrust-154703520.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-and-nasdaq-gain-on-soft-inflation-data-dow-dips-100145282.html"
   },
   {
    "t": "市場衡量油價走跌和美國PPI指數　美股開盤小漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130352.aspx"
   },
   {
-   "t": "Knight-Swift Transportation Holdings (KNX) Gains from Pricing Power",
+   "t": "Mortgage rates see first drop in six weeks: Mortgage and refinance interest rates today, Thursday, August 13, 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/knight-swift-transportation-holdings-knx-154449690.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-see-first-drop-in-six-weeks-mortgage-and-refinance-interest-rates-today-thursday-august-13-2026-100000704.html"
   },
   {
    "t": "美7月PPI年增4.7%　能源價格下跌助通膨放緩",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608130350.aspx"
   },
   {
-   "t": "The Strategy Holds Firm on L3Harris Technologies (LHX)",
+   "t": "Cisco Earnings Beat, But Shares Are Tumbling. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/strategy-holds-firm-l3harris-technologies-154059875.html"
+   "u": "https://www.investors.com/news/technology/cisco-stock-csco-cisco-earnings-q22026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115196期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130349.aspx"
   },
   {
-   "t": "Claude AI Just Sold ServiceNow and Inter & Co — Should You Too?",
+   "t": "Microchip Technology (MCHP) Signals Cyclical Recovery with Q4 Beat and Strong Guidance",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/claude-ai-just-sold-servicenow-153139629.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/microchip-technology-mchp-signals-cyclical-154909053.html"
   },
   {
    "t": "威力彩第115065期　頭獎槓龜",
