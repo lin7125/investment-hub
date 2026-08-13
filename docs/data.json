@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 15:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 15:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.0,
-   "c": 0.0,
+   "p": 50.3,
+   "c": 0.6,
    "a50": 61.64,
-   "a200": 41.29,
+   "a200": 41.3,
    "yh": 165.0,
    "yl": 6.99,
-   "a20": 47.36,
-   "r": 45.9
+   "a20": 47.38,
+   "r": 46.3
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46021.48,
-   "c": 1.11,
-   "a50": 44799.5,
-   "a200": 35815.32,
+   "p": 45518.07,
+   "c": 0.88,
+   "a50": 44790.21,
+   "a200": 35721.59,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43629.27,
-   "r": 59.6
+   "a20": 43609.44,
+   "r": 57.4
   },
   {
    "s": "^GSPC",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.59,
-   "c": -0.44,
+   "p": 88.54,
+   "c": -0.49,
    "a50": 84.16,
    "a200": 81.64,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.25,
-   "r": 53.7
+   "r": 53.6
   },
   {
    "s": "GC=F",
-   "p": 4436.6,
+   "p": 4436.8,
    "c": 0.63,
    "a50": 4160.6,
    "a200": 4484.74,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4159.89,
+   "a20": 4159.9,
    "r": 69.7
   },
   {
    "s": "HG=F",
-   "p": 6.55,
-   "c": -0.68,
+   "p": 6.54,
+   "c": -0.92,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 56.3
+   "r": 55.4
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130145.aspx"
   },
   {
-   "t": "Are you saving enough for retirement? Here's how to tell.",
+   "t": "The M7 By The Numbers 2026: MBA Hiring Rebounds, Pay Holds Strong",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/are-you-saving-enough-for-retirement-heres-how-to-tell-184639709.html"
+   "u": "https://finance.yahoo.com/small-business/articles/m7-numbers-2026-mba-hiring-190754075.html"
   },
   {
    "t": "台股漲503.41點站上46000點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130141.aspx"
   },
   {
-   "t": "Can Gold Make a New High in 2026?",
+   "t": "Are you saving enough for retirement? Here's how to tell.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-high-2026-190002769.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/are-you-saving-enough-for-retirement-heres-how-to-tell-184639709.html"
   },
   {
    "t": "台股漲503.41點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130140.aspx"
   },
   {
-   "t": "The M7 By The Numbers 2026: MBA Hiring Rebounds, Pay Holds Strong",
+   "t": "As Greg Abel Deploys Cash, Michael Burry Argues Berkshire Hathaway Is No Longer 'An Attractive Investment'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/m7-numbers-2026-mba-hiring-190754075.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-deploys-cash-michael-190927387.html"
   },
   {
    "t": "房仲：房市冷颼颼  北市新推案以低總價吸引買氣",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130130.aspx"
   },
   {
-   "t": "Edward Jones Posts Record $5B in Quarterly Revenue",
+   "t": "This Unloved Dividend Stock Is Secretly Powering the AI Revolution",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/edward-jones-posts-record-5b-185756021.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/unloved-dividend-stock-secretly-powering-191000840.html"
   }
  ],
  "inst": {
