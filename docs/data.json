@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13 22:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-13 22:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,7 +212,7 @@
   },
   {
    "s": "AAPL",
-   "p": 304.96,
+   "p": 304.97,
    "c": 0.9,
    "a50": 309.27,
    "a200": 280.3,
@@ -223,84 +223,84 @@
   },
   {
    "s": "NVDA",
-   "p": 226.11,
-   "c": 0.9,
-   "a50": 206.33,
-   "a200": 194.76,
+   "p": 225.4,
+   "c": 0.58,
+   "a50": 206.31,
+   "a200": 194.75,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 209.32,
-   "r": 63.7
+   "a20": 209.28,
+   "r": 63.3
   },
   {
    "s": "TSLA",
-   "p": 333.21,
-   "c": 1.74,
-   "a50": 372.58,
+   "p": 334.04,
+   "c": 1.99,
+   "a50": 372.6,
    "a200": 406.6,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.73,
-   "r": 44.5
+   "a20": 330.77,
+   "r": 44.9
   },
   {
    "s": "META",
-   "p": 590.48,
-   "c": 2.01,
-   "a50": 597.71,
-   "a200": 628.42,
+   "p": 589.05,
+   "c": 1.76,
+   "a50": 597.68,
+   "a200": 628.41,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 597.25,
-   "r": 47.8
+   "a20": 597.18,
+   "r": 47.3
   },
   {
    "s": "^TWII",
    "p": 46021.48,
    "c": 1.11,
-   "a50": 44868.49,
-   "a200": 35559.39,
+   "a50": 44799.5,
+   "a200": 35815.32,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43820.07,
-   "r": 58.5
+   "a20": 43629.27,
+   "r": 59.6
   },
   {
    "s": "^GSPC",
-   "p": 7816.13,
-   "c": 0.87,
-   "a50": 7513.93,
-   "a200": 7059.09,
-   "yh": 7816.13,
+   "p": 7806.4,
+   "c": 0.75,
+   "a50": 7513.73,
+   "a200": 7059.04,
+   "yh": 7806.4,
    "yl": 6343.72,
-   "a20": 7577.04,
-   "r": 68.1
+   "a20": 7576.56,
+   "r": 67.6
   },
   {
    "s": "^VIX",
-   "p": 14.74,
-   "c": 1.31,
-   "a50": 17.17,
+   "p": 14.76,
+   "c": 1.44,
+   "a50": 17.22,
    "a200": 18.54,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.82,
-   "r": 41.7
+   "a20": 16.86,
+   "r": 42.2
   },
   {
    "s": "BZ=F",
-   "p": 86.43,
-   "c": -2.87,
+   "p": 86.57,
+   "c": -2.71,
    "a50": 84.12,
    "a200": 81.63,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.14,
-   "r": 50.6
+   "a20": 88.15,
+   "r": 50.8
   },
   {
    "s": "GC=F",
-   "p": 4432.2,
+   "p": 4432.1,
    "c": 0.53,
    "a50": 4160.51,
    "a200": 4484.72,
@@ -312,18 +312,18 @@
   {
    "s": "HG=F",
    "p": 6.62,
-   "c": 0.33,
+   "c": 0.39,
    "a50": 6.35,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 60.5
+   "r": 60.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03117207,
-   "c": 0.41,
+   "p": 0.03116236,
+   "c": 0.37,
    "a50": 0.03124024,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130330.aspx"
   },
   {
-   "t": "Patriots and THAAD: Lockheed Martin Corporation (LMT) and Northrop Grumman Corporation (NOC) Bet Big on Missile Defense Surge",
+   "t": "Nvidia bulls may have a small problem on their hands",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/patriots-thaad-lockheed-martin-corporation-140553456.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/nvidia-bulls-may-have-a-small-problem-on-their-hands-142341243.html"
   },
   {
    "t": "3大境外金融中心上半年賺18.5億美元　創5年新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608130328.aspx"
   },
   {
-   "t": "Molina Healthcare (MOH) Surged on Medicaid Clarity and Robust Results",
+   "t": "Databricks valued at $190 billion in latest funding round",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/molina-healthcare-moh-surged-medicaid-140522775.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/databricks-valued-190-billion-latest-142120377.html"
   },
   {
    "t": "威力彩第115065期開獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130327.aspx"
   },
   {
-   "t": "Tech stocks today: Anthropic investors aiming for $2 trillion IPO",
+   "t": "Zerohash Fails To Secure U.S. Trust Bank Charter",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-anthropic-investors-aiming-for-2-trillion-ipo-135605566.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/zerohash-fails-secure-u-trust-140800122.html"
   },
   {
    "t": "今彩539第115196期開獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608130326.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Rises On Surprise Inflation Data; Cisco, AI Name Dive On Earnings (Live Coverage)",
+   "t": "Patriots and THAAD: Lockheed Martin Corporation (LMT) and Northrop Grumman Corporation (NOC) Bet Big on Missile Defense Surge",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-cisco-cerebras-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/patriots-thaad-lockheed-martin-corporation-140553456.html"
   },
   {
    "t": "群聯上半年每股純益187.43元　配息60元",
