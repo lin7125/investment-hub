@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-15 04:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-15 04:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.27,
-   "c": -2.46,
+   "p": 14.25,
+   "c": -2.6,
    "a50": 17.18,
    "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.63,
-   "r": 40.2
+   "r": 40.1
   },
   {
    "s": "BZ=F",
-   "p": 88.58,
-   "c": 1.73,
-   "a50": 83.95,
+   "p": 88.46,
+   "c": 1.6,
+   "a50": 83.94,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.2,
-   "r": 53.5
+   "a20": 88.19,
+   "r": 53.4
   },
   {
    "s": "GC=F",
-   "p": 4428.3,
-   "c": 1.48,
-   "a50": 4158.97,
-   "a200": 4486.51,
+   "p": 4429.5,
+   "c": 1.51,
+   "a50": 4158.99,
+   "a200": 4486.52,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.02,
-   "r": 67.1
+   "a20": 4177.08,
+   "r": 67.2
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": 0.17,
+   "p": 6.61,
+   "c": 0.2,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 59.7
+   "r": 59.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03124024,
-   "c": 0.61,
+   "p": 0.03125,
+   "c": 0.62,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140360.aspx"
   },
   {
-   "t": "Sea Limited (SE) Jumped 15%, But Can the Rally Last?",
+   "t": "On Holding (ONON) Just Had Its Worst Trading Day Ever. Did Investors Overreact?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sea-limited-se-jumped-15-103539040.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-just-had-worst-104756485.html"
   },
   {
    "t": "今彩539第115197期　頭獎2注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
   },
   {
-   "t": "Stocks Rise Before the Open as Oil Prices Ease, U.S. PPI Data on Deck",
+   "t": "Morning Bid: Brief relief",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-open-oil-prices-103720929.html"
+   "u": "https://finance.yahoo.com/news/morning-bid-brief-relief-104941133.html"
   },
   {
    "t": "大樂透第115079期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "On Holding (ONON) Just Had Its Worst Trading Day Ever. Did Investors Overreact?",
+   "t": "Stocks Rise Before the Open as Oil Prices Ease, U.S. PPI Data on Deck",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-just-had-worst-104756485.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-open-oil-prices-103720929.html"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "Morning Bid: Brief relief",
+   "t": "UK regulator, crypto exchange HTX locked in settlement talks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/morning-bid-brief-relief-104941133.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/uk-regulator-crypto-exchange-htx-105912138.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "Fidelity Just Filed to Let Its Crypto Ethereum ETF Stake 100% of Its Holdings",
+   "t": "Exclusive: Scott Bessent Says K-Shaped Economy Is Over, but Wall Street Veteran Says Wealth Divide Is Worsening: ‘50% of Americans Own No Stocks and Are Getting Left Behind’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/fidelity-just-filed-let-crypto-104033292.html"
+   "u": "https://finance.yahoo.com/economy/articles/exclusive-scott-bessent-says-k-104617437.html"
   }
  ],
  "inst": {
