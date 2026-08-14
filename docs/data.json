@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 23:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 23:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,118 +212,118 @@
   },
   {
    "s": "AAPL",
-   "p": 305.55,
-   "c": 0.1,
-   "a50": 309.18,
+   "p": 305.76,
+   "c": 0.16,
+   "a50": 309.19,
    "a200": 280.48,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 318.41,
-   "r": 43.3
+   "a20": 318.42,
+   "r": 43.5
   },
   {
    "s": "NVDA",
-   "p": 225.41,
-   "c": 0.05,
-   "a50": 206.52,
+   "p": 224.85,
+   "c": -0.2,
+   "a50": 206.51,
    "a200": 194.92,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 210.41,
-   "r": 63.3
+   "a20": 210.38,
+   "r": 62.7
   },
   {
    "s": "TSLA",
-   "p": 336.43,
-   "c": -1.04,
-   "a50": 370.97,
-   "a200": 406.05,
+   "p": 337.4,
+   "c": -0.75,
+   "a50": 370.99,
+   "a200": 406.06,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 328.85,
-   "r": 46.2
+   "a20": 328.9,
+   "r": 46.6
   },
   {
    "s": "META",
-   "p": 593.15,
-   "c": -0.31,
-   "a50": 597.2,
-   "a200": 627.65,
+   "p": 594.27,
+   "c": -0.12,
+   "a50": 597.22,
+   "a200": 627.66,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 594.84,
-   "r": 48.6
+   "a20": 594.89,
+   "r": 48.9
   },
   {
    "s": "^TWII",
    "p": 45811.01,
    "c": -0.46,
-   "a50": 44786.53,
-   "a200": 35906.14,
+   "a50": 44890.05,
+   "a200": 35653.83,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43786.26,
-   "r": 58.3
+   "a20": 43873.73,
+   "r": 57.3
   },
   {
    "s": "^GSPC",
-   "p": 7783.49,
-   "c": -0.2,
-   "a50": 7512.34,
-   "a200": 7074.89,
+   "p": 7780.84,
+   "c": -0.23,
+   "a50": 7517.6,
+   "a200": 7064.41,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7584.88,
-   "r": 65.7
+   "a20": 7588.05,
+   "r": 65.3
   },
   {
    "s": "^VIX",
-   "p": 14.5,
-   "c": -0.89,
-   "a50": 17.18,
+   "p": 14.54,
+   "c": -0.62,
+   "a50": 17.15,
    "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.64,
-   "r": 41.0
+   "a20": 16.72,
+   "r": 40.8
   },
   {
    "s": "BZ=F",
-   "p": 87.65,
-   "c": 0.67,
+   "p": 87.95,
+   "c": 1.01,
    "a50": 83.93,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.15,
-   "r": 52.3
+   "a20": 88.17,
+   "r": 52.7
   },
   {
    "s": "GC=F",
-   "p": 4444.3,
-   "c": 1.85,
+   "p": 4444.1,
+   "c": 1.84,
    "a50": 4159.29,
    "a200": 4486.59,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.82,
-   "r": 67.9
+   "a20": 4177.81,
+   "r": 67.8
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 0.03,
+   "c": -0.06,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 59.2
+   "r": 58.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03126954,
-   "c": 0.71,
+   "c": 0.69,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Steady After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)",
+   "t": "China's courts rule workers can't be fired just because AI replaced them — and the US has no such protections",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/ai/articles/chinas-courts-rule-workers-cant-153000752.html"
   },
   {
    "t": "大樂透第115079期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
+   "t": "Stock Market Today: Dow Steady After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "Hims & Hers (HIMS) Raised Guidance. Can Growth Survive Its GLP-1 Margin Reset?",
+   "t": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/hims-hers-hims-raised-guidance-151415471.html"
+   "u": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "Rocket Lab (RKLB) Set a Revenue Record. Is Neutron Slipping Into 2027?",
+   "t": "Hims & Hers (HIMS) Raised Guidance. Can Growth Survive Its GLP-1 Margin Reset?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-set-revenue-150334121.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/hims-hers-hims-raised-guidance-151415471.html"
   },
   {
    "t": "台灣大上修全年獲利財測　電信業務營利拚年增15%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140340.aspx"
   },
   {
-   "t": "ResMed (RMD) Q4 2026 Earnings Call Transcript",
+   "t": "GDS (GDS) Q2 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/resmed-rmd-q4-2026-earnings-151328568.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/gds-gds-q2-2026-earnings-151812014.html"
   }
  ],
  "inst": {
