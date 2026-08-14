@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-15 04:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-15 04:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,14 +212,14 @@
   },
   {
    "s": "AAPL",
-   "p": 305.69,
-   "c": 0.14,
+   "p": 305.93,
+   "c": 0.22,
    "a50": 309.19,
    "a200": 280.48,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 318.42,
-   "r": 43.4
+   "a20": 318.43,
+   "r": 43.7
   },
   {
    "s": "NVDA",
@@ -258,67 +258,67 @@
    "s": "^TWII",
    "p": 46021.48,
    "c": 1.11,
-   "a50": 44868.49,
-   "a200": 35559.39,
+   "a50": 44799.5,
+   "a200": 35815.32,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43820.07,
-   "r": 58.5
+   "a20": 43629.27,
+   "r": 59.6
   },
   {
    "s": "^GSPC",
-   "p": 7785.73,
+   "p": 7785.76,
    "c": -0.17,
    "a50": 7512.39,
    "a200": 7074.9,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7584.99,
+   "a20": 7585.0,
    "r": 65.9
   },
   {
    "s": "^VIX",
-   "p": 14.21,
-   "c": -2.87,
+   "p": 14.29,
+   "c": -2.32,
    "a50": 17.18,
    "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.63,
-   "r": 40.0
+   "r": 40.3
   },
   {
    "s": "BZ=F",
-   "p": 88.53,
-   "c": 1.68,
-   "a50": 83.95,
+   "p": 88.45,
+   "c": 1.58,
+   "a50": 83.94,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.2,
-   "r": 53.4
+   "a20": 88.19,
+   "r": 53.3
   },
   {
    "s": "GC=F",
-   "p": 4434.7,
-   "c": 1.63,
-   "a50": 4159.1,
-   "a200": 4486.54,
+   "p": 4429.8,
+   "c": 1.52,
+   "a50": 4159.0,
+   "a200": 4486.52,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.34,
-   "r": 67.4
+   "a20": 4177.09,
+   "r": 67.2
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.11,
+   "c": 0.17,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 59.5
+   "r": 59.7
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140360.aspx"
   },
   {
-   "t": "Dave Bautista 'lost everything' including his home post-WWE, but the Undertaker's money advice saved him",
+   "t": "Rollins Stock: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/dave-bautista-lost-everything-including-101000958.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rollins-stock-wall-street-bullish-102302807.html"
   },
   {
    "t": "今彩539第115197期　頭獎2注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
   },
   {
-   "t": "Exclusive-Microsoft retreats in China, but AI boom helps it keep a window open",
+   "t": "High Oil Prices Deliver a Windfall for China’s Coal-to-Chemicals Industry",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/exclusive-microsoft-retreats-china-ai-100321382.html"
+   "u": "https://finance.yahoo.com/energy/articles/high-oil-prices-deliver-windfall-103000081.html"
   },
   {
    "t": "大樂透第115079期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "Cheesecake Factory is crushing Chipotle in a restaurant rotation not seen in a decade: Chart of the Day",
+   "t": "Sea Limited (SE) Jumped 15%, But Can the Rally Last?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/cheesecake-factory-is-crushing-chipotle-in-a-restaurant-rotation-not-seen-in-a-decade-chart-of-the-day-100000651.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sea-limited-se-jumped-15-103539040.html"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "SpaceX is racing back toward $150 — how to play a breakout with limited risk: Alpha Options Playbook",
+   "t": "Stocks Rise Before the Open as Oil Prices Ease, U.S. PPI Data on Deck",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/article/spacex-is-racing-back-toward-150--how-to-play-a-breakout-with-limited-risk-alpha-options-playbook-100000079.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-open-oil-prices-103720929.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "S&P 500 Chasing Record as Stock Futures Rise Ahead of PPI Data",
+   "t": "Balfour Beatty bullish on aviation, data centers in US",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/livecoverage/stock-market-news-today-081326/card/s-p-500-chasing-record-as-stock-futures-rise-ahead-of-wholesale-inflation-report-aFhJOX3luPoadvRO8AGg?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/real-estate/articles/balfour-beatty-bullish-aviation-data-102100609.html"
   }
  ],
  "inst": {
