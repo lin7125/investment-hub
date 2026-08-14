@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-15 01:40（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-15 01:50（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,41 +212,41 @@
   },
   {
    "s": "AAPL",
-   "p": 305.45,
-   "c": 0.06,
-   "a50": 309.18,
+   "p": 306.04,
+   "c": 0.25,
+   "a50": 309.19,
    "a200": 280.48,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 318.4,
-   "r": 43.2
+   "a20": 318.43,
+   "r": 43.8
   },
   {
    "s": "NVDA",
-   "p": 225.19,
-   "c": -0.05,
+   "p": 225.4,
+   "c": 0.04,
    "a50": 206.52,
    "a200": 194.92,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 210.4,
-   "r": 63.1
+   "a20": 210.41,
+   "r": 63.3
   },
   {
    "s": "TSLA",
-   "p": 341.11,
-   "c": 0.34,
-   "a50": 371.06,
+   "p": 340.65,
+   "c": 0.2,
+   "a50": 371.05,
    "a200": 406.07,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 329.08,
-   "r": 48.3
+   "a20": 329.06,
+   "r": 48.1
   },
   {
    "s": "META",
-   "p": 590.85,
-   "c": -0.69,
+   "p": 590.79,
+   "c": -0.7,
    "a50": 597.15,
    "a200": 627.64,
    "yh": 785.23,
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7777.6,
-   "c": -0.27,
-   "a50": 7512.23,
+   "p": 7777.23,
+   "c": -0.28,
+   "a50": 7512.22,
    "a200": 7074.86,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7584.59,
+   "a20": 7584.57,
    "r": 65.0
   },
   {
    "s": "^VIX",
-   "p": 14.38,
-   "c": -1.71,
+   "p": 14.33,
+   "c": -2.05,
    "a50": 17.18,
    "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.64,
-   "r": 40.6
+   "r": 40.4
   },
   {
    "s": "BZ=F",
-   "p": 88.24,
-   "c": 1.34,
+   "p": 88.28,
+   "c": 1.39,
    "a50": 83.94,
    "a200": 81.75,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4436.9,
+   "p": 4437.1,
    "c": 1.68,
-   "a50": 4159.14,
+   "a50": 4159.15,
    "a200": 4486.55,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.45,
+   "a20": 4177.46,
    "r": 67.5
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.17,
+   "c": 0.11,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 59.7
+   "r": 59.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03125,
-   "c": 0.64,
+   "p": 0.03125977,
+   "c": 0.66,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
   },
   {
-   "t": "Amex Green vs. Amex Gold: Tons of benefits and rewards for foodies and travelers",
+   "t": "Why defensibility is the hook for VC data center investments",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/comparison/amex-green-vs-gold-174325977.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/why-defensibility-hook-vc-data-173728431.html"
   },
   {
    "t": "大樂透第115079期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "CSP Inc. Q3 2026 Earnings Call Summary",
+   "t": "Amex Green vs. Amex Gold: Tons of benefits and rewards for foodies and travelers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/csp-inc-q3-2026-earnings-170219528.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/comparison/amex-green-vs-gold-174325977.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "Financial advisors say $900K can be enough to retire — but only if you stop obsessing over the $1 million milestone",
+   "t": "CSP Inc. Q3 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/financial-advisors-900k-enough-retire-170000884.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/csp-inc-q3-2026-earnings-170219528.html"
   },
   {
    "t": "台灣大上修全年獲利財測　電信業務營利拚年增15%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140340.aspx"
   },
   {
-   "t": "How Americans buy furniture is starting to change",
+   "t": "Why Aecom Stock Crashed to a 52-Week Low This Week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/americans-buy-furniture-starting-change-171700027.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-aecom-stock-crashed-52-173116412.html"
   }
  ],
  "inst": {
