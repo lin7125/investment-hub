@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-15 02:52（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-15 03:02（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 305.82,
-   "c": 0.18,
-   "a50": 309.19,
+   "p": 305.63,
+   "c": 0.12,
+   "a50": 309.18,
    "a200": 280.48,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 318.42,
-   "r": 43.6
+   "a20": 318.41,
+   "r": 43.4
   },
   {
    "s": "NVDA",
-   "p": 225.15,
-   "c": -0.07,
+   "p": 225.2,
+   "c": -0.04,
    "a50": 206.52,
    "a200": 194.92,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 210.39,
-   "r": 63.0
+   "a20": 210.4,
+   "r": 63.1
   },
   {
    "s": "TSLA",
-   "p": 341.67,
-   "c": 0.5,
-   "a50": 371.07,
-   "a200": 406.08,
+   "p": 340.89,
+   "c": 0.27,
+   "a50": 371.06,
+   "a200": 406.07,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 329.11,
-   "r": 48.5
+   "a20": 329.07,
+   "r": 48.2
   },
   {
    "s": "META",
-   "p": 591.53,
-   "c": -0.58,
+   "p": 591.56,
+   "c": -0.57,
    "a50": 597.17,
    "a200": 627.64,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 594.75,
+   "a20": 594.76,
    "r": 48.1
   },
   {
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7786.12,
-   "c": -0.17,
-   "a50": 7512.4,
-   "a200": 7074.9,
+   "p": 7783.46,
+   "c": -0.2,
+   "a50": 7512.34,
+   "a200": 7074.89,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7585.01,
-   "r": 65.9
+   "a20": 7584.88,
+   "r": 65.7
   },
   {
    "s": "^VIX",
-   "p": 14.31,
-   "c": -2.19,
+   "p": 14.34,
+   "c": -1.98,
    "a50": 17.18,
    "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.63,
-   "r": 40.3
+   "a20": 16.64,
+   "r": 40.4
   },
   {
    "s": "BZ=F",
-   "p": 88.69,
-   "c": 1.86,
+   "p": 88.59,
+   "c": 1.75,
    "a50": 83.95,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.21,
-   "r": 53.6
+   "a20": 88.2,
+   "r": 53.5
   },
   {
    "s": "GC=F",
-   "p": 4438.4,
-   "c": 1.71,
-   "a50": 4159.17,
-   "a200": 4486.56,
+   "p": 4430.9,
+   "c": 1.54,
+   "a50": 4159.02,
+   "a200": 4486.52,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.52,
-   "r": 67.6
+   "a20": 4177.15,
+   "r": 67.2
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.08,
+   "c": 0.11,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 59.4
+   "r": 59.5
   },
   {
    "s": "TWDUSD",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "大巨蛋Garden City　最快22日B區試營運",
+   "t": "中東戰爭和美國經濟前景不明　歐股多數跌",
    "pub": "中央社財經",
-   "d": "2026-08-14",
-   "u": "https://www.cna.com.tw/news/afe/202608140360.aspx"
+   "d": "2026-08-15",
+   "u": "https://www.cna.com.tw/news/afe/202608150002.aspx"
   },
   {
    "t": "Resort destination mall and hotel seek Chapter 11 bankruptcy",
@@ -344,16 +344,28 @@
    "u": "https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html"
   },
   {
+   "t": "大巨蛋Garden City　最快22日B區試營運",
+   "pub": "中央社財經",
+   "d": "2026-08-14",
+   "u": "https://www.cna.com.tw/news/afe/202608140360.aspx"
+  },
+  {
+   "t": "Rise of AI shopping pushes merchants to protect loyalty, Adyen says",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/technology/ai/articles/rise-ai-shopping-pushes-merchants-090049199.html"
+  },
+  {
    "t": "今彩539第115197期　頭獎2注中獎",
    "pub": "中央社財經",
    "d": "2026-08-14",
    "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
   },
   {
-   "t": "Diamondback Energy Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "t": "China's WeRide eyes Australia, Southeast Asia among potential new markets after strong Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-stock-outlook-wall-084922195.html"
+   "u": "https://finance.yahoo.com/technology/articles/chinas-weride-eyes-australia-southeast-090950869.html"
   },
   {
    "t": "大樂透第115079期　頭獎槓龜",
@@ -362,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "Could Open-Source AI Challenge the Valuations of OpenAI and Anthropic?",
+   "t": "Is Wall Street Bullish or Bearish on Kimberly-Clark Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/could-open-source-ai-challenge-085427024.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-kimberly-090152081.html"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -374,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Predicting PulteGroup Stock Will Climb or Sink?",
+   "t": "I'm 64 With $1.2 Million in a 401(k) and $2,800 Monthly Social Security. How Much Can I Spend in Retirement?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-pultegroup-085705160.html"
+   "u": "https://finance.yahoo.com/news/im-64-1-2-million-134301202.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -386,22 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for FirstEnergy Stock?",
+   "t": "Prediction: Amazon Will Join Apple in the $4 Trillion Club Before 2030",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-083936333.html"
-  },
-  {
-   "t": "台灣大上修全年獲利財測　電信業務營利拚年增15%",
-   "pub": "中央社財經",
-   "d": "2026-08-14",
-   "u": "https://www.cna.com.tw/news/afe/202608140340.aspx"
-  },
-  {
-   "t": "I'm 64 With $1.2 Million in a 401(k) and $2,800 Monthly Social Security. How Much Can I Spend in Retirement?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/news/im-64-1-2-million-134301202.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/prediction-amazon-join-apple-4-090600909.html"
   }
  ],
  "inst": {
