@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-15 03:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-15 04:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -223,20 +223,20 @@
   },
   {
    "s": "NVDA",
-   "p": 225.01,
-   "c": -0.13,
+   "p": 225.16,
+   "c": -0.06,
    "a50": 206.52,
    "a200": 194.92,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 210.39,
-   "r": 62.9
+   "r": 63.0
   },
   {
    "s": "TSLA",
-   "p": 342.21,
-   "c": 0.66,
-   "a50": 371.08,
+   "p": 342.27,
+   "c": 0.68,
+   "a50": 371.09,
    "a200": 406.08,
    "yh": 489.88,
    "yl": 298.32,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 589.47,
-   "c": -0.92,
+   "p": 589.85,
+   "c": -0.86,
    "a50": 597.13,
    "a200": 627.63,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 594.65,
-   "r": 47.5
+   "a20": 594.67,
+   "r": 47.6
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7782.07,
-   "c": -0.22,
-   "a50": 7517.63,
-   "a200": 7064.42,
+   "p": 7785.73,
+   "c": -0.17,
+   "a50": 7512.39,
+   "a200": 7074.9,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7588.11,
-   "r": 65.5
+   "a20": 7584.99,
+   "r": 65.9
   },
   {
    "s": "^VIX",
-   "p": 14.28,
-   "c": -2.39,
+   "p": 14.21,
+   "c": -2.87,
    "a50": 17.18,
    "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.63,
-   "r": 40.2
+   "r": 40.0
   },
   {
    "s": "BZ=F",
-   "p": 88.49,
-   "c": 1.63,
+   "p": 88.53,
+   "c": 1.68,
    "a50": 83.95,
    "a200": 81.75,
    "yh": 118.35,
@@ -300,14 +300,14 @@
   },
   {
    "s": "GC=F",
-   "p": 4431.6,
-   "c": 1.56,
-   "a50": 4159.04,
-   "a200": 4486.53,
+   "p": 4434.7,
+   "c": 1.63,
+   "a50": 4159.1,
+   "a200": 4486.54,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.19,
-   "r": 67.3
+   "a20": 4177.34,
+   "r": 67.4
   },
   {
    "s": "HG=F",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140360.aspx"
   },
   {
-   "t": "JD.com expects second-half electronics sales to improve after quarterly revenue falls",
+   "t": "Dave Bautista 'lost everything' including his home post-WWE, but the Undertaker's money advice saved him",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chinas-jd-com-tops-quarterly-100447680.html"
+   "u": "https://finance.yahoo.com/markets/articles/dave-bautista-lost-everything-including-101000958.html"
   },
   {
    "t": "今彩539第115197期　頭獎2注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
   },
   {
-   "t": "Best CD rates today, Thursday, August 13, 2026: Lock in up to 4.30% APY with a 16-month CD",
+   "t": "Exclusive-Microsoft retreats in China, but AI boom helps it keep a window open",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-august-13-2026-lock-in-up-to-430-apy-with-a-16-month-cd-100000968.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/exclusive-microsoft-retreats-china-ai-100321382.html"
   },
   {
    "t": "大樂透第115079期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "SpaceX is racing back toward $150 — how to play a breakout with limited risk: Alpha Options Playbook",
+   "t": "Cheesecake Factory is crushing Chipotle in a restaurant rotation not seen in a decade: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/article/spacex-is-racing-back-toward-150--how-to-play-a-breakout-with-limited-risk-alpha-options-playbook-100000079.html"
+   "u": "https://finance.yahoo.com/markets/article/cheesecake-factory-is-crushing-chipotle-in-a-restaurant-rotation-not-seen-in-a-decade-chart-of-the-day-100000651.html"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "Cheesecake Factory is crushing Chipotle in a restaurant rotation not seen in a decade: Chart of the Day",
+   "t": "SpaceX is racing back toward $150 — how to play a breakout with limited risk: Alpha Options Playbook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/cheesecake-factory-is-crushing-chipotle-in-a-restaurant-rotation-not-seen-in-a-decade-chart-of-the-day-100000651.html"
+   "u": "https://finance.yahoo.com/markets/options/article/spacex-is-racing-back-toward-150--how-to-play-a-breakout-with-limited-risk-alpha-options-playbook-100000079.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "Inflation-Protected Bonds Look Like a Bargain—for Now",
+   "t": "S&P 500 Chasing Record as Stock Futures Rise Ahead of PPI Data",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-13-2026/card/inflation-protected-bonds-look-like-a-bargain-for-now-AMISNVM3YMOlbo4C7nGn?siteid=yhoof2&yptr=yahoo"
+   "u": "https://www.barrons.com/livecoverage/stock-market-news-today-081326/card/s-p-500-chasing-record-as-stock-futures-rise-ahead-of-wholesale-inflation-report-aFhJOX3luPoadvRO8AGg?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
