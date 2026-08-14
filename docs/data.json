@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-14 11:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 11:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2420.0,
-   "c": -0.62,
-   "a50": 2382.8,
-   "a200": 1944.72,
+   "p": 2425.0,
+   "c": -0.41,
+   "a50": 2382.9,
+   "a200": 1944.75,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2361.0,
-   "r": 54.1
+   "a20": 2361.25,
+   "r": 54.6
   },
   {
    "s": "2317.TW",
@@ -47,25 +47,25 @@
   },
   {
    "s": "2327.TW",
-   "p": 620.0,
-   "c": -6.34,
-   "a50": 797.07,
-   "a200": 428.78,
+   "p": 626.0,
+   "c": -5.44,
+   "a50": 797.19,
+   "a200": 428.81,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 593.72,
-   "r": 46.4
+   "a20": 594.02,
+   "r": 47.0
   },
   {
    "s": "1802.TW",
-   "p": 57.3,
-   "c": 0.7,
+   "p": 57.4,
+   "c": 0.88,
    "a50": 60.77,
-   "a200": 52.27,
+   "a200": 52.28,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 52.26,
-   "r": 52.7
+   "r": 52.8
   },
   {
    "s": "6862.TW",
@@ -80,25 +80,25 @@
   },
   {
    "s": "3701.TW",
-   "p": 40.6,
-   "c": -0.73,
+   "p": 40.55,
+   "c": -0.86,
    "a50": 43.17,
    "a200": 48.86,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.48,
-   "r": 48.2
+   "r": 48.0
   },
   {
    "s": "4722.TW",
-   "p": 204.5,
-   "c": -1.68,
-   "a50": 238.91,
+   "p": 204.0,
+   "c": -1.92,
+   "a50": 238.9,
    "a200": 199.21,
    "yh": 306.5,
    "yl": 83.6,
-   "a20": 204.25,
-   "r": 44.3
+   "a20": 204.22,
+   "r": 44.1
   },
   {
    "s": "6706.TW",
@@ -113,14 +113,14 @@
   },
   {
    "s": "2305.TW",
-   "p": 29.95,
-   "c": -1.96,
+   "p": 30.0,
+   "c": -1.8,
    "a50": 32.12,
    "a200": 18.55,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 30.18,
-   "r": 48.6
+   "r": 48.7
   },
   {
    "s": "6442.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.7,
-   "c": 1.0,
+   "p": 50.6,
+   "c": 0.8,
    "a50": 61.04,
    "a200": 41.48,
    "yh": 165.0,
    "yl": 7.25,
-   "a20": 47.36,
-   "r": 47.0
+   "a20": 47.35,
+   "r": 46.8
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 57.0,
-   "c": -1.21,
-   "a50": 60.99,
+   "p": 56.9,
+   "c": -1.39,
+   "a50": 60.98,
    "a200": 56.74,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.48,
-   "r": 48.0
+   "a20": 55.47,
+   "r": 47.8
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46053.81,
-   "c": 1.18,
-   "a50": 44869.14,
-   "a200": 35559.55,
+   "p": 46064.65,
+   "c": 0.09,
+   "a50": 44791.61,
+   "a200": 35907.4,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43821.69,
-   "r": 58.6
+   "a20": 43798.94,
+   "r": 59.8
   },
   {
    "s": "^GSPC",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4379.5,
-   "c": -0.67,
-   "a50": 4159.46,
+   "p": 4380.4,
+   "c": -0.65,
+   "a50": 4159.47,
    "a200": 4484.46,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4157.03,
-   "r": 65.2
+   "a20": 4157.08,
+   "r": 65.3
   },
   {
    "s": "HG=F",
    "p": 6.58,
-   "c": -0.31,
+   "c": -0.33,
    "a50": 6.34,
    "a200": 5.86,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.47,
-   "r": 58.0
+   "r": 57.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03127932,
-   "c": 0.71,
+   "p": 0.03128911,
+   "c": 0.76,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140030.aspx"
   },
   {
-   "t": "Dear CrowdStrike Stock Fans, Mark Your Calendars for August 26",
+   "t": "What is inflation, and how does it affect you?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-crowdstrike-stock-fans-mark-151749839.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/inflation-definition-195527231.html"
   },
   {
    "t": "新台幣開盤升1.8分　為32.15元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140029.aspx"
   },
   {
-   "t": "What is inflation, and how does it affect you?",
+   "t": "Wallet check: Food, gas, fun. There's no escaping high prices.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/inflation-definition-195527231.html"
+   "u": "https://finance.yahoo.com/economy/article/wallet-check-food-gas-fun-theres-no-escaping-high-prices-174715796.html"
   },
   {
    "t": "川普祭無人機關稅　台日韓等盟友產品及零組件課15%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140026.aspx"
   },
   {
-   "t": "Wallet check: Food, gas, fun. There's no escaping high prices.",
+   "t": "Why IBM Stock Looks Like a Very Promising Long-Term Pick",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/wallet-check-food-gas-fun-theres-no-escaping-high-prices-174715796.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-ibm-stock-looks-very-153345039.html"
   },
   {
    "t": "美商應材財測優於預期　市場期待過高股價跌逾5%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140025.aspx"
   },
   {
-   "t": "Why IBM Stock Looks Like a Very Promising Long-Term Pick",
+   "t": "Hyperliquid Turns to CFTC for Path Into U.S. Perpetual Futures Market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-ibm-stock-looks-very-153345039.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-turns-cftc-path-u-153400685.html"
   }
  ],
  "inst": {
