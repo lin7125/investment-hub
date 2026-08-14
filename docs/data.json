@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 15:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 15:11（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.35,
-   "c": -1.69,
+   "p": 49.3,
+   "c": -1.79,
    "a50": 61.01,
-   "a200": 41.48,
+   "a200": 41.47,
    "yh": 165.0,
    "yl": 7.25,
    "a20": 47.29,
-   "r": 45.1
+   "r": 45.0
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45811.01,
-   "c": -0.46,
-   "a50": 44786.53,
-   "a200": 35906.14,
+   "p": 46021.48,
+   "c": 1.11,
+   "a50": 44799.5,
+   "a200": 35815.32,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43786.26,
-   "r": 58.3
+   "a20": 43629.27,
+   "r": 59.6
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.95,
-   "c": 1.01,
-   "a50": 83.93,
+   "p": 88.11,
+   "c": 1.19,
+   "a50": 83.94,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.17,
-   "r": 52.7
+   "a20": 88.18,
+   "r": 52.9
   },
   {
    "s": "GC=F",
-   "p": 4390.2,
-   "c": 0.61,
-   "a50": 4158.21,
+   "p": 4389.4,
+   "c": 0.59,
+   "a50": 4158.19,
    "a200": 4486.32,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4175.12,
+   "a20": 4175.08,
    "r": 65.1
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": -0.11,
+   "c": -0.08,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 58.6
+   "r": 58.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03125977,
-   "c": 0.67,
+   "p": 0.03126954,
+   "c": 0.68,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140136.aspx"
   },
   {
-   "t": "IBM Landed A $240M AI Deal. Is That Enough?",
+   "t": "Crude Prices Close Higher as IEA Forecasts Tightening Inventories in Q3",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ibm-landed-240m-ai-deal-184620463.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-prices-close-higher-iea-190157220.html"
   },
   {
    "t": "8月電子期跌　金融期漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140135.aspx"
   },
   {
-   "t": "Michael Burry adds to Nvidia and Palantir shorts while loading up on Molina Healthcare, which is down 54% from its high",
+   "t": "The Tariff That Helps First Solar And Hurts Everyone Else",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-adds-nvidia-palantir-184500402.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/tariff-helps-first-solar-hurts-190305191.html"
   },
   {
    "t": "台股跌210.47點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140130.aspx"
   },
   {
-   "t": "Shopify Inc. (SHOP) Soars as Jim Cramer Applauds AI-Driven Business Formation",
+   "t": "Kalshi To Build High-Speed Data Feed",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/shopify-inc-shop-soars-jim-184414583.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/kalshi-build-high-speed-data-190400362.html"
   },
   {
    "t": "台積電跌40元　台股翻黑下挫210點失守46000點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140126.aspx"
   },
   {
-   "t": "Dear MongoDB Stock Fans, Mark Your Calendars for September 1",
+   "t": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-mongodb-stock-fans-mark-184325661.html"
+   "u": "https://finance.yahoo.com/news/oil-rises-doubts-over-us-063114070.html"
   },
   {
    "t": "馬斯克薪酬方案發酵　標普500執行長薪酬創新高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140107.aspx"
   },
   {
-   "t": "Brinker Forecasts Continued Growth on Chili’s Momentum",
+   "t": "Precious Metals Climb On Tame July Inflation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/business/earnings/brinker-international-revenue-climbs-as-chilis-growth-continues-18e5a2c4?siteid=yhoof2&yptr=yahoo"
+   "u": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-ahead-of-u-s-inflation-data-11bb4f20?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
