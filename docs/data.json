@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 14:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 14:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 48.95,
-   "c": -2.49,
-   "a50": 61.0,
-   "a200": 41.47,
+   "p": 49.4,
+   "c": -1.59,
+   "a50": 61.01,
+   "a200": 41.48,
    "yh": 165.0,
    "yl": 7.25,
-   "a20": 47.27,
-   "r": 44.6
+   "a20": 47.29,
+   "r": 45.2
   },
   {
    "s": "6223.TWO",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.75,
-   "c": 0.78,
+   "p": 87.81,
+   "c": 0.85,
    "a50": 83.93,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.16,
-   "r": 52.4
+   "r": 52.5
   },
   {
    "s": "GC=F",
-   "p": 4386.2,
-   "c": 0.52,
-   "a50": 4158.13,
-   "a200": 4486.3,
+   "p": 4384.8,
+   "c": 0.49,
+   "a50": 4158.1,
+   "a200": 4486.29,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4174.92,
-   "r": 64.9
+   "a20": 4174.84,
+   "r": 64.8
   },
   {
    "s": "HG=F",
    "p": 6.58,
-   "c": -0.21,
+   "c": -0.2,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03124024,
-   "c": 0.61,
+   "p": 0.03125,
+   "c": 0.64,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140091.aspx"
   },
   {
-   "t": "ACB Stock Alert: What to Know as Curaleaf Announces Takeover Bid for Aurora Cannabis",
+   "t": "Dear GM Stock Fans, Here's What General Motors' $4.5 Billion Parts Deal Means for You",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/acb-stock-alert-know-curaleaf-180806089.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-gm-stock-fans-heres-182422139.html"
   },
   {
    "t": "新台幣升勢強勁　外資匯入大漲重回31元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140089.aspx"
   },
   {
-   "t": "U.S. ETF Investors at Odds: Chasing Returns or Playing the Long Game?",
+   "t": "Rocket Lab’s Highly Anticipated Neutron Flight May Be Delayed. What That Means for RKLB Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/u-etf-investors-odds-chasing-181449829.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-highly-anticipated-neutron-183252132.html"
   },
   {
    "t": "吳誠文率團訪美國德州　拓展半導體與太空科技合作",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140087.aspx"
   },
   {
-   "t": "XRP Price Prediction: $1 Support On Focus After Bridge Hack",
+   "t": "Can Bank Of America’s (BAC) $250B Bet Pay Off?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-1-support-182317983.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-250b-bet-182351252.html"
   },
   {
    "t": "美祭無人機關稅　東元評估在美生產、為升無直接影響",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140071.aspx"
   },
   {
-   "t": "Can Bank Of America’s (BAC) $250B Bet Pay Off?",
+   "t": "CoreWeave (CRWV) and Super Micro (SMCI) Earnings Show AI Spending Is Still Surging",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-250b-bet-182351252.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-super-micro-smci-183316686.html"
   },
   {
    "t": "南亞漲停華碩攻克千元　台股盤中區間震盪",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140058.aspx"
   },
   {
-   "t": "Jim Cramer Just Called Intel a Major Focus Name: Here’s What He Sees in Lip-Bu Tan’s Intel",
+   "t": "Shake Shack (SHAK) Q2 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-just-called-intel-180528261.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/shake-shack-shak-q2-2026-182748257.html"
   }
  ],
  "inst": {
