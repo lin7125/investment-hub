@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-15 04:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-15 04:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,36 +278,36 @@
   },
   {
    "s": "^VIX",
-   "p": 14.29,
-   "c": -2.32,
+   "p": 14.27,
+   "c": -2.46,
    "a50": 17.18,
    "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.63,
-   "r": 40.3
+   "r": 40.2
   },
   {
    "s": "BZ=F",
-   "p": 88.45,
-   "c": 1.58,
-   "a50": 83.94,
+   "p": 88.58,
+   "c": 1.73,
+   "a50": 83.95,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.19,
-   "r": 53.3
+   "a20": 88.2,
+   "r": 53.5
   },
   {
    "s": "GC=F",
-   "p": 4429.8,
-   "c": 1.52,
-   "a50": 4159.0,
-   "a200": 4486.52,
+   "p": 4428.3,
+   "c": 1.48,
+   "a50": 4158.97,
+   "a200": 4486.51,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.09,
-   "r": 67.2
+   "a20": 4177.02,
+   "r": 67.1
   },
   {
    "s": "HG=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03125977,
-   "c": 0.65,
+   "p": 0.03124024,
+   "c": 0.61,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140360.aspx"
   },
   {
-   "t": "Rollins Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Sea Limited (SE) Jumped 15%, But Can the Rally Last?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rollins-stock-wall-street-bullish-102302807.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sea-limited-se-jumped-15-103539040.html"
   },
   {
    "t": "今彩539第115197期　頭獎2注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
   },
   {
-   "t": "High Oil Prices Deliver a Windfall for China’s Coal-to-Chemicals Industry",
+   "t": "Stocks Rise Before the Open as Oil Prices Ease, U.S. PPI Data on Deck",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/high-oil-prices-deliver-windfall-103000081.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-open-oil-prices-103720929.html"
   },
   {
    "t": "大樂透第115079期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "Sea Limited (SE) Jumped 15%, But Can the Rally Last?",
+   "t": "On Holding (ONON) Just Had Its Worst Trading Day Ever. Did Investors Overreact?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sea-limited-se-jumped-15-103539040.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-just-had-worst-104756485.html"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "Stocks Rise Before the Open as Oil Prices Ease, U.S. PPI Data on Deck",
+   "t": "Morning Bid: Brief relief",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-open-oil-prices-103720929.html"
+   "u": "https://finance.yahoo.com/news/morning-bid-brief-relief-104941133.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "Balfour Beatty bullish on aviation, data centers in US",
+   "t": "Fidelity Just Filed to Let Its Crypto Ethereum ETF Stake 100% of Its Holdings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/balfour-beatty-bullish-aviation-data-102100609.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/fidelity-just-filed-let-crypto-104033292.html"
   }
  ],
  "inst": {
