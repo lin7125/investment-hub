@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-15 02:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-15 02:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 305.68,
-   "c": 0.14,
+   "p": 305.82,
+   "c": 0.18,
    "a50": 309.19,
    "a200": 280.48,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 318.42,
-   "r": 43.4
+   "r": 43.6
   },
   {
    "s": "NVDA",
-   "p": 225.34,
-   "c": 0.02,
+   "p": 225.15,
+   "c": -0.07,
    "a50": 206.52,
    "a200": 194.92,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 210.4,
-   "r": 63.2
+   "a20": 210.39,
+   "r": 63.0
   },
   {
    "s": "TSLA",
-   "p": 341.56,
-   "c": 0.47,
+   "p": 341.67,
+   "c": 0.5,
    "a50": 371.07,
    "a200": 406.08,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 329.1,
+   "a20": 329.11,
    "r": 48.5
   },
   {
    "s": "META",
-   "p": 591.22,
-   "c": -0.63,
-   "a50": 597.16,
+   "p": 591.53,
+   "c": -0.58,
+   "a50": 597.17,
    "a200": 627.64,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 594.74,
-   "r": 48.0
+   "a20": 594.75,
+   "r": 48.1
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7783.17,
-   "c": -0.2,
-   "a50": 7512.34,
-   "a200": 7074.89,
+   "p": 7786.12,
+   "c": -0.17,
+   "a50": 7512.4,
+   "a200": 7074.9,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7584.87,
-   "r": 65.6
+   "a20": 7585.01,
+   "r": 65.9
   },
   {
    "s": "^VIX",
-   "p": 14.29,
-   "c": -2.32,
+   "p": 14.31,
+   "c": -2.19,
    "a50": 17.18,
    "a200": 18.53,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.63,
-   "c": 1.79,
+   "p": 88.69,
+   "c": 1.86,
    "a50": 83.95,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.2,
+   "a20": 88.21,
    "r": 53.6
   },
   {
    "s": "GC=F",
-   "p": 4435.3,
-   "c": 1.64,
-   "a50": 4159.11,
-   "a200": 4486.54,
+   "p": 4438.4,
+   "c": 1.71,
+   "a50": 4159.17,
+   "a200": 4486.56,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.37,
-   "r": 67.4
+   "a20": 4177.52,
+   "r": 67.6
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.1,
+   "c": 0.08,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 59.5
+   "r": 59.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03125977,
-   "c": 0.65,
+   "c": 0.67,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for FirstEnergy Stock?",
+   "t": "Diamondback Energy Stock Outlook: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-083936333.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/diamondback-energy-stock-outlook-wall-084922195.html"
   },
   {
    "t": "大樂透第115079期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "Ethereum Price May Grow by Over 50% ‘In a Matter of Days’",
+   "t": "Could Open-Source AI Challenge the Valuations of OpenAI and Anthropic?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-may-grow-over-083558609.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/could-open-source-ai-challenge-085427024.html"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Bullish on Regency Centers Stock?",
+   "t": "Are Wall Street Analysts Predicting PulteGroup Stock Will Climb or Sink?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/wall-street-analysts-bullish-regency-083434971.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-pultegroup-085705160.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "Is Wall Street Bullish or Bearish on Camden Property Stock?",
+   "t": "What Are Wall Street Analysts' Target Price for FirstEnergy Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/wall-street-bullish-bearish-camden-083001471.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-083936333.html"
   },
   {
    "t": "台灣大上修全年獲利財測　電信業務營利拚年增15%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140340.aspx"
   },
   {
-   "t": "Jensen Huang Just Signed 7 Japanese Industrial Giants Into Nvidia's Physical AI Coalition. Here's Why $1 Trillion in Confirmed Demand Should Matter to Investors.",
+   "t": "I'm 64 With $1.2 Million in a 401(k) and $2,800 Monthly Social Security. How Much Can I Spend in Retirement?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-just-signed-7-084100929.html"
+   "u": "https://finance.yahoo.com/news/im-64-1-2-million-134301202.html"
   }
  ],
  "inst": {
