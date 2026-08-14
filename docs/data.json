@@ -1,104 +1,104 @@
 {
- "generatedAt": "2026-08-15 04:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-15 05:51（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2435.0,
-   "c": 0.83,
-   "a50": 2382.1,
-   "a200": 1939.88,
+   "p": 2395.0,
+   "c": -1.64,
+   "a50": 2382.3,
+   "a200": 1944.6,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2354.5,
-   "r": 55.6
+   "a20": 2359.75,
+   "r": 51.8
   },
   {
    "s": "2317.TW",
-   "p": 262.0,
-   "c": -2.96,
-   "a50": 253.46,
-   "a200": 235.5,
+   "p": 259.5,
+   "c": -0.95,
+   "a50": 252.79,
+   "a200": 235.66,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 251.48,
-   "r": 55.9
+   "a20": 252.75,
+   "r": 54.1
   },
   {
    "s": "2308.TW",
    "p": 1885.0,
-   "c": 5.31,
-   "a50": 1919.9,
-   "a200": 1517.52,
+   "c": 0.0,
+   "a50": 1909.1,
+   "a200": 1521.94,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1715.0,
+   "a20": 1722.25,
    "r": 56.5
   },
   {
    "s": "2454.TW",
-   "p": 4225.0,
-   "c": 5.23,
-   "a50": 3992.2,
-   "a200": 2433.6,
+   "p": 4210.0,
+   "c": -0.36,
+   "a50": 3987.8,
+   "a200": 2448.0,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3730.25,
-   "r": 61.0
+   "a20": 3772.25,
+   "r": 60.5
   },
   {
    "s": "2327.TW",
-   "p": 662.0,
-   "c": 9.97,
-   "a50": 799.53,
-   "a200": 426.6,
+   "p": 622.0,
+   "c": -6.04,
+   "a50": 797.11,
+   "a200": 428.79,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 597.67,
-   "r": 50.5
+   "a20": 593.83,
+   "r": 46.6
   },
   {
    "s": "1802.TW",
-   "p": 56.9,
-   "c": -1.22,
-   "a50": 61.0,
-   "a200": 52.13,
+   "p": 57.9,
+   "c": 1.76,
+   "a50": 60.78,
+   "a200": 52.28,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.22,
-   "r": 51.9
+   "a20": 52.29,
+   "r": 53.7
   },
   {
    "s": "6862.TW",
-   "p": 148.0,
-   "c": 1.37,
-   "a50": 171.79,
-   "a200": 177.62,
+   "p": 142.5,
+   "c": -3.72,
+   "a50": 170.92,
+   "a200": 177.5,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 141.25,
-   "r": 47.0
+   "a20": 140.68,
+   "r": 43.3
   },
   {
    "s": "3701.TW",
-   "p": 40.9,
-   "c": -1.45,
-   "a50": 43.53,
-   "a200": 48.84,
+   "p": 40.35,
+   "c": -1.34,
+   "a50": 43.16,
+   "a200": 48.86,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.41,
-   "r": 49.1
+   "a20": 39.47,
+   "r": 47.5
   },
   {
    "s": "4722.TW",
-   "p": 208.0,
-   "c": -0.95,
-   "a50": 240.38,
-   "a200": 199.21,
+   "p": 203.0,
+   "c": -2.4,
+   "a50": 238.88,
+   "a200": 199.2,
    "yh": 306.5,
    "yl": 83.6,
-   "a20": 205.42,
-   "r": 45.5
+   "a20": 204.18,
+   "r": 43.8
   },
   {
    "s": "6706.TW",
@@ -113,102 +113,102 @@
   },
   {
    "s": "2305.TW",
-   "p": 30.55,
-   "c": 9.89,
-   "a50": 31.97,
-   "a200": 18.46,
+   "p": 29.35,
+   "c": -3.93,
+   "a50": 32.1,
+   "a200": 18.55,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 30.29,
-   "r": 49.9
+   "a20": 30.15,
+   "r": 47.3
   },
   {
    "s": "6442.TW",
-   "p": 1565.0,
-   "c": -1.88,
-   "a50": 1573.2,
-   "a200": 1584.44,
+   "p": 1560.0,
+   "c": -0.32,
+   "a50": 1561.5,
+   "a200": 1588.27,
    "yh": 2370.0,
    "yl": 725.0,
-   "a20": 1328.25,
-   "r": 57.3
+   "a20": 1341.25,
+   "r": 57.0
   },
   {
    "s": "6515.TW",
-   "p": 6745.0,
-   "c": -5.93,
-   "a50": 7713.5,
-   "a200": 5970.9,
+   "p": 6750.0,
+   "c": 0.07,
+   "a50": 7675.5,
+   "a200": 5992.55,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6396.25,
+   "a20": 6431.0,
    "r": 47.7
   },
   {
    "s": "6446.TW",
-   "p": 1445.0,
-   "c": 0.35,
-   "a50": 1137.78,
-   "a200": 701.03,
-   "yh": 1460.0,
+   "p": 1500.0,
+   "c": 3.81,
+   "a50": 1150.86,
+   "a200": 706.2,
+   "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1220.25,
-   "r": 65.7
+   "a20": 1235.5,
+   "r": 68.3
   },
   {
    "s": "3324.TWO",
-   "p": 1035.0,
-   "c": -1.43,
-   "a50": 984.52,
-   "a200": 997.98,
+   "p": 1010.0,
+   "c": -2.42,
+   "a50": 981.02,
+   "a200": 998.19,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 945.8,
-   "r": 58.2
+   "a20": 950.65,
+   "r": 54.6
   },
   {
    "s": "3491.TWO",
-   "p": 1345.0,
-   "c": 1.89,
-   "a50": 1346.24,
-   "a200": 1186.1,
+   "p": 1375.0,
+   "c": 2.23,
+   "a50": 1334.74,
+   "a200": 1190.76,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1199.6,
-   "r": 55.5
+   "a20": 1200.6,
+   "r": 57.1
   },
   {
    "s": "3585.TWO",
-   "p": 50.2,
-   "c": 0.4,
-   "a50": 61.64,
-   "a200": 41.29,
+   "p": 49.3,
+   "c": -1.79,
+   "a50": 61.01,
+   "a200": 41.47,
    "yh": 165.0,
    "yl": 7.25,
-   "a20": 47.37,
-   "r": 46.2
+   "a20": 47.29,
+   "r": 45.0
   },
   {
    "s": "6223.TWO",
-   "p": 6495.0,
-   "c": -1.59,
-   "a50": 6208.0,
-   "a200": 3996.25,
+   "p": 6440.0,
+   "c": -0.85,
+   "a50": 6215.4,
+   "a200": 4019.2,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5831.25,
-   "r": 56.7
+   "a20": 5873.25,
+   "r": 55.7
   },
   {
    "s": "6750.TWO",
-   "p": 57.7,
-   "c": -2.2,
-   "a50": 61.16,
-   "a200": 56.68,
+   "p": 56.8,
+   "c": -1.56,
+   "a50": 60.98,
+   "a200": 56.74,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.62,
-   "r": 49.6
+   "a20": 55.47,
+   "r": 47.6
   },
   {
    "s": "AAPL",
@@ -280,34 +280,34 @@
    "s": "^VIX",
    "p": 14.25,
    "c": -2.6,
-   "a50": 17.18,
-   "a200": 18.53,
+   "a50": 17.14,
+   "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.63,
-   "r": 40.1
+   "a20": 16.71,
+   "r": 39.7
   },
   {
    "s": "BZ=F",
-   "p": 88.53,
-   "c": 1.68,
+   "p": 88.59,
+   "c": 1.75,
    "a50": 83.95,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.2,
-   "r": 53.4
+   "r": 53.5
   },
   {
    "s": "GC=F",
-   "p": 4431.0,
-   "c": 1.54,
-   "a50": 4159.02,
-   "a200": 4486.52,
+   "p": 4432.0,
+   "c": 1.57,
+   "a50": 4159.04,
+   "a200": 4486.53,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.16,
-   "r": 67.2
+   "a20": 4177.21,
+   "r": 67.3
   },
   {
    "s": "HG=F",
@@ -323,9 +323,9 @@
   {
    "s": "TWDUSD",
    "p": 0.03125,
-   "c": 0.62,
-   "a50": 0.03123048,
-   "a200": 0.03161555,
+   "c": 0.37,
+   "a50": 0.03122073,
+   "a200": 0.03160556,
    "yh": 0.033278,
    "yl": 0.030864
   }
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140360.aspx"
   },
   {
-   "t": "You’ve retired — so grow up already and stop buying these 5 things to save yourself thousands of dollars",
+   "t": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/ve-retired-grow-already-stop-111500882.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/databricks-valued-190-billion-latest-142120377.html"
   },
   {
    "t": "今彩539第115197期　頭獎2注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for S&P Global Stock?",
+   "t": "What Are Wall Street Analysts' Target Price for Best Buy Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-110323357.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-141712983.html"
   },
   {
    "t": "大樂透第115079期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "Growth strategies grab a bigger slice of shrinking UK PE fundraising",
+   "t": "Bulls Are Back in Charge of Corn Prices as a New Rally Forms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/growth-strategies-grab-bigger-slice-113348468.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/bulls-back-charge-corn-prices-141613325.html"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "Japan’s Yen Intervention Bought Time. Not a Fix",
+   "t": "Nvidia bulls may have a small problem on their hands",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/japan-yen-intervention-bought-time-113025578.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/nvidia-bulls-may-have-a-small-problem-on-their-hands-142341243.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "Cisco Q4 2026 earnings beat sends stock lower after hours",
+   "t": "BGSF (BGSF) Q2 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cisco-q4-2026-earnings-beat-110920730.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bgsf-bgsf-q2-2026-earnings-142137306.html"
   }
  ],
  "inst": {
