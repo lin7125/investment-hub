@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 23:41（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 23:51（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -223,8 +223,8 @@
   },
   {
    "s": "NVDA",
-   "p": 224.85,
-   "c": -0.2,
+   "p": 224.91,
+   "c": -0.17,
    "a50": 206.51,
    "a200": 194.92,
    "yh": 235.74,
@@ -234,46 +234,46 @@
   },
   {
    "s": "TSLA",
-   "p": 337.4,
-   "c": -0.75,
+   "p": 337.57,
+   "c": -0.7,
    "a50": 370.99,
    "a200": 406.06,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 328.9,
-   "r": 46.6
+   "r": 46.7
   },
   {
    "s": "META",
-   "p": 594.27,
-   "c": -0.12,
-   "a50": 597.22,
+   "p": 594.42,
+   "c": -0.09,
+   "a50": 597.23,
    "a200": 627.66,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 594.89,
-   "r": 48.9
+   "a20": 594.9,
+   "r": 49.0
   },
   {
    "s": "^TWII",
    "p": 45811.01,
    "c": -0.46,
-   "a50": 44890.05,
-   "a200": 35653.83,
+   "a50": 44786.53,
+   "a200": 35906.14,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43873.73,
-   "r": 57.3
+   "a20": 43786.26,
+   "r": 58.3
   },
   {
    "s": "^GSPC",
-   "p": 7780.84,
-   "c": -0.23,
-   "a50": 7517.6,
-   "a200": 7064.41,
+   "p": 7780.51,
+   "c": -0.24,
+   "a50": 7512.28,
+   "a200": 7074.88,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7588.05,
+   "a20": 7584.73,
    "r": 65.3
   },
   {
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.95,
-   "c": 1.01,
+   "p": 87.85,
+   "c": 0.9,
    "a50": 83.93,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.17,
-   "r": 52.7
+   "a20": 88.16,
+   "r": 52.5
   },
   {
    "s": "GC=F",
-   "p": 4444.1,
-   "c": 1.84,
-   "a50": 4159.29,
-   "a200": 4486.59,
+   "p": 4445.5,
+   "c": 1.88,
+   "a50": 4159.31,
+   "a200": 4486.6,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.81,
-   "r": 67.8
+   "a20": 4177.88,
+   "r": 67.9
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": -0.06,
+   "c": -0.08,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 58.8
+   "r": 58.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03126954,
-   "c": 0.69,
+   "c": 0.68,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
   },
   {
-   "t": "China's courts rule workers can't be fired just because AI replaced them — and the US has no such protections",
+   "t": "JPMorgan Chase: How To Limit Risk On A Stock That's Doing Well",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/chinas-courts-rule-workers-cant-153000752.html"
+   "u": "https://www.investors.com/research/options/jpmorgan-chase-jpm-stock-bullish-butterfly-spread-options/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透第115079期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Steady After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)",
+   "t": "Morgan Stanley, JPMorgan Increase Crypto ETF Holdings in Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-jpmorgan-increase-crypto-153100825.html"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
+   "t": "China's courts rule workers can't be fired just because AI replaced them — and the US has no such protections",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/chinas-courts-rule-workers-cant-153000752.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "Hims & Hers (HIMS) Raised Guidance. Can Growth Survive Its GLP-1 Margin Reset?",
+   "t": "Stock Market Today: Dow Steady After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/hims-hers-hims-raised-guidance-151415471.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台灣大上修全年獲利財測　電信業務營利拚年增15%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140340.aspx"
   },
   {
-   "t": "GDS (GDS) Q2 2026 Earnings Call Transcript",
+   "t": "JPMorgan Turns Bullish on Salesforce as the Stock Runs Three Straight Weeks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gds-gds-q2-2026-earnings-151812014.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-turns-bullish-salesforce-stock-153045939.html"
   }
  ],
  "inst": {
