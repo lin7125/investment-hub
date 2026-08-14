@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-15 03:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-15 03:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 305.38,
-   "c": 0.04,
+   "p": 305.54,
+   "c": 0.09,
    "a50": 309.18,
    "a200": 280.48,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 318.4,
-   "r": 43.2
+   "a20": 318.41,
+   "r": 43.3
   },
   {
    "s": "NVDA",
-   "p": 225.0,
-   "c": -0.13,
+   "p": 224.98,
+   "c": -0.14,
    "a50": 206.52,
    "a200": 194.92,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 210.39,
-   "r": 62.9
+   "r": 62.8
   },
   {
    "s": "TSLA",
-   "p": 341.46,
-   "c": 0.44,
+   "p": 341.35,
+   "c": 0.41,
    "a50": 371.07,
-   "a200": 406.08,
+   "a200": 406.07,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 329.1,
+   "a20": 329.09,
    "r": 48.4
   },
   {
    "s": "META",
-   "p": 590.91,
-   "c": -0.68,
-   "a50": 597.15,
+   "p": 591.01,
+   "c": -0.67,
+   "a50": 597.16,
    "a200": 627.64,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 594.72,
-   "r": 47.9
+   "a20": 594.73,
+   "r": 48.0
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7782.14,
+   "p": 7781.45,
    "c": -0.22,
-   "a50": 7512.32,
+   "a50": 7512.3,
    "a200": 7074.88,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7584.81,
-   "r": 65.5
+   "a20": 7584.78,
+   "r": 65.4
   },
   {
    "s": "^VIX",
-   "p": 14.35,
-   "c": -1.91,
+   "p": 14.36,
+   "c": -1.85,
    "a50": 17.18,
    "a200": 18.53,
    "yh": 31.05,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.51,
-   "c": 1.65,
+   "p": 88.53,
+   "c": 1.68,
    "a50": 83.95,
    "a200": 81.75,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4430.2,
-   "c": 1.53,
-   "a50": 4159.01,
+   "p": 4431.1,
+   "c": 1.55,
+   "a50": 4159.03,
    "a200": 4486.52,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.12,
+   "a20": 4177.16,
    "r": 67.2
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.18,
+   "c": 0.13,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 59.8
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03125977,
-   "c": 0.66,
+   "c": 0.67,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140360.aspx"
   },
   {
-   "t": "Is Wall Street Bullish or Bearish on Kimberly-Clark Stock?",
+   "t": "Trump promised not to touch Social Security — but his Big Beautiful bill comes with a $169B shock. Protect yourself",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-kimberly-090152081.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/trump-promised-not-touch-social-110500883.html"
   },
   {
    "t": "今彩539第115197期　頭獎2注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
   },
   {
-   "t": "Trump promised not to touch Social Security — but his Big Beautiful bill comes with a $169B shock. Protect yourself",
+   "t": "China's WeRide eyes Australia, Southeast Asia among potential new markets after strong Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/trump-promised-not-touch-social-110500883.html"
+   "u": "https://finance.yahoo.com/technology/articles/chinas-weride-eyes-australia-southeast-090950869.html"
   },
   {
    "t": "大樂透第115079期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "China's WeRide eyes Australia, Southeast Asia among potential new markets after strong Q2",
+   "t": "Iron Mountain Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/chinas-weride-eyes-australia-southeast-090950869.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/iron-mountain-stock-analyst-estimates-094504038.html"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "CPA Australia pushes for direct government oversight of audit firms",
+   "t": "Baker Tilly picks new chief growth officer",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/cpa-australia-pushes-direct-government-091537840.html"
+   "u": "https://finance.yahoo.com/small-business/articles/baker-tilly-picks-chief-growth-091702982.html"
   }
  ],
  "inst": {
