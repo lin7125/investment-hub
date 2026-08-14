@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 23:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 23:31（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,118 +212,118 @@
   },
   {
    "s": "AAPL",
-   "p": 305.25,
-   "c": -0.0,
+   "p": 305.55,
+   "c": 0.1,
    "a50": 309.18,
    "a200": 280.48,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 318.39,
-   "r": 43.0
+   "a20": 318.41,
+   "r": 43.3
   },
   {
    "s": "NVDA",
-   "p": 225.92,
-   "c": 0.28,
-   "a50": 206.53,
+   "p": 225.41,
+   "c": 0.05,
+   "a50": 206.52,
    "a200": 194.92,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 210.43,
-   "r": 63.6
+   "a20": 210.41,
+   "r": 63.3
   },
   {
    "s": "TSLA",
-   "p": 337.25,
-   "c": -0.8,
-   "a50": 370.98,
+   "p": 336.43,
+   "c": -1.04,
+   "a50": 370.97,
    "a200": 406.05,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 328.89,
-   "r": 46.5
+   "a20": 328.85,
+   "r": 46.2
   },
   {
    "s": "META",
-   "p": 593.71,
-   "c": -0.21,
-   "a50": 597.21,
+   "p": 593.15,
+   "c": -0.31,
+   "a50": 597.2,
    "a200": 627.65,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 594.86,
-   "r": 48.8
+   "a20": 594.84,
+   "r": 48.6
   },
   {
    "s": "^TWII",
    "p": 45811.01,
    "c": -0.46,
-   "a50": 44890.05,
-   "a200": 35653.83,
+   "a50": 44786.53,
+   "a200": 35906.14,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43873.73,
-   "r": 57.3
+   "a20": 43786.26,
+   "r": 58.3
   },
   {
    "s": "^GSPC",
-   "p": 7787.24,
-   "c": -0.15,
-   "a50": 7517.73,
-   "a200": 7064.45,
+   "p": 7783.49,
+   "c": -0.2,
+   "a50": 7512.34,
+   "a200": 7074.89,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7588.37,
-   "r": 66.0
+   "a20": 7584.88,
+   "r": 65.7
   },
   {
    "s": "^VIX",
-   "p": 14.47,
-   "c": -1.09,
+   "p": 14.5,
+   "c": -0.89,
    "a50": 17.18,
    "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.64,
-   "r": 40.9
+   "r": 41.0
   },
   {
    "s": "BZ=F",
-   "p": 87.88,
-   "c": 0.93,
+   "p": 87.65,
+   "c": 0.67,
    "a50": 83.93,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.16,
-   "r": 52.6
+   "a20": 88.15,
+   "r": 52.3
   },
   {
    "s": "GC=F",
-   "p": 4444.1,
-   "c": 1.84,
+   "p": 4444.3,
+   "c": 1.85,
    "a50": 4159.29,
    "a200": 4486.59,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.81,
-   "r": 67.8
+   "a20": 4177.82,
+   "r": 67.9
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": 0.07,
+   "p": 6.59,
+   "c": 0.03,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 59.4
+   "r": 59.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.0312989,
-   "c": 0.78,
+   "p": 0.03126954,
+   "c": 0.71,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -332,16 +332,52 @@
  ],
  "news": [
   {
-   "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
+   "t": "大巨蛋Garden City　最快22日B區試營運",
    "pub": "中央社財經",
    "d": "2026-08-14",
-   "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608140360.aspx"
   },
   {
    "t": "Resort destination mall and hotel file Chapter 11 bankruptcy",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html"
+  },
+  {
+   "t": "今彩539第115197期　頭獎2注中獎",
+   "pub": "中央社財經",
+   "d": "2026-08-14",
+   "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
+  },
+  {
+   "t": "Stock Market Today: Dow Steady After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "大樂透第115079期　頭獎槓龜",
+   "pub": "中央社財經",
+   "d": "2026-08-14",
+   "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
+  },
+  {
+   "t": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html"
+  },
+  {
+   "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
+   "pub": "中央社財經",
+   "d": "2026-08-14",
+   "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
+  },
+  {
+   "t": "Hims & Hers (HIMS) Raised Guidance. Can Growth Survive Its GLP-1 Margin Reset?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/healthcare/articles/hims-hers-hims-raised-guidance-151415471.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -362,46 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140340.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq slip after stocks hit record high, consumer sentiment declines",
+   "t": "ResMed (RMD) Q4 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html"
-  },
-  {
-   "t": "美無人機關稅　經部：台灣可用較低15%稅率維持優勢",
-   "pub": "中央社財經",
-   "d": "2026-08-14",
-   "u": "https://www.cna.com.tw/news/afe/202608140338.aspx"
-  },
-  {
-   "t": "US consumers sour on economy as inflation concerns remain in focus, UMich survey says",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/economy/article/us-consumers-sour-on-economy-as-inflation-concerns-remain-in-focus-umich-survey-says-144047259.html"
-  },
-  {
-   "t": "威世波中壢新廠第4季啟用　搶高速光通訊商機",
-   "pub": "中央社財經",
-   "d": "2026-08-14",
-   "u": "https://www.cna.com.tw/news/afe/202608140337.aspx"
-  },
-  {
-   "t": "US business inventories unchanged in June",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/us-business-inventories-unchanged-june-143723135.html"
-  },
-  {
-   "t": "經部感謝立法院通過無人機預算　拚119年產值破400億",
-   "pub": "中央社財經",
-   "d": "2026-08-14",
-   "u": "https://www.cna.com.tw/news/afe/202608140335.aspx"
-  },
-  {
-   "t": "Workday, Silver Lake in discussions over potential $43B deal",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/workday-silver-lake-discussions-over-150400236.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/resmed-rmd-q4-2026-earnings-151328568.html"
   }
  ],
  "inst": {
