@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-15 00:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-15 00:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 305.55,
-   "c": 0.09,
+   "p": 305.37,
+   "c": 0.04,
    "a50": 309.18,
    "a200": 280.48,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 318.41,
-   "r": 43.3
+   "a20": 318.4,
+   "r": 43.1
   },
   {
    "s": "NVDA",
-   "p": 225.54,
-   "c": 0.11,
-   "a50": 206.53,
+   "p": 225.43,
+   "c": 0.06,
+   "a50": 206.52,
    "a200": 194.92,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 210.41,
-   "r": 63.4
+   "r": 63.3
   },
   {
    "s": "TSLA",
-   "p": 339.02,
-   "c": -0.28,
-   "a50": 371.02,
+   "p": 339.3,
+   "c": -0.19,
+   "a50": 371.03,
    "a200": 406.06,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 328.98,
-   "r": 47.3
+   "a20": 328.99,
+   "r": 47.4
   },
   {
    "s": "META",
-   "p": 593.9,
-   "c": -0.18,
-   "a50": 597.21,
+   "p": 593.16,
+   "c": -0.3,
+   "a50": 597.2,
    "a200": 627.65,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 594.87,
-   "r": 48.8
+   "a20": 594.84,
+   "r": 48.6
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7785.96,
-   "c": -0.17,
-   "a50": 7517.7,
-   "a200": 7064.44,
+   "p": 7786.46,
+   "c": -0.16,
+   "a50": 7512.4,
+   "a200": 7074.91,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7588.3,
-   "r": 65.9
+   "a20": 7585.03,
+   "r": 66.0
   },
   {
    "s": "^VIX",
-   "p": 14.68,
-   "c": 0.34,
-   "a50": 17.15,
+   "p": 14.7,
+   "c": 0.48,
+   "a50": 17.19,
    "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.73,
-   "r": 41.4
+   "a20": 16.65,
+   "r": 41.9
   },
   {
    "s": "BZ=F",
-   "p": 87.71,
-   "c": 0.74,
+   "p": 87.81,
+   "c": 0.85,
    "a50": 83.93,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.16,
-   "r": 52.4
+   "r": 52.5
   },
   {
    "s": "GC=F",
-   "p": 4450.7,
-   "c": 2.0,
-   "a50": 4159.42,
-   "a200": 4486.62,
+   "p": 4448.8,
+   "c": 1.95,
+   "a50": 4159.38,
+   "a200": 4486.61,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4178.14,
+   "a20": 4178.04,
    "r": 68.1
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": 0.17,
+   "p": 6.61,
+   "c": 0.25,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 59.7
+   "r": 60.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03125977,
-   "c": 0.67,
+   "p": 0.03126954,
+   "c": 0.7,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
   },
   {
-   "t": "JPMorgan Chase: How To Limit Risk On A Stock That's Doing Well",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slip after stocks hit record high, consumer sentiment declines",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/jpmorgan-chase-jpm-stock-bullish-butterfly-spread-options/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html"
   },
   {
    "t": "大樂透第115079期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "Morgan Stanley, JPMorgan Increase Crypto ETF Holdings in Q2",
+   "t": "JPMorgan Chase: How To Limit Risk On A Stock That's Doing Well",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-jpmorgan-increase-crypto-153100825.html"
+   "u": "https://www.investors.com/research/options/jpmorgan-chase-jpm-stock-bullish-butterfly-spread-options/?src=A00220&yptr=yahoo"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "China's courts rule workers can't be fired just because AI replaced them — and the US has no such protections",
+   "t": "US consumers sour on economy as inflation concerns remain in focus, UMich survey says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/chinas-courts-rule-workers-cant-153000752.html"
+   "u": "https://finance.yahoo.com/economy/article/us-consumers-sour-on-economy-as-inflation-concerns-remain-in-focus-umich-survey-says-144047259.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Steady After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)",
+   "t": "Morgan Stanley, JPMorgan Increase Crypto ETF Holdings in Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-jpmorgan-increase-crypto-153100825.html"
   },
   {
    "t": "台灣大上修全年獲利財測　電信業務營利拚年增15%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140340.aspx"
   },
   {
-   "t": "JPMorgan Turns Bullish on Salesforce as the Stock Runs Three Straight Weeks",
+   "t": "I Said This Fintech Growth Stock Was Bottoming Out in June, and I Was Right",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-turns-bullish-salesforce-stock-153045939.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/said-fintech-growth-stock-bottoming-155300271.html"
   }
  ],
  "inst": {
