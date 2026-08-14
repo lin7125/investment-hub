@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-15 02:00（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-15 02:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 306.02,
-   "c": 0.25,
+   "p": 305.71,
+   "c": 0.15,
    "a50": 309.19,
    "a200": 280.48,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 318.43,
-   "r": 43.8
+   "a20": 318.42,
+   "r": 43.5
   },
   {
    "s": "NVDA",
-   "p": 225.3,
-   "c": -0.0,
-   "a50": 206.52,
+   "p": 225.61,
+   "c": 0.14,
+   "a50": 206.53,
    "a200": 194.92,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 210.4,
-   "r": 63.2
+   "a20": 210.42,
+   "r": 63.4
   },
   {
    "s": "TSLA",
-   "p": 341.69,
-   "c": 0.51,
+   "p": 341.65,
+   "c": 0.5,
    "a50": 371.07,
    "a200": 406.08,
    "yh": 489.88,
@@ -245,85 +245,85 @@
   },
   {
    "s": "META",
-   "p": 591.6,
-   "c": -0.57,
+   "p": 591.45,
+   "c": -0.59,
    "a50": 597.17,
    "a200": 627.64,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 594.76,
+   "a20": 594.75,
    "r": 48.1
   },
   {
    "s": "^TWII",
    "p": 46021.48,
    "c": 1.11,
-   "a50": 44799.5,
-   "a200": 35815.32,
+   "a50": 44868.49,
+   "a200": 35559.39,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43629.27,
-   "r": 59.6
+   "a20": 43820.07,
+   "r": 58.5
   },
   {
    "s": "^GSPC",
-   "p": 7779.59,
-   "c": -0.25,
-   "a50": 7512.27,
-   "a200": 7074.87,
+   "p": 7782.74,
+   "c": -0.21,
+   "a50": 7512.33,
+   "a200": 7074.89,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7584.69,
-   "r": 65.2
+   "a20": 7584.84,
+   "r": 65.6
   },
   {
    "s": "^VIX",
-   "p": 14.34,
-   "c": -1.98,
+   "p": 14.31,
+   "c": -2.19,
    "a50": 17.18,
    "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.64,
-   "r": 40.4
+   "a20": 16.63,
+   "r": 40.3
   },
   {
    "s": "BZ=F",
-   "p": 88.45,
-   "c": 1.58,
+   "p": 88.37,
+   "c": 1.49,
    "a50": 83.94,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.19,
-   "r": 53.3
+   "r": 53.2
   },
   {
    "s": "GC=F",
-   "p": 4434.0,
-   "c": 1.61,
-   "a50": 4159.08,
+   "p": 4434.6,
+   "c": 1.63,
+   "a50": 4159.1,
    "a200": 4486.54,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.31,
+   "a20": 4177.34,
    "r": 67.4
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.11,
+   "c": 0.14,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 59.5
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03125977,
-   "c": 0.65,
+   "p": 0.03125,
+   "c": 0.64,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "Range Rover Maker JLR’s Luxury Engine Starts Sputtering",
+   "t": "Strong Market Rally Lifts Four Stocks Near Buy Points, New Highs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/range-rover-maker-jlr-luxury-174029862.html"
+   "u": "https://www.investors.com/stock-lists/new-highs/sp500-oil-tnk-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "Strong Market Rally Lifts Four Stocks Near Buy Points, New Highs",
+   "t": "Why defensibility is the hook for VC data center investments",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/stock-lists/new-highs/sp500-oil-tnk-stock/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/ai/articles/why-defensibility-hook-vc-data-173728431.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "Why defensibility is the hook for VC data center investments",
+   "t": "Cybersecurity Stock Sets Sights On Buy Point With Bolstered Outlook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/why-defensibility-hook-vc-data-173728431.html"
+   "u": "https://www.investors.com/stock-lists/stock-spotlight/cybersecurity-stock-mitek-mtk-ai-tech-software-earnings-markets-trading-investing/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台灣大上修全年獲利財測　電信業務營利拚年增15%",
