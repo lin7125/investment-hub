@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-15 01:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-15 01:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 305.31,
-   "c": 0.02,
+   "p": 305.46,
+   "c": 0.07,
    "a50": 309.18,
    "a200": 280.48,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 318.4,
-   "r": 43.1
+   "a20": 318.41,
+   "r": 43.2
   },
   {
    "s": "NVDA",
-   "p": 225.15,
-   "c": -0.07,
+   "p": 225.25,
+   "c": -0.02,
    "a50": 206.52,
    "a200": 194.92,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 210.39,
-   "r": 63.0
+   "a20": 210.4,
+   "r": 63.1
   },
   {
    "s": "TSLA",
-   "p": 338.59,
-   "c": -0.4,
-   "a50": 371.01,
+   "p": 338.88,
+   "c": -0.32,
+   "a50": 371.02,
    "a200": 406.06,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 328.96,
-   "r": 47.1
+   "a20": 328.97,
+   "r": 47.2
   },
   {
    "s": "META",
-   "p": 591.83,
-   "c": -0.53,
+   "p": 591.43,
+   "c": -0.59,
    "a50": 597.17,
    "a200": 627.64,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 594.77,
-   "r": 48.2
+   "a20": 594.75,
+   "r": 48.1
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7779.08,
-   "c": -0.26,
-   "a50": 7517.57,
-   "a200": 7064.41,
+   "p": 7781.25,
+   "c": -0.23,
+   "a50": 7512.3,
+   "a200": 7074.88,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7587.96,
-   "r": 65.1
+   "a20": 7584.77,
+   "r": 65.4
   },
   {
    "s": "^VIX",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.01,
-   "c": 1.08,
+   "p": 88.02,
+   "c": 1.09,
    "a50": 83.94,
    "a200": 81.75,
    "yh": 118.35,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4443.9,
-   "c": 1.84,
-   "a50": 4159.28,
-   "a200": 4486.59,
+   "p": 4440.5,
+   "c": 1.76,
+   "a50": 4159.21,
+   "a200": 4486.57,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.8,
-   "r": 67.8
+   "a20": 4177.63,
+   "r": 67.7
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.25,
+   "c": 0.24,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03126954,
-   "c": 0.69,
+   "c": 0.68,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140356.aspx"
   },
   {
-   "t": "MIT researchers find AI chatbots give women more conservative financial advice, costing them $60,000 by age 60",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slip after stocks hit record high, consumer sentiment declines",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mit-researchers-ai-chatbots-women-163000771.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html"
   },
   {
    "t": "大樂透第115079期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "Impermanent loss in crypto: Understanding the real risk of providing liquidity",
+   "t": "Financial advisors say $900K can be enough to retire — but only if you stop obsessing over the $1 million milestone",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/impermanent-loss-162416298.html"
+   "u": "https://finance.yahoo.com/markets/articles/financial-advisors-900k-enough-retire-170000884.html"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "Workday buyout may restore confidence in battered software valuations, analysts say",
+   "t": "Stock Market Today: Nasdaq Lags After Soft Retail Sales; Trump Tariff News Lifts These Defense Firms (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/workday-buyout-may-restore-confidence-161821546.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Sinks After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)",
+   "t": "SEC filing shows Softbank initiates stake in Capital One; sells 71.5% of its Taiwan Semi holdings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sec-filing-shows-softbank-initiates-165615828.html"
   },
   {
    "t": "台灣大上修全年獲利財測　電信業務營利拚年增15%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140340.aspx"
   },
   {
-   "t": "Stock Market Midday, Aug. 14: Stocks Wobble on Falling Consumer Confidence, Reddit Jumps 14%",
+   "t": "Should You Buy Lowe's Stock Before Aug. 19?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-aug-14-163537995.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/buy-lowes-stock-aug-19-170100033.html"
   }
  ],
  "inst": {
