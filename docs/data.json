@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-15 03:23（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-15 03:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 305.52,
-   "c": 0.09,
-   "a50": 309.18,
+   "p": 305.83,
+   "c": 0.19,
+   "a50": 309.19,
    "a200": 280.48,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 318.41,
-   "r": 43.3
+   "a20": 318.42,
+   "r": 43.6
   },
   {
    "s": "NVDA",
-   "p": 224.98,
-   "c": -0.14,
+   "p": 225.23,
+   "c": -0.03,
    "a50": 206.52,
    "a200": 194.92,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 210.39,
-   "r": 62.8
+   "a20": 210.4,
+   "r": 63.1
   },
   {
    "s": "TSLA",
-   "p": 341.37,
-   "c": 0.41,
-   "a50": 371.07,
-   "a200": 406.07,
+   "p": 342.27,
+   "c": 0.68,
+   "a50": 371.09,
+   "a200": 406.08,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 329.09,
-   "r": 48.4
+   "a20": 329.14,
+   "r": 48.8
   },
   {
    "s": "META",
-   "p": 590.95,
-   "c": -0.68,
-   "a50": 597.16,
+   "p": 591.61,
+   "c": -0.57,
+   "a50": 597.17,
    "a200": 627.64,
    "yh": 785.23,
    "yl": 525.72,
-   "a20": 594.73,
-   "r": 47.9
+   "a20": 594.76,
+   "r": 48.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7781.46,
-   "c": -0.22,
-   "a50": 7512.3,
-   "a200": 7074.88,
+   "p": 7783.4,
+   "c": -0.2,
+   "a50": 7512.34,
+   "a200": 7074.89,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7584.78,
-   "r": 65.4
+   "a20": 7584.88,
+   "r": 65.6
   },
   {
    "s": "^VIX",
-   "p": 14.42,
-   "c": -1.44,
+   "p": 14.38,
+   "c": -1.71,
    "a50": 17.18,
    "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.64,
-   "r": 40.7
+   "r": 40.6
   },
   {
    "s": "BZ=F",
-   "p": 88.55,
-   "c": 1.7,
-   "a50": 83.95,
+   "p": 88.42,
+   "c": 1.55,
+   "a50": 83.94,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.2,
-   "r": 53.5
+   "a20": 88.19,
+   "r": 53.3
   },
   {
    "s": "GC=F",
-   "p": 4433.6,
+   "p": 4433.2,
    "c": 1.6,
-   "a50": 4159.08,
-   "a200": 4486.54,
+   "a50": 4159.07,
+   "a200": 4486.53,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4177.29,
+   "a20": 4177.27,
    "r": 67.3
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.16,
+   "c": 0.14,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 59.7
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03125977,
-   "c": 0.65,
+   "c": 0.67,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140360.aspx"
   },
   {
-   "t": "Trump promised not to touch Social Security — but his Big Beautiful bill comes with a $169B shock. Protect yourself",
+   "t": "AAVE Price Forecast: Can This DEX Token Deliver 300% Gains Next?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/trump-promised-not-touch-social-110500883.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/aave-price-forecast-dex-token-094640540.html"
   },
   {
    "t": "今彩539第115197期　頭獎2注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608140355.aspx"
   },
   {
-   "t": "AAVE Price Forecast: Can This DEX Token Deliver 300% Gains Next?",
+   "t": "Best CD rates today, Thursday, August 13, 2026: Lock in up to 4.30% APY with a 16-month CD",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/aave-price-forecast-dex-token-094640540.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-august-13-2026-lock-in-up-to-430-apy-with-a-16-month-cd-100000968.html"
   },
   {
    "t": "Alphabet投資SpaceX部位10年翻百倍　達約3兆元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608140344.aspx"
   },
   {
-   "t": "China's WeRide eyes Australia, Southeast Asia among potential new markets after strong Q2",
+   "t": "SpaceX is racing back toward $150 — how to play a breakout with limited risk: Alpha Options Playbook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/chinas-weride-eyes-australia-southeast-090950869.html"
+   "u": "https://finance.yahoo.com/markets/options/article/spacex-is-racing-back-toward-150--how-to-play-a-breakout-with-limited-risk-alpha-options-playbook-100000079.html"
   },
   {
    "t": "網家第2季營業利益轉正　每股仍虧0.67元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140343.aspx"
   },
   {
-   "t": "Gold Pulls Back From Two-Month High as Markets Reassess Fed Rate Outlook",
+   "t": "XRP (Ripple) Just Did Something It Hasn't Done Since 2024, and Here's What It Means for Investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-pulls-back-two-month-092624171.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/xrp-ripple-just-did-something-093400072.html"
   }
  ],
  "inst": {
