@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14 15:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-14 15:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.64,
-   "c": 0.07,
+   "p": 14.65,
+   "c": 0.14,
    "a50": 17.19,
    "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.65,
-   "r": 41.6
+   "r": 41.7
   },
   {
    "s": "BZ=F",
-   "p": 88.45,
-   "c": 1.58,
+   "p": 88.47,
+   "c": 1.61,
    "a50": 83.94,
    "a200": 81.75,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.19,
-   "r": 53.3
+   "r": 53.4
   },
   {
    "s": "GC=F",
-   "p": 4389.0,
-   "c": 0.58,
-   "a50": 4158.18,
-   "a200": 4486.31,
+   "p": 4395.0,
+   "c": 0.72,
+   "a50": 4158.3,
+   "a200": 4486.34,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4175.06,
-   "r": 65.1
+   "a20": 4175.36,
+   "r": 65.4
   },
   {
    "s": "HG=F",
-   "p": 6.57,
-   "c": -0.27,
+   "p": 6.59,
+   "c": -0.08,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.49,
-   "r": 57.8
+   "r": 58.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03127932,
-   "c": 0.72,
+   "p": 0.0312989,
+   "c": 0.77,
    "a50": 0.03123048,
    "a200": 0.03161555,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140161.aspx"
   },
   {
-   "t": "NBIS Stock Surges 30% After Earnings, Defying Michael Burry's Bet Against Nebius",
+   "t": "Why Did Joby’s (JOBY) $500M Defense Bet Spook Investors?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nbis-stock-surges-30-earnings-193629757.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-did-joby-joby-500m-194652637.html"
   },
   {
    "t": "上半年住宅建照宅數年減28.2%　2018年以來同期新低",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140156.aspx"
   },
   {
-   "t": "How credit card travel insurance works",
+   "t": "Robinhood’s Crypto Slump Got the Headlines. Its 10x Business Got Ignored.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-credit-card-travel-insurance-works-182443342.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/robinhood-crypto-slump-got-headlines-194949580.html"
   },
   {
    "t": "日本曾想買那斯達克　今延長至23小時交易成「黑船」",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140149.aspx"
   },
   {
-   "t": "Nat-Gas Prices Close Higher on Warm Forecasts",
+   "t": "Citi Just Upped Its Price Target on WIX Stock. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/nat-gas-prices-close-higher-193855618.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/citi-just-upped-price-target-194946406.html"
   },
   {
    "t": "軍工股飆不敵電子回檔　台股跌210點終結連4漲",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140146.aspx"
   },
   {
-   "t": "AI Data Center Demand to TRIPLE by 2030 | GXO CEO on Logistics Impact",
+   "t": "MSGE Stock Breaks Out On Blowout Earnings As Concert Volumes Double",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-demand-triple-193933095.html"
+   "u": "https://www.investors.com/news/msge-stock-breakout-blowout-earnings-explosive-concert-volumes-cash-flow/?src=A00220&yptr=yahoo"
   },
   {
    "t": "國發會：僑外生留台新制見效　今年許可人數達3239人",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608140142.aspx"
   },
   {
-   "t": "Intel: BofA sees $20B raise fueling foundry and server CPU growth",
+   "t": "AI Freight Roll-Up: Why Fura Bought High-Rise",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/intel-bofa-sees-20b-raise-193300648.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-freight-roll-why-fura-195205921.html"
   }
  ],
  "inst": {
