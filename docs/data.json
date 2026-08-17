@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 04:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 04:11（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7745.39,
+   "p": 7745.06,
    "c": -0.52,
-   "a50": 7515.61,
+   "a50": 7515.6,
    "a200": 7079.17,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7600.1,
+   "a20": 7600.08,
    "r": 61.5
   },
   {
    "s": "^VIX",
-   "p": 15.23,
-   "c": 6.88,
+   "p": 15.21,
+   "c": 6.74,
    "a50": 17.18,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.46,
-   "r": 45.3
+   "r": 45.2
   },
   {
    "s": "BZ=F",
-   "p": 90.66,
-   "c": 2.42,
+   "p": 90.84,
+   "c": 2.62,
    "a50": 83.86,
    "a200": 81.88,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.27,
-   "r": 56.2
+   "a20": 88.28,
+   "r": 56.4
   },
   {
    "s": "GC=F",
-   "p": 4472.8,
-   "c": 2.11,
-   "a50": 4157.95,
-   "a200": 4488.8,
+   "p": 4475.3,
+   "c": 2.17,
+   "a50": 4158.0,
+   "a200": 4488.82,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.75,
-   "r": 69.4
+   "a20": 4197.87,
+   "r": 69.5
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.13,
+   "c": 0.18,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.5,
-   "r": 60.0
+   "a20": 6.51,
+   "r": 60.2
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170315.aspx"
   },
   {
-   "t": "Jim Cramer Breaks Down McDonald’s (MCD) Q2 Earnings and Execution Flaws",
+   "t": "Robert Kiyosaki reveals 'the biggest liability' that puts you at Wall Street's mercy. Is your nest egg about to crack?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-breaks-down-mcdonald-102722297.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/robert-kiyosaki-reveals-biggest-liability-111500295.html"
   },
   {
    "t": "今彩539第115199期　頭獎6注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
   },
   {
-   "t": "Robert Kiyosaki reveals 'the biggest liability' that puts you at Wall Street's mercy. Is your nest egg about to crack?",
+   "t": "Jim Cramer Breaks Down McDonald’s (MCD) Q2 Earnings and Execution Flaws",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/robert-kiyosaki-reveals-biggest-liability-111500295.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-breaks-down-mcdonald-102722297.html"
   },
   {
    "t": "威力彩第115066期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "The L.A. Lakers Delivered a 1-Year Return of 25%. These ETFs Have Done Even Better.",
+   "t": "Broadcom vs. AMD: Which AI Chip Stock Is the Better Buy?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/l-lakers-delivered-1-return-105000526.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-amd-ai-chip-105500056.html"
   }
  ],
  "inst": {
