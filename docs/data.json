@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 00:33（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 00:43（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 303.85,
-   "c": -0.68,
+   "p": 303.93,
+   "c": -0.65,
    "a50": 309.04,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.29,
-   "r": 42.1
+   "a20": 317.3,
+   "r": 42.2
   },
   {
    "s": "NVDA",
-   "p": 226.85,
-   "c": 0.75,
+   "p": 226.82,
+   "c": 0.74,
    "a50": 206.68,
    "a200": 195.05,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 339.99,
-   "c": -0.67,
+   "p": 340.2,
+   "c": -0.6,
    "a50": 369.52,
    "a200": 405.48,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.66,
+   "a20": 327.67,
    "r": 47.8
   },
   {
    "s": "META",
-   "p": 569.59,
-   "c": -3.44,
-   "a50": 595.97,
-   "a200": 626.73,
+   "p": 566.85,
+   "c": -3.9,
+   "a50": 595.92,
+   "a200": 626.71,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 590.86,
-   "r": 42.0
+   "a20": 590.72,
+   "r": 41.4
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7772.8,
-   "c": -0.17,
-   "a50": 7516.16,
-   "a200": 7079.31,
+   "p": 7771.06,
+   "c": -0.19,
+   "a50": 7516.12,
+   "a200": 7079.3,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7601.47,
-   "r": 64.4
+   "a20": 7601.38,
+   "r": 64.2
   },
   {
    "s": "^VIX",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.77,
-   "c": 0.28,
+   "p": 88.99,
+   "c": 0.53,
    "a50": 83.82,
    "a200": 81.87,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.17,
-   "r": 53.8
+   "a20": 88.18,
+   "r": 54.1
   },
   {
    "s": "GC=F",
-   "p": 4484.2,
-   "c": 2.37,
-   "a50": 4158.18,
-   "a200": 4488.86,
+   "p": 4480.7,
+   "c": 2.29,
+   "a50": 4158.11,
+   "a200": 4488.84,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4198.32,
-   "r": 69.9
+   "a20": 4198.15,
+   "r": 69.8
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.22,
+   "c": 0.21,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": 0.94,
+   "p": 0.0314169,
+   "c": 0.9,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
   },
   {
-   "t": "Historic retailer gets lifeline after warning it could collapse",
+   "t": "Warren Buffett's Berkshire raises stake in world's largest airline",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/historic-retailer-gets-lifeline-warning-220700487.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-raises-stake-214700937.html"
   },
   {
    "t": "威力彩第115066期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "Fulcrum Therapeutics & Slate Medicines Merge for Next-Generation Migraine Therapies",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/fulcrum-therapeutics-slate-medicines-merge-161113808.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "Investors Remember Why They Love Memory-Chip Stocks",
+   "t": "Fulcrum Therapeutics & Slate Medicines Merge for Next-Generation Migraine Therapies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/sk-hynix-sandisk-micron-memory-chip-stocks/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/fulcrum-therapeutics-slate-medicines-merge-161113808.html"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "This $9.8B Medicare subsidy was just ended — and millions are worried about Plan D. Will you be paying more in 2027?",
+   "t": "Kodiak Gas (KGS) Rides Record Earnings Into A Power Buildout",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/9-8b-medicare-subsidy-just-160500849.html"
+   "u": "https://finance.yahoo.com/energy/articles/kodiak-gas-kgs-rides-record-161011045.html"
   },
   {
    "t": "美伊60天談判窗口到期　和平協議希望消退油價小漲",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "Dollar falls against euro as markets trim rate hike bets",
+   "t": "SIG’s Turnaround Gets a CEO Plot Twist",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/yen-edges-traders-push-back-004148952.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sig-turnaround-gets-ceo-plot-160813677.html"
   },
   {
    "t": "AI需求帶旺　新加坡7月石油以外出口成長率增至24.2%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170299.aspx"
   },
   {
-   "t": "Morgan Stanley's troubling housing forecast is playing out now",
+   "t": "HIVE stock jumps 13% on Nvidia-linked $350M AI deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/morgan-stanleys-troubling-housing-forecast-161700972.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/hive-stock-jumps-13-nvidia-163000830.html"
   }
  ],
  "inst": {
