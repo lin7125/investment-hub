@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 03:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 03:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 305.78,
-   "c": -0.05,
+   "p": 305.83,
+   "c": -0.03,
    "a50": 309.08,
    "a200": 280.67,
    "yh": 340.08,
@@ -223,19 +223,19 @@
   },
   {
    "s": "NVDA",
-   "p": 225.45,
-   "c": 0.13,
+   "p": 225.68,
+   "c": 0.23,
    "a50": 206.66,
    "a200": 195.04,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.5,
-   "r": 63.2
+   "a20": 211.52,
+   "r": 63.4
   },
   {
    "s": "TSLA",
-   "p": 340.73,
-   "c": -0.45,
+   "p": 340.86,
+   "c": -0.41,
    "a50": 369.53,
    "a200": 405.48,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 568.73,
-   "c": -3.58,
-   "a50": 595.96,
-   "a200": 626.72,
+   "p": 569.67,
+   "c": -3.42,
+   "a50": 595.98,
+   "a200": 626.73,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 590.81,
-   "r": 41.8
+   "a20": 590.86,
+   "r": 42.1
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7753.25,
-   "c": -0.42,
-   "a50": 7515.77,
-   "a200": 7079.21,
+   "p": 7754.8,
+   "c": -0.4,
+   "a50": 7515.8,
+   "a200": 7079.22,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7600.49,
-   "r": 62.3
+   "a20": 7600.57,
+   "r": 62.5
   },
   {
    "s": "^VIX",
-   "p": 15.18,
-   "c": 6.53,
-   "a50": 17.17,
+   "p": 15.2,
+   "c": 6.67,
+   "a50": 17.18,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.46,
-   "r": 45.1
+   "r": 45.2
   },
   {
    "s": "BZ=F",
-   "p": 90.58,
-   "c": 2.33,
+   "p": 90.75,
+   "c": 2.52,
    "a50": 83.86,
    "a200": 81.88,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.26,
-   "r": 56.1
+   "a20": 88.27,
+   "r": 56.3
   },
   {
    "s": "GC=F",
-   "p": 4462.9,
-   "c": 1.88,
-   "a50": 4157.75,
-   "a200": 4488.75,
+   "p": 4459.9,
+   "c": 1.81,
+   "a50": 4157.69,
+   "a200": 4488.74,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.25,
-   "r": 69.0
+   "a20": 4197.1,
+   "r": 68.8
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.05,
+   "c": -0.02,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 59.7
+   "r": 59.4
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170315.aspx"
   },
   {
-   "t": "NiSource (NI): A Costly Quarter Masks A Bigger Bet",
+   "t": "Jim Cramer Advises Ditching Stellantis (STLA) for General Motors (GM)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nisource-ni-costly-quarter-masks-100126971.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-advises-ditching-stellantis-100432863.html"
   },
   {
    "t": "今彩539第115199期　頭獎6注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
   },
   {
-   "t": "Jim Cramer Advises Ditching Stellantis (STLA) for General Motors (GM)",
+   "t": "NiSource (NI): A Costly Quarter Masks A Bigger Bet",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-advises-ditching-stellantis-100432863.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nisource-ni-costly-quarter-masks-100126971.html"
   },
   {
    "t": "威力彩第115066期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "Jim Cramer Discusses Restaurant Brands (QSR) Q2 Earnings and Burger King’s Resurgence",
+   "t": "Jim Cramer Backs NVIDIA (NVDA) Compute Bonds",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-restaurant-brands-093800181.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-backs-nvidia-nvda-101719339.html"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "What’s Really Behind Symbotic’s (SYM) Big Quarter?",
+   "t": "Eli Lilly’s (LLY) Growth Story Keeps Adding Chapters",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/really-behind-symbotic-sym-big-093702283.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-growth-story-101834928.html"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "Meet the Roundhill ETF With 26% of Its Assets Parked in Micron Technology Stock",
+   "t": "Elon Musk Has Said He Wants 25% Voting Control of Tesla to Feel Comfortable Leading Its AI Push. Here's What That Threshold Means for Shareholders.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/meet-roundhill-etf-26-assets-095900695.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-said-wants-25-100500269.html"
   }
  ],
  "inst": {
