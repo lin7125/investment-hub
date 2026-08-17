@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 02:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 02:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 304.23,
-   "c": -0.56,
-   "a50": 309.05,
+   "p": 304.67,
+   "c": -0.41,
+   "a50": 309.06,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.31,
-   "r": 42.4
+   "a20": 317.33,
+   "r": 42.7
   },
   {
    "s": "NVDA",
-   "p": 225.53,
-   "c": 0.16,
+   "p": 225.67,
+   "c": 0.23,
    "a50": 206.66,
    "a200": 195.04,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 211.51,
-   "r": 63.3
+   "r": 63.4
   },
   {
    "s": "TSLA",
-   "p": 339.48,
-   "c": -0.82,
-   "a50": 369.51,
+   "p": 339.43,
+   "c": -0.83,
+   "a50": 369.5,
    "a200": 405.47,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.64,
+   "a20": 327.63,
    "r": 47.5
   },
   {
    "s": "META",
-   "p": 565.91,
-   "c": -4.06,
-   "a50": 595.9,
+   "p": 566.3,
+   "c": -3.99,
+   "a50": 595.91,
    "a200": 626.71,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 590.67,
+   "a20": 590.69,
    "r": 41.2
   },
   {
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7754.81,
-   "c": -0.4,
-   "a50": 7515.8,
-   "a200": 7079.22,
+   "p": 7758.12,
+   "c": -0.36,
+   "a50": 7515.87,
+   "a200": 7079.24,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7600.57,
-   "r": 62.5
+   "a20": 7600.74,
+   "r": 62.8
   },
   {
    "s": "^VIX",
-   "p": 15.2,
-   "c": 6.67,
-   "a50": 17.18,
+   "p": 15.17,
+   "c": 6.46,
+   "a50": 17.17,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.46,
-   "r": 45.2
+   "r": 45.0
   },
   {
    "s": "BZ=F",
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4472.5,
-   "c": 2.1,
-   "a50": 4157.95,
-   "a200": 4488.8,
+   "p": 4469.7,
+   "c": 2.04,
+   "a50": 4157.89,
+   "a200": 4488.79,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.73,
-   "r": 69.4
+   "a20": 4197.6,
+   "r": 69.3
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.1,
+   "c": 0.09,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 59.9
+   "r": 59.8
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
   },
   {
-   "t": "APR vs. interest rate: What you need to know when mortgage shopping",
+   "t": "I co-signed my brother's student loans over a decade ago — but he's suddenly stopped paying them. What can I do?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/apr-vs-interest-rate-175223561.html"
+   "u": "https://finance.yahoo.com/small-business/articles/co-signed-brothers-student-loans-090000943.html"
   },
   {
    "t": "威力彩第115066期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Falls, Oil Up After Trump Oman Threat; Energy Stock Clears Entry (Live Coverage)",
+   "t": "Jim Cramer Explains Why Starboard Value’s Stake in Shake Shack (SHAK) Is a Game-Changer",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-starboard-092750956.html"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "SpaceX Stock: Here's A Way To Profit From This Volatile IPO",
+   "t": "The Social Security bump for 3 million Americans you completely forgot about — do you still qualify?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/spacex-spcx-stock-space-exploration-technologies-bear-put-spread-options/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/policy/articles/social-security-bump-3-million-093000754.html"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "Airbnb 'rental arbitrage' lets entrepreneurs earn cash from short-term rentals without owning a single property",
+   "t": "What’s Really Behind Symbotic’s (SYM) Big Quarter?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/airbnb-rental-arbitrage-lets-entrepreneurs-173000455.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/really-behind-symbotic-sym-big-093702283.html"
   },
   {
    "t": "美伊60天談判窗口到期　和平協議希望消退油價小漲",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "JPMorgan warns a brutal grocery shock could hit boomers, as USDA says prices may jump 12.3%. Is your nest egg ready?",
+   "t": "Where Will Bitcoin Be in 5 Years?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/jpmorgan-warns-brutal-grocery-shock-173000391.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/where-bitcoin-5-years-091500294.html"
   }
  ],
  "inst": {
