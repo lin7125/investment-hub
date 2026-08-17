@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 00:22（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 00:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 303.76,
-   "c": -0.71,
+   "p": 303.85,
+   "c": -0.68,
    "a50": 309.04,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 317.29,
-   "r": 42.0
+   "r": 42.1
   },
   {
    "s": "NVDA",
-   "p": 227.26,
-   "c": 0.93,
-   "a50": 206.69,
+   "p": 226.85,
+   "c": 0.75,
+   "a50": 206.68,
    "a200": 195.05,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.59,
-   "r": 64.5
+   "a20": 211.57,
+   "r": 64.2
   },
   {
    "s": "TSLA",
-   "p": 340.53,
-   "c": -0.51,
-   "a50": 369.53,
+   "p": 339.99,
+   "c": -0.67,
+   "a50": 369.52,
    "a200": 405.48,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.69,
-   "r": 48.0
+   "a20": 327.66,
+   "r": 47.8
   },
   {
    "s": "META",
-   "p": 570.43,
-   "c": -3.29,
-   "a50": 595.99,
+   "p": 569.59,
+   "c": -3.44,
+   "a50": 595.97,
    "a200": 626.73,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 590.9,
-   "r": 42.2
+   "a20": 590.86,
+   "r": 42.0
   },
   {
    "s": "^TWII",
@@ -267,36 +267,36 @@
   },
   {
    "s": "^GSPC",
-   "p": 7776.25,
-   "c": -0.12,
-   "a50": 7516.23,
-   "a200": 7079.33,
+   "p": 7772.8,
+   "c": -0.17,
+   "a50": 7516.16,
+   "a200": 7079.31,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7601.64,
-   "r": 64.8
+   "a20": 7601.47,
+   "r": 64.4
   },
   {
    "s": "^VIX",
-   "p": 15.07,
-   "c": 5.75,
+   "p": 15.02,
+   "c": 5.4,
    "a50": 17.17,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.45,
-   "r": 44.5
+   "r": 44.3
   },
   {
    "s": "BZ=F",
-   "p": 88.92,
-   "c": 0.45,
+   "p": 88.77,
+   "c": 0.28,
    "a50": 83.82,
    "a200": 81.87,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.18,
-   "r": 54.0
+   "a20": 88.17,
+   "r": 53.8
   },
   {
    "s": "GC=F",
@@ -312,13 +312,13 @@
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.12,
+   "c": 0.22,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.5,
-   "r": 59.9
+   "a20": 6.51,
+   "r": 60.3
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "Investors Remember Why They Love Memory-Chip Stocks",
+   "t": "Fulcrum Therapeutics & Slate Medicines Merge for Next-Generation Migraine Therapies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/sk-hynix-sandisk-micron-memory-chip-stocks/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/fulcrum-therapeutics-slate-medicines-merge-161113808.html"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "This $9.8B Medicare subsidy was just ended — and millions are worried about Plan D. Will you be paying more in 2027?",
+   "t": "Investors Remember Why They Love Memory-Chip Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/9-8b-medicare-subsidy-just-160500849.html"
+   "u": "https://www.investors.com/news/technology/sk-hynix-sandisk-micron-memory-chip-stocks/?src=A00220&yptr=yahoo"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "Dollar falls against euro as markets trim rate hike bets",
+   "t": "This $9.8B Medicare subsidy was just ended — and millions are worried about Plan D. Will you be paying more in 2027?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/yen-edges-traders-push-back-004148952.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/9-8b-medicare-subsidy-just-160500849.html"
   },
   {
    "t": "美伊60天談判窗口到期　和平協議希望消退油價小漲",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "SpaceX's biggest investors are finally visible — just as millions more shares unlock: Chart of the Day",
+   "t": "Dollar falls against euro as markets trim rate hike bets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/spacexs-biggest-investors-are-finally-visible--just-as-millions-more-shares-unlock-chart-of-the-day-154946600.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/yen-edges-traders-push-back-004148952.html"
   },
   {
    "t": "AI需求帶旺　新加坡7月石油以外出口成長率增至24.2%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170299.aspx"
   },
   {
-   "t": "Anthropic’s $2 trillion IPO dream rests on staggering revenue bet",
+   "t": "Morgan Stanley's troubling housing forecast is playing out now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-2-trillion-ipo-dream-160300727.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/morgan-stanleys-troubling-housing-forecast-161700972.html"
   }
  ],
  "inst": {
