@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 03:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 03:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 306.23,
-   "c": 0.1,
-   "a50": 309.09,
+   "p": 305.64,
+   "c": -0.09,
+   "a50": 309.08,
    "a200": 280.67,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.41,
-   "r": 44.0
+   "a20": 317.38,
+   "r": 43.4
   },
   {
    "s": "NVDA",
-   "p": 225.55,
-   "c": 0.17,
+   "p": 225.86,
+   "c": 0.31,
    "a50": 206.66,
    "a200": 195.04,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.51,
-   "r": 63.3
+   "a20": 211.52,
+   "r": 63.5
   },
   {
    "s": "TSLA",
-   "p": 340.58,
-   "c": -0.49,
-   "a50": 369.53,
-   "a200": 405.48,
+   "p": 339.65,
+   "c": -0.76,
+   "a50": 369.51,
+   "a200": 405.47,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.69,
-   "r": 48.0
+   "a20": 327.64,
+   "r": 47.6
   },
   {
    "s": "META",
-   "p": 569.24,
-   "c": -3.49,
-   "a50": 595.97,
+   "p": 567.8,
+   "c": -3.74,
+   "a50": 595.94,
    "a200": 626.72,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 590.84,
-   "r": 41.9
+   "a20": 590.77,
+   "r": 41.6
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7751.58,
-   "c": -0.44,
-   "a50": 7515.73,
-   "a200": 7079.21,
+   "p": 7750.1,
+   "c": -0.46,
+   "a50": 7515.71,
+   "a200": 7079.2,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7600.41,
-   "r": 62.2
+   "a20": 7600.34,
+   "r": 62.0
   },
   {
    "s": "^VIX",
-   "p": 15.22,
-   "c": 6.81,
+   "p": 15.21,
+   "c": 6.74,
    "a50": 17.18,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.46,
-   "r": 45.3
+   "r": 45.2
   },
   {
    "s": "BZ=F",
-   "p": 90.67,
-   "c": 2.43,
+   "p": 90.68,
+   "c": 2.44,
    "a50": 83.86,
    "a200": 81.88,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.27,
-   "r": 56.2
+   "r": 56.3
   },
   {
    "s": "GC=F",
-   "p": 4471.6,
-   "c": 2.08,
-   "a50": 4157.93,
-   "a200": 4488.8,
+   "p": 4470.4,
+   "c": 2.05,
+   "a50": 4157.9,
+   "a200": 4488.79,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.69,
-   "r": 69.4
+   "a20": 4197.63,
+   "r": 69.3
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.12,
+   "c": 0.1,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170315.aspx"
   },
   {
-   "t": "New surveys show central banks are ditching the dollar and buying more gold instead — should you follow along?",
+   "t": "Jim Cramer Breaks Down McDonald’s (MCD) Q2 Earnings and Execution Flaws",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/surveys-show-central-banks-ditching-102000700.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-breaks-down-mcdonald-102722297.html"
   },
   {
    "t": "今彩539第115199期　頭獎6注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
   },
   {
-   "t": "Eli Lilly’s (LLY) Growth Story Keeps Adding Chapters",
+   "t": "New surveys show central banks are ditching the dollar and buying more gold instead — should you follow along?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-growth-story-101834928.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/surveys-show-central-banks-ditching-102000700.html"
   },
   {
    "t": "威力彩第115066期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "Jim Cramer Backs NVIDIA (NVDA) Compute Bonds",
+   "t": "Eli Lilly’s (LLY) Growth Story Keeps Adding Chapters",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-backs-nvidia-nvda-101719339.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-growth-story-101834928.html"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "Jim Cramer Breaks Down McDonald’s (MCD) Q2 Earnings and Execution Flaws",
+   "t": "Jim Cramer Backs NVIDIA (NVDA) Compute Bonds",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-breaks-down-mcdonald-102722297.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-backs-nvidia-nvda-101719339.html"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "Walmart Stock Has Been Sluggish This Year. Should You Buy it Before It Reports Earnings on Aug. 20?",
+   "t": "Warren Buffett's Successor, Greg Abel, Put Nearly $35 Billion of Cash to Work Last Quarter. Here's What He Bought.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-sluggish-buy-reports-102000691.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-102200832.html"
   }
  ],
  "inst": {
