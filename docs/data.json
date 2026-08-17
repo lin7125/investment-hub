@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-17 22:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-17 22:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 304.7,
-   "c": -0.4,
+   "p": 304.81,
+   "c": -0.37,
    "a50": 309.06,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.33,
-   "r": 42.7
+   "a20": 317.34,
+   "r": 42.8
   },
   {
    "s": "NVDA",
-   "p": 225.62,
-   "c": 0.2,
-   "a50": 206.66,
-   "a200": 195.04,
+   "p": 226.17,
+   "c": 0.45,
+   "a50": 206.67,
+   "a200": 195.05,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.51,
-   "r": 63.4
+   "a20": 211.54,
+   "r": 63.7
   },
   {
    "s": "TSLA",
-   "p": 339.76,
-   "c": -0.73,
-   "a50": 369.51,
+   "p": 340.2,
+   "c": -0.6,
+   "a50": 369.52,
    "a200": 405.48,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.65,
-   "r": 47.6
+   "a20": 327.67,
+   "r": 47.8
   },
   {
    "s": "META",
-   "p": 579.75,
-   "c": -1.71,
-   "a50": 596.18,
-   "a200": 626.78,
+   "p": 579.49,
+   "c": -1.76,
+   "a50": 596.17,
+   "a200": 626.77,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 591.37,
-   "r": 44.7
+   "a20": 591.35,
+   "r": 44.6
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7775.2,
+   "p": 7774.67,
    "c": -0.14,
-   "a50": 7516.21,
+   "a50": 7516.2,
    "a200": 7079.32,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7601.59,
-   "r": 64.7
+   "a20": 7601.56,
+   "r": 64.6
   },
   {
    "s": "^VIX",
-   "p": 14.99,
-   "c": 5.19,
+   "p": 15.03,
+   "c": 5.47,
    "a50": 17.17,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.45,
-   "r": 44.1
+   "r": 44.3
   },
   {
    "s": "BZ=F",
-   "p": 88.97,
-   "c": 0.51,
+   "p": 88.78,
+   "c": 0.29,
    "a50": 83.82,
    "a200": 81.87,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.18,
-   "r": 54.0
+   "a20": 88.17,
+   "r": 53.8
   },
   {
    "s": "GC=F",
-   "p": 4465.1,
-   "c": 1.93,
-   "a50": 4157.8,
-   "a200": 4488.76,
+   "p": 4462.0,
+   "c": 1.86,
+   "a50": 4157.74,
+   "a200": 4488.75,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.37,
-   "r": 69.1
+   "a20": 4197.21,
+   "r": 68.9
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.15,
+   "c": 0.17,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": 0.95,
+   "p": 0.03143666,
+   "c": 0.97,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "Billionaire Bill Ackman doubles down on these stocks in Q2",
+   "t": "Historic retailer gets lifeline after warning it could collapse",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-doubles-down-020300181.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/historic-retailer-gets-lifeline-warning-220700487.html"
   },
   {
    "t": "美伊60天談判窗口到期　和平協議希望消退油價小漲",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "Target stock is on fire — but a big test lurks",
+   "t": "Israel’s Largest Crypto Broker Reports Data Breach",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/target-stock-is-on-fire--but-a-big-test-lurks-134816381.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/israel-largest-crypto-broker-reports-141000691.html"
   },
   {
    "t": "AI需求帶旺　新加坡7月石油以外出口成長率增至24.2%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170299.aspx"
   },
   {
-   "t": "Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report",
+   "t": "Space Exploration Technologies Corp. (SPCX) Says $100 Billion in Revenue Is Coming by December. Here’s the Math Behind It: (ready for Vardah)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-17-2026-gold-ticks-up-after-lower-retail-sales-report-134755206.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-corp-spcx-140305877.html"
   },
   {
    "t": "床的世界上櫃承銷價暫定20元　鎖定3主軸進軍國際",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170298.aspx"
   },
   {
-   "t": "Tesla (TSLA) Advances After Beating Key Metrics in Q1",
+   "t": "US home builder sentiment ticks up in August but remains weak overall",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-advances-beating-key-133812996.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/us-home-builder-sentiment-ticks-140218719.html"
   },
   {
    "t": "蘋果同意修改App廣告追蹤規則　德國結束多年調查",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170296.aspx"
   },
   {
-   "t": "ChatGPT and Billionaire Bill Ackman Agree on Visa (V)",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-billionaire-bill-ackman-agree-133636224.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
   },
   {
    "t": "威力彩第115066期開獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170291.aspx"
   },
   {
-   "t": "Historic retailer gets lifeline after warning it could collapse",
+   "t": "Billionaire David Tepper Trimmed Micron and Sold out of SanDisk. Here’s the New AI Stocks He’s Buying",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/historic-retailer-gets-lifeline-warning-220700487.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-trimmed-micron-140913563.html"
   }
  ],
  "inst": {
