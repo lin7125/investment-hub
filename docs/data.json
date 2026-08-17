@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-17 23:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-17 23:31（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 304.77,
-   "c": -0.38,
+   "p": 304.52,
+   "c": -0.46,
    "a50": 309.06,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.34,
-   "r": 42.8
+   "a20": 317.33,
+   "r": 42.6
   },
   {
    "s": "NVDA",
-   "p": 227.59,
-   "c": 1.08,
-   "a50": 206.7,
+   "p": 227.41,
+   "c": 1.0,
+   "a50": 206.69,
    "a200": 195.05,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.61,
-   "r": 64.7
+   "a20": 211.6,
+   "r": 64.6
   },
   {
    "s": "TSLA",
-   "p": 340.58,
-   "c": -0.49,
+   "p": 340.88,
+   "c": -0.41,
    "a50": 369.53,
    "a200": 405.48,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.69,
-   "r": 48.0
+   "a20": 327.7,
+   "r": 48.2
   },
   {
    "s": "META",
-   "p": 574.77,
-   "c": -2.56,
-   "a50": 596.08,
+   "p": 574.27,
+   "c": -2.64,
+   "a50": 596.07,
    "a200": 626.75,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 591.12,
-   "r": 43.3
+   "a20": 591.09,
+   "r": 43.2
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7778.57,
-   "c": -0.09,
-   "a50": 7516.27,
+   "p": 7777.82,
+   "c": -0.1,
+   "a50": 7516.26,
    "a200": 7079.34,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7601.76,
-   "r": 65.1
+   "a20": 7601.72,
+   "r": 65.0
   },
   {
    "s": "^VIX",
-   "p": 14.97,
-   "c": 5.05,
+   "p": 14.95,
+   "c": 4.91,
    "a50": 17.17,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.45,
-   "r": 44.0
+   "r": 43.9
   },
   {
    "s": "BZ=F",
-   "p": 88.7,
-   "c": 0.2,
+   "p": 88.9,
+   "c": 0.43,
    "a50": 83.82,
    "a200": 81.87,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.17,
-   "r": 53.7
+   "a20": 88.18,
+   "r": 54.0
   },
   {
    "s": "GC=F",
-   "p": 4476.7,
-   "c": 2.2,
-   "a50": 4158.03,
-   "a200": 4488.82,
+   "p": 4479.1,
+   "c": 2.25,
+   "a50": 4158.08,
+   "a200": 4488.83,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.95,
-   "r": 69.6
+   "a20": 4198.07,
+   "r": 69.7
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.21,
+   "c": 0.1,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.51,
-   "r": 60.3
+   "a20": 6.5,
+   "r": 59.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03142678,
-   "c": 0.94,
+   "c": 0.95,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
+   "t": "The Numbers Behind Assured Guaranty’s (AGO) Record-Setting Quarter",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/numbers-behind-assured-guaranty-ago-150922259.html"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "Gen Z swaps retirement saving for sports betting",
+   "t": "GSK Eyes AnaptysBio (ANAB) Acquisition to Secure Drug Control",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/gen-z-swaps-retirement-saving-for-sports-betting-150207350.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/gsk-eyes-anaptysbio-anab-acquisition-150348750.html"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Disclosed",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/spacex-stock-elon-musk-nvidia-alphabet-google-peter-thiel/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
   },
   {
    "t": "美伊60天談判窗口到期　和平協議希望消退油價小漲",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "Kingsway Corporation (KWY) Has Large Rerating Potential on Execution Discipline",
+   "t": "Gen Z swaps retirement saving for sports betting",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/kingsway-corporation-kwy-large-rerating-145650333.html"
+   "u": "https://finance.yahoo.com/markets/article/gen-z-swaps-retirement-saving-for-sports-betting-150207350.html"
   },
   {
    "t": "AI需求帶旺　新加坡7月石油以外出口成長率增至24.2%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170299.aspx"
   },
   {
-   "t": "HIVE Digital Technologies Q1 Earnings Call Highlights",
+   "t": "Medical Properties Trust (MPT) Q2 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-technologies-q1-earnings-150215670.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/medical-properties-trust-mpt-q2-151418679.html"
   }
  ],
  "inst": {
