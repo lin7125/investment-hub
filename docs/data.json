@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 00:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 01:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,41 +212,41 @@
   },
   {
    "s": "AAPL",
-   "p": 303.67,
-   "c": -0.74,
+   "p": 303.46,
+   "c": -0.81,
    "a50": 309.04,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.28,
-   "r": 42.0
+   "a20": 317.27,
+   "r": 41.8
   },
   {
    "s": "NVDA",
-   "p": 226.9,
-   "c": 0.77,
-   "a50": 206.68,
+   "p": 227.05,
+   "c": 0.84,
+   "a50": 206.69,
    "a200": 195.05,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 211.58,
-   "r": 64.2
+   "r": 64.3
   },
   {
    "s": "TSLA",
-   "p": 339.55,
-   "c": -0.79,
+   "p": 339.54,
+   "c": -0.8,
    "a50": 369.51,
    "a200": 405.47,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 327.64,
-   "r": 47.6
+   "r": 47.5
   },
   {
    "s": "META",
-   "p": 567.34,
-   "c": -3.82,
+   "p": 567.41,
+   "c": -3.8,
    "a50": 595.93,
    "a200": 626.71,
    "yh": 780.25,
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7769.14,
-   "c": -0.21,
-   "a50": 7516.09,
+   "p": 7767.66,
+   "c": -0.23,
+   "a50": 7516.06,
    "a200": 7079.29,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7601.29,
-   "r": 64.0
+   "a20": 7601.21,
+   "r": 63.9
   },
   {
    "s": "^VIX",
-   "p": 15.06,
-   "c": 5.68,
+   "p": 15.11,
+   "c": 6.04,
    "a50": 17.17,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.45,
-   "r": 44.5
+   "r": 44.7
   },
   {
    "s": "BZ=F",
-   "p": 89.08,
-   "c": 0.63,
+   "p": 89.3,
+   "c": 0.88,
    "a50": 83.83,
    "a200": 81.87,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.19,
-   "r": 54.2
+   "a20": 88.2,
+   "r": 54.5
   },
   {
    "s": "GC=F",
-   "p": 4483.3,
-   "c": 2.35,
-   "a50": 4158.16,
-   "a200": 4488.86,
+   "p": 4480.4,
+   "c": 2.28,
+   "a50": 4158.1,
+   "a200": 4488.84,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4198.27,
-   "r": 69.9
+   "a20": 4198.13,
+   "r": 69.8
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.23,
+   "c": 0.2,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 60.4
+   "r": 60.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": 0.92,
+   "p": 0.03140704,
+   "c": 0.9,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "今彩539第115199期　頭獎6注中獎",
+   "t": "森崴能源虧損下市　胡正杰擬收購逾5成股權",
    "pub": "中央社財經",
    "d": "2026-08-17",
-   "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608170315.aspx"
   },
   {
    "t": "Warren Buffett's Berkshire raises stake in world's largest airline",
@@ -344,16 +344,28 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-raises-stake-214700937.html"
   },
   {
+   "t": "今彩539第115199期　頭獎6注中獎",
+   "pub": "中央社財經",
+   "d": "2026-08-17",
+   "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
+  },
+  {
+   "t": "Micron Stock Claws Back From Lows To A Buy Point",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/research/micron-technology-stock-mu-memory-chip-dram/?src=A00220&yptr=yahoo"
+  },
+  {
    "t": "威力彩第115066期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-08-17",
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
+   "t": "Nvidia Reportedly Infuses Cash Into Potential AI Infrastructure IPO. Here's Why",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
+   "u": "https://www.investors.com/news/nvidia-stock-sb-energy-stock-openai-billion-deal-softbank/?src=A00220&yptr=yahoo"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -362,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "Fulcrum Therapeutics & Slate Medicines Merge for Next-Generation Migraine Therapies",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/fulcrum-therapeutics-slate-medicines-merge-161113808.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -374,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "Kodiak Gas (KGS) Rides Record Earnings Into A Power Buildout",
+   "t": "Fulcrum Therapeutics & Slate Medicines Merge for Next-Generation Migraine Therapies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/kodiak-gas-kgs-rides-record-161011045.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/fulcrum-therapeutics-slate-medicines-merge-161113808.html"
   },
   {
    "t": "美伊60天談判窗口到期　和平協議希望消退油價小漲",
@@ -386,22 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "SIG’s Turnaround Gets a CEO Plot Twist",
+   "t": "Uber and Zipline partner on drone delivery for Uber Eats",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sig-turnaround-gets-ceo-plot-160813677.html"
-  },
-  {
-   "t": "AI需求帶旺　新加坡7月石油以外出口成長率增至24.2%",
-   "pub": "中央社財經",
-   "d": "2026-08-17",
-   "u": "https://www.cna.com.tw/news/aopl/202608170299.aspx"
-  },
-  {
-   "t": "Elon Musk Is $142 Billion Short Of A $1 Trillion Net Worth",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-142-billion-short-163749187.html"
+   "u": "https://finance.yahoo.com/technology/articles/uber-zipline-partner-drone-delivery-165012064.html"
   }
  ],
  "inst": {
