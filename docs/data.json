@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-17 23:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-17 23:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 304.55,
-   "c": -0.45,
+   "p": 304.77,
+   "c": -0.38,
    "a50": 309.06,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.33,
-   "r": 42.6
+   "a20": 317.34,
+   "r": 42.8
   },
   {
    "s": "NVDA",
-   "p": 226.79,
-   "c": 0.73,
-   "a50": 206.68,
+   "p": 227.59,
+   "c": 1.08,
+   "a50": 206.7,
    "a200": 195.05,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.57,
-   "r": 64.2
+   "a20": 211.61,
+   "r": 64.7
   },
   {
    "s": "TSLA",
-   "p": 340.8,
-   "c": -0.43,
+   "p": 340.58,
+   "c": -0.49,
    "a50": 369.53,
    "a200": 405.48,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.7,
-   "r": 48.1
+   "a20": 327.69,
+   "r": 48.0
   },
   {
    "s": "META",
-   "p": 573.68,
-   "c": -2.74,
-   "a50": 596.06,
+   "p": 574.77,
+   "c": -2.56,
+   "a50": 596.08,
    "a200": 626.75,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 591.06,
-   "r": 43.1
+   "a20": 591.12,
+   "r": 43.3
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7775.09,
-   "c": -0.14,
-   "a50": 7516.2,
-   "a200": 7079.32,
+   "p": 7778.57,
+   "c": -0.09,
+   "a50": 7516.27,
+   "a200": 7079.34,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7601.59,
-   "r": 64.7
+   "a20": 7601.76,
+   "r": 65.1
   },
   {
    "s": "^VIX",
-   "p": 15.0,
-   "c": 5.26,
+   "p": 14.97,
+   "c": 5.05,
    "a50": 17.17,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.45,
-   "r": 44.2
+   "r": 44.0
   },
   {
    "s": "BZ=F",
-   "p": 88.74,
-   "c": 0.25,
+   "p": 88.7,
+   "c": 0.2,
    "a50": 83.82,
    "a200": 81.87,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4475.0,
-   "c": 2.16,
-   "a50": 4158.0,
-   "a200": 4488.81,
+   "p": 4476.7,
+   "c": 2.2,
+   "a50": 4158.03,
+   "a200": 4488.82,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.86,
-   "r": 69.5
+   "a20": 4197.95,
+   "r": 69.6
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": 0.33,
+   "p": 6.61,
+   "c": 0.21,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 60.7
+   "r": 60.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": 0.93,
+   "p": 0.03142678,
+   "c": 0.94,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "Kingsway Corporation (KWY) Has Large Rerating Potential on Execution Discipline",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/kingsway-corporation-kwy-large-rerating-145650333.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "Nature’s Sunshine (NATR) Lays Out a $1B Growth Target Amid Guidance Cuts",
+   "t": "Gen Z swaps retirement saving for sports betting",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nature-sunshine-natr-lays-1b-145135828.html"
+   "u": "https://finance.yahoo.com/markets/article/gen-z-swaps-retirement-saving-for-sports-betting-150207350.html"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "Retail Investors Just Sold Space Exploration Technologies Corp. (SPCX) for the First Time. The Stock Also Just Reclaimed Its IPO Price",
+   "t": "Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Disclosed",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-just-sold-space-144957058.html"
+   "u": "https://www.investors.com/news/spacex-stock-elon-musk-nvidia-alphabet-google-peter-thiel/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美伊60天談判窗口到期　和平協議希望消退油價小漲",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "Billionaire Stanley Druckenmiller and Brad Gerstner Both Dumped Broadcom (AVGO) and Bought This AI Stock Instead",
+   "t": "Kingsway Corporation (KWY) Has Large Rerating Potential on Execution Discipline",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-brad-gerstner-144900858.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kingsway-corporation-kwy-large-rerating-145650333.html"
   },
   {
    "t": "AI需求帶旺　新加坡7月石油以外出口成長率增至24.2%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170299.aspx"
   },
   {
-   "t": "Intel’s secondary share sale explained",
+   "t": "HIVE Digital Technologies Q1 Earnings Call Highlights",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intel-secondary-share-sale-explained-144900322.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-technologies-q1-earnings-150215670.html"
   }
  ],
  "inst": {
