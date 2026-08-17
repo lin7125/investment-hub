@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-17 11:34（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-17 11:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2410.0,
-   "c": 0.63,
-   "a50": 2383.2,
-   "a200": 1949.25,
+   "p": 2405.0,
+   "c": 0.42,
+   "a50": 2383.1,
+   "a200": 1949.22,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2364.25,
-   "r": 53.1
+   "a20": 2364.0,
+   "r": 52.6
   },
   {
    "s": "2317.TW",
@@ -36,14 +36,14 @@
   },
   {
    "s": "2454.TW",
-   "p": 4055.0,
-   "c": -3.68,
-   "a50": 3982.9,
-   "a200": 2461.57,
+   "p": 4050.0,
+   "c": -3.8,
+   "a50": 3982.8,
+   "a200": 2461.55,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3808.0,
-   "r": 55.0
+   "a20": 3807.75,
+   "r": 54.9
   },
   {
    "s": "2327.TW",
@@ -58,14 +58,14 @@
   },
   {
    "s": "1802.TW",
-   "p": 57.8,
-   "c": -0.17,
-   "a50": 60.58,
+   "p": 57.9,
+   "c": 0.0,
+   "a50": 60.59,
    "a200": 52.43,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.51,
-   "r": 53.5
+   "a20": 52.52,
+   "r": 53.7
   },
   {
    "s": "6862.TW",
@@ -80,25 +80,25 @@
   },
   {
    "s": "3701.TW",
-   "p": 40.4,
-   "c": 0.12,
+   "p": 40.2,
+   "c": -0.37,
    "a50": 42.85,
    "a200": 48.86,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.59,
-   "r": 47.6
+   "a20": 39.58,
+   "r": 47.0
   },
   {
    "s": "4722.TW",
-   "p": 217.0,
-   "c": 6.9,
-   "a50": 237.68,
-   "a200": 199.25,
+   "p": 215.0,
+   "c": 5.91,
+   "a50": 237.64,
+   "a200": 199.24,
    "yh": 306.5,
    "yl": 97.3,
-   "a20": 204.1,
-   "r": 49.6
+   "a20": 204.0,
+   "r": 48.8
   },
   {
    "s": "6706.TW",
@@ -113,14 +113,14 @@
   },
   {
    "s": "2305.TW",
-   "p": 28.9,
-   "c": -1.53,
+   "p": 28.85,
+   "c": -1.7,
    "a50": 32.23,
    "a200": 18.64,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 29.97,
-   "r": 46.3
+   "r": 46.2
   },
   {
    "s": "6442.TW",
@@ -135,25 +135,25 @@
   },
   {
    "s": "6515.TW",
-   "p": 6615.0,
-   "c": -2.0,
-   "a50": 7639.3,
-   "a200": 6013.65,
+   "p": 6600.0,
+   "c": -2.22,
+   "a50": 7639.0,
+   "a200": 6013.58,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6459.25,
-   "r": 46.0
+   "a20": 6458.5,
+   "r": 45.8
   },
   {
    "s": "6446.TW",
-   "p": 1430.0,
-   "c": -4.67,
-   "a50": 1162.57,
-   "a200": 711.04,
+   "p": 1435.0,
+   "c": -4.33,
+   "a50": 1162.67,
+   "a200": 711.07,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1248.25,
-   "r": 61.9
+   "a20": 1248.5,
+   "r": 62.4
   },
   {
    "s": "3324.TWO",
@@ -168,36 +168,36 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1350.0,
-   "c": -1.82,
-   "a50": 1323.04,
-   "a200": 1195.21,
+   "p": 1360.0,
+   "c": -1.09,
+   "a50": 1323.24,
+   "a200": 1195.26,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1207.1,
-   "r": 55.4
+   "a20": 1207.6,
+   "r": 56.1
   },
   {
    "s": "3585.TWO",
-   "p": 51.5,
-   "c": 4.46,
-   "a50": 60.5,
+   "p": 52.0,
+   "c": 5.48,
+   "a50": 60.51,
    "a200": 41.67,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.55,
-   "r": 48.5
+   "a20": 47.58,
+   "r": 49.2
   },
   {
    "s": "6223.TWO",
-   "p": 5905.0,
-   "c": -8.31,
-   "a50": 6218.2,
-   "a200": 4039.6,
+   "p": 5865.0,
+   "c": -8.93,
+   "a50": 6217.4,
+   "a200": 4039.4,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5895.75,
-   "r": 47.3
+   "a20": 5893.75,
+   "r": 46.8
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45936.8,
-   "c": 0.27,
-   "a50": 44791.72,
-   "a200": 35999.31,
+   "p": 45926.42,
+   "c": 0.25,
+   "a50": 44791.51,
+   "a200": 35999.26,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43960.61,
-   "r": 58.9
+   "a20": 43960.09,
+   "r": 58.8
   },
   {
    "s": "^GSPC",
@@ -280,50 +280,50 @@
    "s": "^VIX",
    "p": 14.25,
    "c": -2.6,
-   "a50": 17.14,
-   "a200": 18.52,
+   "a50": 17.18,
+   "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.71,
-   "r": 39.7
+   "a20": 16.63,
+   "r": 40.1
   },
   {
    "s": "BZ=F",
-   "p": 88.79,
-   "c": 0.31,
+   "p": 88.92,
+   "c": 0.45,
    "a50": 83.82,
    "a200": 81.87,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.18,
-   "r": 53.8
+   "r": 54.0
   },
   {
    "s": "GC=F",
-   "p": 4446.8,
-   "c": 1.52,
-   "a50": 4157.43,
-   "a200": 4488.67,
+   "p": 4451.3,
+   "c": 1.62,
+   "a50": 4157.52,
+   "a200": 4488.7,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4196.45,
-   "r": 68.2
+   "a20": 4196.67,
+   "r": 68.4
   },
   {
    "s": "HG=F",
    "p": 6.73,
-   "c": 1.92,
+   "c": 1.95,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.73,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 65.6
+   "r": 65.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03136763,
-   "c": 0.75,
+   "c": 0.77,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170042.aspx"
   },
   {
-   "t": "53-year-old lawn and garden giant faces Chapter 11, liquidation",
+   "t": "Historic retailer gets lifeline after warning it could collapse",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/53-old-lawn-garden-giant-153300199.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/historic-retailer-gets-lifeline-warning-220700487.html"
   },
   {
    "t": "AI資安威脅進入新階段　資安院建議7點強化防禦",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170041.aspx"
   },
   {
-   "t": "Historic retailer gets lifeline after warning it could collapse",
+   "t": "Morgan Stanley sends a blunt Tesla message to investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/historic-retailer-gets-lifeline-warning-220700487.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-blunt-tesla-010300423.html"
   },
   {
    "t": "美日攜手打防衛戰　日圓抗賣壓邁入新階段",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170032.aspx"
   },
   {
-   "t": "Morgan Stanley sends a blunt Tesla message to investors",
+   "t": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-blunt-tesla-010300423.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sergey-brin-wants-google-double-170001830.html"
   },
   {
    "t": "台積電上漲15元　台股早盤漲378點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170027.aspx"
   },
   {
-   "t": "Sergey Brin Wants Google to Double Down on Gemini. What That Means for GOOGL Stock.",
+   "t": "Nvidia Is Turning Its Massive Cash Flow Into Another AI Growth Engine",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sergey-brin-wants-google-double-170001830.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-turning-massive-cash-flow-154502275.html"
   },
   {
    "t": "新台幣開盤升2.6分　為32.02元",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202608170025.aspx"
   },
   {
-   "t": "Nvidia Is Turning Its Massive Cash Flow Into Another AI Growth Engine",
+   "t": "Bill Gates’ Portfolio Just Added Home Depot (HD) Despite Risks. Time to Buy?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-turning-massive-cash-flow-154502275.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-portfolio-just-added-154023511.html"
   }
  ],
  "inst": {
-  "date": "2026-08-14",
+  "date": "2026-08-13",
   "byCode": {
-   "1802": {
-    "f": 1777,
-    "t": 0,
-    "all": 2892
-   },
-   "6446": {
-    "f": 448,
-    "t": 12,
-    "all": 465
-   },
-   "2454": {
-    "f": 1494,
-    "t": -515,
-    "all": 350
-   },
-   "6706": {
-    "f": 302,
-    "t": 0,
-    "all": 287
-   },
-   "3701": {
-    "f": 190,
-    "t": 0,
-    "all": 190
-   },
-   "6442": {
-    "f": -95,
-    "t": 125,
-    "all": 21
-   },
-   "6515": {
-    "f": 329,
-    "t": -311,
-    "all": 18
-   },
-   "6862": {
-    "f": -36,
-    "t": 0,
-    "all": -42
-   },
-   "4722": {
-    "f": -37,
-    "t": 0,
-    "all": -63
-   },
-   "2317": {
-    "f": 3071,
-    "t": -2553,
-    "all": -301
-   },
-   "2308": {
-    "f": -993,
-    "t": 155,
-    "all": -1010
-   },
-   "2305": {
-    "f": -1794,
-    "t": 0,
-    "all": -1795
+   "2327": {
+    "f": 4761,
+    "t": 1505,
+    "all": 5894
    },
    "2330": {
-    "f": -3025,
-    "t": -381,
-    "all": -3778
+    "f": 3972,
+    "t": 735,
+    "all": 4801
    },
-   "2327": {
-    "f": -22290,
-    "t": 1473,
-    "all": -21373
+   "2454": {
+    "f": 3760,
+    "t": -62,
+    "all": 3568
+   },
+   "2305": {
+    "f": 2120,
+    "t": 0,
+    "all": 2126
+   },
+   "2308": {
+    "f": 1400,
+    "t": 76,
+    "all": 1530
+   },
+   "1802": {
+    "f": 524,
+    "t": 0,
+    "all": 495
+   },
+   "3701": {
+    "f": 109,
+    "t": 0,
+    "all": 111
+   },
+   "6706": {
+    "f": 106,
+    "t": 0,
+    "all": 65
+   },
+   "4722": {
+    "f": 43,
+    "t": 0,
+    "all": 29
+   },
+   "6862": {
+    "f": 4,
+    "t": 0,
+    "all": -1
+   },
+   "6515": {
+    "f": 76,
+    "t": -310,
+    "all": -227
+   },
+   "6446": {
+    "f": -263,
+    "t": 2,
+    "all": -244
+   },
+   "6442": {
+    "f": -585,
+    "t": 332,
+    "all": -253
+   },
+   "2317": {
+    "f": -33364,
+    "t": -81,
+    "all": -35569
    }
   },
-  "totalNetE": 516.6
+  "totalNetE": 892.5
  }
 }
