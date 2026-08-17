@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 03:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 03:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 305.83,
-   "c": -0.03,
-   "a50": 309.08,
+   "p": 306.23,
+   "c": 0.1,
+   "a50": 309.09,
    "a200": 280.67,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.39,
-   "r": 43.6
+   "a20": 317.41,
+   "r": 44.0
   },
   {
    "s": "NVDA",
-   "p": 225.68,
-   "c": 0.23,
+   "p": 225.55,
+   "c": 0.17,
    "a50": 206.66,
    "a200": 195.04,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.52,
-   "r": 63.4
+   "a20": 211.51,
+   "r": 63.3
   },
   {
    "s": "TSLA",
-   "p": 340.86,
-   "c": -0.41,
+   "p": 340.58,
+   "c": -0.49,
    "a50": 369.53,
    "a200": 405.48,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.7,
-   "r": 48.1
+   "a20": 327.69,
+   "r": 48.0
   },
   {
    "s": "META",
-   "p": 569.67,
-   "c": -3.42,
-   "a50": 595.98,
-   "a200": 626.73,
+   "p": 569.24,
+   "c": -3.49,
+   "a50": 595.97,
+   "a200": 626.72,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 590.86,
-   "r": 42.1
+   "a20": 590.84,
+   "r": 41.9
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7754.8,
-   "c": -0.4,
-   "a50": 7515.8,
-   "a200": 7079.22,
+   "p": 7751.58,
+   "c": -0.44,
+   "a50": 7515.73,
+   "a200": 7079.21,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7600.57,
-   "r": 62.5
+   "a20": 7600.41,
+   "r": 62.2
   },
   {
    "s": "^VIX",
-   "p": 15.2,
-   "c": 6.67,
+   "p": 15.22,
+   "c": 6.81,
    "a50": 17.18,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.46,
-   "r": 45.2
+   "r": 45.3
   },
   {
    "s": "BZ=F",
-   "p": 90.75,
-   "c": 2.52,
+   "p": 90.67,
+   "c": 2.43,
    "a50": 83.86,
    "a200": 81.88,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.27,
-   "r": 56.3
+   "r": 56.2
   },
   {
    "s": "GC=F",
-   "p": 4459.9,
-   "c": 1.81,
-   "a50": 4157.69,
-   "a200": 4488.74,
+   "p": 4471.6,
+   "c": 2.08,
+   "a50": 4157.93,
+   "a200": 4488.8,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.1,
-   "r": 68.8
+   "a20": 4197.69,
+   "r": 69.4
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": -0.02,
+   "p": 6.61,
+   "c": 0.12,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 59.4
+   "r": 59.9
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170315.aspx"
   },
   {
-   "t": "Jim Cramer Advises Ditching Stellantis (STLA) for General Motors (GM)",
+   "t": "New surveys show central banks are ditching the dollar and buying more gold instead — should you follow along?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-advises-ditching-stellantis-100432863.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/surveys-show-central-banks-ditching-102000700.html"
   },
   {
    "t": "今彩539第115199期　頭獎6注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
   },
   {
-   "t": "NiSource (NI): A Costly Quarter Masks A Bigger Bet",
+   "t": "Eli Lilly’s (LLY) Growth Story Keeps Adding Chapters",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nisource-ni-costly-quarter-masks-100126971.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-growth-story-101834928.html"
   },
   {
    "t": "威力彩第115066期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "Eli Lilly’s (LLY) Growth Story Keeps Adding Chapters",
+   "t": "Jim Cramer Breaks Down McDonald’s (MCD) Q2 Earnings and Execution Flaws",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-growth-story-101834928.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-breaks-down-mcdonald-102722297.html"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "Elon Musk Has Said He Wants 25% Voting Control of Tesla to Feel Comfortable Leading Its AI Push. Here's What That Threshold Means for Shareholders.",
+   "t": "Walmart Stock Has Been Sluggish This Year. Should You Buy it Before It Reports Earnings on Aug. 20?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-said-wants-25-100500269.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-sluggish-buy-reports-102000691.html"
   }
  ],
  "inst": {
