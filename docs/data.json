@@ -1,214 +1,214 @@
 {
- "generatedAt": "2026-08-18 04:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 05:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2395.0,
-   "c": -1.64,
-   "a50": 2382.3,
-   "a200": 1944.6,
+   "p": 2400.0,
+   "c": 0.21,
+   "a50": 2383.0,
+   "a200": 1949.2,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2359.75,
-   "r": 51.8
+   "a20": 2363.75,
+   "r": 52.2
   },
   {
    "s": "2317.TW",
-   "p": 259.5,
-   "c": -0.95,
-   "a50": 252.79,
-   "a200": 235.66,
+   "p": 255.0,
+   "c": -1.73,
+   "a50": 252.2,
+   "a200": 235.74,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.75,
-   "r": 54.1
+   "a20": 253.78,
+   "r": 50.8
   },
   {
    "s": "2308.TW",
    "p": 1885.0,
    "c": 0.0,
-   "a50": 1909.1,
-   "a200": 1521.94,
+   "a50": 1900.8,
+   "a200": 1526.3,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1722.25,
+   "a20": 1731.25,
    "r": 56.5
   },
   {
    "s": "2454.TW",
-   "p": 4210.0,
-   "c": -0.36,
-   "a50": 3987.8,
-   "a200": 2448.0,
+   "p": 4050.0,
+   "c": -3.8,
+   "a50": 3982.8,
+   "a200": 2461.55,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3772.25,
-   "r": 60.5
+   "a20": 3807.75,
+   "r": 54.9
   },
   {
    "s": "2327.TW",
-   "p": 622.0,
-   "c": -6.04,
-   "a50": 797.11,
-   "a200": 428.79,
+   "p": 608.0,
+   "c": -2.25,
+   "a50": 793.89,
+   "a200": 430.85,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 593.83,
-   "r": 46.6
+   "a20": 592.72,
+   "r": 45.3
   },
   {
    "s": "1802.TW",
-   "p": 57.9,
-   "c": 1.76,
-   "a50": 60.78,
-   "a200": 52.28,
+   "p": 58.8,
+   "c": 1.55,
+   "a50": 60.6,
+   "a200": 52.43,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.29,
-   "r": 53.7
+   "a20": 52.56,
+   "r": 55.3
   },
   {
    "s": "6862.TW",
-   "p": 142.5,
-   "c": -3.72,
-   "a50": 170.92,
-   "a200": 177.5,
+   "p": 140.5,
+   "c": -1.4,
+   "a50": 169.64,
+   "a200": 177.29,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 140.68,
-   "r": 43.3
+   "a20": 140.55,
+   "r": 41.9
   },
   {
    "s": "3701.TW",
-   "p": 40.35,
-   "c": -1.34,
-   "a50": 43.16,
-   "a200": 48.86,
+   "p": 41.05,
+   "c": 1.73,
+   "a50": 42.86,
+   "a200": 48.87,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.47,
-   "r": 47.5
+   "a20": 39.62,
+   "r": 49.7
   },
   {
    "s": "4722.TW",
-   "p": 203.0,
-   "c": -2.4,
-   "a50": 238.88,
-   "a200": 199.2,
+   "p": 218.0,
+   "c": 7.39,
+   "a50": 237.7,
+   "a200": 199.26,
    "yh": 306.5,
    "yl": 97.3,
-   "a20": 204.18,
-   "r": 43.8
+   "a20": 204.15,
+   "r": 50.0
   },
   {
    "s": "6706.TW",
-   "p": 118.0,
-   "c": -3.67,
-   "a50": 134.75,
-   "a200": 126.34,
+   "p": 123.5,
+   "c": 4.66,
+   "a50": 133.42,
+   "a200": 126.6,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 109.1,
-   "r": 49.2
+   "a20": 109.92,
+   "r": 53.2
   },
   {
    "s": "2305.TW",
-   "p": 29.35,
-   "c": -3.93,
-   "a50": 32.1,
-   "a200": 18.55,
+   "p": 28.55,
+   "c": -2.73,
+   "a50": 32.22,
+   "a200": 18.63,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 30.15,
-   "r": 47.3
+   "a20": 29.96,
+   "r": 45.6
   },
   {
    "s": "6442.TW",
-   "p": 1560.0,
-   "c": -0.32,
-   "a50": 1561.5,
-   "a200": 1588.27,
+   "p": 1630.0,
+   "c": 4.49,
+   "a50": 1553.0,
+   "a200": 1592.14,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1341.25,
-   "r": 57.0
+   "a20": 1361.75,
+   "r": 60.1
   },
   {
    "s": "6515.TW",
-   "p": 6750.0,
-   "c": 0.07,
-   "a50": 7675.5,
-   "a200": 5992.55,
+   "p": 6610.0,
+   "c": -2.07,
+   "a50": 7639.2,
+   "a200": 6013.62,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6431.0,
-   "r": 47.7
+   "a20": 6459.0,
+   "r": 45.9
   },
   {
    "s": "6446.TW",
-   "p": 1500.0,
-   "c": 3.81,
-   "a50": 1150.86,
-   "a200": 706.2,
+   "p": 1410.0,
+   "c": -6.0,
+   "a50": 1162.17,
+   "a200": 710.94,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1235.5,
-   "r": 68.3
+   "a20": 1247.25,
+   "r": 60.3
   },
   {
    "s": "3324.TWO",
-   "p": 1010.0,
-   "c": -2.42,
-   "a50": 981.02,
-   "a200": 998.19,
+   "p": 1005.0,
+   "c": -0.5,
+   "a50": 978.92,
+   "a200": 998.32,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 950.65,
-   "r": 54.6
+   "a20": 958.0,
+   "r": 53.9
   },
   {
    "s": "3491.TWO",
-   "p": 1375.0,
-   "c": 2.23,
-   "a50": 1334.74,
-   "a200": 1190.76,
+   "p": 1330.0,
+   "c": -3.27,
+   "a50": 1322.64,
+   "a200": 1195.11,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1200.6,
-   "r": 57.1
+   "a20": 1206.1,
+   "r": 54.0
   },
   {
    "s": "3585.TWO",
-   "p": 49.3,
-   "c": -1.79,
-   "a50": 61.01,
-   "a200": 41.47,
+   "p": 51.4,
+   "c": 4.26,
+   "a50": 60.5,
+   "a200": 41.67,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.29,
-   "r": 45.0
+   "a20": 47.55,
+   "r": 48.3
   },
   {
    "s": "6223.TWO",
-   "p": 6440.0,
-   "c": -0.85,
-   "a50": 6215.4,
-   "a200": 4019.2,
+   "p": 5800.0,
+   "c": -9.94,
+   "a50": 6216.1,
+   "a200": 4039.08,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5873.25,
-   "r": 55.7
+   "a20": 5890.5,
+   "r": 45.9
   },
   {
    "s": "6750.TWO",
-   "p": 56.8,
-   "c": -1.56,
-   "a50": 60.98,
-   "a200": 56.74,
+   "p": 55.1,
+   "c": -2.99,
+   "a50": 60.76,
+   "a200": 56.79,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.47,
-   "r": 47.6
+   "a20": 55.39,
+   "r": 43.8
   },
   {
    "s": "AAPL",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 90.97,
-   "c": 2.77,
-   "a50": 83.86,
+   "p": 91.1,
+   "c": 2.91,
+   "a50": 83.87,
    "a200": 81.88,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.28,
-   "r": 56.6
+   "a20": 88.29,
+   "r": 56.8
   },
   {
    "s": "GC=F",
-   "p": 4471.7,
-   "c": 2.08,
-   "a50": 4157.93,
+   "p": 4473.1,
+   "c": 2.12,
+   "a50": 4157.96,
    "a200": 4488.8,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.7,
+   "a20": 4197.77,
    "r": 69.4
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.17,
+   "c": 0.2,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 60.1
+   "r": 60.2
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180002.aspx"
   },
   {
-   "t": "Accelerant Holdings (ARX) Soars 57% as Buyer Bets Big on Firm",
+   "t": "Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/accelerant-holdings-arx-soars-57-113222023.html"
+   "u": "https://finance.yahoo.com/markets/articles/vivian-tu-says-investors-carrying-130000844.html"
   },
   {
    "t": "森崴能源虧損下市　胡正杰擬收購逾5成股權",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170315.aspx"
   },
   {
-   "t": "Americans are now borrowing more to bet on stocks than they owe in credit card debt",
+   "t": "'A serious mistake': Moody's Analytics economist says the Fed is putting the economy at risk with its silence",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/americans-now-borrowing-more-bet-113000989.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/serious-mistake-moodys-analytics-economist-125500943.html"
   },
   {
    "t": "今彩539第115199期　頭獎6注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
   },
   {
-   "t": "The AI trade got crushed. The bull market barely noticed: Chart of the Day",
+   "t": "Greg Abel Starts Spending: Berkshire’s Cash Hoard Finally Gets Put to Work",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/the-ai-trade-got-crushed-the-bull-market-barely-noticed-chart-of-the-day-114320054.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-starts-spending-berkshire-125459967.html"
   },
   {
    "t": "威力彩第115066期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "‘Running out of money’: Kraft, McDonald’s, Whirlpool CEOs all flag same concern over US consumers — protect your wealth",
+   "t": "Investors in Microsoft Love Shorting Out-of-the-Money MSFT Puts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/running-money-kraft-mcdonald-whirlpool-114500035.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/investors-microsoft-love-shorting-money-131502468.html"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "ActivTrak CEO: What 120,620 workers reveal about AI maturity",
+   "t": "World's biggest wealth fund buys $1.2 billion of SpaceX stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/activtrak-ceo-120-620-workers-113000326.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/worlds-biggest-wealth-fund-buys-130300566.html"
   }
  ],
  "inst": {
