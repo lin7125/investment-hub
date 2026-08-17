@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 01:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 01:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 304.3,
-   "c": -0.53,
-   "a50": 309.05,
+   "p": 304.61,
+   "c": -0.43,
+   "a50": 309.06,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.31,
-   "r": 42.4
+   "a20": 317.33,
+   "r": 42.7
   },
   {
    "s": "NVDA",
-   "p": 226.08,
-   "c": 0.41,
+   "p": 225.99,
+   "c": 0.37,
    "a50": 206.67,
-   "a200": 195.05,
+   "a200": 195.04,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 211.53,
-   "r": 63.7
+   "r": 63.6
   },
   {
    "s": "TSLA",
-   "p": 340.05,
-   "c": -0.65,
+   "p": 340.17,
+   "c": -0.61,
    "a50": 369.52,
    "a200": 405.48,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.66,
+   "a20": 327.67,
    "r": 47.8
   },
   {
    "s": "META",
-   "p": 566.07,
-   "c": -4.03,
-   "a50": 595.9,
+   "p": 565.62,
+   "c": -4.11,
+   "a50": 595.89,
    "a200": 626.71,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 590.68,
-   "r": 41.2
+   "a20": 590.66,
+   "r": 41.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7755.07,
-   "c": -0.39,
-   "a50": 7515.8,
-   "a200": 7079.22,
+   "p": 7756.72,
+   "c": -0.37,
+   "a50": 7515.84,
+   "a200": 7079.23,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7600.58,
-   "r": 62.5
+   "a20": 7600.67,
+   "r": 62.7
   },
   {
    "s": "^VIX",
-   "p": 15.32,
-   "c": 7.51,
+   "p": 15.45,
+   "c": 8.42,
    "a50": 17.18,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.46,
-   "r": 45.8
+   "a20": 16.47,
+   "r": 46.4
   },
   {
    "s": "BZ=F",
-   "p": 90.28,
-   "c": 1.99,
-   "a50": 83.85,
+   "p": 90.68,
+   "c": 2.44,
+   "a50": 83.86,
    "a200": 81.88,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.25,
-   "r": 55.8
+   "a20": 88.27,
+   "r": 56.3
   },
   {
    "s": "GC=F",
-   "p": 4471.6,
-   "c": 2.08,
-   "a50": 4157.93,
-   "a200": 4488.8,
+   "p": 4474.0,
+   "c": 2.14,
+   "a50": 4157.98,
+   "a200": 4488.81,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.69,
-   "r": 69.4
+   "a20": 4197.81,
+   "r": 69.5
   },
   {
    "s": "HG=F",
-   "p": 6.61,
-   "c": 0.11,
+   "p": 6.6,
+   "c": 0.07,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 59.9
+   "r": 59.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03138732,
-   "c": 0.83,
+   "c": 0.82,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
   },
   {
-   "t": "Weekly survey of mortgage lenders with the lowest rates: Small moves in rates and fees",
+   "t": "Apple Could Hit $400, But AI Is Coming for Its Most Profitable Business",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-10-170834159.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-could-hit-400-ai-172109457.html"
   },
   {
    "t": "威力彩第115066期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as Treasury yields rise, US-Iran tensions remain in focus",
+   "t": "Weekly survey of mortgage lenders with the lowest rates: Small moves in rates and fees",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-10-170834159.html"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "Why Carrier Global Stock Could Soon Bounce Back",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as Treasury yields rise, US-Iran tensions remain in focus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-carrier-global-stock-could-171519223.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "'Fear Gauge' Falls To Year's Low. A Bad Sign For The Stock Market?",
+   "t": "Why Carrier Global Stock Could Soon Bounce Back",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/vix-stock-market-fear-gauge/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-carrier-global-stock-could-171519223.html"
   },
   {
    "t": "美伊60天談判窗口到期　和平協議希望消退油價小漲",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "Power Semis Soar Monday: Wolfspeed, STMicro and On Semiconductor Rally on Vera Rubin Ramp Signals",
+   "t": "SEC guidance removes risk rules from Nvidia $500B AI financing push",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/power-semis-soar-monday-wolfspeed-171805368.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/sec-guidance-removes-risk-rules-173141538.html"
   }
  ],
  "inst": {
