@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 01:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 01:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 303.45,
-   "c": -0.81,
+   "p": 303.94,
+   "c": -0.65,
    "a50": 309.04,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.27,
-   "r": 41.8
+   "a20": 317.3,
+   "r": 42.2
   },
   {
    "s": "NVDA",
-   "p": 226.68,
-   "c": 0.68,
-   "a50": 206.68,
+   "p": 226.36,
+   "c": 0.53,
+   "a50": 206.67,
    "a200": 195.05,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.57,
-   "r": 64.1
+   "a20": 211.55,
+   "r": 63.9
   },
   {
    "s": "TSLA",
-   "p": 339.37,
-   "c": -0.85,
-   "a50": 369.5,
+   "p": 339.53,
+   "c": -0.8,
+   "a50": 369.51,
    "a200": 405.47,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.63,
+   "a20": 327.64,
    "r": 47.5
   },
   {
    "s": "META",
-   "p": 566.77,
-   "c": -3.91,
+   "p": 566.99,
+   "c": -3.87,
    "a50": 595.92,
    "a200": 626.71,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 590.72,
+   "a20": 590.73,
    "r": 41.4
   },
   {
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7765.72,
-   "c": -0.26,
-   "a50": 7516.02,
-   "a200": 7079.28,
+   "p": 7764.57,
+   "c": -0.27,
+   "a50": 7515.99,
+   "a200": 7079.27,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7601.12,
-   "r": 63.7
+   "a20": 7601.06,
+   "r": 63.5
   },
   {
    "s": "^VIX",
-   "p": 15.09,
-   "c": 5.89,
-   "a50": 17.17,
+   "p": 15.2,
+   "c": 6.67,
+   "a50": 17.18,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.45,
-   "r": 44.6
+   "a20": 16.46,
+   "r": 45.2
   },
   {
    "s": "BZ=F",
-   "p": 89.29,
-   "c": 0.87,
-   "a50": 83.83,
-   "a200": 81.87,
+   "p": 89.57,
+   "c": 1.19,
+   "a50": 83.84,
+   "a200": 81.88,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.2,
-   "r": 54.5
+   "a20": 88.21,
+   "r": 54.8
   },
   {
    "s": "GC=F",
-   "p": 4482.5,
-   "c": 2.33,
-   "a50": 4158.15,
-   "a200": 4488.85,
+   "p": 4480.7,
+   "c": 2.29,
+   "a50": 4158.11,
+   "a200": 4488.84,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4198.23,
-   "r": 69.9
+   "a20": 4198.15,
+   "r": 69.8
   },
   {
    "s": "HG=F",
    "p": 6.62,
-   "c": 0.26,
+   "c": 0.27,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 60.4
+   "r": 60.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": 0.9,
+   "p": 0.03140704,
+   "c": 0.88,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
   },
   {
-   "t": "Micron Stock Claws Back From Lows To A Buy Point",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as Treasury yields rise, US-Iran tensions remain in focus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/micron-technology-stock-mu-memory-chip-dram/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
   },
   {
    "t": "威力彩第115066期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "Nvidia Reportedly Infuses Cash Into Potential AI Infrastructure IPO. Here's Why",
+   "t": "Fortinet, IBD Stock Of The Day, Steps Up AI Acquisitions To Build Cloud Platform",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/nvidia-stock-sb-energy-stock-openai-billion-deal-softbank/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/fortinet-stock-artificial-intelligence-acquisition/?src=A00220&yptr=yahoo"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
+   "t": "Stripe Purchase Of AI Firm OpenRouter Unlikely To Derail PayPal Deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
+   "u": "https://www.investors.com/news/technology/paypal-stock-stripe-openrouter-purchase-advent/?src=A00220&yptr=yahoo"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "Fulcrum Therapeutics & Slate Medicines Merge for Next-Generation Migraine Therapies",
+   "t": "Freightos Limited Ordinary shares Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/fulcrum-therapeutics-slate-medicines-merge-161113808.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/freightos-limited-ordinary-shares-q2-165115998.html"
   },
   {
    "t": "美伊60天談判窗口到期　和平協議希望消退油價小漲",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "Uber and Zipline partner on drone delivery for Uber Eats",
+   "t": "Fortinet Sees Surging Hardware, SASE Demand as AI and OT Security Fuel Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/uber-zipline-partner-drone-delivery-165012064.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/fortinet-sees-surging-hardware-sase-170201191.html"
   }
  ],
  "inst": {
