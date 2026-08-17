@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-17 22:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-17 22:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 304.81,
-   "c": -0.37,
+   "p": 304.49,
+   "c": -0.47,
    "a50": 309.06,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.34,
-   "r": 42.8
+   "a20": 317.32,
+   "r": 42.6
   },
   {
    "s": "NVDA",
-   "p": 226.17,
-   "c": 0.45,
-   "a50": 206.67,
+   "p": 226.62,
+   "c": 0.65,
+   "a50": 206.68,
    "a200": 195.05,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.54,
-   "r": 63.7
+   "a20": 211.56,
+   "r": 64.1
   },
   {
    "s": "TSLA",
-   "p": 340.2,
-   "c": -0.6,
-   "a50": 369.52,
-   "a200": 405.48,
+   "p": 339.54,
+   "c": -0.8,
+   "a50": 369.51,
+   "a200": 405.47,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.67,
-   "r": 47.8
+   "a20": 327.64,
+   "r": 47.5
   },
   {
    "s": "META",
-   "p": 579.49,
-   "c": -1.76,
-   "a50": 596.17,
+   "p": 578.1,
+   "c": -1.99,
+   "a50": 596.14,
    "a200": 626.77,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 591.35,
-   "r": 44.6
+   "a20": 591.28,
+   "r": 44.2
   },
   {
    "s": "^TWII",
@@ -267,47 +267,47 @@
   },
   {
    "s": "^GSPC",
-   "p": 7774.67,
+   "p": 7774.81,
    "c": -0.14,
    "a50": 7516.2,
    "a200": 7079.32,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7601.56,
-   "r": 64.6
+   "a20": 7601.57,
+   "r": 64.7
   },
   {
    "s": "^VIX",
-   "p": 15.03,
-   "c": 5.47,
+   "p": 14.93,
+   "c": 4.77,
    "a50": 17.17,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.45,
-   "r": 44.3
+   "r": 43.8
   },
   {
    "s": "BZ=F",
-   "p": 88.78,
-   "c": 0.29,
+   "p": 88.81,
+   "c": 0.33,
    "a50": 83.82,
    "a200": 81.87,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.17,
+   "a20": 88.18,
    "r": 53.8
   },
   {
    "s": "GC=F",
-   "p": 4462.0,
-   "c": 1.86,
-   "a50": 4157.74,
-   "a200": 4488.75,
+   "p": 4476.0,
+   "c": 2.18,
+   "a50": 4158.02,
+   "a200": 4488.82,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.21,
-   "r": 68.9
+   "a20": 4197.91,
+   "r": 69.6
   },
   {
    "s": "HG=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03143666,
-   "c": 0.97,
+   "p": 0.03142678,
+   "c": 0.95,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "Israel’s Largest Crypto Broker Reports Data Breach",
+   "t": "Billionaire Stanley Druckenmiller Tripled His Stake in United Airlines (UAL). Should You Buy?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/israel-largest-crypto-broker-reports-141000691.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-tripled-stake-141505376.html"
   },
   {
    "t": "AI需求帶旺　新加坡7月石油以外出口成長率增至24.2%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170299.aspx"
   },
   {
-   "t": "Space Exploration Technologies Corp. (SPCX) Says $100 Billion in Revenue Is Coming by December. Here’s the Math Behind It: (ready for Vardah)",
+   "t": "Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-corp-spcx-140305877.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tronox-holdings-plc-trox-pressured-141158294.html"
   },
   {
    "t": "床的世界上櫃承銷價暫定20元　鎖定3主軸進軍國際",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170298.aspx"
   },
   {
-   "t": "US home builder sentiment ticks up in August but remains weak overall",
+   "t": "Israel’s Largest Crypto Broker Reports Data Breach",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/us-home-builder-sentiment-ticks-140218719.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/israel-largest-crypto-broker-reports-141000691.html"
   },
   {
    "t": "蘋果同意修改App廣告追蹤規則　德國結束多年調查",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170296.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
+   "t": "Flowserve Corporation (FLS) Trims Full-Year Growth Outlook as Organic Sales Decline ~1%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/flowserve-corporation-fls-trims-full-140829474.html"
   },
   {
    "t": "威力彩第115066期開獎",
