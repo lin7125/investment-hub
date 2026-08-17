@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-17 23:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-17 23:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 304.52,
-   "c": -0.46,
-   "a50": 309.06,
+   "p": 303.6,
+   "c": -0.76,
+   "a50": 309.04,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.33,
-   "r": 42.6
+   "a20": 317.28,
+   "r": 41.9
   },
   {
    "s": "NVDA",
-   "p": 227.41,
-   "c": 1.0,
-   "a50": 206.69,
+   "p": 226.88,
+   "c": 0.77,
+   "a50": 206.68,
    "a200": 195.05,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.6,
-   "r": 64.6
+   "a20": 211.58,
+   "r": 64.2
   },
   {
    "s": "TSLA",
-   "p": 340.88,
-   "c": -0.41,
-   "a50": 369.53,
+   "p": 339.86,
+   "c": -0.7,
+   "a50": 369.51,
    "a200": 405.48,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.7,
-   "r": 48.2
+   "a20": 327.65,
+   "r": 47.7
   },
   {
    "s": "META",
-   "p": 574.27,
-   "c": -2.64,
-   "a50": 596.07,
+   "p": 574.07,
+   "c": -2.68,
+   "a50": 596.06,
    "a200": 626.75,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 591.09,
+   "a20": 591.08,
    "r": 43.2
   },
   {
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7777.82,
-   "c": -0.1,
-   "a50": 7516.26,
-   "a200": 7079.34,
+   "p": 7769.93,
+   "c": -0.2,
+   "a50": 7516.1,
+   "a200": 7079.3,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7601.72,
-   "r": 65.0
+   "a20": 7601.33,
+   "r": 64.1
   },
   {
    "s": "^VIX",
-   "p": 14.95,
-   "c": 4.91,
+   "p": 14.94,
+   "c": 4.84,
    "a50": 17.17,
    "a200": 18.52,
    "yh": 31.05,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.9,
-   "c": 0.43,
+   "p": 88.95,
+   "c": 0.49,
    "a50": 83.82,
    "a200": 81.87,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4479.1,
-   "c": 2.25,
-   "a50": 4158.08,
-   "a200": 4488.83,
+   "p": 4480.9,
+   "c": 2.29,
+   "a50": 4158.11,
+   "a200": 4488.84,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4198.07,
-   "r": 69.7
+   "a20": 4198.15,
+   "r": 69.8
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.1,
+   "c": 0.2,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.5,
-   "r": 59.9
+   "a20": 6.51,
+   "r": 60.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": 0.95,
+   "p": 0.0314169,
+   "c": 0.92,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "The Numbers Behind Assured Guaranty’s (AGO) Record-Setting Quarter",
+   "t": "PAR Technology (PAR)Positioned for Long Growth Runway",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/numbers-behind-assured-guaranty-ago-150922259.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/par-technology-par-positioned-long-152410669.html"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "GSK Eyes AnaptysBio (ANAB) Acquisition to Secure Drug Control",
+   "t": "Corvus Pharmaceuticals (CRVS): This Clinical-Stage Drugmaker Just Got A Lot More Interesting",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/gsk-eyes-anaptysbio-anab-acquisition-150348750.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/corvus-pharmaceuticals-crvs-clinical-stage-151652950.html"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
+   "t": "The Numbers Behind Assured Guaranty’s (AGO) Record-Setting Quarter",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/numbers-behind-assured-guaranty-ago-150922259.html"
   },
   {
    "t": "美伊60天談判窗口到期　和平協議希望消退油價小漲",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "Gen Z swaps retirement saving for sports betting",
+   "t": "GSK Eyes AnaptysBio (ANAB) Acquisition to Secure Drug Control",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/gen-z-swaps-retirement-saving-for-sports-betting-150207350.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/gsk-eyes-anaptysbio-anab-acquisition-150348750.html"
   },
   {
    "t": "AI需求帶旺　新加坡7月石油以外出口成長率增至24.2%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170299.aspx"
   },
   {
-   "t": "Medical Properties Trust (MPT) Q2 2026 Earnings Call Transcript",
+   "t": "India's IT outsourcing industry feels AI's impact on hiring",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/medical-properties-trust-mpt-q2-151418679.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/indias-outsourcing-industry-feels-ais-152111368.html"
   }
  ],
  "inst": {
