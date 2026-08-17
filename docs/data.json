@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 02:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 02:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,40 +212,40 @@
   },
   {
    "s": "AAPL",
-   "p": 304.83,
-   "c": -0.36,
-   "a50": 309.06,
-   "a200": 280.66,
+   "p": 305.62,
+   "c": -0.1,
+   "a50": 309.08,
+   "a200": 280.67,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.34,
-   "r": 42.8
+   "a20": 317.38,
+   "r": 43.4
   },
   {
    "s": "NVDA",
-   "p": 225.52,
-   "c": 0.16,
+   "p": 225.76,
+   "c": 0.27,
    "a50": 206.66,
    "a200": 195.04,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.51,
-   "r": 63.3
+   "a20": 211.52,
+   "r": 63.5
   },
   {
    "s": "TSLA",
-   "p": 339.71,
-   "c": -0.75,
-   "a50": 369.51,
+   "p": 340.38,
+   "c": -0.55,
+   "a50": 369.52,
    "a200": 405.48,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.65,
-   "r": 47.6
+   "a20": 327.68,
+   "r": 47.9
   },
   {
    "s": "META",
-   "p": 567.24,
+   "p": 567.23,
    "c": -3.83,
    "a50": 595.93,
    "a200": 626.71,
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7755.75,
-   "c": -0.39,
-   "a50": 7515.82,
-   "a200": 7079.23,
+   "p": 7757.7,
+   "c": -0.36,
+   "a50": 7515.86,
+   "a200": 7079.24,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7600.62,
-   "r": 62.6
+   "a20": 7600.72,
+   "r": 62.8
   },
   {
    "s": "^VIX",
-   "p": 15.1,
-   "c": 5.96,
+   "p": 15.15,
+   "c": 6.32,
    "a50": 17.17,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.45,
-   "r": 44.7
+   "a20": 16.46,
+   "r": 44.9
   },
   {
    "s": "BZ=F",
-   "p": 90.86,
-   "c": 2.64,
+   "p": 90.64,
+   "c": 2.39,
    "a50": 83.86,
    "a200": 81.88,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.28,
-   "r": 56.5
+   "a20": 88.27,
+   "r": 56.2
   },
   {
    "s": "GC=F",
-   "p": 4462.7,
-   "c": 1.88,
-   "a50": 4157.75,
-   "a200": 4488.75,
+   "p": 4458.6,
+   "c": 1.79,
+   "a50": 4157.67,
+   "a200": 4488.73,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.25,
-   "r": 69.0
+   "a20": 4197.04,
+   "r": 68.8
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.02,
+   "c": -0.02,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 59.6
+   "r": 59.4
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
   },
   {
-   "t": "The Social Security bump for 3 million Americans you completely forgot about — do you still qualify?",
+   "t": "Jim Cramer Discusses Restaurant Brands (QSR) Q2 Earnings and Burger King’s Resurgence",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/social-security-bump-3-million-093000754.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-restaurant-brands-093800181.html"
   },
   {
    "t": "威力彩第115066期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "Jim Cramer Explains Why Starboard Value’s Stake in Shake Shack (SHAK) Is a Game-Changer",
+   "t": "The Social Security bump for 3 million Americans you completely forgot about — do you still qualify?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-starboard-092750956.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/social-security-bump-3-million-093000754.html"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "Jim Cramer Discusses Restaurant Brands (QSR) Q2 Earnings and Burger King’s Resurgence",
+   "t": "Jim Cramer Explains Why Starboard Value’s Stake in Shake Shack (SHAK) Is a Game-Changer",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-restaurant-brands-093800181.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-starboard-092750956.html"
   },
   {
    "t": "美伊60天談判窗口到期　和平協議希望消退油價小漲",
