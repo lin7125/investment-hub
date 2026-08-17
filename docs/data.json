@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-17 22:40（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-17 22:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 304.34,
-   "c": -0.52,
-   "a50": 309.05,
+   "p": 304.58,
+   "c": -0.44,
+   "a50": 309.06,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.32,
-   "r": 42.5
+   "a20": 317.33,
+   "r": 42.6
   },
   {
    "s": "NVDA",
-   "p": 227.2,
-   "c": 0.91,
+   "p": 226.98,
+   "c": 0.81,
    "a50": 206.69,
    "a200": 195.05,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.59,
-   "r": 64.4
+   "a20": 211.58,
+   "r": 64.3
   },
   {
    "s": "TSLA",
-   "p": 340.19,
-   "c": -0.61,
-   "a50": 369.52,
+   "p": 340.94,
+   "c": -0.39,
+   "a50": 369.54,
    "a200": 405.48,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.67,
-   "r": 47.8
+   "a20": 327.71,
+   "r": 48.2
   },
   {
    "s": "META",
-   "p": 576.08,
-   "c": -2.34,
-   "a50": 596.1,
-   "a200": 626.76,
+   "p": 573.59,
+   "c": -2.76,
+   "a50": 596.05,
+   "a200": 626.75,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 591.18,
-   "r": 43.7
+   "a20": 591.06,
+   "r": 43.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7771.4,
-   "c": -0.18,
-   "a50": 7516.13,
-   "a200": 7079.3,
+   "p": 7773.63,
+   "c": -0.16,
+   "a50": 7516.18,
+   "a200": 7079.32,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7601.4,
-   "r": 64.3
+   "a20": 7601.51,
+   "r": 64.5
   },
   {
    "s": "^VIX",
-   "p": 14.98,
-   "c": 5.12,
+   "p": 15.04,
+   "c": 5.54,
    "a50": 17.17,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.45,
-   "r": 44.1
+   "r": 44.4
   },
   {
    "s": "BZ=F",
-   "p": 88.76,
-   "c": 0.27,
+   "p": 88.88,
+   "c": 0.41,
    "a50": 83.82,
    "a200": 81.87,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.17,
-   "r": 53.8
+   "a20": 88.18,
+   "r": 53.9
   },
   {
    "s": "GC=F",
-   "p": 4476.4,
-   "c": 2.19,
-   "a50": 4158.02,
+   "p": 4475.9,
+   "c": 2.18,
+   "a50": 4158.01,
    "a200": 4488.82,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.93,
+   "a20": 4197.9,
    "r": 69.6
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": 0.28,
+   "p": 6.61,
+   "c": 0.17,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 60.5
+   "r": 60.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": 0.95,
+   "p": 0.03143666,
+   "c": 0.97,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "NVIDIA Corporation (NVDA) & KKR & Co (KKR): Wall Street Just Endorsed Jensen Huang’s “Big Concept.” What Happens Next?",
+   "t": "Stock Market Today: Dow Falls, Oil Rises After Trump Oman Threat; Micron, Sandisk Extend Gains (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-kkr-co-142307968.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo"
   },
   {
    "t": "AI需求帶旺　新加坡7月石油以外出口成長率增至24.2%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170299.aspx"
   },
   {
-   "t": "Billionaire Stanley Druckenmiller Tripled His Stake in United Airlines (UAL). Should You Buy?",
+   "t": "NVIDIA Corporation (NVDA) & KKR & Co (KKR): Wall Street Just Endorsed Jensen Huang’s “Big Concept.” What Happens Next?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-tripled-stake-141505376.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-kkr-co-142307968.html"
   },
   {
    "t": "床的世界上櫃承銷價暫定20元　鎖定3主軸進軍國際",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170298.aspx"
   },
   {
-   "t": "Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks",
+   "t": "Billionaire Stanley Druckenmiller Tripled His Stake in United Airlines (UAL). Should You Buy?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tronox-holdings-plc-trox-pressured-141158294.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-tripled-stake-141505376.html"
   },
   {
    "t": "蘋果同意修改App廣告追蹤規則　德國結束多年調查",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170296.aspx"
   },
   {
-   "t": "Israel’s Largest Crypto Broker Reports Data Breach",
+   "t": "Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/israel-largest-crypto-broker-reports-141000691.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tronox-holdings-plc-trox-pressured-141158294.html"
   },
   {
    "t": "威力彩第115066期開獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170291.aspx"
   },
   {
-   "t": "Aviva’s H1 profit falls by 49%",
+   "t": "India launches limited tax amnesty for small foreign asset disclosures",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/aviva-h1-profit-falls-49-142629507.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/india-launches-limited-tax-amnesty-143325445.html"
   }
  ],
  "inst": {
