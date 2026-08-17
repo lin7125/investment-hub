@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 01:48（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 01:57（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 304.63,
-   "c": -0.42,
-   "a50": 309.06,
+   "p": 304.23,
+   "c": -0.55,
+   "a50": 309.05,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.33,
-   "r": 42.7
+   "a20": 317.31,
+   "r": 42.4
   },
   {
    "s": "NVDA",
-   "p": 226.09,
-   "c": 0.41,
-   "a50": 206.67,
-   "a200": 195.05,
+   "p": 225.85,
+   "c": 0.31,
+   "a50": 206.66,
+   "a200": 195.04,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.54,
-   "r": 63.7
+   "a20": 211.52,
+   "r": 63.5
   },
   {
    "s": "TSLA",
-   "p": 340.31,
-   "c": -0.57,
-   "a50": 369.52,
-   "a200": 405.48,
+   "p": 339.42,
+   "c": -0.83,
+   "a50": 369.5,
+   "a200": 405.47,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.68,
-   "r": 47.9
+   "a20": 327.63,
+   "r": 47.5
   },
   {
    "s": "META",
-   "p": 565.66,
-   "c": -4.1,
-   "a50": 595.9,
-   "a200": 626.71,
+   "p": 565.26,
+   "c": -4.17,
+   "a50": 595.89,
+   "a200": 626.7,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 590.66,
-   "r": 41.1
+   "a20": 590.64,
+   "r": 41.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7757.26,
-   "c": -0.37,
-   "a50": 7515.85,
-   "a200": 7079.23,
+   "p": 7754.06,
+   "c": -0.41,
+   "a50": 7515.78,
+   "a200": 7079.22,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7600.69,
-   "r": 62.8
+   "a20": 7600.53,
+   "r": 62.4
   },
   {
    "s": "^VIX",
-   "p": 15.38,
-   "c": 7.93,
+   "p": 15.35,
+   "c": 7.72,
    "a50": 17.18,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.47,
-   "r": 46.0
+   "r": 45.9
   },
   {
    "s": "BZ=F",
-   "p": 90.69,
-   "c": 2.45,
+   "p": 90.53,
+   "c": 2.27,
    "a50": 83.86,
    "a200": 81.88,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.27,
-   "r": 56.3
+   "a20": 88.26,
+   "r": 56.1
   },
   {
    "s": "GC=F",
-   "p": 4473.0,
-   "c": 2.11,
-   "a50": 4157.96,
-   "a200": 4488.8,
+   "p": 4475.7,
+   "c": 2.18,
+   "a50": 4158.01,
+   "a200": 4488.82,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.76,
-   "r": 69.4
+   "a20": 4197.9,
+   "r": 69.6
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": 0.05,
+   "p": 6.61,
+   "c": 0.11,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 59.7
+   "r": 59.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03138732,
-   "c": 0.82,
+   "p": 0.03137747,
+   "c": 0.8,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Falls, Oil Up After Trump Oman Threat; Energy Stock Clears Entry (Live Coverage)",
+   "t": "APR vs. interest rate: What you need to know when mortgage shopping",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/apr-vs-interest-rate-175223561.html"
   },
   {
    "t": "威力彩第115066期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "Airbnb 'rental arbitrage' lets entrepreneurs earn cash from short-term rentals without owning a single property",
+   "t": "Stock Market Today: Dow Falls, Oil Up After Trump Oman Threat; Energy Stock Clears Entry (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/airbnb-rental-arbitrage-lets-entrepreneurs-173000455.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "Apple Could Hit $400, But AI Is Coming for Its Most Profitable Business",
+   "t": "SpaceX Stock: Here's A Way To Profit From This Volatile IPO",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-could-hit-400-ai-172109457.html"
+   "u": "https://www.investors.com/research/options/spacex-spcx-stock-space-exploration-technologies-bear-put-spread-options/?src=A00220&yptr=yahoo"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "Weekly survey of mortgage lenders with the lowest rates: Small moves in rates and fees",
+   "t": "Airbnb 'rental arbitrage' lets entrepreneurs earn cash from short-term rentals without owning a single property",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-10-170834159.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/airbnb-rental-arbitrage-lets-entrepreneurs-173000455.html"
   },
   {
    "t": "美伊60天談判窗口到期　和平協議希望消退油價小漲",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "SEC guidance removes risk rules from Nvidia $500B AI financing push",
+   "t": "JPMorgan warns a brutal grocery shock could hit boomers, as USDA says prices may jump 12.3%. Is your nest egg ready?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/sec-guidance-removes-risk-rules-173141538.html"
+   "u": "https://finance.yahoo.com/economy/articles/jpmorgan-warns-brutal-grocery-shock-173000391.html"
   }
  ],
  "inst": {
