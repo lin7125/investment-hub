@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-17 23:43（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-17 23:51（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 303.48,
-   "c": -0.8,
-   "a50": 309.04,
+   "p": 303.29,
+   "c": -0.86,
+   "a50": 309.03,
    "a200": 280.66,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.27,
-   "r": 41.8
+   "a20": 317.26,
+   "r": 41.7
   },
   {
    "s": "NVDA",
-   "p": 226.84,
-   "c": 0.75,
-   "a50": 206.68,
+   "p": 227.57,
+   "c": 1.07,
+   "a50": 206.7,
    "a200": 195.05,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.57,
-   "r": 64.2
+   "a20": 211.61,
+   "r": 64.7
   },
   {
    "s": "TSLA",
-   "p": 340.36,
-   "c": -0.56,
-   "a50": 369.52,
+   "p": 341.34,
+   "c": -0.27,
+   "a50": 369.54,
    "a200": 405.48,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.68,
-   "r": 47.9
+   "a20": 327.73,
+   "r": 48.4
   },
   {
    "s": "META",
-   "p": 574.12,
-   "c": -2.67,
-   "a50": 596.06,
+   "p": 574.18,
+   "c": -2.66,
+   "a50": 596.07,
    "a200": 626.75,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 591.08,
+   "a20": 591.09,
    "r": 43.2
   },
   {
@@ -267,46 +267,46 @@
   },
   {
    "s": "^GSPC",
-   "p": 7769.44,
-   "c": -0.21,
-   "a50": 7516.09,
-   "a200": 7079.3,
+   "p": 7773.72,
+   "c": -0.15,
+   "a50": 7516.18,
+   "a200": 7079.32,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7601.3,
-   "r": 64.1
+   "a20": 7601.52,
+   "r": 64.5
   },
   {
    "s": "^VIX",
-   "p": 14.94,
-   "c": 4.84,
+   "p": 15.04,
+   "c": 5.54,
    "a50": 17.17,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.45,
-   "r": 43.9
+   "r": 44.4
   },
   {
    "s": "BZ=F",
-   "p": 89.0,
-   "c": 0.54,
-   "a50": 83.83,
+   "p": 88.87,
+   "c": 0.4,
+   "a50": 83.82,
    "a200": 81.87,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.19,
-   "r": 54.1
+   "a20": 88.18,
+   "r": 53.9
   },
   {
    "s": "GC=F",
-   "p": 4480.0,
-   "c": 2.27,
-   "a50": 4158.1,
-   "a200": 4488.84,
+   "p": 4478.0,
+   "c": 2.23,
+   "a50": 4158.06,
+   "a200": 4488.83,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4198.11,
+   "a20": 4198.01,
    "r": 69.7
   },
   {
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.0314169,
-   "c": 0.92,
+   "c": 0.91,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
   },
   {
-   "t": "PAR Technology (PAR)Positioned for Long Growth Runway",
+   "t": "Stock Market Today: Dow Falls After Trump Oman Threat; Homebuilders Decline Despite This Data (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/par-technology-par-positioned-long-152410669.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo"
   },
   {
    "t": "市場權衡美伊緊張　美股開盤走勢不一",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
   },
   {
-   "t": "Corvus Pharmaceuticals (CRVS): This Clinical-Stage Drugmaker Just Got A Lot More Interesting",
+   "t": "Cable One (CABO) Fights Subscriber Losses While Squeezing Out Cash",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/corvus-pharmaceuticals-crvs-clinical-stage-151652950.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cable-one-cabo-fights-subscriber-153422519.html"
   },
   {
    "t": "國銀海外據點上半年獲利552億　越南超車日本擠進前5",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608170302.aspx"
   },
   {
-   "t": "The Numbers Behind Assured Guaranty’s (AGO) Record-Setting Quarter",
+   "t": "Core Thesis on Lifecore Biomedical (LFCR): Monetizing Excess Production",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/numbers-behind-assured-guaranty-ago-150922259.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/core-thesis-lifecore-biomedical-lfcr-152902193.html"
   },
   {
    "t": "美伊60天談判窗口到期　和平協議希望消退油價小漲",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170300.aspx"
   },
   {
-   "t": "GSK Eyes AnaptysBio (ANAB) Acquisition to Secure Drug Control",
+   "t": "KKR (KKR) Remains Strong Despite Credit Fears",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/gsk-eyes-anaptysbio-anab-acquisition-150348750.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kkr-kkr-remains-strong-despite-152617990.html"
   },
   {
    "t": "AI需求帶旺　新加坡7月石油以外出口成長率增至24.2%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608170299.aspx"
   },
   {
-   "t": "India's IT outsourcing industry feels AI's impact on hiring",
+   "t": "PAR Technology (PAR)Positioned for Long Growth Runway",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/indias-outsourcing-industry-feels-ais-152111368.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/par-technology-par-positioned-long-152410669.html"
   }
  ],
  "inst": {
