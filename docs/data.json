@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 00:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 00:28（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 310.18,
-   "c": 1.5,
-   "a50": 309.13,
+   "p": 310.46,
+   "c": 1.59,
+   "a50": 309.14,
    "a200": 280.87,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 316.5,
-   "r": 48.0
+   "a20": 316.51,
+   "r": 48.3
   },
   {
    "s": "NVDA",
-   "p": 219.87,
-   "c": -2.28,
+   "p": 219.63,
+   "c": -2.39,
    "a50": 206.94,
    "a200": 195.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.11,
-   "r": 56.8
+   "a20": 212.1,
+   "r": 56.5
   },
   {
    "s": "TSLA",
-   "p": 338.4,
-   "c": -0.27,
-   "a50": 368.45,
-   "a200": 404.86,
+   "p": 337.25,
+   "c": -0.6,
+   "a50": 368.43,
+   "a200": 404.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.6,
-   "r": 47.0
+   "a20": 325.54,
+   "r": 46.5
   },
   {
    "s": "META",
-   "p": 553.72,
-   "c": -2.68,
-   "a50": 595.18,
+   "p": 552.71,
+   "c": -2.86,
+   "a50": 595.16,
    "a200": 625.73,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 586.32,
-   "r": 38.3
+   "a20": 586.27,
+   "r": 38.0
   },
   {
    "s": "^TWII",
@@ -267,47 +267,47 @@
   },
   {
    "s": "^GSPC",
-   "p": 7703.83,
-   "c": -0.53,
-   "a50": 7522.01,
+   "p": 7703.4,
+   "c": -0.54,
+   "a50": 7522.0,
    "a200": 7083.24,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7609.82,
+   "a20": 7609.79,
    "r": 57.3
   },
   {
    "s": "^VIX",
-   "p": 15.69,
-   "c": 3.29,
+   "p": 15.66,
+   "c": 3.09,
    "a50": 17.06,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.39,
-   "r": 47.6
+   "r": 47.5
   },
   {
    "s": "BZ=F",
-   "p": 91.46,
-   "c": 0.65,
+   "p": 91.49,
+   "c": 0.68,
    "a50": 83.83,
    "a200": 82.02,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.3,
-   "r": 57.2
+   "r": 57.3
   },
   {
    "s": "GC=F",
-   "p": 4422.4,
-   "c": 0.1,
-   "a50": 4158.56,
+   "p": 4421.4,
+   "c": 0.08,
+   "a50": 4158.54,
    "a200": 4490.72,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4212.56,
-   "r": 67.0
+   "a20": 4212.51,
+   "r": 66.9
   },
   {
    "s": "HG=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03133814,
-   "c": 0.26,
+   "p": 0.03134796,
+   "c": 0.27,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "Bankrupt Italian chain shuts 50 restaurants, exits state entirely",
+   "t": "India’s Minda to invest Rs2.70bn for automotive TFT displays – report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/bankrupt-italian-chain-shuts-50-230000785.html"
+   "u": "https://finance.yahoo.com/technology/articles/india-minda-invest-rs2-70bn-161456686.html"
   },
   {
    "t": "今彩539第115200期　頭獎3注中獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "Bitcoin and ethereum prices today, Tuesday, August 18, 2026: Crypto prices mixed as Iran stalemate continues",
+   "t": "This Energy Stock Is Spiking Now; Its Exxon Deal Smells Like AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-18-2026-crypto-prices-mixed-as-iran-stalemate-continues-155702632.html"
+   "u": "https://www.investors.com/news/energy-stock-targa-exxon-stock-natural-gas-deal-ai/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Silver prices today, Tuesday, August 18, 2026: Silver price holds as investors weigh inflation and geopolitical risks",
+   "t": "Stock Market Today: Nasdaq Retreats As Chipmakers Sell-Off; Micron, Sandisk, And A Fintech Fall (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-august-18-2026-silver-price-holds-as-investors-weigh-inflation-and-geopolitical-risks-155200076.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo"
   },
   {
    "t": "國銀中小企業放款上半年大增4026億　創同期新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Gold prices today, Tuesday, August 18, 2026: Gold falters as U.S. Treasury yields rise",
+   "t": "Bitcoin and ethereum prices today, Tuesday, August 18, 2026: Crypto prices mixed as Iran stalemate continues",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-18-2026-gold-falters-as-us-treasury-yields-rise-154856224.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-18-2026-crypto-prices-mixed-as-iran-stalemate-continues-155702632.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "Why Affirm Stock Shrugged Off Weak Klarna Guidance",
+   "t": "Silver prices today, Tuesday, August 18, 2026: Silver price holds as investors weigh inflation and geopolitical risks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/klarna-stock-plunges-lower-guidance-affirm/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-august-18-2026-silver-price-holds-as-investors-weigh-inflation-and-geopolitical-risks-155200076.html"
   },
   {
    "t": "美伊僵局難解油價維持高檔　美股開低那指開跌1.12%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180328.aspx"
   },
   {
-   "t": "5-star analyst sets alarming SpaceX stock price target",
+   "t": "VGIT vs. IGIB: Which Bond ETF Offers the Better Buy for Income Investors?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-sets-alarming-030700322.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/vgit-vs-igib-bond-etf-161019052.html"
   }
  ],
  "inst": {
