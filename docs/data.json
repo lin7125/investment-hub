@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 02:23（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 02:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 310.61,
-   "c": 1.64,
+   "p": 310.58,
+   "c": 1.63,
    "a50": 309.14,
    "a200": 280.87,
    "yh": 340.08,
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 220.22,
-   "c": -2.13,
-   "a50": 206.95,
-   "a200": 195.11,
+   "p": 219.91,
+   "c": -2.27,
+   "a50": 206.94,
+   "a200": 195.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.13,
-   "r": 57.1
+   "a20": 212.11,
+   "r": 56.8
   },
   {
    "s": "TSLA",
-   "p": 336.81,
-   "c": -0.73,
-   "a50": 368.42,
+   "p": 336.27,
+   "c": -0.89,
+   "a50": 368.41,
    "a200": 404.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.52,
-   "r": 46.3
+   "a20": 325.49,
+   "r": 46.0
   },
   {
    "s": "META",
-   "p": 547.98,
-   "c": -3.69,
-   "a50": 595.06,
+   "p": 546.81,
+   "c": -3.89,
+   "a50": 595.04,
    "a200": 625.7,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 586.03,
-   "r": 37.1
+   "a20": 585.98,
+   "r": 36.8
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7704.22,
-   "c": -0.53,
-   "a50": 7522.49,
-   "a200": 7074.04,
+   "p": 7702.0,
+   "c": -0.56,
+   "a50": 7522.45,
+   "a200": 7074.02,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7605.45,
-   "r": 57.4
+   "a20": 7605.34,
+   "r": 57.2
   },
   {
    "s": "^VIX",
-   "p": 15.76,
-   "c": 3.75,
+   "p": 15.68,
+   "c": 3.23,
    "a50": 17.06,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.39,
-   "r": 48.0
+   "r": 47.6
   },
   {
    "s": "BZ=F",
-   "p": 90.93,
-   "c": 0.07,
+   "p": 91.01,
+   "c": 0.15,
    "a50": 83.82,
    "a200": 82.01,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.28,
-   "r": 56.6
+   "r": 56.7
   },
   {
    "s": "GC=F",
-   "p": 4408.6,
-   "c": -0.21,
-   "a50": 4158.28,
-   "a200": 4490.65,
+   "p": 4411.6,
+   "c": -0.14,
+   "a50": 4158.34,
+   "a200": 4490.67,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4211.87,
-   "r": 65.7
+   "a20": 4212.02,
+   "r": 66.0
   },
   {
    "s": "HG=F",
-   "p": 6.47,
-   "c": -1.98,
+   "p": 6.48,
+   "c": -1.94,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 49.9
+   "r": 50.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03132832,
-   "c": 0.2,
+   "p": 0.03133814,
+   "c": 0.25,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190002.aspx"
   },
   {
-   "t": "Wells Fargo revamps gold price target for the rest of 2026",
+   "t": "Costco launching Medicare Advantage plans with SCAN Group",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/wells-fargo-revamps-gold-price-160300985.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html"
   },
   {
    "t": "純網銀累虧減少　LINE Bank連7月獲利",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "Home Depot Earnings Preview: Can Pro Demand Offset a Weak Housing Market?",
+   "t": "Lowe’s Earnings Preview: Can Pro Growth and Digital Momentum Offset Weak DIY Demand?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/home-depot-earnings-preview-pro-090048816.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lowe-earnings-preview-pro-growth-091853853.html"
   },
   {
    "t": "今彩539第115200期　頭獎3注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "How Can I Roll Over $720k to a Roth IRA While Minimizing Taxes?",
+   "t": "What Are Wall Street Analysts' Target Price for Hilton Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/want-roll-over-720k-roth-123000007.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-093416228.html"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Lowe’s Earnings Preview: Can Pro Growth and Digital Momentum Offset Weak DIY Demand?",
+   "t": "Home Depot Earnings Preview: Can Pro Demand Offset a Weak Housing Market?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lowe-earnings-preview-pro-growth-091853853.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/home-depot-earnings-preview-pro-090048816.html"
   },
   {
    "t": "國銀中小企業放款上半年大增4026億　創同期新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Indian Oil Giant Secures U.S. License to Return to Venezuela",
+   "t": "How Can I Roll Over $720k to a Roth IRA While Minimizing Taxes?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/indian-oil-giant-secures-u-075000286.html"
+   "u": "https://finance.yahoo.com/news/want-roll-over-720k-roth-123000007.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "Costco launching Medicare Advantage plans with SCAN Group",
+   "t": "Gold rises towards $4,400 as weaker dollar supports prices despite Middle East inflation concerns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-rises-towards-4-400-092243418.html"
   }
  ],
  "inst": {
