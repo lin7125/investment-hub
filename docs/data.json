@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 14:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 14:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,8 +179,8 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.1,
-   "c": -4.47,
+   "p": 49.05,
+   "c": -4.57,
    "a50": 59.94,
    "a200": 41.84,
    "yh": 165.0,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.21,
-   "c": 0.37,
+   "p": 91.58,
+   "c": 0.78,
    "a50": 83.83,
-   "a200": 82.01,
+   "a200": 82.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.29,
-   "r": 56.9
+   "a20": 88.31,
+   "r": 57.4
   },
   {
    "s": "GC=F",
-   "p": 4451.8,
-   "c": 0.77,
-   "a50": 4159.15,
-   "a200": 4490.87,
+   "p": 4446.7,
+   "c": 0.65,
+   "a50": 4159.04,
+   "a200": 4490.84,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4214.03,
-   "r": 68.6
+   "a20": 4213.78,
+   "r": 68.3
   },
   {
    "s": "HG=F",
-   "p": 6.58,
-   "c": -0.32,
+   "p": 6.57,
+   "c": -0.45,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 57.9
+   "r": 57.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03137747,
-   "c": 0.37,
+   "c": 0.36,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "新台幣午盤貶0.6分　暫收31.858元",
+   "t": "台股高低震盪逾800點　終場挫548點收45308點",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/afe/202608180087.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608180141.aspx"
   },
   {
    "t": "Warren Buffett's Berkshire raises stake in world's largest airline",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-raises-stake-214700937.html"
   },
   {
-   "t": "亞智攻CoPoS和玻璃核心載板　搶國產化先進封裝商機",
+   "t": "台電50億汰換地下老舊線路　6都18個行政區優先更換",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/afe/202608180083.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608180140.aspx"
   },
   {
    "t": "Tori Dunlap's Her First $100K made Inc. 5000 after growing it from a blog to a multi-million dollar business",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/tori-dunlaps-her-first-100k-183000556.html"
   },
   {
-   "t": "美股延長交易在即　集保赴美交流確保結算交割安全銜接",
+   "t": "國際自動化展8/19登場　所羅門秀AI自主機器人應用",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/afe/202608180057.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608180134.aspx"
   },
   {
    "t": "Wall Street Thinks Monolithic Power Is a Buy. Here’s Why It Might Be Right.",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-thinks-monolithic-power-183002705.html"
   },
   {
-   "t": "權值股熄火　台股衝破46000點後急殺逾500點",
+   "t": "工會反對Grab併foodpanda　公平會：專業客觀審查",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/afe/202608180047.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608180133.aspx"
   },
   {
    "t": "Oil Majors Reap $93 Billion Windfall From the Iran War",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html"
   },
   {
-   "t": "Anthropic增長勢頭猛　年化營收衝破650億美元",
+   "t": "台電估氣價調漲致燃料成本增逾1200億　盼獲預算撥補",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/aopl/202608180044.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608180108.aspx"
   },
   {
    "t": "Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax?",
@@ -392,16 +392,16 @@
    "u": "https://finance.yahoo.com/real-estate/articles/drake-told-23-old-streamer-191500099.html"
   },
   {
-   "t": "宇瞻參加自動化展　半導體晶圓量測設備將首度亮相",
+   "t": "日經亞洲：Google擬2027年前將Pixel生產移出中國",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/afe/202608180040.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608180104.aspx"
   },
   {
-   "t": "Bitcoin Is Down 44% and Its Miners Are Up 90%. The AI Pivot Explains Everything.",
+   "t": "Crypto Version of Your Favorite Stocks Soon? SEC Reportedly Planning to Release Framework for Tokenized Assets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-44-miners-90-182147021.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/crypto-version-favorite-stocks-soon-183119627.html"
   }
  ],
  "inst": {
@@ -477,7 +477,6 @@
     "t": -1682,
     "all": -10235
    }
-  },
-  "totalNetE": 290.8
+  }
  }
 }
