@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 21:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 22:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 307.18,
-   "c": 0.41,
-   "a50": 309.11,
-   "a200": 280.67,
+   "p": 309.04,
+   "c": 1.02,
+   "a50": 309.15,
+   "a200": 280.68,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.46,
-   "r": 44.9
+   "a20": 317.55,
+   "r": 46.7
   },
   {
    "s": "NVDA",
-   "p": 220.2,
-   "c": -2.2,
-   "a50": 206.55,
+   "p": 220.56,
+   "c": -2.04,
+   "a50": 206.56,
    "a200": 195.02,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.24,
-   "r": 57.5
+   "a20": 211.26,
+   "r": 57.9
   },
   {
    "s": "TSLA",
-   "p": 338.77,
-   "c": -1.02,
-   "a50": 369.49,
+   "p": 338.01,
+   "c": -1.25,
+   "a50": 369.48,
    "a200": 405.47,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.6,
-   "r": 47.2
+   "a20": 327.56,
+   "r": 46.9
   },
   {
    "s": "META",
-   "p": 548.31,
-   "c": -7.04,
+   "p": 548.41,
+   "c": -7.03,
    "a50": 595.55,
    "a200": 626.62,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 589.79,
+   "a20": 589.8,
    "r": 37.4
   },
   {
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7706.08,
-   "c": -1.02,
-   "a50": 7514.82,
-   "a200": 7078.98,
+   "p": 7710.37,
+   "c": -0.97,
+   "a50": 7514.91,
+   "a200": 7079.0,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7598.14,
-   "r": 57.8
+   "a20": 7598.35,
+   "r": 58.2
   },
   {
    "s": "^VIX",
-   "p": 15.71,
-   "c": 10.25,
+   "p": 15.76,
+   "c": 10.6,
    "a50": 17.19,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.48,
-   "r": 47.6
+   "a20": 16.49,
+   "r": 47.8
   },
   {
    "s": "BZ=F",
-   "p": 90.89,
-   "c": 0.02,
+   "p": 91.16,
+   "c": 0.32,
    "a50": 83.82,
    "a200": 82.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.27,
-   "r": 56.5
+   "a20": 88.29,
+   "r": 56.9
   },
   {
    "s": "GC=F",
-   "p": 4451.9,
-   "c": 0.77,
-   "a50": 4159.15,
-   "a200": 4490.87,
+   "p": 4447.1,
+   "c": 0.66,
+   "a50": 4159.05,
+   "a200": 4490.85,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4214.04,
-   "r": 68.6
+   "a20": 4213.8,
+   "r": 68.3
   },
   {
    "s": "HG=F",
    "p": 6.53,
-   "c": -1.13,
+   "c": -1.17,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 53.8
+   "r": 53.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03135779,
-   "c": 0.32,
+   "p": 0.03136763,
+   "c": 0.34,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608180298.aspx"
   },
   {
-   "t": "Stock Market Today: Nasdaq Sinks As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)",
+   "t": "Global bond sell-off pressures stocks: AlphaCheck",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html"
   },
   {
    "t": "台日創新高峰會升級三方合作　串聯美國拓全球市場",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180288.aspx"
   },
   {
-   "t": "Stock market today: Nasdaq leads Dow and S&P 500 lower as rising Treasury yields weigh on tech stocks",
+   "t": "Could Legence (LGN) Be a Major Winner From the AI Data Center Construction Boom?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/could-legence-lgn-major-winner-134914355.html"
   },
   {
    "t": "承啟擬處分思騰等公司51%股權　降低營運不確定性",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180287.aspx"
   },
   {
-   "t": "Everforth (EFOR) Positioned to Deliver Modern IT Solutions as Demand Nomalizes",
+   "t": "Stock Market Today: Nasdaq Sinks As Treasury Yields Jump; Nvidia, Micron, Sandisk All Tumble (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/everforth-efor-positioned-deliver-modern-133507845.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo"
   },
   {
    "t": "雞蛋產量減　好市多30顆裝改20顆裝中和汐止先測試",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180286.aspx"
   },
   {
-   "t": "Comcast expands Xfinity security offerings to deepen broadband customer ties",
+   "t": "Stock market today: Nasdaq leads Dow and S&P 500 lower as rising Treasury yields weigh on tech stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/comcast-expands-xfinity-security-offerings-133318080.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
   },
   {
    "t": "台灣大公開收購精誠起跑　已獲逾14%應賣承諾",
