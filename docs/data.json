@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 03:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 03:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 309.85,
-   "c": 1.39,
+   "p": 309.88,
+   "c": 1.4,
    "a50": 309.13,
    "a200": 280.87,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 316.48,
+   "a20": 316.49,
    "r": 47.7
   },
   {
    "s": "NVDA",
-   "p": 219.29,
-   "c": -2.54,
+   "p": 219.14,
+   "c": -2.61,
    "a50": 206.93,
    "a200": 195.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.08,
-   "r": 56.1
+   "a20": 212.07,
+   "r": 56.0
   },
   {
    "s": "TSLA",
-   "p": 336.51,
-   "c": -0.82,
-   "a50": 368.41,
+   "p": 336.93,
+   "c": -0.7,
+   "a50": 368.42,
    "a200": 404.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.5,
-   "r": 46.1
+   "a20": 325.53,
+   "r": 46.3
   },
   {
    "s": "META",
-   "p": 544.9,
-   "c": -4.23,
-   "a50": 595.0,
+   "p": 544.56,
+   "c": -4.29,
+   "a50": 594.99,
    "a200": 625.69,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 585.88,
+   "a20": 585.86,
    "r": 36.4
   },
   {
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7700.17,
-   "c": -0.58,
-   "a50": 7521.93,
-   "a200": 7083.22,
+   "p": 7698.69,
+   "c": -0.6,
+   "a50": 7522.38,
+   "a200": 7074.01,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7609.63,
-   "r": 57.0
+   "a20": 7605.17,
+   "r": 56.9
   },
   {
    "s": "^VIX",
-   "p": 15.63,
-   "c": 2.9,
+   "p": 15.65,
+   "c": 3.03,
    "a50": 17.12,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.63,
-   "r": 47.0
+   "r": 47.1
   },
   {
    "s": "BZ=F",
-   "p": 91.03,
-   "c": 0.18,
+   "p": 90.94,
+   "c": 0.08,
    "a50": 83.82,
    "a200": 82.01,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.28,
-   "r": 56.7
+   "r": 56.6
   },
   {
    "s": "GC=F",
-   "p": 4412.3,
-   "c": -0.12,
-   "a50": 4158.36,
-   "a200": 4490.67,
+   "p": 4408.3,
+   "c": -0.22,
+   "a50": 4158.28,
+   "a200": 4490.65,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4212.06,
-   "r": 66.1
+   "a20": 4211.86,
+   "r": 65.6
   },
   {
    "s": "HG=F",
-   "p": 6.47,
-   "c": -1.97,
+   "p": 6.48,
+   "c": -1.91,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 50.0
+   "r": 50.3
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "Bill Ackman lost $400M dumping Netflix — now says it ‘won the streaming wars.’ Should you rebuy a stock that burned you?",
+   "t": "Stocks Set to Open Higher on Tech Boost, Fed Minutes and Retail Earnings Awaited",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-lost-400m-dumping-101500398.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-higher-tech-103548577.html"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Stocks Set to Open Higher on Tech Boost, Fed Minutes and Retail Earnings Awaited",
+   "t": "Do Wall Street Analysts Like Pentair Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-higher-tech-103548577.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-pentair-stock-103829222.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "ArcelorMittal Says Two Killed in Missile Strike on Ukraine Facility",
+   "t": "Elon Musk Just Uttered 3 Massively Bullish Words for Micron, Sandisk, and SK Hynix",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/world/europe/arcelormittal-says-two-killed-in-missile-strike-on-ukraine-facility-98bfb001?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-just-uttered-3-102600118.html"
   }
  ],
  "inst": {
