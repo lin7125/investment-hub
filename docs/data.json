@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 13:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 13:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -36,36 +36,36 @@
   },
   {
    "s": "2454.TW",
-   "p": 3905.0,
-   "c": -3.58,
-   "a50": 3979.5,
-   "a200": 2474.38,
+   "p": 3895.0,
+   "c": -3.83,
+   "a50": 3979.3,
+   "a200": 2474.32,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3819.5,
-   "r": 50.3
+   "a20": 3819.0,
+   "r": 50.0
   },
   {
    "s": "2327.TW",
-   "p": 578.0,
-   "c": -4.93,
-   "a50": 790.43,
-   "a200": 432.71,
+   "p": 576.0,
+   "c": -5.26,
+   "a50": 790.39,
+   "a200": 432.7,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 588.12,
-   "r": 42.6
+   "a20": 588.02,
+   "r": 42.4
   },
   {
    "s": "1802.TW",
-   "p": 56.7,
-   "c": -3.57,
+   "p": 56.5,
+   "c": -3.91,
    "a50": 60.5,
    "a200": 52.57,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.69,
-   "r": 50.9
+   "a20": 52.68,
+   "r": 50.5
   },
   {
    "s": "6862.TW",
@@ -80,14 +80,14 @@
   },
   {
    "s": "3701.TW",
-   "p": 39.5,
-   "c": -3.78,
+   "p": 39.45,
+   "c": -3.9,
    "a50": 42.62,
    "a200": 48.87,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.62,
-   "r": 45.1
+   "r": 44.9
   },
   {
    "s": "4722.TW",
@@ -113,69 +113,69 @@
   },
   {
    "s": "2305.TW",
-   "p": 27.75,
-   "c": -2.8,
+   "p": 27.7,
+   "c": -2.98,
    "a50": 32.33,
    "a200": 18.72,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 29.75,
-   "r": 43.9
+   "r": 43.8
   },
   {
    "s": "6442.TW",
-   "p": 1555.0,
-   "c": -4.6,
-   "a50": 1544.7,
-   "a200": 1595.74,
+   "p": 1535.0,
+   "c": -5.83,
+   "a50": 1544.3,
+   "a200": 1595.64,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1376.5,
-   "r": 55.4
+   "a20": 1375.5,
+   "r": 54.3
   },
   {
    "s": "6515.TW",
-   "p": 6300.0,
-   "c": -4.69,
-   "a50": 7597.6,
-   "a200": 6032.88,
+   "p": 6285.0,
+   "c": -4.92,
+   "a50": 7597.3,
+   "a200": 6032.8,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6441.25,
-   "r": 42.0
+   "a20": 6440.5,
+   "r": 41.9
   },
   {
    "s": "6446.TW",
-   "p": 1380.0,
-   "c": -2.13,
-   "a50": 1173.07,
-   "a200": 715.51,
+   "p": 1385.0,
+   "c": -1.77,
+   "a50": 1173.17,
+   "a200": 715.53,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1257.5,
-   "r": 57.9
+   "a20": 1257.75,
+   "r": 58.3
   },
   {
    "s": "3324.TWO",
-   "p": 987.0,
-   "c": -1.79,
-   "a50": 976.76,
-   "a200": 998.29,
+   "p": 981.0,
+   "c": -2.39,
+   "a50": 976.64,
+   "a200": 998.26,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 961.05,
-   "r": 51.4
+   "a20": 960.75,
+   "r": 50.6
   },
   {
    "s": "3491.TWO",
-   "p": 1270.0,
-   "c": -4.51,
-   "a50": 1312.34,
-   "a200": 1199.13,
+   "p": 1255.0,
+   "c": -5.64,
+   "a50": 1312.04,
+   "a200": 1199.06,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1210.35,
-   "r": 50.1
+   "a20": 1209.6,
+   "r": 49.2
   },
   {
    "s": "3585.TWO",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5220.0,
-   "c": -10.0,
-   "a50": 6210.2,
-   "a200": 4055.9,
+   "p": 5240.0,
+   "c": -9.66,
+   "a50": 6210.6,
+   "a200": 4056.0,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5857.75,
-   "r": 39.2
+   "a20": 5858.75,
+   "r": 39.4
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45344.1,
-   "c": -1.02,
-   "a50": 44779.87,
-   "a200": 35996.34,
+   "p": 45292.64,
+   "c": -1.13,
+   "a50": 44778.84,
+   "a200": 35996.09,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43930.98,
-   "r": 55.3
+   "a20": 43928.4,
+   "r": 55.0
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.52,
-   "c": 0.72,
+   "p": 91.49,
+   "c": 0.68,
    "a50": 83.83,
    "a200": 82.02,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4450.2,
-   "c": 0.73,
-   "a50": 4159.11,
-   "a200": 4490.86,
+   "p": 4443.2,
+   "c": 0.57,
+   "a50": 4158.97,
+   "a200": 4490.83,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4213.95,
-   "r": 68.5
+   "a20": 4213.6,
+   "r": 68.1
   },
   {
    "s": "HG=F",
-   "p": 6.57,
-   "c": -0.48,
+   "p": 6.56,
+   "c": -0.63,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 57.0
+   "r": 56.3
   },
   {
    "s": "TWDUSD",
    "p": 0.03139717,
-   "c": 0.44,
+   "c": 0.43,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180083.aspx"
   },
   {
-   "t": "Ondo Stocks Volume Hits $27B, Tokenized Equity Platform Holds Above $1B",
+   "t": "Tori Dunlap's Her First $100K made Inc. 5000 after growing it from a blog to a multi-million dollar business",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/ondo-stocks-volume-hits-27b-173900103.html"
+   "u": "https://finance.yahoo.com/small-business/articles/tori-dunlaps-her-first-100k-183000556.html"
   },
   {
    "t": "美股延長交易在即　集保赴美交流確保結算交割安全銜接",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180047.aspx"
   },
   {
-   "t": "Tori Dunlap's Her First $100K made Inc. 5000 after growing it from a blog to a multi-million dollar business",
+   "t": "Ondo Stocks Volume Hits $27B, Tokenized Equity Platform Holds Above $1B",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/tori-dunlaps-her-first-100k-183000556.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/ondo-stocks-volume-hits-27b-173900103.html"
   },
   {
    "t": "Anthropic增長勢頭猛　年化營收衝破650億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608180044.aspx"
   },
   {
-   "t": "Netflix Stock Is Cheap and It Has More Than 70% Upside Potential Here",
+   "t": "Oil Majors Reap $93 Billion Windfall From the Iran War",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-cheap-more-70-173002732.html"
+   "u": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html"
   },
   {
    "t": "宇瞻參加自動化展　半導體晶圓量測設備將首度亮相",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180040.aspx"
   },
   {
-   "t": "Big Pharma's Future Growth Rests on Chinese Science? Expert Says: 'We Can't Ban Our Way Out of This'",
+   "t": "He Sold $80,000 of Timber Off His Land. Social Security Wanted to Know: Investor, or Still a Logger?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/big-pharmas-future-growth-rests-180016912.html"
+   "u": "https://finance.yahoo.com/small-business/articles/sold-80-000-timber-off-180320015.html"
   }
  ],
  "inst": {
