@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 23:26（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 23:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,31 +212,31 @@
   },
   {
    "s": "AAPL",
-   "p": 310.2,
-   "c": 1.4,
+   "p": 310.12,
+   "c": 1.37,
    "a50": 309.17,
    "a200": 280.69,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 317.61,
-   "r": 47.7
+   "r": 47.6
   },
   {
    "s": "NVDA",
-   "p": 219.59,
-   "c": -2.47,
+   "p": 219.48,
+   "c": -2.52,
    "a50": 206.54,
    "a200": 195.01,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.21,
-   "r": 56.9
+   "a20": 211.2,
+   "r": 56.8
   },
   {
    "s": "TSLA",
-   "p": 337.02,
-   "c": -1.53,
-   "a50": 369.46,
+   "p": 336.89,
+   "c": -1.57,
+   "a50": 369.45,
    "a200": 405.46,
    "yh": 489.88,
    "yl": 298.32,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 552.59,
-   "c": -6.32,
+   "p": 552.38,
+   "c": -6.35,
    "a50": 595.63,
    "a200": 626.64,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 590.01,
-   "r": 38.3
+   "a20": 590.0,
+   "r": 38.2
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7695.89,
+   "p": 7696.1,
    "c": -1.15,
-   "a50": 7514.62,
+   "a50": 7514.63,
    "a200": 7078.93,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7597.63,
+   "a20": 7597.64,
    "r": 56.9
   },
   {
    "s": "^VIX",
-   "p": 15.83,
-   "c": 11.09,
+   "p": 15.9,
+   "c": 11.58,
    "a50": 17.19,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.49,
-   "r": 48.1
+   "r": 48.4
   },
   {
    "s": "BZ=F",
-   "p": 91.3,
-   "c": 0.47,
+   "p": 91.69,
+   "c": 0.9,
    "a50": 83.83,
-   "a200": 82.01,
+   "a200": 82.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.29,
-   "r": 57.0
+   "a20": 88.31,
+   "r": 57.5
   },
   {
    "s": "GC=F",
-   "p": 4419.0,
-   "c": 0.03,
-   "a50": 4158.49,
-   "a200": 4490.7,
+   "p": 4412.0,
+   "c": -0.13,
+   "a50": 4158.35,
+   "a200": 4490.67,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4212.39,
-   "r": 66.8
+   "a20": 4212.04,
+   "r": 66.1
   },
   {
    "s": "HG=F",
-   "p": 6.48,
-   "c": -1.93,
+   "p": 6.49,
+   "c": -1.78,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 50.2
+   "r": 50.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03134796,
-   "c": 0.27,
+   "p": 0.03133814,
+   "c": 0.25,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "Tech stocks today: Meta social media trial kicks off, chip stocks fall",
+   "t": "Nvidia's attack plan: Dominate every single aspect of AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-social-media-trial-kicks-off-chip-stocks-fall-132945569.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/nvidias-attack-plan-dominate-every-single-aspect-of-ai-143905381.html"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Billionaire Dan Loeb Is Buying This Boring Non-AI Stock the Market Is Ignoring",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks sell off, bond yields remain high",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-buying-boring-145802385.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
   },
   {
    "t": "國銀中小企業放款上半年大增4026億　創同期新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks sell off, bond yields remain high",
+   "t": "Mission Produce (AVO): Understanding The Long-Term Upside Ahead of Q3 Results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mission-produce-avo-understanding-long-152209701.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "Home Depot Q2 earnings beat forecasts as customers stick to small projects, housing market remains 'frozen'",
+   "t": "Seller concession limits: How much can you ask for?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/home-depot-q2-earnings-beat-forecasts-as-customers-stick-to-small-projects-housing-market-remains-frozen-113055971.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/seller-concession-limits-151821985.html"
   },
   {
    "t": "美伊僵局難解油價維持高檔　美股開低那指開跌1.12%",
