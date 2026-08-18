@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 01:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 01:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 310.07,
-   "c": 1.47,
+   "p": 310.18,
+   "c": 1.5,
    "a50": 309.13,
    "a200": 280.87,
    "yh": 340.08,
@@ -223,8 +223,8 @@
   },
   {
    "s": "NVDA",
-   "p": 220.32,
-   "c": -2.08,
+   "p": 220.29,
+   "c": -2.1,
    "a50": 206.95,
    "a200": 195.11,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 337.32,
-   "c": -0.58,
-   "a50": 368.43,
+   "p": 336.64,
+   "c": -0.79,
+   "a50": 368.42,
    "a200": 404.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.55,
-   "r": 46.5
+   "a20": 325.51,
+   "r": 46.2
   },
   {
    "s": "META",
-   "p": 547.24,
-   "c": -3.82,
-   "a50": 595.05,
+   "p": 547.84,
+   "c": -3.71,
+   "a50": 595.06,
    "a200": 625.7,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 586.0,
-   "r": 36.9
+   "a20": 586.03,
+   "r": 37.0
   },
   {
    "s": "^TWII",
@@ -267,13 +267,13 @@
   },
   {
    "s": "^GSPC",
-   "p": 7700.29,
+   "p": 7700.4,
    "c": -0.58,
    "a50": 7522.41,
    "a200": 7074.02,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7605.25,
+   "a20": 7605.26,
    "r": 57.1
   },
   {
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.17,
-   "c": 0.33,
+   "p": 91.18,
+   "c": 0.34,
    "a50": 83.82,
    "a200": 82.01,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4420.0,
-   "c": 0.05,
-   "a50": 4158.51,
-   "a200": 4490.71,
+   "p": 4418.9,
+   "c": 0.02,
+   "a50": 4158.49,
+   "a200": 4490.7,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4212.44,
+   "a20": 4212.39,
    "r": 66.8
   },
   {
    "s": "HG=F",
-   "p": 6.49,
-   "c": -1.8,
+   "p": 6.48,
+   "c": -1.82,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 50.7
+   "r": 50.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03132832,
-   "c": 0.23,
+   "p": 0.03133814,
+   "c": 0.24,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "Is This The Next CoreWeave Or Nebius Group? A Crusoe IPO Looms",
+   "t": "Stock Market Today: Nasdaq Weighed Down By Chip Names; Credo Plunges With Micron, Sandisk (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/is-this-the-next-coreweave-or-nebius-group-a-crusoe-ipo-looms/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115200期　頭獎3注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "State Farm's $5 billion dividend payout is largest in company history: Who's eligible?",
+   "t": "Nasdaq slides, yields elevated as Mideast conflict fears grow",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/state-farms-5-billion-dividend-payout-is-largest-in-company-history-whos-eligible-170817212.html"
+   "u": "https://finance.yahoo.com/news/stocks-slide-yields-elevated-mideast-150928612.html"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Two Florida cities top the list of US regions where home sellers are most likely to lose money on their listings",
+   "t": "Extract Profit From Starbucks Stock Swings With This Long Strangle Option Trade",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/two-florida-cities-top-list-170000896.html"
+   "u": "https://www.investors.com/research/options/starbucks-stock-sbux-coffee-trading-options-income-trade-strategy-markets/?src=A00220&yptr=yahoo"
   },
   {
    "t": "國銀中小企業放款上半年大增4026億　創同期新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks sell off, bond yields remain high",
+   "t": "Beyond Oil: Record Revenue & U.S. Direct-Sales Expansion Fuel Scaling Phase – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/beyond-oil-record-revenue-u-171951108.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "Baidu Sinks 13% as Soft Results Put AI Pivot to the Test: How Alibaba and Chinese Tech Stocks Compare",
+   "t": "Is This The Next CoreWeave Or Nebius Group? A Crusoe IPO Looms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/baidu-sinks-13-soft-results-171813626.html"
+   "u": "https://www.investors.com/news/is-this-the-next-coreweave-or-nebius-group-a-crusoe-ipo-looms/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
