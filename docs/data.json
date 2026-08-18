@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 13:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 13:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -25,25 +25,25 @@
   },
   {
    "s": "2308.TW",
-   "p": 1830.0,
-   "c": -2.92,
-   "a50": 1892.3,
-   "a200": 1530.34,
+   "p": 1820.0,
+   "c": -3.45,
+   "a50": 1892.1,
+   "a200": 1530.3,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1731.0,
-   "r": 52.2
+   "a20": 1730.5,
+   "r": 51.5
   },
   {
    "s": "2454.TW",
-   "p": 3895.0,
-   "c": -3.83,
-   "a50": 3979.3,
-   "a200": 2474.32,
+   "p": 3885.0,
+   "c": -4.07,
+   "a50": 3979.1,
+   "a200": 2474.28,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3819.0,
-   "r": 50.0
+   "a20": 3818.5,
+   "r": 49.7
   },
   {
    "s": "2327.TW",
@@ -80,14 +80,14 @@
   },
   {
    "s": "3701.TW",
-   "p": 39.3,
-   "c": -4.26,
+   "p": 39.35,
+   "c": -4.14,
    "a50": 42.62,
    "a200": 48.87,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.61,
-   "r": 44.5
+   "a20": 39.62,
+   "r": 44.7
   },
   {
    "s": "4722.TW",
@@ -113,47 +113,47 @@
   },
   {
    "s": "2305.TW",
-   "p": 27.65,
-   "c": -3.15,
-   "a50": 32.33,
+   "p": 27.6,
+   "c": -3.33,
+   "a50": 32.32,
    "a200": 18.72,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 29.74,
-   "r": 43.7
+   "r": 43.6
   },
   {
    "s": "6442.TW",
-   "p": 1530.0,
-   "c": -6.13,
-   "a50": 1544.2,
-   "a200": 1595.62,
+   "p": 1555.0,
+   "c": -4.6,
+   "a50": 1544.7,
+   "a200": 1595.74,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1375.25,
-   "r": 54.0
+   "a20": 1376.5,
+   "r": 55.4
   },
   {
    "s": "6515.TW",
-   "p": 6290.0,
-   "c": -4.84,
-   "a50": 7597.4,
-   "a200": 6032.82,
+   "p": 6315.0,
+   "c": -4.46,
+   "a50": 7597.9,
+   "a200": 6032.95,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6440.75,
-   "r": 41.9
+   "a20": 6442.0,
+   "r": 42.2
   },
   {
    "s": "6446.TW",
-   "p": 1390.0,
-   "c": -1.42,
-   "a50": 1173.27,
-   "a200": 715.56,
+   "p": 1400.0,
+   "c": -0.71,
+   "a50": 1173.47,
+   "a200": 715.61,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1258.0,
-   "r": 58.7
+   "a20": 1258.5,
+   "r": 59.5
   },
   {
    "s": "3324.TWO",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5245.0,
-   "c": -9.57,
-   "a50": 6210.7,
-   "a200": 4056.02,
+   "p": 5270.0,
+   "c": -9.14,
+   "a50": 6211.2,
+   "a200": 4056.15,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5859.0,
-   "r": 39.5
+   "a20": 5860.25,
+   "r": 39.7
   },
   {
    "s": "6750.TWO",
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4446.5,
-   "c": 0.65,
-   "a50": 4159.04,
+   "p": 4445.6,
+   "c": 0.63,
+   "a50": 4159.02,
    "a200": 4490.84,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4213.77,
-   "r": 68.3
+   "a20": 4213.72,
+   "r": 68.2
   },
   {
    "s": "HG=F",
    "p": 6.57,
-   "c": -0.47,
+   "c": -0.46,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": 0.45,
+   "p": 0.03138732,
+   "c": 0.42,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180047.aspx"
   },
   {
-   "t": "Ondo Stocks Volume Hits $27B, Tokenized Equity Platform Holds Above $1B",
+   "t": "Oil Majors Reap $93 Billion Windfall From the Iran War",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/ondo-stocks-volume-hits-27b-173900103.html"
+   "u": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html"
   },
   {
    "t": "Anthropic增長勢頭猛　年化營收衝破650億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608180044.aspx"
   },
   {
-   "t": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+   "t": "Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/drake-told-23-old-streamer-191500099.html"
   },
   {
    "t": "宇瞻參加自動化展　半導體晶圓量測設備將首度亮相",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180040.aspx"
   },
   {
-   "t": "Big Pharma's Future Growth Rests on Chinese Science? Expert Says: 'We Can't Ban Our Way Out of This'",
+   "t": "Bitcoin Is Down 44% and Its Miners Are Up 90%. The AI Pivot Explains Everything.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/big-pharmas-future-growth-rests-180016912.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-44-miners-90-182147021.html"
   }
  ],
  "inst": {
