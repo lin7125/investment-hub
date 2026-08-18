@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 14:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 14:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,8 +179,8 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.05,
-   "c": -4.57,
+   "p": 49.1,
+   "c": -4.47,
    "a50": 59.94,
    "a200": 41.84,
    "yh": 165.0,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.63,
-   "c": 0.84,
+   "p": 91.65,
+   "c": 0.86,
    "a50": 83.83,
    "a200": 82.02,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4450.5,
-   "c": 0.74,
-   "a50": 4159.12,
-   "a200": 4490.86,
+   "p": 4453.3,
+   "c": 0.8,
+   "a50": 4159.18,
+   "a200": 4490.88,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4213.97,
-   "r": 68.5
+   "a20": 4214.11,
+   "r": 68.6
   },
   {
    "s": "HG=F",
-   "p": 6.58,
-   "c": -0.33,
+   "p": 6.59,
+   "c": -0.26,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 57.8
+   "r": 58.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03132832,
-   "c": 0.22,
+   "p": 0.03135779,
+   "c": 0.31,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180133.aspx"
   },
   {
-   "t": "Wall Street Thinks Monolithic Power Is a Buy. Here’s Why It Might Be Right.",
+   "t": "2 Major Catalysts Are Lifting IREN Stock. How to Play It Here.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-thinks-monolithic-power-183002705.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/2-major-catalysts-lifting-iren-193002600.html"
   },
   {
    "t": "台電估氣價調漲致燃料成本增逾1200億　盼獲預算撥補",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180108.aspx"
   },
   {
-   "t": "Tori Dunlap's Her First $100K made Inc. 5000 after growing it from a blog to a multi-million dollar business",
+   "t": "Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/tori-dunlaps-her-first-100k-183000556.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-uber-uber-193130272.html"
   },
   {
    "t": "日經亞洲：Google擬2027年前將Pixel生產移出中國",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608180104.aspx"
   },
   {
-   "t": "Casino operator liquidated as Chapter 11 bankruptcy ends",
+   "t": "5-star analyst sets alarming SpaceX stock price target",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/casino-operator-liquidated-chapter-11-183942370.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-sets-alarming-030700322.html"
   }
  ],
  "inst": {
