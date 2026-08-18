@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 01:52（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 02:02（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,41 +212,41 @@
   },
   {
    "s": "AAPL",
-   "p": 310.18,
-   "c": 1.5,
+   "p": 309.89,
+   "c": 1.41,
    "a50": 309.13,
    "a200": 280.87,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 316.5,
-   "r": 47.9
+   "a20": 316.49,
+   "r": 47.7
   },
   {
    "s": "NVDA",
-   "p": 220.29,
-   "c": -2.1,
-   "a50": 206.95,
-   "a200": 195.11,
+   "p": 219.98,
+   "c": -2.24,
+   "a50": 206.94,
+   "a200": 195.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.13,
-   "r": 57.2
+   "a20": 212.12,
+   "r": 56.9
   },
   {
    "s": "TSLA",
-   "p": 336.64,
-   "c": -0.79,
-   "a50": 368.42,
+   "p": 336.55,
+   "c": -0.81,
+   "a50": 368.41,
    "a200": 404.85,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 325.51,
-   "r": 46.2
+   "r": 46.1
   },
   {
    "s": "META",
-   "p": 547.84,
-   "c": -3.71,
+   "p": 547.95,
+   "c": -3.7,
    "a50": 595.06,
    "a200": 625.7,
    "yh": 780.25,
@@ -258,72 +258,72 @@
    "s": "^TWII",
    "p": 45857.27,
    "c": 0.1,
-   "a50": 44790.13,
-   "a200": 35998.91,
+   "a50": 44900.44,
+   "a200": 35749.15,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43956.63,
-   "r": 58.5
+   "a20": 43885.01,
+   "r": 57.5
   },
   {
    "s": "^GSPC",
-   "p": 7700.4,
-   "c": -0.58,
-   "a50": 7522.41,
-   "a200": 7074.02,
+   "p": 7696.58,
+   "c": -0.63,
+   "a50": 7522.34,
+   "a200": 7074.0,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7605.26,
-   "r": 57.1
+   "a20": 7605.07,
+   "r": 56.7
   },
   {
    "s": "^VIX",
-   "p": 15.71,
-   "c": 3.42,
-   "a50": 17.12,
+   "p": 15.72,
+   "c": 3.49,
+   "a50": 17.06,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.63,
-   "r": 47.4
+   "a20": 16.39,
+   "r": 47.8
   },
   {
    "s": "BZ=F",
-   "p": 91.18,
-   "c": 0.34,
+   "p": 91.1,
+   "c": 0.25,
    "a50": 83.82,
    "a200": 82.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.29,
-   "r": 56.9
+   "a20": 88.28,
+   "r": 56.8
   },
   {
    "s": "GC=F",
-   "p": 4418.9,
-   "c": 0.02,
-   "a50": 4158.49,
-   "a200": 4490.7,
+   "p": 4414.5,
+   "c": -0.07,
+   "a50": 4158.4,
+   "a200": 4490.68,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4212.39,
-   "r": 66.8
+   "a20": 4212.17,
+   "r": 66.3
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": -1.82,
+   "c": -1.91,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 50.6
+   "r": 50.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03133814,
-   "c": 0.24,
+   "p": 0.03131851,
+   "c": 0.2,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "Nasdaq slides, yields elevated as Mideast conflict fears grow",
+   "t": "Baidu Q2 Revenue Misses as Advertising Slides—Is the AI Thesis Still Intact?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/stocks-slide-yields-elevated-mideast-150928612.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/baidu-q2-revenue-misses-advertising-173231521.html"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Extract Profit From Starbucks Stock Swings With This Long Strangle Option Trade",
+   "t": "Nasdaq slides, yields elevated as Mideast conflict fears grow",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/starbucks-stock-sbux-coffee-trading-options-income-trade-strategy-markets/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/news/stocks-slide-yields-elevated-mideast-150928612.html"
   },
   {
    "t": "國銀中小企業放款上半年大增4026億　創同期新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Beyond Oil: Record Revenue & U.S. Direct-Sales Expansion Fuel Scaling Phase – Quarterly Update Report",
+   "t": "Extract Profit From Starbucks Stock Swings With This Long Strangle Option Trade",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/beyond-oil-record-revenue-u-171951108.html"
+   "u": "https://www.investors.com/research/options/starbucks-stock-sbux-coffee-trading-options-income-trade-strategy-markets/?src=A00220&yptr=yahoo"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "Is This The Next CoreWeave Or Nebius Group? A Crusoe IPO Looms",
+   "t": "Elon Musk Says SpaceX Will Hit $1 Trillion in Revenue by 2030 -- 1 Year Faster Than the Original Timeline. Here's the Math Behind the New Number.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/is-this-the-next-coreweave-or-nebius-group-a-crusoe-ipo-looms/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-spacex-hit-174500905.html"
   }
  ],
  "inst": {
