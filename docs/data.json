@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 22:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 22:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 309.14,
-   "c": 1.05,
-   "a50": 309.15,
-   "a200": 280.68,
+   "p": 310.92,
+   "c": 1.63,
+   "a50": 309.18,
+   "a200": 280.69,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.56,
-   "r": 46.7
+   "a20": 317.65,
+   "r": 48.3
   },
   {
    "s": "NVDA",
-   "p": 219.43,
-   "c": -2.54,
-   "a50": 206.53,
-   "a200": 195.01,
+   "p": 220.37,
+   "c": -2.13,
+   "a50": 206.55,
+   "a200": 195.02,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.2,
-   "r": 56.7
+   "a20": 211.25,
+   "r": 57.7
   },
   {
    "s": "TSLA",
-   "p": 336.93,
-   "c": -1.56,
-   "a50": 369.45,
+   "p": 337.45,
+   "c": -1.41,
+   "a50": 369.47,
    "a200": 405.46,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.51,
-   "r": 46.4
+   "a20": 327.53,
+   "r": 46.6
   },
   {
    "s": "META",
-   "p": 547.86,
-   "c": -7.12,
-   "a50": 595.54,
-   "a200": 626.62,
+   "p": 546.03,
+   "c": -7.43,
+   "a50": 595.5,
+   "a200": 626.61,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 589.77,
-   "r": 37.3
+   "a20": 589.68,
+   "r": 37.0
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7703.86,
-   "c": -1.05,
-   "a50": 7514.78,
-   "a200": 7078.97,
+   "p": 7711.06,
+   "c": -0.96,
+   "a50": 7514.92,
+   "a200": 7079.0,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7598.02,
-   "r": 57.6
+   "a20": 7598.38,
+   "r": 58.2
   },
   {
    "s": "^VIX",
-   "p": 15.72,
-   "c": 10.32,
+   "p": 15.78,
+   "c": 10.74,
    "a50": 17.19,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.48,
-   "r": 47.6
+   "a20": 16.49,
+   "r": 47.9
   },
   {
    "s": "BZ=F",
-   "p": 90.92,
-   "c": 0.06,
+   "p": 90.86,
+   "c": -0.01,
    "a50": 83.82,
    "a200": 82.01,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4450.7,
-   "c": 0.74,
-   "a50": 4159.12,
-   "a200": 4490.86,
+   "p": 4453.4,
+   "c": 0.81,
+   "a50": 4159.18,
+   "a200": 4490.88,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4213.98,
-   "r": 68.5
+   "a20": 4214.11,
+   "r": 68.7
   },
   {
    "s": "HG=F",
-   "p": 6.52,
-   "c": -1.21,
+   "p": 6.53,
+   "c": -1.14,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 53.4
+   "r": 53.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03136763,
-   "c": 0.33,
+   "p": 0.03135779,
+   "c": 0.3,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "檔案局推鴨鴨進行曲繪本原稿展　展現多元包容價值",
+   "t": "純網銀累虧減少　LINE Bank連7月獲利",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/afe/202608180301.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
    "t": "Bankrupt Italian chain shuts 50 restaurants, exits state entirely",
@@ -344,58 +344,58 @@
    "u": "https://finance.yahoo.com/small-business/articles/bankrupt-italian-chain-shuts-50-230000785.html"
   },
   {
-   "t": "加拿大爭取美不加徵關稅談判進入倒數　卡尼承受龐大壓力",
+   "t": "今彩539第115200期　頭獎3注中獎",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/aopl/202608180298.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "Klarna stock plunges 20% on trimmed guidance as German retail sales slow",
+   "t": "Tech stocks today: Meta social media trial kicks off, chip stocks fall",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/klarna-stock-plunges-20-on-trimmed-guidance-as-german-retail-sales-slow-141517463.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-social-media-trial-kicks-off-chip-stocks-fall-132945569.html"
   },
   {
-   "t": "台日創新高峰會升級三方合作　串聯美國拓全球市場",
+   "t": "大樂透第115080期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/afe/202608180288.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Vertiv Holdings (VRT) Well Positioned for Key Tech Transitions",
+   "t": "Michael Burry is Bullish on This Beaten-Down Healthcare Stock. Time to Buy?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/vertiv-holdings-vrt-well-positioned-140249832.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/michael-burry-bullish-beaten-down-141932183.html"
   },
   {
-   "t": "承啟擬處分思騰等公司51%股權　降低營運不確定性",
+   "t": "國銀中小企業放款上半年大增4026億　創同期新高",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/afe/202608180287.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "XRP Falls Below $1 For First Time Since 2024",
+   "t": "Interface (TILE) Posts Record Margins, But One Big Question Looms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/xrp-falls-below-1-first-135900489.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/interface-tile-posts-record-margins-141900350.html"
   },
   {
-   "t": "雞蛋產量減　好市多30顆裝改20顆裝中和汐止先測試",
+   "t": "元太：東京車站試行導入全彩電子紙看板",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/ahel/202608180286.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "Could Planet Fitness (PLNT) Rebound Despite Slower Member Growth?",
+   "t": "Best CD rates today, Tuesday, August 18, 2026: Lock in up to 4.30% APY today on a 16-month CD",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/could-planet-fitness-plnt-rebound-135354964.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-18-2026-lock-in-up-to-430-apy-today-on-a-16-month-cd-100000469.html"
   },
   {
-   "t": "台灣大公開收購精誠起跑　已獲逾14%應賣承諾",
+   "t": "美伊僵局難解油價維持高檔　美股開低那指開跌1.12%",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/afe/202608180284.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608180328.aspx"
   },
   {
    "t": "5-star analyst sets alarming SpaceX stock price target",
