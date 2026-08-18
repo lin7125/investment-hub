@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 23:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 23:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,107 +212,107 @@
   },
   {
    "s": "AAPL",
-   "p": 310.12,
-   "c": 1.37,
-   "a50": 309.17,
-   "a200": 280.69,
+   "p": 309.89,
+   "c": 1.41,
+   "a50": 309.13,
+   "a200": 280.87,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.61,
-   "r": 47.6
+   "a20": 316.49,
+   "r": 47.7
   },
   {
    "s": "NVDA",
-   "p": 219.48,
-   "c": -2.52,
-   "a50": 206.54,
-   "a200": 195.01,
+   "p": 219.97,
+   "c": -2.24,
+   "a50": 206.94,
+   "a200": 195.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.2,
-   "r": 56.8
+   "a20": 212.12,
+   "r": 56.9
   },
   {
    "s": "TSLA",
-   "p": 336.89,
-   "c": -1.57,
-   "a50": 369.45,
-   "a200": 405.46,
+   "p": 339.18,
+   "c": -0.04,
+   "a50": 368.47,
+   "a200": 404.86,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.51,
-   "r": 46.4
+   "a20": 325.64,
+   "r": 47.4
   },
   {
    "s": "META",
-   "p": 552.38,
-   "c": -6.35,
-   "a50": 595.63,
-   "a200": 626.64,
+   "p": 553.42,
+   "c": -2.73,
+   "a50": 595.17,
+   "a200": 625.73,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 590.0,
+   "a20": 586.31,
    "r": 38.2
   },
   {
    "s": "^TWII",
    "p": 45308.68,
-   "c": -1.1,
-   "a50": 44779.16,
-   "a200": 35996.17,
+   "c": -1.2,
+   "a50": 44794.89,
+   "a200": 36087.01,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43929.2,
-   "r": 55.1
+   "a20": 44010.42,
+   "r": 54.8
   },
   {
    "s": "^GSPC",
-   "p": 7696.1,
-   "c": -1.15,
-   "a50": 7514.63,
-   "a200": 7078.93,
+   "p": 7704.17,
+   "c": -0.53,
+   "a50": 7522.01,
+   "a200": 7083.24,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7597.64,
-   "r": 56.9
+   "a20": 7609.83,
+   "r": 57.4
   },
   {
    "s": "^VIX",
-   "p": 15.9,
-   "c": 11.58,
-   "a50": 17.19,
+   "p": 15.88,
+   "c": 4.54,
+   "a50": 17.06,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.49,
-   "r": 48.4
+   "a20": 16.4,
+   "r": 48.5
   },
   {
    "s": "BZ=F",
-   "p": 91.69,
-   "c": 0.9,
-   "a50": 83.83,
+   "p": 91.96,
+   "c": 1.2,
+   "a50": 83.84,
    "a200": 82.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.31,
-   "r": 57.5
+   "a20": 88.33,
+   "r": 57.9
   },
   {
    "s": "GC=F",
-   "p": 4412.0,
-   "c": -0.13,
-   "a50": 4158.35,
-   "a200": 4490.67,
+   "p": 4414.4,
+   "c": -0.08,
+   "a50": 4158.4,
+   "a200": 4490.68,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4212.04,
-   "r": 66.1
+   "a20": 4212.16,
+   "r": 66.3
   },
   {
    "s": "HG=F",
    "p": 6.49,
-   "c": -1.78,
+   "c": -1.77,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "Nvidia's attack plan: Dominate every single aspect of AI",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks sell off, bond yields remain high",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/nvidias-attack-plan-dominate-every-single-aspect-of-ai-143905381.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks sell off, bond yields remain high",
+   "t": "Earnings live updates: Klarna stock plunges on trimmed guidance, Home Depot gains",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
+   "u": "https://finance.yahoo.com/markets/live/earnings-live-updates-klarna-stock-plunges-on-trimmed-guidance-home-depot-gains-115925351.html"
   },
   {
    "t": "國銀中小企業放款上半年大增4026億　創同期新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Mission Produce (AVO): Understanding The Long-Term Upside Ahead of Q3 Results",
+   "t": "Nvidia's attack plan: Dominate every single aspect of AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mission-produce-avo-understanding-long-152209701.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/nvidias-attack-plan-dominate-every-single-aspect-of-ai-143905381.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "Seller concession limits: How much can you ask for?",
+   "t": "Dollar mostly flat as softer US data fuel dovish rate bets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/seller-concession-limits-151821985.html"
+   "u": "https://finance.yahoo.com/news/dollar-feeble-rate-hike-bets-015445875.html"
   },
   {
    "t": "美伊僵局難解油價維持高檔　美股開低那指開跌1.12%",
