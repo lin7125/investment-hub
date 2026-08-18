@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 12:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 12:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -25,25 +25,25 @@
   },
   {
    "s": "2308.TW",
-   "p": 1835.0,
-   "c": -2.65,
-   "a50": 1892.4,
-   "a200": 1530.37,
+   "p": 1825.0,
+   "c": -3.18,
+   "a50": 1892.2,
+   "a200": 1530.32,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1731.25,
-   "r": 52.6
+   "a20": 1730.75,
+   "r": 51.9
   },
   {
    "s": "2454.TW",
-   "p": 3905.0,
-   "c": -3.58,
-   "a50": 3979.5,
-   "a200": 2474.38,
+   "p": 3925.0,
+   "c": -3.09,
+   "a50": 3979.9,
+   "a200": 2474.48,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3819.5,
-   "r": 50.3
+   "a20": 3820.5,
+   "r": 50.9
   },
   {
    "s": "2327.TW",
@@ -58,14 +58,14 @@
   },
   {
    "s": "1802.TW",
-   "p": 57.2,
-   "c": -2.72,
+   "p": 57.3,
+   "c": -2.55,
    "a50": 60.51,
    "a200": 52.58,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 52.72,
-   "r": 51.9
+   "r": 52.1
   },
   {
    "s": "6862.TW",
@@ -80,25 +80,25 @@
   },
   {
    "s": "3701.TW",
-   "p": 39.5,
-   "c": -3.78,
+   "p": 39.6,
+   "c": -3.53,
    "a50": 42.62,
    "a200": 48.87,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.62,
-   "r": 45.1
+   "a20": 39.63,
+   "r": 45.4
   },
   {
    "s": "4722.TW",
-   "p": 210.0,
-   "c": -3.67,
-   "a50": 236.91,
+   "p": 209.5,
+   "c": -3.9,
+   "a50": 236.9,
    "a200": 199.26,
    "yh": 306.5,
    "yl": 97.3,
-   "a20": 203.78,
-   "r": 47.0
+   "a20": 203.75,
+   "r": 46.8
   },
   {
    "s": "6706.TW",
@@ -124,36 +124,36 @@
   },
   {
    "s": "6442.TW",
-   "p": 1585.0,
-   "c": -2.76,
-   "a50": 1545.3,
-   "a200": 1595.89,
+   "p": 1595.0,
+   "c": -2.15,
+   "a50": 1545.5,
+   "a200": 1595.94,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1378.0,
-   "r": 57.2
+   "a20": 1378.5,
+   "r": 57.8
   },
   {
    "s": "6515.TW",
-   "p": 6300.0,
-   "c": -4.69,
-   "a50": 7597.6,
-   "a200": 6032.88,
+   "p": 6260.0,
+   "c": -5.3,
+   "a50": 7596.8,
+   "a200": 6032.68,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6441.25,
-   "r": 42.0
+   "a20": 6439.25,
+   "r": 41.6
   },
   {
    "s": "6446.TW",
-   "p": 1410.0,
-   "c": 0.0,
-   "a50": 1173.67,
-   "a200": 715.66,
+   "p": 1385.0,
+   "c": -1.77,
+   "a50": 1173.17,
+   "a200": 715.53,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1259.0,
-   "r": 60.3
+   "a20": 1257.75,
+   "r": 58.3
   },
   {
    "s": "3324.TWO",
@@ -168,14 +168,14 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1260.0,
-   "c": -5.26,
-   "a50": 1312.14,
-   "a200": 1199.08,
+   "p": 1265.0,
+   "c": -4.89,
+   "a50": 1312.24,
+   "a200": 1199.11,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1209.85,
-   "r": 49.5
+   "a20": 1210.1,
+   "r": 49.8
   },
   {
    "s": "3585.TWO",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5275.0,
-   "c": -9.05,
-   "a50": 6211.3,
-   "a200": 4056.18,
+   "p": 5260.0,
+   "c": -9.31,
+   "a50": 6211.0,
+   "a200": 4056.1,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5860.5,
-   "r": 39.8
+   "a20": 5859.75,
+   "r": 39.6
   },
   {
    "s": "6750.TWO",
@@ -256,25 +256,25 @@
   },
   {
    "s": "^TWII",
-   "p": 45401.35,
-   "c": -0.89,
-   "a50": 44891.32,
-   "a200": 35746.87,
+   "p": 45406.88,
+   "c": -0.88,
+   "a50": 44781.12,
+   "a200": 35996.66,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43862.22,
-   "r": 54.9
+   "a20": 43934.11,
+   "r": 55.7
   },
   {
    "s": "^GSPC",
    "p": 7785.76,
    "c": -0.17,
-   "a50": 7517.7,
-   "a200": 7064.44,
+   "a50": 7512.39,
+   "a200": 7074.9,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7588.29,
-   "r": 65.8
+   "a20": 7585.0,
+   "r": 65.9
   },
   {
    "s": "^VIX",
@@ -312,18 +312,18 @@
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.11,
+   "c": 0.07,
    "a50": 6.35,
    "a200": 5.87,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.49,
-   "r": 59.5
+   "a20": 6.5,
+   "r": 59.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": 0.47,
+   "p": 0.03138732,
+   "c": 0.41,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608180044.aspx"
   },
   {
-   "t": "A $210 Billion Reason to Buy AMD Stock Here",
+   "t": "Retail Earnings, Fed Minutes and Other Key Things to Watch this Week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/210-billion-reason-buy-amd-161502041.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/retail-earnings-fed-minutes-other-170002024.html"
   },
   {
    "t": "宇瞻參加自動化展　半導體晶圓量測設備將首度亮相",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180040.aspx"
   },
   {
-   "t": "As Oracle Deepens Its Partnership with AWS, Here’s How You Should Play ORCL Stock",
+   "t": "A $210 Billion Reason to Buy AMD Stock Here",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/oracle-deepens-partnership-aws-play-161502495.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/210-billion-reason-buy-amd-161502041.html"
   },
   {
    "t": "副總統：盼台灣不只提供晶片　要成為AI治理先發球員",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180037.aspx"
   },
   {
-   "t": "Reddit Stock Jumped 11%. The Business Had Almost Nothing to Do With It",
+   "t": "As Oracle Deepens Its Partnership with AWS, Here’s How You Should Play ORCL Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/reddit-stock-jumped-11-business-161138860.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/oracle-deepens-partnership-aws-play-161502495.html"
   },
   {
    "t": "追憶忘年之交高希均　童子賢：照亮知識份子前行的路",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180030.aspx"
   },
   {
-   "t": "Under Armour’s Turnaround Hits a Wall as North America Demand Craters",
+   "t": "Reddit Stock Jumped 11%. The Business Had Almost Nothing to Do With It",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/under-armour-turnaround-hits-wall-160449561.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/reddit-stock-jumped-11-business-161138860.html"
   },
   {
    "t": "日圓上漲伊朗戰爭雙重打擊　日汽車製造商面臨壓力",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608180029.aspx"
   },
   {
-   "t": "Investing $500 a Month Into These 3 ETFs Could Retire You a Millionaire",
+   "t": "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/investing-500-month-3-etfs-163720672.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/buy-meta-platforms-stock-below-164000665.html"
   }
  ],
  "inst": {
