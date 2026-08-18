@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 22:45（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 22:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,118 +212,118 @@
   },
   {
    "s": "AAPL",
-   "p": 310.81,
-   "c": 1.6,
+   "p": 310.56,
+   "c": 1.51,
    "a50": 309.18,
    "a200": 280.69,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 317.64,
-   "r": 48.2
+   "a20": 317.63,
+   "r": 48.0
   },
   {
    "s": "NVDA",
-   "p": 219.44,
-   "c": -2.54,
-   "a50": 206.54,
+   "p": 219.05,
+   "c": -2.71,
+   "a50": 206.53,
    "a200": 195.01,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.2,
-   "r": 56.7
+   "a20": 211.18,
+   "r": 56.3
   },
   {
    "s": "TSLA",
-   "p": 337.16,
-   "c": -1.49,
-   "a50": 369.46,
+   "p": 335.99,
+   "c": -1.83,
+   "a50": 369.44,
    "a200": 405.46,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.52,
-   "r": 46.5
+   "a20": 327.46,
+   "r": 46.0
   },
   {
    "s": "META",
-   "p": 547.03,
-   "c": -7.26,
-   "a50": 595.52,
-   "a200": 626.61,
+   "p": 548.45,
+   "c": -7.02,
+   "a50": 595.55,
+   "a200": 626.62,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 589.73,
-   "r": 37.2
+   "a20": 589.8,
+   "r": 37.4
   },
   {
    "s": "^TWII",
    "p": 45308.68,
    "c": -1.1,
-   "a50": 44779.16,
-   "a200": 35996.17,
+   "a50": 44889.47,
+   "a200": 35746.4,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43929.2,
-   "r": 55.1
+   "a20": 43857.58,
+   "r": 54.4
   },
   {
    "s": "^GSPC",
-   "p": 7703.87,
-   "c": -1.05,
-   "a50": 7514.78,
-   "a200": 7078.97,
+   "p": 7699.29,
+   "c": -1.11,
+   "a50": 7519.69,
+   "a200": 7069.24,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7598.02,
-   "r": 57.6
+   "a20": 7594.64,
+   "r": 57.3
   },
   {
    "s": "^VIX",
-   "p": 15.76,
-   "c": 10.6,
-   "a50": 17.19,
+   "p": 15.63,
+   "c": 9.68,
+   "a50": 17.13,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.49,
-   "r": 47.8
+   "a20": 16.7,
+   "r": 46.9
   },
   {
    "s": "BZ=F",
-   "p": 90.77,
-   "c": -0.11,
+   "p": 90.84,
+   "c": -0.03,
    "a50": 83.82,
    "a200": 82.01,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.27,
-   "r": 56.3
+   "r": 56.4
   },
   {
    "s": "GC=F",
-   "p": 4447.4,
-   "c": 0.67,
-   "a50": 4159.06,
-   "a200": 4490.85,
+   "p": 4435.7,
+   "c": 0.41,
+   "a50": 4158.82,
+   "a200": 4490.79,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4213.81,
-   "r": 68.3
+   "a20": 4213.23,
+   "r": 67.7
   },
   {
    "s": "HG=F",
-   "p": 6.52,
-   "c": -1.26,
+   "p": 6.48,
+   "c": -1.83,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.51,
-   "r": 53.1
+   "a20": 6.5,
+   "r": 50.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03134796,
-   "c": 0.28,
+   "c": 0.29,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "Algonquin Power (AQN) Bets Big on a US Move While Earnings Slip",
+   "t": "Nvidia's attack plan: Dominate every single aspect of AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/algonquin-power-aqn-bets-big-143306084.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/nvidias-attack-plan-dominate-every-single-aspect-of-ai-143905381.html"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -362,7 +362,7 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Stock market today: Nasdaq leads Dow and S&P 500 lower as rising Treasury yields weigh on tech stocks",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks sell off, bond yields remain high",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Value Investing Legend Howard Marks Is Buying This Stock Down 30%. Should You Buy?",
+   "t": "Algonquin Power (AQN) Bets Big on a US Move While Earnings Slip",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/value-investing-legend-howard-marks-142912418.html"
+   "u": "https://finance.yahoo.com/energy/articles/algonquin-power-aqn-bets-big-143306084.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "NASA Taps Blue Origin, Firefly For Services. SpaceX Stock Hits Resistance.",
+   "t": "Value Investing Legend Howard Marks Is Buying This Stock Down 30%. Should You Buy?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/spacex-stock-falcon9-starlink-nasa-payload-services-blue-origin-firefly/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/value-investing-legend-howard-marks-142912418.html"
   },
   {
    "t": "美伊僵局難解油價維持高檔　美股開低那指開跌1.12%",
@@ -405,79 +405,79 @@
   }
  ],
  "inst": {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "byCode": {
-   "1802": {
-    "f": 2807,
-    "t": 0,
-    "all": 3330
-   },
-   "2330": {
-    "f": 4441,
-    "t": -2059,
-    "all": 2525
-   },
-   "2308": {
-    "f": 1368,
-    "t": -811,
-    "all": 665
-   },
-   "6706": {
-    "f": 165,
-    "t": 0,
-    "all": 183
-   },
-   "4722": {
-    "f": 107,
-    "t": 0,
-    "all": 160
-   },
-   "3701": {
-    "f": 65,
-    "t": 0,
-    "all": 65
-   },
-   "6515": {
-    "f": 181,
-    "t": -162,
-    "all": 21
+   "6446": {
+    "f": 144,
+    "t": 310,
+    "all": 450
    },
    "6862": {
-    "f": 11,
+    "f": 1,
     "t": 0,
-    "all": 8
+    "all": -2
    },
-   "6442": {
-    "f": -291,
-    "t": 25,
-    "all": -240
+   "6706": {
+    "f": -55,
+    "t": 0,
+    "all": -72
+   },
+   "6515": {
+    "f": 24,
+    "t": -102,
+    "all": -76
+   },
+   "3701": {
+    "f": -78,
+    "t": 0,
+    "all": -79
+   },
+   "4722": {
+    "f": -49,
+    "t": 0,
+    "all": -108
    },
    "2305": {
-    "f": -329,
-    "t": 0,
-    "all": -323
+    "f": -159,
+    "t": -2,
+    "all": -161
+   },
+   "6442": {
+    "f": -407,
+    "t": -3,
+    "all": -410
+   },
+   "2308": {
+    "f": -526,
+    "t": -528,
+    "all": -1256
    },
    "2454": {
-    "f": 1188,
-    "t": -1656,
-    "all": -400
+    "f": -199,
+    "t": -1154,
+    "all": -1576
    },
-   "6446": {
-    "f": -772,
-    "t": -101,
-    "all": -881
+   "2330": {
+    "f": -3246,
+    "t": 626,
+    "all": -2729
    },
    "2327": {
-    "f": -2335,
-    "t": -426,
-    "all": -2339
+    "f": -2366,
+    "t": -697,
+    "all": -3736
+   },
+   "1802": {
+    "f": -4874,
+    "t": -37,
+    "all": -5525
    },
    "2317": {
-    "f": -9037,
-    "t": -1682,
-    "all": -10235
+    "f": -7860,
+    "t": -4371,
+    "all": -12941
    }
   },
-  "totalNetE": 290.8
+  "totalNetE": -257.7
  }
 }
