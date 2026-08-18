@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 03:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 03:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,41 +212,41 @@
   },
   {
    "s": "AAPL",
-   "p": 309.73,
-   "c": 1.35,
+   "p": 309.85,
+   "c": 1.39,
    "a50": 309.13,
    "a200": 280.87,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 316.48,
-   "r": 47.6
+   "r": 47.7
   },
   {
    "s": "NVDA",
-   "p": 219.73,
-   "c": -2.35,
-   "a50": 206.94,
+   "p": 219.29,
+   "c": -2.54,
+   "a50": 206.93,
    "a200": 195.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.1,
-   "r": 56.6
+   "a20": 212.08,
+   "r": 56.1
   },
   {
    "s": "TSLA",
-   "p": 336.06,
-   "c": -0.95,
-   "a50": 368.4,
+   "p": 336.51,
+   "c": -0.82,
+   "a50": 368.41,
    "a200": 404.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.48,
-   "r": 45.9
+   "a20": 325.5,
+   "r": 46.1
   },
   {
    "s": "META",
-   "p": 544.85,
-   "c": -4.24,
+   "p": 544.9,
+   "c": -4.23,
    "a50": 595.0,
    "a200": 625.69,
    "yh": 780.25,
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7696.19,
-   "c": -0.63,
-   "a50": 7522.33,
-   "a200": 7073.99,
+   "p": 7700.17,
+   "c": -0.58,
+   "a50": 7521.93,
+   "a200": 7083.22,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7605.05,
-   "r": 56.7
+   "a20": 7609.63,
+   "r": 57.0
   },
   {
    "s": "^VIX",
-   "p": 15.68,
-   "c": 3.23,
-   "a50": 17.06,
+   "p": 15.63,
+   "c": 2.9,
+   "a50": 17.12,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.39,
-   "r": 47.6
+   "a20": 16.63,
+   "r": 47.0
   },
   {
    "s": "BZ=F",
-   "p": 91.05,
-   "c": 0.2,
+   "p": 91.03,
+   "c": 0.18,
    "a50": 83.82,
    "a200": 82.01,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4410.6,
-   "c": -0.16,
-   "a50": 4158.32,
-   "a200": 4490.66,
+   "p": 4412.3,
+   "c": -0.12,
+   "a50": 4158.36,
+   "a200": 4490.67,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4211.97,
-   "r": 65.9
+   "a20": 4212.06,
+   "r": 66.1
   },
   {
    "s": "HG=F",
    "p": 6.47,
-   "c": -1.99,
+   "c": -1.97,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 49.9
+   "r": 50.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03132832,
-   "c": 0.21,
+   "c": 0.23,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "SaaSpocalypse Defied: Atlassian and Cloudflare Push Back Against Enterprise Tech Fears",
+   "t": "Do Wall Street Analysts Like Marathon Petroleum Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/saaspocalypse-defied-atlassian-cloudflare-push-101315374.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-marathon-petroleum-102300856.html"
   },
   {
    "t": "今彩539第115200期　頭獎3注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Health insurers are dropping Medicare Advantage plans — and nearly 3 million older Americans will be affected",
+   "t": "Morning Bid: Retail risk",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/health-insurers-dropping-medicare-advantage-100000446.html"
+   "u": "https://finance.yahoo.com/markets/articles/morning-bid-retail-risk-103558500.html"
   },
   {
    "t": "國銀中小企業放款上半年大增4026億　創同期新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Do Wall Street Analysts Like Marathon Petroleum Stock?",
+   "t": "Stocks Set to Open Higher on Tech Boost, Fed Minutes and Retail Earnings Awaited",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-marathon-petroleum-102300856.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-higher-tech-103548577.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "Japanese Bond Yield Hits 30-Year High",
+   "t": "ArcelorMittal Says Two Killed in Missile Strike on Ukraine Facility",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/japanese-bond-yield-hits-30-year-high-gU5eZ5mYr8xUDVvpkley?siteid=yhoof2&yptr=yahoo"
+   "u": "https://www.wsj.com/world/europe/arcelormittal-says-two-killed-in-missile-strike-on-ukraine-facility-98bfb001?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
