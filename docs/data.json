@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 04:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 04:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -258,39 +258,39 @@
    "s": "^TWII",
    "p": 45857.27,
    "c": 0.1,
-   "a50": 44790.13,
-   "a200": 35998.91,
+   "a50": 44900.44,
+   "a200": 35749.15,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43956.63,
-   "r": 58.5
+   "a20": 43885.01,
+   "r": 57.5
   },
   {
    "s": "^GSPC",
    "p": 7691.76,
    "c": -0.69,
-   "a50": 7522.24,
-   "a200": 7073.97,
+   "a50": 7521.76,
+   "a200": 7083.18,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7604.83,
-   "r": 56.3
+   "a20": 7609.21,
+   "r": 56.2
   },
   {
    "s": "^VIX",
-   "p": 15.72,
-   "c": 3.49,
-   "a50": 17.12,
+   "p": 15.82,
+   "c": 4.15,
+   "a50": 17.06,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.63,
-   "r": 47.5
+   "a20": 16.4,
+   "r": 48.3
   },
   {
    "s": "BZ=F",
-   "p": 90.97,
-   "c": 0.11,
+   "p": 90.95,
+   "c": 0.09,
    "a50": 83.82,
    "a200": 82.01,
    "yh": 118.35,
@@ -300,29 +300,29 @@
   },
   {
    "s": "GC=F",
-   "p": 4399.8,
-   "c": -0.41,
-   "a50": 4158.11,
-   "a200": 4490.61,
+   "p": 4398.3,
+   "c": -0.44,
+   "a50": 4158.08,
+   "a200": 4490.6,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4211.43,
-   "r": 64.7
+   "a20": 4211.36,
+   "r": 64.5
   },
   {
    "s": "HG=F",
    "p": 6.47,
-   "c": -2.07,
+   "c": -2.1,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 49.6
+   "r": 49.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03132832,
+   "p": 0.03131851,
    "c": 0.2,
    "a50": 0.03121099,
    "a200": 0.03160556,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "Equity Residential Stock: Analyst Estimates & Ratings",
+   "t": "Midera Food’s Net Sales Up 13%, Raises 2026 Outlook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/equity-residential-stock-analyst-estimates-105842940.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/midera-food-net-sales-13-112700910.html"
   },
   {
    "t": "今彩539第115200期　頭獎3注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "Option Volatility And Earnings Report For Aug 17-21",
+   "t": "Silver Price Predictions: Why Citi Analysts See Silver Prices Soaring to $90 Soon",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/option-volatility-earnings-report-aug-110002337.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/silver-price-predictions-why-citi-113002494.html"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Azerbaijan seeks to nurture tech sector as it looks beyond oil",
+   "t": "Local Bounti’s Network Yields at Record Levels, Retail Momentum Broadened  – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/azerbaijan-seeks-nurture-tech-sector-110022390.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/local-bounti-network-yields-record-112953084.html"
   },
   {
    "t": "國銀中小企業放款上半年大增4026億　創同期新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Capital One Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Azerbaijan seeks to nurture tech sector as it looks beyond oil",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/capital-one-stock-wall-street-104700766.html"
+   "u": "https://finance.yahoo.com/technology/articles/azerbaijan-seeks-nurture-tech-sector-110022390.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "Argentina LNG seeks RIGI approval for $51bn integrated LNG project",
+   "t": "I've More Than Tripled My Stake in This Historically Cheap, High-Octane Dividend Stock That's Yielding 13.2%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/argentina-lng-seeks-rigi-approval-105420183.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ive-more-tripled-stake-historically-112600783.html"
   }
  ],
  "inst": {
