@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 00:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 01:09（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,7 +212,7 @@
   },
   {
    "s": "AAPL",
-   "p": 310.73,
+   "p": 310.72,
    "c": 1.68,
    "a50": 309.15,
    "a200": 280.87,
@@ -223,107 +223,107 @@
   },
   {
    "s": "NVDA",
-   "p": 220.15,
-   "c": -2.16,
+   "p": 220.2,
+   "c": -2.14,
    "a50": 206.95,
    "a200": 195.11,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.12,
+   "a20": 212.13,
    "r": 57.1
   },
   {
    "s": "TSLA",
-   "p": 339.58,
-   "c": 0.08,
+   "p": 339.28,
+   "c": -0.01,
    "a50": 368.47,
    "a200": 404.86,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.66,
-   "r": 47.6
+   "a20": 325.64,
+   "r": 47.4
   },
   {
    "s": "META",
-   "p": 550.66,
-   "c": -3.22,
+   "p": 550.51,
+   "c": -3.25,
    "a50": 595.11,
    "a200": 625.72,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 586.17,
+   "a20": 586.16,
    "r": 37.6
   },
   {
    "s": "^TWII",
    "p": 45857.27,
    "c": 0.1,
-   "a50": 44900.44,
-   "a200": 35749.15,
+   "a50": 44790.13,
+   "a200": 35998.91,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43885.01,
-   "r": 57.5
+   "a20": 43956.63,
+   "r": 58.5
   },
   {
    "s": "^GSPC",
-   "p": 7706.55,
-   "c": -0.5,
+   "p": 7706.73,
+   "c": -0.49,
    "a50": 7522.06,
    "a200": 7083.25,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7609.95,
+   "a20": 7609.96,
    "r": 57.6
   },
   {
    "s": "^VIX",
-   "p": 15.72,
-   "c": 3.49,
+   "p": 15.63,
+   "c": 2.9,
    "a50": 17.06,
-   "a200": 18.52,
+   "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.39,
-   "r": 47.8
+   "r": 47.3
   },
   {
    "s": "BZ=F",
-   "p": 91.41,
-   "c": 0.59,
+   "p": 91.24,
+   "c": 0.41,
    "a50": 83.83,
    "a200": 82.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.3,
-   "r": 57.2
+   "a20": 88.29,
+   "r": 57.0
   },
   {
    "s": "GC=F",
-   "p": 4418.9,
-   "c": 0.02,
-   "a50": 4158.49,
-   "a200": 4490.7,
+   "p": 4419.5,
+   "c": 0.04,
+   "a50": 4158.5,
+   "a200": 4490.71,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4212.39,
+   "a20": 4212.42,
    "r": 66.8
   },
   {
    "s": "HG=F",
    "p": 6.49,
-   "c": -1.68,
+   "c": -1.67,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 51.2
+   "r": 51.3
   },
   {
    "s": "TWDUSD",
    "p": 0.03133814,
-   "c": 0.24,
+   "c": 0.25,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "Eli Lilly, Stock Of The Day, Is Erasing Novo's Early Lead In Weight-Loss Pills",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks sell off, bond yields remain high",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/eli-lilly-stock-foundayo-wegovy-weight-loss-pills/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
   },
   {
    "t": "今彩539第115200期　頭獎3注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "Ecopetrol Completes $1.2 Billion Brazilian Oil Deal",
+   "t": "Micron, Other Chip Stocks Drop During Dog Days Of Summer",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/ecopetrol-completes-1-2-billion-163715015.html"
+   "u": "https://www.investors.com/news/technology/chip-stocks-micron-nvidia-drop-dog-days-summer/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "British data group Quantexa explores UK or US IPO, sources say",
+   "t": "Eli Lilly, Stock Of The Day, Is Erasing Novo's Early Lead In Weight-Loss Pills",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/british-data-group-quantexa-explores-162925456.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/eli-lilly-stock-foundayo-wegovy-weight-loss-pills/?src=A00220&yptr=yahoo"
   },
   {
    "t": "國銀中小企業放款上半年大增4026億　創同期新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "This Energy Stock Is Spiking Now; Its Exxon Deal Smells Like AI",
+   "t": "Ecopetrol Completes $1.2 Billion Brazilian Oil Deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/energy-stock-targa-exxon-stock-natural-gas-deal-ai/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/energy/articles/ecopetrol-completes-1-2-billion-163715015.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "Dallas Apartment Foreclosure Forces Tenants to Relocate",
+   "t": "1 Unstoppable Stock to Buy Before It Joins Microsoft in the $3 Trillion Club",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/dallas-apartment-foreclosure-forces-tenants-164248049.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/1-unstoppable-stock-buy-joins-164300229.html"
   }
  ],
  "inst": {
