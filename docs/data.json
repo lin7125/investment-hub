@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 12:56（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 13:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,25 +14,25 @@
   },
   {
    "s": "2317.TW",
-   "p": 249.5,
-   "c": -2.16,
-   "a50": 251.8,
-   "a200": 235.8,
+   "p": 249.0,
+   "c": -2.35,
+   "a50": 251.79,
+   "a200": 235.79,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.95,
-   "r": 47.1
+   "a20": 253.92,
+   "r": 46.8
   },
   {
    "s": "2308.TW",
-   "p": 1830.0,
-   "c": -2.92,
-   "a50": 1892.3,
-   "a200": 1530.34,
+   "p": 1840.0,
+   "c": -2.39,
+   "a50": 1892.5,
+   "a200": 1530.4,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1731.0,
-   "r": 52.2
+   "a20": 1731.5,
+   "r": 53.0
   },
   {
    "s": "2454.TW",
@@ -47,25 +47,25 @@
   },
   {
    "s": "2327.TW",
-   "p": 586.0,
-   "c": -3.62,
-   "a50": 790.59,
-   "a200": 432.75,
+   "p": 587.0,
+   "c": -3.45,
+   "a50": 790.61,
+   "a200": 432.76,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 588.52,
+   "a20": 588.58,
    "r": 43.3
   },
   {
    "s": "1802.TW",
-   "p": 57.1,
-   "c": -2.89,
-   "a50": 60.51,
+   "p": 57.0,
+   "c": -3.06,
+   "a50": 60.5,
    "a200": 52.58,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 52.71,
-   "r": 51.7
+   "r": 51.5
   },
   {
    "s": "6862.TW",
@@ -113,14 +113,14 @@
   },
   {
    "s": "2305.TW",
-   "p": 27.95,
-   "c": -2.1,
+   "p": 28.05,
+   "c": -1.75,
    "a50": 32.33,
    "a200": 18.72,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 29.76,
-   "r": 44.3
+   "r": 44.5
   },
   {
    "s": "6442.TW",
@@ -135,25 +135,25 @@
   },
   {
    "s": "6515.TW",
-   "p": 6260.0,
-   "c": -5.3,
-   "a50": 7596.8,
-   "a200": 6032.68,
+   "p": 6255.0,
+   "c": -5.37,
+   "a50": 7596.7,
+   "a200": 6032.65,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6439.25,
-   "r": 41.6
+   "a20": 6439.0,
+   "r": 41.5
   },
   {
    "s": "6446.TW",
-   "p": 1380.0,
-   "c": -2.13,
-   "a50": 1173.07,
-   "a200": 715.51,
+   "p": 1385.0,
+   "c": -1.77,
+   "a50": 1173.17,
+   "a200": 715.53,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1257.5,
-   "r": 57.9
+   "a20": 1257.75,
+   "r": 58.3
   },
   {
    "s": "3324.TWO",
@@ -168,36 +168,36 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1275.0,
-   "c": -4.14,
-   "a50": 1312.44,
-   "a200": 1199.16,
+   "p": 1270.0,
+   "c": -4.51,
+   "a50": 1312.34,
+   "a200": 1199.13,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1210.6,
-   "r": 50.4
+   "a20": 1210.35,
+   "r": 50.1
   },
   {
    "s": "3585.TWO",
-   "p": 49.15,
-   "c": -4.38,
-   "a50": 59.94,
+   "p": 48.85,
+   "c": -4.96,
+   "a50": 59.93,
    "a200": 41.84,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.59,
-   "r": 45.2
+   "a20": 47.58,
+   "r": 44.8
   },
   {
    "s": "6223.TWO",
-   "p": 5230.0,
-   "c": -9.83,
-   "a50": 6210.4,
-   "a200": 4055.95,
+   "p": 5235.0,
+   "c": -9.74,
+   "a50": 6210.5,
+   "a200": 4055.98,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5858.25,
-   "r": 39.3
+   "a20": 5858.5,
+   "r": 39.4
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45452.79,
-   "c": -0.78,
-   "a50": 44892.35,
-   "a200": 35747.13,
+   "p": 45412.27,
+   "c": -0.87,
+   "a50": 44781.23,
+   "a200": 35996.68,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43864.79,
-   "r": 55.2
+   "a20": 43934.38,
+   "r": 55.7
   },
   {
    "s": "^GSPC",
@@ -278,21 +278,21 @@
   },
   {
    "s": "^VIX",
-   "p": 15.19,
-   "c": 6.6,
-   "a50": 17.13,
-   "a200": 18.52,
+   "p": 14.25,
+   "c": -2.6,
+   "a50": 17.18,
+   "a200": 18.53,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.68,
-   "r": 44.8
+   "a20": 16.63,
+   "r": 40.1
   },
   {
    "s": "BZ=F",
-   "p": 91.39,
-   "c": 0.57,
+   "p": 91.43,
+   "c": 0.62,
    "a50": 83.83,
-   "a200": 82.01,
+   "a200": 82.02,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.3,
@@ -311,19 +311,19 @@
   },
   {
    "s": "HG=F",
-   "p": 6.57,
-   "c": -0.58,
+   "p": 6.56,
+   "c": -0.6,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 56.5
+   "r": 56.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03139717,
-   "c": 0.44,
+   "p": 0.03140704,
+   "c": 0.45,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180057.aspx"
   },
   {
-   "t": "Netflix Stock Is Cheap and It Has More Than 70% Upside Potential Here",
+   "t": "Ondo Stocks Volume Hits $27B, Tokenized Equity Platform Holds Above $1B",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-cheap-more-70-173002732.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/ondo-stocks-volume-hits-27b-173900103.html"
   },
   {
    "t": "權值股熄火　台股衝破46000點後急殺逾500點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180047.aspx"
   },
   {
-   "t": "Ondo Stocks Volume Hits $27B, Tokenized Equity Platform Holds Above $1B",
+   "t": "Retail Earnings, Fed Minutes and Other Key Things to Watch this Week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/ondo-stocks-volume-hits-27b-173900103.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/retail-earnings-fed-minutes-other-170002024.html"
   },
   {
    "t": "Anthropic增長勢頭猛　年化營收衝破650億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608180044.aspx"
   },
   {
-   "t": "Wall Street Thinks Monolithic Power Is a Buy. Here’s Why It Might Be Right.",
+   "t": "Tori Dunlap's Her First $100K made Inc. 5000 after growing it from a blog to a multi-million dollar business",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-thinks-monolithic-power-183002705.html"
+   "u": "https://finance.yahoo.com/small-business/articles/tori-dunlaps-her-first-100k-183000556.html"
   },
   {
    "t": "宇瞻參加自動化展　半導體晶圓量測設備將首度亮相",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180040.aspx"
   },
   {
-   "t": "“Their Job Is to Screw You:” Dave Ramsey to Newlywed With $41K in Debt on a $95K Income",
+   "t": "Stanley Druckenmiller builds $120 million bet on major tech stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/job-screw-dave-ramsey-newlywed-171813933.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-builds-120-million-173300255.html"
   }
  ],
  "inst": {
