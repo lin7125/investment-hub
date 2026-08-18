@@ -1,49 +1,49 @@
 {
- "generatedAt": "2026-08-18 11:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 11:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2375.0,
-   "c": -1.04,
-   "a50": 2384.6,
-   "a200": 1953.68,
+   "p": 2385.0,
+   "c": -0.62,
+   "a50": 2384.8,
+   "a200": 1953.72,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2362.0,
-   "r": 49.8
+   "a20": 2362.5,
+   "r": 50.7
   },
   {
    "s": "2317.TW",
-   "p": 250.0,
-   "c": -1.96,
-   "a50": 251.81,
+   "p": 250.5,
+   "c": -1.76,
+   "a50": 251.82,
    "a200": 235.8,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.98,
-   "r": 47.4
+   "a20": 254.0,
+   "r": 47.7
   },
   {
    "s": "2308.TW",
-   "p": 1850.0,
-   "c": -1.86,
-   "a50": 1892.7,
-   "a200": 1530.44,
+   "p": 1845.0,
+   "c": -2.12,
+   "a50": 1892.6,
+   "a200": 1530.42,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1732.0,
-   "r": 53.7
+   "a20": 1731.75,
+   "r": 53.3
   },
   {
    "s": "2454.TW",
-   "p": 3915.0,
-   "c": -3.33,
-   "a50": 3979.7,
-   "a200": 2474.43,
+   "p": 3910.0,
+   "c": -3.46,
+   "a50": 3979.6,
+   "a200": 2474.4,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3820.0,
-   "r": 50.6
+   "a20": 3819.75,
+   "r": 50.5
   },
   {
    "s": "2327.TW",
@@ -58,14 +58,14 @@
   },
   {
    "s": "1802.TW",
-   "p": 57.3,
-   "c": -2.55,
+   "p": 57.2,
+   "c": -2.72,
    "a50": 60.51,
    "a200": 52.58,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 52.72,
-   "r": 52.1
+   "r": 51.9
   },
   {
    "s": "6862.TW",
@@ -113,14 +113,14 @@
   },
   {
    "s": "2305.TW",
-   "p": 27.95,
-   "c": -2.1,
+   "p": 28.1,
+   "c": -1.58,
    "a50": 32.33,
    "a200": 18.72,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 29.76,
-   "r": 44.3
+   "a20": 29.77,
+   "r": 44.6
   },
   {
    "s": "6442.TW",
@@ -146,14 +146,14 @@
   },
   {
    "s": "6446.TW",
-   "p": 1365.0,
-   "c": -3.19,
-   "a50": 1172.77,
-   "a200": 715.43,
+   "p": 1355.0,
+   "c": -3.9,
+   "a50": 1172.57,
+   "a200": 715.38,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1256.75,
-   "r": 56.8
+   "a20": 1256.25,
+   "r": 56.0
   },
   {
    "s": "3324.TWO",
@@ -168,36 +168,36 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1265.0,
-   "c": -4.89,
-   "a50": 1312.24,
-   "a200": 1199.11,
+   "p": 1270.0,
+   "c": -4.51,
+   "a50": 1312.34,
+   "a200": 1199.13,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1210.1,
-   "r": 49.8
+   "a20": 1210.35,
+   "r": 50.1
   },
   {
    "s": "3585.TWO",
-   "p": 49.9,
-   "c": -2.92,
+   "p": 49.75,
+   "c": -3.21,
    "a50": 59.95,
    "a200": 41.84,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.63,
-   "r": 46.2
+   "a20": 47.62,
+   "r": 46.0
   },
   {
    "s": "6223.TWO",
-   "p": 5360.0,
-   "c": -7.59,
-   "a50": 6213.0,
-   "a200": 4056.6,
+   "p": 5345.0,
+   "c": -7.84,
+   "a50": 6212.7,
+   "a200": 4056.52,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5864.75,
-   "r": 40.6
+   "a20": 5864.0,
+   "r": 40.5
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45400.6,
-   "c": -0.9,
-   "a50": 44781.0,
-   "a200": 35996.63,
+   "p": 45474.18,
+   "c": -0.74,
+   "a50": 44782.47,
+   "a200": 35996.99,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43933.8,
-   "r": 55.6
+   "a20": 43937.48,
+   "r": 56.1
   },
   {
    "s": "^GSPC",
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.26,
-   "c": 3.1,
+   "p": 91.41,
+   "c": 3.26,
    "a50": 83.87,
-   "a200": 81.88,
+   "a200": 81.89,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.3,
-   "r": 57.0
+   "a20": 88.31,
+   "r": 57.1
   },
   {
    "s": "GC=F",
-   "p": 4457.3,
-   "c": 1.76,
-   "a50": 4157.64,
-   "a200": 4488.73,
+   "p": 4453.6,
+   "c": 1.67,
+   "a50": 4157.57,
+   "a200": 4488.71,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4196.97,
-   "r": 68.7
+   "a20": 4196.79,
+   "r": 68.5
   },
   {
    "s": "HG=F",
@@ -322,9 +322,9 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03144654,
-   "c": 0.59,
-   "a50": 0.03122073,
+   "p": 0.03142678,
+   "c": 0.55,
+   "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
    "yl": 0.030864
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608180044.aspx"
   },
   {
-   "t": "Home Depot CEO Takes Medical Leave. What This Means for HD Stock Ahead of Earnings.",
+   "t": "Under Armour’s Turnaround Hits a Wall as North America Demand Craters",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/home-depot-ceo-takes-medical-153002568.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/under-armour-turnaround-hits-wall-160449561.html"
   },
   {
    "t": "宇瞻參加自動化展　半導體晶圓量測設備將首度亮相",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180040.aspx"
   },
   {
-   "t": "Michael Burry’s Bearish Bet Against Nebius Stock Sends a Warning Message to AI Bulls",
+   "t": "Bending Spoons Beats on Earnings in Its Public Market Debut Quarter. Investors Focus on the Fine Print Instead",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-bearish-bet-against-153002331.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bending-spoons-beats-earnings-public-155821044.html"
   },
   {
    "t": "副總統：盼台灣不只提供晶片　要成為AI治理先發球員",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180037.aspx"
   },
   {
-   "t": "SpaceX stock volatility: What to do next if you own shares",
+   "t": "Reddit Stock Jumped 11%. The Business Had Almost Nothing to Do With It",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-volatility-what-to-do-next-if-you-own-shares-141704338.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/reddit-stock-jumped-11-business-161138860.html"
   },
   {
    "t": "追憶忘年之交高希均　童子賢：照亮知識份子前行的路",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608180029.aspx"
   },
   {
-   "t": "This Oil Dividend Just Got a Raise. Here's What It Means for Shareholders.",
+   "t": "Reddit’s S&P 500 debut could unleash nearly $3 billion of index-fund buying",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/oil-dividend-just-got-raise-153400041.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/reddit-p-500-debut-could-160300828.html"
   }
  ],
  "inst": {
