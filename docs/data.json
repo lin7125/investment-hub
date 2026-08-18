@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-08-18 10:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 10:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2395.0,
-   "c": -0.21,
-   "a50": 2385.0,
-   "a200": 1953.78,
+   "p": 2390.0,
+   "c": -0.42,
+   "a50": 2384.9,
+   "a200": 1953.75,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2363.0,
-   "r": 51.7
+   "a20": 2362.75,
+   "r": 51.2
   },
   {
    "s": "2317.TW",
-   "p": 251.5,
-   "c": -1.37,
-   "a50": 251.84,
+   "p": 250.5,
+   "c": -1.76,
+   "a50": 251.82,
    "a200": 235.8,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 254.05,
-   "r": 48.4
+   "a20": 254.0,
+   "r": 47.7
   },
   {
    "s": "2308.TW",
@@ -36,168 +36,168 @@
   },
   {
    "s": "2454.TW",
-   "p": 3935.0,
-   "c": -2.84,
-   "a50": 3980.1,
-   "a200": 2474.52,
+   "p": 3905.0,
+   "c": -3.58,
+   "a50": 3979.5,
+   "a200": 2474.38,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3821.0,
-   "r": 51.2
+   "a20": 3819.5,
+   "r": 50.3
   },
   {
    "s": "2327.TW",
-   "p": 598.0,
-   "c": -1.64,
-   "a50": 790.83,
+   "p": 597.0,
+   "c": -1.81,
+   "a50": 790.81,
    "a200": 432.81,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 589.12,
-   "r": 44.4
+   "a20": 589.08,
+   "r": 44.3
   },
   {
    "s": "1802.TW",
-   "p": 58.0,
-   "c": -1.36,
-   "a50": 60.52,
+   "p": 58.2,
+   "c": -1.02,
+   "a50": 60.53,
    "a200": 52.58,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.76,
-   "r": 53.5
+   "a20": 52.77,
+   "r": 54.0
   },
   {
    "s": "6862.TW",
-   "p": 140.0,
-   "c": -0.36,
-   "a50": 168.61,
-   "a200": 176.99,
+   "p": 139.0,
+   "c": -1.07,
+   "a50": 168.59,
+   "a200": 176.98,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 140.07,
-   "r": 41.6
+   "a20": 140.02,
+   "r": 40.9
   },
   {
    "s": "3701.TW",
-   "p": 40.0,
-   "c": -2.56,
+   "p": 40.1,
+   "c": -2.31,
    "a50": 42.63,
    "a200": 48.88,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.65,
-   "r": 46.5
+   "r": 46.8
   },
   {
    "s": "4722.TW",
-   "p": 214.0,
-   "c": -1.83,
-   "a50": 236.99,
+   "p": 213.5,
+   "c": -2.06,
+   "a50": 236.98,
    "a200": 199.28,
    "yh": 306.5,
    "yl": 97.3,
-   "a20": 203.98,
-   "r": 48.4
+   "a20": 203.95,
+   "r": 48.2
   },
   {
    "s": "6706.TW",
-   "p": 119.0,
-   "c": -3.64,
-   "a50": 132.34,
+   "p": 119.5,
+   "c": -3.24,
+   "a50": 132.35,
    "a200": 126.84,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 110.4,
-   "r": 49.8
+   "a20": 110.42,
+   "r": 50.1
   },
   {
    "s": "2305.TW",
-   "p": 28.3,
-   "c": -0.88,
+   "p": 28.2,
+   "c": -1.23,
    "a50": 32.34,
    "a200": 18.72,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 29.78,
-   "r": 45.0
+   "a20": 29.77,
+   "r": 44.8
   },
   {
    "s": "6442.TW",
-   "p": 1605.0,
-   "c": -1.53,
-   "a50": 1545.7,
-   "a200": 1595.99,
+   "p": 1640.0,
+   "c": 0.61,
+   "a50": 1546.4,
+   "a200": 1596.16,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1379.0,
-   "r": 58.4
+   "a20": 1380.75,
+   "r": 60.5
   },
   {
    "s": "6515.TW",
-   "p": 6360.0,
-   "c": -3.78,
-   "a50": 7598.8,
-   "a200": 6033.18,
+   "p": 6375.0,
+   "c": -3.56,
+   "a50": 7599.1,
+   "a200": 6033.25,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6444.25,
-   "r": 42.7
+   "a20": 6445.0,
+   "r": 42.9
   },
   {
    "s": "6446.TW",
-   "p": 1375.0,
-   "c": -2.48,
-   "a50": 1172.97,
-   "a200": 715.48,
+   "p": 1360.0,
+   "c": -3.55,
+   "a50": 1172.67,
+   "a200": 715.41,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1257.25,
-   "r": 57.5
+   "a20": 1256.5,
+   "r": 56.4
   },
   {
    "s": "3324.TWO",
-   "p": 1000.0,
-   "c": -0.5,
-   "a50": 977.02,
-   "a200": 998.36,
+   "p": 1005.0,
+   "c": 0.0,
+   "a50": 977.12,
+   "a200": 998.38,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 961.7,
-   "r": 53.2
+   "a20": 961.95,
+   "r": 53.9
   },
   {
    "s": "3491.TWO",
-   "p": 1310.0,
-   "c": -1.5,
-   "a50": 1313.14,
-   "a200": 1199.33,
+   "p": 1305.0,
+   "c": -1.88,
+   "a50": 1313.04,
+   "a200": 1199.31,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1212.35,
-   "r": 52.6
+   "a20": 1212.1,
+   "r": 52.3
   },
   {
    "s": "3585.TWO",
-   "p": 50.6,
-   "c": -1.56,
+   "p": 50.9,
+   "c": -0.97,
    "a50": 59.97,
    "a200": 41.85,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.66,
-   "r": 47.2
+   "a20": 47.68,
+   "r": 47.6
   },
   {
    "s": "6223.TWO",
-   "p": 5345.0,
-   "c": -7.84,
-   "a50": 6212.7,
-   "a200": 4056.52,
+   "p": 5325.0,
+   "c": -8.19,
+   "a50": 6212.3,
+   "a200": 4056.42,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5864.0,
-   "r": 40.5
+   "a20": 5863.0,
+   "r": 40.3
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45636.96,
-   "c": -0.38,
-   "a50": 44785.72,
-   "a200": 35997.81,
+   "p": 45622.69,
+   "c": -0.41,
+   "a50": 44785.44,
+   "a200": 35997.74,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43945.62,
-   "r": 57.1
+   "a20": 43944.9,
+   "r": 57.0
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.11,
-   "c": 2.93,
+   "p": 91.17,
+   "c": 2.99,
    "a50": 83.87,
    "a200": 81.88,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4465.9,
-   "c": 1.95,
-   "a50": 4157.81,
-   "a200": 4488.77,
+   "p": 4458.1,
+   "c": 1.77,
+   "a50": 4157.66,
+   "a200": 4488.73,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.4,
-   "r": 69.1
+   "a20": 4197.02,
+   "r": 68.7
   },
   {
    "s": "HG=F",
-   "p": 6.58,
-   "c": -0.28,
+   "p": 6.57,
+   "c": -0.39,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 58.0
+   "r": 57.4
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180024.aspx"
   },
   {
-   "t": "Bill Ackman's $5 billion fund trades 20% below its NAV as S&P 500 soars — and high fees aren't helping",
+   "t": "Moneywise staff confesses worst money mistakes — from ignoring subscriptions to sacrificing first home 'must-haves'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-5-billion-fund-140000634.html"
+   "u": "https://finance.yahoo.com/markets/articles/moneywise-staff-confesses-worst-money-150000883.html"
   },
   {
    "t": "台股開盤漲65.13點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180023.aspx"
   },
   {
-   "t": "This ETF Is the Most Important in the Market. You Probably Haven’t Heard of It.",
+   "t": "Oppenheimer Just Upgraded Intuitive Surgical Stock. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/etf-most-important-market-probably-140002357.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-just-upgraded-intuitive-surgical-151502484.html"
   },
   {
    "t": "台積電ADR漲1.1%　法人：台股高檔震盪待補量",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180019.aspx"
   },
   {
-   "t": "Analysts Are Upping Their Price Targets on Lumentum Stock. Here's Why.",
+   "t": "Michael Burry’s Bearish Bet Against Nebius Stock Sends a Warning Message to AI Bulls",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/analysts-upping-price-targets-lumentum-140002049.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-bearish-bet-against-153002331.html"
   },
   {
    "t": "市場拋售美債　殖利率近金融海嘯前水準",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180012.aspx"
   },
   {
-   "t": "Moneywise staff confesses worst money mistakes — from ignoring subscriptions to sacrificing first home 'must-haves'",
+   "t": "Home Depot CEO Takes Medical Leave. What This Means for HD Stock Ahead of Earnings.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/moneywise-staff-confesses-worst-money-150000883.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/home-depot-ceo-takes-medical-153002568.html"
   },
   {
    "t": "中東緊張推升油價和美債殖利率　華爾街股市多收跌",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180011.aspx"
   },
   {
-   "t": "I'm 30 and Married With More Than $300K Invested. My Financial Advisor Thinks I Should Buy a House Instead",
+   "t": "Morgan Stanley Favours Quality, AI Adopters and Financials as Earnings Growth Broadens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/im-30-married-more-300k-141104950.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-favours-quality-ai-144454648.html"
   }
  ],
  "inst": {
