@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 03:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 03:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 309.88,
-   "c": 1.4,
-   "a50": 309.13,
+   "p": 310.53,
+   "c": 1.62,
+   "a50": 309.14,
    "a200": 280.87,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 316.49,
-   "r": 47.7
+   "a20": 316.52,
+   "r": 48.3
   },
   {
    "s": "NVDA",
-   "p": 219.14,
-   "c": -2.61,
+   "p": 219.44,
+   "c": -2.48,
    "a50": 206.93,
    "a200": 195.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.07,
-   "r": 56.0
+   "a20": 212.09,
+   "r": 56.3
   },
   {
    "s": "TSLA",
-   "p": 336.93,
-   "c": -0.7,
+   "p": 336.95,
+   "c": -0.69,
    "a50": 368.42,
    "a200": 404.85,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 544.56,
-   "c": -4.29,
-   "a50": 594.99,
+   "p": 545.46,
+   "c": -4.13,
+   "a50": 595.01,
    "a200": 625.69,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 585.86,
-   "r": 36.4
+   "a20": 585.91,
+   "r": 36.5
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7698.69,
+   "p": 7698.86,
    "c": -0.6,
    "a50": 7522.38,
    "a200": 7074.01,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7605.17,
+   "a20": 7605.18,
    "r": 56.9
   },
   {
    "s": "^VIX",
-   "p": 15.65,
-   "c": 3.03,
+   "p": 15.62,
+   "c": 2.83,
    "a50": 17.12,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.63,
-   "r": 47.1
+   "r": 47.0
   },
   {
    "s": "BZ=F",
-   "p": 90.94,
-   "c": 0.08,
+   "p": 90.96,
+   "c": 0.1,
    "a50": 83.82,
    "a200": 82.01,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4408.3,
-   "c": -0.22,
+   "p": 4408.7,
+   "c": -0.21,
    "a50": 4158.28,
    "a200": 4490.65,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4211.86,
-   "r": 65.6
+   "a20": 4211.88,
+   "r": 65.7
   },
   {
    "s": "HG=F",
-   "p": 6.48,
-   "c": -1.91,
+   "p": 6.47,
+   "c": -1.99,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 50.3
+   "r": 49.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03132832,
-   "c": 0.23,
+   "c": 0.22,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "Do Wall Street Analysts Like Marathon Petroleum Stock?",
+   "t": "Do Wall Street Analysts Like Pentair Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-marathon-petroleum-102300856.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-pentair-stock-103829222.html"
   },
   {
    "t": "今彩539第115200期　頭獎3注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "Stocks Set to Open Higher on Tech Boost, Fed Minutes and Retail Earnings Awaited",
+   "t": "I stayed for 8 years and got a $2,600 raise. A colleague who quit got $15,000 more. Do I have to leave to get paid?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-higher-tech-103548577.html"
+   "u": "https://finance.yahoo.com/small-business/articles/stayed-8-years-got-2-104500877.html"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Do Wall Street Analysts Like Pentair Stock?",
+   "t": "Stocks Set to Open Higher on Tech Boost, Fed Minutes and Retail Earnings Awaited",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-pentair-stock-103829222.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-higher-tech-103548577.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "Elon Musk Just Uttered 3 Massively Bullish Words for Micron, Sandisk, and SK Hynix",
+   "t": "Snap shares tumble as court ruling and insider selling deepen investor concerns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-just-uttered-3-102600118.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/snap-shares-tumble-court-ruling-103741202.html"
   }
  ],
  "inst": {
