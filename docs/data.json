@@ -1,214 +1,214 @@
 {
- "generatedAt": "2026-08-18 05:52（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 10:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2400.0,
-   "c": 0.21,
-   "a50": 2383.0,
-   "a200": 1949.2,
+   "p": 2395.0,
+   "c": -0.21,
+   "a50": 2385.0,
+   "a200": 1953.78,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2363.75,
-   "r": 52.2
+   "a20": 2363.0,
+   "r": 51.7
   },
   {
    "s": "2317.TW",
-   "p": 255.0,
-   "c": -1.73,
-   "a50": 252.2,
-   "a200": 235.74,
+   "p": 251.5,
+   "c": -1.37,
+   "a50": 251.84,
+   "a200": 235.8,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.78,
-   "r": 50.8
+   "a20": 254.05,
+   "r": 48.4
   },
   {
    "s": "2308.TW",
-   "p": 1885.0,
-   "c": 0.0,
-   "a50": 1900.8,
-   "a200": 1526.3,
+   "p": 1830.0,
+   "c": -2.92,
+   "a50": 1892.3,
+   "a200": 1530.34,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1731.25,
-   "r": 56.5
+   "a20": 1731.0,
+   "r": 52.2
   },
   {
    "s": "2454.TW",
-   "p": 4050.0,
-   "c": -3.8,
-   "a50": 3982.8,
-   "a200": 2461.55,
+   "p": 3935.0,
+   "c": -2.84,
+   "a50": 3980.1,
+   "a200": 2474.52,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3807.75,
-   "r": 54.9
+   "a20": 3821.0,
+   "r": 51.2
   },
   {
    "s": "2327.TW",
-   "p": 608.0,
-   "c": -2.25,
-   "a50": 793.89,
-   "a200": 430.85,
+   "p": 598.0,
+   "c": -1.64,
+   "a50": 790.83,
+   "a200": 432.81,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 592.72,
-   "r": 45.3
+   "a20": 589.12,
+   "r": 44.4
   },
   {
    "s": "1802.TW",
-   "p": 58.8,
-   "c": 1.55,
-   "a50": 60.6,
-   "a200": 52.43,
+   "p": 58.0,
+   "c": -1.36,
+   "a50": 60.52,
+   "a200": 52.58,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.56,
-   "r": 55.3
+   "a20": 52.76,
+   "r": 53.5
   },
   {
    "s": "6862.TW",
-   "p": 140.5,
-   "c": -1.4,
-   "a50": 169.64,
-   "a200": 177.29,
+   "p": 140.0,
+   "c": -0.36,
+   "a50": 168.61,
+   "a200": 176.99,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 140.55,
-   "r": 41.9
+   "a20": 140.07,
+   "r": 41.6
   },
   {
    "s": "3701.TW",
-   "p": 41.05,
-   "c": 1.73,
-   "a50": 42.86,
-   "a200": 48.87,
+   "p": 40.0,
+   "c": -2.56,
+   "a50": 42.63,
+   "a200": 48.88,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.62,
-   "r": 49.7
+   "a20": 39.65,
+   "r": 46.5
   },
   {
    "s": "4722.TW",
-   "p": 218.0,
-   "c": 7.39,
-   "a50": 237.7,
-   "a200": 199.26,
+   "p": 214.0,
+   "c": -1.83,
+   "a50": 236.99,
+   "a200": 199.28,
    "yh": 306.5,
    "yl": 97.3,
-   "a20": 204.15,
-   "r": 50.0
+   "a20": 203.98,
+   "r": 48.4
   },
   {
    "s": "6706.TW",
-   "p": 123.5,
-   "c": 4.66,
-   "a50": 133.42,
-   "a200": 126.6,
+   "p": 119.0,
+   "c": -3.64,
+   "a50": 132.34,
+   "a200": 126.84,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 109.92,
-   "r": 53.2
+   "a20": 110.4,
+   "r": 49.8
   },
   {
    "s": "2305.TW",
-   "p": 28.55,
-   "c": -2.73,
-   "a50": 32.22,
-   "a200": 18.63,
+   "p": 28.3,
+   "c": -0.88,
+   "a50": 32.34,
+   "a200": 18.72,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 29.96,
-   "r": 45.6
+   "a20": 29.78,
+   "r": 45.0
   },
   {
    "s": "6442.TW",
-   "p": 1630.0,
-   "c": 4.49,
-   "a50": 1553.0,
-   "a200": 1592.14,
+   "p": 1605.0,
+   "c": -1.53,
+   "a50": 1545.7,
+   "a200": 1595.99,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1361.75,
-   "r": 60.1
+   "a20": 1379.0,
+   "r": 58.4
   },
   {
    "s": "6515.TW",
-   "p": 6610.0,
-   "c": -2.07,
-   "a50": 7639.2,
-   "a200": 6013.62,
+   "p": 6360.0,
+   "c": -3.78,
+   "a50": 7598.8,
+   "a200": 6033.18,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6459.0,
-   "r": 45.9
+   "a20": 6444.25,
+   "r": 42.7
   },
   {
    "s": "6446.TW",
-   "p": 1410.0,
-   "c": -6.0,
-   "a50": 1162.17,
-   "a200": 710.94,
+   "p": 1375.0,
+   "c": -2.48,
+   "a50": 1172.97,
+   "a200": 715.48,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1247.25,
-   "r": 60.3
+   "a20": 1257.25,
+   "r": 57.5
   },
   {
    "s": "3324.TWO",
-   "p": 1005.0,
+   "p": 1000.0,
    "c": -0.5,
-   "a50": 978.92,
-   "a200": 998.32,
+   "a50": 977.02,
+   "a200": 998.36,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 958.0,
-   "r": 53.9
+   "a20": 961.7,
+   "r": 53.2
   },
   {
    "s": "3491.TWO",
-   "p": 1330.0,
-   "c": -3.27,
-   "a50": 1322.64,
-   "a200": 1195.11,
+   "p": 1310.0,
+   "c": -1.5,
+   "a50": 1313.14,
+   "a200": 1199.33,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1206.1,
-   "r": 54.0
+   "a20": 1212.35,
+   "r": 52.6
   },
   {
    "s": "3585.TWO",
-   "p": 51.4,
-   "c": 4.26,
-   "a50": 60.5,
-   "a200": 41.67,
+   "p": 50.6,
+   "c": -1.56,
+   "a50": 59.97,
+   "a200": 41.85,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.55,
-   "r": 48.3
+   "a20": 47.66,
+   "r": 47.2
   },
   {
    "s": "6223.TWO",
-   "p": 5800.0,
-   "c": -9.94,
-   "a50": 6216.1,
-   "a200": 4039.08,
+   "p": 5345.0,
+   "c": -7.84,
+   "a50": 6212.7,
+   "a200": 4056.52,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5890.5,
-   "r": 45.9
+   "a20": 5864.0,
+   "r": 40.5
   },
   {
    "s": "6750.TWO",
-   "p": 55.1,
-   "c": -2.99,
-   "a50": 60.76,
-   "a200": 56.79,
+   "p": 55.2,
+   "c": 0.18,
+   "a50": 60.57,
+   "a200": 56.84,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.39,
-   "r": 43.8
+   "a20": 55.22,
+   "r": 44.1
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45811.01,
-   "c": -0.46,
-   "a50": 44786.53,
-   "a200": 35906.14,
+   "p": 45636.96,
+   "c": -0.38,
+   "a50": 44785.72,
+   "a200": 35997.81,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43786.26,
-   "r": 58.3
+   "a20": 43945.62,
+   "r": 57.1
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.1,
-   "c": 2.91,
+   "p": 91.11,
+   "c": 2.93,
    "a50": 83.87,
    "a200": 81.88,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4473.1,
-   "c": 2.12,
-   "a50": 4157.96,
-   "a200": 4488.8,
+   "p": 4465.9,
+   "c": 1.95,
+   "a50": 4157.81,
+   "a200": 4488.77,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4197.77,
-   "r": 69.4
+   "a20": 4197.4,
+   "r": 69.1
   },
   {
    "s": "HG=F",
-   "p": 6.61,
-   "c": 0.2,
+   "p": 6.58,
+   "c": -0.28,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.51,
-   "r": 60.2
+   "a20": 6.5,
+   "r": 58.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03139717,
-   "c": 0.85,
+   "p": 0.03146633,
+   "c": 0.64,
    "a50": 0.03122073,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "中東地區情勢再趨緊張　國際油價走揚",
+   "t": "台股開高漲逾200點　重返46000點",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/afe/202608180007.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608180026.aspx"
   },
   {
    "t": "Warren Buffett's Berkshire raises stake in world's largest airline",
@@ -344,64 +344,64 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-raises-stake-214700937.html"
   },
   {
-   "t": "荷莫茲海峽問題引憂且油價仍高檔　歐洲股市收低",
+   "t": "新台幣開盤升1.2分　為31.84元",
    "pub": "中央社財經",
    "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/afe/202608180002.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608180024.aspx"
   },
   {
-   "t": "Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right",
+   "t": "Bill Ackman's $5 billion fund trades 20% below its NAV as S&P 500 soars — and high fees aren't helping",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/vivian-tu-says-investors-carrying-130000844.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-5-billion-fund-140000634.html"
   },
   {
-   "t": "森崴能源虧損下市　胡正杰擬收購逾5成股權",
+   "t": "台股開盤漲65.13點",
    "pub": "中央社財經",
-   "d": "2026-08-17",
-   "u": "https://www.cna.com.tw/news/afe/202608170315.aspx"
+   "d": "2026-08-18",
+   "u": "https://www.cna.com.tw/news/afe/202608180023.aspx"
   },
   {
-   "t": "'A serious mistake': Moody's Analytics economist says the Fed is putting the economy at risk with its silence",
+   "t": "This ETF Is the Most Important in the Market. You Probably Haven’t Heard of It.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/serious-mistake-moodys-analytics-economist-125500943.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/etf-most-important-market-probably-140002357.html"
   },
   {
-   "t": "今彩539第115199期　頭獎6注中獎",
+   "t": "台積電ADR漲1.1%　法人：台股高檔震盪待補量",
    "pub": "中央社財經",
-   "d": "2026-08-17",
-   "u": "https://www.cna.com.tw/news/ahel/202608170308.aspx"
+   "d": "2026-08-18",
+   "u": "https://www.cna.com.tw/news/afe/202608180019.aspx"
   },
   {
-   "t": "Greg Abel Starts Spending: Berkshire’s Cash Hoard Finally Gets Put to Work",
+   "t": "Analysts Are Upping Their Price Targets on Lumentum Stock. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-starts-spending-berkshire-125459967.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/analysts-upping-price-targets-lumentum-140002049.html"
   },
   {
-   "t": "威力彩第115066期　頭獎槓龜",
+   "t": "市場拋售美債　殖利率近金融海嘯前水準",
    "pub": "中央社財經",
-   "d": "2026-08-17",
-   "u": "https://www.cna.com.tw/news/ahel/202608170307.aspx"
+   "d": "2026-08-18",
+   "u": "https://www.cna.com.tw/news/afe/202608180012.aspx"
   },
   {
-   "t": "Investors in Microsoft Love Shorting Out-of-the-Money MSFT Puts",
+   "t": "Moneywise staff confesses worst money mistakes — from ignoring subscriptions to sacrificing first home 'must-haves'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/investors-microsoft-love-shorting-money-131502468.html"
+   "u": "https://finance.yahoo.com/markets/articles/moneywise-staff-confesses-worst-money-150000883.html"
   },
   {
-   "t": "市場權衡美伊緊張　美股開盤走勢不一",
+   "t": "中東緊張推升油價和美債殖利率　華爾街股市多收跌",
    "pub": "中央社財經",
-   "d": "2026-08-17",
-   "u": "https://www.cna.com.tw/news/afe/202608170306.aspx"
+   "d": "2026-08-18",
+   "u": "https://www.cna.com.tw/news/afe/202608180011.aspx"
   },
   {
-   "t": "World's biggest wealth fund buys $1.2 billion of SpaceX stock",
+   "t": "I'm 30 and Married With More Than $300K Invested. My Financial Advisor Thinks I Should Buy a House Instead",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/worlds-biggest-wealth-fund-buys-130300566.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/im-30-married-more-300k-141104950.html"
   }
  ],
  "inst": {
