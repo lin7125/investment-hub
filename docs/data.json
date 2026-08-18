@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 04:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 04:43（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -269,56 +269,56 @@
    "s": "^GSPC",
    "p": 7691.76,
    "c": -0.69,
-   "a50": 7522.24,
-   "a200": 7073.97,
+   "a50": 7521.76,
+   "a200": 7083.18,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7604.83,
-   "r": 56.3
+   "a20": 7609.21,
+   "r": 56.2
   },
   {
    "s": "^VIX",
-   "p": 15.86,
-   "c": 4.41,
-   "a50": 17.13,
+   "p": 15.84,
+   "c": 4.28,
+   "a50": 17.06,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.64,
-   "r": 48.1
+   "a20": 16.4,
+   "r": 48.3
   },
   {
    "s": "BZ=F",
-   "p": 91.07,
-   "c": 0.22,
-   "a50": 83.82,
+   "p": 91.26,
+   "c": 0.43,
+   "a50": 83.83,
    "a200": 82.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.28,
-   "r": 56.7
+   "a20": 88.29,
+   "r": 57.0
   },
   {
    "s": "GC=F",
-   "p": 4396.3,
-   "c": -0.49,
-   "a50": 4158.04,
-   "a200": 4490.59,
+   "p": 4393.8,
+   "c": -0.54,
+   "a50": 4157.99,
+   "a200": 4490.58,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4211.26,
-   "r": 64.3
+   "a20": 4211.13,
+   "r": 64.1
   },
   {
    "s": "HG=F",
    "p": 6.46,
-   "c": -2.13,
+   "c": -2.2,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 49.4
+   "r": 49.1
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "Midera Food’s Net Sales Up 13%, Raises 2026 Outlook",
+   "t": "I Want to Retire at 52. Can a Roth Conversion Ladder Let Me Access Retirement Savings Penalty-Free?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/midera-food-net-sales-13-112700910.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/want-retire-52-roth-conversion-120000061.html"
   },
   {
    "t": "今彩539第115200期　頭獎3注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "Local Bounti’s Network Yields at Record Levels, Retail Momentum Broadened  – Quarterly Update Report",
+   "t": "Dohrn bets on camera data to cut fleet insurance costs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/local-bounti-network-yields-record-112953084.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/dohrn-bets-camera-data-cut-120000649.html"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Silver Price Predictions: Why Citi Analysts See Silver Prices Soaring to $90 Soon",
+   "t": "Stocks With This Number Of Letters In Their Symbols Do Best",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/silver-price-predictions-why-citi-113002494.html"
+   "u": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-with-this-number-of-letters-in-their-symbols-do-best/?src=A00220&yptr=yahoo"
   },
   {
    "t": "國銀中小企業放款上半年大增4026億　創同期新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Micron stock heats up again, crossing $1,000",
+   "t": "This Micron Covered Call Could Pay You 63% to Sit and Wait",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/micron-covered-call-could-pay-120002559.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "1 in 5 Gen Xers don’t think they’ll ever retire, study suggests",
+   "t": "Centene CFO to step down at year-end",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/1-5-gen-xers-don-113100638.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/centene-cfo-step-down-end-115825992.html"
   }
  ],
  "inst": {
