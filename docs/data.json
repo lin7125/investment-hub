@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 00:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 00:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 310.46,
-   "c": 1.59,
+   "p": 310.34,
+   "c": 1.55,
    "a50": 309.14,
    "a200": 280.87,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 316.51,
-   "r": 48.3
+   "r": 48.1
   },
   {
    "s": "NVDA",
-   "p": 219.63,
-   "c": -2.39,
+   "p": 219.74,
+   "c": -2.34,
    "a50": 206.94,
    "a200": 195.1,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 212.1,
-   "r": 56.5
+   "r": 56.6
   },
   {
    "s": "TSLA",
-   "p": 337.25,
-   "c": -0.6,
+   "p": 337.37,
+   "c": -0.57,
    "a50": 368.43,
    "a200": 404.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.54,
+   "a20": 325.55,
    "r": 46.5
   },
   {
    "s": "META",
-   "p": 552.71,
-   "c": -2.86,
-   "a50": 595.16,
-   "a200": 625.73,
+   "p": 550.68,
+   "c": -3.21,
+   "a50": 595.12,
+   "a200": 625.72,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 586.27,
-   "r": 38.0
+   "a20": 586.17,
+   "r": 37.6
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7703.4,
-   "c": -0.54,
-   "a50": 7522.0,
+   "p": 7704.13,
+   "c": -0.53,
+   "a50": 7522.01,
    "a200": 7083.24,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7609.79,
+   "a20": 7609.83,
    "r": 57.3
   },
   {
    "s": "^VIX",
-   "p": 15.66,
-   "c": 3.09,
+   "p": 15.63,
+   "c": 2.9,
    "a50": 17.06,
-   "a200": 18.52,
+   "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.39,
-   "r": 47.5
+   "r": 47.3
   },
   {
    "s": "BZ=F",
-   "p": 91.49,
-   "c": 0.68,
+   "p": 91.45,
+   "c": 0.64,
    "a50": 83.83,
    "a200": 82.02,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.3,
-   "r": 57.3
+   "r": 57.2
   },
   {
    "s": "GC=F",
-   "p": 4421.4,
-   "c": 0.08,
-   "a50": 4158.54,
-   "a200": 4490.72,
+   "p": 4419.7,
+   "c": 0.04,
+   "a50": 4158.5,
+   "a200": 4490.71,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4212.51,
-   "r": 66.9
+   "a20": 4212.43,
+   "r": 66.8
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": -1.55,
+   "c": -1.64,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 51.8
+   "r": 51.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03134796,
-   "c": 0.27,
+   "p": 0.03133814,
+   "c": 0.25,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "India’s Minda to invest Rs2.70bn for automotive TFT displays – report",
+   "t": "Ackman just walked away from Google",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/india-minda-invest-rs2-70bn-161456686.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ackman-just-walked-away-google-161830311.html"
   },
   {
    "t": "今彩539第115200期　頭獎3注中獎",
@@ -362,7 +362,7 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Stock Market Today: Nasdaq Retreats As Chipmakers Sell-Off; Micron, Sandisk, And A Fintech Fall (Live Coverage)",
+   "t": "Stock Market Today: Nasdaq Retreats As Chipmakers Sell Off; Micron, Sandisk And A Fintech Fall (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo"
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180328.aspx"
   },
   {
-   "t": "VGIT vs. IGIB: Which Bond ETF Offers the Better Buy for Income Investors?",
+   "t": "Gan Jia Yue named Geely CEO, founder Li Shu Fu resigns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/vgit-vs-igib-bond-etf-161019052.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/gan-jia-yue-named-geely-161811412.html"
   }
  ],
  "inst": {
