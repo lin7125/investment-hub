@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-18 14:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-18 14:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.58,
-   "c": 0.78,
+   "p": 91.63,
+   "c": 0.84,
    "a50": 83.83,
    "a200": 82.02,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.31,
-   "r": 57.4
+   "r": 57.5
   },
   {
    "s": "GC=F",
-   "p": 4446.7,
-   "c": 0.65,
-   "a50": 4159.04,
-   "a200": 4490.84,
+   "p": 4450.5,
+   "c": 0.74,
+   "a50": 4159.12,
+   "a200": 4490.86,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4213.78,
-   "r": 68.3
+   "a20": 4213.97,
+   "r": 68.5
   },
   {
    "s": "HG=F",
-   "p": 6.57,
-   "c": -0.45,
+   "p": 6.58,
+   "c": -0.33,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 57.2
+   "r": 57.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03137747,
-   "c": 0.36,
+   "p": 0.03132832,
+   "c": 0.22,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180140.aspx"
   },
   {
-   "t": "Tori Dunlap's Her First $100K made Inc. 5000 after growing it from a blog to a multi-million dollar business",
+   "t": "Oil Majors Reap $93 Billion Windfall From the Iran War",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/tori-dunlaps-her-first-100k-183000556.html"
+   "u": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html"
   },
   {
    "t": "國際自動化展8/19登場　所羅門秀AI自主機器人應用",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180134.aspx"
   },
   {
-   "t": "Wall Street Thinks Monolithic Power Is a Buy. Here’s Why It Might Be Right.",
+   "t": "Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-thinks-monolithic-power-183002705.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/drake-told-23-old-streamer-191500099.html"
   },
   {
    "t": "工會反對Grab併foodpanda　公平會：專業客觀審查",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180133.aspx"
   },
   {
-   "t": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+   "t": "Wall Street Thinks Monolithic Power Is a Buy. Here’s Why It Might Be Right.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/oil-majors-reap-93-billion-190000461.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-thinks-monolithic-power-183002705.html"
   },
   {
    "t": "台電估氣價調漲致燃料成本增逾1200億　盼獲預算撥補",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180108.aspx"
   },
   {
-   "t": "Drake told a 23-year-old streamer he'd 'love to' buy her mom a house after picking her on dating show. Who pays the tax?",
+   "t": "Tori Dunlap's Her First $100K made Inc. 5000 after growing it from a blog to a multi-million dollar business",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/drake-told-23-old-streamer-191500099.html"
+   "u": "https://finance.yahoo.com/small-business/articles/tori-dunlaps-her-first-100k-183000556.html"
   },
   {
    "t": "日經亞洲：Google擬2027年前將Pixel生產移出中國",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608180104.aspx"
   },
   {
-   "t": "Crypto Version of Your Favorite Stocks Soon? SEC Reportedly Planning to Release Framework for Tokenized Assets",
+   "t": "Casino operator liquidated as Chapter 11 bankruptcy ends",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/crypto-version-favorite-stocks-soon-183119627.html"
+   "u": "https://finance.yahoo.com/small-business/articles/casino-operator-liquidated-chapter-11-183942370.html"
   }
  ],
  "inst": {
@@ -477,6 +477,7 @@
     "t": -1682,
     "all": -10235
    }
-  }
+  },
+  "totalNetE": 290.8
  }
 }
