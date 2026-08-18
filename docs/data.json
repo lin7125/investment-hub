@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 03:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 04:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 310.14,
-   "c": 1.49,
+   "p": 310.03,
+   "c": 1.45,
    "a50": 309.13,
    "a200": 280.87,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 316.5,
-   "r": 48.0
+   "a20": 316.49,
+   "r": 47.9
   },
   {
    "s": "NVDA",
-   "p": 219.54,
-   "c": -2.43,
+   "p": 219.74,
+   "c": -2.34,
    "a50": 206.94,
    "a200": 195.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.09,
-   "r": 56.4
+   "a20": 212.1,
+   "r": 56.6
   },
   {
    "s": "TSLA",
-   "p": 336.78,
-   "c": -0.74,
+   "p": 336.87,
+   "c": -0.72,
    "a50": 368.42,
    "a200": 404.85,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 325.52,
-   "r": 46.2
+   "r": 46.3
   },
   {
    "s": "META",
-   "p": 544.74,
-   "c": -4.26,
-   "a50": 595.0,
-   "a200": 625.69,
+   "p": 543.67,
+   "c": -4.45,
+   "a50": 594.98,
+   "a200": 625.68,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 585.87,
-   "r": 36.4
+   "a20": 585.82,
+   "r": 36.2
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7694.02,
-   "c": -0.66,
-   "a50": 7522.29,
-   "a200": 7073.98,
+   "p": 7691.76,
+   "c": -0.69,
+   "a50": 7522.24,
+   "a200": 7073.97,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7604.94,
-   "r": 56.5
+   "a20": 7604.83,
+   "r": 56.3
   },
   {
    "s": "^VIX",
-   "p": 15.66,
-   "c": 3.09,
-   "a50": 17.06,
+   "p": 15.72,
+   "c": 3.49,
+   "a50": 17.12,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.39,
+   "a20": 16.63,
    "r": 47.5
   },
   {
    "s": "BZ=F",
-   "p": 90.94,
-   "c": 0.08,
+   "p": 90.97,
+   "c": 0.11,
    "a50": 83.82,
    "a200": 82.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.27,
-   "r": 56.5
+   "a20": 88.28,
+   "r": 56.6
   },
   {
    "s": "GC=F",
-   "p": 4407.0,
-   "c": -0.24,
-   "a50": 4158.25,
-   "a200": 4490.64,
+   "p": 4399.8,
+   "c": -0.41,
+   "a50": 4158.11,
+   "a200": 4490.61,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4211.79,
-   "r": 65.5
+   "a20": 4211.43,
+   "r": 64.7
   },
   {
    "s": "HG=F",
    "p": 6.47,
-   "c": -2.01,
+   "c": -2.07,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 49.8
+   "r": 49.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03132832,
-   "c": 0.21,
+   "c": 0.2,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "I stayed for 8 years and got a $2,600 raise. A colleague who quit got $15,000 more. Do I have to leave to get paid?",
+   "t": "Equity Residential Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/stayed-8-years-got-2-104500877.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/equity-residential-stock-analyst-estimates-105842940.html"
   },
   {
    "t": "今彩539第115200期　頭獎3注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "Capital One Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Option Volatility And Earnings Report For Aug 17-21",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/capital-one-stock-wall-street-104700766.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/option-volatility-earnings-report-aug-110002337.html"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Equity Residential Stock: Analyst Estimates & Ratings",
+   "t": "Azerbaijan seeks to nurture tech sector as it looks beyond oil",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/equity-residential-stock-analyst-estimates-105842940.html"
+   "u": "https://finance.yahoo.com/technology/articles/azerbaijan-seeks-nurture-tech-sector-110022390.html"
   },
   {
    "t": "國銀中小企業放款上半年大增4026億　創同期新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Azerbaijan seeks to nurture tech sector as it looks beyond oil",
+   "t": "Capital One Stock: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/azerbaijan-seeks-nurture-tech-sector-110022390.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/capital-one-stock-wall-street-104700766.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "Earnings, Fed Hopes Leave Markets in a Zen State. What Could Break It.",
+   "t": "Argentina LNG seeks RIGI approval for $51bn integrated LNG project",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/stock-market-things-to-know-today-9cb7b88a?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/energy/articles/argentina-lng-seeks-rigi-approval-105420183.html"
   }
  ],
  "inst": {
