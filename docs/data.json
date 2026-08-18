@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 02:43（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 02:54（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 311.08,
-   "c": 1.8,
-   "a50": 309.15,
+   "p": 310.54,
+   "c": 1.62,
+   "a50": 309.14,
    "a200": 280.87,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 316.55,
-   "r": 48.8
+   "a20": 316.52,
+   "r": 48.3
   },
   {
    "s": "NVDA",
-   "p": 219.96,
-   "c": -2.24,
+   "p": 219.94,
+   "c": -2.25,
    "a50": 206.94,
    "a200": 195.1,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 335.45,
-   "c": -1.14,
+   "p": 335.51,
+   "c": -1.12,
    "a50": 368.39,
    "a200": 404.84,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 325.45,
-   "r": 45.6
+   "r": 45.7
   },
   {
    "s": "META",
-   "p": 546.26,
-   "c": -3.99,
-   "a50": 595.03,
-   "a200": 625.7,
+   "p": 545.66,
+   "c": -4.1,
+   "a50": 595.01,
+   "a200": 625.69,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 585.95,
-   "r": 36.7
+   "a20": 585.92,
+   "r": 36.6
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7701.9,
-   "c": -0.56,
-   "a50": 7522.44,
-   "a200": 7074.02,
+   "p": 7699.11,
+   "c": -0.59,
+   "a50": 7521.91,
+   "a200": 7083.22,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7605.33,
-   "r": 57.2
+   "a20": 7609.58,
+   "r": 56.9
   },
   {
    "s": "^VIX",
-   "p": 15.66,
-   "c": 3.09,
-   "a50": 17.06,
+   "p": 15.63,
+   "c": 2.9,
+   "a50": 17.12,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.39,
-   "r": 47.5
+   "a20": 16.63,
+   "r": 47.0
   },
   {
    "s": "BZ=F",
-   "p": 90.94,
-   "c": 0.08,
+   "p": 91.04,
+   "c": 0.19,
    "a50": 83.82,
    "a200": 82.01,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.28,
-   "r": 56.6
+   "r": 56.7
   },
   {
    "s": "GC=F",
-   "p": 4414.3,
-   "c": -0.08,
-   "a50": 4158.4,
-   "a200": 4490.68,
+   "p": 4411.1,
+   "c": -0.15,
+   "a50": 4158.33,
+   "a200": 4490.67,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4212.16,
-   "r": 66.3
+   "a20": 4212.0,
+   "r": 66.0
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": -1.93,
+   "c": -1.95,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 50.2
+   "r": 50.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03133814,
-   "c": 0.25,
+   "p": 0.03132832,
+   "c": 0.2,
    "a50": 0.03121099,
    "a200": 0.03160556,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for Hilton Stock?",
+   "t": "Marsh & McLennan Stock: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-093416228.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-stock-wall-street-094905795.html"
   },
   {
    "t": "今彩539第115200期　頭獎3注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
   },
   {
-   "t": "Lowe’s Earnings Preview: Can Pro Growth and Digital Momentum Offset Weak DIY Demand?",
+   "t": "What Are Wall Street Analysts' Target Price for Hilton Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lowe-earnings-preview-pro-growth-091853853.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-093416228.html"
   },
   {
    "t": "大樂透第115080期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
   },
   {
-   "t": "Marsh & McLennan Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Darden Restaurants Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-stock-wall-street-094905795.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/darden-restaurants-stock-analyst-estimates-095738208.html"
   },
   {
    "t": "國銀中小企業放款上半年大增4026億　創同期新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
   },
   {
-   "t": "Home Depot Earnings Preview: Can Pro Demand Offset a Weak Housing Market?",
+   "t": "Health insurers are dropping Medicare Advantage plans — and nearly 3 million older Americans will be affected",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/home-depot-earnings-preview-pro-090048816.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/health-insurers-dropping-medicare-advantage-100000446.html"
   },
   {
    "t": "元太：東京車站試行導入全彩電子紙看板",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
   },
   {
-   "t": "Jane Street’s $15 Billion Loss Came Amid Mega Debt Swap",
+   "t": "KPMG Australia chief acknowledges firm’s ‘indefensible’ actions: Trial Balance",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/jane-street-s-15-billion-loss-came-amid-mega-debt-swap-aGoY7Cq1v0C9UgIkoQmJ?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/policy/articles/kpmg-australia-chief-acknowledges-firm-095000381.html"
   }
  ],
  "inst": {
