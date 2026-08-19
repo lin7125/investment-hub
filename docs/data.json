@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 00:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 01:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,7 +212,7 @@
   },
   {
    "s": "AAPL",
-   "p": 314.99,
+   "p": 314.98,
    "c": 1.6,
    "a50": 309.4,
    "a200": 281.09,
@@ -223,63 +223,63 @@
   },
   {
    "s": "NVDA",
-   "p": 219.1,
-   "c": -0.29,
+   "p": 219.07,
+   "c": -0.3,
    "a50": 207.15,
    "a200": 195.18,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.46,
+   "a20": 212.45,
    "r": 55.9
   },
   {
    "s": "TSLA",
-   "p": 346.74,
-   "c": 2.93,
-   "a50": 367.18,
-   "a200": 404.38,
+   "p": 347.5,
+   "c": 3.16,
+   "a50": 367.19,
+   "a200": 404.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 324.16,
-   "r": 51.4
+   "a20": 324.2,
+   "r": 51.8
   },
   {
    "s": "META",
-   "p": 552.03,
-   "c": 1.54,
-   "a50": 594.31,
-   "a200": 625.11,
+   "p": 553.43,
+   "c": 1.8,
+   "a50": 594.34,
+   "a200": 625.12,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 582.06,
-   "r": 39.1
+   "a20": 582.13,
+   "r": 39.6
   },
   {
    "s": "^TWII",
    "p": 45308.68,
    "c": -1.2,
-   "a50": 44895.47,
-   "a200": 35839.31,
+   "a50": 44794.89,
+   "a200": 36087.01,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43869.2,
-   "r": 54.2
+   "a20": 44010.42,
+   "r": 54.8
   },
   {
    "s": "^GSPC",
-   "p": 7720.55,
-   "c": 0.37,
-   "a50": 7528.06,
-   "a200": 7087.67,
+   "p": 7717.98,
+   "c": 0.34,
+   "a50": 7528.01,
+   "a200": 7087.66,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7620.29,
-   "r": 58.3
+   "a20": 7620.16,
+   "r": 58.1
   },
   {
    "s": "^VIX",
-   "p": 15.16,
-   "c": -4.29,
+   "p": 15.18,
+   "c": -4.17,
    "a50": 16.99,
    "a200": 18.5,
    "yh": 31.05,
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 92.39,
-   "c": 1.51,
+   "p": 92.37,
+   "c": 1.48,
    "a50": 83.78,
    "a200": 82.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.2,
+   "a20": 88.19,
    "r": 58.5
   },
   {
    "s": "GC=F",
-   "p": 4553.7,
-   "c": 4.3,
-   "a50": 4161.79,
-   "a200": 4493.2,
+   "p": 4552.1,
+   "c": 4.26,
+   "a50": 4161.75,
+   "a200": 4493.19,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4230.08,
-   "r": 70.7
+   "a20": 4230.0,
+   "r": 70.6
   },
   {
    "s": "HG=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03139717,
-   "c": 0.0,
+   "p": 0.03140704,
+   "c": 0.02,
    "a50": 0.03121099,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190309.aspx"
   },
   {
-   "t": "Capital One shut down 385 Trump accounts over money-laundering flags after its own $390M FinCEN penalty",
+   "t": "Moderna shares double as cancer vaccine data rekindles investor hopes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/capital-one-shut-down-385-163000196.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/moderna-shares-double-cancer-vaccine-164453025.html"
   },
   {
    "t": "國銀外幣存款寫新高　上半年增逾兆元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190307.aspx"
   },
   {
-   "t": "Marvell Stock Jumps On Google Chip, Investment Deal",
+   "t": "CrowdStrike Stock Likely To Swing On Earnings. This Trade Generates A Return From The Moves.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/marvell-stock-jumps-on-google-chip-investment-deal/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/research/options/crowdstrike-stock-crwd-cybersecurity-tech-options-market-trade-earnings-volatility/?src=A00220&yptr=yahoo"
   },
   {
    "t": "南寶：折疊螢幕用光學透明膠技術突破　已小量出貨",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190306.aspx"
   },
   {
-   "t": "US appeals court revives Signature Bank collapse lawsuit despite FDIC objection",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq gain steam as bonds rally, Trump pauses tariffs on Canadian goods",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/us-appeals-court-revives-signature-161510082.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html"
   },
   {
    "t": "三陽攜手美穀物暨生質產品協會　合推低碳燃油運輸",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190305.aspx"
   },
   {
-   "t": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026:  Crypto prices rise after SEC announces proposed regulation",
+   "t": "MemeCore Commits $1B in Tokens to ZeroStack",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/memecore-commits-1b-tokens-zerostack-164000646.html"
   },
   {
    "t": "房市降溫預售解約去年3619件創高　今年前7月破3000",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190303.aspx"
   },
   {
-   "t": "Dollar Cost Averaging Into the SCHG ETF Worked for Ten Years. This Year It Is Buying You Less Than the SPY.",
+   "t": "Strategy Rockets 13%, Bitmine Immersion Technologies Rallies 13%, Coinbase Jumps 11% as Bitcoin Surges Past $68,000",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dollar-cost-averaging-schg-etf-163537797.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-rockets-13-bitmine-immersion-163829429.html"
   }
  ],
  "inst": {
