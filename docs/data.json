@@ -1,214 +1,214 @@
 {
- "generatedAt": "2026-08-20 04:48（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 05:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2380.0,
-   "c": -0.83,
-   "a50": 2384.7,
-   "a200": 1953.7,
+   "p": 2350.0,
+   "c": -1.26,
+   "a50": 2385.6,
+   "a200": 1958.15,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2362.25,
-   "r": 50.3
+   "a20": 2359.75,
+   "r": 47.4
   },
   {
    "s": "2317.TW",
-   "p": 249.0,
-   "c": -2.35,
-   "a50": 251.79,
-   "a200": 235.79,
+   "p": 245.0,
+   "c": -1.61,
+   "a50": 251.14,
+   "a200": 235.8,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.92,
-   "r": 46.8
+   "a20": 253.6,
+   "r": 44.3
   },
   {
    "s": "2308.TW",
-   "p": 1820.0,
-   "c": -3.45,
-   "a50": 1892.1,
-   "a200": 1530.3,
+   "p": 1765.0,
+   "c": -3.02,
+   "a50": 1879.1,
+   "a200": 1534.02,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1730.5,
-   "r": 51.5
+   "a20": 1724.75,
+   "r": 47.8
   },
   {
    "s": "2454.TW",
-   "p": 3885.0,
-   "c": -4.07,
-   "a50": 3979.1,
-   "a200": 2474.28,
+   "p": 3845.0,
+   "c": -1.03,
+   "a50": 3966.5,
+   "a200": 2486.85,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3818.5,
-   "r": 49.7
+   "a20": 3818.25,
+   "r": 48.6
   },
   {
    "s": "2327.TW",
    "p": 576.0,
-   "c": -5.26,
-   "a50": 790.39,
-   "a200": 432.7,
+   "c": 0.0,
+   "a50": 785.39,
+   "a200": 434.54,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 588.02,
+   "a20": 581.67,
    "r": 42.4
   },
   {
    "s": "1802.TW",
-   "p": 56.5,
-   "c": -3.91,
-   "a50": 60.5,
-   "a200": 52.57,
+   "p": 57.1,
+   "c": 1.06,
+   "a50": 60.38,
+   "a200": 52.72,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.68,
-   "r": 50.5
+   "a20": 52.76,
+   "r": 51.7
   },
   {
    "s": "6862.TW",
-   "p": 137.0,
-   "c": -2.49,
-   "a50": 168.55,
-   "a200": 176.98,
+   "p": 137.5,
+   "c": 0.36,
+   "a50": 167.23,
+   "a200": 176.64,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 139.93,
-   "r": 39.7
+   "a20": 139.18,
+   "r": 40.2
   },
   {
    "s": "3701.TW",
-   "p": 39.35,
-   "c": -4.14,
-   "a50": 42.62,
-   "a200": 48.87,
+   "p": 39.25,
+   "c": -0.25,
+   "a50": 42.36,
+   "a200": 48.88,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.62,
-   "r": 44.7
+   "a20": 39.59,
+   "r": 44.4
   },
   {
    "s": "4722.TW",
-   "p": 206.0,
-   "c": -5.5,
-   "a50": 236.83,
-   "a200": 199.24,
+   "p": 203.0,
+   "c": -1.46,
+   "a50": 235.99,
+   "a200": 199.28,
    "yh": 306.5,
    "yl": 107.0,
-   "a20": 203.58,
-   "r": 45.6
+   "a20": 202.62,
+   "r": 44.6
   },
   {
    "s": "6706.TW",
-   "p": 118.5,
-   "c": -4.05,
-   "a50": 132.33,
-   "a200": 126.84,
+   "p": 115.5,
+   "c": -2.53,
+   "a50": 131.11,
+   "a200": 127.06,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 110.37,
-   "r": 49.4
+   "a20": 110.32,
+   "r": 47.3
   },
   {
    "s": "2305.TW",
-   "p": 27.6,
-   "c": -3.33,
-   "a50": 32.32,
-   "a200": 18.72,
+   "p": 26.8,
+   "c": -2.9,
+   "a50": 32.4,
+   "a200": 18.79,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 29.74,
-   "r": 43.6
+   "a20": 29.39,
+   "r": 41.9
   },
   {
    "s": "6442.TW",
-   "p": 1555.0,
-   "c": -4.6,
-   "a50": 1544.7,
-   "a200": 1595.74,
+   "p": 1530.0,
+   "c": -1.61,
+   "a50": 1533.3,
+   "a200": 1599.34,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1376.5,
-   "r": 55.4
+   "a20": 1383.75,
+   "r": 53.9
   },
   {
    "s": "6515.TW",
-   "p": 6315.0,
-   "c": -4.46,
-   "a50": 7597.9,
-   "a200": 6032.95,
+   "p": 6370.0,
+   "c": 0.87,
+   "a50": 7553.1,
+   "a200": 6052.48,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6442.0,
-   "r": 42.2
+   "a20": 6435.5,
+   "r": 43.1
   },
   {
    "s": "6446.TW",
    "p": 1400.0,
-   "c": -0.71,
-   "a50": 1173.47,
-   "a200": 715.61,
+   "c": 0.0,
+   "a50": 1183.62,
+   "a200": 720.29,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1258.5,
+   "a20": 1269.5,
    "r": 59.5
   },
   {
    "s": "3324.TWO",
-   "p": 978.0,
-   "c": -2.69,
-   "a50": 976.58,
-   "a200": 998.24,
+   "p": 989.0,
+   "c": 1.12,
+   "a50": 974.16,
+   "a200": 998.21,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 960.6,
-   "r": 50.2
+   "a20": 964.65,
+   "r": 51.7
   },
   {
    "s": "3491.TWO",
-   "p": 1250.0,
-   "c": -6.02,
-   "a50": 1311.94,
-   "a200": 1199.03,
+   "p": 1225.0,
+   "c": -2.0,
+   "a50": 1300.24,
+   "a200": 1202.87,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1209.35,
-   "r": 48.9
+   "a20": 1205.6,
+   "r": 47.4
   },
   {
    "s": "3585.TWO",
-   "p": 49.15,
-   "c": -4.38,
-   "a50": 59.94,
-   "a200": 41.84,
+   "p": 48.1,
+   "c": -2.14,
+   "a50": 59.34,
+   "a200": 42.01,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.59,
-   "r": 45.2
+   "a20": 47.5,
+   "r": 43.8
   },
   {
    "s": "6223.TWO",
-   "p": 5270.0,
-   "c": -9.14,
-   "a50": 6211.2,
-   "a200": 4056.15,
+   "p": 5255.0,
+   "c": -0.28,
+   "a50": 6198.6,
+   "a200": 4073.32,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5860.25,
-   "r": 39.7
+   "a20": 5823.0,
+   "r": 39.5
   },
   {
    "s": "6750.TWO",
-   "p": 55.1,
-   "c": 0.0,
-   "a50": 60.56,
-   "a200": 56.84,
+   "p": 55.0,
+   "c": -0.18,
+   "a50": 60.34,
+   "a200": 56.89,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.21,
-   "r": 43.8
+   "a20": 55.14,
+   "r": 43.6
   },
   {
    "s": "AAPL",
@@ -258,72 +258,72 @@
    "s": "^TWII",
    "p": 45308.68,
    "c": -1.2,
-   "a50": 44794.89,
-   "a200": 36087.01,
+   "a50": 44895.47,
+   "a200": 35839.31,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 44010.42,
-   "r": 54.8
+   "a20": 43869.2,
+   "r": 54.2
   },
   {
    "s": "^GSPC",
    "p": 7707.98,
    "c": 0.21,
-   "a50": 7525.33,
-   "a200": 7078.14,
+   "a50": 7527.81,
+   "a200": 7087.61,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7617.34,
-   "r": 57.5
+   "a20": 7619.66,
+   "r": 57.4
   },
   {
    "s": "^VIX",
    "p": 14.89,
    "c": -6.0,
-   "a50": 17.1,
-   "a200": 18.51,
+   "a50": 16.98,
+   "a200": 18.5,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.44,
-   "r": 44.0
+   "a20": 16.31,
+   "r": 44.3
   },
   {
    "s": "BZ=F",
-   "p": 91.41,
-   "c": 0.43,
-   "a50": 83.76,
+   "p": 91.57,
+   "c": 0.6,
+   "a50": 83.77,
    "a200": 82.15,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.15,
-   "r": 57.2
+   "r": 57.4
   },
   {
    "s": "GC=F",
-   "p": 4577.6,
-   "c": 4.85,
-   "a50": 4162.26,
-   "a200": 4493.32,
+   "p": 4580.7,
+   "c": 4.92,
+   "a50": 4162.33,
+   "a200": 4493.34,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4231.28,
-   "r": 71.5
+   "a20": 4231.43,
+   "r": 71.6
   },
   {
    "s": "HG=F",
-   "p": 6.5,
-   "c": 0.28,
+   "p": 6.51,
+   "c": 0.4,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 51.7
+   "r": 52.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03139717,
-   "c": -0.01,
+   "c": 0.0,
    "a50": 0.03121099,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190319.aspx"
   },
   {
-   "t": "Strong AI Infrastructure Orders Drive Confidence in Cisco Systems (CSCO)",
+   "t": "New Prediction Market Novig Sees $125 Million In Trading Volumes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/strong-ai-infrastructure-orders-drive-121646291.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/prediction-market-novig-sees-125-133600488.html"
   },
   {
    "t": "今彩539第115201期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190309.aspx"
   },
   {
-   "t": "Home Depot Beats Estimates in a “Frozen” Housing Market",
+   "t": "Comcast expands Xfinity security offerings to deepen broadband customer ties",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/home-depot-beats-estimates-frozen-122124759.html"
+   "u": "https://finance.yahoo.com/technology/articles/comcast-expands-xfinity-security-offerings-133318080.html"
   },
   {
    "t": "國銀外幣存款寫新高　上半年增逾兆元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190307.aspx"
   },
   {
-   "t": "Investors’ Focus on Higher Capital Spending Weighed on Northrop Grumman (NOC)",
+   "t": "Everforth (EFOR) Positioned to Deliver Modern IT Solutions as Demand Nomalizes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/investors-focus-higher-capital-spending-122045999.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/everforth-efor-positioned-deliver-modern-133507845.html"
   },
   {
    "t": "南寶：折疊螢幕用光學透明膠技術突破　已小量出貨",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190306.aspx"
   },
   {
-   "t": "Soybean Gains Extending to Tuesday Morning Following Lower Tour Pod Counts",
+   "t": "Renaissance Technologies Has Taken a New Position in CrowdStrike. What This Means for CRWD Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/soybean-gains-extending-tuesday-morning-122219222.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/renaissance-technologies-taken-position-crowdstrike-133002394.html"
   },
   {
    "t": "三陽攜手美穀物暨生質產品協會　合推低碳燃油運輸",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190305.aspx"
   },
   {
-   "t": "Corn Bulls Pushing Higher on Monday After Ratings Drop, Lower Tour Yields",
+   "t": "He Converted $[240,000] in the Nine Years Between His Last Paycheck and His First RMD. His Brother Converted $0.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-bulls-pushing-higher-monday-122219786.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/converted-240-000-nine-years-133556352.html"
   }
  ],
  "inst": {
