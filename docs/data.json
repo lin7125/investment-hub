@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-19 10:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 10:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2355.0,
-   "c": -1.05,
-   "a50": 2385.7,
-   "a200": 1958.18,
+   "p": 2350.0,
+   "c": -1.26,
+   "a50": 2385.6,
+   "a200": 1958.15,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2360.0,
-   "r": 47.8
+   "a20": 2359.75,
+   "r": 47.4
   },
   {
    "s": "2317.TW",
@@ -25,157 +25,157 @@
   },
   {
    "s": "2308.TW",
-   "p": 1775.0,
-   "c": -2.47,
-   "a50": 1879.3,
-   "a200": 1534.07,
+   "p": 1780.0,
+   "c": -2.2,
+   "a50": 1879.4,
+   "a200": 1534.1,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1725.25,
-   "r": 48.4
+   "a20": 1725.5,
+   "r": 48.7
   },
   {
    "s": "2454.TW",
-   "p": 3855.0,
-   "c": -0.77,
-   "a50": 3966.7,
-   "a200": 2486.9,
+   "p": 3865.0,
+   "c": -0.51,
+   "a50": 3966.9,
+   "a200": 2486.95,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3818.75,
-   "r": 48.9
+   "a20": 3819.25,
+   "r": 49.1
   },
   {
    "s": "2327.TW",
-   "p": 581.0,
-   "c": 0.87,
-   "a50": 785.49,
+   "p": 582.0,
+   "c": 1.04,
+   "a50": 785.51,
    "a200": 434.57,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 581.92,
-   "r": 43.0
+   "a20": 581.98,
+   "r": 43.1
   },
   {
    "s": "1802.TW",
-   "p": 55.7,
-   "c": -1.42,
+   "p": 55.6,
+   "c": -1.59,
    "a50": 60.35,
    "a200": 52.71,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.69,
-   "r": 48.9
+   "a20": 52.68,
+   "r": 48.7
   },
   {
    "s": "6862.TW",
-   "p": 138.5,
-   "c": 1.09,
-   "a50": 167.25,
-   "a200": 176.64,
+   "p": 140.5,
+   "c": 2.55,
+   "a50": 167.29,
+   "a200": 176.66,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 139.22,
-   "r": 41.1
+   "a20": 139.32,
+   "r": 43.0
   },
   {
    "s": "3701.TW",
-   "p": 38.75,
-   "c": -1.52,
+   "p": 38.6,
+   "c": -1.91,
    "a50": 42.35,
    "a200": 48.88,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.57,
-   "r": 43.0
+   "a20": 39.56,
+   "r": 42.6
   },
   {
    "s": "4722.TW",
-   "p": 212.0,
-   "c": 2.91,
-   "a50": 236.17,
+   "p": 211.0,
+   "c": 2.43,
+   "a50": 236.15,
    "a200": 199.32,
    "yh": 306.5,
    "yl": 107.0,
-   "a20": 203.08,
-   "r": 48.0
+   "a20": 203.02,
+   "r": 47.7
   },
   {
    "s": "6706.TW",
-   "p": 118.5,
-   "c": 0.0,
-   "a50": 131.17,
+   "p": 118.0,
+   "c": -0.42,
+   "a50": 131.16,
    "a200": 127.07,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 110.47,
-   "r": 49.4
+   "a20": 110.45,
+   "r": 49.0
   },
   {
    "s": "2305.TW",
-   "p": 27.0,
-   "c": -2.17,
+   "p": 27.05,
+   "c": -1.99,
    "a50": 32.4,
    "a200": 18.79,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 29.4,
-   "r": 42.3
+   "a20": 29.41,
+   "r": 42.4
   },
   {
    "s": "6442.TW",
-   "p": 1540.0,
-   "c": -0.96,
-   "a50": 1533.5,
-   "a200": 1599.4,
+   "p": 1555.0,
+   "c": 0.0,
+   "a50": 1533.8,
+   "a200": 1599.47,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1384.25,
-   "r": 54.5
+   "a20": 1385.0,
+   "r": 55.4
   },
   {
    "s": "6515.TW",
-   "p": 6380.0,
-   "c": 1.03,
-   "a50": 7553.3,
-   "a200": 6052.52,
+   "p": 6400.0,
+   "c": 1.35,
+   "a50": 7553.7,
+   "a200": 6052.62,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6436.0,
-   "r": 43.3
+   "a20": 6437.0,
+   "r": 43.6
   },
   {
    "s": "6446.TW",
-   "p": 1375.0,
-   "c": -1.79,
-   "a50": 1183.12,
-   "a200": 720.17,
+   "p": 1380.0,
+   "c": -1.43,
+   "a50": 1183.22,
+   "a200": 720.19,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1268.25,
-   "r": 57.4
+   "a20": 1268.5,
+   "r": 57.8
   },
   {
    "s": "3324.TWO",
-   "p": 996.0,
-   "c": 1.84,
-   "a50": 974.3,
-   "a200": 998.24,
+   "p": 992.0,
+   "c": 1.43,
+   "a50": 974.22,
+   "a200": 998.22,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 965.0,
-   "r": 52.6
+   "a20": 964.8,
+   "r": 52.1
   },
   {
    "s": "3491.TWO",
-   "p": 1250.0,
-   "c": 0.0,
-   "a50": 1300.74,
-   "a200": 1202.99,
+   "p": 1235.0,
+   "c": -1.2,
+   "a50": 1300.44,
+   "a200": 1202.92,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1206.85,
-   "r": 48.9
+   "a20": 1206.1,
+   "r": 48.0
   },
   {
    "s": "3585.TWO",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5490.0,
-   "c": 4.17,
-   "a50": 6203.3,
-   "a200": 4074.5,
+   "p": 5430.0,
+   "c": 3.04,
+   "a50": 6202.1,
+   "a200": 4074.2,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5834.75,
-   "r": 43.2
+   "a20": 5831.75,
+   "r": 42.3
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44831.16,
-   "c": -2.24,
-   "a50": 44885.92,
-   "a200": 35836.92,
+   "p": 44781.17,
+   "c": -1.16,
+   "a50": 44820.45,
+   "a200": 36172.15,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43845.32,
-   "r": 51.6
+   "a20": 44008.19,
+   "r": 51.4
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.84,
-   "c": 1.07,
+   "p": 91.95,
+   "c": 1.19,
    "a50": 83.84,
    "a200": 82.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.32,
-   "r": 57.7
+   "a20": 88.33,
+   "r": 57.9
   },
   {
    "s": "GC=F",
-   "p": 4409.3,
-   "c": -0.19,
-   "a50": 4158.3,
-   "a200": 4490.66,
+   "p": 4408.5,
+   "c": -0.21,
+   "a50": 4158.28,
+   "a200": 4490.65,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4211.91,
+   "a20": 4211.87,
    "r": 65.7
   },
   {
    "s": "HG=F",
    "p": 6.46,
-   "c": -2.15,
+   "c": -2.17,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 49.3
+   "r": 49.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03134796,
-   "c": -0.15,
+   "p": 0.03135779,
+   "c": -0.12,
    "a50": 0.03121099,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190017.aspx"
   },
   {
-   "t": "IBM’s Strengths Are The Reason to Buy Today at $234",
+   "t": "Shein Is Said to Target Up to $27 Billion Valuation in HK IPO",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ibm-strengths-reason-buy-today-135721688.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/shein-said-target-27-billion-143209036.html"
   },
   {
    "t": "美晶片股大跌　國債走低恐長期衝擊經濟",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190010.aspx"
   },
   {
-   "t": "Do Wall Street Analysts Like Aon plc Stock?",
+   "t": "Dollar Slips on Dialed-Back Fed Rate Hike Expectations",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-aon-plc-135824395.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-slips-dialed-back-fed-143125364.html"
   },
   {
    "t": "中東局勢緩和希望渺茫　美股收黑",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190007.aspx"
   },
   {
-   "t": "TTM Technologies (TTMI) Shares Surge Following Strong Results and Outlook Raise",
+   "t": "Thermo Fisher Scientific Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-shares-surge-135734015.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/thermo-fisher-scientific-stock-analyst-143129026.html"
   },
   {
    "t": "美伊談判陷僵局　國際油價升至3週新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190006.aspx"
   },
   {
-   "t": "Extreme Networks (EXTR) Rises on Strong AI Driven Results",
+   "t": "Wheat Prices Are Headed Higher: Buy December SRW Wheat Here",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/extreme-networks-extr-rises-strong-135935138.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/wheat-prices-headed-higher-buy-143354579.html"
   },
   {
    "t": "美伊停火協議到期　歐股大多收跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190002.aspx"
   },
   {
-   "t": "US home builder sentiment ticks up in August but remains weak overall",
+   "t": "Eli Lilly and Company (LLY)’s Weight-Loss Pill Just Won Its First Race in Europe. Novo Nordisk A/S (NVO) Still Has a Head Start",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/us-home-builder-sentiment-ticks-140218719.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-weight-143436219.html"
   },
   {
    "t": "純網銀累虧減少　LINE Bank連7月獲利",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "Target Hospitality (TH) Q2 2026 Earnings Call Transcript",
+   "t": "India launches limited tax amnesty for small foreign asset disclosures",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/target-hospitality-th-q2-2026-135842271.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/india-launches-limited-tax-amnesty-143325445.html"
   }
  ],
  "inst": {
