@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 22:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 22:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 317.14,
-   "c": 2.29,
-   "a50": 309.44,
-   "a200": 281.1,
+   "p": 316.09,
+   "c": 1.95,
+   "a50": 309.42,
+   "a200": 281.09,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 316.06,
-   "r": 54.1
+   "a20": 316.0,
+   "r": 53.3
   },
   {
    "s": "NVDA",
-   "p": 217.0,
-   "c": -1.25,
+   "p": 217.26,
+   "c": -1.13,
    "a50": 207.11,
-   "a200": 195.17,
+   "a200": 195.18,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.35,
-   "r": 53.6
+   "a20": 212.36,
+   "r": 53.9
   },
   {
    "s": "TSLA",
-   "p": 338.4,
-   "c": 0.45,
-   "a50": 367.01,
-   "a200": 404.34,
+   "p": 339.66,
+   "c": 0.83,
+   "a50": 367.03,
+   "a200": 404.35,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 323.74,
-   "r": 47.2
+   "a20": 323.81,
+   "r": 47.9
   },
   {
    "s": "META",
-   "p": 545.86,
-   "c": 0.4,
-   "a50": 594.18,
+   "p": 546.88,
+   "c": 0.59,
+   "a50": 594.2,
    "a200": 625.08,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 581.75,
-   "r": 37.0
+   "a20": 581.8,
+   "r": 37.4
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7711.58,
-   "c": 0.26,
-   "a50": 7527.88,
-   "a200": 7087.63,
+   "p": 7716.7,
+   "c": 0.32,
+   "a50": 7527.98,
+   "a200": 7087.65,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7619.84,
-   "r": 57.7
+   "a20": 7620.1,
+   "r": 58.0
   },
   {
    "s": "^VIX",
-   "p": 15.29,
-   "c": -3.47,
+   "p": 15.28,
+   "c": -3.54,
    "a50": 16.99,
    "a200": 18.51,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.36,
-   "c": 0.37,
-   "a50": 83.76,
-   "a200": 82.14,
+   "p": 91.6,
+   "c": 0.64,
+   "a50": 83.77,
+   "a200": 82.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.14,
-   "r": 57.1
+   "a20": 88.16,
+   "r": 57.5
   },
   {
    "s": "GC=F",
-   "p": 4520.4,
-   "c": 3.54,
-   "a50": 4161.12,
-   "a200": 4493.04,
+   "p": 4531.8,
+   "c": 3.8,
+   "a50": 4161.35,
+   "a200": 4493.09,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4228.42,
-   "r": 69.3
+   "a20": 4228.99,
+   "r": 69.8
   },
   {
    "s": "HG=F",
    "p": 6.47,
-   "c": -0.26,
+   "c": -0.24,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 49.4
+   "r": 49.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": 0.02,
+   "p": 0.03138732,
+   "c": -0.02,
    "a50": 0.03121099,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190307.aspx"
   },
   {
-   "t": "Target lifts annual forecasts again as Fiddelke's turnaround takes root",
+   "t": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/target-lifts-annual-forecasts-again-135611862.html"
+   "u": "https://finance.yahoo.com/markets/article/tech-sell-off-resumes-counterbalancing-bond-yield-relief-alphacheck-141446892.html"
   },
   {
    "t": "南寶：折疊螢幕用光學透明膠技術突破　已小量出貨",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190306.aspx"
   },
   {
-   "t": "Chinese Robot Developer Unitree Soars 460% On Blockbuster IPO",
+   "t": "Stock market today: Dow, S&P 500 gain steam as bonds rally, Trump pauses tariffs on Canadian goods",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/tesla-unitree-optimus-robots-ai-china/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html"
   },
   {
    "t": "三陽攜手美穀物暨生質產品協會　合推低碳燃油運輸",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190305.aspx"
   },
   {
-   "t": "15 S&P 500 stocks are up 100% or more this year — here's what they have in common",
+   "t": "Target Earnings Double, Outlook Hiked. TGT Stock Jumps To A High.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/15-sp-500-stocks-are-up-100-or-more-this-year--heres-what-they-have-in-common-135448325.html"
+   "u": "https://www.investors.com/news/target-earnings-q2-tgt-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "房市降溫預售解約去年3619件創高　今年前7月破3000",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190303.aspx"
   },
   {
-   "t": "Best CD rates today, Wednesday, August 19, 2026: Earn up to 4.35% APY",
+   "t": "Can Intuit (INTU) Turn AI Disruption Into an Advantage?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-19-2026-earn-up-to-435-apy-100000814.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-turn-ai-disruption-135843920.html"
   },
   {
    "t": "運力受限支撐運價　台驊：第3季航運行情沒問題",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190294.aspx"
   },
   {
-   "t": "American Integrity Insurance (AII) Q2 2026 Earnings Call Transcript",
+   "t": "Dividend Stocks Lost the Yield War But May Still Beat the Market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/american-integrity-insurance-aii-q2-140347861.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dividend-stocks-lost-yield-war-140730677.html"
   }
  ],
  "inst": {
