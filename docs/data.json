@@ -212,18 +212,18 @@
   },
   {
    "s": "AAPL",
-   "p": 317.67,
-   "c": 2.46,
+   "p": 317.6,
+   "c": 2.44,
    "a50": 309.45,
    "a200": 281.1,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 316.08,
-   "r": 54.5
+   "r": 54.4
   },
   {
    "s": "NVDA",
-   "p": 219.71,
+   "p": 219.7,
    "c": -0.02,
    "a50": 207.16,
    "a200": 195.19,
@@ -234,8 +234,8 @@
   },
   {
    "s": "TSLA",
-   "p": 346.54,
-   "c": 2.87,
+   "p": 346.6,
+   "c": 2.89,
    "a50": 367.17,
    "a200": 404.38,
    "yh": 489.88,
@@ -245,8 +245,8 @@
   },
   {
    "s": "META",
-   "p": 549.48,
-   "c": 1.07,
+   "p": 549.59,
+   "c": 1.09,
    "a50": 594.26,
    "a200": 625.1,
    "yh": 780.25,
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7733.82,
+   "p": 7733.89,
    "c": 0.55,
-   "a50": 7525.84,
-   "a200": 7078.27,
+   "a50": 7528.33,
+   "a200": 7087.74,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7618.63,
+   "a20": 7620.96,
    "r": 59.2
   },
   {
    "s": "^VIX",
    "p": 15.2,
    "c": -4.04,
-   "a50": 17.11,
-   "a200": 18.51,
+   "a50": 16.99,
+   "a200": 18.5,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.46,
-   "r": 45.2
+   "a20": 16.33,
+   "r": 45.5
   },
   {
    "s": "BZ=F",
-   "p": 91.71,
-   "c": 0.76,
+   "p": 91.66,
+   "c": 0.7,
    "a50": 83.77,
    "a200": 82.15,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4547.0,
-   "c": 4.15,
-   "a50": 4161.65,
-   "a200": 4493.17,
+   "p": 4545.8,
+   "c": 4.12,
+   "a50": 4161.63,
+   "a200": 4493.16,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4229.75,
+   "a20": 4229.69,
    "r": 70.4
   },
   {
    "s": "HG=F",
    "p": 6.49,
-   "c": 0.11,
+   "c": 0.08,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 51.0
+   "r": 50.9
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190309.aspx"
   },
   {
-   "t": "Aramark’s (ARMK) AI Data Center Push Gains Traction Amid Strong Q3 Results",
+   "t": "Is SAP (SAP) Mispriced as AI Fears Overshadow Its Core ERP Strength?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/aramark-armk-ai-data-center-144447852.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sap-sap-mispriced-ai-fears-144250521.html"
   },
   {
    "t": "國銀外幣存款寫新高　上半年增逾兆元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190307.aspx"
   },
   {
-   "t": "Is SAP (SAP) Mispriced as AI Fears Overshadow Its Core ERP Strength?",
+   "t": "Lennar Corporation (LEN) Collapses as Market Weakness and Spin-off Bite",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sap-sap-mispriced-ai-fears-144250521.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lennar-corporation-len-collapses-market-143846096.html"
   },
   {
    "t": "南寶：折疊螢幕用光學透明膠技術突破　已小量出貨",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190306.aspx"
   },
   {
-   "t": "Lennar Corporation (LEN) Collapses as Market Weakness and Spin-off Bite",
+   "t": "Stock market today: Dow, S&P 500 gain steam as bonds rally, Trump pauses tariffs on Canadian goods",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lennar-corporation-len-collapses-market-143846096.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html"
   },
   {
    "t": "三陽攜手美穀物暨生質產品協會　合推低碳燃油運輸",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190305.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500 gain steam as bonds rally, Trump pauses tariffs on Canadian goods",
+   "t": "Why TJX Stock Dropped Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/etoro-etor-acquisition-spree-signals-142333194.html"
   },
   {
    "t": "房市降溫預售解約去年3619件創高　今年前7月破3000",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190303.aspx"
   },
   {
-   "t": "Why TJX Stock Dropped Today",
+   "t": "Munich Re to acquire cyber insurtech company At-Bay for $575m",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-tjx-stock-dropped-today-144222108.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/munich-acquire-cyber-insurtech-company-143522657.html"
   }
  ],
  "inst": {
