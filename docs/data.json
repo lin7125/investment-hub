@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 22:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 22:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 316.8,
-   "c": 2.18,
-   "a50": 309.44,
-   "a200": 281.1,
+   "p": 316.02,
+   "c": 1.93,
+   "a50": 309.42,
+   "a200": 281.09,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 316.04,
-   "r": 53.8
+   "a20": 316.0,
+   "r": 53.2
   },
   {
    "s": "NVDA",
-   "p": 218.2,
-   "c": -0.7,
-   "a50": 207.13,
-   "a200": 195.18,
+   "p": 219.44,
+   "c": -0.14,
+   "a50": 207.16,
+   "a200": 195.19,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.41,
-   "r": 54.9
+   "a20": 212.47,
+   "r": 56.3
   },
   {
    "s": "TSLA",
-   "p": 341.4,
-   "c": 1.35,
-   "a50": 367.07,
-   "a200": 404.36,
+   "p": 347.74,
+   "c": 3.23,
+   "a50": 367.2,
+   "a200": 404.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 323.89,
-   "r": 48.8
+   "a20": 324.21,
+   "r": 51.9
   },
   {
    "s": "META",
-   "p": 547.28,
-   "c": 0.66,
+   "p": 547.1,
+   "c": 0.63,
    "a50": 594.21,
    "a200": 625.09,
    "yh": 780.25,
    "yl": 525.72,
    "a20": 581.82,
-   "r": 37.5
+   "r": 37.4
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7720.07,
-   "c": 0.37,
-   "a50": 7528.05,
-   "a200": 7087.67,
+   "p": 7730.21,
+   "c": 0.5,
+   "a50": 7528.25,
+   "a200": 7087.72,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7620.27,
-   "r": 58.3
+   "a20": 7620.77,
+   "r": 58.9
   },
   {
    "s": "^VIX",
-   "p": 15.31,
-   "c": -3.35,
+   "p": 15.26,
+   "c": -3.66,
    "a50": 16.99,
    "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.33,
-   "r": 46.0
+   "r": 45.8
   },
   {
    "s": "BZ=F",
-   "p": 91.62,
-   "c": 0.66,
+   "p": 91.72,
+   "c": 0.77,
    "a50": 83.77,
    "a200": 82.15,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.16,
-   "r": 57.5
+   "r": 57.6
   },
   {
    "s": "GC=F",
-   "p": 4537.3,
-   "c": 3.92,
-   "a50": 4161.46,
-   "a200": 4493.12,
+   "p": 4545.5,
+   "c": 4.11,
+   "a50": 4161.62,
+   "a200": 4493.16,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4229.26,
-   "r": 70.0
+   "a20": 4229.67,
+   "r": 70.3
   },
   {
    "s": "HG=F",
-   "p": 6.46,
-   "c": -0.3,
+   "p": 6.48,
+   "c": -0.07,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 49.2
+   "r": 50.2
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190306.aspx"
   },
   {
-   "t": "‘AI Plays in Disguise’ – Analyst Highlights Quanta Services (PWR) as a Promising AI Power Stock",
+   "t": "Target Earnings Double, Outlook Hiked. TGT Stock Jumps To A High.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-plays-disguise-analyst-highlights-141818851.html"
+   "u": "https://www.investors.com/news/target-earnings-q2-tgt-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "三陽攜手美穀物暨生質產品協會　合推低碳燃油運輸",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190305.aspx"
   },
   {
-   "t": "Vestis (VSTS) Delivers Its First Real Pricing Win",
+   "t": "As Nike (NKE) Craters to New Lows, Insiders Are Buying This Rival On The Dip",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/vestis-vsts-delivers-first-real-141518943.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-craters-lows-insiders-142600448.html"
   },
   {
    "t": "房市降溫預售解約去年3619件創高　今年前7月破3000",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190303.aspx"
   },
   {
-   "t": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
+   "t": "eToro’s (ETOR) Acquisition Spree Signals A Bigger Ambition Than Trading",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/tech-sell-off-resumes-counterbalancing-bond-yield-relief-alphacheck-141446892.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/etoro-etor-acquisition-spree-signals-142333194.html"
   },
   {
    "t": "運力受限支撐運價　台驊：第3季航運行情沒問題",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190294.aspx"
   },
   {
-   "t": "Two Yields, One SPYI ETF: 12% for the Marketing, 0.47% for the SEC",
+   "t": "Munich Re to acquire cyber insurtech company At-Bay for $575m",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/two-yields-one-spyi-etf-142033277.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/munich-acquire-cyber-insurtech-company-143522657.html"
   }
  ],
  "inst": {
