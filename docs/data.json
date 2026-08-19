@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 10:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 11:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,91 +14,91 @@
   },
   {
    "s": "2317.TW",
-   "p": 245.5,
-   "c": -1.41,
-   "a50": 251.15,
+   "p": 246.0,
+   "c": -1.2,
+   "a50": 251.16,
    "a200": 235.81,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.62,
-   "r": 44.6
+   "a20": 253.65,
+   "r": 44.9
   },
   {
    "s": "2308.TW",
-   "p": 1775.0,
-   "c": -2.47,
-   "a50": 1879.3,
-   "a200": 1534.07,
+   "p": 1765.0,
+   "c": -3.02,
+   "a50": 1879.1,
+   "a200": 1534.02,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1725.25,
-   "r": 48.4
+   "a20": 1724.75,
+   "r": 47.8
   },
   {
    "s": "2454.TW",
-   "p": 3840.0,
-   "c": -1.16,
-   "a50": 3966.4,
-   "a200": 2486.82,
+   "p": 3835.0,
+   "c": -1.29,
+   "a50": 3966.3,
+   "a200": 2486.8,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3818.0,
-   "r": 48.4
+   "a20": 3817.75,
+   "r": 48.3
   },
   {
    "s": "2327.TW",
-   "p": 572.0,
-   "c": -0.69,
-   "a50": 785.31,
-   "a200": 434.52,
+   "p": 570.0,
+   "c": -1.04,
+   "a50": 785.27,
+   "a200": 434.51,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 581.48,
-   "r": 42.0
+   "a20": 581.38,
+   "r": 41.8
   },
   {
    "s": "1802.TW",
-   "p": 55.9,
-   "c": -1.06,
+   "p": 55.8,
+   "c": -1.24,
    "a50": 60.35,
    "a200": 52.71,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.7,
-   "r": 49.3
+   "a20": 52.69,
+   "r": 49.1
   },
   {
    "s": "6862.TW",
-   "p": 139.0,
-   "c": 1.46,
-   "a50": 167.26,
-   "a200": 176.65,
+   "p": 138.5,
+   "c": 1.09,
+   "a50": 167.25,
+   "a200": 176.64,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 139.25,
-   "r": 41.6
+   "a20": 139.22,
+   "r": 41.1
   },
   {
    "s": "3701.TW",
-   "p": 38.45,
-   "c": -2.29,
+   "p": 38.4,
+   "c": -2.41,
    "a50": 42.35,
    "a200": 48.88,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.55,
-   "r": 42.2
+   "r": 42.1
   },
   {
    "s": "4722.TW",
-   "p": 209.5,
-   "c": 1.7,
-   "a50": 236.12,
+   "p": 209.0,
+   "c": 1.46,
+   "a50": 236.11,
    "a200": 199.31,
    "yh": 306.5,
    "yl": 107.0,
-   "a20": 202.95,
-   "r": 47.1
+   "a20": 202.92,
+   "r": 46.9
   },
   {
    "s": "6706.TW",
@@ -113,91 +113,91 @@
   },
   {
    "s": "2305.TW",
-   "p": 26.9,
-   "c": -2.54,
+   "p": 26.8,
+   "c": -2.9,
    "a50": 32.4,
    "a200": 18.79,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 29.4,
-   "r": 42.1
+   "a20": 29.39,
+   "r": 41.9
   },
   {
    "s": "6442.TW",
-   "p": 1545.0,
-   "c": -0.64,
-   "a50": 1533.6,
-   "a200": 1599.42,
+   "p": 1540.0,
+   "c": -0.96,
+   "a50": 1533.5,
+   "a200": 1599.4,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1384.5,
-   "r": 54.8
+   "a20": 1384.25,
+   "r": 54.5
   },
   {
    "s": "6515.TW",
-   "p": 6315.0,
-   "c": 0.0,
-   "a50": 7552.0,
-   "a200": 6052.2,
+   "p": 6365.0,
+   "c": 0.79,
+   "a50": 7553.0,
+   "a200": 6052.45,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6432.75,
-   "r": 42.2
+   "a20": 6435.25,
+   "r": 43.0
   },
   {
    "s": "6446.TW",
-   "p": 1405.0,
-   "c": 0.36,
-   "a50": 1183.72,
-   "a200": 720.32,
+   "p": 1415.0,
+   "c": 1.07,
+   "a50": 1183.92,
+   "a200": 720.37,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1269.75,
-   "r": 59.8
+   "a20": 1270.25,
+   "r": 60.4
   },
   {
    "s": "3324.TWO",
-   "p": 990.0,
-   "c": 1.23,
-   "a50": 974.18,
-   "a200": 998.22,
+   "p": 986.0,
+   "c": 0.82,
+   "a50": 974.1,
+   "a200": 998.2,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 964.7,
-   "r": 51.8
+   "a20": 964.5,
+   "r": 51.3
   },
   {
    "s": "3491.TWO",
-   "p": 1225.0,
-   "c": -2.0,
-   "a50": 1300.24,
-   "a200": 1202.87,
+   "p": 1220.0,
+   "c": -2.4,
+   "a50": 1300.14,
+   "a200": 1202.84,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1205.6,
-   "r": 47.4
+   "a20": 1205.35,
+   "r": 47.1
   },
   {
    "s": "3585.TWO",
-   "p": 48.0,
-   "c": -2.34,
+   "p": 48.35,
+   "c": -1.63,
    "a50": 59.34,
    "a200": 42.01,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.49,
-   "r": 43.7
+   "a20": 47.51,
+   "r": 44.1
   },
   {
    "s": "6223.TWO",
-   "p": 5445.0,
-   "c": 3.32,
-   "a50": 6202.4,
-   "a200": 4074.28,
+   "p": 5420.0,
+   "c": 2.85,
+   "a50": 6201.9,
+   "a200": 4074.15,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5832.5,
-   "r": 42.5
+   "a20": 5831.25,
+   "r": 42.1
   },
   {
    "s": "6750.TWO",
@@ -256,25 +256,25 @@
   },
   {
    "s": "^TWII",
-   "p": 44697.32,
-   "c": -1.35,
-   "a50": 44818.78,
-   "a200": 36171.73,
+   "p": 44644.46,
+   "c": -2.64,
+   "a50": 44882.18,
+   "a200": 35835.99,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 44004.0,
-   "r": 50.9
+   "a20": 43835.99,
+   "r": 50.6
   },
   {
    "s": "^GSPC",
    "p": 7691.76,
    "c": -0.69,
-   "a50": 7521.76,
-   "a200": 7083.18,
+   "a50": 7522.24,
+   "a200": 7073.97,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7609.21,
-   "r": 56.2
+   "a20": 7604.83,
+   "r": 56.3
   },
   {
    "s": "^VIX",
@@ -289,14 +289,14 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.71,
-   "c": 0.92,
-   "a50": 83.84,
+   "p": 91.53,
+   "c": 0.73,
+   "a50": 83.83,
    "a200": 82.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.31,
-   "r": 57.6
+   "a20": 88.3,
+   "r": 57.3
   },
   {
    "s": "GC=F",
@@ -311,19 +311,19 @@
   },
   {
    "s": "HG=F",
-   "p": 6.46,
-   "c": -2.23,
+   "p": 6.47,
+   "c": -2.09,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 49.0
+   "r": 49.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03135779,
-   "c": -0.11,
+   "p": 0.03134796,
+   "c": -0.15,
    "a50": 0.03121099,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190010.aspx"
   },
   {
-   "t": "Kingsway Corporation (KWY) Has Large Rerating Potential on Execution Discipline",
+   "t": "Dear Wetour Robotics Stock Fans, Mark Your Calendars for August 24",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/kingsway-corporation-kwy-large-rerating-145650333.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-wetour-robotics-stock-fans-151002788.html"
   },
   {
    "t": "中東局勢緩和希望渺茫　美股收黑",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190007.aspx"
   },
   {
-   "t": "Shortage Of Tungsten, Key For AI, Defense, Is Fueling This Stock",
+   "t": "As Apple Builds Custom AI Models for China, Here’s How to Play AAPL Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/tungsten-shortage-almonty-stock-buyback/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/ai/articles/apple-builds-custom-ai-models-150934638.html"
   },
   {
    "t": "美伊談判陷僵局　國際油價升至3週新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190006.aspx"
   },
   {
-   "t": "A Trainwreck in Live Cattle Is Dragging Prices Lower as Lean Hogs Suffer Too",
+   "t": "The Numbers Behind Assured Guaranty’s (AGO) Record-Setting Quarter",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/trainwreck-live-cattle-dragging-prices-145446812.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/numbers-behind-assured-guaranty-ago-150922259.html"
   },
   {
    "t": "美伊停火協議到期　歐股大多收跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190002.aspx"
   },
   {
-   "t": "Venezuela’s Oil Revival Accelerates as U.S. Majors Push Trump’s New Energy Order",
+   "t": "Corvus Pharmaceuticals (CRVS): This Clinical-Stage Drugmaker Just Got A Lot More Interesting",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/venezuela-oil-revival-accelerates-u-150000465.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/corvus-pharmaceuticals-crvs-clinical-stage-151652950.html"
   },
   {
    "t": "純網銀累虧減少　LINE Bank連7月獲利",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "Generation Income Properties Cuts Q2 Loss 76% as Nasdaq Equity Compliance Is Restored",
+   "t": "Surgery Partners (SGRY) Q2 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/generation-income-properties-cuts-q2-145715619.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/surgery-partners-sgry-q2-2026-151417511.html"
   }
  ],
  "inst": {
