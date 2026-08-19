@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 01:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 02:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,40 +212,40 @@
   },
   {
    "s": "AAPL",
-   "p": 315.39,
-   "c": 1.73,
+   "p": 315.26,
+   "c": 1.69,
    "a50": 309.41,
    "a200": 281.09,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 315.97,
-   "r": 52.7
+   "a20": 315.96,
+   "r": 52.6
   },
   {
    "s": "NVDA",
-   "p": 219.22,
-   "c": -0.24,
+   "p": 219.3,
+   "c": -0.2,
    "a50": 207.15,
-   "a200": 195.18,
+   "a200": 195.19,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.46,
-   "r": 56.0
+   "a20": 212.47,
+   "r": 56.1
   },
   {
    "s": "TSLA",
-   "p": 347.2,
-   "c": 3.07,
-   "a50": 367.18,
+   "p": 348.0,
+   "c": 3.3,
+   "a50": 367.2,
    "a200": 404.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 324.18,
-   "r": 51.7
+   "a20": 324.22,
+   "r": 52.0
   },
   {
    "s": "META",
-   "p": 552.31,
+   "p": 552.32,
    "c": 1.59,
    "a50": 594.31,
    "a200": 625.11,
@@ -258,45 +258,45 @@
    "s": "^TWII",
    "p": 45308.68,
    "c": -1.2,
-   "a50": 44794.89,
-   "a200": 36087.01,
+   "a50": 44895.47,
+   "a200": 35839.31,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 44010.42,
-   "r": 54.8
+   "a20": 43869.2,
+   "r": 54.2
   },
   {
    "s": "^GSPC",
-   "p": 7715.26,
-   "c": 0.31,
-   "a50": 7525.47,
-   "a200": 7078.17,
+   "p": 7718.16,
+   "c": 0.34,
+   "a50": 7528.01,
+   "a200": 7087.66,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7617.71,
-   "r": 58.0
+   "a20": 7620.17,
+   "r": 58.1
   },
   {
    "s": "^VIX",
-   "p": 15.27,
-   "c": -3.6,
-   "a50": 16.99,
-   "a200": 18.5,
+   "p": 15.22,
+   "c": -3.91,
+   "a50": 17.11,
+   "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.33,
-   "r": 45.6
+   "a20": 16.46,
+   "r": 45.3
   },
   {
    "s": "BZ=F",
-   "p": 92.24,
-   "c": 1.34,
+   "p": 92.16,
+   "c": 1.25,
    "a50": 83.78,
    "a200": 82.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.19,
-   "r": 58.3
+   "a20": 88.18,
+   "r": 58.2
   },
   {
    "s": "GC=F",
@@ -312,18 +312,18 @@
   {
    "s": "HG=F",
    "p": 6.49,
-   "c": 0.18,
+   "c": 0.15,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 51.3
+   "r": 51.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03138732,
-   "c": -0.02,
+   "p": 0.03139717,
+   "c": 0.0,
    "a50": 0.03121099,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190319.aspx"
   },
   {
-   "t": "US Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
+   "t": "Analog Devices Tops Views On Strong Data Center, Industrial Chip Sales",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/us-treasury-double-sizes-debt-134308742.html"
+   "u": "https://www.investors.com/news/technology/adi-stock-analog-devices-fiscal-q3-2026-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115201期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190309.aspx"
   },
   {
-   "t": "Tencent Music (TME) Turns Streaming Into A Sprawling Entertainment Machine",
+   "t": "The Treasury Department just pushed down long-term US bond yields. That could make Kevin Warsh's job harder.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tencent-music-tme-turns-streaming-172444596.html"
+   "u": "https://finance.yahoo.com/economy/policy/article/the-treasury-department-just-pushed-down-long-term-us-bond-yields-that-could-make-kevin-warshs-job-harder-174238269.html"
   },
   {
    "t": "國銀外幣存款寫新高　上半年增逾兆元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190307.aspx"
   },
   {
-   "t": "Tech stocks today: OpenAI's growth disappoints, Meta trial continues",
+   "t": "US CFTC seeks comment on compute derivatives as AI demand grows",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-openais-growth-disappoints-meta-trial-continues-132945569.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/us-cftc-seeks-compute-derivatives-173923161.html"
   },
   {
    "t": "南寶：折疊螢幕用光學透明膠技術突破　已小量出貨",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190306.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as bonds rally, Moderna stock skyrockets",
+   "t": "US Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/us-treasury-double-sizes-debt-134308742.html"
   },
   {
    "t": "三陽攜手美穀物暨生質產品協會　合推低碳燃油運輸",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190305.aspx"
   },
   {
-   "t": "EU approves Mercedes, BMW and Seres joint control of Ionchi",
+   "t": "3 Reasons I'd Trust This 5.8%-Yielding Dividend Right Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/eu-approves-mercedes-bmw-seres-173519418.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-id-trust-5-175000325.html"
   }
  ],
  "inst": {
