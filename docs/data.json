@@ -1,213 +1,213 @@
 {
- "generatedAt": "2026-08-19 05:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 10:09（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2380.0,
-   "c": -0.83,
-   "a50": 2384.7,
-   "a200": 1953.7,
+   "p": 2355.0,
+   "c": -1.05,
+   "a50": 2385.7,
+   "a200": 1958.18,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2362.25,
-   "r": 50.3
+   "a20": 2360.0,
+   "r": 47.8
   },
   {
    "s": "2317.TW",
-   "p": 249.0,
-   "c": -2.35,
-   "a50": 251.79,
-   "a200": 235.79,
+   "p": 245.5,
+   "c": -1.41,
+   "a50": 251.15,
+   "a200": 235.81,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.92,
-   "r": 46.8
+   "a20": 253.62,
+   "r": 44.6
   },
   {
    "s": "2308.TW",
-   "p": 1820.0,
-   "c": -3.45,
-   "a50": 1892.1,
-   "a200": 1530.3,
+   "p": 1775.0,
+   "c": -2.47,
+   "a50": 1879.3,
+   "a200": 1534.07,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1730.5,
-   "r": 51.5
+   "a20": 1725.25,
+   "r": 48.4
   },
   {
    "s": "2454.TW",
-   "p": 3885.0,
-   "c": -4.07,
-   "a50": 3979.1,
-   "a200": 2474.28,
+   "p": 3855.0,
+   "c": -0.77,
+   "a50": 3966.7,
+   "a200": 2486.9,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3818.5,
-   "r": 49.7
+   "a20": 3818.75,
+   "r": 48.9
   },
   {
    "s": "2327.TW",
-   "p": 576.0,
-   "c": -5.26,
-   "a50": 790.39,
-   "a200": 432.7,
+   "p": 581.0,
+   "c": 0.87,
+   "a50": 785.49,
+   "a200": 434.57,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 588.02,
-   "r": 42.4
+   "a20": 581.92,
+   "r": 43.0
   },
   {
    "s": "1802.TW",
-   "p": 56.5,
-   "c": -3.91,
-   "a50": 60.5,
-   "a200": 52.57,
+   "p": 55.7,
+   "c": -1.42,
+   "a50": 60.35,
+   "a200": 52.71,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.68,
-   "r": 50.5
+   "a20": 52.69,
+   "r": 48.9
   },
   {
    "s": "6862.TW",
-   "p": 137.0,
-   "c": -2.49,
-   "a50": 168.55,
-   "a200": 176.98,
+   "p": 138.5,
+   "c": 1.09,
+   "a50": 167.25,
+   "a200": 176.64,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 139.93,
-   "r": 39.7
+   "a20": 139.22,
+   "r": 41.1
   },
   {
    "s": "3701.TW",
-   "p": 39.35,
-   "c": -4.14,
-   "a50": 42.62,
-   "a200": 48.87,
+   "p": 38.75,
+   "c": -1.52,
+   "a50": 42.35,
+   "a200": 48.88,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.62,
-   "r": 44.7
+   "a20": 39.57,
+   "r": 43.0
   },
   {
    "s": "4722.TW",
-   "p": 206.0,
-   "c": -5.5,
-   "a50": 236.83,
-   "a200": 199.24,
+   "p": 212.0,
+   "c": 2.91,
+   "a50": 236.17,
+   "a200": 199.32,
    "yh": 306.5,
-   "yl": 97.3,
-   "a20": 203.58,
-   "r": 45.6
+   "yl": 107.0,
+   "a20": 203.08,
+   "r": 48.0
   },
   {
    "s": "6706.TW",
    "p": 118.5,
-   "c": -4.05,
-   "a50": 132.33,
-   "a200": 126.84,
+   "c": 0.0,
+   "a50": 131.17,
+   "a200": 127.07,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 110.37,
+   "a20": 110.47,
    "r": 49.4
   },
   {
    "s": "2305.TW",
-   "p": 27.6,
-   "c": -3.33,
-   "a50": 32.32,
-   "a200": 18.72,
+   "p": 27.0,
+   "c": -2.17,
+   "a50": 32.4,
+   "a200": 18.79,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 29.74,
-   "r": 43.6
+   "a20": 29.4,
+   "r": 42.3
   },
   {
    "s": "6442.TW",
-   "p": 1555.0,
-   "c": -4.6,
-   "a50": 1544.7,
-   "a200": 1595.74,
+   "p": 1540.0,
+   "c": -0.96,
+   "a50": 1533.5,
+   "a200": 1599.4,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1376.5,
-   "r": 55.4
+   "a20": 1384.25,
+   "r": 54.5
   },
   {
    "s": "6515.TW",
-   "p": 6315.0,
-   "c": -4.46,
-   "a50": 7597.9,
-   "a200": 6032.95,
+   "p": 6380.0,
+   "c": 1.03,
+   "a50": 7553.3,
+   "a200": 6052.52,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6442.0,
-   "r": 42.2
+   "a20": 6436.0,
+   "r": 43.3
   },
   {
    "s": "6446.TW",
-   "p": 1400.0,
-   "c": -0.71,
-   "a50": 1173.47,
-   "a200": 715.61,
+   "p": 1375.0,
+   "c": -1.79,
+   "a50": 1183.12,
+   "a200": 720.17,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1258.5,
-   "r": 59.5
+   "a20": 1268.25,
+   "r": 57.4
   },
   {
    "s": "3324.TWO",
-   "p": 978.0,
-   "c": -2.69,
-   "a50": 976.58,
+   "p": 996.0,
+   "c": 1.84,
+   "a50": 974.3,
    "a200": 998.24,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 960.6,
-   "r": 50.2
+   "a20": 965.0,
+   "r": 52.6
   },
   {
    "s": "3491.TWO",
    "p": 1250.0,
-   "c": -6.02,
-   "a50": 1311.94,
-   "a200": 1199.03,
+   "c": 0.0,
+   "a50": 1300.74,
+   "a200": 1202.99,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1209.35,
+   "a20": 1206.85,
    "r": 48.9
   },
   {
    "s": "3585.TWO",
-   "p": 49.15,
-   "c": -4.38,
-   "a50": 59.94,
-   "a200": 41.84,
+   "p": 48.6,
+   "c": -1.12,
+   "a50": 59.35,
+   "a200": 42.01,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.59,
-   "r": 45.2
+   "a20": 47.52,
+   "r": 44.5
   },
   {
    "s": "6223.TWO",
-   "p": 5270.0,
-   "c": -9.14,
-   "a50": 6211.2,
-   "a200": 4056.15,
+   "p": 5490.0,
+   "c": 4.17,
+   "a50": 6203.3,
+   "a200": 4074.5,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5860.25,
-   "r": 39.7
+   "a20": 5834.75,
+   "r": 43.2
   },
   {
    "s": "6750.TWO",
    "p": 55.1,
    "c": 0.0,
-   "a50": 60.56,
-   "a200": 56.84,
+   "a50": 60.35,
+   "a200": 56.89,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.21,
+   "a20": 55.15,
    "r": 43.8
   },
   {
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45857.27,
-   "c": 0.1,
-   "a50": 44790.13,
-   "a200": 35998.91,
+   "p": 44831.16,
+   "c": -2.24,
+   "a50": 44885.92,
+   "a200": 35836.92,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43956.63,
-   "r": 58.5
+   "a20": 43845.32,
+   "r": 51.6
   },
   {
    "s": "^GSPC",
@@ -280,57 +280,105 @@
    "s": "^VIX",
    "p": 15.84,
    "c": 4.28,
-   "a50": 17.06,
+   "a50": 17.13,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.4,
-   "r": 48.3
+   "a20": 16.64,
+   "r": 48.0
   },
   {
    "s": "BZ=F",
-   "p": 91.27,
-   "c": 0.44,
-   "a50": 83.83,
-   "a200": 82.01,
+   "p": 91.84,
+   "c": 1.07,
+   "a50": 83.84,
+   "a200": 82.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.29,
-   "r": 57.0
+   "a20": 88.32,
+   "r": 57.7
   },
   {
    "s": "GC=F",
-   "p": 4389.5,
-   "c": -0.64,
-   "a50": 4157.9,
-   "a200": 4490.56,
+   "p": 4409.3,
+   "c": -0.19,
+   "a50": 4158.3,
+   "a200": 4490.66,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4210.92,
-   "r": 63.6
+   "a20": 4211.91,
+   "r": 65.7
   },
   {
    "s": "HG=F",
    "p": 6.46,
-   "c": -2.24,
+   "c": -2.15,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 48.9
+   "r": 49.3
   },
   {
    "s": "TWDUSD",
    "p": 0.03134796,
-   "c": 0.28,
+   "c": -0.15,
    "a50": 0.03121099,
-   "a200": 0.03160556,
+   "a200": 0.03159558,
    "yh": 0.033278,
    "yl": 0.030864
   }
  ],
  "news": [
+  {
+   "t": "美股盡墨費半挫近5%　法人：台股面臨45000點保衛戰",
+   "pub": "中央社財經",
+   "d": "2026-08-19",
+   "u": "https://www.cna.com.tw/news/afe/202608190017.aspx"
+  },
+  {
+   "t": "IBM’s Strengths Are The Reason to Buy Today at $234",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ibm-strengths-reason-buy-today-135721688.html"
+  },
+  {
+   "t": "美晶片股大跌　國債走低恐長期衝擊經濟",
+   "pub": "中央社財經",
+   "d": "2026-08-19",
+   "u": "https://www.cna.com.tw/news/afe/202608190010.aspx"
+  },
+  {
+   "t": "Do Wall Street Analysts Like Aon plc Stock?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-aon-plc-135824395.html"
+  },
+  {
+   "t": "中東局勢緩和希望渺茫　美股收黑",
+   "pub": "中央社財經",
+   "d": "2026-08-19",
+   "u": "https://www.cna.com.tw/news/afe/202608190007.aspx"
+  },
+  {
+   "t": "TTM Technologies (TTMI) Shares Surge Following Strong Results and Outlook Raise",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-shares-surge-135734015.html"
+  },
+  {
+   "t": "美伊談判陷僵局　國際油價升至3週新高",
+   "pub": "中央社財經",
+   "d": "2026-08-19",
+   "u": "https://www.cna.com.tw/news/afe/202608190006.aspx"
+  },
+  {
+   "t": "Extreme Networks (EXTR) Rises on Strong AI Driven Results",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/technology/ai/articles/extreme-networks-extr-rises-strong-135935138.html"
+  },
   {
    "t": "美伊停火協議到期　歐股大多收跌",
    "pub": "中央社財經",
@@ -338,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190002.aspx"
   },
   {
-   "t": "Costco launching Medicare Advantage plans with SCAN Group",
+   "t": "US home builder sentiment ticks up in August but remains weak overall",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/us-home-builder-sentiment-ticks-140218719.html"
   },
   {
    "t": "純網銀累虧減少　LINE Bank連7月獲利",
@@ -350,58 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "Is Wall Street Bullish or Bearish on Akamai Technologies Stock?",
+   "t": "Target Hospitality (TH) Q2 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-akamai-131912873.html"
-  },
-  {
-   "t": "今彩539第115200期　頭獎3注中獎",
-   "pub": "中央社財經",
-   "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/ahel/202608180335.aspx"
-  },
-  {
-   "t": "ChatGPT Disagrees With Michael Burry Over Nebius (NBIS)",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-disagrees-michael-burry-over-131506607.html"
-  },
-  {
-   "t": "大樂透第115080期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/ahel/202608180333.aspx"
-  },
-  {
-   "t": "Alphabet Stock Has Attractive Short-Put Yields As GOOGL Stock Treads Water",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/alphabet-stock-attractive-short-put-131502703.html"
-  },
-  {
-   "t": "國銀中小企業放款上半年大增4026億　創同期新高",
-   "pub": "中央社財經",
-   "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/afe/202608180330.aspx"
-  },
-  {
-   "t": "Uber, Zipline partner on US drone delivery for Uber Eats",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/uber-zipline-partner-us-drone-131513664.html"
-  },
-  {
-   "t": "元太：東京車站試行導入全彩電子紙看板",
-   "pub": "中央社財經",
-   "d": "2026-08-18",
-   "u": "https://www.cna.com.tw/news/afe/202608180329.aspx"
-  },
-  {
-   "t": "Finfluencers Build Trust With Relatability, Rage Bait and GRWM Routines",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://www.wsj.com/cmo-today/finfluencers-build-trust-with-relatability-rage-bait-and-grwm-routines-dbd81456?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/target-hospitality-th-q2-2026-135842271.html"
   }
  ],
  "inst": {
