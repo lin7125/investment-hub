@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-19 12:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 12:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2345.0,
-   "c": -1.47,
-   "a50": 2385.5,
-   "a200": 1958.12,
+   "p": 2340.0,
+   "c": -1.68,
+   "a50": 2385.4,
+   "a200": 1958.1,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2359.5,
-   "r": 46.9
+   "a20": 2359.25,
+   "r": 46.5
   },
   {
    "s": "2317.TW",
@@ -25,14 +25,14 @@
   },
   {
    "s": "2308.TW",
-   "p": 1755.0,
-   "c": -3.57,
-   "a50": 1878.9,
-   "a200": 1533.97,
+   "p": 1750.0,
+   "c": -3.85,
+   "a50": 1878.8,
+   "a200": 1533.94,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1724.25,
-   "r": 47.1
+   "a20": 1724.0,
+   "r": 46.8
   },
   {
    "s": "2454.TW",
@@ -58,14 +58,14 @@
   },
   {
    "s": "1802.TW",
-   "p": 56.8,
-   "c": 0.53,
+   "p": 56.7,
+   "c": 0.35,
    "a50": 60.37,
    "a200": 52.72,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 52.74,
-   "r": 51.1
+   "r": 50.9
   },
   {
    "s": "6862.TW",
@@ -124,14 +124,14 @@
   },
   {
    "s": "6442.TW",
-   "p": 1540.0,
-   "c": -0.96,
-   "a50": 1533.5,
-   "a200": 1599.4,
+   "p": 1535.0,
+   "c": -1.29,
+   "a50": 1533.4,
+   "a200": 1599.37,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1384.25,
-   "r": 54.5
+   "a20": 1384.0,
+   "r": 54.2
   },
   {
    "s": "6515.TW",
@@ -157,30 +157,30 @@
   },
   {
    "s": "3324.TWO",
-   "p": 985.0,
-   "c": 0.72,
-   "a50": 974.08,
-   "a200": 998.19,
+   "p": 986.0,
+   "c": 0.82,
+   "a50": 974.1,
+   "a200": 998.2,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 964.45,
-   "r": 51.1
+   "a20": 964.5,
+   "r": 51.3
   },
   {
    "s": "3491.TWO",
-   "p": 1215.0,
-   "c": -2.8,
-   "a50": 1300.04,
-   "a200": 1202.82,
+   "p": 1220.0,
+   "c": -2.4,
+   "a50": 1300.14,
+   "a200": 1202.84,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1205.1,
-   "r": 46.8
+   "a20": 1205.35,
+   "r": 47.1
   },
   {
    "s": "3585.TWO",
-   "p": 48.05,
-   "c": -2.24,
+   "p": 48.0,
+   "c": -2.34,
    "a50": 59.34,
    "a200": 42.01,
    "yh": 165.0,
@@ -234,14 +234,14 @@
   },
   {
    "s": "TSLA",
-   "p": 339.3,
-   "c": -0.87,
-   "a50": 369.5,
-   "a200": 405.47,
+   "p": 336.87,
+   "c": -0.72,
+   "a50": 368.42,
+   "a200": 404.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.63,
-   "r": 47.4
+   "a20": 325.52,
+   "r": 46.3
   },
   {
    "s": "META",
@@ -256,25 +256,25 @@
   },
   {
    "s": "^TWII",
-   "p": 44592.62,
-   "c": -1.58,
-   "a50": 44816.68,
-   "a200": 36171.21,
+   "p": 44580.81,
+   "c": -1.61,
+   "a50": 44816.45,
+   "a200": 36171.15,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43998.77,
-   "r": 50.3
+   "a20": 43998.18,
+   "r": 50.2
   },
   {
    "s": "^GSPC",
-   "p": 7745.06,
-   "c": -0.52,
-   "a50": 7520.6,
-   "a200": 7069.47,
+   "p": 7691.76,
+   "c": -0.69,
+   "a50": 7521.76,
+   "a200": 7083.18,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7596.93,
-   "r": 61.5
+   "a20": 7609.21,
+   "r": 56.2
   },
   {
    "s": "^VIX",
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4399.8,
+   "p": 4399.4,
    "c": 0.77,
-   "a50": 4158.71,
+   "a50": 4158.7,
    "a200": 4492.43,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4222.39,
+   "a20": 4222.37,
    "r": 63.3
   },
   {
    "s": "HG=F",
    "p": 6.46,
-   "c": -0.39,
+   "c": -0.38,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190047.aspx"
   },
   {
-   "t": "'Fear Gauge' Falls To Year's Low. A Bad Sign For The Stock Market?",
+   "t": "SoFi Just Scored a New 'Buy' Rating. What It Means for SOFI Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/vix-stock-market-fear-gauge/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sofi-just-scored-buy-rating-171249698.html"
   },
   {
    "t": "卓榮泰：盼與韓國瑜共同嚴肅面對憲法　恢復憲政秩序",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aipl/202608190045.aspx"
   },
   {
-   "t": "Stripe Purchase Of AI Firm OpenRouter Unlikely To Derail PayPal Deal",
+   "t": "Why Carrier Global Stock Could Soon Bounce Back",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/paypal-stock-stripe-openrouter-purchase-advent/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-carrier-global-stock-could-171519223.html"
   },
   {
    "t": "Intelligent Asia展會登場　聚焦AI機器人",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190036.aspx"
   },
   {
-   "t": "SoFi Just Scored a New 'Buy' Rating. What It Means for SOFI Stock.",
+   "t": "'Fear Gauge' Falls To Year's Low. A Bad Sign For The Stock Market?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sofi-just-scored-buy-rating-171249698.html"
+   "u": "https://www.investors.com/news/vix-stock-market-fear-gauge/?src=A00220&yptr=yahoo"
   },
   {
    "t": "研華進軍台北自動化展　聚焦3主軸建構智慧工廠",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190033.aspx"
   },
   {
-   "t": "InspireMD, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Stripe Purchase Of AI Firm OpenRouter Unlikely To Derail PayPal Deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/inspiremd-inc-q2-2026-earnings-165107011.html"
+   "u": "https://www.investors.com/news/technology/paypal-stock-stripe-openrouter-purchase-advent/?src=A00220&yptr=yahoo"
   },
   {
    "t": "權值股走跌　台股早盤急跌近千點失守45000點",
