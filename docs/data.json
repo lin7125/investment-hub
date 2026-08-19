@@ -1,181 +1,181 @@
 {
- "generatedAt": "2026-08-19 10:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 10:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2350.0,
-   "c": -1.26,
-   "a50": 2385.6,
-   "a200": 1958.15,
+   "p": 2345.0,
+   "c": -1.47,
+   "a50": 2385.5,
+   "a200": 1958.12,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2359.75,
-   "r": 47.4
+   "a20": 2359.5,
+   "r": 46.9
   },
   {
    "s": "2317.TW",
-   "p": 245.5,
-   "c": -1.41,
-   "a50": 251.15,
-   "a200": 235.81,
+   "p": 244.5,
+   "c": -1.81,
+   "a50": 251.13,
+   "a200": 235.8,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.62,
-   "r": 44.6
+   "a20": 253.58,
+   "r": 44.0
   },
   {
    "s": "2308.TW",
-   "p": 1780.0,
-   "c": -2.2,
-   "a50": 1879.4,
-   "a200": 1534.1,
+   "p": 1765.0,
+   "c": -3.02,
+   "a50": 1879.1,
+   "a200": 1534.02,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1725.5,
-   "r": 48.7
+   "a20": 1724.75,
+   "r": 47.8
   },
   {
    "s": "2454.TW",
-   "p": 3865.0,
-   "c": -0.51,
-   "a50": 3966.9,
-   "a200": 2486.95,
+   "p": 3835.0,
+   "c": -1.29,
+   "a50": 3966.3,
+   "a200": 2486.8,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3819.25,
-   "r": 49.1
+   "a20": 3817.75,
+   "r": 48.3
   },
   {
    "s": "2327.TW",
-   "p": 582.0,
-   "c": 1.04,
-   "a50": 785.51,
-   "a200": 434.57,
+   "p": 570.0,
+   "c": -1.04,
+   "a50": 785.27,
+   "a200": 434.51,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 581.98,
-   "r": 43.1
+   "a20": 581.38,
+   "r": 41.8
   },
   {
    "s": "1802.TW",
-   "p": 55.6,
-   "c": -1.59,
-   "a50": 60.35,
+   "p": 55.4,
+   "c": -1.95,
+   "a50": 60.34,
    "a200": 52.71,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.68,
-   "r": 48.7
+   "a20": 52.67,
+   "r": 48.4
   },
   {
    "s": "6862.TW",
-   "p": 140.5,
-   "c": 2.55,
-   "a50": 167.29,
-   "a200": 176.66,
+   "p": 140.0,
+   "c": 2.19,
+   "a50": 167.28,
+   "a200": 176.65,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 139.32,
-   "r": 43.0
+   "a20": 139.3,
+   "r": 42.5
   },
   {
    "s": "3701.TW",
-   "p": 38.6,
-   "c": -1.91,
+   "p": 38.5,
+   "c": -2.16,
    "a50": 42.35,
    "a200": 48.88,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.56,
-   "r": 42.6
+   "a20": 39.55,
+   "r": 42.4
   },
   {
    "s": "4722.TW",
-   "p": 211.0,
-   "c": 2.43,
-   "a50": 236.15,
-   "a200": 199.32,
+   "p": 205.5,
+   "c": -0.24,
+   "a50": 236.04,
+   "a200": 199.29,
    "yh": 306.5,
    "yl": 107.0,
-   "a20": 203.02,
-   "r": 47.7
+   "a20": 202.75,
+   "r": 45.4
   },
   {
    "s": "6706.TW",
-   "p": 118.0,
-   "c": -0.42,
-   "a50": 131.16,
-   "a200": 127.07,
+   "p": 116.5,
+   "c": -1.69,
+   "a50": 131.13,
+   "a200": 127.06,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 110.45,
-   "r": 49.0
+   "a20": 110.37,
+   "r": 48.0
   },
   {
    "s": "2305.TW",
-   "p": 27.05,
-   "c": -1.99,
+   "p": 26.75,
+   "c": -3.08,
    "a50": 32.4,
    "a200": 18.79,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 29.41,
-   "r": 42.4
+   "a20": 29.39,
+   "r": 41.8
   },
   {
    "s": "6442.TW",
-   "p": 1555.0,
-   "c": 0.0,
-   "a50": 1533.8,
-   "a200": 1599.47,
+   "p": 1525.0,
+   "c": -1.93,
+   "a50": 1533.2,
+   "a200": 1599.32,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1385.0,
-   "r": 55.4
+   "a20": 1383.5,
+   "r": 53.6
   },
   {
    "s": "6515.TW",
-   "p": 6400.0,
-   "c": 1.35,
-   "a50": 7553.7,
-   "a200": 6052.62,
+   "p": 6285.0,
+   "c": -0.48,
+   "a50": 7551.4,
+   "a200": 6052.05,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6437.0,
-   "r": 43.6
+   "a20": 6431.25,
+   "r": 41.8
   },
   {
    "s": "6446.TW",
-   "p": 1380.0,
-   "c": -1.43,
-   "a50": 1183.22,
-   "a200": 720.19,
+   "p": 1395.0,
+   "c": -0.36,
+   "a50": 1183.52,
+   "a200": 720.27,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1268.5,
-   "r": 57.8
+   "a20": 1269.25,
+   "r": 59.1
   },
   {
    "s": "3324.TWO",
-   "p": 992.0,
-   "c": 1.43,
-   "a50": 974.22,
-   "a200": 998.22,
+   "p": 982.0,
+   "c": 0.41,
+   "a50": 974.02,
+   "a200": 998.18,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 964.8,
-   "r": 52.1
+   "a20": 964.3,
+   "r": 50.7
   },
   {
    "s": "3491.TWO",
-   "p": 1235.0,
-   "c": -1.2,
-   "a50": 1300.44,
-   "a200": 1202.92,
+   "p": 1230.0,
+   "c": -1.6,
+   "a50": 1300.34,
+   "a200": 1202.89,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1206.1,
-   "r": 48.0
+   "a20": 1205.85,
+   "r": 47.7
   },
   {
    "s": "3585.TWO",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5430.0,
-   "c": 3.04,
-   "a50": 6202.1,
-   "a200": 4074.2,
+   "p": 5375.0,
+   "c": 1.99,
+   "a50": 6201.0,
+   "a200": 4073.92,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5831.75,
-   "r": 42.3
+   "a20": 5829.0,
+   "r": 41.4
   },
   {
    "s": "6750.TWO",
@@ -256,74 +256,74 @@
   },
   {
    "s": "^TWII",
-   "p": 44781.17,
-   "c": -1.16,
-   "a50": 44820.45,
-   "a200": 36172.15,
+   "p": 44564.58,
+   "c": -1.64,
+   "a50": 44816.12,
+   "a200": 36171.07,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 44008.19,
-   "r": 51.4
+   "a20": 43997.36,
+   "r": 50.1
   },
   {
    "s": "^GSPC",
    "p": 7691.76,
    "c": -0.69,
-   "a50": 7521.76,
-   "a200": 7083.18,
+   "a50": 7522.24,
+   "a200": 7073.97,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7609.21,
-   "r": 56.2
+   "a20": 7604.83,
+   "r": 56.3
   },
   {
    "s": "^VIX",
    "p": 15.84,
    "c": 4.28,
-   "a50": 17.13,
+   "a50": 17.06,
    "a200": 18.52,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.64,
-   "r": 48.0
+   "a20": 16.4,
+   "r": 48.3
   },
   {
    "s": "BZ=F",
-   "p": 91.95,
-   "c": 1.19,
+   "p": 91.88,
+   "c": 1.11,
    "a50": 83.84,
    "a200": 82.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.33,
-   "r": 57.9
+   "a20": 88.32,
+   "r": 57.8
   },
   {
    "s": "GC=F",
-   "p": 4408.5,
-   "c": -0.21,
-   "a50": 4158.28,
-   "a200": 4490.65,
+   "p": 4412.4,
+   "c": -0.12,
+   "a50": 4158.36,
+   "a200": 4490.67,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4211.87,
-   "r": 65.7
+   "a20": 4212.06,
+   "r": 66.1
   },
   {
    "s": "HG=F",
-   "p": 6.46,
-   "c": -2.17,
+   "p": 6.45,
+   "c": -2.29,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 49.2
+   "r": 48.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03135779,
-   "c": -0.12,
+   "p": 0.03134796,
+   "c": -0.15,
    "a50": 0.03121099,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190017.aspx"
   },
   {
-   "t": "Shein Is Said to Target Up to $27 Billion Valuation in HK IPO",
+   "t": "Anthropic Is Reportedly Aiming for a Valuation of $2 Trillion or More. Is It Justifiable?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/shein-said-target-27-billion-143209036.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-reportedly-aiming-valuation-2-143819235.html"
   },
   {
    "t": "美晶片股大跌　國債走低恐長期衝擊經濟",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190010.aspx"
   },
   {
-   "t": "Dollar Slips on Dialed-Back Fed Rate Hike Expectations",
+   "t": "Hawaiian Electric’s (HE) Second Quarter Numbers Mask A Harder Truth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-slips-dialed-back-fed-143125364.html"
+   "u": "https://finance.yahoo.com/energy/articles/hawaiian-electric-second-quarter-numbers-144032558.html"
   },
   {
    "t": "中東局勢緩和希望渺茫　美股收黑",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190007.aspx"
   },
   {
-   "t": "Thermo Fisher Scientific Stock: Analyst Estimates & Ratings",
+   "t": "Wheat Prices Are Headed Higher: Buy December SRW Wheat Here",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/thermo-fisher-scientific-stock-analyst-143129026.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/wheat-prices-headed-higher-buy-143354579.html"
   },
   {
    "t": "美伊談判陷僵局　國際油價升至3週新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190006.aspx"
   },
   {
-   "t": "Wheat Prices Are Headed Higher: Buy December SRW Wheat Here",
+   "t": "Eli Lilly and Company (LLY)’s Weight-Loss Pill Just Won Its First Race in Europe. Novo Nordisk A/S (NVO) Still Has a Head Start",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/wheat-prices-headed-higher-buy-143354579.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-weight-143436219.html"
   },
   {
    "t": "美伊停火協議到期　歐股大多收跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190002.aspx"
   },
   {
-   "t": "Eli Lilly and Company (LLY)’s Weight-Loss Pill Just Won Its First Race in Europe. Novo Nordisk A/S (NVO) Still Has a Head Start",
+   "t": "Veralto’s (VLTO) Dual-Segment Advantage Fuels Long-Term Value",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-weight-143436219.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/veralto-vlto-dual-segment-advantage-144304156.html"
   },
   {
    "t": "純網銀累虧減少　LINE Bank連7月獲利",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "India launches limited tax amnesty for small foreign asset disclosures",
+   "t": "Innovative men's and women's jeans brand files Chapter 11",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/india-launches-limited-tax-amnesty-143325445.html"
+   "u": "https://finance.yahoo.com/small-business/articles/innovative-mens-womens-jeans-brand-143700263.html"
   }
  ],
  "inst": {
