@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 02:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 02:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 219.3,
-   "c": -0.2,
+   "p": 218.97,
+   "c": -0.35,
    "a50": 207.15,
-   "a200": 195.19,
+   "a200": 195.18,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.47,
-   "r": 56.1
+   "a20": 212.45,
+   "r": 55.7
   },
   {
    "s": "TSLA",
-   "p": 348.0,
-   "c": 3.3,
+   "p": 347.72,
+   "c": 3.22,
    "a50": 367.2,
    "a200": 404.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 324.22,
-   "r": 52.0
+   "a20": 324.21,
+   "r": 51.9
   },
   {
    "s": "META",
-   "p": 552.32,
-   "c": 1.59,
-   "a50": 594.31,
+   "p": 551.77,
+   "c": 1.49,
+   "a50": 594.3,
    "a200": 625.11,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 582.08,
-   "r": 39.2
+   "a20": 582.05,
+   "r": 39.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7718.16,
-   "c": 0.34,
-   "a50": 7528.01,
-   "a200": 7087.66,
+   "p": 7711.47,
+   "c": 0.26,
+   "a50": 7525.4,
+   "a200": 7078.15,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7620.17,
-   "r": 58.1
+   "a20": 7617.52,
+   "r": 57.7
   },
   {
    "s": "^VIX",
-   "p": 15.22,
-   "c": -3.91,
+   "p": 15.2,
+   "c": -4.04,
    "a50": 17.11,
    "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.46,
-   "r": 45.3
+   "r": 45.2
   },
   {
    "s": "BZ=F",
-   "p": 92.16,
-   "c": 1.25,
+   "p": 92.23,
+   "c": 1.33,
    "a50": 83.78,
    "a200": 82.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.18,
-   "r": 58.2
+   "a20": 88.19,
+   "r": 58.3
   },
   {
    "s": "GC=F",
-   "p": 4546.2,
-   "c": 4.13,
-   "a50": 4161.64,
-   "a200": 4493.16,
+   "p": 4548.4,
+   "c": 4.18,
+   "a50": 4161.68,
+   "a200": 4493.18,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4229.71,
-   "r": 70.4
+   "a20": 4229.82,
+   "r": 70.5
   },
   {
    "s": "HG=F",
    "p": 6.49,
-   "c": 0.15,
+   "c": 0.09,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 51.2
+   "r": 51.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03139717,
-   "c": 0.0,
+   "c": -0.01,
    "a50": 0.03121099,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190319.aspx"
   },
   {
-   "t": "Analog Devices Tops Views On Strong Data Center, Industrial Chip Sales",
+   "t": "Social Security now poised for big ‘Trump Bump’ in the months ahead — here’s how much extra cash you’ll likely get",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/adi-stock-analog-devices-fiscal-q3-2026-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/policy/articles/social-security-now-poised-big-163000521.html"
   },
   {
    "t": "今彩539第115201期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190309.aspx"
   },
   {
-   "t": "The Treasury Department just pushed down long-term US bond yields. That could make Kevin Warsh's job harder.",
+   "t": "China's Pony.ai plans to deploy more than 4,000 robotaxis abroad",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/article/the-treasury-department-just-pushed-down-long-term-us-bond-yields-that-could-make-kevin-warshs-job-harder-174238269.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/chinas-pony-ais-overseas-robotaxi-090300147.html"
   },
   {
    "t": "國銀外幣存款寫新高　上半年增逾兆元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190307.aspx"
   },
   {
-   "t": "US CFTC seeks comment on compute derivatives as AI demand grows",
+   "t": "Ask an Advisor: I'm 43 With $315K in an IRA, $90K in a Roth and Maxing My 401(k). Is Retirement at 57 Realistic?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/us-cftc-seeks-compute-derivatives-173923161.html"
+   "u": "https://finance.yahoo.com/news/ask-advisor-im-43-old-160032038.html"
   },
   {
    "t": "南寶：折疊螢幕用光學透明膠技術突破　已小量出貨",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190306.aspx"
   },
   {
-   "t": "US Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
+   "t": "AdvanSix (ASIX) Offsets Rising Costs With Pricing As Fertilizer Demand Softens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/us-treasury-double-sizes-debt-134308742.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/advansix-asix-offsets-rising-costs-085557984.html"
   },
   {
    "t": "三陽攜手美穀物暨生質產品協會　合推低碳燃油運輸",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190305.aspx"
   },
   {
-   "t": "3 Reasons I'd Trust This 5.8%-Yielding Dividend Right Now",
+   "t": "Sylvamo’s (SLVM) Rocky Road To A Stronger Second Half",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-id-trust-5-175000325.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sylvamo-slvm-rocky-road-stronger-082838278.html"
   }
  ],
  "inst": {
