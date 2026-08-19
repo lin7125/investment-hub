@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 03:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 03:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,14 +212,14 @@
   },
   {
    "s": "AAPL",
-   "p": 315.04,
-   "c": 1.61,
-   "a50": 309.4,
+   "p": 315.96,
+   "c": 1.91,
+   "a50": 309.42,
    "a200": 281.09,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 315.95,
-   "r": 52.4
+   "a20": 316.0,
+   "r": 53.2
   },
   {
    "s": "NVDA",
@@ -229,30 +229,30 @@
    "a200": 195.19,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.47,
-   "r": 56.3
+   "a20": 212.48,
+   "r": 56.4
   },
   {
    "s": "TSLA",
-   "p": 348.27,
-   "c": 3.38,
+   "p": 348.57,
+   "c": 3.47,
    "a50": 367.21,
    "a200": 404.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 324.24,
-   "r": 52.2
+   "a20": 324.25,
+   "r": 52.3
   },
   {
    "s": "META",
-   "p": 551.7,
-   "c": 1.48,
-   "a50": 594.3,
-   "a200": 625.11,
+   "p": 550.5,
+   "c": 1.26,
+   "a50": 594.28,
+   "a200": 625.1,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 582.05,
-   "r": 39.0
+   "a20": 581.99,
+   "r": 38.6
   },
   {
    "s": "^TWII",
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7715.12,
-   "c": 0.3,
-   "a50": 7525.47,
-   "a200": 7078.17,
+   "p": 7717.91,
+   "c": 0.34,
+   "a50": 7525.53,
+   "a200": 7078.19,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7617.75,
-   "r": 58.0
+   "a20": 7617.84,
+   "r": 58.2
   },
   {
    "s": "^VIX",
-   "p": 15.07,
-   "c": -4.86,
+   "p": 15.03,
+   "c": -5.11,
    "a50": 17.11,
    "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.45,
-   "r": 44.7
+   "r": 44.5
   },
   {
    "s": "BZ=F",
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4550.7,
-   "c": 4.23,
-   "a50": 4161.73,
-   "a200": 4493.19,
+   "p": 4555.9,
+   "c": 4.35,
+   "a50": 4161.83,
+   "a200": 4493.21,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4229.93,
-   "r": 70.5
+   "a20": 4230.19,
+   "r": 70.7
   },
   {
    "s": "HG=F",
-   "p": 6.48,
-   "c": 0.02,
+   "p": 6.49,
+   "c": 0.08,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.5,
-   "r": 50.7
+   "a20": 6.51,
+   "r": 50.9
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190319.aspx"
   },
   {
-   "t": "Do Wall Street Analysts Like Omnicom Group Stock?",
+   "t": "ServiceNow Stock Outlook: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-omnicom-group-100346066.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/servicenow-stock-outlook-wall-street-100830588.html"
   },
   {
    "t": "今彩539第115201期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190309.aspx"
   },
   {
-   "t": "The bond market is daring the Fed to hike: Chart of the Day",
+   "t": "Did the Commodities Complex See Turnaround Activity Overnight?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/the-bond-market-is-daring-the-fed-to-hike-chart-of-the-day-100000601.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/did-commodities-complex-see-turnaround-095943320.html"
   },
   {
    "t": "國銀外幣存款寫新高　上半年增逾兆元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190307.aspx"
   },
   {
-   "t": "CMS Energy Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Do Wall Street Analysts Like Omnicom Group Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cms-energy-stock-wall-street-095613661.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-omnicom-group-100346066.html"
   },
   {
    "t": "南寶：折疊螢幕用光學透明膠技術突破　已小量出貨",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190306.aspx"
   },
   {
-   "t": "Analysis-Canada's pipeline ambitions hinge on uncertain output expansion",
+   "t": "The bond market is daring the Fed to hike: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/analysis-canadas-pipeline-ambitions-hinge-100608458.html"
+   "u": "https://finance.yahoo.com/markets/article/the-bond-market-is-daring-the-fed-to-hike-chart-of-the-day-100000601.html"
   },
   {
    "t": "三陽攜手美穀物暨生質產品協會　合推低碳燃油運輸",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190305.aspx"
   },
   {
-   "t": "Should You Worry That Another Brinker Executive Sold? Here's What Investors Should Know",
+   "t": "Foresight Solar Fund, Seraphim Space, Georgina Energy, Great Western Mining, Sabien Technology",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/worry-another-brinker-executive-sold-100441088.html"
+   "u": "https://finance.yahoo.com/video/foresight-solar-fund-seraphim-space-100738721.html"
   }
  ],
  "inst": {
