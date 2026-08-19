@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 00:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 00:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 317.23,
-   "c": 2.32,
-   "a50": 309.45,
-   "a200": 281.1,
+   "p": 316.67,
+   "c": 2.14,
+   "a50": 309.43,
+   "a200": 281.09,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 316.06,
-   "r": 54.2
+   "a20": 316.03,
+   "r": 53.7
   },
   {
    "s": "NVDA",
-   "p": 220.24,
-   "c": 0.23,
-   "a50": 207.17,
+   "p": 219.42,
+   "c": -0.15,
+   "a50": 207.15,
    "a200": 195.19,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.51,
-   "r": 57.0
+   "a20": 212.47,
+   "r": 56.2
   },
   {
    "s": "TSLA",
-   "p": 348.57,
-   "c": 3.47,
+   "p": 348.28,
+   "c": 3.39,
    "a50": 367.21,
    "a200": 404.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 324.25,
-   "r": 52.3
+   "a20": 324.24,
+   "r": 52.2
   },
   {
    "s": "META",
-   "p": 553.13,
-   "c": 1.74,
-   "a50": 594.33,
-   "a200": 625.12,
+   "p": 552.46,
+   "c": 1.62,
+   "a50": 594.32,
+   "a200": 625.11,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 582.12,
-   "r": 39.5
+   "a20": 582.08,
+   "r": 39.3
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7737.58,
-   "c": 0.6,
-   "a50": 7528.4,
-   "a200": 7087.76,
+   "p": 7728.12,
+   "c": 0.47,
+   "a50": 7528.21,
+   "a200": 7087.71,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7621.14,
-   "r": 59.4
+   "a20": 7620.67,
+   "r": 58.8
   },
   {
    "s": "^VIX",
-   "p": 15.12,
-   "c": -4.55,
-   "a50": 16.99,
+   "p": 15.08,
+   "c": -4.8,
+   "a50": 16.98,
    "a200": 18.5,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.32,
-   "r": 45.2
+   "r": 45.0
   },
   {
    "s": "BZ=F",
-   "p": 92.48,
-   "c": 1.6,
+   "p": 92.45,
+   "c": 1.57,
    "a50": 83.79,
    "a200": 82.15,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4554.3,
+   "p": 4554.1,
    "c": 4.31,
-   "a50": 4161.8,
+   "a50": 4161.79,
    "a200": 4493.2,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4230.11,
+   "a20": 4230.1,
    "r": 70.7
   },
   {
    "s": "HG=F",
-   "p": 6.5,
-   "c": 0.34,
+   "p": 6.51,
+   "c": 0.37,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 52.0
+   "r": 52.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03139717,
-   "c": -0.01,
+   "c": 0.01,
    "a50": 0.03121099,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190309.aspx"
   },
   {
-   "t": "IBD Stock Of The Day, Hinge, Eyes A Fresh Entry On Earnings-Tied Rally",
+   "t": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026:  Crypto prices rise after SEC announces proposed regulation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/hinge-health-stock-earnings-rally-cylinder-buyout/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html"
   },
   {
    "t": "國銀外幣存款寫新高　上半年增逾兆元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190307.aspx"
   },
   {
-   "t": "Treasury Yields Fall, Gold Jumps On Bessent Buyback Plan; GDX Flashes Buy Signal",
+   "t": "US appeals court revives Signature Bank collapse lawsuit despite FDIC objection",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/treasury-yields-fall-gold-price-jumps-gdx/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-appeals-court-revives-signature-161510082.html"
   },
   {
    "t": "南寶：折疊螢幕用光學透明膠技術突破　已小量出貨",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190306.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq gain steam as bonds rally, Trump pauses tariffs on Canadian goods",
+   "t": "5 Energy Stocks Breaking Out As Iran Ceasefire Ends, Oil Prices Keep Rising",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html"
+   "u": "https://www.investors.com/news/oil-prices-iran-us-hormuz-shell-suncor-ecopetrol-frontline-oneok/?src=A00220&yptr=yahoo"
   },
   {
    "t": "三陽攜手美穀物暨生質產品協會　合推低碳燃油運輸",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190305.aspx"
   },
   {
-   "t": "Indian fintech Navi to raise $100 million ahead of planned IPO",
+   "t": "Silver prices today, Wednesday, August 19, 2026:  Silver rises in early trading on lower rate-hike expectations",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/indian-fintech-navi-raise-100-155131023.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-19-2026-silver-rises-in-early-trading-on-lower-rate-hike-expectations-161336926.html"
   },
   {
    "t": "房市降溫預售解約去年3619件創高　今年前7月破3000",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190303.aspx"
   },
   {
-   "t": "When the Next Bear Market Begins, This Is the First Investing Move I'm Making",
+   "t": "Why Broadcom Stock Crashed Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/next-bear-market-begins-first-160500945.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-crashed-today-161902789.html"
   }
  ],
  "inst": {
