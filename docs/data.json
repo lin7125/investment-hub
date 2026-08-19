@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 02:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 02:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 315.09,
-   "c": 1.63,
+   "p": 315.03,
+   "c": 1.61,
    "a50": 309.4,
    "a200": 281.09,
    "yh": 340.08,
@@ -223,20 +223,20 @@
   },
   {
    "s": "NVDA",
-   "p": 219.53,
-   "c": -0.1,
+   "p": 219.46,
+   "c": -0.13,
    "a50": 207.16,
    "a200": 195.19,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.48,
-   "r": 56.4
+   "a20": 212.47,
+   "r": 56.3
   },
   {
    "s": "TSLA",
-   "p": 348.15,
-   "c": 3.35,
-   "a50": 367.2,
+   "p": 348.24,
+   "c": 3.38,
+   "a50": 367.21,
    "a200": 404.39,
    "yh": 489.88,
    "yl": 298.32,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 550.42,
-   "c": 1.24,
-   "a50": 594.28,
-   "a200": 625.1,
+   "p": 551.31,
+   "c": 1.41,
+   "a50": 594.29,
+   "a200": 625.11,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 581.98,
-   "r": 38.6
+   "a20": 582.03,
+   "r": 38.9
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7715.22,
-   "c": 0.31,
-   "a50": 7525.47,
-   "a200": 7078.17,
+   "p": 7716.14,
+   "c": 0.32,
+   "a50": 7525.49,
+   "a200": 7078.18,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7617.7,
+   "a20": 7617.75,
    "r": 58.0
   },
   {
    "s": "^VIX",
-   "p": 15.06,
-   "c": -4.92,
-   "a50": 16.98,
-   "a200": 18.5,
+   "p": 15.05,
+   "c": -4.99,
+   "a50": 17.11,
+   "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.32,
-   "r": 44.9
+   "a20": 16.45,
+   "r": 44.6
   },
   {
    "s": "BZ=F",
-   "p": 91.39,
-   "c": 0.41,
-   "a50": 83.76,
-   "a200": 82.14,
+   "p": 91.44,
+   "c": 0.46,
+   "a50": 83.77,
+   "a200": 82.15,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.15,
-   "r": 57.2
+   "r": 57.3
   },
   {
    "s": "GC=F",
-   "p": 4549.4,
-   "c": 4.2,
-   "a50": 4161.7,
+   "p": 4548.6,
+   "c": 4.18,
+   "a50": 4161.68,
    "a200": 4493.18,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4229.87,
+   "a20": 4229.83,
    "r": 70.5
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": -0.03,
+   "c": -0.01,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 50.4
+   "r": 50.5
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190319.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Bullish on Paychex Stock?",
+   "t": "Xylem Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-paychex-094746473.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/xylem-stock-analyst-estimates-ratings-095644774.html"
   },
   {
    "t": "今彩539第115201期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190309.aspx"
   },
   {
-   "t": "Is Wall Street Bullish or Bearish on Bio-Techne Stock?",
+   "t": "CMS Energy Stock: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/wall-street-bullish-bearish-bio-095038170.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cms-energy-stock-wall-street-095613661.html"
   },
   {
    "t": "國銀外幣存款寫新高　上半年增逾兆元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190307.aspx"
   },
   {
-   "t": "Oregon man won $5K a week for life from PCH — they went bankrupt and his income vanished. How to hold onto your wealth",
+   "t": "Air Products and Chemicals Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/oregon-man-won-5k-week-111100662.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/air-products-chemicals-stock-analyst-095318124.html"
   },
   {
    "t": "南寶：折疊螢幕用光學透明膠技術突破　已小量出貨",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190306.aspx"
   },
   {
-   "t": "Air Products and Chemicals Stock: Analyst Estimates & Ratings",
+   "t": "Is Wall Street Bullish or Bearish on Bio-Techne Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/air-products-chemicals-stock-analyst-095318124.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/wall-street-bullish-bearish-bio-095038170.html"
   },
   {
    "t": "三陽攜手美穀物暨生質產品協會　合推低碳燃油運輸",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190305.aspx"
   },
   {
-   "t": "Gold Slips on Higher Oil, Treasury Yields",
+   "t": "VinFast to establish new partnership with Indonesia’s Gowa Motor Group",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/gold-slips-on-higher-oil-treasury-yields-4lxEnu5DjJGr946KRrKb?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/articles/vinfast-establish-partnership-indonesia-gowa-095229340.html"
   }
  ],
  "inst": {
