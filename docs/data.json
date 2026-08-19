@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-08-19 10:29（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 10:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2345.0,
-   "c": -1.47,
-   "a50": 2385.5,
-   "a200": 1958.12,
+   "p": 2350.0,
+   "c": -1.26,
+   "a50": 2385.6,
+   "a200": 1958.15,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2359.5,
-   "r": 46.9
+   "a20": 2359.75,
+   "r": 47.4
   },
   {
    "s": "2317.TW",
-   "p": 244.5,
-   "c": -1.81,
-   "a50": 251.13,
+   "p": 245.0,
+   "c": -1.61,
+   "a50": 251.14,
    "a200": 235.8,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.58,
-   "r": 44.0
+   "a20": 253.6,
+   "r": 44.3
   },
   {
    "s": "2308.TW",
@@ -69,25 +69,25 @@
   },
   {
    "s": "6862.TW",
-   "p": 140.0,
-   "c": 2.19,
-   "a50": 167.28,
+   "p": 139.0,
+   "c": 1.46,
+   "a50": 167.26,
    "a200": 176.65,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 139.3,
-   "r": 42.5
+   "a20": 139.25,
+   "r": 41.6
   },
   {
    "s": "3701.TW",
-   "p": 38.5,
-   "c": -2.16,
-   "a50": 42.35,
+   "p": 38.35,
+   "c": -2.54,
+   "a50": 42.34,
    "a200": 48.88,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.55,
-   "r": 42.4
+   "r": 42.0
   },
   {
    "s": "4722.TW",
@@ -113,25 +113,25 @@
   },
   {
    "s": "2305.TW",
-   "p": 26.75,
-   "c": -3.08,
+   "p": 26.7,
+   "c": -3.26,
    "a50": 32.4,
    "a200": 18.79,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 29.39,
-   "r": 41.8
+   "r": 41.7
   },
   {
    "s": "6442.TW",
-   "p": 1525.0,
-   "c": -1.93,
-   "a50": 1533.2,
-   "a200": 1599.32,
+   "p": 1520.0,
+   "c": -2.25,
+   "a50": 1533.1,
+   "a200": 1599.3,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1383.5,
-   "r": 53.6
+   "a20": 1383.25,
+   "r": 53.4
   },
   {
    "s": "6515.TW",
@@ -157,25 +157,25 @@
   },
   {
    "s": "3324.TWO",
-   "p": 982.0,
-   "c": 0.41,
-   "a50": 974.02,
+   "p": 983.0,
+   "c": 0.51,
+   "a50": 974.04,
    "a200": 998.18,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 964.3,
-   "r": 50.7
+   "a20": 964.35,
+   "r": 50.9
   },
   {
    "s": "3491.TWO",
-   "p": 1230.0,
-   "c": -1.6,
-   "a50": 1300.34,
-   "a200": 1202.89,
+   "p": 1225.0,
+   "c": -2.0,
+   "a50": 1300.24,
+   "a200": 1202.87,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1205.85,
-   "r": 47.7
+   "a20": 1205.6,
+   "r": 47.4
   },
   {
    "s": "3585.TWO",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5375.0,
-   "c": 1.99,
-   "a50": 6201.0,
-   "a200": 4073.92,
+   "p": 5390.0,
+   "c": 2.28,
+   "a50": 6201.3,
+   "a200": 4074.0,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5829.0,
-   "r": 41.4
+   "a20": 5829.75,
+   "r": 41.6
   },
   {
    "s": "6750.TWO",
@@ -256,25 +256,25 @@
   },
   {
    "s": "^TWII",
-   "p": 44564.58,
-   "c": -1.64,
-   "a50": 44816.12,
-   "a200": 36171.07,
+   "p": 44625.68,
+   "c": -1.51,
+   "a50": 44817.34,
+   "a200": 36171.38,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43997.36,
-   "r": 50.1
+   "a20": 44000.42,
+   "r": 50.5
   },
   {
    "s": "^GSPC",
    "p": 7691.76,
    "c": -0.69,
-   "a50": 7522.24,
-   "a200": 7073.97,
+   "a50": 7521.76,
+   "a200": 7083.18,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7604.83,
-   "r": 56.3
+   "a20": 7609.21,
+   "r": 56.2
   },
   {
    "s": "^VIX",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.88,
-   "c": 1.11,
+   "p": 91.83,
+   "c": 1.06,
    "a50": 83.84,
    "a200": 82.02,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.32,
-   "r": 57.8
+   "r": 57.7
   },
   {
    "s": "GC=F",
-   "p": 4412.4,
-   "c": -0.12,
-   "a50": 4158.36,
-   "a200": 4490.67,
+   "p": 4414.9,
+   "c": -0.07,
+   "a50": 4158.41,
+   "a200": 4490.68,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4212.06,
-   "r": 66.1
+   "a20": 4212.19,
+   "r": 66.4
   },
   {
    "s": "HG=F",
-   "p": 6.45,
-   "c": -2.29,
+   "p": 6.46,
+   "c": -2.21,
    "a50": 6.35,
    "a200": 5.88,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 48.7
+   "r": 49.0
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190017.aspx"
   },
   {
-   "t": "Anthropic Is Reportedly Aiming for a Valuation of $2 Trillion or More. Is It Justifiable?",
+   "t": "Why SK Hynix Stock Popped Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-reportedly-aiming-valuation-2-143819235.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-sk-hynix-stock-popped-144132041.html"
   },
   {
    "t": "美晶片股大跌　國債走低恐長期衝擊經濟",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190007.aspx"
   },
   {
-   "t": "Wheat Prices Are Headed Higher: Buy December SRW Wheat Here",
+   "t": "The Fund’s Strategic Sale of Old Dominion Freight Line (ODFL) Locked in Gains",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/wheat-prices-headed-higher-buy-143354579.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fund-strategic-sale-old-dominion-144535323.html"
   },
   {
    "t": "美伊談判陷僵局　國際油價升至3週新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190006.aspx"
   },
   {
-   "t": "Eli Lilly and Company (LLY)’s Weight-Loss Pill Just Won Its First Race in Europe. Novo Nordisk A/S (NVO) Still Has a Head Start",
+   "t": "Veralto’s (VLTO) Dual-Segment Advantage Fuels Long-Term Value",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-weight-143436219.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/veralto-vlto-dual-segment-advantage-144304156.html"
   },
   {
    "t": "美伊停火協議到期　歐股大多收跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190002.aspx"
   },
   {
-   "t": "Veralto’s (VLTO) Dual-Segment Advantage Fuels Long-Term Value",
+   "t": "Martin Marietta Materials (MLM) Extends Rocks and Gravel Theme",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/veralto-vlto-dual-segment-advantage-144304156.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/martin-marietta-materials-mlm-extends-144826420.html"
   },
   {
    "t": "純網銀累虧減少　LINE Bank連7月獲利",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608180339.aspx"
   },
   {
-   "t": "Innovative men's and women's jeans brand files Chapter 11",
+   "t": "CECO (CECO) Q2 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/innovative-mens-womens-jeans-brand-143700263.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ceco-ceco-q2-2026-earnings-144403398.html"
   }
  ],
  "inst": {
