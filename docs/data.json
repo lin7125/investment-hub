@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19 14:48（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-19 15:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -223,25 +223,25 @@
   },
   {
    "s": "NVDA",
-   "p": 225.01,
-   "c": -0.07,
-   "a50": 206.65,
-   "a200": 195.04,
+   "p": 219.74,
+   "c": -2.34,
+   "a50": 206.94,
+   "a200": 195.1,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 211.48,
-   "r": 62.8
+   "a20": 212.1,
+   "r": 56.6
   },
   {
    "s": "TSLA",
-   "p": 339.3,
-   "c": -0.87,
-   "a50": 369.5,
-   "a200": 405.47,
+   "p": 336.87,
+   "c": -0.72,
+   "a50": 368.42,
+   "a200": 404.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.63,
-   "r": 47.4
+   "a20": 325.52,
+   "r": 46.3
   },
   {
    "s": "META",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44719.35,
-   "c": -1.3,
-   "a50": 44819.22,
-   "a200": 36171.84,
+   "p": 45857.27,
+   "c": 0.1,
+   "a50": 44900.44,
+   "a200": 35749.15,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 44005.1,
-   "r": 51.0
+   "a20": 43885.01,
+   "r": 57.5
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.55,
-   "c": 0.58,
+   "p": 91.68,
+   "c": 0.73,
    "a50": 83.77,
    "a200": 82.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.15,
-   "r": 57.4
+   "a20": 88.16,
+   "r": 57.6
   },
   {
    "s": "GC=F",
-   "p": 4397.7,
-   "c": 0.73,
-   "a50": 4158.67,
-   "a200": 4492.42,
+   "p": 4402.9,
+   "c": 0.85,
+   "a50": 4158.77,
+   "a200": 4492.45,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4222.28,
-   "r": 63.2
+   "a20": 4222.54,
+   "r": 63.5
   },
   {
    "s": "HG=F",
-   "p": 6.47,
-   "c": -0.22,
+   "p": 6.46,
+   "c": -0.29,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 49.6
+   "r": 49.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03125977,
-   "c": -0.44,
+   "p": 0.03133814,
+   "c": -0.18,
    "a50": 0.03121099,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190047.aspx"
   },
   {
-   "t": "Supply Chain Fraud: $111M Theft Shows New Sophistication",
+   "t": "Why Exxon Mobil (XOM) Is Expanding Beyond Traditional Oil and Gas",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/supply-chain-fraud-111m-theft-190150925.html"
+   "u": "https://finance.yahoo.com/energy/articles/why-exxon-mobil-xom-expanding-194805744.html"
   },
   {
    "t": "卓榮泰：盼與韓國瑜共同嚴肅面對憲法　恢復憲政秩序",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aipl/202608190045.aspx"
   },
   {
-   "t": "Behind the Ticker: How VFLO Beats Growth at Its Own Game",
+   "t": "Why Investors Are Moving On From Synopsys (SNPS)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/behind-ticker-vflo-beats-growth-185402330.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-investors-moving-synopsys-snps-194830437.html"
   },
   {
    "t": "Intelligent Asia展會登場　聚焦AI機器人",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190036.aspx"
   },
   {
-   "t": "Nvidia to back OpenAI data center with upwards of $105 billion",
+   "t": "Micron Technology (MU) Gains as AI Boom Reshapes the Memory Industry",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/nvidia-to-back-openai-data-center-with-upwards-of-105-billion-190524832.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-gains-ai-194743287.html"
   },
   {
    "t": "研華進軍台北自動化展　聚焦3主軸建構智慧工廠",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190033.aspx"
   },
   {
-   "t": "Arrow Electronics (ARW) Finds New Fuel For Its Growth Story",
+   "t": "Why Nvidia Is Teaming With OpenAI on a Massive Ohio Data Center — ‘Now Is The Time To Scale The AI Infrastructure That Will Power The Next Industrial Revolution’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/arrow-electronics-arw-finds-fuel-190450086.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/why-nvidia-teaming-openai-massive-194828943.html"
   },
   {
    "t": "權值股走跌　台股早盤急跌近千點失守45000點",
