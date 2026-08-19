@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 03:34（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 03:43（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 316.46,
-   "c": 2.08,
-   "a50": 309.43,
+   "p": 315.5,
+   "c": 1.76,
+   "a50": 309.41,
    "a200": 281.09,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 316.02,
-   "r": 53.6
+   "a20": 315.97,
+   "r": 52.8
   },
   {
    "s": "NVDA",
-   "p": 219.77,
-   "c": 0.01,
-   "a50": 207.16,
-   "a200": 195.19,
+   "p": 218.99,
+   "c": -0.34,
+   "a50": 207.15,
+   "a200": 195.18,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.49,
-   "r": 56.6
+   "a20": 212.45,
+   "r": 55.8
   },
   {
    "s": "TSLA",
-   "p": 348.86,
-   "c": 3.56,
+   "p": 348.8,
+   "c": 3.54,
    "a50": 367.22,
    "a200": 404.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 324.27,
+   "a20": 324.26,
    "r": 52.4
   },
   {
    "s": "META",
-   "p": 547.59,
-   "c": 0.72,
-   "a50": 594.22,
+   "p": 547.93,
+   "c": 0.78,
+   "a50": 594.23,
    "a200": 625.09,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 581.84,
-   "r": 37.6
+   "a20": 581.86,
+   "r": 37.7
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7721.68,
-   "c": 0.39,
-   "a50": 7525.6,
-   "a200": 7078.21,
+   "p": 7711.54,
+   "c": 0.26,
+   "a50": 7527.88,
+   "a200": 7087.63,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7618.03,
-   "r": 58.4
+   "a20": 7619.84,
+   "r": 57.7
   },
   {
    "s": "^VIX",
-   "p": 14.97,
-   "c": -5.49,
-   "a50": 16.98,
-   "a200": 18.5,
+   "p": 14.94,
+   "c": -5.68,
+   "a50": 17.1,
+   "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.31,
-   "r": 44.6
+   "a20": 16.45,
+   "r": 44.2
   },
   {
    "s": "BZ=F",
-   "p": 91.3,
-   "c": 0.31,
+   "p": 91.21,
+   "c": 0.21,
    "a50": 83.76,
    "a200": 82.14,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.14,
-   "r": 57.1
+   "r": 56.9
   },
   {
    "s": "GC=F",
-   "p": 4562.3,
-   "c": 4.5,
-   "a50": 4161.96,
-   "a200": 4493.24,
+   "p": 4566.9,
+   "c": 4.6,
+   "a50": 4162.05,
+   "a200": 4493.27,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4230.51,
-   "r": 71.0
+   "a20": 4230.74,
+   "r": 71.2
   },
   {
    "s": "HG=F",
    "p": 6.49,
-   "c": 0.13,
+   "c": 0.16,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 51.1
+   "r": 51.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03139717,
-   "c": 0.01,
+   "c": -0.0,
    "a50": 0.03121099,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190319.aspx"
   },
   {
-   "t": "Beyond marathons and backflips, China's robots face a commercial test",
+   "t": "Einride to deploy 500 Tesla electric trucks for North American fleet",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/beyond-marathons-backflips-chinas-robots-101921205.html"
+   "u": "https://finance.yahoo.com/news/einride-deploy-500-tesla-electric-103341790.html"
   },
   {
    "t": "今彩539第115201期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608190309.aspx"
   },
   {
-   "t": "There’s a hidden Roth conversion window that shuts completely in 2028 — most US retirees don’t know it exists. Act now",
+   "t": "Nasdaq Futures Plunge as Rising Bond Yields Drive Chip Selloff",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/hidden-roth-conversion-window-shuts-101500228.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-plunge-rising-bond-104454089.html"
   },
   {
    "t": "國銀外幣存款寫新高　上半年增逾兆元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190307.aspx"
   },
   {
-   "t": "Einride to deploy 500 Tesla electric trucks for North American fleet",
+   "t": "Morning Bid: Yields give way",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/einride-deploy-500-tesla-electric-103341790.html"
+   "u": "https://finance.yahoo.com/markets/articles/morning-bid-yields-way-103702133.html"
   },
   {
    "t": "南寶：折疊螢幕用光學透明膠技術突破　已小量出貨",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190306.aspx"
   },
   {
-   "t": "Why states fought to present a united case against Meta over youth social media harms",
+   "t": "Trump says ‘prices are dropping fast’ and the ‘only thing’ going up is your 401(k) — but is he right? How to stay ahead",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/why-states-fought-present-united-100840947.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/trump-says-prices-dropping-fast-104500493.html"
   },
   {
    "t": "三陽攜手美穀物暨生質產品協會　合推低碳燃油運輸",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608190305.aspx"
   },
   {
-   "t": "Jobs exist but are harder to fill, hiring managers say",
+   "t": "Walmart Leans on Advertising Growth as Retail Sales Momentum Slows",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/jobs-exist-harder-fill-hiring-102400315.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/walmart-leans-advertising-growth-retail-104132703.html"
   }
  ],
  "inst": {
