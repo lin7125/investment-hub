@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 12:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 12:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,47 +14,47 @@
   },
   {
    "s": "2317.TW",
-   "p": 244.5,
-   "c": -0.2,
-   "a50": 250.77,
-   "a200": 235.83,
+   "p": 245.5,
+   "c": 0.2,
+   "a50": 250.79,
+   "a200": 235.84,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.95,
-   "r": 44.0
+   "a20": 253.0,
+   "r": 44.7
   },
   {
    "s": "2308.TW",
-   "p": 1705.0,
-   "c": -3.4,
-   "a50": 1869.2,
-   "a200": 1537.5,
+   "p": 1710.0,
+   "c": -3.12,
+   "a50": 1869.3,
+   "a200": 1537.52,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1716.0,
-   "r": 44.0
+   "a20": 1716.25,
+   "r": 44.3
   },
   {
    "s": "2454.TW",
-   "p": 3685.0,
-   "c": -4.16,
-   "a50": 3957.1,
-   "a200": 2498.8,
+   "p": 3715.0,
+   "c": -3.38,
+   "a50": 3957.7,
+   "a200": 2498.95,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3808.75,
-   "r": 44.1
+   "a20": 3810.25,
+   "r": 44.8
   },
   {
    "s": "2327.TW",
-   "p": 553.0,
-   "c": -3.99,
-   "a50": 780.07,
+   "p": 554.0,
+   "c": -3.82,
+   "a50": 780.09,
    "a200": 436.18,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 574.52,
-   "r": 40.2
+   "a20": 574.58,
+   "r": 40.3
   },
   {
    "s": "1802.TW",
@@ -80,36 +80,36 @@
   },
   {
    "s": "3701.TW",
-   "p": 39.6,
-   "c": 0.89,
+   "p": 39.65,
+   "c": 1.02,
    "a50": 42.19,
    "a200": 48.89,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.56,
-   "r": 45.7
+   "r": 45.9
   },
   {
    "s": "4722.TW",
-   "p": 200.0,
-   "c": -1.48,
-   "a50": 235.58,
+   "p": 201.5,
+   "c": -0.74,
+   "a50": 235.61,
    "a200": 199.4,
    "yh": 306.5,
    "yl": 115.0,
-   "a20": 201.9,
-   "r": 43.5
+   "a20": 201.98,
+   "r": 44.0
   },
   {
    "s": "6706.TW",
-   "p": 115.5,
-   "c": 0.0,
-   "a50": 130.16,
+   "p": 116.0,
+   "c": 0.43,
+   "a50": 130.17,
    "a200": 127.29,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 110.47,
-   "r": 47.3
+   "a20": 110.5,
+   "r": 47.7
   },
   {
    "s": "2305.TW",
@@ -124,14 +124,14 @@
   },
   {
    "s": "6442.TW",
-   "p": 1550.0,
-   "c": 1.31,
-   "a50": 1526.5,
-   "a200": 1603.12,
+   "p": 1535.0,
+   "c": 0.33,
+   "a50": 1526.2,
+   "a200": 1603.05,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1391.75,
-   "r": 55.0
+   "a20": 1391.0,
+   "r": 54.2
   },
   {
    "s": "6515.TW",
@@ -157,36 +157,36 @@
   },
   {
    "s": "3324.TWO",
-   "p": 979.0,
-   "c": -1.01,
-   "a50": 973.54,
-   "a200": 998.11,
+   "p": 984.0,
+   "c": -0.51,
+   "a50": 973.64,
+   "a200": 998.14,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 967.45,
-   "r": 50.2
+   "a20": 967.7,
+   "r": 50.9
   },
   {
    "s": "3491.TWO",
-   "p": 1265.0,
-   "c": 3.27,
-   "a50": 1292.84,
-   "a200": 1206.96,
+   "p": 1270.0,
+   "c": 3.67,
+   "a50": 1292.94,
+   "a200": 1206.99,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1203.85,
-   "r": 50.1
+   "a20": 1204.1,
+   "r": 50.4
   },
   {
    "s": "3585.TWO",
-   "p": 50.1,
-   "c": 4.16,
+   "p": 49.95,
+   "c": 3.85,
    "a50": 58.88,
    "a200": 42.18,
    "yh": 165.0,
    "yl": 8.98,
    "a20": 47.55,
-   "r": 47.2
+   "r": 46.9
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44543.4,
-   "c": -0.39,
-   "a50": 44816.0,
-   "a200": 36256.32,
+   "p": 44588.84,
+   "c": -0.29,
+   "a50": 44816.9,
+   "a200": 36256.54,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43989.73,
-   "r": 49.9
+   "a20": 43992.0,
+   "r": 50.2
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.02,
-   "c": 0.17,
-   "a50": 83.82,
-   "a200": 82.01,
+   "p": 91.85,
+   "c": 0.25,
+   "a50": 83.78,
+   "a200": 82.28,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.28,
-   "r": 56.7
+   "a20": 87.71,
+   "r": 57.8
   },
   {
    "s": "GC=F",
-   "p": 4366.0,
-   "c": -1.17,
-   "a50": 4157.43,
-   "a200": 4490.44,
+   "p": 4553.3,
+   "c": 1.42,
+   "a50": 4166.37,
+   "a200": 4495.74,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4209.74,
-   "r": 61.2
+   "a20": 4252.2,
+   "r": 70.8
   },
   {
    "s": "HG=F",
-   "p": 6.48,
-   "c": -1.84,
-   "a50": 6.35,
-   "a200": 5.88,
+   "p": 6.49,
+   "c": 0.02,
+   "a50": 6.36,
+   "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.5,
-   "r": 50.6
+   "a20": 6.51,
+   "r": 51.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03140704,
-   "c": 0.14,
+   "c": 0.13,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "美債殖利率飆升　財政部加碼長債回購穩市",
+   "t": "能源署：再生能源目標極大化　克服法規20GW非光電上限",
    "pub": "中央社財經",
    "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/aopl/202608200033.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608200081.aspx"
   },
   {
    "t": "Costco launching Medicare Advantage plans with SCAN Group",
@@ -344,64 +344,64 @@
    "u": "https://finance.yahoo.com/healthcare/articles/costco-launching-medicare-advantage-plans-171035001.html"
   },
   {
+   "t": "中聯油脂案波及食品業　經部協調增產媒合穩供沙拉油",
+   "pub": "中央社財經",
+   "d": "2026-08-20",
+   "u": "https://www.cna.com.tw/news/afe/202608200065.aspx"
+  },
+  {
+   "t": "TKO Group  Stock: Is Wall Street Bullish or Bearish?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tko-group-stock-wall-street-162422728.html"
+  },
+  {
+   "t": "台股翻黑下跌逾200點　光學股相對強勢",
+   "pub": "中央社財經",
+   "d": "2026-08-20",
+   "u": "https://www.cna.com.tw/news/afe/202608200057.aspx"
+  },
+  {
+   "t": "Exclusive-British data group Quantexa exploring UK or US IPO",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/british-data-group-quantexa-explores-162925456.html"
+  },
+  {
+   "t": "新代攻AI機器人金屬加工　AI伺服器應用比重達3成",
+   "pub": "中央社財經",
+   "d": "2026-08-20",
+   "u": "https://www.cna.com.tw/news/afe/202608200043.aspx"
+  },
+  {
+   "t": "CRAK is Smoking Hot… and Short-Term Overbought. Here’s the Next Hot Energy Trade, Plus 3 Curated Watchlists to Research.",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/energy/articles/crak-smoking-hot-short-term-163520473.html"
+  },
+  {
+   "t": "美債殖利率飆升　財政部加碼長債回購穩市",
+   "pub": "中央社財經",
+   "d": "2026-08-20",
+   "u": "https://www.cna.com.tw/news/aopl/202608200033.aspx"
+  },
+  {
+   "t": "Ecopetrol Completes $1.2 Billion Brazilian Oil Deal",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/energy/articles/ecopetrol-completes-1-2-billion-163715015.html"
+  },
+  {
    "t": "台股早盤漲逾400點　站上45000點",
    "pub": "中央社財經",
    "d": "2026-08-20",
    "u": "https://www.cna.com.tw/news/afe/202608200031.aspx"
   },
   {
-   "t": "QQQ Just 'Gamma Flipped' as Market Makers Were Forced to Sell. Here’s What Our Top Chart Expert is Tracking Next.",
+   "t": "The S&P 500 Is Flashing a Warning Not Seen Since the Dot-Com Bubble; History Suggests This Could Happen Next",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/qqq-just-gamma-flipped-market-160314407.html"
-  },
-  {
-   "t": "國泰金調查：57%民眾未來半年首選台股　美股居次",
-   "pub": "中央社財經",
-   "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200030.aspx"
-  },
-  {
-   "t": "Apple changes fees for alternative app stores in EU",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/apple-changes-fees-alternative-app-160307437.html"
-  },
-  {
-   "t": "台股開盤漲222.66點",
-   "pub": "中央社財經",
-   "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200026.aspx"
-  },
-  {
-   "t": "Dell Near All-Time Highs on Record Revenue, AI Demand",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dell-near-time-highs-record-160333836.html"
-  },
-  {
-   "t": "新台幣開盤升4.7分　為31.89元",
-   "pub": "中央社財經",
-   "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200025.aspx"
-  },
-  {
-   "t": "“The Odyssey” Demand Drives IMAX Shares Higher",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/odyssey-demand-drives-imax-shares-160910201.html"
-  },
-  {
-   "t": "台指期夜盤反彈　投顧：台股拚止跌聚焦季線攻防",
-   "pub": "中央社財經",
-   "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200022.aspx"
-  },
-  {
-   "t": "Wells Fargo revamps gold price target for the rest of 2026",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/wells-fargo-revamps-gold-price-160300985.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-flashing-warning-not-162000310.html"
   }
  ],
  "inst": {
