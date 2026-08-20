@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 23:39（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 23:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 316.48,
-   "c": -0.11,
-   "a50": 309.96,
-   "a200": 281.33,
+   "p": 316.06,
+   "c": -0.24,
+   "a50": 309.95,
+   "a200": 281.32,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 315.78,
-   "r": 53.5
+   "a20": 315.76,
+   "r": 53.1
   },
   {
    "s": "NVDA",
-   "p": 216.26,
-   "c": -0.6,
+   "p": 216.05,
+   "c": -0.69,
    "a50": 207.28,
-   "a200": 195.25,
+   "a200": 195.24,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.75,
-   "r": 52.8
+   "a20": 212.74,
+   "r": 52.6
   },
   {
    "s": "TSLA",
-   "p": 343.91,
-   "c": -2.05,
-   "a50": 366.21,
-   "a200": 403.84,
+   "p": 344.64,
+   "c": -1.85,
+   "a50": 366.22,
+   "a200": 403.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.59,
-   "r": 49.8
+   "a20": 325.63,
+   "r": 50.2
   },
   {
    "s": "META",
-   "p": 542.78,
-   "c": -0.6,
-   "a50": 593.35,
-   "a200": 624.55,
+   "p": 543.68,
+   "c": -0.43,
+   "a50": 593.37,
+   "a200": 624.56,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 578.6,
-   "r": 36.3
+   "a20": 578.64,
+   "r": 36.5
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7674.85,
+   "p": 7674.74,
    "c": -0.43,
-   "a50": 7533.57,
-   "a200": 7091.78,
+   "a50": 7527.14,
+   "a200": 7082.06,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7632.99,
-   "r": 54.1
+   "a20": 7628.91,
+   "r": 54.2
   },
   {
    "s": "^VIX",
@@ -289,40 +289,40 @@
   },
   {
    "s": "BZ=F",
-   "p": 93.54,
-   "c": 2.1,
-   "a50": 83.81,
+   "p": 93.85,
+   "c": 2.43,
+   "a50": 83.82,
    "a200": 82.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.8,
-   "r": 60.1
+   "a20": 87.81,
+   "r": 60.5
   },
   {
    "s": "GC=F",
-   "p": 4587.2,
-   "c": 2.18,
-   "a50": 4167.04,
-   "a200": 4495.91,
+   "p": 4575.2,
+   "c": 1.91,
+   "a50": 4166.8,
+   "a200": 4495.85,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4253.9,
-   "r": 72.1
+   "a20": 4253.3,
+   "r": 71.7
   },
   {
    "s": "HG=F",
-   "p": 6.49,
-   "c": 0.01,
+   "p": 6.47,
+   "c": -0.26,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 50.9
+   "r": 49.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03134796,
+   "p": 0.03135779,
    "c": -0.04,
    "a50": 0.03120125,
    "a200": 0.03159558,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
-   "t": "Walmart Stock Sinks To A 2026 Low Despite Earnings Beat-And-Raise",
+   "t": "Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/walmart-earnings-the-biggest-and-most-influential-retail-report/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-20-2026-gold-rallies-after-treasury-announcement-fomc-meeting-minutes-153323375.html"
   },
   {
    "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "FTAI Aviation (FTAI) Gains Edge from Asset Light Shift",
+   "t": "How Mastercard CEO is preparing for a world where AI agents do the shopping",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-ftai-gains-edge-151017438.html"
+   "u": "https://finance.yahoo.com/markets/article/how-mastercard-ceo-is-preparing-for-a-world-where-ai-agents-do-the-shopping-153238803.html"
   },
   {
    "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200336.aspx"
   },
   {
-   "t": "Crossroads Capital’s Confidence in Nebius Group (NBIS) Reflected in Scaled Position",
+   "t": "Bond relief ebbs, stocks fall as investors question Treasury's rescue efforts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/crossroads-capital-confidence-nebius-group-150844082.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/bonds-recover-after-us-treasury-comes-to-the-rescue-054757285.html"
   },
   {
    "t": "美國公債殖利率回升　華爾街股市開盤下跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200333.aspx"
   },
   {
-   "t": "US Rare Earth Pure Play: Fireside with Tactical Resources CEO Ranjeet Sundher",
+   "t": "Tyson cuts 3,200 jobs and closes 3 beef plants as U.S. cattle herds shrink to their lowest level since the 1950s",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/us-rare-earth-pure-play-fireside-with-tactical-resources-ceo-ranjeet-sundher-150549835.html"
+   "u": "https://finance.yahoo.com/economy/articles/tyson-cuts-3-200-jobs-153000900.html"
   },
   {
    "t": "串流影音訂戶調查　月均花355元、500元以上占22%",
