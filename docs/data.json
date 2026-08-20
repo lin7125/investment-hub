@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-08-20 11:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 11:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2360.0,
-   "c": 0.43,
-   "a50": 2387.7,
-   "a200": 1962.7,
+   "p": 2355.0,
+   "c": 0.21,
+   "a50": 2387.6,
+   "a200": 1962.68,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2357.5,
-   "r": 48.4
+   "a20": 2357.25,
+   "r": 47.9
   },
   {
    "s": "2317.TW",
-   "p": 245.0,
-   "c": 0.0,
-   "a50": 250.78,
+   "p": 246.0,
+   "c": 0.41,
+   "a50": 250.8,
    "a200": 235.84,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.98,
-   "r": 44.3
+   "a20": 253.02,
+   "r": 45.1
   },
   {
    "s": "2308.TW",
@@ -36,58 +36,58 @@
   },
   {
    "s": "2454.TW",
-   "p": 3735.0,
-   "c": -2.86,
-   "a50": 3958.1,
-   "a200": 2499.05,
+   "p": 3730.0,
+   "c": -2.99,
+   "a50": 3958.0,
+   "a200": 2499.02,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3811.25,
-   "r": 45.4
+   "a20": 3811.0,
+   "r": 45.2
   },
   {
    "s": "2327.TW",
-   "p": 552.0,
-   "c": -4.17,
-   "a50": 780.05,
-   "a200": 436.17,
+   "p": 555.0,
+   "c": -3.65,
+   "a50": 780.11,
+   "a200": 436.19,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 574.48,
-   "r": 40.1
+   "a20": 574.62,
+   "r": 40.4
   },
   {
    "s": "1802.TW",
-   "p": 57.4,
-   "c": 0.53,
+   "p": 57.5,
+   "c": 0.7,
    "a50": 60.32,
    "a200": 52.87,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.91,
-   "r": 52.3
+   "a20": 52.92,
+   "r": 52.5
   },
   {
    "s": "6862.TW",
-   "p": 137.5,
-   "c": 0.0,
-   "a50": 166.09,
+   "p": 137.0,
+   "c": -0.36,
+   "a50": 166.08,
    "a200": 176.3,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 138.62,
-   "r": 40.2
+   "a20": 138.6,
+   "r": 39.8
   },
   {
    "s": "3701.TW",
-   "p": 39.8,
-   "c": 1.4,
-   "a50": 42.2,
+   "p": 39.6,
+   "c": 0.89,
+   "a50": 42.19,
    "a200": 48.89,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.57,
-   "r": 46.4
+   "a20": 39.56,
+   "r": 45.7
   },
   {
    "s": "4722.TW",
@@ -113,36 +113,36 @@
   },
   {
    "s": "2305.TW",
-   "p": 26.65,
-   "c": -0.56,
+   "p": 26.7,
+   "c": -0.37,
    "a50": 32.48,
    "a200": 18.87,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 29.01,
-   "r": 41.6
+   "r": 41.7
   },
   {
    "s": "6442.TW",
-   "p": 1555.0,
-   "c": 1.63,
-   "a50": 1526.6,
-   "a200": 1603.15,
+   "p": 1550.0,
+   "c": 1.31,
+   "a50": 1526.5,
+   "a200": 1603.12,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1392.0,
-   "r": 55.2
+   "a20": 1391.75,
+   "r": 55.0
   },
   {
    "s": "6515.TW",
-   "p": 6345.0,
-   "c": -0.39,
-   "a50": 7517.5,
-   "a200": 6071.98,
+   "p": 6300.0,
+   "c": -1.1,
+   "a50": 7516.6,
+   "a200": 6071.75,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6422.25,
-   "r": 42.8
+   "a20": 6420.0,
+   "r": 42.2
   },
   {
    "s": "6446.TW",
@@ -157,47 +157,47 @@
   },
   {
    "s": "3324.TWO",
-   "p": 986.0,
-   "c": -0.3,
-   "a50": 973.68,
-   "a200": 998.14,
+   "p": 991.0,
+   "c": 0.2,
+   "a50": 973.78,
+   "a200": 998.17,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 967.8,
-   "r": 51.2
+   "a20": 968.05,
+   "r": 51.9
   },
   {
    "s": "3491.TWO",
-   "p": 1270.0,
-   "c": 3.67,
-   "a50": 1292.94,
-   "a200": 1206.99,
+   "p": 1260.0,
+   "c": 2.86,
+   "a50": 1292.74,
+   "a200": 1206.94,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1204.1,
-   "r": 50.4
+   "a20": 1203.6,
+   "r": 49.7
   },
   {
    "s": "3585.TWO",
-   "p": 49.9,
-   "c": 3.74,
-   "a50": 58.88,
-   "a200": 42.18,
+   "p": 50.4,
+   "c": 4.78,
+   "a50": 58.89,
+   "a200": 42.19,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.54,
-   "r": 46.9
+   "a20": 47.57,
+   "r": 47.7
   },
   {
    "s": "6223.TWO",
-   "p": 5500.0,
-   "c": 4.66,
-   "a50": 6193.2,
-   "a200": 4091.7,
+   "p": 5505.0,
+   "c": 4.76,
+   "a50": 6193.3,
+   "a200": 4091.72,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5785.5,
-   "r": 43.6
+   "a20": 5785.75,
+   "r": 43.7
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44583.68,
-   "c": -0.3,
-   "a50": 44816.8,
-   "a200": 36256.52,
+   "p": 44608.59,
+   "c": -0.25,
+   "a50": 44817.3,
+   "a200": 36256.64,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43991.75,
-   "r": 50.2
+   "a20": 43992.99,
+   "r": 50.3
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.85,
-   "c": 0.91,
+   "p": 91.84,
+   "c": 0.9,
    "a50": 83.77,
    "a200": 82.15,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4550.0,
-   "c": 4.21,
-   "a50": 4161.71,
-   "a200": 4493.18,
+   "p": 4546.5,
+   "c": 4.13,
+   "a50": 4161.64,
+   "a200": 4493.17,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4229.9,
-   "r": 70.5
+   "a20": 4229.72,
+   "r": 70.4
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": -0.07,
+   "c": -0.05,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 50.2
+   "r": 50.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": 0.13,
+   "p": 0.03135779,
+   "c": -0.03,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200031.aspx"
   },
   {
-   "t": "Forget AI Stocks: Value Investing Giant Seth Klarman Is Loading Up on Genuine Parts (GPC)",
+   "t": "Nvidia's attack plan: Dominate every single aspect of AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/forget-ai-stocks-value-investing-151706840.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/nvidias-attack-plan-dominate-every-single-aspect-of-ai-143905381.html"
   },
   {
    "t": "國泰金調查：57%民眾未來半年首選台股　美股居次",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200030.aspx"
   },
   {
-   "t": "Seller concession limits: How much can you ask for?",
+   "t": "PTC Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/seller-concession-limits-151821985.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ptc-stock-analyst-estimates-ratings-152525741.html"
   },
   {
    "t": "台股開盤漲222.66點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200026.aspx"
   },
   {
-   "t": "Mission Produce (AVO): Understanding The Long-Term Upside Ahead of Q3 Results",
+   "t": "Frasers Walks Deeper Into Hugo Boss’s Wardrobe",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mission-produce-avo-understanding-long-152209701.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/frasers-walks-deeper-hugo-boss-153233849.html"
   },
   {
    "t": "新台幣開盤升4.7分　為31.89元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200025.aspx"
   },
   {
-   "t": "Nvidia Stock Drops In Broad Market Slide With Earnings In Sight. Is Nvidia A Buy Or Sell Now?",
+   "t": "Mission Produce (AVO): Understanding The Long-Term Upside Ahead of Q3 Results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/nvidia-nvda-stock-august-2026-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mission-produce-avo-understanding-long-152209701.html"
   },
   {
    "t": "台指期夜盤反彈　投顧：台股拚止跌聚焦季線攻防",
