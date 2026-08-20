@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 02:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 02:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,42 +212,42 @@
   },
   {
    "s": "AAPL",
-   "p": 315.22,
-   "c": -0.51,
+   "p": 315.36,
+   "c": -0.46,
    "a50": 309.93,
    "a200": 281.32,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 315.72,
-   "r": 52.3
+   "a20": 315.73,
+   "r": 52.4
   },
   {
    "s": "NVDA",
-   "p": 216.9,
-   "c": -0.3,
+   "p": 216.66,
+   "c": -0.41,
    "a50": 207.29,
    "a200": 195.25,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.79,
-   "r": 53.5
+   "a20": 212.77,
+   "r": 53.2
   },
   {
    "s": "TSLA",
-   "p": 342.98,
-   "c": -2.32,
+   "p": 343.21,
+   "c": -2.25,
    "a50": 366.19,
    "a200": 403.84,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.54,
-   "r": 49.4
+   "a20": 325.55,
+   "r": 49.5
   },
   {
    "s": "META",
-   "p": 540.36,
-   "c": -1.04,
-   "a50": 593.3,
+   "p": 540.47,
+   "c": -1.02,
+   "a50": 593.31,
    "a200": 624.54,
    "yh": 780.25,
    "yl": 525.72,
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7655.26,
-   "c": -0.68,
-   "a50": 7526.75,
-   "a200": 7081.96,
+   "p": 7651.52,
+   "c": -0.73,
+   "a50": 7526.67,
+   "a200": 7081.94,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7627.94,
-   "r": 52.5
+   "a20": 7627.75,
+   "r": 52.2
   },
   {
    "s": "^VIX",
-   "p": 15.97,
-   "c": 7.25,
+   "p": 15.99,
+   "c": 7.39,
    "a50": 17.12,
    "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.31,
-   "r": 49.2
+   "r": 49.3
   },
   {
    "s": "BZ=F",
-   "p": 93.39,
-   "c": 1.93,
+   "p": 93.44,
+   "c": 1.99,
    "a50": 83.81,
    "a200": 82.29,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.79,
-   "r": 59.9
+   "r": 60.0
   },
   {
    "s": "GC=F",
-   "p": 4567.2,
-   "c": 1.73,
-   "a50": 4166.64,
-   "a200": 4495.81,
+   "p": 4573.0,
+   "c": 1.86,
+   "a50": 4166.76,
+   "a200": 4495.83,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4252.9,
-   "r": 71.4
+   "a20": 4253.19,
+   "r": 71.6
   },
   {
    "s": "HG=F",
-   "p": 6.47,
-   "c": -0.19,
+   "p": 6.48,
+   "c": -0.14,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 50.0
+   "r": 50.2
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
-   "t": "SK Hynix plans $28.6 billion buyback after share price declines",
+   "t": "Can I Retire at 62 With $2.5M in a Roth IRA and $2,500 a Month From Social Security?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stock-jumps-amid-29b-treasury-buyback-plan-070906682.html"
+   "u": "https://finance.yahoo.com/news/2-5-million-roth-ira-110000154.html"
   },
   {
    "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "Unitree soars in Shanghai debut, a milestone for China's humanoid robotics sector",
+   "t": "More millennials are breaking their way into the 401(k) millionaire club than ever. How you can steal their strategy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/unitree-soars-shanghai-debut-milestone-070855689.html"
+   "u": "https://finance.yahoo.com/markets/articles/more-millennials-breaking-way-401-090000839.html"
   },
   {
    "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
