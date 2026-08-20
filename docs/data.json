@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 22:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 22:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,118 +212,118 @@
   },
   {
    "s": "AAPL",
-   "p": 316.53,
-   "c": -0.09,
-   "a50": 309.96,
+   "p": 316.41,
+   "c": -0.13,
+   "a50": 309.95,
    "a200": 281.33,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 315.78,
-   "r": 53.6
+   "r": 53.4
   },
   {
    "s": "NVDA",
-   "p": 217.36,
-   "c": -0.09,
-   "a50": 207.3,
+   "p": 218.05,
+   "c": 0.22,
+   "a50": 207.31,
    "a200": 195.25,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.81,
-   "r": 54.0
+   "a20": 212.84,
+   "r": 54.7
   },
   {
    "s": "TSLA",
-   "p": 340.6,
-   "c": -3.0,
-   "a50": 366.14,
-   "a200": 403.83,
+   "p": 339.91,
+   "c": -3.19,
+   "a50": 366.13,
+   "a200": 403.82,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.42,
-   "r": 48.3
+   "a20": 325.39,
+   "r": 48.0
   },
   {
    "s": "META",
-   "p": 544.4,
-   "c": -0.3,
-   "a50": 593.38,
-   "a200": 624.56,
+   "p": 546.41,
+   "c": 0.07,
+   "a50": 593.42,
+   "a200": 624.57,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 578.68,
-   "r": 36.7
+   "a20": 578.78,
+   "r": 37.2
   },
   {
    "s": "^TWII",
    "p": 44933.74,
    "c": 0.48,
-   "a50": 44823.8,
-   "a200": 36258.27,
+   "a50": 44845.8,
+   "a200": 36012.83,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 44009.25,
-   "r": 52.3
+   "a20": 44095.8,
+   "r": 51.9
   },
   {
    "s": "^GSPC",
-   "p": 7682.7,
-   "c": -0.33,
-   "a50": 7527.3,
-   "a200": 7082.1,
+   "p": 7686.84,
+   "c": -0.27,
+   "a50": 7533.81,
+   "a200": 7091.84,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7629.31,
-   "r": 55.0
+   "a20": 7633.59,
+   "r": 55.3
   },
   {
    "s": "^VIX",
-   "p": 15.95,
-   "c": 7.12,
-   "a50": 16.9,
-   "a200": 18.5,
+   "p": 15.9,
+   "c": 6.78,
+   "a50": 17.11,
+   "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.17,
-   "r": 49.4
+   "a20": 16.31,
+   "r": 48.9
   },
   {
    "s": "BZ=F",
-   "p": 93.58,
-   "c": 2.14,
-   "a50": 83.81,
+   "p": 93.18,
+   "c": 1.7,
+   "a50": 83.8,
    "a200": 82.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.8,
-   "r": 60.2
+   "a20": 87.78,
+   "r": 59.6
   },
   {
    "s": "GC=F",
-   "p": 4544.6,
-   "c": 1.23,
-   "a50": 4166.19,
+   "p": 4544.2,
+   "c": 1.22,
+   "a50": 4166.18,
    "a200": 4495.69,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4251.77,
+   "a20": 4251.75,
    "r": 70.5
   },
   {
    "s": "HG=F",
    "p": 6.44,
-   "c": -0.77,
+   "c": -0.72,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 47.4
+   "r": 47.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03135779,
-   "c": -0.03,
+   "c": -0.02,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200324.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Energy Giant Breaks Out (Live Coverage)",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as bond yields rebound after Treasury intervention, oil rises",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html"
   },
   {
    "t": "28家外銀在台分行　資產淨值創歷年新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200310.aspx"
   },
   {
-   "t": "Walmart stock drops as sales growth slows, customers make 'trade-offs' amid high fuel costs",
+   "t": "Should you refinance with the same lender?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/walmart-stock-drops-as-sales-growth-slows-customers-make-trade-offs-amid-high-fuel-costs-182327744.html"
+   "u": "https://finance.yahoo.com/news/refinance-same-lender-171238158.html"
   },
   {
    "t": "雲端發票使用率衝破68%　財長鼓勵民眾消費刷載具",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200302.aspx"
   },
   {
-   "t": "Stocks dip as bond yields and oil rise, Walmart earnings drag on retail: AlphaCheck",
+   "t": "End-Market Strength & Data Center Demand Drive Texas Instruments Incorporated’s (TXN) Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/stocks-dip-as-bond-yields-and-oil-rise-walmart-earnings-drag-on-retail-alphacheck-140142173.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/end-market-strength-data-center-141728493.html"
   },
   {
    "t": "AI熱潮外溢投資金融　第2季國際收支4指標創新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200298.aspx"
   },
   {
-   "t": "Wall Street has an answer to 60/40 — this ETF crams 90/60 into the same dollar: One Big Investment Idea",
+   "t": "After Moderna stock surge of 177% on cancer drug breakthrough, here's what Wall Street thinks happens next",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/wall-street-has-an-answer-to-6040--this-etf-crams-9060-into-the-same-dollar-one-big-investment-idea-135503448.html"
+   "u": "https://finance.yahoo.com/healthcare/article/after-moderna-stock-surge-of-177-on-cancer-drug-breakthrough-heres-what-wall-street-thinks-happens-next-091040601.html"
   },
   {
    "t": "國泰人壽台中烏日攻商辦商機　估2031年底完工",
