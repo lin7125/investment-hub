@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44511.05,
-   "c": -0.47,
-   "a50": 44815.35,
-   "a200": 36256.16,
+   "p": 44543.4,
+   "c": -0.39,
+   "a50": 44816.0,
+   "a200": 36256.32,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43988.11,
-   "r": 49.7
+   "a20": 43989.73,
+   "r": 49.9
   },
   {
    "s": "^GSPC",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200031.aspx"
   },
   {
-   "t": "This Energy Stock Is Spiking Now; Its Exxon Deal Smells Like AI",
+   "t": "QQQ Just 'Gamma Flipped' as Market Makers Were Forced to Sell. Here’s What Our Top Chart Expert is Tracking Next.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/energy-stock-targa-exxon-stock-natural-gas-deal-ai/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/options/articles/qqq-just-gamma-flipped-market-160314407.html"
   },
   {
    "t": "國泰金調查：57%民眾未來半年首選台股　美股居次",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200030.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Predicting Northrop Grumman Stock Will Climb or Sink?",
+   "t": "Apple changes fees for alternative app stores in EU",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-northrop-160908248.html"
+   "u": "https://finance.yahoo.com/technology/articles/apple-changes-fees-alternative-app-160307437.html"
   },
   {
    "t": "台股開盤漲222.66點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200026.aspx"
   },
   {
-   "t": "“The Odyssey” Demand Drives IMAX Shares Higher",
+   "t": "Dell Near All-Time Highs on Record Revenue, AI Demand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/odyssey-demand-drives-imax-shares-160910201.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dell-near-time-highs-record-160333836.html"
   },
   {
    "t": "新台幣開盤升4.7分　為31.89元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200025.aspx"
   },
   {
-   "t": "TKO Group  Stock: Is Wall Street Bullish or Bearish?",
+   "t": "“The Odyssey” Demand Drives IMAX Shares Higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tko-group-stock-wall-street-162422728.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/odyssey-demand-drives-imax-shares-160910201.html"
   },
   {
    "t": "台指期夜盤反彈　投顧：台股拚止跌聚焦季線攻防",
