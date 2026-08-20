@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 23:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 23:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,41 +212,41 @@
   },
   {
    "s": "AAPL",
-   "p": 317.1,
-   "c": 0.08,
-   "a50": 309.97,
-   "a200": 281.33,
+   "p": 316.26,
+   "c": -0.18,
+   "a50": 309.95,
+   "a200": 281.32,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 315.81,
-   "r": 54.1
+   "a20": 315.77,
+   "r": 53.3
   },
   {
    "s": "NVDA",
-   "p": 217.65,
-   "c": 0.04,
-   "a50": 207.31,
+   "p": 217.53,
+   "c": -0.01,
+   "a50": 207.3,
    "a200": 195.25,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 212.82,
-   "r": 54.3
+   "r": 54.2
   },
   {
    "s": "TSLA",
-   "p": 341.6,
-   "c": -2.71,
-   "a50": 366.16,
-   "a200": 403.83,
+   "p": 342.85,
+   "c": -2.36,
+   "a50": 366.19,
+   "a200": 403.84,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.47,
-   "r": 48.8
+   "a20": 325.54,
+   "r": 49.3
   },
   {
    "s": "META",
-   "p": 542.61,
-   "c": -0.63,
+   "p": 542.63,
+   "c": -0.62,
    "a50": 593.35,
    "a200": 624.55,
    "yh": 780.25,
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7688.73,
-   "c": -0.25,
-   "a50": 7527.42,
-   "a200": 7082.13,
+   "p": 7686.31,
+   "c": -0.28,
+   "a50": 7527.37,
+   "a200": 7082.11,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7629.61,
-   "r": 55.6
+   "a20": 7629.49,
+   "r": 55.3
   },
   {
    "s": "^VIX",
-   "p": 15.72,
-   "c": 5.57,
+   "p": 15.61,
+   "c": 4.84,
    "a50": 17.11,
-   "a200": 18.51,
+   "a200": 18.5,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.3,
-   "r": 48.1
+   "a20": 16.29,
+   "r": 47.6
   },
   {
    "s": "BZ=F",
-   "p": 93.11,
-   "c": 1.63,
-   "a50": 83.8,
+   "p": 93.46,
+   "c": 2.01,
+   "a50": 83.81,
    "a200": 82.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.78,
-   "r": 59.6
+   "a20": 87.8,
+   "r": 60.0
   },
   {
    "s": "GC=F",
-   "p": 4570.6,
-   "c": 1.81,
-   "a50": 4166.71,
-   "a200": 4495.82,
+   "p": 4587.3,
+   "c": 2.18,
+   "a50": 4167.05,
+   "a200": 4495.91,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4253.07,
-   "r": 71.5
+   "a20": 4253.9,
+   "r": 72.1
   },
   {
    "s": "HG=F",
    "p": 6.46,
-   "c": -0.46,
+   "c": -0.36,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 48.8
+   "r": 49.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03136763,
-   "c": 0.01,
+   "p": 0.03134796,
+   "c": -0.06,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
-   "t": "How Lower Migration Costs Are Shortening Guidewire Software’s (GWRE) Sales Cycle",
+   "t": "US Rare Earth Pure Play: Fireside with Tactical Resources CEO Ranjeet Sundher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lower-migration-costs-shortening-guidewire-144910987.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-rare-earth-pure-play-150549835.html"
   },
   {
    "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "Strong Track Record Reinforces Arista Networks’ (ANET) Long Term Delivery",
+   "t": "Stock Market Today: Dow Falls 300 Points On 'Economic D-Day' Threat; These Energy Funds Rise (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/strong-track-record-reinforces-arista-144514117.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo"
   },
   {
    "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200336.aspx"
   },
   {
-   "t": "Earnings Beat and Raised Guidance Send Entegris (ENTG) Higher",
+   "t": "Top Medical, Aerospace Supplier Scores Breakout On Q3 Beat; Analyst Hikes Target",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-raised-guidance-send-144121291.html"
+   "u": "https://www.investors.com/news/nordson-stock-breakout-earnings-q3-2026-revenue-backlog-price-target-ndsn-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美國公債殖利率回升　華爾街股市開盤下跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200333.aspx"
   },
   {
-   "t": "Scott Bessent just cried uncle on the bond market: Chart of the Day",
+   "t": "Darling Ingredients (DAR) is Well-Positioned for Significant Margin Expansion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/scott-bessent-just-cried-uncle-on-the-bond-market-chart-of-the-day-100000219.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/darling-ingredients-dar-well-positioned-145325923.html"
   },
   {
    "t": "串流影音訂戶調查　月均花355元、500元以上占22%",
