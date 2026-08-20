@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 317.51,
-   "c": 0.21,
+   "p": 317.47,
+   "c": 0.2,
    "a50": 309.98,
    "a200": 281.33,
    "yh": 340.08,
@@ -223,8 +223,8 @@
   },
   {
    "s": "NVDA",
-   "p": 216.92,
-   "c": -0.29,
+   "p": 216.89,
+   "c": -0.31,
    "a50": 207.29,
    "a200": 195.25,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 343.63,
-   "c": -2.13,
+   "p": 343.62,
+   "c": -2.14,
    "a50": 366.2,
    "a200": 403.84,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.58,
+   "a20": 325.57,
    "r": 49.7
   },
   {
    "s": "META",
-   "p": 542.99,
-   "c": -0.56,
-   "a50": 593.36,
+   "p": 542.56,
+   "c": -0.64,
+   "a50": 593.35,
    "a200": 624.55,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 578.61,
-   "r": 36.4
+   "a20": 578.59,
+   "r": 36.3
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7676.21,
-   "c": -0.41,
-   "a50": 7527.17,
+   "p": 7675.81,
+   "c": -0.42,
+   "a50": 7527.16,
    "a200": 7082.06,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7628.99,
-   "r": 54.4
+   "a20": 7628.97,
+   "r": 54.3
   },
   {
    "s": "^VIX",
-   "p": 15.63,
-   "c": 4.97,
+   "p": 15.62,
+   "c": 4.9,
    "a50": 17.11,
    "a200": 18.5,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.29,
-   "r": 47.7
+   "r": 47.6
   },
   {
    "s": "BZ=F",
-   "p": 92.98,
-   "c": 1.48,
+   "p": 92.88,
+   "c": 1.38,
    "a50": 83.8,
    "a200": 82.29,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.77,
-   "r": 59.4
+   "r": 59.2
   },
   {
    "s": "GC=F",
-   "p": 4568.1,
-   "c": 1.75,
-   "a50": 4166.66,
+   "p": 4568.3,
+   "c": 1.76,
+   "a50": 4166.67,
    "a200": 4495.81,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4252.94,
+   "a20": 4252.95,
    "r": 71.4
   },
   {
    "s": "HG=F",
    "p": 6.47,
-   "c": -0.29,
+   "c": -0.3,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200340.aspx"
   },
   {
-   "t": "Seller concession limits: How much can you ask for?",
+   "t": "Trump administration moves ahead with new crypto rules, with key bill stalled in Congress",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/seller-concession-limits-151821985.html"
+   "u": "https://finance.yahoo.com/markets/crypto/article/trump-administration-moves-ahead-with-new-crypto-rules-with-key-bill-stalled-in-congress-165233256.html"
   },
   {
    "t": "威力彩第115067期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
-   "t": "Futu Holdings Limited Q2 2026 Earnings Call Summary",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slide as bond yields rebound after Treasury intervention, oil rises",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/futu-holdings-limited-q2-2026-165703553.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html"
   },
   {
    "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "ScanSource, Inc. Q4 2026 Earnings Call Summary",
+   "t": "AIR Global Reports 1H Revenue & Gross Profit Growth, Maintains 2026 Guidance",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/scansource-inc-q4-2026-earnings-165701589.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/air-global-reports-1h-revenue-163804354.html"
   },
   {
    "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200336.aspx"
   },
   {
-   "t": "Trump administration moves ahead with new crypto rules, with key bill stalled in Congress",
+   "t": "Driver shortages, booming exports reshape US-Mexico freight market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/article/trump-administration-moves-ahead-with-new-crypto-rules-with-key-bill-stalled-in-congress-165233256.html"
+   "u": "https://finance.yahoo.com/economy/articles/driver-shortages-booming-exports-reshape-162434955.html"
   },
   {
    "t": "美國公債殖利率回升　華爾街股市開盤下跌",
