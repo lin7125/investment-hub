@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 04:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 04:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 93.52,
-   "c": 2.07,
+   "p": 93.5,
+   "c": 2.05,
    "a50": 83.81,
    "a200": 82.29,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4584.3,
-   "c": 2.11,
-   "a50": 4166.99,
-   "a200": 4495.89,
+   "p": 4579.0,
+   "c": 2.0,
+   "a50": 4166.88,
+   "a200": 4495.86,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4253.75,
-   "r": 72.0
+   "a20": 4253.49,
+   "r": 71.8
   },
   {
    "s": "HG=F",
-   "p": 6.48,
-   "c": -0.06,
+   "p": 6.49,
+   "c": -0.02,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 50.6
+   "r": 50.8
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200347.aspx"
   },
   {
-   "t": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia",
+   "t": "Is Intercontinental Exchange (ICE) a Simple, Durable Business Misunderstood by Market?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-simple-durable-115703814.html"
   },
   {
    "t": "今彩539第115202期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200340.aspx"
   },
   {
-   "t": "Mortgage and refinance interest rates today, Wednesday, August 19, 2026:  Surprisingly calm amid bond market volatility",
+   "t": "S&P Global (SPGI) Positioned to Unlock Growth Potential Amid AI Fears",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-19-2026-surprisingly-calm-amid-bond-market-volatility-100000804.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-positioned-unlock-115343241.html"
   },
   {
    "t": "威力彩第115067期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
-   "t": "Demand from US data-center boom radiates out through factory supply chains",
+   "t": "What Makes Alcon (ALC) a Bullish Bet?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/demand-us-data-center-boom-100520594.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/makes-alcon-alc-bullish-bet-115858989.html"
   },
   {
    "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "Young Americans are expecting to inherit money, assets, but this might not be reality",
+   "t": "Stable Growth Trajectory Positions Mastercard (MA) for Strong Returns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/young-americans-expecting-inherit-money-100500529.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stable-growth-trajectory-positions-mastercard-114803769.html"
   },
   {
    "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
