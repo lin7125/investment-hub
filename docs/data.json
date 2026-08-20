@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 22:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 23:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 317.13,
-   "c": 0.09,
+   "p": 317.1,
+   "c": 0.08,
    "a50": 309.97,
    "a200": 281.33,
    "yh": 340.08,
@@ -223,102 +223,102 @@
   },
   {
    "s": "NVDA",
-   "p": 217.57,
-   "c": 0.0,
+   "p": 217.65,
+   "c": 0.04,
    "a50": 207.31,
    "a200": 195.25,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 212.82,
-   "r": 54.2
+   "r": 54.3
   },
   {
    "s": "TSLA",
-   "p": 340.09,
-   "c": -3.14,
-   "a50": 366.13,
-   "a200": 403.82,
+   "p": 341.6,
+   "c": -2.71,
+   "a50": 366.16,
+   "a200": 403.83,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.4,
-   "r": 48.1
+   "a20": 325.47,
+   "r": 48.8
   },
   {
    "s": "META",
-   "p": 545.53,
-   "c": -0.09,
-   "a50": 593.41,
-   "a200": 624.57,
+   "p": 542.61,
+   "c": -0.63,
+   "a50": 593.35,
+   "a200": 624.55,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 578.73,
-   "r": 36.9
+   "a20": 578.59,
+   "r": 36.3
   },
   {
    "s": "^TWII",
    "p": 44933.74,
    "c": 0.48,
-   "a50": 44823.8,
-   "a200": 36258.27,
+   "a50": 44845.8,
+   "a200": 36012.83,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 44009.25,
-   "r": 52.3
+   "a20": 44095.8,
+   "r": 51.9
   },
   {
    "s": "^GSPC",
-   "p": 7687.26,
-   "c": -0.27,
-   "a50": 7533.82,
-   "a200": 7091.84,
+   "p": 7688.73,
+   "c": -0.25,
+   "a50": 7527.42,
+   "a200": 7082.13,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7633.61,
-   "r": 55.3
+   "a20": 7629.61,
+   "r": 55.6
   },
   {
    "s": "^VIX",
-   "p": 15.73,
-   "c": 5.64,
-   "a50": 16.9,
-   "a200": 18.5,
+   "p": 15.72,
+   "c": 5.57,
+   "a50": 17.11,
+   "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.16,
-   "r": 48.4
+   "a20": 16.3,
+   "r": 48.1
   },
   {
    "s": "BZ=F",
-   "p": 93.28,
-   "c": 1.81,
-   "a50": 83.81,
+   "p": 93.11,
+   "c": 1.63,
+   "a50": 83.8,
    "a200": 82.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.79,
-   "r": 59.8
+   "a20": 87.78,
+   "r": 59.6
   },
   {
    "s": "GC=F",
-   "p": 4559.6,
-   "c": 1.56,
-   "a50": 4166.49,
-   "a200": 4495.77,
+   "p": 4570.6,
+   "c": 1.81,
+   "a50": 4166.71,
+   "a200": 4495.82,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4252.52,
-   "r": 71.1
+   "a20": 4253.07,
+   "r": 71.5
   },
   {
    "s": "HG=F",
-   "p": 6.44,
-   "c": -0.72,
+   "p": 6.46,
+   "c": -0.46,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 47.6
+   "r": 48.8
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
-   "t": "Scott Bessent just cried uncle on the bond market: Chart of the Day",
+   "t": "How Lower Migration Costs Are Shortening Guidewire Software’s (GWRE) Sales Cycle",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/scott-bessent-just-cried-uncle-on-the-bond-market-chart-of-the-day-100000219.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lower-migration-costs-shortening-guidewire-144910987.html"
   },
   {
    "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "Bitcoin Price Spikes Above $72,000 On Treasury-Fueled Short Squeeze",
+   "t": "Strong Track Record Reinforces Arista Networks’ (ANET) Long Term Delivery",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/strong-track-record-reinforces-arista-144514117.html"
   },
   {
    "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200336.aspx"
   },
   {
-   "t": "Keysight Technologies (KEYS) Gains From Equipment Growth Fueled By AI Use Cases",
+   "t": "Earnings Beat and Raised Guidance Send Entegris (ENTG) Higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/keysight-technologies-keys-gains-equipment-143343630.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-raised-guidance-send-144121291.html"
   },
   {
    "t": "美國公債殖利率回升　華爾街股市開盤下跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200333.aspx"
   },
   {
-   "t": "Walmart’s Tariff Refund Couldn’t Save a Soft Quarter",
+   "t": "Scott Bessent just cried uncle on the bond market: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-tariff-refund-couldn-t-143233771.html"
+   "u": "https://finance.yahoo.com/markets/article/scott-bessent-just-cried-uncle-on-the-bond-market-chart-of-the-day-100000219.html"
   },
   {
    "t": "串流影音訂戶調查　月均花355元、500元以上占22%",
