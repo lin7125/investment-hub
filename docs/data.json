@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-20 13:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 13:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2360.0,
-   "c": 0.43,
-   "a50": 2387.7,
-   "a200": 1962.7,
+   "p": 2365.0,
+   "c": 0.64,
+   "a50": 2387.8,
+   "a200": 1962.72,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2357.5,
-   "r": 48.4
+   "a20": 2357.75,
+   "r": 48.9
   },
   {
    "s": "2317.TW",
@@ -25,47 +25,47 @@
   },
   {
    "s": "2308.TW",
-   "p": 1740.0,
-   "c": -1.42,
-   "a50": 1869.9,
-   "a200": 1537.67,
+   "p": 1750.0,
+   "c": -0.85,
+   "a50": 1870.1,
+   "a200": 1537.72,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1717.75,
-   "r": 46.1
+   "a20": 1718.25,
+   "r": 46.8
   },
   {
    "s": "2454.TW",
-   "p": 3695.0,
-   "c": -3.9,
-   "a50": 3957.3,
-   "a200": 2498.85,
+   "p": 3700.0,
+   "c": -3.77,
+   "a50": 3957.4,
+   "a200": 2498.88,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3809.25,
-   "r": 44.3
+   "a20": 3809.5,
+   "r": 44.4
   },
   {
    "s": "2327.TW",
-   "p": 560.0,
-   "c": -2.78,
-   "a50": 780.21,
-   "a200": 436.21,
+   "p": 561.0,
+   "c": -2.6,
+   "a50": 780.23,
+   "a200": 436.22,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 574.88,
-   "r": 40.8
+   "a20": 574.92,
+   "r": 40.9
   },
   {
    "s": "1802.TW",
-   "p": 57.9,
-   "c": 1.4,
+   "p": 57.8,
+   "c": 1.23,
    "a50": 60.33,
    "a200": 52.87,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.94,
-   "r": 53.3
+   "a20": 52.93,
+   "r": 53.1
   },
   {
    "s": "6862.TW",
@@ -80,25 +80,25 @@
   },
   {
    "s": "3701.TW",
-   "p": 40.25,
-   "c": 2.55,
+   "p": 40.45,
+   "c": 3.06,
    "a50": 42.21,
    "a200": 48.9,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.59,
-   "r": 48.0
+   "a20": 39.6,
+   "r": 48.6
   },
   {
    "s": "4722.TW",
-   "p": 204.5,
-   "c": 0.74,
-   "a50": 235.67,
+   "p": 204.0,
+   "c": 0.49,
+   "a50": 235.66,
    "a200": 199.42,
    "yh": 306.5,
    "yl": 115.0,
-   "a20": 202.12,
-   "r": 45.3
+   "a20": 202.1,
+   "r": 45.0
   },
   {
    "s": "6706.TW",
@@ -113,80 +113,80 @@
   },
   {
    "s": "2305.TW",
-   "p": 26.5,
-   "c": -1.12,
+   "p": 26.45,
+   "c": -1.31,
    "a50": 32.48,
    "a200": 18.87,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 29.0,
-   "r": 41.2
+   "r": 41.1
   },
   {
    "s": "6442.TW",
-   "p": 1535.0,
-   "c": 0.33,
-   "a50": 1526.2,
-   "a200": 1603.05,
+   "p": 1545.0,
+   "c": 0.98,
+   "a50": 1526.4,
+   "a200": 1603.1,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1391.0,
-   "r": 54.2
+   "a20": 1391.5,
+   "r": 54.7
   },
   {
    "s": "6515.TW",
-   "p": 6395.0,
-   "c": 0.39,
-   "a50": 7518.5,
-   "a200": 6072.22,
+   "p": 6415.0,
+   "c": 0.71,
+   "a50": 7518.9,
+   "a200": 6072.32,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6424.75,
-   "r": 43.6
+   "a20": 6425.75,
+   "r": 43.9
   },
   {
    "s": "6446.TW",
-   "p": 1380.0,
-   "c": -1.43,
-   "a50": 1193.45,
-   "a200": 724.92,
+   "p": 1375.0,
+   "c": -1.79,
+   "a50": 1193.35,
+   "a200": 724.9,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1281.0,
-   "r": 57.7
+   "a20": 1280.75,
+   "r": 57.2
   },
   {
    "s": "3324.TWO",
-   "p": 983.0,
-   "c": -0.61,
-   "a50": 973.62,
-   "a200": 998.13,
+   "p": 987.0,
+   "c": -0.2,
+   "a50": 973.7,
+   "a200": 998.15,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 967.65,
-   "r": 50.8
+   "a20": 967.85,
+   "r": 51.4
   },
   {
    "s": "3491.TWO",
-   "p": 1280.0,
-   "c": 4.49,
-   "a50": 1293.14,
-   "a200": 1207.04,
+   "p": 1285.0,
+   "c": 4.9,
+   "a50": 1293.24,
+   "a200": 1207.06,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1204.6,
-   "r": 51.0
+   "a20": 1204.85,
+   "r": 51.3
   },
   {
    "s": "3585.TWO",
-   "p": 50.3,
-   "c": 4.57,
-   "a50": 58.89,
-   "a200": 42.19,
+   "p": 50.2,
+   "c": 4.37,
+   "a50": 58.88,
+   "a200": 42.18,
    "yh": 165.0,
    "yl": 8.98,
    "a20": 47.56,
-   "r": 47.5
+   "r": 47.3
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44754.94,
-   "c": 0.08,
-   "a50": 44820.23,
-   "a200": 36257.37,
+   "p": 44791.99,
+   "c": 0.16,
+   "a50": 44820.97,
+   "a200": 36257.56,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 44000.31,
-   "r": 51.2
+   "a20": 44002.16,
+   "r": 51.5
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.81,
-   "c": 0.21,
-   "a50": 83.78,
+   "p": 91.75,
+   "c": 0.14,
+   "a50": 83.77,
    "a200": 82.28,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.71,
-   "r": 57.8
+   "r": 57.7
   },
   {
    "s": "GC=F",
-   "p": 4548.9,
-   "c": 1.33,
-   "a50": 4166.28,
-   "a200": 4495.71,
+   "p": 4542.9,
+   "c": 1.19,
+   "a50": 4166.16,
+   "a200": 4495.68,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4251.98,
-   "r": 70.6
+   "a20": 4251.68,
+   "r": 70.4
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": -0.07,
+   "c": -0.1,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 50.6
+   "r": 50.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03139717,
-   "c": 0.08,
+   "c": 0.09,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200081.aspx"
   },
   {
-   "t": "Beyond Oil: Record Revenue & U.S. Direct-Sales Expansion Fuel Scaling Phase – Quarterly Update Report",
+   "t": "Behind-the-Meter Energy Stocks Fall Tuesday: FTAI Aviation Down 7%, GE Vernova Down 6%, Caterpillar Down 4%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/beyond-oil-record-revenue-u-171951108.html"
+   "u": "https://finance.yahoo.com/energy/articles/behind-meter-energy-stocks-fall-172353733.html"
   },
   {
    "t": "中聯油脂案波及食品業　經部協調增產媒合穩供沙拉油",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200065.aspx"
   },
   {
-   "t": "Baidu Sinks 13% as Soft Results Put AI Pivot to the Test: How Alibaba and Chinese Tech Stocks Compare",
+   "t": "Extract Profit From Starbucks Stock Swings With This Long Strangle Option Trade",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/baidu-sinks-13-soft-results-171813626.html"
+   "u": "https://www.investors.com/research/options/starbucks-stock-sbux-coffee-trading-options-income-trade-strategy-markets/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股翻黑下跌逾200點　光學股相對強勢",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200057.aspx"
   },
   {
-   "t": "Corn Fading Early Gains for Midday Tuesday Weakness",
+   "t": "Beyond Oil: Record Revenue & U.S. Direct-Sales Expansion Fuel Scaling Phase – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-fading-early-gains-midday-171613128.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/beyond-oil-record-revenue-u-171951108.html"
   },
   {
    "t": "新代攻AI機器人金屬加工　AI伺服器應用比重達3成",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200043.aspx"
   },
   {
-   "t": "Soybeans Holding onto Tuesday Gains at Midday",
+   "t": "Massive Put Options Trading in Bank of NY Mellon - Out-of-the-Money 3.33% Yield",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-holding-onto-tuesday-gains-171613671.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/massive-put-options-trading-bank-173002910.html"
   },
   {
    "t": "美債殖利率飆升　財政部加碼長債回購穩市",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608200033.aspx"
   },
   {
-   "t": "Extract Profit From Starbucks Stock Swings With This Long Strangle Option Trade",
+   "t": "Paramount Skydance Could Sell CNN. What That Means for PSKY Stock Investors Here.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/starbucks-stock-sbux-coffee-trading-options-income-trade-strategy-markets/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/paramount-skydance-could-sell-cnn-173220145.html"
   },
   {
    "t": "台股早盤漲逾400點　站上45000點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200031.aspx"
   },
   {
-   "t": "State Farm's $5 billion dividend payout is largest in company history: Who's eligible?",
+   "t": "Nvidia vs. Micron: One Sells AI Chips, One Sells the Memory Next to Them. Here's Which Stock Actually Benefits More From the 2026 AI Infrastructure Buildout.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/state-farms-5-billion-dividend-payout-is-largest-in-company-history-whos-eligible-170817212.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-micron-one-sells-172100661.html"
   }
  ],
  "inst": {
