@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 10:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 10:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,69 +14,69 @@
   },
   {
    "s": "2317.TW",
-   "p": 247.0,
-   "c": 0.82,
-   "a50": 250.82,
+   "p": 245.5,
+   "c": 0.2,
+   "a50": 250.79,
    "a200": 235.84,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.08,
-   "r": 45.8
+   "a20": 253.0,
+   "r": 44.7
   },
   {
    "s": "2308.TW",
-   "p": 1725.0,
-   "c": -2.27,
-   "a50": 1869.6,
-   "a200": 1537.6,
+   "p": 1720.0,
+   "c": -2.55,
+   "a50": 1869.5,
+   "a200": 1537.57,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1717.0,
-   "r": 45.2
+   "a20": 1716.75,
+   "r": 44.9
   },
   {
    "s": "2454.TW",
-   "p": 3755.0,
-   "c": -2.34,
-   "a50": 3958.5,
-   "a200": 2499.15,
+   "p": 3720.0,
+   "c": -3.25,
+   "a50": 3957.8,
+   "a200": 2498.98,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3812.25,
-   "r": 45.9
+   "a20": 3810.5,
+   "r": 45.0
   },
   {
    "s": "2327.TW",
-   "p": 564.0,
-   "c": -2.08,
-   "a50": 780.29,
-   "a200": 436.23,
+   "p": 560.0,
+   "c": -2.78,
+   "a50": 780.21,
+   "a200": 436.21,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 575.08,
-   "r": 41.2
+   "a20": 574.88,
+   "r": 40.8
   },
   {
    "s": "1802.TW",
-   "p": 58.5,
-   "c": 2.45,
+   "p": 58.1,
+   "c": 1.75,
    "a50": 60.34,
    "a200": 52.87,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.97,
-   "r": 54.4
+   "a20": 52.95,
+   "r": 53.7
   },
   {
    "s": "6862.TW",
-   "p": 137.0,
-   "c": -0.36,
-   "a50": 166.08,
-   "a200": 176.3,
+   "p": 138.0,
+   "c": 0.36,
+   "a50": 166.1,
+   "a200": 176.31,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 138.6,
-   "r": 39.8
+   "a20": 138.65,
+   "r": 40.7
   },
   {
    "s": "3701.TW",
@@ -91,14 +91,14 @@
   },
   {
    "s": "4722.TW",
-   "p": 199.0,
-   "c": -1.97,
-   "a50": 235.56,
-   "a200": 199.39,
+   "p": 200.5,
+   "c": -1.23,
+   "a50": 235.59,
+   "a200": 199.4,
    "yh": 306.5,
    "yl": 115.0,
-   "a20": 201.85,
-   "r": 43.2
+   "a20": 201.92,
+   "r": 43.7
   },
   {
    "s": "6706.TW",
@@ -113,91 +113,91 @@
   },
   {
    "s": "2305.TW",
-   "p": 26.7,
-   "c": -0.37,
+   "p": 26.55,
+   "c": -0.93,
    "a50": 32.48,
    "a200": 18.87,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 29.01,
-   "r": 41.7
+   "a20": 29.0,
+   "r": 41.3
   },
   {
    "s": "6442.TW",
-   "p": 1570.0,
-   "c": 2.61,
-   "a50": 1526.9,
-   "a200": 1603.22,
+   "p": 1580.0,
+   "c": 3.27,
+   "a50": 1527.1,
+   "a200": 1603.28,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1392.75,
-   "r": 56.0
+   "a20": 1393.25,
+   "r": 56.5
   },
   {
    "s": "6515.TW",
-   "p": 6285.0,
-   "c": -1.33,
-   "a50": 7516.3,
-   "a200": 6071.68,
+   "p": 6295.0,
+   "c": -1.18,
+   "a50": 7516.5,
+   "a200": 6071.72,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6419.25,
-   "r": 42.0
+   "a20": 6419.75,
+   "r": 42.1
   },
   {
    "s": "6446.TW",
-   "p": 1385.0,
-   "c": -1.07,
-   "a50": 1193.55,
-   "a200": 724.95,
+   "p": 1375.0,
+   "c": -1.79,
+   "a50": 1193.35,
+   "a200": 724.9,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1281.25,
-   "r": 58.1
+   "a20": 1280.75,
+   "r": 57.2
   },
   {
    "s": "3324.TWO",
-   "p": 976.0,
-   "c": -1.31,
-   "a50": 973.48,
-   "a200": 998.1,
+   "p": 974.0,
+   "c": -1.52,
+   "a50": 973.44,
+   "a200": 998.08,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 967.3,
-   "r": 49.8
+   "a20": 967.2,
+   "r": 49.5
   },
   {
    "s": "3491.TWO",
-   "p": 1265.0,
-   "c": 3.27,
-   "a50": 1292.84,
-   "a200": 1206.96,
+   "p": 1260.0,
+   "c": 2.86,
+   "a50": 1292.74,
+   "a200": 1206.94,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1203.85,
-   "r": 50.1
+   "a20": 1203.6,
+   "r": 49.7
   },
   {
    "s": "3585.TWO",
-   "p": 50.5,
-   "c": 4.99,
-   "a50": 58.89,
+   "p": 50.8,
+   "c": 5.61,
+   "a50": 58.9,
    "a200": 42.19,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.57,
-   "r": 47.8
+   "a20": 47.59,
+   "r": 48.3
   },
   {
    "s": "6223.TWO",
-   "p": 5370.0,
-   "c": 2.19,
-   "a50": 6190.6,
-   "a200": 4091.05,
+   "p": 5400.0,
+   "c": 2.76,
+   "a50": 6191.2,
+   "a200": 4091.2,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5779.0,
-   "r": 41.5
+   "a20": 5780.5,
+   "r": 42.0
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44709.75,
-   "c": -0.02,
-   "a50": 44819.32,
-   "a200": 36257.15,
+   "p": 44637.67,
+   "c": -0.18,
+   "a50": 44817.88,
+   "a200": 36256.79,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43998.05,
-   "r": 51.0
+   "a20": 43994.45,
+   "r": 50.5
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 92.2,
-   "c": 1.3,
+   "p": 92.11,
+   "c": 1.2,
    "a50": 83.78,
    "a200": 82.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.19,
-   "r": 58.3
+   "a20": 88.18,
+   "r": 58.1
   },
   {
    "s": "GC=F",
-   "p": 4543.9,
-   "c": 4.07,
-   "a50": 4161.59,
-   "a200": 4493.15,
+   "p": 4553.5,
+   "c": 4.29,
+   "a50": 4161.78,
+   "a200": 4493.2,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4229.59,
-   "r": 70.3
+   "a20": 4230.07,
+   "r": 70.6
   },
   {
    "s": "HG=F",
-   "p": 6.47,
-   "c": -0.18,
+   "p": 6.49,
+   "c": 0.05,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.5,
-   "r": 49.8
+   "a20": 6.51,
+   "r": 50.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": 0.2,
+   "p": 0.0314169,
+   "c": 0.15,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200031.aspx"
   },
   {
-   "t": "Terrible Nike Stock Historically Offers a Near-Term Bounce When Things Are This Bad",
+   "t": "Billionaire Howard Marks Just Bought This Beaten-Down Indian Stock. Don’t Miss The Opportunity",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/terrible-nike-stock-historically-offers-142546719.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-howard-marks-just-bought-142414555.html"
   },
   {
    "t": "國泰金調查：57%民眾未來半年首選台股　美股居次",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200030.aspx"
   },
   {
-   "t": "Value Investing Legend Howard Marks Is Buying This Stock Down 30%. Should You Buy?",
+   "t": "Is Wall Street Bullish or Bearish on Chubb Limited Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/value-investing-legend-howard-marks-142912418.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-chubb-142359785.html"
   },
   {
    "t": "台股開盤漲222.66點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200026.aspx"
   },
   {
-   "t": "Billionaire Howard Marks Just Bought This Beaten-Down Indian Stock. Don’t Miss The Opportunity",
+   "t": "Baron Capital Adds Blackstone Digital Infrastructure Trust (BXDC) on Strong Leadership and Robust Pipeline",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-howard-marks-just-bought-142414555.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/baron-capital-adds-blackstone-digital-142232750.html"
   },
   {
    "t": "新台幣開盤升4.7分　為31.89元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200025.aspx"
   },
   {
-   "t": "Vanguard strategist says retirees need 'a complete mind shift' — and shares 4 principles to ease financial anxiety",
+   "t": "Terrible Nike Stock Historically Offers a Near-Term Bounce When Things Are This Bad",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/vanguard-strategist-says-retirees-complete-143000691.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/terrible-nike-stock-historically-offers-142546719.html"
   },
   {
    "t": "台指期夜盤反彈　投顧：台股拚止跌聚焦季線攻防",
