@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 02:45（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 02:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 315.56,
-   "c": -0.4,
+   "p": 315.5,
+   "c": -0.42,
    "a50": 309.94,
    "a200": 281.32,
    "yh": 340.08,
@@ -223,29 +223,29 @@
   },
   {
    "s": "NVDA",
-   "p": 216.59,
-   "c": -0.45,
+   "p": 216.72,
+   "c": -0.39,
    "a50": 207.29,
    "a200": 195.25,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.77,
-   "r": 53.1
+   "a20": 212.78,
+   "r": 53.3
   },
   {
    "s": "TSLA",
-   "p": 343.41,
-   "c": -2.2,
+   "p": 343.48,
+   "c": -2.18,
    "a50": 366.2,
    "a200": 403.84,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.56,
+   "a20": 325.57,
    "r": 49.6
   },
   {
    "s": "META",
-   "p": 540.89,
+   "p": 540.9,
    "c": -0.94,
    "a50": 593.31,
    "a200": 624.54,
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7653.78,
-   "c": -0.7,
-   "a50": 7526.72,
-   "a200": 7081.95,
+   "p": 7655.21,
+   "c": -0.68,
+   "a50": 7526.75,
+   "a200": 7081.96,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7627.87,
-   "r": 52.4
+   "a20": 7627.94,
+   "r": 52.5
   },
   {
    "s": "^VIX",
-   "p": 16.0,
-   "c": 7.45,
+   "p": 16.06,
+   "c": 7.86,
    "a50": 17.12,
    "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.31,
-   "r": 49.4
+   "r": 49.6
   },
   {
    "s": "BZ=F",
-   "p": 93.78,
-   "c": 2.36,
+   "p": 93.8,
+   "c": 2.38,
    "a50": 83.82,
    "a200": 82.29,
    "yh": 118.35,
@@ -300,13 +300,13 @@
   },
   {
    "s": "GC=F",
-   "p": 4576.4,
-   "c": 1.94,
-   "a50": 4166.83,
+   "p": 4576.1,
+   "c": 1.93,
+   "a50": 4166.82,
    "a200": 4495.85,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4253.36,
+   "a20": 4253.34,
    "r": 71.7
   },
   {
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03135779,
-   "c": -0.01,
+   "p": 0.03136763,
+   "c": 0.01,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200347.aspx"
   },
   {
-   "t": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say",
+   "t": "Alphabet raises $3.9 billion in inaugural Australian dollar bond",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/samsung-hikes-chipmaking-prices-15-082956191.html"
+   "u": "https://finance.yahoo.com/technology/articles/alphabet-raises-3-9-billion-084802381.html"
   },
   {
    "t": "今彩539第115202期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200340.aspx"
   },
   {
-   "t": "Alphabet raises $3.9 billion in inaugural Australian dollar bond",
+   "t": "Can I Retire at 62 With $2.5M in a Roth IRA and $2,500 a Month From Social Security?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/alphabet-raises-3-9-billion-084802381.html"
+   "u": "https://finance.yahoo.com/news/2-5-million-roth-ira-110000154.html"
   },
   {
    "t": "威力彩第115067期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "Can I Retire at 62 With $2.5M in a Roth IRA and $2,500 a Month From Social Security?",
+   "t": "Samsung hikes chipmaking prices by up to 15% on demand spike, sources say",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/2-5-million-roth-ira-110000154.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/samsung-hikes-chipmaking-prices-15-082956191.html"
   },
   {
    "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
