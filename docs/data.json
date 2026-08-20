@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 22:48（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 22:58（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,29 +212,29 @@
   },
   {
    "s": "AAPL",
-   "p": 316.71,
-   "c": -0.04,
-   "a50": 309.96,
+   "p": 317.1,
+   "c": 0.09,
+   "a50": 309.97,
    "a200": 281.33,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 315.79,
-   "r": 53.7
+   "a20": 315.81,
+   "r": 54.1
   },
   {
    "s": "NVDA",
-   "p": 218.06,
-   "c": 0.23,
-   "a50": 207.32,
+   "p": 217.5,
+   "c": -0.03,
+   "a50": 207.3,
    "a200": 195.25,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.84,
-   "r": 54.7
+   "a20": 212.82,
+   "r": 54.1
   },
   {
    "s": "TSLA",
-   "p": 339.99,
+   "p": 339.98,
    "c": -3.17,
    "a50": 366.13,
    "a200": 403.82,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 546.47,
-   "c": 0.08,
-   "a50": 593.43,
+   "p": 545.48,
+   "c": -0.1,
+   "a50": 593.41,
    "a200": 624.57,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 578.78,
-   "r": 37.2
+   "a20": 578.73,
+   "r": 36.9
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7688.94,
-   "c": -0.25,
-   "a50": 7527.42,
-   "a200": 7082.13,
+   "p": 7685.79,
+   "c": -0.29,
+   "a50": 7533.79,
+   "a200": 7091.84,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7629.62,
-   "r": 55.6
+   "a20": 7633.54,
+   "r": 55.2
   },
   {
    "s": "^VIX",
-   "p": 15.81,
-   "c": 6.18,
+   "p": 15.75,
+   "c": 5.78,
    "a50": 16.9,
    "a200": 18.5,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.17,
-   "r": 48.8
+   "a20": 16.16,
+   "r": 48.5
   },
   {
    "s": "BZ=F",
-   "p": 93.22,
-   "c": 1.75,
-   "a50": 83.8,
+   "p": 93.28,
+   "c": 1.81,
+   "a50": 83.81,
    "a200": 82.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.78,
-   "r": 59.7
+   "a20": 87.79,
+   "r": 59.8
   },
   {
    "s": "GC=F",
-   "p": 4552.3,
-   "c": 1.4,
-   "a50": 4166.35,
-   "a200": 4495.73,
+   "p": 4559.5,
+   "c": 1.56,
+   "a50": 4166.49,
+   "a200": 4495.77,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4252.15,
-   "r": 70.8
+   "a20": 4252.51,
+   "r": 71.1
   },
   {
    "s": "HG=F",
-   "p": 6.45,
-   "c": -0.55,
+   "p": 6.44,
+   "c": -0.69,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 48.3
+   "r": 47.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03135779,
-   "c": -0.01,
+   "p": 0.03136763,
+   "c": 0.01,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "威力彩第115067期開獎",
+   "t": "今彩539第115202期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/ahel/202608200326.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608200340.aspx"
   },
   {
    "t": "Jim Cramer drops stunning take on the economy",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/economy/articles/jim-cramer-drops-stunning-economy-230000219.html"
   },
   {
-   "t": "今彩539第115202期開獎",
+   "t": "威力彩第115067期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/ahel/202608200324.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
    "t": "Scott Bessent just cried uncle on the bond market: Chart of the Day",
@@ -356,46 +356,46 @@
    "u": "https://finance.yahoo.com/markets/article/scott-bessent-just-cried-uncle-on-the-bond-market-chart-of-the-day-100000219.html"
   },
   {
-   "t": "28家外銀在台分行　資產淨值創歷年新高",
+   "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
    "pub": "中央社財經",
    "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200310.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "SpaceX stock slips as 319 million new shares come to market",
+   "t": "Bitcoin Price Spikes Above $72,000 On Treasury-Fueled Short Squeeze",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-slips-as-319-million-new-shares-come-to-market-143100875.html"
+   "u": "https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "雲端發票使用率衝破68%　財長鼓勵民眾消費刷載具",
+   "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
    "pub": "中央社財經",
    "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/ahel/202608200302.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608200336.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as bond yields rebound after Treasury intervention, oil rises",
+   "t": "Keysight Technologies (KEYS) Gains From Equipment Growth Fueled By AI Use Cases",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/keysight-technologies-keys-gains-equipment-143343630.html"
   },
   {
-   "t": "AI熱潮外溢投資金融　第2季國際收支4指標創新高",
+   "t": "美國公債殖利率回升　華爾街股市開盤下跌",
    "pub": "中央社財經",
    "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200298.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608200333.aspx"
   },
   {
-   "t": "Intercontinental Exchange (ICE) Caught in AI Loser Narrative Despite Strong Results",
+   "t": "Walmart’s Tariff Refund Couldn’t Save a Soft Quarter",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-caught-ai-142515947.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-tariff-refund-couldn-t-143233771.html"
   },
   {
-   "t": "國泰人壽台中烏日攻商辦商機　估2031年底完工",
+   "t": "串流影音訂戶調查　月均花355元、500元以上占22%",
    "pub": "中央社財經",
    "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200297.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608200331.aspx"
   },
   {
    "t": "Bank of America sends message on Capital One stock",
