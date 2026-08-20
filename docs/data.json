@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 03:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 03:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 312.56,
-   "c": -1.35,
+   "p": 312.67,
+   "c": -1.31,
    "a50": 309.88,
    "a200": 281.31,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 315.58,
-   "r": 50.0
+   "a20": 315.59,
+   "r": 50.1
   },
   {
    "s": "NVDA",
-   "p": 216.82,
-   "c": -0.34,
+   "p": 216.8,
+   "c": -0.35,
    "a50": 207.29,
    "a200": 195.25,
    "yh": 235.74,
@@ -234,63 +234,63 @@
   },
   {
    "s": "TSLA",
-   "p": 343.36,
-   "c": -2.21,
-   "a50": 366.2,
+   "p": 343.11,
+   "c": -2.28,
+   "a50": 366.19,
    "a200": 403.84,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.56,
-   "r": 49.6
+   "a20": 325.55,
+   "r": 49.4
   },
   {
    "s": "META",
-   "p": 544.38,
-   "c": -0.3,
-   "a50": 593.38,
+   "p": 544.7,
+   "c": -0.24,
+   "a50": 593.39,
    "a200": 624.56,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 578.68,
-   "r": 36.7
+   "a20": 578.69,
+   "r": 36.8
   },
   {
    "s": "^TWII",
    "p": 44719.35,
    "c": -1.3,
-   "a50": 44860.67,
-   "a200": 35924.67,
+   "a50": 44819.22,
+   "a200": 36171.84,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43971.6,
-   "r": 50.8
+   "a20": 44005.1,
+   "r": 51.0
   },
   {
    "s": "^GSPC",
-   "p": 7648.36,
+   "p": 7648.8,
    "c": -0.77,
-   "a50": 7526.61,
-   "a200": 7081.92,
+   "a50": 7533.05,
+   "a200": 7091.65,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7627.6,
-   "r": 51.9
+   "a20": 7631.69,
+   "r": 51.8
   },
   {
    "s": "^VIX",
-   "p": 16.08,
-   "c": 7.99,
-   "a50": 17.12,
-   "a200": 18.51,
+   "p": 16.07,
+   "c": 7.92,
+   "a50": 16.9,
+   "a200": 18.5,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.31,
-   "r": 49.7
+   "a20": 16.18,
+   "r": 49.9
   },
   {
    "s": "BZ=F",
-   "p": 93.55,
-   "c": 2.11,
+   "p": 93.53,
+   "c": 2.08,
    "a50": 83.81,
    "a200": 82.29,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4581.2,
-   "c": 2.04,
-   "a50": 4166.92,
-   "a200": 4495.88,
+   "p": 4584.3,
+   "c": 2.11,
+   "a50": 4166.99,
+   "a200": 4495.89,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4253.6,
-   "r": 71.9
+   "a20": 4253.75,
+   "r": 72.0
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": -0.1,
+   "c": -0.08,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 50.4
+   "r": 50.5
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200347.aspx"
   },
   {
-   "t": "The billionaire 'Bond King' just compared Wall Street's $500 billion AI bet to a warehouse full of bananas",
+   "t": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/billionaire-bond-king-just-compared-093000734.html"
+   "u": "https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html"
   },
   {
    "t": "今彩539第115202期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200340.aspx"
   },
   {
-   "t": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia",
+   "t": "Mortgage and refinance interest rates today, Wednesday, August 19, 2026:  Surprisingly calm amid bond market volatility",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-19-2026-surprisingly-calm-amid-bond-market-volatility-100000804.html"
   },
   {
    "t": "威力彩第115067期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
-   "t": "Mortgage and refinance interest rates today, Wednesday, August 19, 2026:  Surprisingly calm amid bond market volatility",
+   "t": "Young Americans are expecting to inherit money, assets, but this might not be reality",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-19-2026-surprisingly-calm-amid-bond-market-volatility-100000804.html"
+   "u": "https://finance.yahoo.com/markets/articles/young-americans-expecting-inherit-money-100500529.html"
   },
   {
    "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "Casella Waste Systems (CWST) Offers Durable Potential Beyond Market Concerns",
+   "t": "The IRS just sent a $43 billion ‘Trump Bump’ to millions of Americans — did you get your check?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/casella-waste-systems-cwst-offers-104552714.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/irs-just-sent-43-billion-100500366.html"
   },
   {
    "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
