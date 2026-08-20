@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 01:43（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 01:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 316.61,
-   "c": -0.07,
-   "a50": 309.96,
+   "p": 316.39,
+   "c": -0.14,
+   "a50": 309.95,
    "a200": 281.33,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 315.79,
-   "r": 53.6
+   "a20": 315.78,
+   "r": 53.4
   },
   {
    "s": "NVDA",
-   "p": 216.43,
-   "c": -0.52,
-   "a50": 207.28,
+   "p": 216.59,
+   "c": -0.45,
+   "a50": 207.29,
    "a200": 195.25,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.76,
-   "r": 53.0
+   "a20": 212.77,
+   "r": 53.1
   },
   {
    "s": "TSLA",
-   "p": 341.93,
-   "c": -2.62,
-   "a50": 366.17,
-   "a200": 403.83,
+   "p": 342.58,
+   "c": -2.43,
+   "a50": 366.18,
+   "a200": 403.84,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.49,
-   "r": 48.9
+   "a20": 325.52,
+   "r": 49.2
   },
   {
    "s": "META",
-   "p": 542.04,
-   "c": -0.73,
+   "p": 542.42,
+   "c": -0.66,
    "a50": 593.34,
    "a200": 624.55,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 578.56,
+   "a20": 578.58,
    "r": 36.2
   },
   {
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7661.76,
-   "c": -0.6,
-   "a50": 7526.88,
-   "a200": 7081.99,
+   "p": 7665.78,
+   "c": -0.55,
+   "a50": 7526.96,
+   "a200": 7082.01,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7628.27,
-   "r": 53.1
+   "a20": 7628.47,
+   "r": 53.4
   },
   {
    "s": "^VIX",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 93.45,
-   "c": 2.0,
+   "p": 93.43,
+   "c": 1.98,
    "a50": 83.81,
    "a200": 82.29,
    "yh": 118.35,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4573.5,
-   "c": 1.87,
+   "p": 4573.6,
+   "c": 1.88,
    "a50": 4166.77,
    "a200": 4495.84,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4253.21,
+   "a20": 4253.22,
    "r": 71.6
   },
   {
    "s": "HG=F",
    "p": 6.47,
-   "c": -0.28,
+   "c": -0.27,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200340.aspx"
   },
   {
-   "t": "Cathie Wood's Firm Launches New ETF; Buys Broadcom, Rocket Lab, Cloudflare",
+   "t": "SOL Strategies Evolving Into Broader Blockchain Platform – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/cathie-wood-ark-invest-etf-broadcom-rocket-lab-cloudflare/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/sol-strategies-evolving-broader-blockchain-172631865.html"
   },
   {
    "t": "威力彩第115067期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
-   "t": "US Treasury buyback briefly eases bond rout, but debt worries persist",
+   "t": "Cathie Wood's Firm Launches New ETF; Buys Broadcom, Rocket Lab, Cloudflare",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/bonds-bounce-us-buybacks-relief-040238251.html"
+   "u": "https://www.investors.com/news/cathie-wood-ark-invest-etf-broadcom-rocket-lab-cloudflare/?src=A00220&yptr=yahoo"
   },
   {
    "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "Treasury's upsized buybacks may complicate Fed's monetary policy work",
+   "t": "US Treasury buyback briefly eases bond rout, but debt worries persist",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/treasurys-upsized-buybacks-may-complicate-050106824.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/bonds-bounce-us-buybacks-relief-040238251.html"
   },
   {
    "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
