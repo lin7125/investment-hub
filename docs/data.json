@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 03:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 03:57（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 312.67,
-   "c": -1.31,
-   "a50": 309.88,
-   "a200": 281.31,
+   "p": 310.77,
+   "c": -1.91,
+   "a50": 309.84,
+   "a200": 281.3,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 315.59,
-   "r": 50.1
+   "a20": 315.5,
+   "r": 48.5
   },
   {
    "s": "NVDA",
-   "p": 216.8,
-   "c": -0.35,
+   "p": 216.71,
+   "c": -0.39,
    "a50": 207.29,
    "a200": 195.25,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 212.78,
-   "r": 53.4
+   "r": 53.3
   },
   {
    "s": "TSLA",
-   "p": 343.11,
-   "c": -2.28,
-   "a50": 366.19,
-   "a200": 403.84,
+   "p": 344.9,
+   "c": -1.77,
+   "a50": 366.23,
+   "a200": 403.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.55,
-   "r": 49.4
+   "a20": 325.64,
+   "r": 50.3
   },
   {
    "s": "META",
-   "p": 544.7,
-   "c": -0.24,
-   "a50": 593.39,
-   "a200": 624.56,
+   "p": 546.27,
+   "c": 0.04,
+   "a50": 593.42,
+   "a200": 624.57,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 578.69,
-   "r": 36.8
+   "a20": 578.77,
+   "r": 37.1
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7648.8,
-   "c": -0.77,
-   "a50": 7533.05,
-   "a200": 7091.65,
+   "p": 7640.24,
+   "c": -0.88,
+   "a50": 7526.45,
+   "a200": 7081.88,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7631.69,
-   "r": 51.8
+   "a20": 7627.19,
+   "r": 51.2
   },
   {
    "s": "^VIX",
-   "p": 16.07,
-   "c": 7.92,
-   "a50": 16.9,
-   "a200": 18.5,
+   "p": 16.03,
+   "c": 7.66,
+   "a50": 17.12,
+   "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.18,
-   "r": 49.9
+   "a20": 16.31,
+   "r": 49.5
   },
   {
    "s": "BZ=F",
-   "p": 93.53,
-   "c": 2.08,
+   "p": 93.51,
+   "c": 2.06,
    "a50": 83.81,
    "a200": 82.29,
    "yh": 118.35,
@@ -300,13 +300,13 @@
   },
   {
    "s": "GC=F",
-   "p": 4584.3,
-   "c": 2.11,
-   "a50": 4166.99,
-   "a200": 4495.89,
+   "p": 4582.5,
+   "c": 2.07,
+   "a50": 4166.95,
+   "a200": 4495.88,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4253.75,
+   "a20": 4253.66,
    "r": 72.0
   },
   {
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03137747,
-   "c": 0.02,
+   "p": 0.03136763,
+   "c": 0.0,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
-   "t": "Young Americans are expecting to inherit money, assets, but this might not be reality",
+   "t": "The IRS just sent a $43 billion ‘Trump Bump’ to millions of Americans — did you get your check?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/young-americans-expecting-inherit-money-100500529.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/irs-just-sent-43-billion-100500366.html"
   },
   {
    "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "The IRS just sent a $43 billion ‘Trump Bump’ to millions of Americans — did you get your check?",
+   "t": "Young Americans are expecting to inherit money, assets, but this might not be reality",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/irs-just-sent-43-billion-100500366.html"
+   "u": "https://finance.yahoo.com/markets/articles/young-americans-expecting-inherit-money-100500529.html"
   },
   {
    "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
