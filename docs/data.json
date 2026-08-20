@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 04:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 04:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 16.0,
-   "c": 7.45,
+   "p": 16.01,
+   "c": 7.52,
    "a50": 17.12,
    "a200": 18.51,
    "yh": 31.05,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4577.6,
-   "c": 1.96,
-   "a50": 4166.85,
-   "a200": 4495.86,
+   "p": 4574.0,
+   "c": 1.88,
+   "a50": 4166.78,
+   "a200": 4495.84,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4253.42,
-   "r": 71.8
+   "a20": 4253.24,
+   "r": 71.6
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": -0.08,
+   "c": -0.05,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 50.5
+   "r": 50.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03137747,
-   "c": 0.02,
+   "c": 0.04,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200347.aspx"
   },
   {
-   "t": "Is Resistance Futile Or Fiery? This AI Stock Checks Its Wires.",
+   "t": "These 3 easy benchmarks can help you find out if you’re really ready to retire. Have you met them yet?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/breakout-stocks-technical-analysis/credo-stock-outranks-ai-peers-nvidia-amd-faces-key-test/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/articles/3-easy-benchmarks-help-really-122500468.html"
   },
   {
    "t": "今彩539第115202期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200340.aspx"
   },
   {
-   "t": "Coinbase Below Key Level Amid Clarity Act Uncertainty; Is Coinbase Stock A Sell Now?",
+   "t": "Wheat Holding Steady so far on Wednesday Morning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/coinbase-coin-stock-earnings-clarity-act-sell-now-august-2026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/wheat-holding-steady-far-wednesday-122410547.html"
   },
   {
    "t": "威力彩第115067期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
-   "t": "This Rare VIX Signal Says Now's the Time to Take Profits",
+   "t": "Soybeans Surging Higher on Wednesday Morning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/rare-vix-signal-says-nows-120011437.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-surging-higher-wednesday-morning-122410833.html"
   },
   {
    "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "Elon Musk's 'Bank' Will Pay A Risk-Free 6% Yield On Your Cash",
+   "t": "Corn Back to Early Strength on Wednesday, as Tour Yields Continue Decline",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/etfs-and-funds/sectors/elon-musk-bank-will-pay-you-a-risk-free-6-yield-on-your-money/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-back-early-strength-wednesday-122410228.html"
   },
   {
    "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
