@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 22:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 22:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 316.95,
-   "c": 0.04,
+   "p": 317.03,
+   "c": 0.06,
    "a50": 309.97,
    "a200": 281.33,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 315.8,
-   "r": 53.9
+   "a20": 315.81,
+   "r": 54.0
   },
   {
    "s": "NVDA",
-   "p": 217.7,
-   "c": 0.06,
-   "a50": 207.31,
+   "p": 217.33,
+   "c": -0.11,
+   "a50": 207.3,
    "a200": 195.25,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.83,
-   "r": 54.3
+   "a20": 212.81,
+   "r": 54.0
   },
   {
    "s": "TSLA",
-   "p": 343.68,
-   "c": -2.12,
-   "a50": 366.2,
-   "a200": 403.84,
+   "p": 342.14,
+   "c": -2.56,
+   "a50": 366.17,
+   "a200": 403.83,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.58,
-   "r": 49.7
+   "a20": 325.5,
+   "r": 49.0
   },
   {
    "s": "META",
-   "p": 546.46,
-   "c": 0.08,
-   "a50": 593.43,
-   "a200": 624.57,
+   "p": 544.38,
+   "c": -0.3,
+   "a50": 593.38,
+   "a200": 624.56,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 578.78,
-   "r": 37.2
+   "a20": 578.68,
+   "r": 36.7
   },
   {
    "s": "^TWII",
@@ -267,40 +267,40 @@
   },
   {
    "s": "^GSPC",
-   "p": 7683.21,
-   "c": -0.32,
-   "a50": 7533.74,
-   "a200": 7091.82,
+   "p": 7674.9,
+   "c": -0.43,
+   "a50": 7533.57,
+   "a200": 7091.78,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7633.41,
-   "r": 54.9
+   "a20": 7632.99,
+   "r": 54.1
   },
   {
    "s": "^VIX",
-   "p": 15.67,
-   "c": 5.24,
+   "p": 15.88,
+   "c": 6.65,
    "a50": 17.11,
-   "a200": 18.5,
+   "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.29,
-   "r": 47.9
+   "a20": 16.3,
+   "r": 48.8
   },
   {
    "s": "BZ=F",
-   "p": 93.67,
-   "c": 2.24,
-   "a50": 83.81,
+   "p": 93.97,
+   "c": 2.56,
+   "a50": 83.82,
    "a200": 82.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.81,
-   "r": 60.3
+   "a20": 87.82,
+   "r": 60.7
   },
   {
    "s": "GC=F",
-   "p": 4537.8,
+   "p": 4537.9,
    "c": 1.08,
    "a50": 4166.06,
    "a200": 4495.66,
@@ -311,19 +311,19 @@
   },
   {
    "s": "HG=F",
-   "p": 6.42,
-   "c": -1.0,
+   "p": 6.43,
+   "c": -0.93,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 46.5
+   "r": 46.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03135779,
-   "c": -0.03,
+   "p": 0.03134796,
+   "c": -0.05,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200324.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as bond yields rebound after Treasury intervention, oil rises",
+   "t": "Walmart stock drops as sales growth slows, customers make 'trade-offs' amid high fuel costs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/walmart-stock-drops-as-sales-growth-slows-customers-make-trade-offs-amid-high-fuel-costs-182327744.html"
   },
   {
    "t": "28家外銀在台分行　資產淨值創歷年新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200310.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Walmart Takes A Dive (Live Coverage)",
+   "t": "Stocks dip as bond yields and oil rise, Walmart earnings drag on retail: AlphaCheck",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/stocks-dip-as-bond-yields-and-oil-rise-walmart-earnings-drag-on-retail-alphacheck-140142173.html"
   },
   {
    "t": "雲端發票使用率衝破68%　財長鼓勵民眾消費刷載具",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200302.aspx"
   },
   {
-   "t": "Crypto Stocks Soar Alongside Bitcoin As Rally Reignited",
+   "t": "Wall Street has an answer to 60/40 — this ETF crams 90/60 into the same dollar: One Big Investment Idea",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-soar-alongside-bitcoin-133600627.html"
+   "u": "https://finance.yahoo.com/markets/article/wall-street-has-an-answer-to-6040--this-etf-crams-9060-into-the-same-dollar-one-big-investment-idea-135503448.html"
   },
   {
    "t": "AI熱潮外溢投資金融　第2季國際收支4指標創新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200298.aspx"
   },
   {
-   "t": "Multiple headwinds Weighed on Enovix Corp’s (ENVX) Performance",
+   "t": "Short Sellers Lose Nearly $3 Billion As Bitcoin’s Price Spikes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/multiple-headwinds-weighed-enovix-envx-133358272.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/short-sellers-lose-nearly-3-134900822.html"
   },
   {
    "t": "國泰人壽台中烏日攻商辦商機　估2031年底完工",
