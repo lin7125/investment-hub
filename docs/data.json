@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 03:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 03:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 314.5,
-   "c": -0.74,
-   "a50": 309.92,
-   "a200": 281.32,
+   "p": 313.82,
+   "c": -0.95,
+   "a50": 309.9,
+   "a200": 281.31,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 315.68,
-   "r": 51.7
+   "a20": 315.65,
+   "r": 51.1
   },
   {
    "s": "NVDA",
-   "p": 216.96,
-   "c": -0.28,
-   "a50": 207.29,
+   "p": 217.34,
+   "c": -0.1,
+   "a50": 207.3,
    "a200": 195.25,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 212.79,
-   "r": 53.5
+   "a20": 212.81,
+   "r": 54.0
   },
   {
    "s": "TSLA",
-   "p": 343.2,
-   "c": -2.26,
-   "a50": 366.19,
+   "p": 343.33,
+   "c": -2.22,
+   "a50": 366.2,
    "a200": 403.84,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 325.55,
-   "r": 49.5
+   "a20": 325.56,
+   "r": 49.6
   },
   {
    "s": "META",
-   "p": 542.27,
-   "c": -0.69,
-   "a50": 593.34,
+   "p": 542.45,
+   "c": -0.66,
+   "a50": 593.35,
    "a200": 624.55,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 578.57,
-   "r": 36.2
+   "a20": 578.58,
+   "r": 36.3
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7656.05,
-   "c": -0.67,
-   "a50": 7526.76,
+   "p": 7655.03,
+   "c": -0.69,
+   "a50": 7526.74,
    "a200": 7081.96,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7627.98,
-   "r": 52.6
+   "a20": 7627.93,
+   "r": 52.5
   },
   {
    "s": "^VIX",
-   "p": 16.11,
-   "c": 8.19,
+   "p": 16.12,
+   "c": 8.26,
    "a50": 17.12,
    "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.32,
-   "r": 49.8
+   "r": 49.9
   },
   {
    "s": "BZ=F",
-   "p": 93.7,
-   "c": 2.27,
+   "p": 93.63,
+   "c": 2.19,
    "a50": 83.81,
    "a200": 82.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.81,
-   "r": 60.3
+   "a20": 87.8,
+   "r": 60.2
   },
   {
    "s": "GC=F",
-   "p": 4578.5,
-   "c": 1.98,
-   "a50": 4166.87,
-   "a200": 4495.86,
+   "p": 4585.5,
+   "c": 2.14,
+   "a50": 4167.01,
+   "a200": 4495.9,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4253.46,
-   "r": 71.8
+   "a20": 4253.81,
+   "r": 72.1
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": -0.12,
+   "c": -0.05,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 50.3
+   "r": 50.6
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200347.aspx"
   },
   {
-   "t": "Prolific investor and author Robert Kiyosaki challenges wisdom of Ramsey, Orman - 3 tips from his playbook",
+   "t": "The billionaire 'Bond King' just compared Wall Street's $500 billion AI bet to a warehouse full of bananas",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/prolific-investor-author-robert-kiyosaki-090500104.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/billionaire-bond-king-just-compared-093000734.html"
   },
   {
    "t": "今彩539第115202期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200340.aspx"
   },
   {
-   "t": "Can I Retire at 62 With $2.5M in a Roth IRA and $2,500 a Month From Social Security?",
+   "t": "Prolific investor and author Robert Kiyosaki challenges wisdom of Ramsey, Orman - 3 tips from his playbook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/2-5-million-roth-ira-110000154.html"
+   "u": "https://finance.yahoo.com/small-business/articles/prolific-investor-author-robert-kiyosaki-090500104.html"
   },
   {
    "t": "威力彩第115067期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
-   "t": "More millennials are breaking their way into the 401(k) millionaire club than ever. How you can steal their strategy",
+   "t": "India Turns to Piped Gas as Iran War Drives Up LPG Costs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/more-millennials-breaking-way-401-090000839.html"
+   "u": "https://finance.yahoo.com/energy/articles/india-turns-piped-gas-iran-103000064.html"
   },
   {
    "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "The billionaire 'Bond King' just compared Wall Street's $500 billion AI bet to a warehouse full of bananas",
+   "t": "Target delivers earnings beat, CEO 'encouraged' by turnaround traction",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/billionaire-bond-king-just-compared-093000734.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/target-delivers-earnings-beat-ceo-encouraged-by-turnaround-traction-103412473.html"
   },
   {
    "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
