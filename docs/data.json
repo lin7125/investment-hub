@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 03:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 03:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,14 +212,14 @@
   },
   {
    "s": "AAPL",
-   "p": 315.1,
-   "c": -0.55,
-   "a50": 309.93,
+   "p": 314.5,
+   "c": -0.74,
+   "a50": 309.92,
    "a200": 281.32,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 315.71,
-   "r": 52.2
+   "a20": 315.68,
+   "r": 51.7
   },
   {
    "s": "NVDA",
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 540.83,
-   "c": -0.95,
-   "a50": 593.31,
-   "a200": 624.54,
+   "p": 542.27,
+   "c": -0.69,
+   "a50": 593.34,
+   "a200": 624.55,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 578.51,
-   "r": 36.0
+   "a20": 578.57,
+   "r": 36.2
   },
   {
    "s": "^TWII",
@@ -267,47 +267,47 @@
   },
   {
    "s": "^GSPC",
-   "p": 7653.47,
-   "c": -0.71,
-   "a50": 7526.71,
-   "a200": 7081.95,
+   "p": 7656.05,
+   "c": -0.67,
+   "a50": 7526.76,
+   "a200": 7081.96,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7627.85,
-   "r": 52.4
+   "a20": 7627.98,
+   "r": 52.6
   },
   {
    "s": "^VIX",
-   "p": 16.02,
-   "c": 7.59,
+   "p": 16.11,
+   "c": 8.19,
    "a50": 17.12,
    "a200": 18.51,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.31,
-   "r": 49.4
+   "a20": 16.32,
+   "r": 49.8
   },
   {
    "s": "BZ=F",
-   "p": 93.79,
-   "c": 2.37,
-   "a50": 83.82,
+   "p": 93.7,
+   "c": 2.27,
+   "a50": 83.81,
    "a200": 82.29,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.81,
-   "r": 60.4
+   "r": 60.3
   },
   {
    "s": "GC=F",
-   "p": 4580.4,
-   "c": 2.03,
-   "a50": 4166.91,
-   "a200": 4495.87,
+   "p": 4578.5,
+   "c": 1.98,
+   "a50": 4166.87,
+   "a200": 4495.86,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4253.56,
-   "r": 71.9
+   "a20": 4253.46,
+   "r": 71.8
   },
   {
    "s": "HG=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03136763,
-   "c": 0.02,
+   "p": 0.03137747,
+   "c": 0.04,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
-   "t": "Prolific investor and author Robert Kiyosaki challenges wisdom of Ramsey, Orman - 3 tips from his playbook",
+   "t": "More millennials are breaking their way into the 401(k) millionaire club than ever. How you can steal their strategy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/prolific-investor-author-robert-kiyosaki-090500104.html"
+   "u": "https://finance.yahoo.com/markets/articles/more-millennials-breaking-way-401-090000839.html"
   },
   {
    "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
   },
   {
-   "t": "Alphabet raises $3.9 billion in inaugural Australian dollar bond",
+   "t": "The billionaire 'Bond King' just compared Wall Street's $500 billion AI bet to a warehouse full of bananas",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/alphabet-raises-3-9-billion-084802381.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/billionaire-bond-king-just-compared-093000734.html"
   },
   {
    "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
