@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-20 10:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 11:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2360.0,
-   "c": 0.43,
-   "a50": 2387.7,
-   "a200": 1962.7,
+   "p": 2355.0,
+   "c": 0.21,
+   "a50": 2387.6,
+   "a200": 1962.68,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2357.5,
-   "r": 48.4
+   "a20": 2357.25,
+   "r": 47.9
   },
   {
    "s": "2317.TW",
@@ -25,47 +25,47 @@
   },
   {
    "s": "2308.TW",
-   "p": 1710.0,
-   "c": -3.12,
-   "a50": 1869.3,
-   "a200": 1537.52,
+   "p": 1720.0,
+   "c": -2.55,
+   "a50": 1869.5,
+   "a200": 1537.57,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1716.25,
-   "r": 44.3
+   "a20": 1716.75,
+   "r": 44.9
   },
   {
    "s": "2454.TW",
-   "p": 3735.0,
-   "c": -2.86,
-   "a50": 3958.1,
-   "a200": 2499.05,
+   "p": 3760.0,
+   "c": -2.21,
+   "a50": 3958.6,
+   "a200": 2499.18,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3811.25,
-   "r": 45.4
+   "a20": 3812.5,
+   "r": 46.1
   },
   {
    "s": "2327.TW",
-   "p": 558.0,
-   "c": -3.12,
-   "a50": 780.17,
+   "p": 557.0,
+   "c": -3.3,
+   "a50": 780.15,
    "a200": 436.2,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 574.78,
-   "r": 40.7
+   "a20": 574.72,
+   "r": 40.6
   },
   {
    "s": "1802.TW",
-   "p": 57.8,
-   "c": 1.23,
+   "p": 57.6,
+   "c": 0.88,
    "a50": 60.33,
    "a200": 52.87,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.93,
-   "r": 53.1
+   "a20": 52.92,
+   "r": 52.7
   },
   {
    "s": "6862.TW",
@@ -80,91 +80,91 @@
   },
   {
    "s": "3701.TW",
-   "p": 39.95,
-   "c": 1.78,
+   "p": 39.9,
+   "c": 1.66,
    "a50": 42.2,
    "a200": 48.89,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.58,
-   "r": 46.9
+   "r": 46.8
   },
   {
    "s": "4722.TW",
-   "p": 200.0,
-   "c": -1.48,
-   "a50": 235.58,
+   "p": 201.0,
+   "c": -0.99,
+   "a50": 235.6,
    "a200": 199.4,
    "yh": 306.5,
    "yl": 115.0,
-   "a20": 201.9,
-   "r": 43.5
+   "a20": 201.95,
+   "r": 43.9
   },
   {
    "s": "6706.TW",
-   "p": 116.0,
-   "c": 0.43,
-   "a50": 130.17,
+   "p": 117.0,
+   "c": 1.3,
+   "a50": 130.19,
    "a200": 127.29,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 110.5,
-   "r": 47.7
+   "a20": 110.55,
+   "r": 48.5
   },
   {
    "s": "2305.TW",
-   "p": 26.65,
-   "c": -0.56,
+   "p": 26.8,
+   "c": 0.0,
    "a50": 32.48,
    "a200": 18.87,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 29.01,
-   "r": 41.6
+   "a20": 29.02,
+   "r": 41.9
   },
   {
    "s": "6442.TW",
-   "p": 1555.0,
-   "c": 1.63,
-   "a50": 1526.6,
-   "a200": 1603.15,
+   "p": 1560.0,
+   "c": 1.96,
+   "a50": 1526.7,
+   "a200": 1603.18,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1392.0,
-   "r": 55.2
+   "a20": 1392.25,
+   "r": 55.5
   },
   {
    "s": "6515.TW",
-   "p": 6355.0,
-   "c": -0.24,
-   "a50": 7517.7,
-   "a200": 6072.02,
+   "p": 6430.0,
+   "c": 0.94,
+   "a50": 7519.2,
+   "a200": 6072.4,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6422.75,
-   "r": 42.9
+   "a20": 6426.5,
+   "r": 44.2
   },
   {
    "s": "6446.TW",
-   "p": 1385.0,
-   "c": -1.07,
-   "a50": 1193.55,
-   "a200": 724.95,
+   "p": 1390.0,
+   "c": -0.71,
+   "a50": 1193.65,
+   "a200": 724.97,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1281.25,
-   "r": 58.1
+   "a20": 1281.5,
+   "r": 58.6
   },
   {
    "s": "3324.TWO",
-   "p": 979.0,
-   "c": -1.01,
-   "a50": 973.54,
-   "a200": 998.11,
+   "p": 980.0,
+   "c": -0.91,
+   "a50": 973.56,
+   "a200": 998.12,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 967.45,
-   "r": 50.2
+   "a20": 967.5,
+   "r": 50.4
   },
   {
    "s": "3491.TWO",
@@ -179,36 +179,36 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.9,
-   "c": 3.74,
-   "a50": 58.88,
-   "a200": 42.18,
+   "p": 50.4,
+   "c": 4.78,
+   "a50": 58.89,
+   "a200": 42.19,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.54,
-   "r": 46.9
+   "a20": 47.57,
+   "r": 47.7
   },
   {
    "s": "6223.TWO",
-   "p": 5475.0,
-   "c": 4.19,
-   "a50": 6192.7,
-   "a200": 4091.58,
+   "p": 5505.0,
+   "c": 4.76,
+   "a50": 6193.3,
+   "a200": 4091.72,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5784.25,
-   "r": 43.2
+   "a20": 5785.75,
+   "r": 43.7
   },
   {
    "s": "6750.TWO",
-   "p": 55.5,
-   "c": 0.91,
-   "a50": 60.21,
+   "p": 55.2,
+   "c": 0.36,
+   "a50": 60.2,
    "a200": 56.94,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.06,
-   "r": 45.2
+   "a20": 55.04,
+   "r": 44.3
   },
   {
    "s": "AAPL",
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 44668.59,
-   "c": -0.11,
-   "a50": 44818.5,
-   "a200": 36256.94,
+   "p": 44661.93,
+   "c": -0.13,
+   "a50": 44818.37,
+   "a200": 36256.91,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43995.99,
+   "a20": 43995.66,
    "r": 50.7
   },
   {
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.88,
-   "c": 0.94,
-   "a50": 83.77,
+   "p": 91.98,
+   "c": 1.05,
+   "a50": 83.78,
    "a200": 82.15,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.17,
-   "r": 57.8
+   "a20": 88.18,
+   "r": 58.0
   },
   {
    "s": "GC=F",
-   "p": 4548.9,
-   "c": 4.19,
-   "a50": 4161.69,
+   "p": 4549.3,
+   "c": 4.2,
+   "a50": 4161.7,
    "a200": 4493.18,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4229.84,
+   "a20": 4229.86,
    "r": 70.5
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": -0.08,
+   "c": -0.07,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03137747,
-   "c": 0.03,
+   "p": 0.03136763,
+   "c": 0.01,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200031.aspx"
   },
   {
-   "t": "An OpenAI Deal Could Be a Game Changer for Cerebras Stock After a Brutal Selloff",
+   "t": "Seller concession limits: How much can you ask for?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/openai-deal-could-game-changer-150551462.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/seller-concession-limits-151821985.html"
   },
   {
    "t": "國泰金調查：57%民眾未來半年首選台股　美股居次",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200030.aspx"
   },
   {
-   "t": "Investor Cathie Wood Loads Up On Block Stock",
+   "t": "Forget AI Stocks: Value Investing Giant Seth Klarman Is Loading Up on Genuine Parts (GPC)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/investor-cathie-wood-loads-block-150200896.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/forget-ai-stocks-value-investing-151706840.html"
   },
   {
    "t": "台股開盤漲222.66點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200026.aspx"
   },
   {
-   "t": "How Gulf Oil Is Escaping the Strait of Hormuz",
+   "t": "Mission Produce (AVO): Understanding The Long-Term Upside Ahead of Q3 Results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/gulf-oil-escaping-strait-hormuz-150000576.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mission-produce-avo-understanding-long-152209701.html"
   },
   {
    "t": "新台幣開盤升4.7分　為31.89元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200025.aspx"
   },
   {
-   "t": "Billionaire Dan Loeb Is Buying This Boring Non-AI Stock the Market Is Ignoring",
+   "t": "Nvidia Stock Drops In Broad Market Slide With Earnings In Sight. Is Nvidia A Buy Or Sell Now?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-buying-boring-145802385.html"
+   "u": "https://www.investors.com/research/nvidia-nvda-stock-august-2026-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台指期夜盤反彈　投顧：台股拚止跌聚焦季線攻防",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200022.aspx"
   },
   {
-   "t": "McDonald's: Traffic Disappointed, but the Rent Still Gets Paid",
+   "t": "Wells Fargo revamps gold price target for the rest of 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-traffic-disappointed-rent-still-150500442.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/wells-fargo-revamps-gold-price-160300985.html"
   }
  ],
  "inst": {
