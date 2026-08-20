@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20 14:00（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 14:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.3,
-   "c": 4.57,
-   "a50": 58.89,
-   "a200": 42.19,
+   "p": 50.2,
+   "c": 4.37,
+   "a50": 58.88,
+   "a200": 42.18,
    "yh": 165.0,
    "yl": 8.98,
    "a20": 47.56,
-   "r": 47.5
+   "r": 47.3
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 54.9,
-   "c": -0.18,
+   "p": 54.8,
+   "c": -0.36,
    "a50": 60.2,
    "a200": 56.94,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.03,
-   "r": 43.4
+   "a20": 55.02,
+   "r": 43.1
   },
   {
    "s": "AAPL",
@@ -269,28 +269,28 @@
    "s": "^GSPC",
    "p": 7707.98,
    "c": 0.21,
-   "a50": 7525.33,
-   "a200": 7078.14,
+   "a50": 7527.81,
+   "a200": 7087.61,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7617.34,
-   "r": 57.5
+   "a20": 7619.66,
+   "r": 57.4
   },
   {
    "s": "^VIX",
    "p": 14.89,
    "c": -6.0,
-   "a50": 17.1,
-   "a200": 18.51,
+   "a50": 16.98,
+   "a200": 18.5,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.44,
-   "r": 44.0
+   "a20": 16.31,
+   "r": 44.3
   },
   {
    "s": "BZ=F",
-   "p": 91.91,
-   "c": 0.32,
+   "p": 91.89,
+   "c": 0.29,
    "a50": 83.78,
    "a200": 82.28,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4538.1,
-   "c": 1.08,
-   "a50": 4166.06,
-   "a200": 4495.66,
+   "p": 4539.3,
+   "c": 1.11,
+   "a50": 4166.09,
+   "a200": 4495.67,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4251.44,
+   "a20": 4251.5,
    "r": 70.2
   },
   {
    "s": "HG=F",
-   "p": 6.49,
-   "c": 0.03,
+   "p": 6.48,
+   "c": -0.06,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 51.0
+   "r": 50.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": 0.13,
+   "p": 0.03138732,
+   "c": 0.07,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -332,58 +332,22 @@
  ],
  "news": [
   {
-   "t": "能源署：再生能源目標極大化　克服法規20GW非光電上限",
+   "t": "台股漲214.39點",
    "pub": "中央社財經",
    "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200081.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608200135.aspx"
   },
   {
-   "t": "Tech Stocks Fall On War, Macro Woes. Is Anthropic Revenue Projection Also A Factor?",
+   "t": "One Power-Line Settlement Paid Him Three Ways. Social Security Counted Only the Lost Harvest.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/tech-stocks-ai-anthropic-revenue-ipo/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/small-business/articles/one-power-line-settlement-paid-180205798.html"
   },
   {
-   "t": "中聯油脂案波及食品業　經部協調增產媒合穩供沙拉油",
+   "t": "台股震盪逾700點　終場上漲214點收44933點",
    "pub": "中央社財經",
    "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200065.aspx"
-  },
-  {
-   "t": "What Does The S&P 500 Earnings Boom Say About The Stock Market?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://www.investors.com/news/sp-500-q2-earnings-amazon-google/?src=A00220&yptr=yahoo"
-  },
-  {
-   "t": "台股翻黑下跌逾200點　光學股相對強勢",
-   "pub": "中央社財經",
-   "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200057.aspx"
-  },
-  {
-   "t": "Anthropic's pre-IPO credit facility set to exceed $10 billion, Bloomberg News reports",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropics-pre-ipo-credit-facility-175100094.html"
-  },
-  {
-   "t": "新代攻AI機器人金屬加工　AI伺服器應用比重達3成",
-   "pub": "中央社財經",
-   "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200043.aspx"
-  },
-  {
-   "t": "Live Cattle Weakness Meets a Still-Tight Supply Picture",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/live-cattle-weakness-meets-still-174821157.html"
-  },
-  {
-   "t": "美債殖利率飆升　財政部加碼長債回購穩市",
-   "pub": "中央社財經",
-   "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/aopl/202608200033.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608200131.aspx"
   },
   {
    "t": "Bill Gates and Warren Buffett’s Berkshire Portfolios Have This One Non-AI Stock in Common",
@@ -392,16 +356,52 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-warren-buffett-berkshire-180446928.html"
   },
   {
-   "t": "台股早盤漲逾400點　站上45000點",
+   "t": "日本連續第3個月貿易赤字　中東局勢推升原油成本",
    "pub": "中央社財經",
    "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200031.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608200127.aspx"
   },
   {
    "t": "Gen Z swaps retirement saving for sports betting",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/markets/article/gen-z-swaps-retirement-saving-for-sports-betting-150207350.html"
+  },
+  {
+   "t": "巨大2025年永續報告書出爐　碳排大減4成創最高年度減量",
+   "pub": "中央社財經",
+   "d": "2026-08-20",
+   "u": "https://www.cna.com.tw/news/afe/202608200113.aspx"
+  },
+  {
+   "t": "Discover it Secured Cash Back Credit Card review: Earn cash back while building your credit history",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/discover-it-secured-cash-back-credit-card-review-205613050.html"
+  },
+  {
+   "t": "產險公會：經濟產業共同成長　今年簽單保費有機會拚3千億",
+   "pub": "中央社財經",
+   "d": "2026-08-20",
+   "u": "https://www.cna.com.tw/news/afe/202608200100.aspx"
+  },
+  {
+   "t": "Walmart Q2 Earnings Will Put Its 54-Year Dividend Streak to the Test",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-q2-earnings-put-54-181241635.html"
+  },
+  {
+   "t": "新台幣午盤升1.2分　暫收31.925元",
+   "pub": "中央社財經",
+   "d": "2026-08-20",
+   "u": "https://www.cna.com.tw/news/afe/202608200086.aspx"
+  },
+  {
+   "t": "Which Healthcare ETF Is the Better Buy: VanEck's Pharma PPH or State Street's Biotech XBI?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/healthcare/articles/healthcare-etf-better-buy-vanecks-180250312.html"
   }
  ],
  "inst": {
