@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-20 10:34（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-20 10:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2360.0,
-   "c": 0.43,
-   "a50": 2387.7,
-   "a200": 1962.7,
+   "p": 2355.0,
+   "c": 0.21,
+   "a50": 2387.6,
+   "a200": 1962.68,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2357.5,
-   "r": 48.4
+   "a20": 2357.25,
+   "r": 47.9
   },
   {
    "s": "2317.TW",
@@ -36,36 +36,36 @@
   },
   {
    "s": "2454.TW",
-   "p": 3755.0,
-   "c": -2.34,
-   "a50": 3958.5,
-   "a200": 2499.15,
+   "p": 3730.0,
+   "c": -2.99,
+   "a50": 3958.0,
+   "a200": 2499.02,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3812.25,
-   "r": 45.9
+   "a20": 3811.0,
+   "r": 45.2
   },
   {
    "s": "2327.TW",
-   "p": 562.0,
-   "c": -2.43,
-   "a50": 780.25,
-   "a200": 436.22,
+   "p": 560.0,
+   "c": -2.78,
+   "a50": 780.21,
+   "a200": 436.21,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 574.98,
-   "r": 41.0
+   "a20": 574.88,
+   "r": 40.8
   },
   {
    "s": "1802.TW",
-   "p": 58.2,
-   "c": 1.93,
+   "p": 58.0,
+   "c": 1.58,
    "a50": 60.34,
    "a200": 52.87,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 52.95,
-   "r": 53.8
+   "a20": 52.94,
+   "r": 53.5
   },
   {
    "s": "6862.TW",
@@ -80,14 +80,14 @@
   },
   {
    "s": "3701.TW",
-   "p": 40.1,
-   "c": 2.17,
+   "p": 40.15,
+   "c": 2.29,
    "a50": 42.2,
    "a200": 48.89,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.59,
-   "r": 47.5
+   "r": 47.6
   },
   {
    "s": "4722.TW",
@@ -113,25 +113,25 @@
   },
   {
    "s": "2305.TW",
-   "p": 26.8,
-   "c": 0.0,
+   "p": 26.75,
+   "c": -0.19,
    "a50": 32.48,
    "a200": 18.87,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 29.02,
-   "r": 41.9
+   "a20": 29.01,
+   "r": 41.8
   },
   {
    "s": "6442.TW",
-   "p": 1565.0,
-   "c": 2.29,
-   "a50": 1526.8,
-   "a200": 1603.2,
+   "p": 1575.0,
+   "c": 2.94,
+   "a50": 1527.0,
+   "a200": 1603.25,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1392.5,
-   "r": 55.7
+   "a20": 1393.0,
+   "r": 56.2
   },
   {
    "s": "6515.TW",
@@ -157,47 +157,47 @@
   },
   {
    "s": "3324.TWO",
-   "p": 980.0,
-   "c": -0.91,
-   "a50": 973.56,
-   "a200": 998.12,
+   "p": 979.0,
+   "c": -1.01,
+   "a50": 973.54,
+   "a200": 998.11,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 967.5,
-   "r": 50.4
+   "a20": 967.45,
+   "r": 50.2
   },
   {
    "s": "3491.TWO",
-   "p": 1285.0,
-   "c": 4.9,
-   "a50": 1293.24,
-   "a200": 1207.06,
+   "p": 1280.0,
+   "c": 4.49,
+   "a50": 1293.14,
+   "a200": 1207.04,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1204.85,
-   "r": 51.3
+   "a20": 1204.6,
+   "r": 51.0
   },
   {
    "s": "3585.TWO",
-   "p": 50.7,
-   "c": 5.41,
-   "a50": 58.89,
-   "a200": 42.19,
+   "p": 50.1,
+   "c": 4.16,
+   "a50": 58.88,
+   "a200": 42.18,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.58,
-   "r": 48.1
+   "a20": 47.55,
+   "r": 47.2
   },
   {
    "s": "6223.TWO",
-   "p": 5435.0,
-   "c": 3.43,
-   "a50": 6191.9,
-   "a200": 4091.38,
+   "p": 5430.0,
+   "c": 3.33,
+   "a50": 6191.8,
+   "a200": 4091.35,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5782.25,
-   "r": 42.6
+   "a20": 5782.0,
+   "r": 42.5
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44738.42,
-   "c": 0.04,
-   "a50": 44819.9,
-   "a200": 36257.29,
+   "p": 44658.89,
+   "c": -0.14,
+   "a50": 44818.31,
+   "a200": 36256.89,
    "yh": 47741.51,
    "yl": 23625.44,
-   "a20": 43999.48,
-   "r": 51.1
+   "a20": 43995.51,
+   "r": 50.6
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.93,
-   "c": 1.0,
-   "a50": 83.77,
+   "p": 91.97,
+   "c": 1.04,
+   "a50": 83.78,
    "a200": 82.15,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.17,
-   "r": 57.9
+   "r": 58.0
   },
   {
    "s": "GC=F",
-   "p": 4549.0,
-   "c": 4.19,
-   "a50": 4161.69,
+   "p": 4549.9,
+   "c": 4.21,
+   "a50": 4161.71,
    "a200": 4493.18,
    "yh": 5318.4,
    "yl": 3313.4,
-   "a20": 4229.85,
+   "a20": 4229.89,
    "r": 70.5
   },
   {
    "s": "HG=F",
    "p": 6.47,
-   "c": -0.22,
+   "c": -0.19,
    "a50": 6.36,
    "a200": 5.89,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.5,
-   "r": 49.6
+   "r": 49.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03138732,
-   "c": 0.05,
+   "c": 0.07,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200031.aspx"
   },
   {
-   "t": "Jeff Currie: Forget $91 Brent, The Real Crisis Is $170 Diesel",
+   "t": "Home Depot Q2 earnings beat forecasts as customers stick to small projects, housing market remains 'frozen'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/jeff-currie-forget-91-brent-144900181.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/home-depot-q2-earnings-beat-forecasts-as-customers-stick-to-small-projects-housing-market-remains-frozen-113055971.html"
   },
   {
    "t": "國泰金調查：57%民眾未來半年首選台股　美股居次",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200030.aspx"
   },
   {
-   "t": "Why Bank Of America Is Bullish On Cybersecurity Stocks",
+   "t": "Ahead of Target Earnings, Here's What Barchart Data Says Comes Next for TGT Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/cybersecurity-stocks-bank-america-hikes-price-targets/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-target-earnings-heres-barchart-145229291.html"
   },
   {
    "t": "台股開盤漲222.66點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200026.aspx"
   },
   {
-   "t": "Cotton Prices Are Headed Higher. How to Trade Them Here.",
+   "t": "Crypto Card Spending More Than Doubles To $759 Million",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/cotton-prices-headed-higher-trade-144757578.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/crypto-card-spending-more-doubles-145700263.html"
   },
   {
    "t": "新台幣開盤升4.7分　為31.89元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200025.aspx"
   },
   {
-   "t": "Ahead of Target Earnings, Here's What Barchart Data Says Comes Next for TGT Stock",
+   "t": "Billionaire Dan Loeb Is Buying This Boring Non-AI Stock the Market Is Ignoring",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-target-earnings-heres-barchart-145229291.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-buying-boring-145802385.html"
   },
   {
    "t": "台指期夜盤反彈　投顧：台股拚止跌聚焦季線攻防",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202608200022.aspx"
   },
   {
-   "t": "Artificial Intelligence Technology Solutions Secures Third ROSA Order as Property Management Client Expands Deployment",
+   "t": "RTX Stock Gets a Radar Lock on a $23B Navy Win",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-technology-solutions-secures-144858027.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rtx-stock-gets-radar-lock-145500941.html"
   }
  ],
  "inst": {
-  "date": "2026-08-17",
+  "date": "2026-08-19",
   "byCode": {
    "1802": {
-    "f": 2807,
-    "t": 0,
-    "all": 3330
-   },
-   "2330": {
-    "f": 4441,
-    "t": -2059,
-    "all": 2525
-   },
-   "2308": {
-    "f": 1368,
-    "t": -811,
-    "all": 665
-   },
-   "6706": {
-    "f": 165,
-    "t": 0,
-    "all": 183
-   },
-   "4722": {
-    "f": 107,
-    "t": 0,
-    "all": 160
-   },
-   "3701": {
-    "f": 65,
-    "t": 0,
-    "all": 65
-   },
-   "6515": {
-    "f": 181,
-    "t": -162,
-    "all": 21
-   },
-   "6862": {
-    "f": 11,
-    "t": 0,
-    "all": 8
+    "f": 3638,
+    "t": -15,
+    "all": 4789
    },
    "6442": {
-    "f": -291,
-    "t": 25,
-    "all": -240
+    "f": 221,
+    "t": 0,
+    "all": 212
+   },
+   "6706": {
+    "f": 130,
+    "t": 0,
+    "all": 130
+   },
+   "4722": {
+    "f": 88,
+    "t": -1,
+    "all": 109
+   },
+   "3701": {
+    "f": 52,
+    "t": 0,
+    "all": 49
+   },
+   "6862": {
+    "f": 23,
+    "t": 0,
+    "all": 22
+   },
+   "6515": {
+    "f": 128,
+    "t": -102,
+    "all": 20
    },
    "2305": {
-    "f": -329,
+    "f": -348,
     "t": 0,
-    "all": -323
-   },
-   "2454": {
-    "f": 1188,
-    "t": -1656,
-    "all": -400
+    "all": -348
    },
    "6446": {
-    "f": -772,
-    "t": -101,
-    "all": -881
+    "f": -423,
+    "t": -9,
+    "all": -426
+   },
+   "2454": {
+    "f": -217,
+    "t": -1047,
+    "all": -1528
+   },
+   "2308": {
+    "f": -2317,
+    "t": 68,
+    "all": -2440
+   },
+   "2330": {
+    "f": -7418,
+    "t": -669,
+    "all": -7368
    },
    "2327": {
-    "f": -2335,
-    "t": -426,
-    "all": -2339
+    "f": -3423,
+    "t": -2731,
+    "all": -7495
    },
    "2317": {
-    "f": -9037,
-    "t": -1682,
-    "all": -10235
+    "f": -10065,
+    "t": -300,
+    "all": -11187
    }
   },
-  "totalNetE": 290.8
+  "totalNetE": -753.6
  }
 }
