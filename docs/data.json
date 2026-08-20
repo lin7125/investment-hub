@@ -1,214 +1,214 @@
 {
- "generatedAt": "2026-08-21 04:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 05:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2350.0,
-   "c": -1.26,
-   "a50": 2385.6,
-   "a200": 1958.15,
+   "p": 2375.0,
+   "c": 1.06,
+   "a50": 2388.0,
+   "a200": 1962.78,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2359.75,
-   "r": 47.4
+   "a20": 2358.25,
+   "r": 49.9
   },
   {
    "s": "2317.TW",
-   "p": 245.0,
-   "c": -1.61,
-   "a50": 251.14,
-   "a200": 235.8,
+   "p": 246.5,
+   "c": 0.61,
+   "a50": 250.81,
+   "a200": 235.84,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.6,
-   "r": 44.3
+   "a20": 253.05,
+   "r": 45.5
   },
   {
    "s": "2308.TW",
-   "p": 1765.0,
-   "c": -3.02,
-   "a50": 1879.1,
-   "a200": 1534.02,
+   "p": 1745.0,
+   "c": -1.13,
+   "a50": 1870.0,
+   "a200": 1537.7,
    "yh": 2520.0,
    "yl": 625.0,
-   "a20": 1724.75,
-   "r": 47.8
+   "a20": 1718.0,
+   "r": 46.4
   },
   {
    "s": "2454.TW",
-   "p": 3845.0,
-   "c": -1.03,
-   "a50": 3966.5,
-   "a200": 2486.85,
+   "p": 3700.0,
+   "c": -3.77,
+   "a50": 3957.4,
+   "a200": 2498.88,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3818.25,
-   "r": 48.6
-  },
-  {
-   "s": "2327.TW",
-   "p": 576.0,
-   "c": 0.0,
-   "a50": 785.39,
-   "a200": 434.54,
-   "yh": 1140.0,
-   "yl": 134.5,
-   "a20": 581.67,
-   "r": 42.4
-  },
-  {
-   "s": "1802.TW",
-   "p": 57.1,
-   "c": 1.06,
-   "a50": 60.38,
-   "a200": 52.72,
-   "yh": 76.6,
-   "yl": 25.65,
-   "a20": 52.76,
-   "r": 51.7
-  },
-  {
-   "s": "6862.TW",
-   "p": 137.5,
-   "c": 0.36,
-   "a50": 167.23,
-   "a200": 176.64,
-   "yh": 228.0,
-   "yl": 117.0,
-   "a20": 139.18,
-   "r": 40.2
-  },
-  {
-   "s": "3701.TW",
-   "p": 39.25,
-   "c": -0.25,
-   "a50": 42.36,
-   "a200": 48.88,
-   "yh": 78.6,
-   "yl": 29.4,
-   "a20": 39.59,
+   "a20": 3809.5,
    "r": 44.4
   },
   {
+   "s": "2327.TW",
+   "p": 562.0,
+   "c": -2.43,
+   "a50": 780.25,
+   "a200": 436.22,
+   "yh": 1140.0,
+   "yl": 134.5,
+   "a20": 574.98,
+   "r": 41.0
+  },
+  {
+   "s": "1802.TW",
+   "p": 57.7,
+   "c": 1.05,
+   "a50": 60.33,
+   "a200": 52.87,
+   "yh": 76.6,
+   "yl": 25.65,
+   "a20": 52.93,
+   "r": 52.9
+  },
+  {
+   "s": "6862.TW",
+   "p": 137.0,
+   "c": -0.36,
+   "a50": 166.08,
+   "a200": 176.3,
+   "yh": 228.0,
+   "yl": 117.0,
+   "a20": 138.6,
+   "r": 39.8
+  },
+  {
+   "s": "3701.TW",
+   "p": 40.15,
+   "c": 2.29,
+   "a50": 42.2,
+   "a200": 48.89,
+   "yh": 78.6,
+   "yl": 29.4,
+   "a20": 39.59,
+   "r": 47.6
+  },
+  {
    "s": "4722.TW",
-   "p": 203.0,
-   "c": -1.46,
-   "a50": 235.99,
-   "a200": 199.28,
+   "p": 205.0,
+   "c": 0.99,
+   "a50": 235.68,
+   "a200": 199.42,
    "yh": 306.5,
    "yl": 115.0,
-   "a20": 202.62,
-   "r": 44.6
+   "a20": 202.15,
+   "r": 45.5
   },
   {
    "s": "6706.TW",
-   "p": 115.5,
-   "c": -2.53,
-   "a50": 131.11,
-   "a200": 127.06,
+   "p": 117.0,
+   "c": 1.3,
+   "a50": 130.19,
+   "a200": 127.29,
    "yh": 216.5,
    "yl": 59.0,
-   "a20": 110.32,
-   "r": 47.3
+   "a20": 110.55,
+   "r": 48.5
   },
   {
    "s": "2305.TW",
-   "p": 26.8,
-   "c": -2.9,
-   "a50": 32.4,
-   "a200": 18.79,
+   "p": 26.55,
+   "c": -0.93,
+   "a50": 32.48,
+   "a200": 18.87,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 29.39,
-   "r": 41.9
+   "a20": 29.0,
+   "r": 41.3
   },
   {
    "s": "6442.TW",
-   "p": 1530.0,
-   "c": -1.61,
-   "a50": 1533.3,
-   "a200": 1599.34,
+   "p": 1555.0,
+   "c": 1.63,
+   "a50": 1526.6,
+   "a200": 1603.15,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1383.75,
-   "r": 53.9
+   "a20": 1392.0,
+   "r": 55.2
   },
   {
    "s": "6515.TW",
-   "p": 6370.0,
-   "c": 0.87,
-   "a50": 7553.1,
-   "a200": 6052.48,
+   "p": 6380.0,
+   "c": 0.16,
+   "a50": 7518.2,
+   "a200": 6072.15,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6435.5,
-   "r": 43.1
+   "a20": 6424.0,
+   "r": 43.3
   },
   {
    "s": "6446.TW",
-   "p": 1400.0,
-   "c": 0.0,
-   "a50": 1183.62,
-   "a200": 720.29,
+   "p": 1375.0,
+   "c": -1.79,
+   "a50": 1193.35,
+   "a200": 724.9,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1269.5,
-   "r": 59.5
+   "a20": 1280.75,
+   "r": 57.2
   },
   {
    "s": "3324.TWO",
-   "p": 989.0,
-   "c": 1.12,
-   "a50": 974.16,
-   "a200": 998.21,
+   "p": 993.0,
+   "c": 0.4,
+   "a50": 973.82,
+   "a200": 998.18,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 964.65,
-   "r": 51.7
+   "a20": 968.15,
+   "r": 52.2
   },
   {
    "s": "3491.TWO",
-   "p": 1225.0,
-   "c": -2.0,
-   "a50": 1300.24,
-   "a200": 1202.87,
+   "p": 1285.0,
+   "c": 4.9,
+   "a50": 1293.24,
+   "a200": 1207.06,
    "yh": 2200.0,
    "yl": 339.5,
-   "a20": 1205.6,
-   "r": 47.4
+   "a20": 1204.85,
+   "r": 51.3
   },
   {
    "s": "3585.TWO",
-   "p": 48.1,
-   "c": -2.14,
-   "a50": 59.34,
-   "a200": 42.01,
+   "p": 50.1,
+   "c": 4.16,
+   "a50": 58.88,
+   "a200": 42.18,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.5,
-   "r": 43.8
+   "a20": 47.55,
+   "r": 47.2
   },
   {
    "s": "6223.TWO",
-   "p": 5255.0,
-   "c": -0.28,
-   "a50": 6198.6,
-   "a200": 4073.32,
+   "p": 5650.0,
+   "c": 7.52,
+   "a50": 6196.2,
+   "a200": 4092.45,
    "yh": 7380.0,
    "yl": 1120.0,
-   "a20": 5823.0,
-   "r": 39.5
+   "a20": 5793.0,
+   "r": 45.9
   },
   {
    "s": "6750.TWO",
-   "p": 55.0,
-   "c": -0.18,
-   "a50": 60.34,
-   "a200": 56.89,
+   "p": 54.8,
+   "c": -0.36,
+   "a50": 60.2,
+   "a200": 56.94,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.14,
-   "r": 43.6
+   "a20": 55.02,
+   "r": 43.1
   },
   {
    "s": "AAPL",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 93.43,
-   "c": 1.98,
-   "a50": 83.81,
+   "p": 93.15,
+   "c": 1.67,
+   "a50": 83.8,
    "a200": 82.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.79,
-   "r": 60.0
+   "a20": 87.78,
+   "r": 59.6
   },
   {
    "s": "GC=F",
-   "p": 4574.0,
-   "c": 1.88,
-   "a50": 4166.78,
+   "p": 4575.1,
+   "c": 1.91,
+   "a50": 4166.8,
    "a200": 4495.84,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4253.24,
-   "r": 71.6
+   "a20": 4253.29,
+   "r": 71.7
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": -0.05,
+   "c": -0.08,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.51,
-   "r": 50.6
+   "r": 50.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03137747,
-   "c": 0.04,
+   "p": 0.03138732,
+   "c": 0.07,
    "a50": 0.03120125,
    "a200": 0.03159558,
    "yh": 0.033278,
@@ -332,16 +332,40 @@
  ],
  "news": [
   {
+   "t": "美債殖利率上升、沃爾瑪財報拖累　美股多收黑",
+   "pub": "中央社財經",
+   "d": "2026-08-21",
+   "u": "https://www.cna.com.tw/news/afe/202608210009.aspx"
+  },
+  {
+   "t": "Bank of America sends message on Capital One stock",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html"
+  },
+  {
+   "t": "川普威脅重懲援助伊朗國家　油價大漲逾2%",
+   "pub": "中央社財經",
+   "d": "2026-08-21",
+   "u": "https://www.cna.com.tw/news/afe/202608210008.aspx"
+  },
+  {
+   "t": "Instant View: US Treasury will double some bond buy backs",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/news/instant-view-us-treasury-double-134328359.html"
+  },
+  {
    "t": "通膨疑慮難消　歐股多收黑",
    "pub": "中央社財經",
    "d": "2026-08-21",
    "u": "https://www.cna.com.tw/news/afe/202608210004.aspx"
   },
   {
-   "t": "Jim Cramer drops stunning take on the economy",
+   "t": "Can Bicara (BCAX) Commercialize Ficera? Breakthrough 3-Year Data Faces Execution Risk in C-Suite Overhaul",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/jim-cramer-drops-stunning-economy-230000219.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/bicara-bcax-commercialize-ficera-breakthrough-135616867.html"
   },
   {
    "t": "金管會揭新會期優先法案　推動REITs修法",
@@ -350,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608200347.aspx"
   },
   {
-   "t": "These 3 easy benchmarks can help you find out if you’re really ready to retire. Have you met them yet?",
+   "t": "Best CD rates today, Wednesday, August 19, 2026: Earn up to 4.35% APY",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/3-easy-benchmarks-help-really-122500468.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-19-2026-earn-up-to-435-apy-100000814.html"
   },
   {
    "t": "今彩539第115202期　頭獎槓龜",
@@ -362,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200340.aspx"
   },
   {
-   "t": "Wheat Holding Steady so far on Wednesday Morning",
+   "t": "Here’s Why MercadoLibre (MELI) Offers Long Runway for Growth?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/wheat-holding-steady-far-wednesday-122410547.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-mercadolibre-meli-offers-long-134943360.html"
   },
   {
    "t": "威力彩第115067期　頭獎槓龜",
@@ -374,34 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608200339.aspx"
   },
   {
-   "t": "Soybeans Surging Higher on Wednesday Morning",
+   "t": "TJX Q2 earnings beat expectations with strong margins",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-surging-higher-wednesday-morning-122410833.html"
-  },
-  {
-   "t": "中國關鍵材料出口管制衝擊台廠？經部：短期影響可控",
-   "pub": "中央社財經",
-   "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200337.aspx"
-  },
-  {
-   "t": "Corn Back to Early Strength on Wednesday, as Tour Yields Continue Decline",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-back-early-strength-wednesday-122410228.html"
-  },
-  {
-   "t": "海岸利用許可遭撤　中油：不影響三接外擴防波堤施工",
-   "pub": "中央社財經",
-   "d": "2026-08-20",
-   "u": "https://www.cna.com.tw/news/afe/202608200336.aspx"
-  },
-  {
-   "t": "Bank of America sends message on Capital One stock",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tjx-q2-earnings-beat-expectations-134400816.html"
   }
  ],
  "inst": {
