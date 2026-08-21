@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 311.35,
-   "c": 0.02,
+   "p": 311.42,
+   "c": 0.04,
    "a50": 310.25,
    "a200": 281.51,
    "yh": 340.08,
@@ -223,30 +223,30 @@
   },
   {
    "s": "NVDA",
-   "p": 215.22,
-   "c": -0.75,
+   "p": 215.15,
+   "c": -0.78,
    "a50": 207.59,
    "a200": 195.29,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 213.2,
-   "r": 51.6
+   "r": 51.5
   },
   {
    "s": "TSLA",
-   "p": 363.74,
-   "c": 5.39,
-   "a50": 365.88,
+   "p": 363.69,
+   "c": 5.38,
+   "a50": 365.87,
    "a200": 403.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 328.19,
+   "a20": 328.18,
    "r": 58.3
   },
   {
    "s": "META",
-   "p": 552.98,
-   "c": 1.31,
+   "p": 553.06,
+   "c": 1.32,
    "a50": 593.05,
    "a200": 624.14,
    "yh": 780.25,
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7680.78,
-   "c": 0.52,
-   "a50": 7541.18,
-   "a200": 7095.76,
+   "p": 7679.52,
+   "c": 0.5,
+   "a50": 7541.15,
+   "a200": 7095.75,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7644.75,
-   "r": 54.3
+   "a20": 7644.68,
+   "r": 54.2
   },
   {
    "s": "^VIX",
-   "p": 15.33,
-   "c": -4.25,
+   "p": 15.34,
+   "c": -4.18,
    "a50": 16.77,
    "a200": 18.48,
    "yh": 31.05,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4689.1,
-   "c": 3.83,
+   "p": 4689.0,
+   "c": 3.82,
    "a50": 4177.24,
    "a200": 4498.99,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4281.43,
+   "a20": 4281.42,
    "r": 75.8
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 2.04,
+   "c": 2.02,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.53,
-   "r": 57.4
+   "r": 57.3
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210333.aspx"
   },
   {
-   "t": "Bond yields head higher again, giving back almost all gains since Treasury Department intervention",
+   "t": "IBD Stock Of The Day, Travere Therapeutics, Tests Another Breakout. Can The Stock Get Any 'Sweeter?'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/bond-yields-head-higher-again-giving-back-almost-all-gains-since-treasury-department-intervention-165921301.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/travere-therapeutics-stock-filspari-fsgs-launch/?src=A00220&yptr=yahoo"
   },
   {
    "t": "川普緩和美國物價　宣布30萬噸進口牛絞肉90天免關稅",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210329.aspx"
   },
   {
-   "t": "Impinj Set To Revolutionize Logistics With Tracking Chips. CEO Eyes 'Gigantic Opportunity.'",
+   "t": "Ross Stores Trounces Earnings, Set To Retake Buy Point",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/impinj-stock-tracking-chip-maker-revolutionize-logistics/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/ross-dress-for-less-earnings-retail-tariff-refunds/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美時攜手Alvotech推2款生物相似藥　攻美國與亞洲市場",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210325.aspx"
   },
   {
-   "t": "Intuitive Machines (LUNR) Hits Record $1.8B Backlog as Spending Scales Up",
+   "t": "Bond yields head higher again, giving back almost all gains since Treasury Department intervention",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-hits-record-165051224.html"
+   "u": "https://finance.yahoo.com/markets/article/bond-yields-head-higher-again-giving-back-almost-all-gains-since-treasury-department-intervention-165921301.html"
   },
   {
    "t": "三星將買回800億美元自家股票　創韓國史上最大規模",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210320.aspx"
   },
   {
-   "t": "Uber Stock Options Trade Offers Exposure Without The Ownership Price Tag",
+   "t": "Impinj Set To Revolutionize Logistics With Tracking Chips. CEO Eyes 'Gigantic Opportunity.'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/uber-stock-tech-markets-options-trade-strategy-income-investing/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/impinj-stock-tracking-chip-maker-revolutionize-logistics/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透第115081期開獎",
