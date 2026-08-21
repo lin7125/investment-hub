@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22 04:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-22 04:43（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,24 +289,24 @@
   },
   {
    "s": "BZ=F",
-   "p": 94.11,
-   "c": 0.35,
-   "a50": 83.84,
+   "p": 94.04,
+   "c": 0.28,
+   "a50": 83.83,
    "a200": 82.44,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.68,
-   "r": 60.9
+   "a20": 87.67,
+   "r": 60.8
   },
   {
    "s": "GC=F",
-   "p": 4668.0,
-   "c": 3.36,
-   "a50": 4176.82,
+   "p": 4668.3,
+   "c": 3.37,
+   "a50": 4176.83,
    "a200": 4498.89,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4280.37,
+   "a20": 4280.39,
    "r": 75.2
   },
   {
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.0314169,
-   "c": -0.05,
+   "c": -0.03,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210336.aspx"
   },
   {
-   "t": "Stocks Slip Before the Open as Bond Rout Resumes; Walmart Sinks After Earnings",
+   "t": "Shein postpones Hong Kong debut to September, SCMP reports",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-slip-open-bond-rout-103859903.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/shein-postpones-hong-kong-debut-105012061.html"
   },
   {
    "t": "大樂透第115081期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210333.aspx"
   },
   {
-   "t": "Shein postpones Hong Kong debut to September, SCMP reports",
+   "t": "Inside i-80 Gold’s (IAUX) High-Stakes Race To Grow Production",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/shein-postpones-hong-kong-debut-105012061.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/inside-80-gold-iaux-high-110130817.html"
   },
   {
    "t": "川普緩和美國物價　宣布30萬噸進口牛絞肉90天免關稅",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210325.aspx"
   },
   {
-   "t": "Upwork (UPWK) Posts A Profit Beat, But Cuts Its Growth Outlook",
+   "t": "3 Harvard dropouts just hit a $21B valuation with a chip they say beats Nvidia's best. Should NVDA investors worry?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/upwork-upwk-posts-profit-beat-103703891.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/3-harvard-dropouts-just-hit-110000286.html"
   },
   {
    "t": "三星將買回800億美元自家股票　創韓國史上最大規模",
