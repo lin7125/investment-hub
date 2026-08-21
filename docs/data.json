@@ -1,71 +1,71 @@
 {
- "generatedAt": "2026-08-21 11:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 11:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2395.0,
-   "c": 0.84,
-   "a50": 2390.9,
-   "a200": 1967.35,
+   "p": 2400.0,
+   "c": 1.05,
+   "a50": 2391.0,
+   "a200": 1967.38,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2360.5,
-   "r": 52.0
+   "a20": 2360.75,
+   "r": 52.5
   },
   {
    "s": "2317.TW",
-   "p": 245.5,
-   "c": -0.41,
-   "a50": 250.55,
+   "p": 246.0,
+   "c": -0.2,
+   "a50": 250.56,
    "a200": 235.84,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.7,
-   "r": 44.8
+   "a20": 252.72,
+   "r": 45.1
   },
   {
    "s": "2308.TW",
-   "p": 1755.0,
-   "c": 0.57,
-   "a50": 1861.9,
-   "a200": 1541.12,
+   "p": 1760.0,
+   "c": 0.86,
+   "a50": 1862.0,
+   "a200": 1541.14,
    "yh": 2520.0,
    "yl": 648.0,
-   "a20": 1716.5,
-   "r": 47.2
+   "a20": 1716.75,
+   "r": 47.6
   },
   {
    "s": "2454.TW",
-   "p": 3770.0,
-   "c": 1.89,
-   "a50": 3951.1,
-   "a200": 2511.05,
+   "p": 3780.0,
+   "c": 2.16,
+   "a50": 3951.3,
+   "a200": 2511.1,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3810.5,
-   "r": 46.8
+   "a20": 3811.0,
+   "r": 47.1
   },
   {
    "s": "2327.TW",
-   "p": 556.0,
-   "c": -1.07,
-   "a50": 774.53,
-   "a200": 437.76,
+   "p": 560.0,
+   "c": -0.36,
+   "a50": 774.61,
+   "a200": 437.78,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 570.67,
-   "r": 40.4
+   "a20": 570.88,
+   "r": 40.8
   },
   {
    "s": "1802.TW",
-   "p": 56.6,
-   "c": -1.91,
+   "p": 57.1,
+   "c": -1.04,
    "a50": 60.28,
    "a200": 53.01,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 53.21,
-   "r": 50.4
+   "a20": 53.23,
+   "r": 51.5
   },
   {
    "s": "6862.TW",
@@ -80,25 +80,25 @@
   },
   {
    "s": "3701.TW",
-   "p": 40.85,
-   "c": 1.74,
-   "a50": 42.07,
+   "p": 40.7,
+   "c": 1.37,
+   "a50": 42.06,
    "a200": 48.91,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.67,
-   "r": 50.1
+   "a20": 39.66,
+   "r": 49.6
   },
   {
    "s": "4722.TW",
-   "p": 206.0,
-   "c": 0.49,
-   "a50": 235.68,
-   "a200": 199.55,
+   "p": 208.5,
+   "c": 1.71,
+   "a50": 235.73,
+   "a200": 199.56,
    "yh": 306.5,
    "yl": 115.0,
-   "a20": 202.32,
-   "r": 45.9
+   "a20": 202.45,
+   "r": 47.1
   },
   {
    "s": "6706.TW",
@@ -113,14 +113,14 @@
   },
   {
    "s": "2305.TW",
-   "p": 26.2,
-   "c": -1.32,
-   "a50": 32.54,
+   "p": 26.3,
+   "c": -0.94,
+   "a50": 32.55,
    "a200": 18.94,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 28.7,
-   "r": 40.6
+   "r": 40.8
   },
   {
    "s": "6442.TW",
@@ -135,14 +135,14 @@
   },
   {
    "s": "6515.TW",
-   "p": 6480.0,
-   "c": 1.57,
-   "a50": 7473.4,
-   "a200": 6092.18,
+   "p": 6500.0,
+   "c": 1.88,
+   "a50": 7473.8,
+   "a200": 6092.28,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6433.25,
-   "r": 45.1
+   "a20": 6434.25,
+   "r": 45.5
   },
   {
    "s": "6446.TW",
@@ -168,36 +168,36 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1285.0,
-   "c": 0.0,
-   "a50": 1285.34,
-   "a200": 1211.26,
+   "p": 1280.0,
+   "c": -0.39,
+   "a50": 1285.24,
+   "a200": 1211.23,
    "yh": 2200.0,
    "yl": 341.5,
-   "a20": 1209.6,
-   "r": 51.3
+   "a20": 1209.35,
+   "r": 50.9
   },
   {
    "s": "3585.TWO",
-   "p": 49.4,
-   "c": -1.4,
-   "a50": 58.45,
+   "p": 49.85,
+   "c": -0.5,
+   "a50": 58.46,
    "a200": 42.36,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.57,
-   "r": 46.1
+   "a20": 47.59,
+   "r": 46.8
   },
   {
    "s": "6223.TWO",
-   "p": 5520.0,
-   "c": -2.3,
-   "a50": 6184.8,
-   "a200": 4110.3,
+   "p": 5510.0,
+   "c": -2.48,
+   "a50": 6184.6,
+   "a200": 4110.25,
    "yh": 7380.0,
    "yl": 1180.0,
-   "a20": 5783.75,
-   "r": 44.2
+   "a20": 5783.25,
+   "r": 44.1
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45147.21,
-   "c": 0.48,
-   "a50": 44847.32,
-   "a200": 36100.12,
+   "p": 45242.93,
+   "c": 0.69,
+   "a50": 44849.24,
+   "a200": 36100.6,
    "yh": 47741.51,
    "yl": 23764.47,
-   "a20": 44110.62,
-   "r": 53.1
+   "a20": 44115.41,
+   "r": 53.7
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 93.71,
-   "c": 2.28,
+   "p": 93.57,
+   "c": 2.13,
    "a50": 83.81,
    "a200": 82.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.81,
-   "r": 60.3
+   "a20": 87.8,
+   "r": 60.1
   },
   {
    "s": "GC=F",
-   "p": 4597.0,
-   "c": 2.4,
-   "a50": 4167.24,
-   "a200": 4495.95,
+   "p": 4590.7,
+   "c": 2.26,
+   "a50": 4167.11,
+   "a200": 4495.92,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4254.39,
-   "r": 72.5
+   "a20": 4254.07,
+   "r": 72.3
   },
   {
    "s": "HG=F",
-   "p": 6.54,
-   "c": 0.88,
+   "p": 6.53,
+   "c": 0.72,
    "a50": 6.36,
    "a200": 5.9,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.52,
-   "r": 54.7
+   "r": 54.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03139717,
-   "c": -0.12,
+   "p": 0.03138732,
+   "c": -0.13,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "台股早盤下跌逾300點後翻紅　台積電漲15元",
+   "t": "美擴大回購公債暫緩殖利率升勢　市場憂慮未解",
    "pub": "中央社財經",
    "d": "2026-08-21",
-   "u": "https://www.cna.com.tw/news/afe/202608210034.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608210054.aspx"
   },
   {
    "t": "Bank of America sends message on Capital One stock",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html"
   },
   {
-   "t": "半導體展盟立將秀AI機器人　天虹展示UV ALD設備",
+   "t": "台灣金聯公辦都更首案　斥資7.54億估122年完工",
    "pub": "中央社財經",
    "d": "2026-08-21",
-   "u": "https://www.cna.com.tw/news/afe/202608210032.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608210048.aspx"
   },
   {
    "t": "Best CD rates today, Wednesday, August 19, 2026: Earn up to 4.35% APY",
@@ -356,52 +356,52 @@
    "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-19-2026-earn-up-to-435-apy-100000814.html"
   },
   {
-   "t": "彭博：博通洽談逾600億美元債務融資　為AI建設籌資",
+   "t": "韓國建議對台灣中國固態燒鹼課反傾銷稅　台塑：影響不大",
    "pub": "中央社財經",
    "d": "2026-08-21",
-   "u": "https://www.cna.com.tw/news/ait/202608210031.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608210042.aspx"
   },
   {
-   "t": "ConocoPhillips (COP) Has Low-Cost Inventory and a Major Cash Flow Catalyst Ahead",
+   "t": "Solana Price Forecast: SEC New Crypto Rules Set Stage for Key Resistance Breakout",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/conocophillips-cop-low-cost-inventory-145705934.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/solana-price-forecast-sec-crypto-150751037.html"
   },
   {
-   "t": "台股開盤跌10.4點",
+   "t": "莫德納癌症療法突破引爆軋空　股價兩日大洗三溫暖",
    "pub": "中央社財經",
    "d": "2026-08-21",
-   "u": "https://www.cna.com.tw/news/afe/202608210030.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608210039.aspx"
   },
   {
-   "t": "Bessent Doubles Down on the Bond Market Nobody Wanted",
+   "t": "This Former Small-Cap Darling Is in Freefall, But I Like the Stock Here",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/bessent-doubles-down-bond-market-145709628.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/former-small-cap-darling-freefall-151108641.html"
   },
   {
-   "t": "新台幣開盤升2.5分　為31.9元",
+   "t": "日本7月通膨加速漲　市場預期日銀10月升息",
    "pub": "中央社財經",
    "d": "2026-08-21",
-   "u": "https://www.cna.com.tw/news/afe/202608210029.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608210037.aspx"
   },
   {
-   "t": "FR8 Solutions settles RICO case over alleged $7,000 trucking rate gap",
+   "t": "Stocks Supported by Lower Bond Yields",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/fr8-solutions-settles-rico-case-150058997.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-lower-bond-yields-151508222.html"
   },
   {
-   "t": "台積電ADR漲近1%　投顧：台股反彈量縮估震盪整理",
+   "t": "台股早盤下跌逾300點後翻紅　台積電漲15元",
    "pub": "中央社財經",
    "d": "2026-08-21",
-   "u": "https://www.cna.com.tw/news/afe/202608210022.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608210034.aspx"
   },
   {
-   "t": "Lowe’s Stock Shrugs Off Weak Guidance After a Second-Quarter Earnings Beat",
+   "t": "Veteran fund manager rethinks Intel stock target",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/lowes-earnings-stock-price-f56ac80b?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/veteran-fund-manager-rethinks-intel-150700717.html"
   }
  ],
  "inst": {
