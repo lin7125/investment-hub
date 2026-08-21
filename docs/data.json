@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22 00:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-22 00:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 310.65,
-   "c": -0.21,
-   "a50": 310.23,
+   "p": 310.74,
+   "c": -0.18,
+   "a50": 310.24,
    "a200": 281.51,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 314.4,
+   "a20": 314.41,
    "r": 48.4
   },
   {
    "s": "NVDA",
-   "p": 215.67,
-   "c": -0.54,
-   "a50": 207.6,
+   "p": 215.51,
+   "c": -0.62,
+   "a50": 207.59,
    "a200": 195.29,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 213.22,
-   "r": 52.1
+   "r": 51.9
   },
   {
    "s": "TSLA",
-   "p": 363.38,
-   "c": 5.29,
-   "a50": 365.87,
-   "a200": 403.32,
+   "p": 363.79,
+   "c": 5.41,
+   "a50": 365.88,
+   "a200": 403.33,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 328.17,
-   "r": 58.2
+   "a20": 328.19,
+   "r": 58.3
   },
   {
    "s": "META",
-   "p": 552.13,
-   "c": 1.15,
-   "a50": 593.04,
+   "p": 552.73,
+   "c": 1.26,
+   "a50": 593.05,
    "a200": 624.14,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.6,
-   "r": 39.5
+   "a20": 576.63,
+   "r": 39.8
   },
   {
    "s": "^TWII",
@@ -267,62 +267,62 @@
   },
   {
    "s": "^GSPC",
-   "p": 7682.11,
-   "c": 0.54,
-   "a50": 7541.2,
+   "p": 7681.08,
+   "c": 0.52,
+   "a50": 7541.18,
    "a200": 7095.76,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7644.81,
+   "a20": 7644.76,
    "r": 54.4
   },
   {
    "s": "^VIX",
-   "p": 15.31,
-   "c": -4.37,
+   "p": 15.33,
+   "c": -4.25,
    "a50": 16.77,
    "a200": 18.48,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.01,
-   "r": 46.6
+   "r": 46.7
   },
   {
    "s": "BZ=F",
-   "p": 93.95,
-   "c": 0.18,
-   "a50": 83.83,
-   "a200": 82.43,
+   "p": 94.13,
+   "c": 0.37,
+   "a50": 83.84,
+   "a200": 82.44,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.67,
-   "r": 60.6
+   "a20": 87.68,
+   "r": 60.9
   },
   {
    "s": "GC=F",
-   "p": 4670.4,
-   "c": 3.41,
-   "a50": 4176.87,
-   "a200": 4498.9,
+   "p": 4677.3,
+   "c": 3.56,
+   "a50": 4177.01,
+   "a200": 4498.94,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4280.49,
-   "r": 75.3
+   "a20": 4280.84,
+   "r": 75.5
   },
   {
    "s": "HG=F",
    "p": 6.58,
-   "c": 1.92,
+   "c": 1.83,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.53,
-   "r": 57.0
+   "r": 56.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03143666,
+   "p": 0.03142678,
    "c": 0.0,
    "a50": 0.03120125,
    "a200": 0.0315856,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210333.aspx"
   },
   {
-   "t": "Global stocks close out a tough week as bond yields, oil stay high",
+   "t": "A Landmark Power Deal Puts Fermi’s (FRMI) Big Bet to the Test",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/asia-shares-downbeat-week-bond-012255911.html"
+   "u": "https://finance.yahoo.com/energy/articles/landmark-power-deal-puts-fermi-162120325.html"
   },
   {
    "t": "川普緩和美國物價　宣布30萬噸進口牛絞肉90天免關稅",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210329.aspx"
   },
   {
-   "t": "Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement",
+   "t": "Global stocks close out a tough week as bond yields, oil stay high",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html"
+   "u": "https://finance.yahoo.com/news/asia-shares-downbeat-week-bond-012255911.html"
   },
   {
    "t": "美時攜手Alvotech推2款生物相似藥　攻美國與亞洲市場",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210325.aspx"
   },
   {
-   "t": "Silver prices today, Friday, August 21, 2026: Silver pushes higher on weaker dollar",
+   "t": "Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-august-21-2026-silver-pushes-higher-on-weaker-dollar-161325787.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html"
   },
   {
    "t": "三星將買回800億美元自家股票　創韓國史上最大規模",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210320.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Jumps After Sell-Off; Bitcoin Tops $77,000; Gold Miners Shine (Live Coverage)",
+   "t": "Silver prices today, Friday, August 21, 2026: Silver pushes higher on weaker dollar",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-august-21-2026-silver-pushes-higher-on-weaker-dollar-161325787.html"
   },
   {
    "t": "大樂透第115081期開獎",
