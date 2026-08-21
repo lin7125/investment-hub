@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22 01:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-22 01:31（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 311.42,
-   "c": 0.04,
-   "a50": 310.25,
+   "p": 311.14,
+   "c": -0.05,
+   "a50": 310.24,
    "a200": 281.51,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 314.44,
-   "r": 49.0
+   "a20": 314.43,
+   "r": 48.8
   },
   {
    "s": "NVDA",
-   "p": 215.15,
-   "c": -0.78,
-   "a50": 207.59,
+   "p": 215.06,
+   "c": -0.83,
+   "a50": 207.58,
    "a200": 195.29,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.2,
-   "r": 51.5
+   "a20": 213.19,
+   "r": 51.4
   },
   {
    "s": "TSLA",
-   "p": 363.69,
-   "c": 5.38,
+   "p": 363.46,
+   "c": 5.31,
    "a50": 365.87,
    "a200": 403.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 328.18,
-   "r": 58.3
+   "a20": 328.17,
+   "r": 58.2
   },
   {
    "s": "META",
-   "p": 553.06,
-   "c": 1.32,
-   "a50": 593.05,
+   "p": 552.1,
+   "c": 1.15,
+   "a50": 593.04,
    "a200": 624.14,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.64,
-   "r": 39.9
+   "a20": 576.59,
+   "r": 39.5
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7679.52,
-   "c": 0.5,
-   "a50": 7541.15,
-   "a200": 7095.75,
+   "p": 7676.94,
+   "c": 0.47,
+   "a50": 7541.1,
+   "a200": 7095.74,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7644.68,
-   "r": 54.2
+   "a20": 7644.55,
+   "r": 54.0
   },
   {
    "s": "^VIX",
-   "p": 15.34,
-   "c": -4.18,
+   "p": 15.31,
+   "c": -4.37,
    "a50": 16.77,
    "a200": 18.48,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.01,
-   "r": 46.7
+   "r": 46.6
   },
   {
    "s": "BZ=F",
-   "p": 94.48,
-   "c": 0.75,
+   "p": 94.5,
+   "c": 0.77,
    "a50": 83.84,
    "a200": 82.44,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.7,
-   "r": 61.3
+   "r": 61.4
   },
   {
    "s": "GC=F",
-   "p": 4689.0,
-   "c": 3.82,
-   "a50": 4177.24,
-   "a200": 4498.99,
+   "p": 4680.6,
+   "c": 3.64,
+   "a50": 4177.07,
+   "a200": 4498.95,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4281.42,
-   "r": 75.8
+   "a20": 4281.0,
+   "r": 75.6
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 2.02,
+   "c": 1.97,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.53,
-   "r": 57.3
+   "r": 57.1
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210329.aspx"
   },
   {
-   "t": "Ross Stores Trounces Earnings, Set To Retake Buy Point",
+   "t": "REPOWR, ATBS team up to expand trailer access for owner-operators",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/ross-dress-for-less-earnings-retail-tariff-refunds/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/small-business/articles/repowr-atbs-team-expand-trailer-170911123.html"
   },
   {
    "t": "美時攜手Alvotech推2款生物相似藥　攻美國與亞洲市場",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210325.aspx"
   },
   {
-   "t": "Bond yields head higher again, giving back almost all gains since Treasury Department intervention",
+   "t": "Ross Stores Trounces Earnings, Set To Retake Buy Point",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/bond-yields-head-higher-again-giving-back-almost-all-gains-since-treasury-department-intervention-165921301.html"
+   "u": "https://www.investors.com/news/ross-dress-for-less-earnings-retail-tariff-refunds/?src=A00220&yptr=yahoo"
   },
   {
    "t": "三星將買回800億美元自家股票　創韓國史上最大規模",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210320.aspx"
   },
   {
-   "t": "Impinj Set To Revolutionize Logistics With Tracking Chips. CEO Eyes 'Gigantic Opportunity.'",
+   "t": "Bond yields head higher again, giving back almost all gains since Treasury Department intervention",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/impinj-stock-tracking-chip-maker-revolutionize-logistics/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/bond-yields-head-higher-again-giving-back-almost-all-gains-since-treasury-department-intervention-165921301.html"
   },
   {
    "t": "大樂透第115081期開獎",
