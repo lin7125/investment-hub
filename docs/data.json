@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 12:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 13:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -25,14 +25,14 @@
   },
   {
    "s": "2308.TW",
-   "p": 1745.0,
-   "c": 0.0,
-   "a50": 1861.7,
-   "a200": 1541.07,
+   "p": 1740.0,
+   "c": -0.29,
+   "a50": 1861.6,
+   "a200": 1541.04,
    "yh": 2520.0,
    "yl": 648.0,
-   "a20": 1716.0,
-   "r": 46.4
+   "a20": 1715.75,
+   "r": 46.1
   },
   {
    "s": "2454.TW",
@@ -58,47 +58,47 @@
   },
   {
    "s": "1802.TW",
-   "p": 57.2,
-   "c": -0.87,
+   "p": 57.3,
+   "c": -0.69,
    "a50": 60.29,
-   "a200": 53.01,
+   "a200": 53.02,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 53.24,
-   "r": 51.7
+   "r": 52.0
   },
   {
    "s": "6862.TW",
-   "p": 138.0,
-   "c": 0.73,
-   "a50": 165.08,
-   "a200": 175.99,
+   "p": 137.0,
+   "c": 0.0,
+   "a50": 165.06,
+   "a200": 175.98,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 138.35,
-   "r": 40.9
+   "a20": 138.3,
+   "r": 39.8
   },
   {
    "s": "3701.TW",
-   "p": 41.05,
-   "c": 2.24,
+   "p": 41.1,
+   "c": 2.37,
    "a50": 42.07,
    "a200": 48.91,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.68,
-   "r": 50.7
+   "r": 50.9
   },
   {
    "s": "4722.TW",
-   "p": 205.5,
-   "c": 0.24,
-   "a50": 235.67,
+   "p": 206.5,
+   "c": 0.73,
+   "a50": 235.69,
    "a200": 199.55,
    "yh": 306.5,
    "yl": 115.0,
-   "a20": 202.3,
-   "r": 45.7
+   "a20": 202.35,
+   "r": 46.2
   },
   {
    "s": "6706.TW",
@@ -113,14 +113,14 @@
   },
   {
    "s": "2305.TW",
-   "p": 26.05,
-   "c": -1.88,
+   "p": 26.0,
+   "c": -2.07,
    "a50": 32.54,
    "a200": 18.94,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 28.69,
-   "r": 40.2
+   "r": 40.1
   },
   {
    "s": "6442.TW",
@@ -135,69 +135,69 @@
   },
   {
    "s": "6515.TW",
-   "p": 6430.0,
-   "c": 0.78,
-   "a50": 7472.4,
-   "a200": 6091.92,
+   "p": 6445.0,
+   "c": 1.02,
+   "a50": 7472.7,
+   "a200": 6092.0,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6430.75,
-   "r": 44.2
+   "a20": 6431.5,
+   "r": 44.5
   },
   {
    "s": "6446.TW",
-   "p": 1390.0,
-   "c": 1.09,
-   "a50": 1204.31,
-   "a200": 729.57,
+   "p": 1395.0,
+   "c": 1.45,
+   "a50": 1204.41,
+   "a200": 729.6,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1293.5,
-   "r": 58.3
+   "a20": 1293.75,
+   "r": 58.6
   },
   {
    "s": "3324.TWO",
-   "p": 967.0,
-   "c": -2.62,
-   "a50": 973.2,
-   "a200": 998.11,
+   "p": 970.0,
+   "c": -2.32,
+   "a50": 973.26,
+   "a200": 998.12,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 969.35,
-   "r": 48.3
+   "a20": 969.5,
+   "r": 48.8
   },
   {
    "s": "3491.TWO",
-   "p": 1260.0,
-   "c": -1.95,
-   "a50": 1284.84,
-   "a200": 1211.13,
+   "p": 1265.0,
+   "c": -1.56,
+   "a50": 1284.94,
+   "a200": 1211.16,
    "yh": 2200.0,
    "yl": 341.5,
-   "a20": 1208.35,
-   "r": 49.6
+   "a20": 1208.6,
+   "r": 50.0
   },
   {
    "s": "3585.TWO",
-   "p": 49.65,
-   "c": -0.9,
+   "p": 49.45,
+   "c": -1.3,
    "a50": 58.45,
    "a200": 42.36,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.58,
-   "r": 46.5
+   "a20": 47.57,
+   "r": 46.2
   },
   {
    "s": "6223.TWO",
-   "p": 5515.0,
-   "c": -2.39,
-   "a50": 6184.7,
-   "a200": 4110.27,
+   "p": 5540.0,
+   "c": -1.95,
+   "a50": 6185.2,
+   "a200": 4110.4,
    "yh": 7380.0,
    "yl": 1180.0,
-   "a20": 5783.5,
-   "r": 44.2
+   "a20": 5784.75,
+   "r": 44.5
   },
   {
    "s": "6750.TWO",
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 45082.12,
-   "c": 0.33,
-   "a50": 44846.02,
-   "a200": 36099.79,
+   "p": 45089.33,
+   "c": 0.35,
+   "a50": 44846.17,
+   "a200": 36099.83,
    "yh": 47741.51,
    "yl": 23764.47,
-   "a20": 44107.37,
+   "a20": 44107.73,
    "r": 52.8
   },
   {
@@ -289,14 +289,14 @@
   },
   {
    "s": "BZ=F",
-   "p": 93.51,
-   "c": -0.29,
+   "p": 93.36,
+   "c": -0.45,
    "a50": 83.82,
    "a200": 82.43,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.65,
-   "r": 59.9
+   "a20": 87.64,
+   "r": 59.6
   },
   {
    "s": "GC=F",
@@ -318,7 +318,7 @@
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.52,
-   "r": 54.8
+   "r": 54.7
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210090.aspx"
   },
   {
-   "t": "ASML Stock Takes A Break After Rebounding",
+   "t": "Venture Global (VG): Record Earnings and Raised Outlook Signal Strong Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/asml-stock-chip-equipment-lithography/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/venture-global-vg-record-earnings-171746060.html"
   },
   {
    "t": "AI熱潮擴散　凱基投顧上修台股企業未來2年盈餘預估",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210084.aspx"
   },
   {
-   "t": "Saudi Arabia’s Biggest Driller Expands Into Oman",
+   "t": "Tencent Music (TME) Turns Streaming Into A Sprawling Entertainment Machine",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/saudi-arabia-biggest-driller-expands-170356716.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tencent-music-tme-turns-streaming-172444596.html"
   },
   {
    "t": "台股漲逾300點重返45000點　貨櫃三雄勁揚",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210082.aspx"
   },
   {
-   "t": "Cardinal Health’s (CAH) Big Earnings Beat Hides a More Complicated Story",
+   "t": "Huge Unusual Put Options Volume in Merck - Is MRK Stock Overvalued?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cardinal-health-cah-big-earnings-165020198.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/huge-unusual-put-options-volume-173002236.html"
   },
   {
    "t": "SK海力士擬斥資數十兆韓元　赴日建記憶體晶片廠",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210081.aspx"
   },
   {
-   "t": "Moderna shares double as cancer vaccine data rekindles investor hopes",
+   "t": "Billionaire Peter Thiel Bought a 1% Stake in Vista Energy. What This Means for VIST Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/moderna-shares-double-cancer-vaccine-164453025.html"
+   "u": "https://finance.yahoo.com/energy/articles/billionaire-peter-thiel-bought-1-171549026.html"
   },
   {
    "t": "聖嬰現象引乾旱　巴拿馬運河9月起減少通行船數",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210079.aspx"
   },
   {
-   "t": "Nebius (NBIS) Q2 2026 Earnings Call Transcript",
+   "t": "5 Income ETFs to Buy Once and Collect Monthly Checks Forever",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nebius-nbis-q2-2026-earnings-165907370.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/5-income-etfs-buy-once-172050272.html"
   }
  ],
  "inst": {
