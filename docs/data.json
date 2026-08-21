@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22 01:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-22 01:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,32 +212,32 @@
   },
   {
    "s": "AAPL",
-   "p": 311.57,
-   "c": 0.09,
+   "p": 311.35,
+   "c": 0.02,
    "a50": 310.25,
    "a200": 281.51,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 314.45,
-   "r": 49.2
+   "a20": 314.44,
+   "r": 49.0
   },
   {
    "s": "NVDA",
-   "p": 215.56,
-   "c": -0.59,
+   "p": 215.22,
+   "c": -0.75,
    "a50": 207.59,
    "a200": 195.29,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.22,
-   "r": 51.9
+   "a20": 213.2,
+   "r": 51.6
   },
   {
    "s": "TSLA",
-   "p": 363.79,
-   "c": 5.41,
+   "p": 363.74,
+   "c": 5.39,
    "a50": 365.88,
-   "a200": 403.33,
+   "a200": 403.32,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 328.19,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 552.51,
-   "c": 1.22,
-   "a50": 593.04,
+   "p": 552.98,
+   "c": 1.31,
+   "a50": 593.05,
    "a200": 624.14,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.61,
-   "r": 39.7
+   "a20": 576.64,
+   "r": 39.9
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7682.83,
-   "c": 0.55,
-   "a50": 7541.22,
-   "a200": 7095.77,
+   "p": 7680.78,
+   "c": 0.52,
+   "a50": 7541.18,
+   "a200": 7095.76,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7644.85,
-   "r": 54.5
+   "a20": 7644.75,
+   "r": 54.3
   },
   {
    "s": "^VIX",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 94.22,
-   "c": 0.47,
+   "p": 94.48,
+   "c": 0.75,
    "a50": 83.84,
    "a200": 82.44,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.68,
-   "r": 61.0
+   "a20": 87.7,
+   "r": 61.3
   },
   {
    "s": "GC=F",
-   "p": 4686.1,
-   "c": 3.76,
-   "a50": 4177.18,
-   "a200": 4498.98,
+   "p": 4689.1,
+   "c": 3.83,
+   "a50": 4177.24,
+   "a200": 4498.99,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4281.28,
-   "r": 75.7
+   "a20": 4281.43,
+   "r": 75.8
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 1.95,
+   "c": 2.04,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.53,
-   "r": 57.1
+   "r": 57.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03142678,
-   "c": -0.03,
+   "c": -0.01,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210333.aspx"
   },
   {
-   "t": "Intuitive Machines (LUNR) Hits Record $1.8B Backlog as Spending Scales Up",
+   "t": "Bond yields head higher again, giving back almost all gains since Treasury Department intervention",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-hits-record-165051224.html"
+   "u": "https://finance.yahoo.com/markets/article/bond-yields-head-higher-again-giving-back-almost-all-gains-since-treasury-department-intervention-165921301.html"
   },
   {
    "t": "川普緩和美國物價　宣布30萬噸進口牛絞肉90天免關稅",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210329.aspx"
   },
   {
-   "t": "Uber Stock Options Trade Offers Exposure Without The Ownership Price Tag",
+   "t": "Impinj Set To Revolutionize Logistics With Tracking Chips. CEO Eyes 'Gigantic Opportunity.'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/uber-stock-tech-markets-options-trade-strategy-income-investing/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/impinj-stock-tracking-chip-maker-revolutionize-logistics/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美時攜手Alvotech推2款生物相似藥　攻美國與亞洲市場",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210325.aspx"
   },
   {
-   "t": "Einride AB Reports Growth Acceleration & Fleet Scale Moves Towards 2028 – Quarterly Update Report",
+   "t": "Intuitive Machines (LUNR) Hits Record $1.8B Backlog as Spending Scales Up",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/einride-ab-reports-growth-acceleration-164314486.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-hits-record-165051224.html"
   },
   {
    "t": "三星將買回800億美元自家股票　創韓國史上最大規模",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210320.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
+   "t": "Uber Stock Options Trade Offers Exposure Without The Ownership Price Tag",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html"
+   "u": "https://www.investors.com/research/options/uber-stock-tech-markets-options-trade-strategy-income-investing/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透第115081期開獎",
