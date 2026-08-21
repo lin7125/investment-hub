@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 12:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 12:58（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -58,14 +58,14 @@
   },
   {
    "s": "1802.TW",
-   "p": 57.3,
-   "c": -0.69,
+   "p": 57.2,
+   "c": -0.87,
    "a50": 60.29,
-   "a200": 53.02,
+   "a200": 53.01,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 53.24,
-   "r": 52.0
+   "r": 51.7
   },
   {
    "s": "6862.TW",
@@ -80,14 +80,14 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.0,
-   "c": 2.12,
+   "p": 41.05,
+   "c": 2.24,
    "a50": 42.07,
    "a200": 48.91,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.67,
-   "r": 50.6
+   "a20": 39.68,
+   "r": 50.7
   },
   {
    "s": "4722.TW",
@@ -102,69 +102,69 @@
   },
   {
    "s": "6706.TW",
-   "p": 116.5,
-   "c": -0.43,
-   "a50": 129.3,
+   "p": 117.0,
+   "c": 0.0,
+   "a50": 129.31,
    "a200": 127.52,
    "yh": 216.5,
    "yl": 59.5,
-   "a20": 110.92,
-   "r": 48.1
+   "a20": 110.95,
+   "r": 48.5
   },
   {
    "s": "2305.TW",
-   "p": 25.9,
-   "c": -2.45,
+   "p": 26.05,
+   "c": -1.88,
    "a50": 32.54,
    "a200": 18.94,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.68,
-   "r": 39.9
+   "a20": 28.69,
+   "r": 40.2
   },
   {
    "s": "6442.TW",
-   "p": 1515.0,
-   "c": -2.57,
-   "a50": 1520.5,
-   "a200": 1606.36,
+   "p": 1505.0,
+   "c": -3.22,
+   "a50": 1520.3,
+   "a200": 1606.31,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1401.5,
-   "r": 52.7
+   "a20": 1401.0,
+   "r": 52.1
   },
   {
    "s": "6515.TW",
-   "p": 6410.0,
-   "c": 0.47,
-   "a50": 7472.0,
-   "a200": 6091.82,
+   "p": 6430.0,
+   "c": 0.78,
+   "a50": 7472.4,
+   "a200": 6091.92,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6429.75,
-   "r": 43.9
+   "a20": 6430.75,
+   "r": 44.2
   },
   {
    "s": "6446.TW",
-   "p": 1380.0,
-   "c": 0.36,
-   "a50": 1204.11,
-   "a200": 729.52,
+   "p": 1390.0,
+   "c": 1.09,
+   "a50": 1204.31,
+   "a200": 729.57,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1293.0,
-   "r": 57.6
+   "a20": 1293.5,
+   "r": 58.3
   },
   {
    "s": "3324.TWO",
-   "p": 966.0,
-   "c": -2.72,
-   "a50": 973.18,
-   "a200": 998.1,
+   "p": 967.0,
+   "c": -2.62,
+   "a50": 973.2,
+   "a200": 998.11,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 969.3,
-   "r": 48.2
+   "a20": 969.35,
+   "r": 48.3
   },
   {
    "s": "3491.TWO",
@@ -179,25 +179,25 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.7,
-   "c": -0.8,
+   "p": 49.65,
+   "c": -0.9,
    "a50": 58.45,
    "a200": 42.36,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.59,
-   "r": 46.6
+   "a20": 47.58,
+   "r": 46.5
   },
   {
    "s": "6223.TWO",
-   "p": 5500.0,
-   "c": -2.65,
-   "a50": 6184.4,
-   "a200": 4110.2,
+   "p": 5515.0,
+   "c": -2.39,
+   "a50": 6184.7,
+   "a200": 4110.27,
    "yh": 7380.0,
    "yl": 1180.0,
-   "a20": 5782.75,
-   "r": 44.0
+   "a20": 5783.5,
+   "r": 44.2
   },
   {
    "s": "6750.TWO",
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 45076.25,
-   "c": 0.32,
-   "a50": 44845.9,
-   "a200": 36099.76,
+   "p": 45081.62,
+   "c": 0.33,
+   "a50": 44846.01,
+   "a200": 36099.79,
    "yh": 47741.51,
    "yl": 23764.47,
-   "a20": 44107.07,
+   "a20": 44107.34,
    "r": 52.8
   },
   {
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 93.58,
-   "c": -0.21,
+   "p": 93.51,
+   "c": -0.29,
    "a50": 83.82,
    "a200": 82.43,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.65,
-   "r": 60.0
+   "r": 59.9
   },
   {
    "s": "GC=F",
-   "p": 4599.0,
-   "c": 1.83,
-   "a50": 4175.44,
+   "p": 4597.8,
+   "c": 1.8,
+   "a50": 4175.42,
    "a200": 4498.54,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4276.92,
-   "r": 72.8
+   "a20": 4276.86,
+   "r": 72.7
   },
   {
    "s": "HG=F",
-   "p": 6.54,
-   "c": 1.29,
+   "p": 6.55,
+   "c": 1.32,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.52,
-   "r": 54.6
+   "r": 54.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": -0.09,
+   "p": 0.0314169,
+   "c": -0.06,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210090.aspx"
   },
   {
-   "t": "Cardinal Health’s (CAH) Big Earnings Beat Hides a More Complicated Story",
+   "t": "ASML Stock Takes A Break After Rebounding",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cardinal-health-cah-big-earnings-165020198.html"
+   "u": "https://www.investors.com/research/asml-stock-chip-equipment-lithography/?src=A00220&yptr=yahoo"
   },
   {
    "t": "AI熱潮擴散　凱基投顧上修台股企業未來2年盈餘預估",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210084.aspx"
   },
   {
-   "t": "ASML Stock Takes A Break After Rebounding",
+   "t": "Saudi Arabia’s Biggest Driller Expands Into Oman",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/asml-stock-chip-equipment-lithography/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/energy/articles/saudi-arabia-biggest-driller-expands-170356716.html"
   },
   {
    "t": "台股漲逾300點重返45000點　貨櫃三雄勁揚",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210082.aspx"
   },
   {
-   "t": "Moderna shares double as cancer vaccine data rekindles investor hopes",
+   "t": "Cardinal Health’s (CAH) Big Earnings Beat Hides a More Complicated Story",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/moderna-shares-double-cancer-vaccine-164453025.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cardinal-health-cah-big-earnings-165020198.html"
   },
   {
    "t": "SK海力士擬斥資數十兆韓元　赴日建記憶體晶片廠",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210081.aspx"
   },
   {
-   "t": "David Sacks Says the Biggest Risk to the AI Buildout Isn’t Demand, ‘If You Had Dark GPUs, That’d Be a Disaster for Everyone’",
+   "t": "Moderna shares double as cancer vaccine data rekindles investor hopes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/david-sacks-says-biggest-risk-164258160.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/moderna-shares-double-cancer-vaccine-164453025.html"
   },
   {
    "t": "聖嬰現象引乾旱　巴拿馬運河9月起減少通行船數",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210079.aspx"
   },
   {
-   "t": "If a Recession Is Coming, 100 Years of History Says This Is the Best Move Investors Can Make",
+   "t": "Nebius (NBIS) Q2 2026 Earnings Call Transcript",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/recession-coming-100-years-history-165350947.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nebius-nbis-q2-2026-earnings-165907370.html"
   }
  ],
  "inst": {
