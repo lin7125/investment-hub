@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22 00:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-22 00:28（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 215.65,
-   "c": -0.55,
+   "p": 215.71,
+   "c": -0.53,
    "a50": 207.6,
    "a200": 195.29,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.22,
-   "r": 52.0
+   "a20": 213.23,
+   "r": 52.1
   },
   {
    "s": "TSLA",
-   "p": 363.06,
-   "c": 5.2,
-   "a50": 365.86,
+   "p": 363.31,
+   "c": 5.27,
+   "a50": 365.87,
    "a200": 403.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 328.15,
-   "r": 58.1
+   "a20": 328.16,
+   "r": 58.2
   },
   {
    "s": "META",
-   "p": 550.32,
-   "c": 0.82,
-   "a50": 593.0,
+   "p": 550.99,
+   "c": 0.95,
+   "a50": 593.01,
    "a200": 624.13,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.51,
-   "r": 38.8
+   "a20": 576.54,
+   "r": 39.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7682.49,
-   "c": 0.54,
-   "a50": 7541.21,
-   "a200": 7095.76,
+   "p": 7683.53,
+   "c": 0.55,
+   "a50": 7541.23,
+   "a200": 7095.77,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7644.83,
+   "a20": 7644.88,
    "r": 54.5
   },
   {
    "s": "^VIX",
-   "p": 15.39,
-   "c": -3.87,
+   "p": 15.34,
+   "c": -4.18,
    "a50": 16.77,
    "a200": 18.48,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.02,
-   "r": 46.9
+   "a20": 16.01,
+   "r": 46.7
   },
   {
    "s": "BZ=F",
-   "p": 94.42,
-   "c": 0.68,
+   "p": 94.21,
+   "c": 0.46,
    "a50": 83.84,
    "a200": 82.44,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.69,
-   "r": 61.3
+   "a20": 87.68,
+   "r": 61.0
   },
   {
    "s": "GC=F",
-   "p": 4672.9,
-   "c": 3.47,
-   "a50": 4176.92,
+   "p": 4672.2,
+   "c": 3.45,
+   "a50": 4176.91,
    "a200": 4498.91,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4280.62,
+   "a20": 4280.58,
    "r": 75.3
   },
   {
    "s": "HG=F",
-   "p": 6.57,
-   "c": 1.76,
+   "p": 6.58,
+   "c": 1.81,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.53,
-   "r": 56.4
+   "r": 56.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03143666,
-   "c": 0.01,
+   "c": 0.0,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210333.aspx"
   },
   {
-   "t": "Gold prices today, Friday, August 21, 2026: Gold remains strong amid U.S. debt concerns",
+   "t": "Silver prices today, Friday, August 21, 2026: Silver pushes higher on weaker dollar",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-21-2026-gold-remains-strong-amid-us-debt-concerns-161052751.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-august-21-2026-silver-pushes-higher-on-weaker-dollar-161325787.html"
   },
   {
    "t": "川普緩和美國物價　宣布30萬噸進口牛絞肉90天免關稅",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210329.aspx"
   },
   {
-   "t": "Stratasys (SSYS): A Pivotal Transition Meets Cash Flow Realities",
+   "t": "Gold prices today, Friday, August 21, 2026: Gold remains strong amid U.S. debt concerns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stratasys-ssys-pivotal-transition-meets-160146586.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-21-2026-gold-remains-strong-amid-us-debt-concerns-161052751.html"
   },
   {
    "t": "美時攜手Alvotech推2款生物相似藥　攻美國與亞洲市場",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210325.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
+   "t": "Stratasys (SSYS): A Pivotal Transition Meets Cash Flow Realities",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stratasys-ssys-pivotal-transition-meets-160146586.html"
   },
   {
    "t": "三星將買回800億美元自家股票　創韓國史上最大規模",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210320.aspx"
   },
   {
-   "t": "Abeona’s (ABEO) Gene Therapy Launch Hits A Pivotal Reimbursement Milestone",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/abeona-abeo-gene-therapy-launch-154235589.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html"
   },
   {
    "t": "大樂透第115081期開獎",
