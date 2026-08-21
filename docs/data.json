@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22 00:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-22 00:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 311.42,
-   "c": 0.04,
+   "p": 311.27,
+   "c": -0.01,
    "a50": 310.25,
    "a200": 281.51,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 314.44,
-   "r": 49.0
+   "a20": 314.43,
+   "r": 48.9
   },
   {
    "s": "NVDA",
-   "p": 216.11,
-   "c": -0.34,
+   "p": 215.65,
+   "c": -0.55,
    "a50": 207.6,
    "a200": 195.29,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.25,
-   "r": 52.6
+   "a20": 213.22,
+   "r": 52.0
   },
   {
    "s": "TSLA",
-   "p": 361.61,
-   "c": 4.78,
-   "a50": 365.83,
-   "a200": 403.31,
+   "p": 363.06,
+   "c": 5.2,
+   "a50": 365.86,
+   "a200": 403.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 328.08,
-   "r": 57.5
+   "a20": 328.15,
+   "r": 58.1
   },
   {
    "s": "META",
-   "p": 549.48,
-   "c": 0.67,
-   "a50": 592.98,
+   "p": 550.32,
+   "c": 0.82,
+   "a50": 593.0,
    "a200": 624.13,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.46,
-   "r": 38.5
+   "a20": 576.51,
+   "r": 38.8
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7684.19,
-   "c": 0.56,
-   "a50": 7541.24,
-   "a200": 7095.77,
+   "p": 7682.49,
+   "c": 0.54,
+   "a50": 7541.21,
+   "a200": 7095.76,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7644.92,
-   "r": 54.6
+   "a20": 7644.83,
+   "r": 54.5
   },
   {
    "s": "^VIX",
-   "p": 15.35,
-   "c": -4.12,
+   "p": 15.39,
+   "c": -3.87,
    "a50": 16.77,
    "a200": 18.48,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.01,
-   "r": 46.8
+   "a20": 16.02,
+   "r": 46.9
   },
   {
    "s": "BZ=F",
-   "p": 94.31,
-   "c": 0.57,
+   "p": 94.42,
+   "c": 0.68,
    "a50": 83.84,
    "a200": 82.44,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.69,
-   "r": 61.1
+   "r": 61.3
   },
   {
    "s": "GC=F",
-   "p": 4669.9,
-   "c": 3.4,
-   "a50": 4176.86,
-   "a200": 4498.9,
+   "p": 4672.9,
+   "c": 3.47,
+   "a50": 4176.92,
+   "a200": 4498.91,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4280.47,
-   "r": 75.2
+   "a20": 4280.62,
+   "r": 75.3
   },
   {
    "s": "HG=F",
-   "p": 6.58,
-   "c": 1.82,
+   "p": 6.57,
+   "c": 1.76,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.53,
-   "r": 56.6
+   "r": 56.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": -0.01,
+   "p": 0.03143666,
+   "c": 0.01,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210333.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
+   "t": "Gold prices today, Friday, August 21, 2026: Gold remains strong amid U.S. debt concerns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-21-2026-gold-remains-strong-amid-us-debt-concerns-161052751.html"
   },
   {
    "t": "川普緩和美國物價　宣布30萬噸進口牛絞肉90天免關稅",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210329.aspx"
   },
   {
-   "t": "Abeona’s (ABEO) Gene Therapy Launch Hits A Pivotal Reimbursement Milestone",
+   "t": "Stratasys (SSYS): A Pivotal Transition Meets Cash Flow Realities",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/abeona-abeo-gene-therapy-launch-154235589.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stratasys-ssys-pivotal-transition-meets-160146586.html"
   },
   {
    "t": "美時攜手Alvotech推2款生物相似藥　攻美國與亞洲市場",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210325.aspx"
   },
   {
-   "t": "Golar LNG (GLNG) Just Locked In The World’s Scarcest LNG Capacity",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/golar-lng-glng-just-locked-153353596.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html"
   },
   {
    "t": "三星將買回800億美元自家股票　創韓國史上最大規模",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210320.aspx"
   },
   {
-   "t": "Artificial intelligence could push up inflation - SNB's Tschudin says",
+   "t": "Abeona’s (ABEO) Gene Therapy Launch Hits A Pivotal Reimbursement Milestone",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/artificial-intelligence-could-push-inflation-152413855.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/abeona-abeo-gene-therapy-launch-154235589.html"
   },
   {
    "t": "大樂透第115081期開獎",
