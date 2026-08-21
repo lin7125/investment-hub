@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22 00:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-22 01:09（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 310.95,
-   "c": -0.11,
-   "a50": 310.24,
+   "p": 311.57,
+   "c": 0.09,
+   "a50": 310.25,
    "a200": 281.51,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 314.42,
-   "r": 48.6
+   "a20": 314.45,
+   "r": 49.2
   },
   {
    "s": "NVDA",
-   "p": 215.21,
-   "c": -0.76,
+   "p": 215.56,
+   "c": -0.59,
    "a50": 207.59,
    "a200": 195.29,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.2,
-   "r": 51.5
+   "a20": 213.22,
+   "r": 51.9
   },
   {
    "s": "TSLA",
-   "p": 364.74,
-   "c": 5.68,
-   "a50": 365.9,
+   "p": 363.79,
+   "c": 5.41,
+   "a50": 365.88,
    "a200": 403.33,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 328.24,
-   "r": 58.7
+   "a20": 328.19,
+   "r": 58.3
   },
   {
    "s": "META",
-   "p": 551.99,
-   "c": 1.13,
-   "a50": 593.03,
+   "p": 552.51,
+   "c": 1.22,
+   "a50": 593.04,
    "a200": 624.14,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.59,
-   "r": 39.5
+   "a20": 576.61,
+   "r": 39.7
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7682.7,
-   "c": 0.54,
-   "a50": 7541.21,
+   "p": 7682.83,
+   "c": 0.55,
+   "a50": 7541.22,
    "a200": 7095.77,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7644.84,
+   "a20": 7644.85,
    "r": 54.5
   },
   {
    "s": "^VIX",
-   "p": 15.3,
-   "c": -4.43,
+   "p": 15.33,
+   "c": -4.25,
    "a50": 16.77,
    "a200": 18.48,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.01,
-   "r": 46.6
+   "r": 46.7
   },
   {
    "s": "BZ=F",
-   "p": 94.2,
-   "c": 0.45,
+   "p": 94.22,
+   "c": 0.47,
    "a50": 83.84,
    "a200": 82.44,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4682.1,
-   "c": 3.67,
-   "a50": 4177.1,
-   "a200": 4498.96,
+   "p": 4686.1,
+   "c": 3.76,
+   "a50": 4177.18,
+   "a200": 4498.98,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4281.08,
-   "r": 75.6
+   "a20": 4281.28,
+   "r": 75.7
   },
   {
    "s": "HG=F",
-   "p": 6.58,
-   "c": 1.87,
+   "p": 6.59,
+   "c": 1.95,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.53,
-   "r": 56.8
+   "r": 57.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03142678,
-   "c": 0.0,
+   "c": -0.03,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210333.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
+   "t": "Intuitive Machines (LUNR) Hits Record $1.8B Backlog as Spending Scales Up",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-hits-record-165051224.html"
   },
   {
    "t": "川普緩和美國物價　宣布30萬噸進口牛絞肉90天免關稅",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210329.aspx"
   },
   {
-   "t": "Figure Technologies (FIGR) Leverages Blockchain Infrastructure for Accelerated Growth",
+   "t": "Uber Stock Options Trade Offers Exposure Without The Ownership Price Tag",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/figure-technologies-figr-leverages-blockchain-164103050.html"
+   "u": "https://www.investors.com/research/options/uber-stock-tech-markets-options-trade-strategy-income-investing/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美時攜手Alvotech推2款生物相似藥　攻美國與亞洲市場",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210325.aspx"
   },
   {
-   "t": "U.S. Billionaires Are Piling Into Argentina’s Vaca Muerta Shale",
+   "t": "Einride AB Reports Growth Acceleration & Fleet Scale Moves Towards 2028 – Quarterly Update Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/u-billionaires-piling-argentina-vaca-164010172.html"
+   "u": "https://finance.yahoo.com/technology/articles/einride-ab-reports-growth-acceleration-164314486.html"
   },
   {
    "t": "三星將買回800億美元自家股票　創韓國史上最大規模",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210320.aspx"
   },
   {
-   "t": "Aveanna Healthcare (AVAH) Just Ended A Four-Year Rate Fight",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/aveanna-healthcare-avah-just-ended-163157568.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html"
   },
   {
    "t": "大樂透第115081期開獎",
