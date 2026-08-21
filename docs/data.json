@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22 02:43（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-22 02:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 308.8,
-   "c": -0.8,
-   "a50": 310.2,
+   "p": 308.63,
+   "c": -0.86,
+   "a50": 310.19,
    "a200": 281.5,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 314.31,
-   "r": 46.8
+   "a20": 314.3,
+   "r": 46.7
   },
   {
    "s": "NVDA",
-   "p": 215.14,
-   "c": -0.79,
+   "p": 215.26,
+   "c": -0.73,
    "a50": 207.59,
    "a200": 195.29,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 213.2,
-   "r": 51.5
+   "r": 51.6
   },
   {
    "s": "TSLA",
-   "p": 364.14,
-   "c": 5.51,
-   "a50": 365.88,
+   "p": 365.33,
+   "c": 5.85,
+   "a50": 365.91,
    "a200": 403.33,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 328.21,
-   "r": 58.5
+   "a20": 328.27,
+   "r": 58.9
   },
   {
    "s": "META",
-   "p": 549.67,
-   "c": 0.7,
-   "a50": 592.99,
+   "p": 550.64,
+   "c": 0.88,
+   "a50": 593.01,
    "a200": 624.13,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.47,
-   "r": 38.6
+   "a20": 576.52,
+   "r": 38.9
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7671.8,
-   "c": 0.4,
-   "a50": 7541.0,
-   "a200": 7095.71,
+   "p": 7676.72,
+   "c": 0.47,
+   "a50": 7541.09,
+   "a200": 7095.74,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7644.3,
-   "r": 53.7
+   "a20": 7644.54,
+   "r": 54.0
   },
   {
    "s": "^VIX",
-   "p": 15.3,
-   "c": -4.43,
+   "p": 15.31,
+   "c": -4.37,
    "a50": 16.77,
    "a200": 18.48,
    "yh": 31.05,
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 94.33,
-   "c": 0.59,
+   "p": 94.22,
+   "c": 0.47,
    "a50": 83.84,
    "a200": 82.44,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.69,
-   "r": 61.1
+   "a20": 87.68,
+   "r": 61.0
   },
   {
    "s": "GC=F",
-   "p": 4678.7,
-   "c": 3.6,
-   "a50": 4177.04,
+   "p": 4678.5,
+   "c": 3.59,
+   "a50": 4177.03,
    "a200": 4498.94,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4280.91,
+   "a20": 4280.9,
    "r": 75.5
   },
   {
    "s": "HG=F",
    "p": 6.58,
-   "c": 1.9,
+   "c": 1.91,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.53,
-   "r": 56.9
+   "r": 57.0
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210333.aspx"
   },
   {
-   "t": "SK Hynix workers to get 60% of this year's bonuses in stock rather than cash",
+   "t": "We're 63 With $1.5 Million in IRAs and $4,500 Monthly Social Security. How Much Can We Spend in Retirement?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-workers-to-get-60-of-this-years-bonuses-in-stock-rather-than-cash-052723081.html"
+   "u": "https://finance.yahoo.com/news/were-63-1-5-million-130000528.html"
   },
   {
    "t": "川普緩和美國物價　宣布30萬噸進口牛絞肉90天免關稅",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210329.aspx"
   },
   {
-   "t": "We're 63 With $1.5 Million in IRAs and $4,500 Monthly Social Security. How Much Can We Spend in Retirement?",
+   "t": "From Yellowcake to Commercial Scale: Can Ur-Energy (URG) Live Up to Its Uranium Hype?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/were-63-1-5-million-130000528.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/yellowcake-commercial-scale-ur-energy-085956708.html"
   },
   {
    "t": "美時攜手Alvotech推2款生物相似藥　攻美國與亞洲市場",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210325.aspx"
   },
   {
-   "t": "From Yellowcake to Commercial Scale: Can Ur-Energy (URG) Live Up to Its Uranium Hype?",
+   "t": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/yellowcake-commercial-scale-ur-energy-085956708.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/robots-poised-for-chatgpt-moment-unitree-ceo-says-042133208.html"
   },
   {
    "t": "三星將買回800億美元自家股票　創韓國史上最大規模",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210320.aspx"
   },
   {
-   "t": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
+   "t": "SK Hynix workers to get 60% of this year's bonuses in stock rather than cash",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/robots-poised-for-chatgpt-moment-unitree-ceo-says-042133208.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-workers-to-get-60-of-this-years-bonuses-in-stock-rather-than-cash-052723081.html"
   },
   {
    "t": "大樂透第115081期開獎",
