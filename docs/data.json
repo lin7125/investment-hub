@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 22:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 22:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 307.86,
-   "c": -1.1,
+   "p": 308.03,
+   "c": -1.05,
    "a50": 310.18,
    "a200": 281.49,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 314.26,
-   "r": 46.1
+   "a20": 314.27,
+   "r": 46.2
   },
   {
    "s": "NVDA",
-   "p": 216.36,
-   "c": -0.23,
-   "a50": 207.61,
-   "a200": 195.3,
+   "p": 215.51,
+   "c": -0.62,
+   "a50": 207.59,
+   "a200": 195.29,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.26,
-   "r": 52.8
+   "a20": 213.22,
+   "r": 51.9
   },
   {
    "s": "TSLA",
-   "p": 356.93,
-   "c": 3.42,
-   "a50": 365.74,
-   "a200": 403.29,
+   "p": 358.4,
+   "c": 3.84,
+   "a50": 365.77,
+   "a200": 403.3,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.85,
-   "r": 55.7
+   "a20": 327.92,
+   "r": 56.3
   },
   {
    "s": "META",
-   "p": 550.35,
-   "c": 0.83,
-   "a50": 593.0,
+   "p": 550.6,
+   "c": 0.87,
+   "a50": 593.01,
    "a200": 624.13,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.51,
-   "r": 38.8
+   "a20": 576.52,
+   "r": 38.9
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7670.88,
-   "c": 0.39,
-   "a50": 7540.98,
-   "a200": 7095.71,
+   "p": 7667.09,
+   "c": 0.34,
+   "a50": 7540.9,
+   "a200": 7095.69,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7644.25,
-   "r": 53.6
+   "a20": 7644.06,
+   "r": 53.3
   },
   {
    "s": "^VIX",
-   "p": 15.43,
-   "c": -3.62,
+   "p": 15.48,
+   "c": -3.31,
    "a50": 16.77,
    "a200": 18.48,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 16.02,
-   "r": 47.1
+   "r": 47.3
   },
   {
    "s": "BZ=F",
-   "p": 93.78,
-   "c": 0.0,
+   "p": 93.62,
+   "c": -0.17,
    "a50": 83.83,
    "a200": 82.43,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.66,
-   "r": 60.4
+   "a20": 87.65,
+   "r": 60.1
   },
   {
    "s": "GC=F",
-   "p": 4641.6,
-   "c": 2.77,
-   "a50": 4176.29,
-   "a200": 4498.76,
+   "p": 4646.8,
+   "c": 2.89,
+   "a50": 4176.4,
+   "a200": 4498.78,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4279.05,
-   "r": 74.3
+   "a20": 4279.31,
+   "r": 74.5
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 1.96,
+   "c": 2.0,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.53,
-   "r": 57.1
+   "r": 57.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03144654,
-   "c": 0.04,
+   "p": 0.03142678,
+   "c": -0.02,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210315.aspx"
   },
   {
-   "t": "Treasury Makes a Surprise Move to Bring Down Borrowing Costs",
+   "t": "Bitcoin’s Surge Leaves Strategy With $1.4 Billion Profit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/treasury-makes-surprise-move-bring-020819303.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surge-leaves-strategy-1-140100375.html"
   },
   {
    "t": "今彩539第115203期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210313.aspx"
   },
   {
-   "t": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool",
+   "t": "Stocks trade higher, lifted by crypto, commodities: AlphaCheck",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/citi-hsbc-stanchart-adopt-ant-020535308.html"
+   "u": "https://finance.yahoo.com/markets/article/stocks-trade-higher-lifted-by-crypto-commodities-alphacheck-135720189.html"
   },
   {
    "t": "創惟：盼下半年營運優於上半年　適當時機調整價格",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210312.aspx"
   },
   {
-   "t": "LG Energy Solution Starts Production at 35-GWh Michigan Battery Plant",
+   "t": "Stock Market Today: Dow Rebounding From Sell-Off; Bitcoin Surges Near $77K (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/lg-energy-solution-starts-production-021921915.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo"
   },
   {
    "t": "外資買超283億元　敲進航運族群、調節主動式ETF",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210307.aspx"
   },
   {
-   "t": "Diesel Engines Meet the AI Boom: Inside Caterpillar and Cummins’ Record Quarters",
+   "t": "Jim Cramer Raves About Airbnb As the Travel Giant Becomes an AI-Powered Play",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/diesel-engines-meet-ai-boom-030015033.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-raves-airbnb-travel-134543792.html"
   },
   {
    "t": "世紀民生布局水面無人載具　鎖定無人艇採購案",
