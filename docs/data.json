@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 14:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 14:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.35,
-   "c": -1.5,
+   "p": 49.65,
+   "c": -0.9,
    "a50": 58.45,
    "a200": 42.36,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.57,
-   "r": 46.1
+   "a20": 47.58,
+   "r": 46.5
   },
   {
    "s": "6223.TWO",
@@ -289,40 +289,40 @@
   },
   {
    "s": "BZ=F",
-   "p": 93.26,
-   "c": -0.55,
+   "p": 93.25,
+   "c": -0.57,
    "a50": 83.82,
    "a200": 82.43,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.64,
-   "r": 59.4
+   "a20": 87.63,
+   "r": 59.3
   },
   {
    "s": "GC=F",
-   "p": 4605.0,
-   "c": 1.96,
-   "a50": 4175.56,
-   "a200": 4498.57,
+   "p": 4612.5,
+   "c": 2.13,
+   "a50": 4175.71,
+   "a200": 4498.61,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4277.22,
-   "r": 73.0
+   "a20": 4277.6,
+   "r": 73.3
   },
   {
    "s": "HG=F",
-   "p": 6.54,
-   "c": 1.31,
+   "p": 6.55,
+   "c": 1.38,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.52,
-   "r": 54.7
+   "r": 55.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03137747,
+   "p": 0.03138732,
    "c": -0.16,
    "a50": 0.03120125,
    "a200": 0.0315856,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210104.aspx"
   },
   {
-   "t": "Cerebras Positioned for Robust Growth on Manufacturing Expansion and Swelling RPO",
+   "t": "What is a good savings account interest rate in 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/cerebras-positioned-robust-growth-manufacturing-181055330.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-good-savings-account-interest-rate-173915779.html"
   },
   {
    "t": "刷卡繳房貸　摩根大通專家指美回購公債治標不治本",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210102.aspx"
   },
   {
-   "t": "These AI Companies Pile Up Massive Debt",
+   "t": "Here Is How to Play Tesla Stock After Its Robotaxi Breakthrough",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/ai-stocks-debt-whitefiber-nebius-neocloud/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/play-tesla-stock-robotaxi-breakthrough-182118444.html"
   },
   {
    "t": "張雪稱支持機車走私來台　經部：查辦到底對資助非法難以理解",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210094.aspx"
   },
   {
-   "t": "Dear Wolfspeed Stock Fans, Mark Your Calendars for August 19",
+   "t": "Several Fed officials wanted to raise rates last month. If inflation doesn't come down, more of them see hikes.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-wolfspeed-stock-fans-mark-180752264.html"
+   "u": "https://finance.yahoo.com/economy/policy/article/several-fed-officials-wanted-to-raise-rates-last-month-if-inflation-doesnt-come-down-more-of-them-see-hikes-184112729.html"
   },
   {
    "t": "新台幣午盤升3.5分　暫收31.89元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210091.aspx"
   },
   {
-   "t": "Morgan Stanley Just Upgraded Honeywell Aerospace Stock. Here's Why.",
+   "t": "Bridgewater Dramatically Trimmed Its Position in Micron During Q2. What This Means for MU Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-upgraded-honeywell-182101144.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bridgewater-dramatically-trimmed-position-micron-184433461.html"
   },
   {
    "t": "美超微內部調查出爐　全面強化出口合規機制",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210090.aspx"
   },
   {
-   "t": "CarGurus Chief Marketing Officer Sells 17,151 Shares for $634,587",
+   "t": "Why battery storage costs fell so fast in 2024 and 2025",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cargurus-chief-marketing-officer-sells-181301356.html"
+   "u": "https://finance.yahoo.com/energy/articles/why-battery-storage-costs-fell-182728810.html"
   }
  ],
  "inst": {
