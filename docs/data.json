@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 13:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 14:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -258,61 +258,61 @@
    "s": "^TWII",
    "p": 45224.29,
    "c": 0.65,
-   "a50": 44848.87,
-   "a200": 36100.5,
+   "a50": 44863.78,
+   "a200": 36346.73,
    "yh": 47741.51,
    "yl": 23764.47,
-   "a20": 44114.48,
-   "r": 53.6
+   "a20": 44087.72,
+   "r": 54.1
   },
   {
    "s": "^GSPC",
    "p": 7641.16,
    "c": -0.87,
-   "a50": 7526.46,
-   "a200": 7081.89,
+   "a50": 7532.9,
+   "a200": 7091.61,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7627.24,
-   "r": 51.3
+   "a20": 7631.31,
+   "r": 51.2
   },
   {
    "s": "^VIX",
    "p": 16.01,
    "c": 7.52,
-   "a50": 17.12,
-   "a200": 18.51,
+   "a50": 16.9,
+   "a200": 18.5,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.31,
-   "r": 49.4
+   "a20": 16.18,
+   "r": 49.7
   },
   {
    "s": "BZ=F",
-   "p": 93.49,
-   "c": -0.31,
+   "p": 93.2,
+   "c": -0.62,
    "a50": 83.82,
    "a200": 82.43,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.65,
-   "r": 59.8
+   "a20": 87.63,
+   "r": 59.2
   },
   {
    "s": "GC=F",
-   "p": 4602.1,
-   "c": 1.9,
-   "a50": 4175.5,
-   "a200": 4498.56,
+   "p": 4609.8,
+   "c": 2.07,
+   "a50": 4175.66,
+   "a200": 4498.6,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4277.08,
-   "r": 72.9
+   "a20": 4277.46,
+   "r": 73.2
   },
   {
    "s": "HG=F",
-   "p": 6.54,
-   "c": 1.3,
+   "p": 6.55,
+   "c": 1.32,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": -0.05,
+   "p": 0.03139717,
+   "c": -0.12,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210104.aspx"
   },
   {
-   "t": "Does renters insurance cover pets, dog bites, and pet damage?",
+   "t": "These AI Companies Pile Up Massive Debt",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/does-renters-insurance-cover-pets-180714978.html"
+   "u": "https://www.investors.com/news/ai-stocks-debt-whitefiber-nebius-neocloud/?src=A00220&yptr=yahoo"
   },
   {
    "t": "刷卡繳房貸　摩根大通專家指美回購公債治標不治本",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210102.aspx"
   },
   {
-   "t": "Buy Signal Flashing for Surging Spotify Stock",
+   "t": "Does renters insurance cover pets, dog bites, and pet damage?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/buy-signal-flashing-surging-spotify-180431572.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/does-renters-insurance-cover-pets-180714978.html"
   },
   {
    "t": "張雪稱支持機車走私來台　經部：查辦到底對資助非法難以理解",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210094.aspx"
   },
   {
-   "t": "Cerebras Positioned for Robust Growth on Manufacturing Expansion and Swelling RPO",
+   "t": "Morgan Stanley Just Upgraded Honeywell Aerospace Stock. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/cerebras-positioned-robust-growth-manufacturing-181055330.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-upgraded-honeywell-182101144.html"
   },
   {
    "t": "新台幣午盤升3.5分　暫收31.89元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210091.aspx"
   },
   {
-   "t": "Dear Wolfspeed Stock Fans, Mark Your Calendars for August 19",
+   "t": "Here Is How to Play Tesla Stock After Its Robotaxi Breakthrough",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-wolfspeed-stock-fans-mark-180752264.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/play-tesla-stock-robotaxi-breakthrough-182118444.html"
   },
   {
    "t": "美超微內部調查出爐　全面強化出口合規機制",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210090.aspx"
   },
   {
-   "t": "ExxonMobil's Return Comes From Somewhere The Index Does Not Go",
+   "t": "A Top Strategist Says Buy “Anything but the S&P 500” as Small Caps Quietly Steal the Lead",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/exxonmobils-return-comes-somewhere-index-181607370.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/top-strategist-says-buy-anything-181002969.html"
   }
  ],
  "inst": {
