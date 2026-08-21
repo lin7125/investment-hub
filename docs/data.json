@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22 03:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-22 04:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 309.59,
-   "c": -0.55,
+   "p": 309.35,
+   "c": -0.63,
    "a50": 310.21,
    "a200": 281.5,
    "yh": 340.08,
-   "yl": 224.9,
-   "a20": 314.35,
-   "r": 47.5
+   "yl": 226.79,
+   "a20": 314.34,
+   "r": 47.3
   },
   {
    "s": "NVDA",
-   "p": 214.8,
-   "c": -0.95,
+   "p": 214.72,
+   "c": -0.98,
    "a50": 207.58,
    "a200": 195.29,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 213.18,
-   "r": 51.1
+   "r": 51.0
   },
   {
    "s": "TSLA",
-   "p": 362.33,
-   "c": 4.99,
-   "a50": 365.85,
+   "p": 362.86,
+   "c": 5.14,
+   "a50": 365.86,
    "a200": 403.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 328.12,
-   "r": 57.8
+   "a20": 328.14,
+   "r": 58.0
   },
   {
    "s": "META",
-   "p": 549.74,
-   "c": 0.72,
+   "p": 549.9,
+   "c": 0.75,
    "a50": 592.99,
    "a200": 624.13,
    "yh": 780.25,
    "yl": 525.72,
    "a20": 576.48,
-   "r": 38.6
+   "r": 38.7
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7677.1,
-   "c": 0.47,
-   "a50": 7541.1,
-   "a200": 7095.74,
+   "p": 7674.37,
+   "c": 0.43,
+   "a50": 7541.05,
+   "a200": 7095.72,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7644.56,
-   "r": 54.1
+   "a20": 7644.43,
+   "r": 53.9
   },
   {
    "s": "^VIX",
-   "p": 15.14,
-   "c": -5.43,
+   "p": 15.12,
+   "c": -5.56,
    "a50": 16.76,
    "a200": 18.48,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 94.04,
-   "c": 0.28,
+   "p": 93.98,
+   "c": 0.21,
    "a50": 83.83,
    "a200": 82.44,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.67,
-   "r": 60.8
+   "r": 60.7
   },
   {
    "s": "GC=F",
-   "p": 4675.4,
-   "c": 3.52,
-   "a50": 4176.97,
+   "p": 4676.9,
+   "c": 3.56,
+   "a50": 4177.0,
    "a200": 4498.93,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4280.74,
-   "r": 75.4
+   "a20": 4280.82,
+   "r": 75.5
   },
   {
    "s": "HG=F",
-   "p": 6.58,
-   "c": 1.9,
+   "p": 6.59,
+   "c": 1.94,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.53,
-   "r": 56.9
+   "r": 57.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03142678,
-   "c": -0.0,
+   "c": -0.01,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210336.aspx"
   },
   {
-   "t": "Rapid7 (RPD) Bets On A Sharper Focus To Reverse Its Slide",
+   "t": "OppFi (OPFI) Cuts Guidance but Holds the Line on 2028 Targets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rapid7-rpd-bets-sharper-focus-095502766.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/oppfi-opfi-cuts-guidance-holds-100836967.html"
   },
   {
    "t": "大樂透第115081期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210329.aspx"
   },
   {
-   "t": "OppFi (OPFI) Cuts Guidance but Holds the Line on 2028 Targets",
+   "t": "Paul Krugman dismisses bond market panic as 30-year Treasury yields hit 5.3% and national debt nears $40 trillion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/oppfi-opfi-cuts-guidance-holds-100836967.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/paul-krugman-dismisses-bond-market-101500496.html"
   },
   {
    "t": "美時攜手Alvotech推2款生物相似藥　攻美國與亞洲市場",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210325.aspx"
   },
   {
-   "t": "The Treasury Department just pushed down long-term US bond yields. That could make Kevin Warsh's job harder.",
+   "t": "Is Wall Street Bullish or Bearish on Take-Two Interactive Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/article/the-treasury-department-just-pushed-down-long-term-us-bond-yields-that-could-make-kevin-warshs-job-harder-174238269.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-two-101748385.html"
   },
   {
    "t": "三星將買回800億美元自家股票　創韓國史上最大規模",
