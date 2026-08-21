@@ -1,71 +1,71 @@
 {
- "generatedAt": "2026-08-21 12:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 12:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2390.0,
-   "c": 0.63,
-   "a50": 2390.8,
-   "a200": 1967.32,
+   "p": 2395.0,
+   "c": 0.84,
+   "a50": 2390.9,
+   "a200": 1967.35,
    "yh": 2510.0,
    "yl": 1135.0,
-   "a20": 2360.25,
-   "r": 51.5
+   "a20": 2360.5,
+   "r": 52.0
   },
   {
    "s": "2317.TW",
-   "p": 244.5,
-   "c": -0.81,
-   "a50": 250.53,
-   "a200": 235.83,
+   "p": 245.0,
+   "c": -0.61,
+   "a50": 250.54,
+   "a200": 235.84,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.65,
-   "r": 44.1
+   "a20": 252.68,
+   "r": 44.4
   },
   {
    "s": "2308.TW",
-   "p": 1735.0,
-   "c": -0.57,
-   "a50": 1861.5,
-   "a200": 1541.02,
+   "p": 1745.0,
+   "c": 0.0,
+   "a50": 1861.7,
+   "a200": 1541.07,
    "yh": 2520.0,
    "yl": 648.0,
-   "a20": 1715.5,
-   "r": 45.7
+   "a20": 1716.0,
+   "r": 46.4
   },
   {
    "s": "2454.TW",
-   "p": 3750.0,
-   "c": 1.35,
-   "a50": 3950.7,
-   "a200": 2510.95,
+   "p": 3765.0,
+   "c": 1.76,
+   "a50": 3951.0,
+   "a200": 2511.02,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3809.5,
-   "r": 46.1
+   "a20": 3810.25,
+   "r": 46.6
   },
   {
    "s": "2327.TW",
-   "p": 555.0,
-   "c": -1.25,
-   "a50": 774.51,
-   "a200": 437.76,
+   "p": 558.0,
+   "c": -0.71,
+   "a50": 774.57,
+   "a200": 437.77,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 570.62,
-   "r": 40.3
+   "a20": 570.78,
+   "r": 40.6
   },
   {
    "s": "1802.TW",
-   "p": 56.6,
-   "c": -1.91,
-   "a50": 60.28,
-   "a200": 53.01,
+   "p": 57.5,
+   "c": -0.35,
+   "a50": 60.29,
+   "a200": 53.02,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 53.21,
-   "r": 50.4
+   "a20": 53.25,
+   "r": 52.4
   },
   {
    "s": "6862.TW",
@@ -91,14 +91,14 @@
   },
   {
    "s": "4722.TW",
-   "p": 205.5,
-   "c": 0.24,
-   "a50": 235.67,
+   "p": 206.5,
+   "c": 0.73,
+   "a50": 235.69,
    "a200": 199.55,
    "yh": 306.5,
    "yl": 115.0,
-   "a20": 202.3,
-   "r": 45.7
+   "a20": 202.35,
+   "r": 46.2
   },
   {
    "s": "6706.TW",
@@ -113,91 +113,91 @@
   },
   {
    "s": "2305.TW",
-   "p": 25.95,
-   "c": -2.26,
+   "p": 25.9,
+   "c": -2.45,
    "a50": 32.54,
    "a200": 18.94,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.69,
-   "r": 40.0
+   "a20": 28.68,
+   "r": 39.9
   },
   {
    "s": "6442.TW",
-   "p": 1500.0,
-   "c": -3.54,
-   "a50": 1520.2,
-   "a200": 1606.28,
+   "p": 1515.0,
+   "c": -2.57,
+   "a50": 1520.5,
+   "a200": 1606.36,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1400.75,
-   "r": 51.8
+   "a20": 1401.5,
+   "r": 52.7
   },
   {
    "s": "6515.TW",
-   "p": 6380.0,
-   "c": 0.0,
-   "a50": 7471.4,
-   "a200": 6091.68,
+   "p": 6430.0,
+   "c": 0.78,
+   "a50": 7472.4,
+   "a200": 6091.92,
    "yh": 10795.0,
    "yl": 1100.0,
-   "a20": 6428.25,
-   "r": 43.3
+   "a20": 6430.75,
+   "r": 44.2
   },
   {
    "s": "6446.TW",
-   "p": 1395.0,
-   "c": 1.45,
-   "a50": 1204.41,
-   "a200": 729.6,
+   "p": 1390.0,
+   "c": 1.09,
+   "a50": 1204.31,
+   "a200": 729.57,
    "yh": 1500.0,
    "yl": 398.46,
-   "a20": 1293.75,
-   "r": 58.6
+   "a20": 1293.5,
+   "r": 58.3
   },
   {
    "s": "3324.TWO",
-   "p": 965.0,
-   "c": -2.82,
-   "a50": 973.16,
-   "a200": 998.1,
+   "p": 969.0,
+   "c": -2.42,
+   "a50": 973.24,
+   "a200": 998.12,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 969.25,
-   "r": 48.1
+   "a20": 969.45,
+   "r": 48.6
   },
   {
    "s": "3491.TWO",
-   "p": 1255.0,
-   "c": -2.33,
-   "a50": 1284.74,
-   "a200": 1211.11,
+   "p": 1260.0,
+   "c": -1.95,
+   "a50": 1284.84,
+   "a200": 1211.13,
    "yh": 2200.0,
    "yl": 341.5,
-   "a20": 1208.1,
-   "r": 49.3
+   "a20": 1208.35,
+   "r": 49.6
   },
   {
    "s": "3585.TWO",
-   "p": 49.7,
-   "c": -0.8,
+   "p": 49.65,
+   "c": -0.9,
    "a50": 58.45,
    "a200": 42.36,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.59,
-   "r": 46.6
+   "a20": 47.58,
+   "r": 46.5
   },
   {
    "s": "6223.TWO",
-   "p": 5460.0,
-   "c": -3.36,
-   "a50": 6183.6,
-   "a200": 4110.0,
+   "p": 5510.0,
+   "c": -2.48,
+   "a50": 6184.6,
+   "a200": 4110.25,
    "yh": 7380.0,
    "yl": 1180.0,
-   "a20": 5780.75,
-   "r": 43.5
+   "a20": 5783.25,
+   "r": 44.1
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44923.06,
-   "c": -0.02,
-   "a50": 44842.84,
-   "a200": 36099.0,
+   "p": 45053.05,
+   "c": 0.27,
+   "a50": 44845.44,
+   "a200": 36099.65,
    "yh": 47741.51,
    "yl": 23764.47,
-   "a20": 44099.41,
-   "r": 51.9
+   "a20": 44105.91,
+   "r": 52.6
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 93.78,
-   "c": 2.36,
+   "p": 93.55,
+   "c": -0.25,
    "a50": 83.82,
-   "a200": 82.29,
+   "a200": 82.43,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.81,
-   "r": 60.4
+   "a20": 87.65,
+   "r": 59.9
   },
   {
    "s": "GC=F",
-   "p": 4593.1,
-   "c": 1.7,
-   "a50": 4175.32,
-   "a200": 4498.51,
+   "p": 4595.3,
+   "c": 1.75,
+   "a50": 4175.37,
+   "a200": 4498.53,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4276.63,
-   "r": 72.6
+   "a20": 4276.74,
+   "r": 72.7
   },
   {
    "s": "HG=F",
    "p": 6.54,
-   "c": 1.27,
+   "c": 1.26,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.52,
-   "r": 54.6
+   "r": 54.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03138732,
-   "c": -0.13,
+   "p": 0.03139717,
+   "c": -0.12,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "美擴大回購公債暫緩殖利率升勢　市場憂慮未解",
+   "t": "新台幣午盤升3.5分　暫收31.89元",
    "pub": "中央社財經",
    "d": "2026-08-21",
-   "u": "https://www.cna.com.tw/news/aopl/202608210054.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608210091.aspx"
   },
   {
    "t": "Bank of America sends message on Capital One stock",
@@ -344,34 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html"
   },
   {
-   "t": "台灣金聯公辦都更首案　斥資7.54億估122年完工",
+   "t": "美超微內部調查出爐　全面強化出口合規機制",
    "pub": "中央社財經",
    "d": "2026-08-21",
-   "u": "https://www.cna.com.tw/news/afe/202608210048.aspx"
-  },
-  {
-   "t": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026:  Crypto prices rise after SEC announces proposed regulation",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html"
-  },
-  {
-   "t": "韓國建議對台灣中國固態燒鹼課反傾銷稅　台塑：影響不大",
-   "pub": "中央社財經",
-   "d": "2026-08-21",
-   "u": "https://www.cna.com.tw/news/afe/202608210042.aspx"
-  },
-  {
-   "t": "US appeals court revives Signature Bank collapse lawsuit despite FDIC objection",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/us-appeals-court-revives-signature-161510082.html"
-  },
-  {
-   "t": "莫德納癌症療法突破引爆軋空　股價兩日大洗三溫暖",
-   "pub": "中央社財經",
-   "d": "2026-08-21",
-   "u": "https://www.cna.com.tw/news/afe/202608210039.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608210090.aspx"
   },
   {
    "t": "What Are Wall Street Analysts' Target Price for lululemon athletica Stock?",
@@ -380,10 +356,34 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-162411877.html"
   },
   {
-   "t": "日本7月通膨加速漲　市場預期日銀10月升息",
+   "t": "AI熱潮擴散　凱基投顧上修台股企業未來2年盈餘預估",
    "pub": "中央社財經",
    "d": "2026-08-21",
-   "u": "https://www.cna.com.tw/news/aopl/202608210037.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608210084.aspx"
+  },
+  {
+   "t": "Bitcoin and ethereum prices today, Wednesday, August 19, 2026:  Crypto prices rise after SEC announces proposed regulation",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-19-2026-crypto-prices-rise-after-sec-announces-proposed-regulation-161733939.html"
+  },
+  {
+   "t": "台股漲逾300點重返45000點　貨櫃三雄勁揚",
+   "pub": "中央社財經",
+   "d": "2026-08-21",
+   "u": "https://www.cna.com.tw/news/afe/202608210082.aspx"
+  },
+  {
+   "t": "US appeals court revives Signature Bank collapse lawsuit despite FDIC objection",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-appeals-court-revives-signature-161510082.html"
+  },
+  {
+   "t": "SK海力士擬斥資數十兆韓元　赴日建記憶體晶片廠",
+   "pub": "中央社財經",
+   "d": "2026-08-21",
+   "u": "https://www.cna.com.tw/news/aopl/202608210081.aspx"
   },
   {
    "t": "Silver prices today, Wednesday, August 19, 2026:  Silver rises in early trading on lower rate-hike expectations",
@@ -392,16 +392,16 @@
    "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-august-19-2026-silver-rises-in-early-trading-on-lower-rate-hike-expectations-161336926.html"
   },
   {
-   "t": "台股早盤下跌逾300點後翻紅　台積電漲15元",
+   "t": "聖嬰現象引乾旱　巴拿馬運河9月起減少通行船數",
    "pub": "中央社財經",
    "d": "2026-08-21",
-   "u": "https://www.cna.com.tw/news/afe/202608210034.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608210079.aspx"
   },
   {
-   "t": "Why Broadcom Stock Crashed Today",
+   "t": "Moderna’s 160% Surge Burns Shorts in ‘Painful’ $5 Billion Loss",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-crashed-today-161902789.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/moderna-160-surge-burns-shorts-162300005.html"
   }
  ],
  "inst": {
