@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22 02:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-22 02:43（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,31 +212,31 @@
   },
   {
    "s": "AAPL",
-   "p": 308.83,
-   "c": -0.79,
+   "p": 308.8,
+   "c": -0.8,
    "a50": 310.2,
    "a200": 281.5,
    "yh": 340.08,
    "yl": 224.9,
    "a20": 314.31,
-   "r": 46.9
+   "r": 46.8
   },
   {
    "s": "NVDA",
-   "p": 215.28,
-   "c": -0.72,
+   "p": 215.14,
+   "c": -0.79,
    "a50": 207.59,
    "a200": 195.29,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.21,
-   "r": 51.6
+   "a20": 213.2,
+   "r": 51.5
   },
   {
    "s": "TSLA",
-   "p": 364.32,
-   "c": 5.56,
-   "a50": 365.89,
+   "p": 364.14,
+   "c": 5.51,
+   "a50": 365.88,
    "a200": 403.33,
    "yh": 489.88,
    "yl": 298.32,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 549.09,
-   "c": 0.6,
-   "a50": 592.98,
-   "a200": 624.12,
+   "p": 549.67,
+   "c": 0.7,
+   "a50": 592.99,
+   "a200": 624.13,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.44,
-   "r": 38.3
+   "a20": 576.47,
+   "r": 38.6
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7670.26,
-   "c": 0.38,
-   "a50": 7540.97,
-   "a200": 7095.7,
+   "p": 7671.8,
+   "c": 0.4,
+   "a50": 7541.0,
+   "a200": 7095.71,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7644.22,
-   "r": 53.5
+   "a20": 7644.3,
+   "r": 53.7
   },
   {
    "s": "^VIX",
-   "p": 15.31,
-   "c": -4.37,
+   "p": 15.3,
+   "c": -4.43,
    "a50": 16.77,
    "a200": 18.48,
    "yh": 31.05,
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 94.59,
-   "c": 0.86,
-   "a50": 83.85,
+   "p": 94.33,
+   "c": 0.59,
+   "a50": 83.84,
    "a200": 82.44,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.7,
-   "r": 61.5
+   "a20": 87.69,
+   "r": 61.1
   },
   {
    "s": "GC=F",
-   "p": 4684.0,
-   "c": 3.71,
-   "a50": 4177.14,
-   "a200": 4498.97,
+   "p": 4678.7,
+   "c": 3.6,
+   "a50": 4177.04,
+   "a200": 4498.94,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4281.17,
-   "r": 75.7
+   "a20": 4280.91,
+   "r": 75.5
   },
   {
    "s": "HG=F",
    "p": 6.58,
-   "c": 1.89,
+   "c": 1.9,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
@@ -322,7 +322,7 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03143666,
+   "p": 0.03142678,
    "c": 0.0,
    "a50": 0.03120125,
    "a200": 0.0315856,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210329.aspx"
   },
   {
-   "t": "Pangaea Logistics (PANL): Freight Rate Rally Drives Operational Strength Amid Margin Pressures",
+   "t": "We're 63 With $1.5 Million in IRAs and $4,500 Monthly Social Security. How Much Can We Spend in Retirement?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/pangaea-logistics-panl-freight-rate-080500278.html"
+   "u": "https://finance.yahoo.com/news/were-63-1-5-million-130000528.html"
   },
   {
    "t": "美時攜手Alvotech推2款生物相似藥　攻美國與亞洲市場",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608210320.aspx"
   },
   {
-   "t": "We're 63 With $1.5 Million in IRAs and $4,500 Monthly Social Security. How Much Can We Spend in Retirement?",
+   "t": "Robots poised for 'ChatGPT moment,' Unitree CEO says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/were-63-1-5-million-130000528.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/robots-poised-for-chatgpt-moment-unitree-ceo-says-042133208.html"
   },
   {
    "t": "大樂透第115081期開獎",
