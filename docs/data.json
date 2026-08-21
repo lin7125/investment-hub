@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21 22:56（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-21 23:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 309.11,
-   "c": -0.7,
-   "a50": 310.2,
+   "p": 309.9,
+   "c": -0.45,
+   "a50": 310.22,
    "a200": 281.5,
    "yh": 340.08,
    "yl": 224.9,
-   "a20": 314.33,
-   "r": 47.1
+   "a20": 314.37,
+   "r": 47.7
   },
   {
    "s": "NVDA",
-   "p": 214.94,
-   "c": -0.88,
-   "a50": 207.58,
+   "p": 215.18,
+   "c": -0.77,
+   "a50": 207.59,
    "a200": 195.29,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.19,
-   "r": 51.2
+   "a20": 213.2,
+   "r": 51.5
   },
   {
    "s": "TSLA",
-   "p": 359.86,
-   "c": 4.27,
-   "a50": 365.8,
-   "a200": 403.31,
+   "p": 363.27,
+   "c": 5.26,
+   "a50": 365.87,
+   "a200": 403.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 327.99,
-   "r": 56.9
+   "a20": 328.16,
+   "r": 58.2
   },
   {
    "s": "META",
-   "p": 551.85,
-   "c": 1.1,
-   "a50": 593.03,
-   "a200": 624.14,
+   "p": 553.83,
+   "c": 1.46,
+   "a50": 593.07,
+   "a200": 624.15,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.58,
-   "r": 39.4
+   "a20": 576.68,
+   "r": 40.2
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7671.68,
-   "c": 0.4,
-   "a50": 7540.99,
-   "a200": 7095.71,
+   "p": 7681.64,
+   "c": 0.53,
+   "a50": 7541.19,
+   "a200": 7095.76,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7644.29,
-   "r": 53.6
+   "a20": 7644.79,
+   "r": 54.4
   },
   {
    "s": "^VIX",
-   "p": 15.46,
-   "c": -3.44,
+   "p": 15.34,
+   "c": -4.18,
    "a50": 16.77,
    "a200": 18.48,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.02,
-   "r": 47.2
+   "a20": 16.01,
+   "r": 46.7
   },
   {
    "s": "BZ=F",
-   "p": 93.83,
-   "c": 0.05,
+   "p": 93.95,
+   "c": 0.18,
    "a50": 83.83,
    "a200": 82.43,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.66,
-   "r": 60.5
+   "a20": 87.67,
+   "r": 60.6
   },
   {
    "s": "GC=F",
-   "p": 4641.5,
-   "c": 2.77,
-   "a50": 4176.29,
+   "p": 4642.7,
+   "c": 2.8,
+   "a50": 4176.32,
    "a200": 4498.76,
    "yh": 5318.4,
    "yl": 3336.9,
-   "a20": 4279.05,
-   "r": 74.3
+   "a20": 4279.11,
+   "r": 74.4
   },
   {
    "s": "HG=F",
    "p": 6.56,
-   "c": 1.59,
+   "c": 1.53,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.53,
-   "r": 55.8
+   "a20": 6.52,
+   "r": 55.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03142678,
-   "c": -0.02,
+   "c": -0.01,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210315.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Bounces After Sell-Off; Bitcoin Jumps Near $77K, Ross Pops On Outlook (Live Coverage)",
+   "t": "Is bitcoin's price volatility an investing opportunity? How to buy bitcoin.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-bitcoin-222211772.html"
   },
   {
    "t": "今彩539第115203期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608210313.aspx"
   },
   {
-   "t": "Stock Market Rally Buckles; Moderna, Gold, Bitcoin Surge While Walmart Tumbles: Weekly Review",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/stock-market-rally-buckles-moderna-gold-bitcoin-surge-walmart-tumbles/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html"
   },
   {
    "t": "創惟：盼下半年營運優於上半年　適當時機調整價格",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210312.aspx"
   },
   {
-   "t": "Indiana family discovers $100K in hidden damage after buying $200K home — Ramsey hosts weigh the $30K gamble to sue",
+   "t": "Apple paid 40% of its global taxes to Ireland in last fiscal year",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/indiana-family-discovers-100k-hidden-141500156.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/apple-paid-40-global-taxes-144940102.html"
   },
   {
    "t": "外資買超283億元　敲進航運族群、調節主動式ETF",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608210307.aspx"
   },
   {
-   "t": "Crypto Miner Poolin Files For Bankruptcy",
+   "t": "Moderna Stock Is Just The Start: Why AI-Focused Money Might Flow Into Biotech",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/crypto-miner-poolin-files-bankruptcy-141500892.html"
+   "u": "https://www.investors.com/news/moderna-stock-start-of-ai-focused-money-in-biotech/?src=A00220&yptr=yahoo"
   },
   {
    "t": "世紀民生布局水面無人載具　鎖定無人艇採購案",
