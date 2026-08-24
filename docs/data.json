@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 03:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 03:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 311.31,
-   "c": 0.63,
+   "p": 311.44,
+   "c": 0.68,
    "a50": 310.52,
    "a200": 281.71,
    "yh": 340.08,
    "yl": 226.79,
    "a20": 313.06,
-   "r": 49.1
+   "r": 49.2
   },
   {
    "s": "NVDA",
-   "p": 209.16,
-   "c": -2.59,
-   "a50": 207.66,
+   "p": 209.46,
+   "c": -2.45,
+   "a50": 207.67,
    "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.81,
-   "r": 45.3
+   "a20": 213.83,
+   "r": 45.5
   },
   {
    "s": "TSLA",
-   "p": 349.36,
-   "c": -3.72,
-   "a50": 364.86,
+   "p": 350.12,
+   "c": -3.51,
+   "a50": 364.88,
    "a200": 402.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.15,
-   "r": 51.5
+   "a20": 330.19,
+   "r": 51.9
   },
   {
    "s": "META",
-   "p": 560.03,
-   "c": 1.84,
-   "a50": 592.82,
+   "p": 558.97,
+   "c": 1.65,
+   "a50": 592.8,
    "a200": 623.79,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.79,
-   "r": 42.7
+   "a20": 574.74,
+   "r": 42.3
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7657.42,
-   "c": -0.22,
-   "a50": 7546.31,
-   "a200": 7100.15,
+   "p": 7658.64,
+   "c": -0.2,
+   "a50": 7546.33,
+   "a200": 7100.16,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.64,
-   "r": 52.3
+   "a20": 7656.7,
+   "r": 52.4
   },
   {
    "s": "^VIX",
-   "p": 15.77,
-   "c": 4.23,
+   "p": 15.78,
+   "c": 4.3,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.86,
-   "r": 48.9
+   "r": 49.0
   },
   {
    "s": "BZ=F",
-   "p": 92.25,
-   "c": -2.27,
+   "p": 92.33,
+   "c": -2.18,
    "a50": 83.88,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.89,
-   "r": 56.8
+   "r": 57.0
   },
   {
    "s": "GC=F",
-   "p": 4693.1,
-   "c": 1.49,
-   "a50": 4188.0,
-   "a200": 4502.4,
+   "p": 4694.8,
+   "c": 1.53,
+   "a50": 4188.03,
+   "a200": 4502.41,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.11,
-   "r": 76.1
+   "a20": 4309.19,
+   "r": 76.2
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.26,
+   "c": 0.27,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 57.7
+   "r": 57.8
   },
   {
    "s": "TWDUSD",
    "p": 0.0314169,
-   "c": 0.02,
+   "c": 0.03,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240306.aspx"
   },
   {
-   "t": "New combines now list for $1 million as farm income drops 2.6% — forcing farmers to rely on 70s machines and scrap parts",
+   "t": "Grant Cardone says ‘America will become a renter nation.’ Can you make the most of the market without a mortgage?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/combines-now-list-1-million-100000884.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-america-become-101500797.html"
   },
   {
    "t": "魏哲家：台積電利潤分配　加大資源投入永續",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
   },
   {
-   "t": "Grant Cardone says ‘America will become a renter nation.’ Can you make the most of the market without a mortgage?",
+   "t": "New combines now list for $1 million as farm income drops 2.6% — forcing farmers to rely on 70s machines and scrap parts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-america-become-101500797.html"
+   "u": "https://finance.yahoo.com/economy/articles/combines-now-list-1-million-100000884.html"
   },
   {
    "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
+   "t": "A 22-year-old inherited $1.7 million after her mom's sudden death. These are the tax and IRS rules she needs to know now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/22-old-inherited-1-7-103000483.html"
   },
   {
    "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
   },
   {
-   "t": "Citibank exec says every 10-year delay in retirement savings means saving 3x as much monthly to catch up",
+   "t": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/citibank-exec-says-every-10-093000427.html"
+   "u": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html"
   },
   {
    "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "What to Expect in Markets This Week: Nvidia Earnings; Software Firms, Discount Stores Also Report",
+   "t": "Social Security’s 40 Work Credit Rule: Why Some Seniors Don’t Qualify for Retirement Benefits",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-nvidia-earnings-100000903.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/social-security-40-credit-rule-100940519.html"
   }
  ],
  "inst": {
