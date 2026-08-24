@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 02:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 02:39（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 311.85,
-   "c": 0.81,
-   "a50": 310.53,
+   "p": 311.15,
+   "c": 0.58,
+   "a50": 310.52,
    "a200": 281.71,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.09,
-   "r": 49.6
+   "a20": 313.05,
+   "r": 49.0
   },
   {
    "s": "NVDA",
-   "p": 210.29,
-   "c": -2.07,
-   "a50": 207.69,
-   "a200": 195.35,
+   "p": 209.85,
+   "c": -2.27,
+   "a50": 207.68,
+   "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.87,
-   "r": 46.3
+   "a20": 213.84,
+   "r": 45.9
   },
   {
    "s": "TSLA",
-   "p": 352.88,
-   "c": -2.75,
+   "p": 352.9,
+   "c": -2.74,
    "a50": 364.93,
    "a200": 402.86,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.32,
+   "a20": 330.33,
    "r": 53.1
   },
   {
    "s": "META",
-   "p": 559.75,
-   "c": 1.79,
+   "p": 560.11,
+   "c": 1.86,
    "a50": 592.82,
    "a200": 623.79,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.78,
-   "r": 42.6
+   "a20": 574.8,
+   "r": 42.7
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7665.23,
-   "c": -0.12,
-   "a50": 7546.47,
-   "a200": 7100.19,
+   "p": 7661.1,
+   "c": -0.17,
+   "a50": 7546.38,
+   "a200": 7100.17,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7657.03,
-   "r": 53.0
+   "a20": 7656.82,
+   "r": 52.6
   },
   {
    "s": "^VIX",
-   "p": 15.73,
-   "c": 3.97,
+   "p": 15.71,
+   "c": 3.83,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.89,
-   "c": -2.65,
-   "a50": 83.87,
-   "a200": 82.57,
+   "p": 92.16,
+   "c": -2.36,
+   "a50": 83.88,
+   "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.87,
-   "r": 56.2
+   "a20": 87.88,
+   "r": 56.7
   },
   {
    "s": "GC=F",
-   "p": 4687.6,
-   "c": 1.37,
-   "a50": 4187.89,
-   "a200": 4502.37,
+   "p": 4696.6,
+   "c": 1.57,
+   "a50": 4188.07,
+   "a200": 4502.41,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4308.83,
-   "r": 75.9
+   "a20": 4309.28,
+   "r": 76.2
   },
   {
    "s": "HG=F",
-   "p": 6.59,
-   "c": 0.24,
+   "p": 6.6,
+   "c": 0.35,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 57.6
+   "r": 58.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": 0.06,
+   "p": 0.0314169,
+   "c": 0.04,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
   },
   {
-   "t": "Gen Z needs a 'reality check,' says BofA: Is the 'little treat economy' blowing up their future one coffee at a time?",
+   "t": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/gen-z-needs-reality-check-091500298.html"
+   "u": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html"
   },
   {
    "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
+   "t": "Gen Z needs a 'reality check,' says BofA: Is the 'little treat economy' blowing up their future one coffee at a time?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html"
+   "u": "https://finance.yahoo.com/economy/articles/gen-z-needs-reality-check-091500298.html"
   },
   {
    "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
   },
   {
-   "t": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up?",
+   "t": "New combines now list for $1 million as farm income drops 2.6% — forcing farmers to rely on 70s machines and scrap parts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/aws-lagging-microsoft-azure-google-084105975.html"
+   "u": "https://finance.yahoo.com/economy/articles/combines-now-list-1-million-100000884.html"
   },
   {
    "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "Stephen Mandel’s Lone Pine and Whale Rock Piled Into This Little Known AI Stock",
+   "t": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/stephen-mandel-lone-pine-whale-083519611.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-2027-why-think-093500285.html"
   }
  ],
  "inst": {
