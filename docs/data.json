@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 01:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 01:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 312.14,
-   "c": 0.9,
+   "p": 312.04,
+   "c": 0.87,
    "a50": 310.54,
    "a200": 281.71,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.1,
-   "r": 49.9
+   "a20": 313.09,
+   "r": 49.8
   },
   {
    "s": "NVDA",
-   "p": 209.91,
-   "c": -2.24,
-   "a50": 207.68,
+   "p": 209.39,
+   "c": -2.48,
+   "a50": 207.67,
    "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.85,
-   "r": 46.0
+   "a20": 213.82,
+   "r": 45.5
   },
   {
    "s": "TSLA",
-   "p": 355.64,
-   "c": -1.99,
-   "a50": 364.99,
+   "p": 356.22,
+   "c": -1.83,
+   "a50": 365.0,
    "a200": 402.88,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.46,
-   "r": 54.3
+   "a20": 330.49,
+   "r": 54.6
   },
   {
    "s": "META",
-   "p": 558.45,
-   "c": 1.55,
-   "a50": 592.79,
+   "p": 557.38,
+   "c": 1.36,
+   "a50": 592.77,
    "a200": 623.78,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.71,
-   "r": 42.1
+   "a20": 574.66,
+   "r": 41.7
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7660.35,
-   "c": -0.18,
-   "a50": 7546.37,
-   "a200": 7100.17,
+   "p": 7654.22,
+   "c": -0.26,
+   "a50": 7546.25,
+   "a200": 7100.14,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.78,
-   "r": 52.5
+   "a20": 7656.48,
+   "r": 52.0
   },
   {
    "s": "^VIX",
-   "p": 15.68,
-   "c": 3.64,
+   "p": 15.65,
+   "c": 3.44,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.85,
-   "r": 48.5
+   "r": 48.4
   },
   {
    "s": "BZ=F",
-   "p": 92.42,
-   "c": -2.09,
+   "p": 92.31,
+   "c": -2.2,
    "a50": 83.88,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.89,
-   "r": 57.2
+   "r": 57.0
   },
   {
    "s": "GC=F",
-   "p": 4702.3,
-   "c": 1.69,
-   "a50": 4188.18,
-   "a200": 4502.44,
+   "p": 4707.4,
+   "c": 1.8,
+   "a50": 4188.29,
+   "a200": 4502.47,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.57,
-   "r": 76.4
+   "a20": 4309.82,
+   "r": 76.5
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": 0.36,
+   "p": 6.61,
+   "c": 0.49,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 58.1
+   "r": 58.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": 0.06,
+   "p": 0.0314169,
+   "c": 0.04,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240306.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
+   "t": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Steel Gains Melt (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo"
   },
   {
    "t": "魏哲家：台積電利潤分配　加大資源投入永續",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
   },
   {
-   "t": "Gas Price Watch: Bessent To Detail 'Economic D-Day' On Iran",
+   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/gas-price-watch-bessent-economic-d-day-on-iran/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
   },
   {
    "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "TGTX Stock Outperforms 95% of Stocks. Here's Why.",
+   "t": "Gas Price Watch: Bessent To Detail 'Economic D-Day' On Iran",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/multiple-sclerosis-tgtx-stock-biotech-tg-therapeutics/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/gas-price-watch-bessent-economic-d-day-on-iran/?src=A00220&yptr=yahoo"
   },
   {
    "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
   },
   {
-   "t": "Elon Musk’s Social Security reset is coming even after DOGE’s death — protect your check whether you like him or not",
+   "t": "TGTX Stock Outperforms 95% of Stocks. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/elon-musk-social-security-reset-163919950.html"
+   "u": "https://www.investors.com/research/multiple-sclerosis-tgtx-stock-biotech-tg-therapeutics/?src=A00220&yptr=yahoo"
   },
   {
    "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "Trading Activity: Resideo CEO Thomas Surran Buys 15,000 Shares at $20.46",
+   "t": "Gogoro Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/trading-activity-resideo-ceo-thomas-165503387.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/gogoro-inc-q2-2026-earnings-165307094.html"
   }
  ],
  "inst": {
