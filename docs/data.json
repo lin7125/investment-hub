@@ -1,181 +1,181 @@
 {
- "generatedAt": "2026-08-25 04:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 05:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2410.0,
-   "c": 1.47,
-   "a50": 2391.2,
-   "a200": 1967.42,
+   "p": 2375.0,
+   "c": -1.45,
+   "a50": 2392.5,
+   "a200": 1971.92,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2361.25,
-   "r": 53.4
+   "a20": 2362.5,
+   "r": 49.7
   },
   {
    "s": "2317.TW",
-   "p": 245.5,
-   "c": -0.41,
-   "a50": 250.55,
-   "a200": 235.84,
+   "p": 243.5,
+   "c": -0.81,
+   "a50": 250.21,
+   "a200": 235.8,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.7,
-   "r": 44.8
+   "a20": 252.22,
+   "r": 43.4
   },
   {
    "s": "2308.TW",
-   "p": 1750.0,
-   "c": 0.29,
-   "a50": 1861.8,
-   "a200": 1541.1,
+   "p": 1735.0,
+   "c": -0.86,
+   "a50": 1852.2,
+   "a200": 1544.4,
    "yh": 2520.0,
    "yl": 676.0,
-   "a20": 1716.25,
-   "r": 46.8
+   "a20": 1715.25,
+   "r": 45.7
   },
   {
    "s": "2454.TW",
-   "p": 3790.0,
-   "c": 2.43,
-   "a50": 3951.5,
-   "a200": 2511.15,
+   "p": 3765.0,
+   "c": -0.66,
+   "a50": 3943.2,
+   "a200": 2523.4,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3811.5,
-   "r": 47.4
+   "a20": 3815.75,
+   "r": 46.7
   },
   {
    "s": "2327.TW",
-   "p": 554.0,
-   "c": -1.42,
-   "a50": 774.49,
-   "a200": 437.75,
+   "p": 551.0,
+   "c": -0.54,
+   "a50": 768.41,
+   "a200": 439.28,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 570.58,
-   "r": 40.2
+   "a20": 566.88,
+   "r": 39.9
   },
   {
    "s": "1802.TW",
-   "p": 57.6,
-   "c": -0.17,
-   "a50": 60.3,
-   "a200": 53.02,
+   "p": 56.9,
+   "c": -1.22,
+   "a50": 60.15,
+   "a200": 53.16,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 53.26,
-   "r": 52.7
+   "a20": 53.48,
+   "r": 50.9
   },
   {
    "s": "6862.TW",
    "p": 137.0,
    "c": 0.0,
-   "a50": 165.06,
-   "a200": 175.98,
+   "a50": 164.0,
+   "a200": 175.61,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 138.3,
+   "a20": 138.05,
    "r": 39.8
   },
   {
    "s": "3701.TW",
-   "p": 40.75,
-   "c": 1.49,
-   "a50": 42.06,
-   "a200": 48.91,
+   "p": 39.8,
+   "c": -2.33,
+   "a50": 41.9,
+   "a200": 48.93,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.66,
-   "r": 49.7
+   "a20": 39.65,
+   "r": 46.5
   },
   {
    "s": "4722.TW",
-   "p": 206.0,
-   "c": 0.49,
-   "a50": 235.68,
-   "a200": 199.55,
+   "p": 202.5,
+   "c": -1.7,
+   "a50": 235.2,
+   "a200": 199.68,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 202.32,
-   "r": 45.9
+   "a20": 202.22,
+   "r": 44.5
   },
   {
    "s": "6706.TW",
-   "p": 116.5,
-   "c": -0.43,
-   "a50": 129.3,
-   "a200": 127.52,
+   "p": 114.5,
+   "c": -1.72,
+   "a50": 128.25,
+   "a200": 127.74,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 110.92,
-   "r": 48.1
+   "a20": 111.27,
+   "r": 46.4
   },
   {
    "s": "2305.TW",
-   "p": 26.0,
-   "c": -2.07,
-   "a50": 32.54,
-   "a200": 18.94,
+   "p": 26.65,
+   "c": 2.5,
+   "a50": 32.57,
+   "a200": 19.02,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.69,
-   "r": 40.1
+   "a20": 28.43,
+   "r": 42.3
   },
   {
    "s": "6442.TW",
-   "p": 1525.0,
-   "c": -1.93,
-   "a50": 1520.7,
-   "a200": 1606.41,
+   "p": 1460.0,
+   "c": -4.26,
+   "a50": 1512.8,
+   "a200": 1608.98,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1402.0,
-   "r": 53.3
+   "a20": 1408.5,
+   "r": 49.2
   },
   {
    "s": "6515.TW",
-   "p": 6400.0,
-   "c": 0.31,
-   "a50": 7471.8,
-   "a200": 6091.78,
+   "p": 6145.0,
+   "c": -3.98,
+   "a50": 7402.9,
+   "a200": 6110.52,
    "yh": 10795.0,
    "yl": 1130.0,
-   "a20": 6429.25,
-   "r": 43.7
+   "a20": 6416.75,
+   "r": 40.0
   },
   {
    "s": "6446.TW",
-   "p": 1400.0,
-   "c": 1.82,
-   "a50": 1204.51,
-   "a200": 729.62,
+   "p": 1475.0,
+   "c": 5.36,
+   "a50": 1216.9,
+   "a200": 734.74,
    "yh": 1500.0,
    "yl": 401.71,
-   "a20": 1294.0,
-   "r": 58.9
+   "a20": 1308.0,
+   "r": 63.6
   },
   {
    "s": "3324.TWO",
-   "p": 969.0,
-   "c": -2.42,
-   "a50": 973.24,
-   "a200": 998.12,
+   "p": 1015.0,
+   "c": 4.75,
+   "a50": 972.44,
+   "a200": 998.0,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 969.45,
-   "r": 48.6
+   "a20": 973.7,
+   "r": 55.0
   },
   {
    "s": "3491.TWO",
-   "p": 1280.0,
-   "c": -0.39,
-   "a50": 1285.24,
-   "a200": 1211.23,
+   "p": 1290.0,
+   "c": 0.78,
+   "a50": 1277.24,
+   "a200": 1215.52,
    "yh": 2200.0,
    "yl": 352.0,
-   "a20": 1209.35,
-   "r": 50.9
+   "a20": 1216.1,
+   "r": 51.6
   },
   {
    "s": "3585.TWO",
@@ -190,25 +190,25 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5465.0,
-   "c": -3.27,
-   "a50": 6183.7,
-   "a200": 4110.02,
+   "p": 5565.0,
+   "c": 1.83,
+   "a50": 6165.3,
+   "a200": 4127.8,
    "yh": 7380.0,
    "yl": 1255.0,
-   "a20": 5781.0,
-   "r": 43.6
+   "a20": 5773.25,
+   "r": 45.2
   },
   {
    "s": "6750.TWO",
-   "p": 54.2,
-   "c": -1.09,
-   "a50": 60.02,
-   "a200": 56.98,
+   "p": 54.9,
+   "c": 1.29,
+   "a50": 59.84,
+   "a200": 57.04,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 54.89,
-   "r": 41.6
+   "a20": 54.79,
+   "r": 44.1
   },
   {
    "s": "AAPL",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.96,
-   "c": -2.57,
+   "p": 91.99,
+   "c": -2.54,
    "a50": 83.87,
    "a200": 82.57,
    "yh": 118.35,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4704.7,
-   "c": 1.74,
-   "a50": 4188.23,
-   "a200": 4502.45,
+   "p": 4710.0,
+   "c": 1.86,
+   "a50": 4188.34,
+   "a200": 4502.48,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.69,
-   "r": 76.5
+   "a20": 4309.95,
+   "r": 76.6
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": 0.38,
+   "p": 6.61,
+   "c": 0.4,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": 0.03,
+   "p": 0.03142678,
+   "c": 0.06,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250002.aspx"
   },
   {
-   "t": "Walmart stock price target reset by JPMorgan after earnings",
+   "t": "Is GE Vernova Under $1,000 a Bargain or a Trap? Here's the Honest Answer.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-price-target-reset-024700402.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-under-1-000-130300789.html"
   },
   {
    "t": "CNBC：美財長可能動用近1兆美元帳戶　支應公債回購",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608240341.aspx"
   },
   {
-   "t": "Ramsey Show caller earns $95K but can't save $1,000 — his $131K in debt has him trapped in cash advance loops",
+   "t": "Trump made a multimillion-dollar bond bet — and Fed Chair Kevin Warsh could shape the outcome. What investors can learn",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/ramsey-show-caller-earns-95k-120000539.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/trump-made-multimillion-dollar-bond-130000920.html"
   },
   {
    "t": "國票金董事長張兆順　辭任穩懋獨立董事",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240337.aspx"
   },
   {
-   "t": "As Bubble Fears Percolate, Advisors Are Bracing for a Crunch",
+   "t": "HP exec reveals the Gen Z ‘superpower’ that he says helps young employees build ‘a healthy relationship with work’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bubble-fears-percolate-advisors-bracing-120000641.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/hp-exec-reveals-gen-z-130000510.html"
   },
   {
    "t": "國銀新南向授信單月大增千億　前7月放款澳洲增額居冠",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240334.aspx"
   },
   {
-   "t": "Ramsey Show says asking for a child's inheritance is ‘gross’ — but it’s the one way to get husband’s $2M bloodline trust",
+   "t": "500 Reasons to Buy Einride Stock Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/ramsey-show-says-asking-childs-113000774.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/500-reasons-buy-einride-stock-130002262.html"
   },
   {
    "t": "台積電提升再生能源用電比重　先進製程研發雙軌並進",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240333.aspx"
   },
   {
-   "t": "Most Americans retire with this much banked in savings, but is it actually enough for you?",
+   "t": "Got $2M saved? You should (probably) retire immediately. Don't sacrifice it all for nothing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/most-americans-retire-much-banked-121500399.html"
+   "u": "https://finance.yahoo.com/markets/articles/got-2m-saved-probably-retire-124500785.html"
   },
   {
    "t": "威力彩第115068期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240329.aspx"
   },
   {
-   "t": "Cardinal Health's Medical Segment Boss Sold $8 Million in Stock. Here's What to Know",
+   "t": "The Idiot’s Guide to Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cardinal-healths-medical-segment-boss-114200494.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/idiot-guide-stocks-130038310.html"
   }
  ],
  "inst": {
