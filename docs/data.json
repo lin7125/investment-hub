@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 03:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 04:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 310.8,
-   "c": 0.47,
-   "a50": 310.51,
-   "a200": 281.71,
+   "p": 310.34,
+   "c": 0.32,
+   "a50": 310.5,
+   "a200": 281.7,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.03,
-   "r": 48.7
+   "a20": 313.01,
+   "r": 48.2
   },
   {
    "s": "NVDA",
-   "p": 208.41,
-   "c": -2.94,
+   "p": 208.48,
+   "c": -2.91,
    "a50": 207.65,
    "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.77,
-   "r": 44.6
+   "a20": 213.78,
+   "r": 44.7
   },
   {
    "s": "TSLA",
-   "p": 349.25,
-   "c": -3.75,
-   "a50": 364.86,
-   "a200": 402.85,
+   "p": 348.95,
+   "c": -3.83,
+   "a50": 364.85,
+   "a200": 402.84,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.14,
-   "r": 51.5
+   "a20": 330.13,
+   "r": 51.4
   },
   {
    "s": "META",
-   "p": 560.97,
-   "c": 2.01,
-   "a50": 592.84,
-   "a200": 623.8,
+   "p": 559.02,
+   "c": 1.66,
+   "a50": 592.8,
+   "a200": 623.79,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.84,
-   "r": 43.0
+   "a20": 574.74,
+   "r": 42.3
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7654.09,
-   "c": -0.26,
-   "a50": 7546.24,
-   "a200": 7100.14,
+   "p": 7652.96,
+   "c": -0.28,
+   "a50": 7546.22,
+   "a200": 7100.13,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.47,
-   "r": 52.0
+   "a20": 7656.41,
+   "r": 51.9
   },
   {
    "s": "^VIX",
-   "p": 15.82,
-   "c": 4.56,
+   "p": 15.84,
+   "c": 4.69,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 92.12,
-   "c": -2.4,
-   "a50": 83.88,
+   "p": 92.06,
+   "c": -2.47,
+   "a50": 83.87,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.88,
-   "r": 56.6
+   "r": 56.5
   },
   {
    "s": "GC=F",
-   "p": 4701.5,
-   "c": 1.67,
-   "a50": 4188.17,
-   "a200": 4502.44,
+   "p": 4708.6,
+   "c": 1.83,
+   "a50": 4188.31,
+   "a200": 4502.47,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.53,
-   "r": 76.4
+   "a20": 4309.88,
+   "r": 76.6
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.26,
+   "c": 0.37,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 57.8
+   "r": 58.1
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608240341.aspx"
   },
   {
-   "t": "A 22-year-old inherited $1.7 million after her mom's sudden death. These are the tax and IRS rules she needs to know now",
+   "t": "‘The village idiot could have made it’: Warren Buffett’s dead-simple playbook to supercharge your retirement now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/22-old-inherited-1-7-103000483.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/village-idiot-could-made-warren-110000603.html"
   },
   {
    "t": "國票金董事長張兆順　辭任穩懋獨立董事",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240337.aspx"
   },
   {
-   "t": "Grant Cardone says ‘America will become a renter nation.’ Can you make the most of the market without a mortgage?",
+   "t": "Wall Street firms are waiting for people to die so they can get their life insurance money. And yes, it’s legal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-america-become-101500797.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/wall-street-firms-waiting-people-110000647.html"
   },
   {
    "t": "國銀新南向授信單月大增千億　前7月放款澳洲增額居冠",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240334.aspx"
   },
   {
-   "t": "‘The village idiot could have made it’: Warren Buffett’s dead-simple playbook to supercharge your retirement now",
+   "t": "A 22-year-old inherited $1.7 million after her mom's sudden death. These are the tax and IRS rules she needs to know now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/village-idiot-could-made-warren-110000603.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/22-old-inherited-1-7-103000483.html"
   },
   {
    "t": "台積電提升再生能源用電比重　先進製程研發雙軌並進",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240333.aspx"
   },
   {
-   "t": "Wall Street firms are waiting for people to die so they can get their life insurance money. And yes, it’s legal",
+   "t": "Grant Cardone says ‘America will become a renter nation.’ Can you make the most of the market without a mortgage?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/wall-street-firms-waiting-people-110000647.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-america-become-101500797.html"
   },
   {
    "t": "威力彩第115068期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240329.aspx"
   },
   {
-   "t": "After Biggest One-Day Decline Since 2022, Is Walmart Stock a Buy?",
+   "t": "The Heirs to Jack Daniel’s Are Fighting to Keep Control",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/biggest-one-day-decline-since-103500353.html"
+   "u": "https://www.wsj.com/articles/the-heirs-to-jack-daniels-are-fighting-to-keep-control-69e27aa2?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
