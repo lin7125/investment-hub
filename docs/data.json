@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 01:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 01:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 311.81,
-   "c": 0.8,
+   "p": 311.88,
+   "c": 0.82,
    "a50": 310.53,
    "a200": 281.71,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.08,
+   "a20": 313.09,
    "r": 49.6
   },
   {
    "s": "NVDA",
-   "p": 209.47,
-   "c": -2.45,
+   "p": 209.57,
+   "c": -2.4,
    "a50": 207.67,
    "a200": 195.34,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 355.42,
-   "c": -2.05,
-   "a50": 364.98,
-   "a200": 402.88,
+   "p": 354.29,
+   "c": -2.36,
+   "a50": 364.96,
+   "a200": 402.87,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.45,
-   "r": 54.2
+   "a20": 330.4,
+   "r": 53.7
   },
   {
    "s": "META",
-   "p": 558.17,
-   "c": 1.5,
-   "a50": 592.79,
+   "p": 557.8,
+   "c": 1.44,
+   "a50": 592.78,
    "a200": 623.78,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.7,
-   "r": 42.0
+   "a20": 574.68,
+   "r": 41.8
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7650.85,
-   "c": -0.31,
-   "a50": 7546.18,
-   "a200": 7100.12,
+   "p": 7649.36,
+   "c": -0.33,
+   "a50": 7546.15,
+   "a200": 7100.11,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.31,
-   "r": 51.7
+   "a20": 7656.23,
+   "r": 51.6
   },
   {
    "s": "^VIX",
-   "p": 15.71,
-   "c": 3.83,
+   "p": 15.76,
+   "c": 4.16,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.86,
-   "r": 48.7
+   "r": 48.9
   },
   {
    "s": "BZ=F",
-   "p": 92.05,
-   "c": -2.48,
-   "a50": 83.87,
+   "p": 92.19,
+   "c": -2.33,
+   "a50": 83.88,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.88,
-   "r": 56.5
+   "r": 56.7
   },
   {
    "s": "GC=F",
-   "p": 4695.5,
-   "c": 1.54,
-   "a50": 4188.05,
-   "a200": 4502.41,
+   "p": 4698.7,
+   "c": 1.61,
+   "a50": 4188.11,
+   "a200": 4502.42,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.23,
-   "r": 76.2
+   "a20": 4309.39,
+   "r": 76.3
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.31,
+   "c": 0.35,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 57.9
+   "r": 58.1
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240306.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
+   "t": "Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/trump-bought-shares-elon-musks-171836919.html"
   },
   {
    "t": "魏哲家：台積電利潤分配　加大資源投入永續",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
   },
   {
-   "t": "Trump bought shares in Elon Musk's SpaceX in June, financial disclosure shows",
+   "t": "AI Infrastructure Stocks Surge: How Long Can CoreWeave (CRWV) and Super Micro Computer (SMCI) Keep It Up?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/trump-bought-shares-elon-musks-171836919.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-surge-long-172411864.html"
   },
   {
    "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "AI Infrastructure Stocks Surge: How Long Can CoreWeave (CRWV) and Super Micro Computer (SMCI) Keep It Up?",
+   "t": "General Motors Company (GM) Spends $4.5B on Chips: Is Ford Motor Company (F) Betting Bigger on America?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-surge-long-172411864.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/general-motors-company-gm-spends-172052073.html"
   },
   {
    "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
   },
   {
-   "t": "General Motors Company (GM) Spends $4.5B on Chips: Is Ford Motor Company (F) Betting Bigger on America?",
+   "t": "Oil slips ahead of US announcement of new sanctions on Iran",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/general-motors-company-gm-spends-172052073.html"
+   "u": "https://finance.yahoo.com/news/oil-falls-1-ahead-us-231835385.html"
   },
   {
    "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "Expion shares surge on $9M private placement to fund Louisiana oil and gas push",
+   "t": "California Attorney General Cancels Paramount Meeting, Citing Leaks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/expion-shares-surge-9m-private-172100489.html"
+   "u": "https://www.wsj.com/business/media/californias-bonta-cancels-paramount-meeting-citing-leaks-b4be3859?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
