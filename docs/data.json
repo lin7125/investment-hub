@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24 22:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-24 22:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,40 +212,40 @@
   },
   {
    "s": "AAPL",
-   "p": 313.15,
-   "c": 1.23,
-   "a50": 310.56,
+   "p": 312.87,
+   "c": 1.14,
+   "a50": 310.55,
    "a200": 281.72,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.15,
-   "r": 50.8
+   "a20": 313.14,
+   "r": 50.5
   },
   {
    "s": "NVDA",
-   "p": 208.85,
-   "c": -2.73,
-   "a50": 207.66,
+   "p": 209.29,
+   "c": -2.53,
+   "a50": 207.67,
    "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.79,
-   "r": 45.0
+   "a20": 213.82,
+   "r": 45.4
   },
   {
    "s": "TSLA",
-   "p": 354.3,
-   "c": -2.36,
+   "p": 354.52,
+   "c": -2.3,
    "a50": 364.96,
    "a200": 402.87,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.4,
-   "r": 53.7
+   "a20": 330.41,
+   "r": 53.8
   },
   {
    "s": "META",
-   "p": 552.25,
+   "p": 552.24,
    "c": 0.43,
    "a50": 592.67,
    "a200": 623.75,
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7646.21,
-   "c": -0.37,
-   "a50": 7546.09,
-   "a200": 7100.1,
+   "p": 7647.84,
+   "c": -0.35,
+   "a50": 7546.12,
+   "a200": 7100.11,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.08,
-   "r": 51.3
+   "a20": 7656.16,
+   "r": 51.4
   },
   {
    "s": "^VIX",
-   "p": 15.93,
-   "c": 5.29,
+   "p": 15.95,
+   "c": 5.42,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.87,
-   "r": 49.6
+   "r": 49.7
   },
   {
    "s": "BZ=F",
-   "p": 92.91,
-   "c": -1.57,
+   "p": 92.81,
+   "c": -1.67,
    "a50": 83.89,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.92,
-   "r": 58.1
+   "a20": 87.91,
+   "r": 57.9
   },
   {
    "s": "GC=F",
-   "p": 4723.0,
-   "c": 2.14,
-   "a50": 4188.6,
-   "a200": 4502.55,
+   "p": 4715.6,
+   "c": 1.98,
+   "a50": 4188.45,
+   "a200": 4502.51,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4310.6,
-   "r": 77.0
+   "a20": 4310.23,
+   "r": 76.8
   },
   {
    "s": "HG=F",
-   "p": 6.61,
-   "c": 0.53,
+   "p": 6.62,
+   "c": 0.68,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 58.7
+   "r": 59.3
   },
   {
    "s": "TWDUSD",
    "p": 0.0314169,
-   "c": 0.02,
+   "c": 0.04,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240309.aspx"
   },
   {
-   "t": "Metso to acquire hose and cavity pumps business from Valmet",
+   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada talks break down",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/metso-acquire-hose-cavity-pumps-140442540.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
   },
   {
    "t": "今彩539第115205期開獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240306.aspx"
   },
   {
-   "t": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
+   "t": "Tata Power commissions 190.5MW solar plant in Rajasthan, India",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html"
+   "u": "https://finance.yahoo.com/energy/articles/tata-power-commissions-190-5mw-141412458.html"
   },
   {
    "t": "魏哲家：台積電利潤分配　加大資源投入永續",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
   },
   {
-   "t": "SGA Exits Alcon (ALC) as Cataract Demand Slows and Competition Rises",
+   "t": "Mortgage rate history: 1972 to 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/sga-exits-alcon-alc-cataract-135740529.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/historical-mortgage-rate-trends-1970s-183910495.html"
   },
   {
    "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
+   "t": "Treasure Yields Fall, Gold Rises On Bessent's $1 Trillion Warning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html"
+   "u": "https://www.investors.com/news/10-year-treasury-yield-gold-price-bessent-general-account-federal-reserve/?src=A00220&yptr=yahoo"
   },
   {
    "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
   },
   {
-   "t": "Why SGA Is Betting on Equinix (EQIX) Again as AI Demand Accelerates",
+   "t": "Brad Gerstner and Cathie Wood Like Snowflake (SNOW) and Robinhood (HOOD)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-sga-betting-equinix-eqix-135637661.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/brad-gerstner-cathie-wood-snowflake-140537212.html"
   },
   {
    "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "She Maxed Out Retirement Plans at Two Research Labs. The IRS Called $24,500 of It Excess.",
+   "t": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/she-maxed-retirement-plans-two-140244426.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html"
   }
  ],
  "inst": {
