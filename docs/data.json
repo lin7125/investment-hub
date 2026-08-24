@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24 23:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-24 23:58（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 312.05,
-   "c": 0.87,
-   "a50": 310.54,
+   "p": 311.75,
+   "c": 0.78,
+   "a50": 310.53,
    "a200": 281.71,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.1,
-   "r": 49.8
+   "a20": 313.08,
+   "r": 49.5
   },
   {
    "s": "NVDA",
-   "p": 210.28,
-   "c": -2.07,
-   "a50": 207.69,
-   "a200": 195.35,
+   "p": 209.99,
+   "c": -2.2,
+   "a50": 207.68,
+   "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.87,
-   "r": 46.3
+   "a20": 213.85,
+   "r": 46.0
   },
   {
    "s": "TSLA",
-   "p": 356.46,
-   "c": -1.76,
-   "a50": 365.0,
+   "p": 355.76,
+   "c": -1.96,
+   "a50": 364.99,
    "a200": 402.88,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.5,
-   "r": 54.7
+   "a20": 330.47,
+   "r": 54.4
   },
   {
    "s": "META",
-   "p": 555.65,
-   "c": 1.04,
-   "a50": 592.74,
+   "p": 555.47,
+   "c": 1.01,
+   "a50": 592.73,
    "a200": 623.77,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.57,
-   "r": 41.0
+   "a20": 574.56,
+   "r": 40.9
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7661.94,
-   "c": -0.16,
-   "a50": 7546.4,
-   "a200": 7100.18,
+   "p": 7660.52,
+   "c": -0.18,
+   "a50": 7546.37,
+   "a200": 7100.17,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.86,
-   "r": 52.7
+   "a20": 7656.79,
+   "r": 52.6
   },
   {
    "s": "^VIX",
-   "p": 15.77,
-   "c": 4.23,
+   "p": 15.76,
+   "c": 4.16,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 92.33,
-   "c": -2.18,
+   "p": 92.42,
+   "c": -2.09,
    "a50": 83.88,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.89,
-   "r": 57.0
+   "r": 57.2
   },
   {
    "s": "GC=F",
-   "p": 4722.5,
-   "c": 2.13,
-   "a50": 4188.59,
-   "a200": 4502.54,
+   "p": 4712.4,
+   "c": 1.91,
+   "a50": 4188.39,
+   "a200": 4502.49,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4310.58,
-   "r": 77.0
+   "a20": 4310.07,
+   "r": 76.7
   },
   {
    "s": "HG=F",
    "p": 6.63,
-   "c": 0.8,
+   "c": 0.76,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 59.7
+   "r": 59.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03142678,
-   "c": 0.06,
+   "c": 0.05,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240309.aspx"
   },
   {
-   "t": "Scott Bessent’s $1 Trillion Bond Market Fight — Treasury Yields Aren’t Buying It",
+   "t": "Shares dip on pressure from technology; yields and oil fall",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-1-trillion-bond-153757594.html"
+   "u": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html"
   },
   {
    "t": "今彩539第115205期開獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240306.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
+   "t": "Bitcoin ETFs Post Strongest Weekly Inflows in 10 Months as Price Surges",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-strongest-weekly-154700094.html"
   },
   {
    "t": "魏哲家：台積電利潤分配　加大資源投入永續",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
   },
   {
-   "t": "Salesforce Earnings Due. Will Sales Growth Reacceleration Theme Hold Up?",
+   "t": "Nvidia Makes Waves With Poolside Deal, AI Investments",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/salesforce-stock-crm-salesforce-earnings-q2-2026-preview/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/nvidia-stock-nvda-poolside-deal-ai-investments/?src=A00220&yptr=yahoo"
   },
   {
    "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "Dollar edges up, loonie drops after U.S. announces tariffs",
+   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
   },
   {
    "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
   },
   {
-   "t": "Billionaire Leon Cooperman Says Investors Are Acting Like ‘Pavlov’s Dog’ — Reveals 2 New Stock Picks",
+   "t": "Salesforce Earnings Due. Will Sales Growth Reacceleration Theme Hold Up?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-leon-cooperman-says-investors-145743521.html"
+   "u": "https://www.investors.com/news/technology/salesforce-stock-crm-salesforce-earnings-q2-2026-preview/?src=A00220&yptr=yahoo"
   },
   {
    "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "Should You Buy Marvell Technology Stock Before Aug. 27?",
+   "t": "Dollar edges up, loonie drops after U.S. announces tariffs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/buy-marvell-technology-stock-aug-153621635.html"
+   "u": "https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html"
   }
  ],
  "inst": {
