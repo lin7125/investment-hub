@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 01:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 01:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 312.79,
-   "c": 1.11,
-   "a50": 310.55,
-   "a200": 281.72,
+   "p": 312.38,
+   "c": 0.98,
+   "a50": 310.54,
+   "a200": 281.71,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.13,
-   "r": 50.4
+   "a20": 313.11,
+   "r": 50.1
   },
   {
    "s": "NVDA",
-   "p": 209.66,
-   "c": -2.36,
-   "a50": 207.67,
+   "p": 210.08,
+   "c": -2.16,
+   "a50": 207.68,
    "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.84,
-   "r": 45.7
+   "a20": 213.86,
+   "r": 46.1
   },
   {
    "s": "TSLA",
-   "p": 355.1,
-   "c": -2.14,
-   "a50": 364.98,
-   "a200": 402.87,
+   "p": 356.17,
+   "c": -1.85,
+   "a50": 365.0,
+   "a200": 402.88,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.44,
-   "r": 54.1
+   "a20": 330.49,
+   "r": 54.6
   },
   {
    "s": "META",
-   "p": 558.18,
-   "c": 1.51,
+   "p": 558.58,
+   "c": 1.58,
    "a50": 592.79,
    "a200": 623.78,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.7,
-   "r": 42.0
+   "a20": 574.72,
+   "r": 42.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7658.83,
-   "c": -0.2,
-   "a50": 7546.34,
-   "a200": 7100.16,
+   "p": 7663.57,
+   "c": -0.14,
+   "a50": 7546.43,
+   "a200": 7100.18,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.71,
-   "r": 52.4
+   "a20": 7656.95,
+   "r": 52.8
   },
   {
    "s": "^VIX",
-   "p": 15.69,
-   "c": 3.7,
+   "p": 15.68,
+   "c": 3.64,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.85,
-   "r": 48.6
+   "r": 48.5
   },
   {
    "s": "BZ=F",
-   "p": 92.68,
-   "c": -1.81,
-   "a50": 83.89,
+   "p": 92.29,
+   "c": -2.22,
+   "a50": 83.88,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.91,
-   "r": 57.8
+   "a20": 87.89,
+   "r": 56.9
   },
   {
    "s": "GC=F",
-   "p": 4713.9,
-   "c": 1.94,
-   "a50": 4188.42,
-   "a200": 4502.5,
+   "p": 4702.0,
+   "c": 1.68,
+   "a50": 4188.18,
+   "a200": 4502.44,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4310.15,
-   "r": 76.7
+   "a20": 4309.55,
+   "r": 76.4
   },
   {
    "s": "HG=F",
-   "p": 6.61,
-   "c": 0.53,
+   "p": 6.6,
+   "c": 0.34,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 58.7
+   "r": 58.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03142678,
-   "c": 0.05,
+   "c": 0.06,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240306.aspx"
   },
   {
-   "t": "Elon Musk’s Social Security reset is coming even after DOGE’s death — protect your check whether you like him or not",
+   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/elon-musk-social-security-reset-163919950.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
   },
   {
    "t": "魏哲家：台積電利潤分配　加大資源投入永續",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
   },
   {
-   "t": "President Trump’s Portfolio Added 2 Stocks Bill Gates and Bill Ackman Also Own",
+   "t": "Elon Musk’s Social Security reset is coming even after DOGE’s death — protect your check whether you like him or not",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/president-trump-portfolio-added-2-162941904.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/elon-musk-social-security-reset-163919950.html"
   },
   {
    "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "Guardant Health Dives After Losing A Patent Dispute; Judge Orders Royalties",
+   "t": "President Trump’s Portfolio Added 2 Stocks Bill Gates and Bill Ackman Also Own",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/guardant-health-stock-twinstrand-biosciences-royalties/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/president-trump-portfolio-added-2-162941904.html"
   },
   {
    "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
+   "t": "Guardant Health Dives After Losing A Patent Dispute; Judge Orders Royalties",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
+   "u": "https://www.investors.com/news/technology/guardant-health-stock-twinstrand-biosciences-royalties/?src=A00220&yptr=yahoo"
   },
   {
    "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "The Monthly Fees in 55+ Communities Are Rising Faster Than Social Security",
+   "t": "Trading Activity: Resideo CEO Thomas Surran Buys 15,000 Shares at $20.46",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/monthly-fees-55-communities-rising-164632272.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/trading-activity-resideo-ceo-thomas-165503387.html"
   }
  ],
  "inst": {
