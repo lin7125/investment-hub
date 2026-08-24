@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24 13:29（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-24 13:39（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -25,14 +25,14 @@
   },
   {
    "s": "2308.TW",
-   "p": 1740.0,
-   "c": -0.57,
-   "a50": 1852.3,
-   "a200": 1544.42,
+   "p": 1735.0,
+   "c": -0.86,
+   "a50": 1852.2,
+   "a200": 1544.4,
    "yh": 2520.0,
    "yl": 676.0,
-   "a20": 1715.5,
-   "r": 46.1
+   "a20": 1715.25,
+   "r": 45.7
   },
   {
    "s": "2454.TW",
@@ -47,25 +47,25 @@
   },
   {
    "s": "2327.TW",
-   "p": 557.0,
-   "c": 0.54,
-   "a50": 768.53,
+   "p": 555.0,
+   "c": 0.18,
+   "a50": 768.49,
    "a200": 439.3,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 567.17,
-   "r": 40.7
+   "a20": 567.08,
+   "r": 40.4
   },
   {
    "s": "1802.TW",
-   "p": 57.0,
-   "c": -1.04,
+   "p": 56.9,
+   "c": -1.22,
    "a50": 60.15,
    "a200": 53.16,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 53.48,
-   "r": 51.2
+   "r": 50.9
   },
   {
    "s": "6862.TW",
@@ -80,25 +80,25 @@
   },
   {
    "s": "3701.TW",
-   "p": 40.2,
-   "c": -1.35,
+   "p": 40.05,
+   "c": -1.72,
    "a50": 41.91,
    "a200": 48.93,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.67,
-   "r": 47.8
+   "a20": 39.66,
+   "r": 47.3
   },
   {
    "s": "4722.TW",
-   "p": 201.5,
-   "c": -2.18,
-   "a50": 235.18,
+   "p": 202.0,
+   "c": -1.94,
+   "a50": 235.19,
    "a200": 199.68,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 202.18,
-   "r": 44.1
+   "a20": 202.2,
+   "r": 44.3
   },
   {
    "s": "6706.TW",
@@ -124,14 +124,14 @@
   },
   {
    "s": "6442.TW",
-   "p": 1475.0,
-   "c": -3.28,
-   "a50": 1513.1,
-   "a200": 1609.06,
+   "p": 1465.0,
+   "c": -3.93,
+   "a50": 1512.9,
+   "a200": 1609.0,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1409.25,
-   "r": 50.1
+   "a20": 1408.75,
+   "r": 49.5
   },
   {
    "s": "6515.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.2,
-   "c": 0.5,
-   "a50": 58.05,
+   "p": 49.85,
+   "c": -0.2,
+   "a50": 58.04,
    "a200": 42.54,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.72,
-   "r": 47.4
+   "a20": 47.7,
+   "r": 46.8
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44921.71,
-   "c": -0.67,
-   "a50": 44899.22,
-   "a200": 36431.37,
+   "p": 44893.98,
+   "c": -0.73,
+   "a50": 44898.67,
+   "a200": 36431.23,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44152.1,
-   "r": 51.9
+   "a20": 44150.71,
+   "r": 51.7
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 93.04,
-   "c": -1.43,
+   "p": 93.02,
+   "c": -1.45,
    "a50": 83.89,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.93,
-   "r": 58.4
+   "a20": 87.92,
+   "r": 58.3
   },
   {
    "s": "GC=F",
-   "p": 4699.5,
-   "c": 1.63,
-   "a50": 4188.13,
-   "a200": 4502.43,
+   "p": 4696.2,
+   "c": 1.56,
+   "a50": 4188.06,
+   "a200": 4502.41,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.43,
-   "r": 76.3
+   "a20": 4309.26,
+   "r": 76.2
   },
   {
    "s": "HG=F",
-   "p": 6.56,
-   "c": -0.36,
+   "p": 6.55,
+   "c": -0.46,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 55.0
+   "r": 54.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03146633,
-   "c": 0.2,
+   "p": 0.03145643,
+   "c": 0.16,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240098.aspx"
   },
   {
-   "t": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
+   "t": "Powerful Growth, Multiple Endorsements Bode Well for Oracle Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/powerful-growth-multiple-endorsements-bode-183002613.html"
   },
   {
    "t": "中南部豪雨395件淹水　水利署：近9成地區陸續退水",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240097.aspx"
   },
   {
-   "t": "Why 1 Analyst Says Vera Rubin Is Key for Nvidia Stock in Q2",
+   "t": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-1-analyst-says-vera-174106031.html"
+   "u": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo"
   },
   {
    "t": "潘俊榮：盼政府關注傳產　能源發展多元化",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240095.aspx"
   },
   {
-   "t": "Nvidia Stock Trades at a Reasonable Valuation With Ample Growth Headroom",
+   "t": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-trades-reasonable-valuation-173002313.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html"
   },
   {
    "t": "華城擴綠色產品製造及電動車充電　拚綠能轉型商機",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240093.aspx"
   },
   {
-   "t": "Powerful Growth, Multiple Endorsements Bode Well for Oracle Stock",
+   "t": "Why 1 Analyst Says Vera Rubin Is Key for Nvidia Stock in Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/powerful-growth-multiple-endorsements-bode-183002613.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-1-analyst-says-vera-174106031.html"
   }
  ],
  "inst": {
