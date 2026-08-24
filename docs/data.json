@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24 22:29（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-24 22:39（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 312.87,
-   "c": 1.14,
+   "p": 312.86,
+   "c": 1.13,
    "a50": 310.55,
    "a200": 281.72,
    "yh": 340.08,
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 209.29,
-   "c": -2.53,
-   "a50": 207.67,
+   "p": 210.08,
+   "c": -2.16,
+   "a50": 207.68,
    "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.82,
-   "r": 45.4
+   "a20": 213.86,
+   "r": 46.1
   },
   {
    "s": "TSLA",
-   "p": 354.52,
-   "c": -2.3,
-   "a50": 364.96,
-   "a200": 402.87,
+   "p": 357.81,
+   "c": -1.39,
+   "a50": 365.03,
+   "a200": 402.89,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.41,
-   "r": 53.8
+   "a20": 330.57,
+   "r": 55.4
   },
   {
    "s": "META",
-   "p": 552.24,
-   "c": 0.43,
-   "a50": 592.67,
-   "a200": 623.75,
+   "p": 550.28,
+   "c": 0.07,
+   "a50": 592.63,
+   "a200": 623.74,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.4,
-   "r": 39.6
+   "a20": 574.3,
+   "r": 38.8
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7647.84,
-   "c": -0.35,
-   "a50": 7546.12,
-   "a200": 7100.11,
+   "p": 7654.51,
+   "c": -0.26,
+   "a50": 7546.25,
+   "a200": 7100.14,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.16,
-   "r": 51.4
+   "a20": 7656.49,
+   "r": 52.0
   },
   {
    "s": "^VIX",
-   "p": 15.95,
-   "c": 5.42,
+   "p": 15.88,
+   "c": 4.96,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.87,
-   "r": 49.7
+   "a20": 15.86,
+   "r": 49.4
   },
   {
    "s": "BZ=F",
-   "p": 92.81,
-   "c": -1.67,
-   "a50": 83.89,
+   "p": 92.33,
+   "c": -2.18,
+   "a50": 83.88,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.91,
-   "r": 57.9
+   "a20": 87.89,
+   "r": 57.0
   },
   {
    "s": "GC=F",
-   "p": 4715.6,
-   "c": 1.98,
-   "a50": 4188.45,
-   "a200": 4502.51,
+   "p": 4730.7,
+   "c": 2.31,
+   "a50": 4188.75,
+   "a200": 4502.58,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4310.23,
-   "r": 76.8
+   "a20": 4310.99,
+   "r": 77.2
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": 0.68,
+   "p": 6.63,
+   "c": 0.79,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 59.3
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": 0.04,
+   "p": 0.03142678,
+   "c": 0.06,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -338,7 +338,7 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240309.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada talks break down",
+   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240306.aspx"
   },
   {
-   "t": "Tata Power commissions 190.5MW solar plant in Rajasthan, India",
+   "t": "Billionaire Stanley Druckenmiller Bought Amazon and Alphabet in Q2. But His Single Biggest Holding Is Neither of Them -- and It's Not Nvidia Either.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/tata-power-commissions-190-5mw-141412458.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/billionaire-stanley-druckenmiller-bought-amazon-142000497.html"
   },
   {
    "t": "魏哲家：台積電利潤分配　加大資源投入永續",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "Treasure Yields Fall, Gold Rises On Bessent's $1 Trillion Warning",
+   "t": "California Accuses Paramount Of 'A Lack Of Good Faith;' Calls Off Settlement Talks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/10-year-treasury-yield-gold-price-bessent-general-account-federal-reserve/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/paramount-skydance-warner-bros-discovery-merger-wbd-california-lawsuit/?src=A00220&yptr=yahoo"
   },
   {
    "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
   },
   {
-   "t": "Brad Gerstner and Cathie Wood Like Snowflake (SNOW) and Robinhood (HOOD)",
+   "t": "Treasure Yields Fall, Gold Rises On Bessent's $1 Trillion Warning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/brad-gerstner-cathie-wood-snowflake-140537212.html"
+   "u": "https://www.investors.com/news/10-year-treasury-yield-gold-price-bessent-general-account-federal-reserve/?src=A00220&yptr=yahoo"
   },
   {
    "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
+   "t": "Brad Gerstner and Cathie Wood Like Snowflake (SNOW) and Robinhood (HOOD)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/brad-gerstner-cathie-wood-snowflake-140537212.html"
   }
  ],
  "inst": {
