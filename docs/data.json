@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24 23:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-24 23:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 311.63,
-   "c": 0.74,
+   "p": 311.85,
+   "c": 0.81,
    "a50": 310.53,
    "a200": 281.71,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.07,
-   "r": 49.4
+   "a20": 313.09,
+   "r": 49.6
   },
   {
    "s": "NVDA",
-   "p": 209.01,
-   "c": -2.66,
+   "p": 208.96,
+   "c": -2.68,
    "a50": 207.66,
    "a200": 195.34,
    "yh": 235.74,
@@ -234,10 +234,10 @@
   },
   {
    "s": "TSLA",
-   "p": 357.11,
-   "c": -1.58,
+   "p": 357.24,
+   "c": -1.55,
    "a50": 365.02,
-   "a200": 402.88,
+   "a200": 402.89,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 330.54,
@@ -245,13 +245,13 @@
   },
   {
    "s": "META",
-   "p": 553.72,
-   "c": 0.7,
-   "a50": 592.7,
+   "p": 553.57,
+   "c": 0.67,
+   "a50": 592.69,
    "a200": 623.76,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.48,
+   "a20": 574.47,
    "r": 40.2
   },
   {
@@ -267,62 +267,62 @@
   },
   {
    "s": "^GSPC",
-   "p": 7646.78,
-   "c": -0.36,
-   "a50": 7546.1,
-   "a200": 7100.1,
+   "p": 7642.86,
+   "c": -0.41,
+   "a50": 7546.02,
+   "a200": 7100.08,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.11,
-   "r": 51.3
+   "a20": 7655.91,
+   "r": 51.0
   },
   {
    "s": "^VIX",
-   "p": 15.82,
-   "c": 4.56,
+   "p": 15.85,
+   "c": 4.76,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.86,
-   "r": 49.1
+   "r": 49.3
   },
   {
    "s": "BZ=F",
-   "p": 92.51,
-   "c": -1.99,
-   "a50": 83.88,
+   "p": 92.59,
+   "c": -1.91,
+   "a50": 83.89,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.9,
-   "r": 57.3
+   "r": 57.5
   },
   {
    "s": "GC=F",
-   "p": 4727.0,
-   "c": 2.23,
-   "a50": 4188.68,
-   "a200": 4502.57,
+   "p": 4729.0,
+   "c": 2.27,
+   "a50": 4188.72,
+   "a200": 4502.58,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4310.8,
-   "r": 77.1
+   "a20": 4310.9,
+   "r": 77.2
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": 0.63,
+   "p": 6.63,
+   "c": 0.75,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 59.1
+   "r": 59.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
+   "p": 0.03140704,
    "c": 0.01,
    "a50": 0.03119152,
    "a200": 0.0315856,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240309.aspx"
   },
   {
-   "t": "Grant Thornton Australia to join international advisory platform",
+   "t": "Tesco Ireland extends Freshways partnership in €45m deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/grant-thornton-australia-join-international-145956915.html"
+   "u": "https://finance.yahoo.com/small-business/articles/tesco-ireland-extends-freshways-partnership-150721255.html"
   },
   {
    "t": "今彩539第115205期開獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240306.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
+   "t": "Dollar edges up, loonie drops after U.S. announces tariffs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
+   "u": "https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html"
   },
   {
    "t": "魏哲家：台積電利潤分配　加大資源投入永續",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
   },
   {
-   "t": "Guardant Health Dives After Losing A Patent Dispute; Judge Orders Royalties",
+   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/guardant-health-stock-twinstrand-biosciences-royalties/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
   },
   {
    "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "Why gold and silver prices have added $5 trillion in value",
+   "t": "Billionaire Leon Cooperman Says Investors Are Acting Like ‘Pavlov’s Dog’ — Reveals 2 New Stock Picks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/article/why-gold-and-silver-prices-have-added-5-trillion-in-value-092246961.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-leon-cooperman-says-investors-145743521.html"
   },
   {
    "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Up As Trump Says This On Canada; Tech Hit With Micron, Nvidia Drops (Live Coverage)",
+   "t": "Guardant Health Dives After Losing A Patent Dispute; Judge Orders Royalties",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/guardant-health-stock-twinstrand-biosciences-royalties/?src=A00220&yptr=yahoo"
   },
   {
    "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "Is MP Materials Stock a Buy After Earnings?",
+   "t": "XPENG Q2 Earnings Call Highlights",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-stock-buy-earnings-145000917.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/xpeng-q2-earnings-call-highlights-150206164.html"
   }
  ],
  "inst": {
