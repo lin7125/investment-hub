@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24 14:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-24 15:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.65,
-   "c": -0.6,
-   "a50": 58.04,
+   "p": 50.2,
+   "c": 0.5,
+   "a50": 58.05,
    "a200": 42.54,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.69,
-   "r": 46.5
+   "a20": 47.72,
+   "r": 47.4
   },
   {
    "s": "6223.TWO",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.13,
-   "c": -5.5,
-   "a50": 16.76,
-   "a200": 18.48,
+   "p": 15.91,
+   "c": 5.16,
+   "a50": 16.69,
+   "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 16.0,
-   "r": 45.9
+   "a20": 15.87,
+   "r": 49.5
   },
   {
    "s": "BZ=F",
-   "p": 92.66,
-   "c": -1.83,
+   "p": 92.77,
+   "c": -1.72,
    "a50": 83.89,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.91,
-   "r": 57.6
+   "r": 57.8
   },
   {
    "s": "GC=F",
-   "p": 4706.6,
-   "c": 1.78,
-   "a50": 4188.27,
-   "a200": 4502.46,
+   "p": 4702.4,
+   "c": 1.69,
+   "a50": 4188.19,
+   "a200": 4502.44,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.78,
-   "r": 76.5
+   "a20": 4309.57,
+   "r": 76.4
   },
   {
    "s": "HG=F",
-   "p": 6.58,
-   "c": 0.08,
+   "p": 6.59,
+   "c": 0.11,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 57.0
+   "r": 57.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": 0.05,
+   "p": 0.0314169,
+   "c": 0.03,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240161.aspx"
   },
   {
-   "t": "Iconic fast-food fried chicken chain closes over 300 restaurants",
+   "t": "91-year-old supermarket chain closes stores, lays off employees",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/iconic-fast-food-fried-chicken-184700958.html"
+   "u": "https://finance.yahoo.com/economy/articles/91-old-supermarket-chain-closes-231700441.html"
   },
   {
    "t": "韓現代汽車工會重返勞資談判桌　罷工行動暫緩",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608240153.aspx"
   },
   {
-   "t": "91-year-old supermarket chain closes stores, lays off employees",
+   "t": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/91-old-supermarket-chain-closes-231700441.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html"
   },
   {
    "t": "東京市中心二手公寓連3月下跌　7月跌幅擴大至1.7%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240150.aspx"
   },
   {
-   "t": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
+   "t": "David Einhorn Just Bet $61.5 Million on PayPal. Why PYPL Looks Cheap Again.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/third-point-starts-raise-alarm-193002621.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/david-einhorn-just-bet-61-201730899.html"
   },
   {
    "t": "9月電子期金融期齊跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240148.aspx"
   },
   {
-   "t": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis",
+   "t": "Nvidia Q2 Preview: Strong Earnings and Low Valuation Set the Stage for Upside",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-q2-preview-strong-earnings-205208968.html"
   },
   {
    "t": "台積電收最低　台股跌破45000點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240146.aspx"
   },
   {
-   "t": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
+   "t": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/clean-energy-spending-tracking-toward-190000970.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/apple-vs-meta-platforms-magnificent-195900118.html"
   }
  ],
  "inst": {
