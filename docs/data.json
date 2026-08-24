@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24 15:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-24 22:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 309.35,
-   "c": -0.63,
-   "a50": 310.21,
-   "a200": 281.5,
+   "p": 312.46,
+   "c": 1.0,
+   "a50": 310.54,
+   "a200": 281.71,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 314.34,
-   "r": 47.3
+   "a20": 313.12,
+   "r": 50.2
   },
   {
    "s": "NVDA",
-   "p": 214.72,
-   "c": -0.98,
-   "a50": 207.58,
-   "a200": 195.29,
+   "p": 209.32,
+   "c": -2.51,
+   "a50": 207.67,
+   "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.18,
-   "r": 51.0
+   "a20": 213.82,
+   "r": 45.4
   },
   {
    "s": "TSLA",
-   "p": 362.86,
-   "c": 5.14,
-   "a50": 365.86,
-   "a200": 403.32,
+   "p": 353.57,
+   "c": -2.56,
+   "a50": 364.95,
+   "a200": 402.87,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 328.14,
-   "r": 58.0
+   "a20": 330.36,
+   "r": 53.4
   },
   {
    "s": "META",
-   "p": 549.9,
-   "c": 0.75,
-   "a50": 592.99,
-   "a200": 624.13,
+   "p": 553.11,
+   "c": 0.58,
+   "a50": 592.68,
+   "a200": 623.76,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.48,
-   "r": 38.7
+   "a20": 574.45,
+   "r": 40.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7674.37,
-   "c": 0.43,
-   "a50": 7541.05,
-   "a200": 7095.72,
+   "p": 7647.69,
+   "c": -0.35,
+   "a50": 7546.12,
+   "a200": 7100.1,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7644.43,
-   "r": 53.9
+   "a20": 7656.15,
+   "r": 51.4
   },
   {
    "s": "^VIX",
-   "p": 15.91,
-   "c": 5.16,
+   "p": 15.98,
+   "c": 5.62,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.87,
-   "r": 49.5
+   "r": 49.9
   },
   {
    "s": "BZ=F",
-   "p": 92.77,
-   "c": -1.72,
+   "p": 93.05,
+   "c": -1.42,
    "a50": 83.89,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.91,
-   "r": 57.8
+   "a20": 87.93,
+   "r": 58.4
   },
   {
    "s": "GC=F",
-   "p": 4702.4,
-   "c": 1.69,
-   "a50": 4188.19,
-   "a200": 4502.44,
+   "p": 4724.7,
+   "c": 2.18,
+   "a50": 4188.63,
+   "a200": 4502.55,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.57,
-   "r": 76.4
+   "a20": 4310.69,
+   "r": 77.1
   },
   {
    "s": "HG=F",
-   "p": 6.59,
-   "c": 0.11,
+   "p": 6.62,
+   "c": 0.6,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 57.1
+   "r": 59.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": 0.03,
+   "p": 0.03142678,
+   "c": 0.05,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -332,152 +332,152 @@
  ],
  "news": [
   {
-   "t": "高油價與平價車款帶動　歐洲電動車熱銷",
+   "t": "威力彩第115068期開獎",
    "pub": "中央社財經",
    "d": "2026-08-24",
-   "u": "https://www.cna.com.tw/news/afe/202608240161.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608240309.aspx"
   },
   {
-   "t": "91-year-old supermarket chain closes stores, lays off employees",
+   "t": "SGA Exits Alcon (ALC) as Cataract Demand Slows and Competition Rises",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/91-old-supermarket-chain-closes-231700441.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/sga-exits-alcon-alc-cataract-135740529.html"
   },
   {
-   "t": "韓現代汽車工會重返勞資談判桌　罷工行動暫緩",
+   "t": "今彩539第115205期開獎",
    "pub": "中央社財經",
    "d": "2026-08-24",
-   "u": "https://www.cna.com.tw/news/aopl/202608240153.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608240306.aspx"
   },
   {
-   "t": "Is Alphabet’s Search Risk Really Priced In? Stress-Testing Rosenblatt’s $410 Thesis",
+   "t": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html"
+   "u": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html"
   },
   {
-   "t": "東京市中心二手公寓連3月下跌　7月跌幅擴大至1.7%",
+   "t": "魏哲家：台積電利潤分配　加大資源投入永續",
    "pub": "中央社財經",
    "d": "2026-08-24",
-   "u": "https://www.cna.com.tw/news/afe/202608240150.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
   },
   {
-   "t": "David Einhorn Just Bet $61.5 Million on PayPal. Why PYPL Looks Cheap Again.",
+   "t": "Why SGA Is Betting on Equinix (EQIX) Again as AI Demand Accelerates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/david-einhorn-just-bet-61-201730899.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-sga-betting-equinix-eqix-135637661.html"
   },
   {
-   "t": "9月電子期金融期齊跌",
+   "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
    "pub": "中央社財經",
    "d": "2026-08-24",
-   "u": "https://www.cna.com.tw/news/afe/202608240149.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?",
+   "t": "Wendy's CEO Bob Wright outlines turnaround plan after losing No. 2 rank",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-stock-ai-growth-194107701.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wendys-ceo-bob-wright-outlines-135559727.html"
   },
   {
-   "t": "9月台股期指跌376點",
+   "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
    "pub": "中央社財經",
    "d": "2026-08-24",
-   "u": "https://www.cna.com.tw/news/afe/202608240148.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
   },
   {
-   "t": "Nvidia Q2 Preview: Strong Earnings and Low Valuation Set the Stage for Upside",
+   "t": "Is Salesforce (CRM) an Undervalued AI Opportunity Despite Slower Growth?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-q2-preview-strong-earnings-205208968.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-undervalued-ai-opportunity-135316356.html"
   },
   {
-   "t": "台積電收最低　台股跌破45000點",
+   "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
    "pub": "中央社財經",
    "d": "2026-08-24",
-   "u": "https://www.cna.com.tw/news/afe/202608240146.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
+   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada talks break down",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/apple-vs-meta-platforms-magnificent-195900118.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
   }
  ],
  "inst": {
-  "date": "2026-08-21",
+  "date": "2026-08-24",
   "byCode": {
-   "2330": {
-    "f": 5795,
-    "t": 291,
-    "all": 6543
+   "2305": {
+    "f": 304,
+    "t": 0,
+    "all": 304
    },
    "6446": {
-    "f": 236,
-    "t": 0,
-    "all": 247
-   },
-   "3701": {
-    "f": 113,
-    "t": 0,
-    "all": 113
-   },
-   "4722": {
-    "f": 96,
-    "t": 0,
-    "all": 84
+    "f": 87,
+    "t": -1,
+    "all": 111
    },
    "1802": {
-    "f": 773,
+    "f": 5,
     "t": 0,
-    "all": 35
-   },
-   "2305": {
-    "f": 31,
-    "t": 0,
-    "all": 33
-   },
-   "6515": {
-    "f": -8,
-    "t": 22,
-    "all": 13
-   },
-   "2308": {
-    "f": -58,
-    "t": 4,
-    "all": 6
-   },
-   "6862": {
-    "f": -16,
-    "t": 0,
-    "all": -18
-   },
-   "6706": {
-    "f": -27,
-    "t": 0,
-    "all": -30
+    "all": 110
    },
    "6442": {
-    "f": -189,
+    "f": 112,
     "t": 0,
-    "all": -179
+    "all": 100
    },
-   "2327": {
-    "f": -114,
-    "t": -209,
-    "all": -299
+   "3701": {
+    "f": 17,
+    "t": 0,
+    "all": 26
+   },
+   "6862": {
+    "f": -3,
+    "t": 0,
+    "all": -5
+   },
+   "6515": {
+    "f": -22,
+    "t": 10,
+    "all": -12
+   },
+   "6706": {
+    "f": -48,
+    "t": 0,
+    "all": -55
+   },
+   "4722": {
+    "f": -83,
+    "t": 0,
+    "all": -96
    },
    "2454": {
-    "f": -276,
-    "t": -144,
-    "all": -302
+    "f": -133,
+    "t": -96,
+    "all": -233
+   },
+   "2308": {
+    "f": -360,
+    "t": 44,
+    "all": -274
+   },
+   "2327": {
+    "f": -378,
+    "t": -69,
+    "all": -367
+   },
+   "2330": {
+    "f": -1621,
+    "t": 157,
+    "all": -1487
    },
    "2317": {
-    "f": -3529,
-    "t": 66,
-    "all": -3376
+    "f": -7546,
+    "t": 20,
+    "all": -7633
    }
   },
-  "totalNetE": 333.3
+  "totalNetE": -170.1
  }
 }
