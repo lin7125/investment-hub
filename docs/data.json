@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 00:43（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 00:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 312.23,
-   "c": 0.93,
-   "a50": 310.54,
-   "a200": 281.71,
+   "p": 312.87,
+   "c": 1.14,
+   "a50": 310.55,
+   "a200": 281.72,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.1,
-   "r": 50.0
+   "a20": 313.14,
+   "r": 50.5
   },
   {
    "s": "NVDA",
-   "p": 210.24,
-   "c": -2.09,
+   "p": 209.88,
+   "c": -2.25,
    "a50": 207.68,
-   "a200": 195.35,
+   "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.86,
-   "r": 46.3
+   "a20": 213.85,
+   "r": 45.9
   },
   {
    "s": "TSLA",
-   "p": 355.09,
-   "c": -2.14,
-   "a50": 364.98,
+   "p": 354.9,
+   "c": -2.19,
+   "a50": 364.97,
    "a200": 402.87,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.44,
-   "r": 54.1
+   "a20": 330.43,
+   "r": 54.0
   },
   {
    "s": "META",
-   "p": 555.5,
-   "c": 1.02,
-   "a50": 592.73,
-   "a200": 623.77,
+   "p": 557.67,
+   "c": 1.41,
+   "a50": 592.78,
+   "a200": 623.78,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.57,
-   "r": 40.9
+   "a20": 574.67,
+   "r": 41.8
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7660.84,
+   "p": 7660.67,
    "c": -0.18,
-   "a50": 7546.38,
+   "a50": 7546.37,
    "a200": 7100.17,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.81,
+   "a20": 7656.8,
    "r": 52.6
   },
   {
    "s": "^VIX",
-   "p": 15.68,
-   "c": 3.64,
+   "p": 15.66,
+   "c": 3.5,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.85,
-   "r": 48.5
+   "r": 48.4
   },
   {
    "s": "BZ=F",
-   "p": 92.59,
-   "c": -1.91,
+   "p": 92.69,
+   "c": -1.8,
    "a50": 83.89,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.9,
-   "r": 57.5
+   "a20": 87.91,
+   "r": 57.7
   },
   {
    "s": "GC=F",
-   "p": 4718.5,
-   "c": 2.04,
-   "a50": 4188.51,
+   "p": 4717.8,
+   "c": 2.03,
+   "a50": 4188.49,
    "a200": 4502.52,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4310.38,
+   "a20": 4310.34,
    "r": 76.9
   },
   {
    "s": "HG=F",
    "p": 6.62,
-   "c": 0.6,
+   "c": 0.59,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 59.0
+   "r": 58.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": 0.05,
+   "p": 0.0314169,
+   "c": 0.04,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240309.aspx"
   },
   {
-   "t": "FNCL vs. FTXO: Which Financial Sector ETF Is the Better Buy for Investors?",
+   "t": "How Josh Kushner Tripled His Net Worth to $16.7 Billion with SpaceX",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fncl-vs-ftxo-financial-sector-162225334.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/josh-kushner-tripled-net-worth-162544683.html"
   },
   {
    "t": "今彩539第115205期開獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "Nvidia's Longest Losing Streak Since 2022 Is Dragging on the Nasdaq",
+   "t": "FNCL vs. FTXO: Which Financial Sector ETF Is the Better Buy for Investors?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/livecoverage/stock-market-news-today-082426/card/nvidia-s-longest-losing-streak-since-2022-is-dragging-on-the-nasdaq-wJJV3v12ZwNYxj4N9nz1?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fncl-vs-ftxo-financial-sector-162225334.html"
   }
  ],
  "inst": {
