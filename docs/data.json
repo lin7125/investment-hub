@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 03:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 03:09（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 311.41,
-   "c": 0.67,
+   "p": 311.31,
+   "c": 0.63,
    "a50": 310.52,
    "a200": 281.71,
    "yh": 340.08,
    "yl": 226.79,
    "a20": 313.06,
-   "r": 49.2
+   "r": 49.1
   },
   {
    "s": "NVDA",
-   "p": 209.44,
-   "c": -2.46,
-   "a50": 207.67,
+   "p": 209.16,
+   "c": -2.59,
+   "a50": 207.66,
    "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.82,
-   "r": 45.5
+   "a20": 213.81,
+   "r": 45.3
   },
   {
    "s": "TSLA",
-   "p": 348.72,
-   "c": -3.9,
-   "a50": 364.85,
-   "a200": 402.84,
+   "p": 349.36,
+   "c": -3.72,
+   "a50": 364.86,
+   "a200": 402.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.12,
-   "r": 51.3
+   "a20": 330.15,
+   "r": 51.5
   },
   {
    "s": "META",
-   "p": 560.23,
-   "c": 1.88,
-   "a50": 592.83,
+   "p": 560.03,
+   "c": 1.84,
+   "a50": 592.82,
    "a200": 623.79,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.8,
-   "r": 42.8
+   "a20": 574.79,
+   "r": 42.7
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7657.87,
+   "p": 7657.42,
    "c": -0.22,
-   "a50": 7546.32,
-   "a200": 7100.16,
+   "a50": 7546.31,
+   "a200": 7100.15,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.66,
+   "a20": 7656.64,
    "r": 52.3
   },
   {
    "s": "^VIX",
-   "p": 15.74,
-   "c": 4.03,
+   "p": 15.77,
+   "c": 4.23,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.86,
-   "r": 48.8
+   "r": 48.9
   },
   {
    "s": "BZ=F",
-   "p": 92.28,
-   "c": -2.24,
+   "p": 92.25,
+   "c": -2.27,
    "a50": 83.88,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.89,
-   "r": 56.9
+   "r": 56.8
   },
   {
    "s": "GC=F",
-   "p": 4690.8,
-   "c": 1.44,
-   "a50": 4187.95,
-   "a200": 4502.39,
+   "p": 4693.1,
+   "c": 1.49,
+   "a50": 4188.0,
+   "a200": 4502.4,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4308.99,
-   "r": 76.0
+   "a20": 4309.11,
+   "r": 76.1
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.24,
+   "c": 0.26,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
   },
   {
-   "t": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
+   "t": "Grant Cardone says ‘America will become a renter nation.’ Can you make the most of the market without a mortgage?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-america-become-101500797.html"
   },
   {
    "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "Grant Cardone says ‘America will become a renter nation.’ Can you make the most of the market without a mortgage?",
+   "t": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-america-become-101500797.html"
+   "u": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html"
   },
   {
    "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
