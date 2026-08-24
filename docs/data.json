@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 00:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 00:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 311.47,
-   "c": 0.69,
-   "a50": 310.52,
+   "p": 311.75,
+   "c": 0.78,
+   "a50": 310.53,
    "a200": 281.71,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.07,
-   "r": 49.3
+   "a20": 313.08,
+   "r": 49.5
   },
   {
    "s": "NVDA",
-   "p": 210.33,
-   "c": -2.04,
-   "a50": 207.69,
+   "p": 210.99,
+   "c": -1.73,
+   "a50": 207.7,
    "a200": 195.35,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.87,
-   "r": 46.4
+   "a20": 213.9,
+   "r": 47.0
   },
   {
    "s": "TSLA",
-   "p": 356.11,
-   "c": -1.86,
-   "a50": 365.0,
+   "p": 356.96,
+   "c": -1.63,
+   "a50": 365.01,
    "a200": 402.88,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.49,
-   "r": 54.6
+   "a20": 330.53,
+   "r": 55.0
   },
   {
    "s": "META",
-   "p": 555.55,
-   "c": 1.03,
+   "p": 555.49,
+   "c": 1.02,
    "a50": 592.73,
    "a200": 623.77,
    "yh": 780.25,
    "yl": 525.72,
    "a20": 574.57,
-   "r": 41.0
+   "r": 40.9
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7663.54,
-   "c": -0.14,
-   "a50": 7546.43,
-   "a200": 7100.18,
+   "p": 7669.85,
+   "c": -0.06,
+   "a50": 7546.56,
+   "a200": 7100.22,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.94,
-   "r": 52.8
+   "a20": 7657.26,
+   "r": 53.4
   },
   {
    "s": "^VIX",
-   "p": 15.74,
-   "c": 4.03,
+   "p": 15.71,
+   "c": 3.83,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.86,
-   "r": 48.8
+   "r": 48.7
   },
   {
    "s": "BZ=F",
-   "p": 92.44,
-   "c": -2.07,
+   "p": 92.34,
+   "c": -2.17,
    "a50": 83.88,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.9,
-   "r": 57.2
+   "a20": 87.89,
+   "r": 57.0
   },
   {
    "s": "GC=F",
-   "p": 4710.9,
-   "c": 1.88,
-   "a50": 4188.36,
-   "a200": 4502.49,
+   "p": 4713.7,
+   "c": 1.94,
+   "a50": 4188.41,
+   "a200": 4502.5,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4310.0,
+   "a20": 4310.14,
    "r": 76.7
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": 0.61,
+   "p": 6.61,
+   "c": 0.5,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 59.0
+   "r": 58.6
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240309.aspx"
   },
   {
-   "t": "This Consumer Staples Giant's Dividend Streak Rivals PepsiCo. Nobody Talks About It.",
+   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/consumer-staples-giants-dividend-streak-155000125.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
   },
   {
    "t": "今彩539第115205期開獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240306.aspx"
   },
   {
-   "t": "Shares dip on pressure from technology; yields and oil fall",
+   "t": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html"
   },
   {
    "t": "魏哲家：台積電利潤分配　加大資源投入永續",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
   },
   {
-   "t": "Bitcoin ETFs Post Strongest Weekly Inflows in 10 Months as Price Surges",
+   "t": "Eli Lilly Has a $100 Billion Revenue Story in the Making, 18% Upside Ahead",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-strongest-weekly-154700094.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-100-billion-revenue-160050901.html"
   },
   {
    "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "Nvidia Makes Waves With Poolside Deal, AI Investments",
+   "t": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Nvidia Dips, Retailer Tests Entry (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/nvidia-stock-nvda-poolside-deal-ai-investments/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo"
   },
   {
    "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
+   "t": "Shares dip on pressure from technology; yields and oil fall",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
+   "u": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html"
   },
   {
    "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "Gold and Bitcoin Surge on Treasury Bond Market Fight. Scarce Asset Owners Are This Market’s Big Winners",
+   "t": "Bitcoin ETFs Post Strongest Weekly Inflows in 10 Months as Price Surges",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-bitcoin-surge-treasury-bond-154835198.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-strongest-weekly-154700094.html"
   }
  ],
  "inst": {
