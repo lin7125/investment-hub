@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 04:22（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 04:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.98,
-   "c": -2.55,
+   "p": 92.02,
+   "c": -2.51,
    "a50": 83.87,
-   "a200": 82.57,
+   "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.87,
-   "r": 56.3
+   "r": 56.4
   },
   {
    "s": "GC=F",
-   "p": 4709.8,
-   "c": 1.85,
-   "a50": 4188.33,
-   "a200": 4502.48,
+   "p": 4706.8,
+   "c": 1.79,
+   "a50": 4188.27,
+   "a200": 4502.47,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.94,
-   "r": 76.6
+   "a20": 4309.79,
+   "r": 76.5
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.33,
+   "c": 0.32,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03142678,
-   "c": 0.07,
+   "c": 0.06,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608240341.aspx"
   },
   {
-   "t": "‘The village idiot could have made it’: Warren Buffett’s dead-simple playbook to supercharge your retirement now",
+   "t": "Ramsey Show says asking for a child's inheritance is ‘gross’ — but it’s the one way to get husband’s $2M bloodline trust",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/village-idiot-could-made-warren-110000603.html"
+   "u": "https://finance.yahoo.com/small-business/articles/ramsey-show-says-asking-childs-113000774.html"
   },
   {
    "t": "國票金董事長張兆順　辭任穩懋獨立董事",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240334.aspx"
   },
   {
-   "t": "A 22-year-old inherited $1.7 million after her mom's sudden death. These are the tax and IRS rules she needs to know now",
+   "t": "‘The village idiot could have made it’: Warren Buffett’s dead-simple playbook to supercharge your retirement now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/22-old-inherited-1-7-103000483.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/village-idiot-could-made-warren-110000603.html"
   },
   {
    "t": "台積電提升再生能源用電比重　先進製程研發雙軌並進",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240333.aspx"
   },
   {
-   "t": "Ramsey Show says asking for a child's inheritance is ‘gross’ — but it’s the one way to get husband’s $2M bloodline trust",
+   "t": "Ramsey Show caller earns $95K but can't save $1,000 — his $131K in debt has him trapped in cash advance loops",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/ramsey-show-says-asking-childs-113000774.html"
+   "u": "https://finance.yahoo.com/markets/articles/ramsey-show-caller-earns-95k-120000539.html"
   },
   {
    "t": "威力彩第115068期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240329.aspx"
   },
   {
-   "t": "Meet the 18-year-old junk remover who vibe-coded his own pricing calculator and makes up to $15,000 a month",
+   "t": "Prediction: Nvidia Will Be a $6 Trillion Company Before 2026 Is Over and Its Run Kickstarts This Week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/meet-18-old-junk-remover-110000550.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-6-trillion-company-112500691.html"
   }
  ],
  "inst": {
