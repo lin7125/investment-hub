@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 03:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 03:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 311.44,
-   "c": 0.68,
+   "p": 311.17,
+   "c": 0.59,
    "a50": 310.52,
    "a200": 281.71,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.06,
-   "r": 49.2
+   "a20": 313.05,
+   "r": 49.0
   },
   {
    "s": "NVDA",
-   "p": 209.46,
-   "c": -2.45,
+   "p": 209.37,
+   "c": -2.49,
    "a50": 207.67,
    "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.83,
+   "a20": 213.82,
    "r": 45.5
   },
   {
    "s": "TSLA",
-   "p": 350.12,
-   "c": -3.51,
-   "a50": 364.88,
+   "p": 351.16,
+   "c": -3.22,
+   "a50": 364.9,
    "a200": 402.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.19,
-   "r": 51.9
+   "a20": 330.24,
+   "r": 52.3
   },
   {
    "s": "META",
-   "p": 558.97,
-   "c": 1.65,
-   "a50": 592.8,
+   "p": 559.64,
+   "c": 1.77,
+   "a50": 592.82,
    "a200": 623.79,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.74,
-   "r": 42.3
+   "a20": 574.77,
+   "r": 42.5
   },
   {
    "s": "^TWII",
@@ -267,13 +267,13 @@
   },
   {
    "s": "^GSPC",
-   "p": 7658.64,
-   "c": -0.2,
+   "p": 7658.35,
+   "c": -0.21,
    "a50": 7546.33,
    "a200": 7100.16,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.7,
+   "a20": 7656.68,
    "r": 52.4
   },
   {
@@ -300,14 +300,14 @@
   },
   {
    "s": "GC=F",
-   "p": 4694.8,
-   "c": 1.53,
-   "a50": 4188.03,
-   "a200": 4502.41,
+   "p": 4699.0,
+   "c": 1.62,
+   "a50": 4188.12,
+   "a200": 4502.43,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.19,
-   "r": 76.2
+   "a20": 4309.4,
+   "r": 76.3
   },
   {
    "s": "HG=F",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "威力彩第115068期開獎",
+   "t": "美國要向伊朗發動經濟戰　歐洲股市普遍收跌",
    "pub": "中央社財經",
-   "d": "2026-08-24",
-   "u": "https://www.cna.com.tw/news/ahel/202608240309.aspx"
+   "d": "2026-08-25",
+   "u": "https://www.cna.com.tw/news/afe/202608250002.aspx"
   },
   {
    "t": "Walmart stock price target reset by JPMorgan after earnings",
@@ -344,34 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-price-target-reset-024700402.html"
   },
   {
-   "t": "今彩539第115205期開獎",
+   "t": "CNBC：美財長可能動用近1兆美元帳戶　支應公債回購",
    "pub": "中央社財經",
    "d": "2026-08-24",
-   "u": "https://www.cna.com.tw/news/ahel/202608240306.aspx"
-  },
-  {
-   "t": "Grant Cardone says ‘America will become a renter nation.’ Can you make the most of the market without a mortgage?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-america-become-101500797.html"
-  },
-  {
-   "t": "魏哲家：台積電利潤分配　加大資源投入永續",
-   "pub": "中央社財經",
-   "d": "2026-08-24",
-   "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
-  },
-  {
-   "t": "New combines now list for $1 million as farm income drops 2.6% — forcing farmers to rely on 70s machines and scrap parts",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/combines-now-list-1-million-100000884.html"
-  },
-  {
-   "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
-   "pub": "中央社財經",
-   "d": "2026-08-24",
-   "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608240341.aspx"
   },
   {
    "t": "A 22-year-old inherited $1.7 million after her mom's sudden death. These are the tax and IRS rules she needs to know now",
@@ -380,10 +356,34 @@
    "u": "https://finance.yahoo.com/markets/currencies/articles/22-old-inherited-1-7-103000483.html"
   },
   {
-   "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
+   "t": "國票金董事長張兆順　辭任穩懋獨立董事",
    "pub": "中央社財經",
    "d": "2026-08-24",
-   "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608240337.aspx"
+  },
+  {
+   "t": "Grant Cardone says ‘America will become a renter nation.’ Can you make the most of the market without a mortgage?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-america-become-101500797.html"
+  },
+  {
+   "t": "國銀新南向授信單月大增千億　前7月放款澳洲增額居冠",
+   "pub": "中央社財經",
+   "d": "2026-08-24",
+   "u": "https://www.cna.com.tw/news/afe/202608240334.aspx"
+  },
+  {
+   "t": "New combines now list for $1 million as farm income drops 2.6% — forcing farmers to rely on 70s machines and scrap parts",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/economy/articles/combines-now-list-1-million-100000884.html"
+  },
+  {
+   "t": "台積電提升再生能源用電比重　先進製程研發雙軌並進",
+   "pub": "中央社財經",
+   "d": "2026-08-24",
+   "u": "https://www.cna.com.tw/news/afe/202608240333.aspx"
   },
   {
    "t": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
@@ -392,16 +392,16 @@
    "u": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html"
   },
   {
-   "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
+   "t": "威力彩第115068期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-08-24",
-   "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608240329.aspx"
   },
   {
-   "t": "Social Security’s 40 Work Credit Rule: Why Some Seniors Don’t Qualify for Retirement Benefits",
+   "t": "Billionaire David Tepper Has 16% of His $7.5 Billion Appaloosa Portfolio in Amazon Stock. Is It Still a Buy?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/social-security-40-credit-rule-100940519.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-16-7-102200897.html"
   }
  ],
  "inst": {
