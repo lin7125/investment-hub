@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 04:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 04:11（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -267,7 +267,7 @@
   },
   {
    "s": "^GSPC",
-   "p": 7652.96,
+   "p": 7652.86,
    "c": -0.28,
    "a50": 7546.22,
    "a200": 7100.13,
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 15.84,
-   "c": 4.69,
+   "p": 15.83,
+   "c": 4.63,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4708.6,
-   "c": 1.83,
-   "a50": 4188.31,
-   "a200": 4502.47,
+   "p": 4709.5,
+   "c": 1.85,
+   "a50": 4188.33,
+   "a200": 4502.48,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.88,
+   "a20": 4309.93,
    "r": 76.6
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.37,
+   "c": 0.33,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 58.1
+   "r": 58.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": 0.05,
+   "p": 0.0314169,
+   "c": 0.03,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240333.aspx"
   },
   {
-   "t": "Grant Cardone says ‘America will become a renter nation.’ Can you make the most of the market without a mortgage?",
+   "t": "Ramsey Show says asking for a child's inheritance is ‘gross’ — but it’s the one way to get husband’s $2M bloodline trust",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-america-become-101500797.html"
+   "u": "https://finance.yahoo.com/small-business/articles/ramsey-show-says-asking-childs-113000774.html"
   },
   {
    "t": "威力彩第115068期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240329.aspx"
   },
   {
-   "t": "The Heirs to Jack Daniel’s Are Fighting to Keep Control",
+   "t": "Meet the 18-year-old junk remover who vibe-coded his own pricing calculator and makes up to $15,000 a month",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/articles/the-heirs-to-jack-daniels-are-fighting-to-keep-control-69e27aa2?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/small-business/articles/meet-18-old-junk-remover-110000550.html"
   }
  ],
  "inst": {
