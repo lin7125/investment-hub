@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 03:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 03:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 311.17,
-   "c": 0.59,
+   "p": 311.06,
+   "c": 0.55,
    "a50": 310.52,
    "a200": 281.71,
    "yh": 340.08,
    "yl": 226.79,
    "a20": 313.05,
-   "r": 49.0
+   "r": 48.9
   },
   {
    "s": "NVDA",
-   "p": 209.37,
-   "c": -2.49,
-   "a50": 207.67,
+   "p": 208.73,
+   "c": -2.79,
+   "a50": 207.65,
    "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.82,
-   "r": 45.5
+   "a20": 213.79,
+   "r": 44.9
   },
   {
    "s": "TSLA",
-   "p": 351.16,
-   "c": -3.22,
-   "a50": 364.9,
+   "p": 349.82,
+   "c": -3.6,
+   "a50": 364.87,
    "a200": 402.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.24,
-   "r": 52.3
+   "a20": 330.17,
+   "r": 51.7
   },
   {
    "s": "META",
-   "p": 559.64,
-   "c": 1.77,
+   "p": 559.73,
+   "c": 1.79,
    "a50": 592.82,
    "a200": 623.79,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.77,
-   "r": 42.5
+   "a20": 574.78,
+   "r": 42.6
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7658.35,
-   "c": -0.21,
-   "a50": 7546.33,
-   "a200": 7100.16,
+   "p": 7655.29,
+   "c": -0.25,
+   "a50": 7546.27,
+   "a200": 7100.14,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.68,
-   "r": 52.4
+   "a20": 7656.53,
+   "r": 52.1
   },
   {
    "s": "^VIX",
-   "p": 15.78,
-   "c": 4.3,
+   "p": 15.77,
+   "c": 4.23,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.86,
-   "r": 49.0
+   "r": 48.9
   },
   {
    "s": "BZ=F",
-   "p": 92.33,
-   "c": -2.18,
+   "p": 92.26,
+   "c": -2.26,
    "a50": 83.88,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.89,
-   "r": 57.0
+   "r": 56.9
   },
   {
    "s": "GC=F",
-   "p": 4699.0,
-   "c": 1.62,
-   "a50": 4188.12,
-   "a200": 4502.43,
+   "p": 4696.7,
+   "c": 1.57,
+   "a50": 4188.07,
+   "a200": 4502.41,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.4,
-   "r": 76.3
+   "a20": 4309.29,
+   "r": 76.2
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.27,
+   "c": 0.24,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 57.8
+   "r": 57.7
   },
   {
    "s": "TWDUSD",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240333.aspx"
   },
   {
-   "t": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
+   "t": "Wall Street firms are waiting for people to die so they can get their life insurance money. And yes, it’s legal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/wall-street-firms-waiting-people-110000647.html"
   },
   {
    "t": "威力彩第115068期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240329.aspx"
   },
   {
-   "t": "Billionaire David Tepper Has 16% of His $7.5 Billion Appaloosa Portfolio in Amazon Stock. Is It Still a Buy?",
+   "t": "After Biggest One-Day Decline Since 2022, Is Walmart Stock a Buy?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-16-7-102200897.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/biggest-one-day-decline-since-103500353.html"
   }
  ],
  "inst": {
