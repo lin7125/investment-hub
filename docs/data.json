@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 02:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 03:03（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 311.66,
-   "c": 0.75,
-   "a50": 310.53,
+   "p": 311.41,
+   "c": 0.67,
+   "a50": 310.52,
    "a200": 281.71,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.08,
-   "r": 49.4
+   "a20": 313.06,
+   "r": 49.2
   },
   {
    "s": "NVDA",
-   "p": 209.32,
-   "c": -2.51,
+   "p": 209.44,
+   "c": -2.46,
    "a50": 207.67,
    "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 213.82,
-   "r": 45.4
+   "r": 45.5
   },
   {
    "s": "TSLA",
-   "p": 348.79,
-   "c": -3.88,
+   "p": 348.72,
+   "c": -3.9,
    "a50": 364.85,
    "a200": 402.84,
    "yh": 489.88,
@@ -245,7 +245,7 @@
   },
   {
    "s": "META",
-   "p": 560.26,
+   "p": 560.23,
    "c": 1.88,
    "a50": 592.83,
    "a200": 623.79,
@@ -267,46 +267,46 @@
   },
   {
    "s": "^GSPC",
-   "p": 7659.04,
-   "c": -0.2,
-   "a50": 7546.34,
+   "p": 7657.87,
+   "c": -0.22,
+   "a50": 7546.32,
    "a200": 7100.16,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.72,
-   "r": 52.4
+   "a20": 7656.66,
+   "r": 52.3
   },
   {
    "s": "^VIX",
-   "p": 15.71,
-   "c": 3.83,
+   "p": 15.74,
+   "c": 4.03,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.86,
-   "r": 48.7
+   "r": 48.8
   },
   {
    "s": "BZ=F",
-   "p": 92.31,
-   "c": -2.2,
+   "p": 92.28,
+   "c": -2.24,
    "a50": 83.88,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.89,
-   "r": 57.0
+   "r": 56.9
   },
   {
    "s": "GC=F",
-   "p": 4689.8,
-   "c": 1.42,
-   "a50": 4187.93,
-   "a200": 4502.38,
+   "p": 4690.8,
+   "c": 1.44,
+   "a50": 4187.95,
+   "a200": 4502.39,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4308.94,
+   "a20": 4308.99,
    "r": 76.0
   },
   {
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.0314169,
-   "c": 0.03,
+   "c": 0.02,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240306.aspx"
   },
   {
-   "t": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
+   "t": "New combines now list for $1 million as farm income drops 2.6% — forcing farmers to rely on 70s machines and scrap parts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html"
+   "u": "https://finance.yahoo.com/economy/articles/combines-now-list-1-million-100000884.html"
   },
   {
    "t": "魏哲家：台積電利潤分配　加大資源投入永續",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
   },
   {
-   "t": "New combines now list for $1 million as farm income drops 2.6% — forcing farmers to rely on 70s machines and scrap parts",
+   "t": "I'm a 57-year-old unemployed tech worker, I can't find a job — and I'm starting to panic. How can I get back on track?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/combines-now-list-1-million-100000884.html"
+   "u": "https://finance.yahoo.com/small-business/articles/im-57-old-unemployed-tech-094500348.html"
   },
   {
    "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "Citibank exec says every 10-year delay in retirement savings means saving 3x as much monthly to catch up",
+   "t": "Grant Cardone says ‘America will become a renter nation.’ Can you make the most of the market without a mortgage?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/citibank-exec-says-every-10-093000427.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-america-become-101500797.html"
   },
   {
    "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
   },
   {
-   "t": "Gen Z needs a 'reality check,' says BofA: Is the 'little treat economy' blowing up their future one coffee at a time?",
+   "t": "Citibank exec says every 10-year delay in retirement savings means saving 3x as much monthly to catch up",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/gen-z-needs-reality-check-091500298.html"
+   "u": "https://finance.yahoo.com/markets/articles/citibank-exec-says-every-10-093000427.html"
   },
   {
    "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "Trump Orders 1,000 Space Launches a Year by 2030 — That's 5x Today's Pace",
+   "t": "What to Expect in Markets This Week: Nvidia Earnings; Software Firms, Discount Stores Also Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/trump-orders-1-000-space-094555877.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-nvidia-earnings-100000903.html"
   }
  ],
  "inst": {
