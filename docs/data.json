@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24 22:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-24 23:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 313.15,
-   "c": 1.23,
-   "a50": 310.56,
+   "p": 312.94,
+   "c": 1.16,
+   "a50": 310.55,
    "a200": 281.72,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.15,
-   "r": 50.8
+   "a20": 313.14,
+   "r": 50.6
   },
   {
    "s": "NVDA",
-   "p": 209.9,
-   "c": -2.24,
+   "p": 209.85,
+   "c": -2.27,
    "a50": 207.68,
    "a200": 195.34,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 213.85,
-   "r": 46.0
+   "a20": 213.84,
+   "r": 45.9
   },
   {
    "s": "TSLA",
-   "p": 357.8,
-   "c": -1.39,
-   "a50": 365.03,
+   "p": 358.12,
+   "c": -1.31,
+   "a50": 365.04,
    "a200": 402.89,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 330.57,
-   "r": 55.4
+   "a20": 330.59,
+   "r": 55.6
   },
   {
    "s": "META",
-   "p": 553.4,
-   "c": 0.64,
-   "a50": 592.69,
+   "p": 552.98,
+   "c": 0.56,
+   "a50": 592.68,
    "a200": 623.76,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.46,
-   "r": 40.1
+   "a20": 574.44,
+   "r": 39.9
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7656.35,
-   "c": -0.23,
-   "a50": 7546.29,
-   "a200": 7100.15,
+   "p": 7654.71,
+   "c": -0.26,
+   "a50": 7546.26,
+   "a200": 7100.14,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7656.58,
-   "r": 52.2
+   "a20": 7656.5,
+   "r": 52.0
   },
   {
    "s": "^VIX",
-   "p": 15.82,
-   "c": 4.56,
+   "p": 15.83,
+   "c": 4.63,
    "a50": 16.69,
    "a200": 18.47,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 92.68,
-   "c": -1.81,
+   "p": 92.63,
+   "c": -1.86,
    "a50": 83.89,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.91,
-   "r": 57.7
+   "r": 57.6
   },
   {
    "s": "GC=F",
-   "p": 4732.7,
-   "c": 2.35,
-   "a50": 4188.79,
-   "a200": 4502.59,
+   "p": 4722.9,
+   "c": 2.14,
+   "a50": 4188.6,
+   "a200": 4502.55,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4311.09,
-   "r": 77.3
+   "a20": 4310.6,
+   "r": 77.0
   },
   {
    "s": "HG=F",
-   "p": 6.63,
-   "c": 0.81,
+   "p": 6.62,
+   "c": 0.61,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 59.7
+   "r": 59.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": 0.01,
+   "p": 0.03140704,
+   "c": -0.01,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240309.aspx"
   },
   {
-   "t": "Steadfast agrees $5.51bn buyout by KKR-led consortium",
+   "t": "Why gold and silver prices have added $5 trillion in value",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/steadfast-agrees-5-51bn-buyout-143701812.html"
+   "u": "https://finance.yahoo.com/markets/commodities/article/why-gold-and-silver-prices-have-added-5-trillion-in-value-092246961.html"
   },
   {
    "t": "今彩539第115205期開獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608240306.aspx"
   },
   {
-   "t": "ADNOC Awards McDermott $1 Billion-Plus Contract for Major Offshore Gas Project",
+   "t": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/adnoc-awards-mcdermott-1-billion-143422737.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-ahead-nvidia-144350563.html"
   },
   {
    "t": "魏哲家：台積電利潤分配　加大資源投入永續",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240304.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
+   "t": "ADNOC Awards McDermott $1 Billion-Plus Contract for Major Offshore Gas Project",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
+   "u": "https://finance.yahoo.com/energy/articles/adnoc-awards-mcdermott-1-billion-143422737.html"
   },
   {
    "t": "森崴能源未繳足又德風場履約保證金　能源署：正簽報解約",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240299.aspx"
   },
   {
-   "t": "Mortgage rate history: 1972 to 2026",
+   "t": "Nvidia Sinks: Earnings Apprehension Or AI Trade Unwind? Is Nvidia A Buy Now?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/historical-mortgage-rate-trends-1970s-183910495.html"
+   "u": "https://www.investors.com/research/nvidia-nvda-stock-buy-now-earnings-august-2026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "富邦人壽上半年台股投報率65%　下半年可能高檔震盪",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240295.aspx"
   },
   {
-   "t": "California Accuses Paramount Of 'A Lack Of Good Faith;' Calls Off Settlement Talks",
+   "t": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/paramount-skydance-warner-bros-discovery-merger-wbd-california-lawsuit/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
   },
   {
    "t": "缺工議題產業最關切　國發會：移工零付費將設調適期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240293.aspx"
   },
   {
-   "t": "XPeng Sinks 7% as Q2 Miss Overshadows $6.3B Robotics Valuation, NIO Drops 4%, Tesla Slips",
+   "t": "Mortgage rate history: 1972 to 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/xpeng-sinks-7-q2-miss-143604874.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/historical-mortgage-rate-trends-1970s-183910495.html"
   }
  ],
  "inst": {
