@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24 14:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-24 14:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,42 +289,42 @@
   },
   {
    "s": "BZ=F",
-   "p": 92.78,
-   "c": -1.71,
+   "p": 92.96,
+   "c": -1.51,
    "a50": 83.89,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.91,
-   "r": 57.9
+   "a20": 87.92,
+   "r": 58.2
   },
   {
    "s": "GC=F",
-   "p": 4712.8,
-   "c": 1.92,
-   "a50": 4188.39,
-   "a200": 4502.5,
+   "p": 4701.4,
+   "c": 1.67,
+   "a50": 4188.17,
+   "a200": 4502.44,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4310.09,
-   "r": 76.7
+   "a20": 4309.52,
+   "r": 76.4
   },
   {
    "s": "HG=F",
    "p": 6.58,
-   "c": -0.04,
+   "c": -0.06,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 56.5
+   "r": 56.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": 0.04,
-   "a50": 0.03119152,
+   "p": 0.03143666,
+   "c": 0.1,
+   "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
    "yl": 0.030864
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240098.aspx"
   },
   {
-   "t": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
+   "t": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html"
+   "u": "https://finance.yahoo.com/energy/articles/clean-energy-spending-tracking-toward-190000970.html"
   },
   {
    "t": "中南部豪雨395件淹水　水利署：近9成地區陸續退水",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240097.aspx"
   },
   {
-   "t": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
+   "t": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/clean-energy-spending-tracking-toward-190000970.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/third-point-starts-raise-alarm-193002621.html"
   },
   {
    "t": "潘俊榮：盼政府關注傳產　能源發展多元化",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240095.aspx"
   },
   {
-   "t": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
+   "t": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/third-point-starts-raise-alarm-193002621.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html"
   },
   {
    "t": "華城擴綠色產品製造及電動車充電　拚綠能轉型商機",
