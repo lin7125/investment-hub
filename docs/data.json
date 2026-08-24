@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24 13:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-24 13:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -47,58 +47,58 @@
   },
   {
    "s": "2327.TW",
-   "p": 561.0,
-   "c": 1.26,
-   "a50": 768.61,
+   "p": 559.0,
+   "c": 0.9,
+   "a50": 768.57,
    "a200": 439.32,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 567.38,
-   "r": 41.3
+   "a20": 567.28,
+   "r": 41.0
   },
   {
    "s": "1802.TW",
-   "p": 57.4,
-   "c": -0.35,
+   "p": 57.2,
+   "c": -0.69,
    "a50": 60.16,
    "a200": 53.16,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 53.5,
-   "r": 52.2
+   "a20": 53.49,
+   "r": 51.7
   },
   {
    "s": "6862.TW",
-   "p": 138.0,
-   "c": 0.73,
-   "a50": 164.02,
+   "p": 137.5,
+   "c": 0.36,
+   "a50": 164.01,
    "a200": 175.62,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 138.1,
-   "r": 41.0
+   "a20": 138.07,
+   "r": 40.4
   },
   {
    "s": "3701.TW",
-   "p": 40.2,
-   "c": -1.35,
+   "p": 40.25,
+   "c": -1.23,
    "a50": 41.91,
    "a200": 48.93,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.67,
-   "r": 47.8
+   "r": 48.0
   },
   {
    "s": "4722.TW",
-   "p": 202.5,
-   "c": -1.7,
-   "a50": 235.2,
+   "p": 202.0,
+   "c": -1.94,
+   "a50": 235.19,
    "a200": 199.68,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 202.22,
-   "r": 44.5
+   "a20": 202.2,
+   "r": 44.3
   },
   {
    "s": "6706.TW",
@@ -113,47 +113,47 @@
   },
   {
    "s": "2305.TW",
-   "p": 26.85,
-   "c": 3.27,
+   "p": 26.95,
+   "c": 3.65,
    "a50": 32.58,
    "a200": 19.02,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 28.44,
-   "r": 42.9
+   "r": 43.2
   },
   {
    "s": "6442.TW",
-   "p": 1470.0,
-   "c": -3.61,
-   "a50": 1513.0,
-   "a200": 1609.03,
+   "p": 1480.0,
+   "c": -2.95,
+   "a50": 1513.2,
+   "a200": 1609.08,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1409.0,
-   "r": 49.8
+   "a20": 1409.5,
+   "r": 50.4
   },
   {
    "s": "6515.TW",
-   "p": 6175.0,
-   "c": -3.52,
-   "a50": 7403.5,
-   "a200": 6110.68,
+   "p": 6200.0,
+   "c": -3.12,
+   "a50": 7404.0,
+   "a200": 6110.8,
    "yh": 10795.0,
    "yl": 1130.0,
-   "a20": 6418.25,
-   "r": 40.4
+   "a20": 6419.5,
+   "r": 40.8
   },
   {
    "s": "6446.TW",
-   "p": 1480.0,
-   "c": 5.71,
-   "a50": 1217.0,
-   "a200": 734.77,
+   "p": 1470.0,
+   "c": 5.0,
+   "a50": 1216.8,
+   "a200": 734.72,
    "yh": 1500.0,
    "yl": 401.71,
-   "a20": 1308.25,
-   "r": 63.9
+   "a20": 1307.75,
+   "r": 63.3
   },
   {
    "s": "3324.TWO",
@@ -168,47 +168,47 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1300.0,
-   "c": 1.56,
-   "a50": 1277.44,
-   "a200": 1215.57,
+   "p": 1295.0,
+   "c": 1.17,
+   "a50": 1277.34,
+   "a200": 1215.54,
    "yh": 2200.0,
    "yl": 352.0,
-   "a20": 1216.6,
-   "r": 52.3
+   "a20": 1216.35,
+   "r": 52.0
   },
   {
    "s": "3585.TWO",
-   "p": 50.0,
-   "c": 0.1,
+   "p": 50.3,
+   "c": 0.7,
    "a50": 58.05,
-   "a200": 42.54,
+   "a200": 42.55,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.71,
-   "r": 47.0
+   "a20": 47.72,
+   "r": 47.6
   },
   {
    "s": "6223.TWO",
-   "p": 5605.0,
-   "c": 2.56,
-   "a50": 6166.1,
-   "a200": 4128.0,
+   "p": 5615.0,
+   "c": 2.74,
+   "a50": 6166.3,
+   "a200": 4128.05,
    "yh": 7380.0,
    "yl": 1255.0,
-   "a20": 5775.25,
-   "r": 45.8
+   "a20": 5775.75,
+   "r": 45.9
   },
   {
    "s": "6750.TWO",
-   "p": 54.0,
-   "c": -0.37,
-   "a50": 59.82,
-   "a200": 57.03,
+   "p": 54.9,
+   "c": 1.29,
+   "a50": 59.84,
+   "a200": 57.04,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 54.75,
-   "r": 41.1
+   "a20": 54.79,
+   "r": 44.1
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44992.1,
-   "c": -0.51,
-   "a50": 44900.63,
-   "a200": 36431.72,
+   "p": 44972.79,
+   "c": -0.56,
+   "a50": 44900.24,
+   "a200": 36431.62,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44155.62,
-   "r": 52.4
+   "a20": 44154.65,
+   "r": 52.3
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 93.12,
-   "c": -1.35,
-   "a50": 83.9,
+   "p": 93.06,
+   "c": -1.41,
+   "a50": 83.89,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.93,
-   "r": 58.7
+   "r": 58.4
   },
   {
    "s": "GC=F",
-   "p": 4695.1,
-   "c": 1.54,
-   "a50": 4188.04,
-   "a200": 4502.41,
+   "p": 4697.4,
+   "c": 1.59,
+   "a50": 4188.09,
+   "a200": 4502.42,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.21,
+   "a20": 4309.32,
    "r": 76.2
   },
   {
    "s": "HG=F",
-   "p": 6.55,
-   "c": -0.39,
+   "p": 6.56,
+   "c": -0.34,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 54.8
+   "r": 55.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03146633,
-   "c": 0.17,
+   "p": 0.03145643,
+   "c": 0.16,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240100.aspx"
   },
   {
-   "t": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
+   "t": "91-year-old supermarket chain closes stores, lays off employees",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/articles/91-old-supermarket-chain-closes-231700441.html"
   },
   {
    "t": "國發基金助陣　吳誠文：生技產業如重要變化球、盼組國家隊",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240098.aspx"
   },
   {
-   "t": "Why 1 Analyst Says Vera Rubin Is Key for Nvidia Stock in Q2",
+   "t": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-1-analyst-says-vera-174106031.html"
+   "u": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo"
   },
   {
    "t": "中南部豪雨395件淹水　水利署：近9成地區陸續退水",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240097.aspx"
   },
   {
-   "t": "Nvidia Stock Trades at a Reasonable Valuation With Ample Growth Headroom",
+   "t": "Why 1 Analyst Says Vera Rubin Is Key for Nvidia Stock in Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-trades-reasonable-valuation-173002313.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-1-analyst-says-vera-174106031.html"
   },
   {
    "t": "潘俊榮：盼政府關注傳產　能源發展多元化",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240093.aspx"
   },
   {
-   "t": "91-year-old supermarket chain closes stores, lays off employees",
+   "t": "Nvidia Stock Trades at a Reasonable Valuation With Ample Growth Headroom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/91-old-supermarket-chain-closes-231700441.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-trades-reasonable-valuation-173002313.html"
   }
  ],
  "inst": {
