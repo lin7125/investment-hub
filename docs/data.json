@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24 13:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-24 14:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.1,
-   "c": 0.3,
-   "a50": 58.05,
+   "p": 49.65,
+   "c": -0.6,
+   "a50": 58.04,
    "a200": 42.54,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 47.71,
-   "r": 47.2
+   "a20": 47.69,
+   "r": 46.5
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 93.2,
-   "c": -1.26,
+   "p": 93.1,
+   "c": -1.37,
    "a50": 83.9,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.93,
-   "r": 58.7
+   "r": 58.5
   },
   {
    "s": "GC=F",
-   "p": 4693.6,
-   "c": 1.5,
-   "a50": 4188.01,
-   "a200": 4502.4,
+   "p": 4696.8,
+   "c": 1.57,
+   "a50": 4188.07,
+   "a200": 4502.42,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.13,
-   "r": 76.1
+   "a20": 4309.29,
+   "r": 76.2
   },
   {
    "s": "HG=F",
    "p": 6.57,
-   "c": -0.22,
+   "c": -0.17,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 55.6
+   "r": 55.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03144654,
-   "c": 0.11,
+   "p": 0.03143666,
+   "c": 0.1,
    "a50": 0.03120125,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240098.aspx"
   },
   {
-   "t": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
+   "t": "Powerful Growth, Multiple Endorsements Bode Well for Oracle Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/powerful-growth-multiple-endorsements-bode-183002613.html"
   },
   {
    "t": "中南部豪雨395件淹水　水利署：近9成地區陸續退水",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240097.aspx"
   },
   {
-   "t": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
+   "t": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/clean-energy-spending-tracking-toward-190000970.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html"
   },
   {
    "t": "潘俊榮：盼政府關注傳產　能源發展多元化",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608240095.aspx"
   },
   {
-   "t": "Powerful Growth, Multiple Endorsements Bode Well for Oracle Stock",
+   "t": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/powerful-growth-multiple-endorsements-bode-183002613.html"
+   "u": "https://finance.yahoo.com/energy/articles/clean-energy-spending-tracking-toward-190000970.html"
   },
   {
    "t": "華城擴綠色產品製造及電動車充電　拚綠能轉型商機",
