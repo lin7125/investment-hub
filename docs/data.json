@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 22:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 22:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 310.55,
-   "c": 0.07,
+   "p": 310.32,
+   "c": -0.0,
    "a50": 310.89,
-   "a200": 281.91,
+   "a200": 281.9,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 311.53,
-   "r": 48.4
+   "a20": 311.52,
+   "r": 48.2
   },
   {
    "s": "NVDA",
-   "p": 211.83,
-   "c": 1.61,
-   "a50": 207.78,
+   "p": 211.3,
+   "c": 1.35,
+   "a50": 207.77,
    "a200": 195.42,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 214.52,
-   "r": 48.4
+   "a20": 214.49,
+   "r": 47.8
   },
   {
    "s": "TSLA",
-   "p": 351.63,
-   "c": 0.77,
+   "p": 351.7,
+   "c": 0.79,
    "a50": 363.76,
    "a200": 402.29,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 563.77,
-   "c": 0.85,
-   "a50": 592.74,
+   "p": 564.72,
+   "c": 1.02,
+   "a50": 592.76,
    "a200": 623.43,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.26,
-   "r": 44.2
+   "a20": 573.31,
+   "r": 44.5
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7664.43,
-   "c": 0.15,
-   "a50": 7550.88,
+   "p": 7663.74,
+   "c": 0.14,
+   "a50": 7550.86,
    "a200": 7104.47,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.19,
-   "r": 52.9
+   "a20": 7668.16,
+   "r": 52.8
   },
   {
    "s": "^VIX",
-   "p": 15.74,
-   "c": -0.69,
+   "p": 15.77,
+   "c": -0.5,
    "a50": 16.65,
    "a200": 18.45,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.74,
-   "r": 48.8
+   "r": 48.9
   },
   {
    "s": "BZ=F",
-   "p": 87.98,
-   "c": -4.55,
+   "p": 88.22,
+   "c": -4.29,
    "a50": 83.89,
    "a200": 82.7,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.08,
-   "r": 49.3
+   "a20": 88.09,
+   "r": 49.6
   },
   {
    "s": "GC=F",
-   "p": 4676.3,
-   "c": 0.76,
-   "a50": 4196.18,
-   "a200": 4505.62,
+   "p": 4685.1,
+   "c": 0.95,
+   "a50": 4196.36,
+   "a200": 4505.66,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4338.49,
-   "r": 75.7
+   "a20": 4338.93,
+   "r": 76.0
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 0.67,
+   "p": 6.65,
+   "c": 0.77,
    "a50": 6.38,
    "a200": 5.92,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.55,
-   "r": 60.4
+   "a20": 6.56,
+   "r": 60.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03138732,
-   "c": -0.13,
+   "p": 0.03137747,
+   "c": -0.14,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250353.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq gain as oil, Treasury yields fall",
+   "t": "Merck (MRK) Surges on a Melanoma Win. Can Intismeran Extend Keytruda’s Growth Runway?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/merck-mrk-surges-melanoma-win-142118304.html"
   },
   {
    "t": "外幣保單上半年新契約保費2865億元　創5年同期新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250352.aspx"
   },
   {
-   "t": "SK hynix (SKHY) Announces a $28.6 Billion Buyback. Capital-Return Breakthrough or AI-Cycle Warning?",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq gain as oil, Treasury yields fall",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-skhy-announces-28-140531050.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html"
   },
   {
    "t": "大樂透第115082期開獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250347.aspx"
   },
   {
-   "t": "Zerostack’s Crypto Holdings Top $1 Billion",
+   "t": "Stock Market Today: Nasdaq Charges Higher As Treasury Yields Fall; Nvidia, Micron, Sandisk Rally (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/zerostack-crypto-holdings-top-1-140300927.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115206期開獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250344.aspx"
   },
   {
-   "t": "Dell Stock: How To Find And Own America's Greatest Opportunities",
+   "t": "Coinbase (COIN) Gains as Bitcoin Reclaimed $68,000. Can Washington Turn Sentiment Into Earnings?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/how-to-invest/dell-stock-americas-greatest-opportunities/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/coinbase-coin-gains-bitcoin-reclaimed-141451931.html"
   },
   {
    "t": "彰銀首談併購可行性評估　規模不是唯一考量",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250340.aspx"
   },
   {
-   "t": "What the Fed's Latest Warning to Wall Street Could Mean for Investors",
+   "t": "Tokio Marine nears Suncorp takeover bid – report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/feds-latest-warning-wall-street-140926916.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tokio-marine-nears-suncorp-takeover-142637633.html"
   }
  ],
  "inst": {
