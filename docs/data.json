@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 02:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 02:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 309.0,
-   "c": -0.43,
-   "a50": 310.86,
+   "p": 309.42,
+   "c": -0.3,
+   "a50": 310.87,
    "a200": 281.9,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 311.46,
-   "r": 47.0
+   "a20": 311.48,
+   "r": 47.4
   },
   {
    "s": "NVDA",
-   "p": 212.13,
-   "c": 1.75,
+   "p": 212.05,
+   "c": 1.71,
    "a50": 207.79,
    "a200": 195.42,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 214.53,
-   "r": 48.7
+   "r": 48.6
   },
   {
    "s": "TSLA",
-   "p": 352.9,
-   "c": 1.13,
+   "p": 352.54,
+   "c": 1.03,
    "a50": 363.78,
    "a200": 402.3,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 332.4,
-   "r": 53.0
+   "a20": 332.38,
+   "r": 52.9
   },
   {
    "s": "META",
-   "p": 565.12,
-   "c": 1.09,
-   "a50": 592.77,
+   "p": 564.84,
+   "c": 1.04,
+   "a50": 592.76,
    "a200": 623.43,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.33,
-   "r": 44.7
+   "a20": 573.31,
+   "r": 44.6
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7666.24,
-   "c": 0.17,
-   "a50": 7550.91,
+   "p": 7666.38,
+   "c": 0.18,
+   "a50": 7550.92,
    "a200": 7104.48,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.28,
+   "a20": 7668.29,
    "r": 53.0
   },
   {
    "s": "^VIX",
-   "p": 15.55,
-   "c": -1.89,
+   "p": 15.56,
+   "c": -1.83,
    "a50": 16.65,
    "a200": 18.45,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.73,
-   "r": 47.9
+   "r": 48.0
   },
   {
    "s": "BZ=F",
-   "p": 87.01,
-   "c": -5.6,
+   "p": 87.02,
+   "c": -5.59,
    "a50": 83.87,
    "a200": 82.69,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4704.4,
+   "p": 4704.2,
    "c": 1.37,
    "a50": 4196.74,
-   "a200": 4505.76,
+   "a200": 4505.75,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4339.9,
+   "a20": 4339.89,
    "r": 76.6
   },
   {
    "s": "HG=F",
    "p": 6.7,
-   "c": 1.55,
+   "c": 1.51,
    "a50": 6.38,
    "a200": 5.92,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.56,
-   "r": 63.3
+   "r": 63.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03138732,
-   "c": -0.13,
+   "c": -0.12,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ait/202608250371.aspx"
   },
   {
-   "t": "Nvidia earnings and Jackson Hole: What to watch this week",
+   "t": "I'm 62 With $900,000 in My 401(k). Should I Convert $90k Annually to Reduce Taxes and RMDs?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html"
+   "u": "https://finance.yahoo.com/news/im-62-900-000-401-142054024.html"
   },
   {
    "t": "星媒：美施壓伊朗之際  試圖避免與中國爆發更廣泛經濟外交衝突",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/acn/202608250363.aspx"
   },
   {
-   "t": "I'm 62 With $900,000 in My 401(k). Should I Convert $90k Annually to Reduce Taxes and RMDs?",
+   "t": "Downsizing after retirement often makes no sense — are you locking yourself in for a smaller life than you should?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/im-62-900-000-401-142054024.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/downsizing-retirement-often-makes-no-090000126.html"
   },
   {
    "t": "今彩539第115206期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250361.aspx"
   },
   {
-   "t": "Downsizing after retirement often makes no sense — are you locking yourself in for a smaller life than you should?",
+   "t": "Nvidia earnings and Jackson Hole: What to watch this week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/downsizing-retirement-often-makes-no-090000126.html"
+   "u": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html"
   },
   {
    "t": "大樂透第115082期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250360.aspx"
   },
   {
-   "t": "Bitcoin’s Rare Fractal Suggests $100K BTC Price Target",
+   "t": "An 83-year-old has $31,000 in credit card debt — her daughter needs to know one thing before paying another bill",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rare-fractal-suggests-100k-082827186.html"
+   "u": "https://finance.yahoo.com/markets/articles/83-old-31-000-credit-093000000.html"
   },
   {
    "t": "輝達財報前科技股反彈　美股開高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250358.aspx"
   },
   {
-   "t": "If a Bear Market Is Coming, History Says Investors Who Do This 1 Thing Always Win Out",
+   "t": "The subscription economy makes everything a monthly bill",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-history-says-090500740.html"
+   "u": "https://finance.yahoo.com/small-business/articles/subscription-economy-makes-everything-monthly-090000596.html"
   }
  ],
  "inst": {
