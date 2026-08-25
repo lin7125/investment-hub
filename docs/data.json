@@ -1,71 +1,71 @@
 {
- "generatedAt": "2026-08-25 12:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 12:13（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2370.0,
-   "c": -0.21,
-   "a50": 2392.4,
-   "a200": 1976.25,
+   "p": 2360.0,
+   "c": -0.63,
+   "a50": 2392.2,
+   "a200": 1976.2,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2367.0,
-   "r": 49.2
+   "a20": 2366.5,
+   "r": 48.2
   },
   {
    "s": "2317.TW",
-   "p": 240.0,
-   "c": -1.44,
-   "a50": 249.66,
+   "p": 239.5,
+   "c": -1.64,
+   "a50": 249.65,
    "a200": 235.7,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.32,
-   "r": 40.9
+   "a20": 252.3,
+   "r": 40.6
   },
   {
    "s": "2308.TW",
-   "p": 1665.0,
-   "c": -4.03,
-   "a50": 1841.3,
-   "a200": 1547.42,
+   "p": 1655.0,
+   "c": -4.61,
+   "a50": 1841.1,
+   "a200": 1547.37,
    "yh": 2520.0,
    "yl": 676.0,
-   "a20": 1719.5,
-   "r": 40.9
+   "a20": 1719.0,
+   "r": 40.3
   },
   {
    "s": "2454.TW",
-   "p": 3685.0,
-   "c": -2.12,
-   "a50": 3927.5,
-   "a200": 2535.32,
+   "p": 3675.0,
+   "c": -2.39,
+   "a50": 3927.3,
+   "a200": 2535.28,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3834.25,
-   "r": 44.3
+   "a20": 3833.75,
+   "r": 44.0
   },
   {
    "s": "2327.TW",
-   "p": 523.0,
-   "c": -5.08,
-   "a50": 760.07,
+   "p": 522.0,
+   "c": -5.26,
+   "a50": 760.05,
    "a200": 440.65,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 564.88,
-   "r": 37.1
+   "a20": 564.83,
+   "r": 37.0
   },
   {
    "s": "1802.TW",
-   "p": 56.1,
-   "c": -1.41,
+   "p": 55.9,
+   "c": -1.76,
    "a50": 59.92,
    "a200": 53.3,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 53.87,
-   "r": 49.0
+   "a20": 53.86,
+   "r": 48.5
   },
   {
    "s": "6862.TW",
@@ -91,14 +91,14 @@
   },
   {
    "s": "4722.TW",
-   "p": 202.0,
-   "c": -0.25,
-   "a50": 234.43,
-   "a200": 199.79,
+   "p": 201.0,
+   "c": -0.74,
+   "a50": 234.41,
+   "a200": 199.78,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 203.1,
-   "r": 44.3
+   "a20": 203.05,
+   "r": 43.9
   },
   {
    "s": "6706.TW",
@@ -113,14 +113,14 @@
   },
   {
    "s": "2305.TW",
-   "p": 26.0,
-   "c": -2.44,
+   "p": 25.95,
+   "c": -2.63,
    "a50": 32.54,
    "a200": 19.09,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 28.2,
-   "r": 40.7
+   "r": 40.6
   },
   {
    "s": "6442.TW",
@@ -135,69 +135,69 @@
   },
   {
    "s": "6515.TW",
-   "p": 6035.0,
-   "c": -1.79,
-   "a50": 7325.1,
-   "a200": 6127.55,
+   "p": 6010.0,
+   "c": -2.2,
+   "a50": 7324.6,
+   "a200": 6127.42,
    "yh": 10795.0,
    "yl": 1130.0,
-   "a20": 6421.75,
-   "r": 38.5
+   "a20": 6420.5,
+   "r": 38.2
   },
   {
    "s": "6446.TW",
-   "p": 1500.0,
-   "c": 1.69,
-   "a50": 1229.73,
-   "a200": 740.01,
+   "p": 1490.0,
+   "c": 1.02,
+   "a50": 1229.53,
+   "a200": 739.96,
    "yh": 1500.0,
    "yl": 401.71,
-   "a20": 1327.25,
-   "r": 65.0
+   "a20": 1326.75,
+   "r": 64.5
   },
   {
    "s": "3324.TWO",
-   "p": 1040.0,
-   "c": 2.46,
-   "a50": 972.14,
-   "a200": 998.17,
+   "p": 1035.0,
+   "c": 1.97,
+   "a50": 972.04,
+   "a200": 998.14,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 982.2,
-   "r": 58.1
+   "a20": 981.95,
+   "r": 57.5
   },
   {
    "s": "3491.TWO",
-   "p": 1230.0,
-   "c": -4.65,
-   "a50": 1270.74,
-   "a200": 1219.53,
+   "p": 1235.0,
+   "c": -4.26,
+   "a50": 1270.84,
+   "a200": 1219.55,
    "yh": 2200.0,
    "yl": 352.0,
-   "a20": 1223.1,
-   "r": 47.4
+   "a20": 1223.35,
+   "r": 47.7
   },
   {
    "s": "3585.TWO",
-   "p": 48.0,
-   "c": -4.19,
+   "p": 48.15,
+   "c": -3.89,
    "a50": 57.63,
    "a200": 42.72,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 48.08,
-   "r": 43.8
+   "a20": 48.09,
+   "r": 44.0
   },
   {
    "s": "6223.TWO",
-   "p": 5435.0,
-   "c": -2.34,
-   "a50": 6145.3,
-   "a200": 4144.95,
+   "p": 5460.0,
+   "c": -1.89,
+   "a50": 6145.8,
+   "a200": 4145.08,
    "yh": 7380.0,
    "yl": 1255.0,
-   "a20": 5786.75,
-   "r": 43.4
+   "a20": 5788.0,
+   "r": 43.8
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44496.26,
-   "c": -0.59,
-   "a50": 44902.58,
-   "a200": 36513.31,
+   "p": 44405.31,
+   "c": -0.8,
+   "a50": 44900.76,
+   "a200": 36512.85,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44288.77,
-   "r": 49.1
+   "a20": 44284.23,
+   "r": 48.5
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 92.17,
-   "c": -2.35,
-   "a50": 83.88,
-   "a200": 82.58,
+   "p": 92.5,
+   "c": 0.36,
+   "a50": 83.98,
+   "a200": 82.72,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.88,
-   "r": 56.7
+   "a20": 88.3,
+   "r": 57.2
   },
   {
    "s": "GC=F",
-   "p": 4640.8,
-   "c": 0.36,
-   "a50": 4186.95,
-   "a200": 4502.14,
+   "p": 4688.8,
+   "c": 1.03,
+   "a50": 4196.43,
+   "a200": 4505.68,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4306.49,
-   "r": 74.3
+   "a20": 4339.12,
+   "r": 76.1
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": 0.3,
-   "a50": 6.37,
-   "a200": 5.91,
+   "p": 6.59,
+   "c": -0.16,
+   "a50": 6.38,
+   "a200": 5.92,
    "yh": 6.7,
    "yl": 4.41,
-   "a20": 6.54,
-   "r": 57.9
+   "a20": 6.55,
+   "r": 57.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03137747,
-   "c": -0.15,
+   "p": 0.03136763,
+   "c": -0.18,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250049.aspx"
   },
   {
-   "t": "Why Investing in IPOs Has Become a High-Stakes Coin Flip",
+   "t": "Nvidia Earnings, Jackson Hole and Other Key Things to Watch this Week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-investing-ipos-become-high-160002837.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-jackson-hole-other-170002056.html"
   },
   {
    "t": "賴建信視察南部淹水情形　強化中央地方合作提升防洪韌性",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250037.aspx"
   },
   {
-   "t": "Nvidia Earnings, Jackson Hole and Other Key Things to Watch this Week",
+   "t": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-jackson-hole-other-170002056.html"
+   "u": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html"
   },
   {
    "t": "2027年統籌分配款台北市1264億居冠　新北人均配額最低",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250036.aspx"
   },
   {
-   "t": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
+   "t": "Soros Fund Management Opened a New Position in Nebius During Q2. What This Means for NBIS Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/soros-fund-management-opened-position-173002452.html"
   },
   {
    "t": "華爾街搶用AI如魔鬼交易　高盛憂年輕人才思考力退化",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250026.aspx"
   },
   {
-   "t": "Soros Fund Management Opened a New Position in Nebius During Q2. What This Means for NBIS Stock.",
+   "t": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/soros-fund-management-opened-position-173002452.html"
+   "u": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html"
   },
   {
    "t": "台積電領跌　台股早盤挫逾500點回測月線支撐",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250024.aspx"
   },
   {
-   "t": "America’s Fastest Growing Retirement Town Is Not in Florida or Arizona",
+   "t": "Gas Turbine Prices Are on Track to Nearly Triple. These Stocks Are Cashing In",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/america-fastest-growing-retirement-town-162957813.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/gas-turbine-prices-track-nearly-163100823.html"
   }
  ],
  "inst": {
