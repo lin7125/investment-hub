@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 10:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 10:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -36,36 +36,36 @@
   },
   {
    "s": "2454.TW",
-   "p": 3675.0,
-   "c": -2.39,
-   "a50": 3927.3,
-   "a200": 2535.28,
+   "p": 3670.0,
+   "c": -2.52,
+   "a50": 3927.2,
+   "a200": 2535.25,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3833.75,
-   "r": 44.0
+   "a20": 3833.5,
+   "r": 43.8
   },
   {
    "s": "2327.TW",
-   "p": 517.0,
-   "c": -6.17,
-   "a50": 759.95,
-   "a200": 440.62,
+   "p": 520.0,
+   "c": -5.63,
+   "a50": 760.01,
+   "a200": 440.64,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 564.58,
-   "r": 36.5
+   "a20": 564.72,
+   "r": 36.8
   },
   {
    "s": "1802.TW",
-   "p": 56.1,
-   "c": -1.41,
+   "p": 56.0,
+   "c": -1.58,
    "a50": 59.92,
    "a200": 53.3,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 53.87,
-   "r": 49.0
+   "r": 48.7
   },
   {
    "s": "6862.TW",
@@ -80,25 +80,25 @@
   },
   {
    "s": "3701.TW",
-   "p": 39.2,
-   "c": -1.51,
+   "p": 39.15,
+   "c": -1.63,
    "a50": 41.71,
    "a200": 48.94,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.68,
-   "r": 44.6
+   "a20": 39.67,
+   "r": 44.4
   },
   {
    "s": "4722.TW",
-   "p": 200.0,
-   "c": -1.23,
-   "a50": 234.39,
-   "a200": 199.78,
+   "p": 199.0,
+   "c": -1.73,
+   "a50": 234.37,
+   "a200": 199.77,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 203.0,
-   "r": 43.4
+   "a20": 202.95,
+   "r": 43.0
   },
   {
    "s": "6706.TW",
@@ -113,25 +113,25 @@
   },
   {
    "s": "2305.TW",
-   "p": 25.85,
-   "c": -3.0,
+   "p": 25.8,
+   "c": -3.19,
    "a50": 32.54,
    "a200": 19.09,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.2,
-   "r": 40.4
+   "a20": 28.19,
+   "r": 40.2
   },
   {
    "s": "6442.TW",
-   "p": 1440.0,
-   "c": -1.37,
-   "a50": 1503.2,
-   "a200": 1611.28,
+   "p": 1445.0,
+   "c": -1.03,
+   "a50": 1503.3,
+   "a200": 1611.3,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1419.0,
-   "r": 48.0
+   "a20": 1419.25,
+   "r": 48.3
   },
   {
    "s": "6515.TW",
@@ -146,36 +146,36 @@
   },
   {
    "s": "6446.TW",
-   "p": 1445.0,
-   "c": -2.03,
-   "a50": 1228.63,
-   "a200": 739.73,
+   "p": 1450.0,
+   "c": -1.69,
+   "a50": 1228.73,
+   "a200": 739.76,
    "yh": 1500.0,
    "yl": 401.71,
-   "a20": 1324.5,
-   "r": 60.6
+   "a20": 1324.75,
+   "r": 61.1
   },
   {
    "s": "3324.TWO",
-   "p": 1015.0,
-   "c": 0.0,
-   "a50": 971.64,
-   "a200": 998.04,
+   "p": 1005.0,
+   "c": -0.99,
+   "a50": 971.44,
+   "a200": 998.0,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 980.95,
-   "r": 55.0
+   "a20": 980.45,
+   "r": 53.5
   },
   {
    "s": "3491.TWO",
-   "p": 1230.0,
-   "c": -4.65,
-   "a50": 1270.74,
-   "a200": 1219.53,
+   "p": 1235.0,
+   "c": -4.26,
+   "a50": 1270.84,
+   "a200": 1219.55,
    "yh": 2200.0,
    "yl": 352.0,
-   "a20": 1223.1,
-   "r": 47.4
+   "a20": 1223.35,
+   "r": 47.7
   },
   {
    "s": "3585.TWO",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5400.0,
-   "c": -2.96,
-   "a50": 6144.6,
-   "a200": 4144.77,
+   "p": 5410.0,
+   "c": -2.79,
+   "a50": 6144.8,
+   "a200": 4144.82,
    "yh": 7380.0,
    "yl": 1255.0,
-   "a20": 5785.0,
-   "r": 43.0
+   "a20": 5785.5,
+   "r": 43.1
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44312.75,
-   "c": -1.0,
-   "a50": 44898.91,
-   "a200": 36512.39,
+   "p": 44333.34,
+   "c": -0.96,
+   "a50": 44899.32,
+   "a200": 36512.49,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44279.6,
-   "r": 47.9
+   "a20": 44280.63,
+   "r": 48.0
   },
   {
    "s": "^GSPC",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4705.7,
-   "c": 1.76,
-   "a50": 4188.25,
-   "a200": 4502.46,
+   "p": 4708.9,
+   "c": 1.83,
+   "a50": 4188.32,
+   "a200": 4502.48,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.74,
-   "r": 76.5
+   "a20": 4309.9,
+   "r": 76.6
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.33,
+   "c": 0.37,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 58.0
+   "r": 58.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03138732,
-   "c": -0.11,
+   "c": -0.13,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250037.aspx"
   },
   {
-   "t": "The Stock Market Is Repeating a Pattern Not Seen in Decades. Here's What History Says Comes Next.",
+   "t": "Luxury auto CEOs say there's a K-shaped economy even at the very top of the market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-repeating-pattern-not-150500239.html"
+   "u": "https://finance.yahoo.com/markets/article/luxury-auto-ceos-say-theres-a-k-shaped-economy-even-at-the-very-top-of-the-market-145500874.html"
   },
   {
    "t": "2027年統籌分配款台北市1264億居冠　新北人均配額最低",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250036.aspx"
   },
   {
-   "t": "Luxury auto CEOs say there's a K-shaped economy even at the very top of the market",
+   "t": "Here's the Truth About How Much You Need to Save If You Want to End Up a Millionaire",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/luxury-auto-ceos-say-theres-a-k-shaped-economy-even-at-the-very-top-of-the-market-145500874.html"
+   "u": "https://finance.yahoo.com/markets/articles/heres-truth-much-save-want-145000314.html"
   },
   {
    "t": "華爾街搶用AI如魔鬼交易　高盛憂年輕人才思考力退化",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250020.aspx"
   },
   {
-   "t": "This is One of the Cheapest Magnificent Seven Stocks Right Now",
+   "t": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/one-cheapest-magnificent-seven-stocks-150054957.html"
+   "u": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html"
   }
  ],
  "inst": {
