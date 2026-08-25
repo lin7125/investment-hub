@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 04:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 05:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.6,
-   "c": -7.13,
-   "a50": 83.84,
+   "p": 85.86,
+   "c": -6.85,
+   "a50": 83.85,
    "a200": 82.69,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.96,
-   "r": 45.9
+   "a20": 87.97,
+   "r": 46.2
   },
   {
    "s": "GC=F",
-   "p": 4719.1,
-   "c": 1.69,
-   "a50": 4197.04,
-   "a200": 4505.83,
+   "p": 4715.9,
+   "c": 1.62,
+   "a50": 4196.97,
+   "a200": 4505.81,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4340.63,
-   "r": 77.1
+   "a20": 4340.47,
+   "r": 77.0
   },
   {
    "s": "HG=F",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260003.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Bullish on VeriSign Stock?",
+   "t": "KLA (KLAC) Gains From Advanced Nodes, HBM and Packaging",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-verisign-120318309.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kla-klac-gains-advanced-nodes-132424736.html"
   },
   {
    "t": "美國對伊朗制裁未見明顯衝擊  歐股收盤漲多跌少",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260002.aspx"
   },
   {
-   "t": "Trip.com (TCOM): China’s Largest Travel Platform Set for Long Term Gains",
+   "t": "Lam Research (LRCX) Sees Strong Growth Extend Into 2027 as AI Spending Accelerates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-china-largest-120739032.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/lam-research-lrcx-sees-strong-132142425.html"
   },
   {
    "t": "蘋果發表M6及M5 Ultra晶片　強化桌機AI運算能力",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ait/202608250371.aspx"
   },
   {
-   "t": "Streaming Scale and Global Base Power Netflix’s (NFLX) Next Phase of Monetization",
+   "t": "XRP Price Prediction: 20% Gain Awaits if XRP Stays Above This Support Area",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/streaming-scale-global-power-netflix-120428736.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-20-gain-131531091.html"
   },
   {
    "t": "星媒：美施壓伊朗之際  試圖避免與中國爆發更廣泛經濟外交衝突",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/acn/202608250363.aspx"
   },
   {
-   "t": "Nvidia earnings face a frustrating reality",
+   "t": "Cathie Wood's ARK Goes On $27 Million SpaceX Shopping Spree",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/nvidia-earnings-face-a-frustrating-reality-103234712.html"
+   "u": "https://www.investors.com/news/cathie-wood-spacex-tesla-ark-invest-etf/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115206期　頭獎1注中獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250361.aspx"
   },
   {
-   "t": "A 75-Day Seasonal Sell Window Is Opening in the Euro—Are You Prepared?",
+   "t": "SpaceX Falls 3% Despite Trump’s 1,000-Launch Order, AST SpaceMobile Drops 3%, Rocket Lab Slips",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/75-day-seasonal-sell-window-120337880.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-falls-3-despite-trump-132448656.html"
   }
  ],
  "inst": {
