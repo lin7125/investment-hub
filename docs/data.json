@@ -1,93 +1,93 @@
 {
- "generatedAt": "2026-08-25 12:44（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 12:54（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2370.0,
-   "c": -0.21,
-   "a50": 2392.4,
-   "a200": 1976.25,
+   "p": 2375.0,
+   "c": 0.0,
+   "a50": 2392.5,
+   "a200": 1976.28,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2367.0,
-   "r": 49.2
+   "a20": 2367.25,
+   "r": 49.7
   },
   {
    "s": "2317.TW",
-   "p": 241.0,
-   "c": -1.03,
-   "a50": 249.68,
+   "p": 241.5,
+   "c": -0.82,
+   "a50": 249.69,
    "a200": 235.71,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.38,
-   "r": 41.6
+   "a20": 252.4,
+   "r": 41.9
   },
   {
    "s": "2308.TW",
-   "p": 1665.0,
-   "c": -4.03,
-   "a50": 1841.3,
-   "a200": 1547.42,
+   "p": 1675.0,
+   "c": -3.46,
+   "a50": 1841.5,
+   "a200": 1547.47,
    "yh": 2520.0,
    "yl": 676.0,
-   "a20": 1719.5,
-   "r": 40.9
+   "a20": 1720.0,
+   "r": 41.5
   },
   {
    "s": "2454.TW",
-   "p": 3675.0,
-   "c": -2.39,
-   "a50": 3927.3,
-   "a200": 2535.28,
+   "p": 3680.0,
+   "c": -2.26,
+   "a50": 3927.4,
+   "a200": 2535.3,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3833.75,
-   "r": 44.0
+   "a20": 3834.0,
+   "r": 44.1
   },
   {
    "s": "2327.TW",
-   "p": 528.0,
-   "c": -4.17,
-   "a50": 760.17,
-   "a200": 440.68,
+   "p": 532.0,
+   "c": -3.45,
+   "a50": 760.25,
+   "a200": 440.7,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 565.12,
-   "r": 37.6
+   "a20": 565.33,
+   "r": 37.9
   },
   {
    "s": "1802.TW",
-   "p": 56.8,
-   "c": -0.18,
+   "p": 57.1,
+   "c": 0.35,
    "a50": 59.94,
    "a200": 53.3,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 53.91,
-   "r": 50.7
+   "a20": 53.92,
+   "r": 51.4
   },
   {
    "s": "6862.TW",
-   "p": 134.5,
-   "c": -1.82,
-   "a50": 162.65,
+   "p": 135.0,
+   "c": -1.46,
+   "a50": 162.66,
    "a200": 175.28,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 138.3,
-   "r": 37.7
+   "a20": 138.32,
+   "r": 38.1
   },
   {
    "s": "3701.TW",
-   "p": 40.1,
-   "c": 0.75,
+   "p": 40.3,
+   "c": 1.26,
    "a50": 41.73,
-   "a200": 48.94,
+   "a200": 48.95,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.72,
-   "r": 47.7
+   "a20": 39.73,
+   "r": 48.4
   },
   {
    "s": "4722.TW",
@@ -102,80 +102,80 @@
   },
   {
    "s": "6706.TW",
-   "p": 121.0,
-   "c": 5.68,
-   "a50": 127.4,
+   "p": 121.5,
+   "c": 6.11,
+   "a50": 127.41,
    "a200": 128.0,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 112.22,
-   "r": 52.1
+   "a20": 112.25,
+   "r": 52.5
   },
   {
    "s": "2305.TW",
-   "p": 26.15,
-   "c": -1.88,
+   "p": 26.2,
+   "c": -1.69,
    "a50": 32.54,
    "a200": 19.1,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 28.21,
-   "r": 41.1
+   "r": 41.2
   },
   {
    "s": "6442.TW",
-   "p": 1490.0,
-   "c": 2.05,
-   "a50": 1504.2,
-   "a200": 1611.52,
+   "p": 1530.0,
+   "c": 4.79,
+   "a50": 1505.0,
+   "a200": 1611.72,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1421.5,
-   "r": 51.1
+   "a20": 1423.5,
+   "r": 53.4
   },
   {
    "s": "6515.TW",
-   "p": 6080.0,
-   "c": -1.06,
-   "a50": 7326.0,
-   "a200": 6127.78,
+   "p": 6120.0,
+   "c": -0.41,
+   "a50": 7326.8,
+   "a200": 6127.98,
    "yh": 10795.0,
    "yl": 1130.0,
-   "a20": 6424.0,
-   "r": 39.1
+   "a20": 6426.0,
+   "r": 39.7
   },
   {
    "s": "6446.TW",
-   "p": 1465.0,
-   "c": -0.68,
-   "a50": 1229.03,
-   "a200": 739.83,
+   "p": 1480.0,
+   "c": 0.34,
+   "a50": 1229.33,
+   "a200": 739.91,
    "yh": 1500.0,
    "yl": 401.71,
-   "a20": 1325.5,
-   "r": 62.6
+   "a20": 1326.25,
+   "r": 63.9
   },
   {
    "s": "3324.TWO",
-   "p": 1035.0,
-   "c": 1.97,
-   "a50": 972.04,
-   "a200": 998.14,
+   "p": 1060.0,
+   "c": 4.43,
+   "a50": 972.54,
+   "a200": 998.27,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 981.95,
-   "r": 57.5
+   "a20": 983.2,
+   "r": 60.2
   },
   {
    "s": "3491.TWO",
-   "p": 1245.0,
-   "c": -3.49,
-   "a50": 1271.04,
-   "a200": 1219.6,
+   "p": 1250.0,
+   "c": -3.1,
+   "a50": 1271.14,
+   "a200": 1219.62,
    "yh": 2200.0,
    "yl": 352.0,
-   "a20": 1223.85,
-   "r": 48.4
+   "a20": 1224.1,
+   "r": 48.7
   },
   {
    "s": "3585.TWO",
@@ -190,25 +190,25 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5490.0,
-   "c": -1.35,
-   "a50": 6146.4,
-   "a200": 4145.23,
+   "p": 5535.0,
+   "c": -0.54,
+   "a50": 6147.3,
+   "a200": 4145.45,
    "yh": 7380.0,
    "yl": 1255.0,
-   "a20": 5789.5,
-   "r": 44.2
+   "a20": 5791.75,
+   "r": 44.8
   },
   {
    "s": "6750.TWO",
-   "p": 53.5,
-   "c": -2.55,
-   "a50": 59.61,
-   "a200": 57.08,
+   "p": 54.2,
+   "c": -1.28,
+   "a50": 59.62,
+   "a200": 57.09,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 54.77,
-   "r": 40.4
+   "a20": 54.8,
+   "r": 42.2
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44584.94,
-   "c": -0.4,
-   "a50": 44904.35,
-   "a200": 36513.75,
+   "p": 44705.09,
+   "c": -0.13,
+   "a50": 44906.76,
+   "a200": 36514.35,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44293.21,
-   "r": 49.6
+   "a20": 44299.21,
+   "r": 50.5
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 92.29,
-   "c": 0.13,
-   "a50": 83.98,
+   "p": 92.11,
+   "c": -0.07,
+   "a50": 83.97,
    "a200": 82.72,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.29,
-   "r": 56.9
+   "a20": 88.28,
+   "r": 56.6
   },
   {
    "s": "GC=F",
-   "p": 4685.2,
-   "c": 0.96,
-   "a50": 4196.36,
-   "a200": 4505.66,
+   "p": 4681.5,
+   "c": 0.88,
+   "a50": 4196.28,
+   "a200": 4505.64,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4338.94,
-   "r": 76.0
+   "a20": 4338.75,
+   "r": 75.8
   },
   {
    "s": "HG=F",
-   "p": 6.59,
-   "c": -0.2,
+   "p": 6.58,
+   "c": -0.22,
    "a50": 6.38,
    "a200": 5.92,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.55,
-   "r": 56.8
+   "r": 56.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03135779,
-   "c": -0.2,
+   "p": 0.03136763,
+   "c": -0.18,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -332,46 +332,10 @@
  ],
  "news": [
   {
-   "t": "電子跌金融撐盤　台股跌逾500點失守月線",
+   "t": "製造業測驗點創逾4年新高　台經院：AI新品是下一波出口關鍵",
    "pub": "中央社財經",
    "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250055.aspx"
-  },
-  {
-   "t": "Should You Buy Oracle Stock Before September? The Answer Might Surprise You.",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/buy-oracle-stock-september-answer-171000571.html"
-  },
-  {
-   "t": "不畏7月台股回檔　主動式基金及ETF吸金2125億元",
-   "pub": "中央社財經",
-   "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250049.aspx"
-  },
-  {
-   "t": "Nvidia Earnings, Jackson Hole and Other Key Things to Watch this Week",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-jackson-hole-other-170002056.html"
-  },
-  {
-   "t": "賴建信視察南部淹水情形　強化中央地方合作提升防洪韌性",
-   "pub": "中央社財經",
-   "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250037.aspx"
-  },
-  {
-   "t": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html"
-  },
-  {
-   "t": "2027年統籌分配款台北市1264億居冠　新北人均配額最低",
-   "pub": "中央社財經",
-   "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250036.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608250111.aspx"
   },
   {
    "t": "Soros Fund Management Opened a New Position in Nebius During Q2. What This Means for NBIS Stock.",
@@ -380,10 +344,46 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/soros-fund-management-opened-position-173002452.html"
   },
   {
-   "t": "華爾街搶用AI如魔鬼交易　高盛憂年輕人才思考力退化",
+   "t": "AI助攻循環經濟　經部：從回收再利用邁向智慧循環",
    "pub": "中央社財經",
    "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250026.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608250106.aspx"
+  },
+  {
+   "t": "I make $32K/month from 3 simple, boring websites",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/video/32k-month-3-simple-boring-173115568.html"
+  },
+  {
+   "t": "現代汽車10年首見全天罷工後　勞資達成初步協議",
+   "pub": "中央社財經",
+   "d": "2026-08-25",
+   "u": "https://www.cna.com.tw/news/aopl/202608250104.aspx"
+  },
+  {
+   "t": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html"
+  },
+  {
+   "t": "Gogoro：上半年和第2季毛利率走高　連5季現金流正向",
+   "pub": "中央社財經",
+   "d": "2026-08-25",
+   "u": "https://www.cna.com.tw/news/afe/202608250097.aspx"
+  },
+  {
+   "t": "Nvidia Earnings, Jackson Hole and Other Key Things to Watch this Week",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-jackson-hole-other-170002056.html"
+  },
+  {
+   "t": "新台幣午盤貶3.5分　暫收31.889元",
+   "pub": "中央社財經",
+   "d": "2026-08-25",
+   "u": "https://www.cna.com.tw/news/afe/202608250094.aspx"
   },
   {
    "t": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
@@ -392,16 +392,16 @@
    "u": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html"
   },
   {
-   "t": "台積電領跌　台股早盤挫逾500點回測月線支撐",
+   "t": "豪雨來襲35處積水未退　水利署支援80台抽水機",
    "pub": "中央社財經",
    "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250024.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608250081.aspx"
   },
   {
-   "t": "Bill Ackman's Pershing Square invests $1.1B in fintech giant",
+   "t": "How to Play MRVL Stock Now as Marvell Technology Expands Its Relationship With Google",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-pershing-square-invests-170700368.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/play-mrvl-stock-now-marvell-183002715.html"
   }
  ],
  "inst": {
