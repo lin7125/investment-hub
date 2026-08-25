@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 00:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 01:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 309.95,
-   "c": -0.13,
+   "p": 309.8,
+   "c": -0.17,
    "a50": 310.88,
    "a200": 281.9,
    "yh": 340.08,
    "yl": 226.79,
    "a20": 311.5,
-   "r": 47.9
+   "r": 47.7
   },
   {
    "s": "NVDA",
-   "p": 212.09,
-   "c": 1.73,
+   "p": 212.16,
+   "c": 1.77,
    "a50": 207.79,
    "a200": 195.42,
    "yh": 235.74,
@@ -234,24 +234,24 @@
   },
   {
    "s": "TSLA",
-   "p": 356.52,
-   "c": 2.17,
-   "a50": 363.86,
-   "a200": 402.32,
+   "p": 354.46,
+   "c": 1.58,
+   "a50": 363.81,
+   "a200": 402.31,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 332.58,
-   "r": 54.4
+   "a20": 332.48,
+   "r": 53.6
   },
   {
    "s": "META",
-   "p": 567.17,
-   "c": 1.46,
-   "a50": 592.81,
+   "p": 567.0,
+   "c": 1.43,
+   "a50": 592.8,
    "a200": 623.44,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.43,
+   "a20": 573.42,
    "r": 45.4
   },
   {
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7673.1,
-   "c": 0.26,
-   "a50": 7551.05,
+   "p": 7671.69,
+   "c": 0.25,
+   "a50": 7551.02,
    "a200": 7104.51,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.63,
-   "r": 53.6
+   "a20": 7668.56,
+   "r": 53.5
   },
   {
    "s": "^VIX",
-   "p": 15.47,
-   "c": -2.4,
+   "p": 15.48,
+   "c": -2.33,
    "a50": 16.65,
    "a200": 18.45,
    "yh": 31.05,
@@ -300,7 +300,7 @@
   },
   {
    "s": "GC=F",
-   "p": 4701.5,
+   "p": 4701.4,
    "c": 1.31,
    "a50": 4196.68,
    "a200": 4505.74,
@@ -311,19 +311,19 @@
   },
   {
    "s": "HG=F",
-   "p": 6.72,
-   "c": 1.81,
+   "p": 6.71,
+   "c": 1.75,
    "a50": 6.38,
    "a200": 5.92,
-   "yh": 6.72,
+   "yh": 6.71,
    "yl": 4.41,
    "a20": 6.56,
-   "r": 64.1
+   "r": 63.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03138732,
-   "c": -0.13,
+   "c": -0.14,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250361.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq hold steady as US-Canada trade tensions heat up",
+   "t": "This Business Travel Software Stock Flies High. What Will Be Its Next Move?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-tariffs-oil-080527092.html"
+   "u": "https://www.investors.com/research/software-company-business-travel-navan-stock-navn/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透第115082期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250360.aspx"
   },
   {
-   "t": "QXO (QXO) is Rebuilding Business Models for Greater Value",
+   "t": "Gold's rally just hit a wall — how to play a tactical pullback with limited risk: Alpha Options Playbook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/qxo-qxo-rebuilding-business-models-163510879.html"
+   "u": "https://finance.yahoo.com/markets/options/article/golds-rally-just-hit-a-wall--how-to-play-a-tactical-pullback-with-limited-risk-alpha-options-playbook-162841841.html"
   },
   {
    "t": "輝達財報前科技股反彈　美股開高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250358.aspx"
   },
   {
-   "t": "Tech stocks today: All eyes on Nvidia earnings, as Apple debuts new Mac Mini, Mac Studio aimed at AI developers",
+   "t": "Trump discloses over 1,000 new stock trades as Democrats highlight his profitable oil sector holdings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-earnings-as-apple-debuts-new-mac-mini-mac-studio-aimed-at-ai-developers-125406169.html"
+   "u": "https://finance.yahoo.com/markets/article/trump-discloses-over-1000-new-stock-trades-as-democrats-highlight-his-profitable-oil-sector-holdings-155232209.html"
   },
   {
    "t": "永豐金：現金股利為主　配發率維持65至70%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250354.aspx"
   },
   {
-   "t": "Nvidia Customers Face a 15% Price Hike | Google Is Spending $200 Billion to Steal Them",
+   "t": "What Does the Pizza Hut Sale Mean for Yum! Brands (YUM)?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-customers-face-15-price-164013458.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/does-pizza-hut-sale-mean-165124600.html"
   }
  ],
  "inst": {
