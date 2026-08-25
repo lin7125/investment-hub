@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 04:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 04:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 15.44,
-   "c": -2.59,
+   "p": 15.48,
+   "c": -2.33,
    "a50": 16.65,
    "a200": 18.45,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.72,
-   "r": 47.5
+   "a20": 15.73,
+   "r": 47.6
   },
   {
    "s": "BZ=F",
-   "p": 85.9,
-   "c": -6.8,
-   "a50": 83.85,
-   "a200": 82.69,
+   "p": 85.35,
+   "c": -7.4,
+   "a50": 83.84,
+   "a200": 82.68,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.97,
-   "r": 46.3
+   "a20": 87.95,
+   "r": 45.5
   },
   {
    "s": "GC=F",
-   "p": 4722.8,
-   "c": 1.77,
-   "a50": 4197.11,
-   "a200": 4505.85,
+   "p": 4725.2,
+   "c": 1.82,
+   "a50": 4197.16,
+   "a200": 4505.86,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4340.82,
-   "r": 77.2
+   "a20": 4340.94,
+   "r": 77.3
   },
   {
    "s": "HG=F",
    "p": 6.71,
-   "c": 1.73,
+   "c": 1.71,
    "a50": 6.38,
    "a200": 5.92,
    "yh": 6.71,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260003.aspx"
   },
   {
-   "t": "Inside Cintas Corp. (CTAS) Operational AI Integration",
+   "t": "Hackers Breach Apollo Global (APO) Right as Assets Hit $1 Trillion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/inside-cintas-corp-ctas-operational-112324643.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hackers-breach-apollo-global-apo-113803588.html"
   },
   {
    "t": "美國對伊朗制裁未見明顯衝擊  歐股收盤漲多跌少",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260002.aspx"
   },
   {
-   "t": "Neura Robotics acquires Adlatus to build physical AI powerhouse",
+   "t": "Inside Cintas Corp. (CTAS) Operational AI Integration",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/neura-robotics-acquires-adlatus-build-111558970.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/inside-cintas-corp-ctas-operational-112324643.html"
   },
   {
    "t": "蘋果發表M6及M5 Ultra晶片　強化桌機AI運算能力",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ait/202608250371.aspx"
   },
   {
-   "t": "Evaluating RELX PLC’s (RELX) Enterprise Advantages in the AI Era",
+   "t": "InterContinental Hotels Group (IHG): AI Search Functions Improve Visibility and Customer Reach",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/evaluating-relx-plc-relx-enterprise-112742618.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-hotels-group-ihg-ai-112621891.html"
   },
   {
    "t": "星媒：美施壓伊朗之際  試圖避免與中國爆發更廣泛經濟外交衝突",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/acn/202608250363.aspx"
   },
   {
-   "t": "InterContinental Hotels Group (IHG): AI Search Functions Improve Visibility and Customer Reach",
+   "t": "IonQ vs. Rigetti: The Better Quantum Computing Stock for Long-Term Investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-hotels-group-ihg-ai-112621891.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ionq-vs-rigetti-better-quantum-113002506.html"
   },
   {
    "t": "今彩539第115206期　頭獎1注中獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250361.aspx"
   },
   {
-   "t": "Week in review: Bank of America bans consecutive remote days",
+   "t": "Companies that roll back DEI don’t perform better financially, study says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/week-review-bank-america-bans-112600663.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/companies-roll-back-dei-don-112600368.html"
   }
  ],
  "inst": {
