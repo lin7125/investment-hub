@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-25 13:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 13:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2380.0,
-   "c": 0.21,
-   "a50": 2392.6,
-   "a200": 1976.3,
+   "p": 2375.0,
+   "c": 0.0,
+   "a50": 2392.5,
+   "a200": 1976.28,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2367.5,
-   "r": 50.2
+   "a20": 2367.25,
+   "r": 49.7
   },
   {
    "s": "2317.TW",
@@ -25,80 +25,80 @@
   },
   {
    "s": "2308.TW",
-   "p": 1680.0,
-   "c": -3.17,
-   "a50": 1841.6,
-   "a200": 1547.5,
+   "p": 1675.0,
+   "c": -3.46,
+   "a50": 1841.5,
+   "a200": 1547.47,
    "yh": 2520.0,
    "yl": 676.0,
-   "a20": 1720.25,
-   "r": 41.8
+   "a20": 1720.0,
+   "r": 41.5
   },
   {
    "s": "2454.TW",
-   "p": 3690.0,
-   "c": -1.99,
-   "a50": 3927.6,
-   "a200": 2535.35,
+   "p": 3685.0,
+   "c": -2.12,
+   "a50": 3927.5,
+   "a200": 2535.32,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3834.5,
-   "r": 44.4
+   "a20": 3834.25,
+   "r": 44.3
   },
   {
    "s": "2327.TW",
-   "p": 537.0,
-   "c": -2.54,
-   "a50": 760.35,
-   "a200": 440.72,
+   "p": 533.0,
+   "c": -3.27,
+   "a50": 760.27,
+   "a200": 440.7,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 565.58,
-   "r": 38.5
+   "a20": 565.38,
+   "r": 38.0
   },
   {
    "s": "1802.TW",
-   "p": 57.3,
-   "c": 0.7,
+   "p": 57.2,
+   "c": 0.53,
    "a50": 59.95,
    "a200": 53.3,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 53.93,
-   "r": 51.9
+   "r": 51.7
   },
   {
    "s": "6862.TW",
-   "p": 135.0,
-   "c": -1.46,
-   "a50": 162.66,
+   "p": 135.5,
+   "c": -1.09,
+   "a50": 162.67,
    "a200": 175.28,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 138.32,
-   "r": 38.1
+   "a20": 138.35,
+   "r": 38.6
   },
   {
    "s": "3701.TW",
-   "p": 40.8,
-   "c": 2.51,
+   "p": 40.65,
+   "c": 2.14,
    "a50": 41.74,
    "a200": 48.95,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.76,
-   "r": 50.2
+   "a20": 39.75,
+   "r": 49.7
   },
   {
    "s": "4722.TW",
-   "p": 204.0,
-   "c": 0.74,
-   "a50": 234.47,
-   "a200": 199.8,
+   "p": 201.0,
+   "c": -0.74,
+   "a50": 234.41,
+   "a200": 199.78,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 203.2,
-   "r": 45.3
+   "a20": 203.05,
+   "r": 43.9
   },
   {
    "s": "6706.TW",
@@ -113,36 +113,36 @@
   },
   {
    "s": "2305.TW",
-   "p": 26.3,
-   "c": -1.31,
+   "p": 26.7,
+   "c": 0.19,
    "a50": 32.55,
    "a200": 19.1,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.22,
-   "r": 41.4
+   "a20": 28.24,
+   "r": 42.5
   },
   {
    "s": "6442.TW",
-   "p": 1565.0,
-   "c": 7.19,
-   "a50": 1505.7,
-   "a200": 1611.9,
+   "p": 1580.0,
+   "c": 8.22,
+   "a50": 1506.0,
+   "a200": 1611.98,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1425.25,
-   "r": 55.2
+   "a20": 1426.0,
+   "r": 55.9
   },
   {
    "s": "6515.TW",
-   "p": 6160.0,
-   "c": 0.24,
-   "a50": 7327.6,
-   "a200": 6128.18,
+   "p": 6105.0,
+   "c": -0.65,
+   "a50": 7326.5,
+   "a200": 6127.9,
    "yh": 10795.0,
    "yl": 1130.0,
-   "a20": 6428.0,
-   "r": 40.3
+   "a20": 6425.25,
+   "r": 39.5
   },
   {
    "s": "6446.TW",
@@ -157,25 +157,25 @@
   },
   {
    "s": "3324.TWO",
-   "p": 1070.0,
-   "c": 5.42,
-   "a50": 972.74,
-   "a200": 998.32,
+   "p": 1065.0,
+   "c": 4.93,
+   "a50": 972.64,
+   "a200": 998.3,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 983.7,
-   "r": 61.2
+   "a20": 983.45,
+   "r": 60.7
   },
   {
    "s": "3491.TWO",
-   "p": 1280.0,
-   "c": -0.78,
-   "a50": 1271.74,
-   "a200": 1219.78,
+   "p": 1260.0,
+   "c": -2.33,
+   "a50": 1271.34,
+   "a200": 1219.68,
    "yh": 2200.0,
    "yl": 352.0,
-   "a20": 1225.6,
-   "r": 50.9
+   "a20": 1224.6,
+   "r": 49.4
   },
   {
    "s": "3585.TWO",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5560.0,
-   "c": -0.09,
-   "a50": 6147.8,
-   "a200": 4145.58,
+   "p": 5550.0,
+   "c": -0.27,
+   "a50": 6147.6,
+   "a200": 4145.52,
    "yh": 7380.0,
    "yl": 1255.0,
-   "a20": 5793.0,
-   "r": 45.1
+   "a20": 5792.5,
+   "r": 45.0
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44774.84,
-   "c": 0.03,
-   "a50": 44908.15,
-   "a200": 36514.7,
+   "p": 44718.38,
+   "c": -0.1,
+   "a50": 44907.02,
+   "a200": 36514.42,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44302.7,
-   "r": 50.9
+   "a20": 44299.88,
+   "r": 50.6
   },
   {
    "s": "^GSPC",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 92.14,
-   "c": -0.03,
+   "p": 92.09,
+   "c": -0.09,
    "a50": 83.97,
    "a200": 82.72,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.28,
-   "r": 56.6
+   "r": 56.5
   },
   {
    "s": "GC=F",
-   "p": 4682.7,
-   "c": 0.9,
-   "a50": 4196.31,
-   "a200": 4505.65,
+   "p": 4685.3,
+   "c": 0.96,
+   "a50": 4196.36,
+   "a200": 4505.66,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4338.81,
-   "r": 75.9
+   "a20": 4338.94,
+   "r": 76.0
   },
   {
    "s": "HG=F",
    "p": 6.58,
-   "c": -0.3,
+   "c": -0.24,
    "a50": 6.38,
    "a200": 5.92,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.55,
-   "r": 56.2
+   "r": 56.6
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250111.aspx"
   },
   {
-   "t": "Jim Cramer doubles down on his bold call on memory stocks",
+   "t": "SentinelOne Is Up 42% This Year and Reports Earnings on August 27. Should You Buy Before the Earnings Release?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doubles-down-bold-173300215.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sentinelone-42-reports-earnings-august-174000735.html"
   },
   {
    "t": "AI助攻循環經濟　經部：從回收再利用邁向智慧循環",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608250104.aspx"
   },
   {
-   "t": "Nvidia Earnings, Jackson Hole and Other Key Things to Watch this Week",
+   "t": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-jackson-hole-other-170002056.html"
+   "u": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html"
   },
   {
    "t": "Gogoro：上半年和第2季毛利率走高　連5季現金流正向",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250097.aspx"
   },
   {
-   "t": "Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy",
+   "t": "How to Play MRVL Stock Now as Marvell Technology Expands Its Relationship With Google",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/play-mrvl-stock-now-marvell-183002715.html"
   },
   {
    "t": "新台幣午盤貶3.5分　暫收31.889元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250094.aspx"
   },
   {
-   "t": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
+   "t": "Ahead of Nvidia Earnings, Here's What Barchart Data Says Comes Next for NVDA Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-nvidia-earnings-heres-barchart-190002391.html"
   },
   {
    "t": "豪雨來襲35處積水未退　水利署支援80台抽水機",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250081.aspx"
   },
   {
-   "t": "Dropbox's Chief Accounting Officer Had 5,854 Shares Withheld. Here's What Investors Should Know",
+   "t": "The Real Cost of Retiring in Myrtle Beach, South Carolina, on $2,500 a Month",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dropboxs-chief-accounting-officer-had-173219213.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/real-cost-retiring-myrtle-beach-173943618.html"
   }
  ],
  "inst": {
