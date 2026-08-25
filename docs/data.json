@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 10:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 10:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,168 +14,168 @@
   },
   {
    "s": "2317.TW",
-   "p": 238.5,
-   "c": -2.05,
-   "a50": 249.63,
+   "p": 239.0,
+   "c": -1.85,
+   "a50": 249.64,
    "a200": 235.7,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.25,
-   "r": 40.0
+   "a20": 252.28,
+   "r": 40.3
   },
   {
    "s": "2308.TW",
-   "p": 1675.0,
-   "c": -3.46,
-   "a50": 1841.5,
-   "a200": 1547.47,
+   "p": 1665.0,
+   "c": -4.03,
+   "a50": 1841.3,
+   "a200": 1547.42,
    "yh": 2520.0,
    "yl": 676.0,
-   "a20": 1720.0,
-   "r": 41.5
+   "a20": 1719.5,
+   "r": 40.9
   },
   {
    "s": "2454.TW",
-   "p": 3695.0,
-   "c": -1.86,
-   "a50": 3927.7,
-   "a200": 2535.38,
+   "p": 3675.0,
+   "c": -2.39,
+   "a50": 3927.3,
+   "a200": 2535.28,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3834.75,
-   "r": 44.6
+   "a20": 3833.75,
+   "r": 44.0
   },
   {
    "s": "2327.TW",
-   "p": 518.0,
-   "c": -5.99,
-   "a50": 759.97,
-   "a200": 440.63,
+   "p": 517.0,
+   "c": -6.17,
+   "a50": 759.95,
+   "a200": 440.62,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 564.62,
-   "r": 36.6
+   "a20": 564.58,
+   "r": 36.5
   },
   {
    "s": "1802.TW",
-   "p": 56.3,
-   "c": -1.05,
-   "a50": 59.93,
+   "p": 56.1,
+   "c": -1.41,
+   "a50": 59.92,
    "a200": 53.3,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 53.88,
-   "r": 49.5
+   "a20": 53.87,
+   "r": 49.0
   },
   {
    "s": "6862.TW",
-   "p": 133.0,
-   "c": -2.92,
-   "a50": 162.62,
+   "p": 132.5,
+   "c": -3.28,
+   "a50": 162.61,
    "a200": 175.27,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 138.22,
-   "r": 36.6
+   "a20": 138.2,
+   "r": 36.2
   },
   {
    "s": "3701.TW",
-   "p": 39.7,
-   "c": -0.25,
-   "a50": 41.72,
+   "p": 39.2,
+   "c": -1.51,
+   "a50": 41.71,
    "a200": 48.94,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.7,
-   "r": 46.2
+   "a20": 39.68,
+   "r": 44.6
   },
   {
    "s": "4722.TW",
-   "p": 201.0,
-   "c": -0.74,
-   "a50": 234.41,
+   "p": 200.0,
+   "c": -1.23,
+   "a50": 234.39,
    "a200": 199.78,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 203.05,
-   "r": 43.9
+   "a20": 203.0,
+   "r": 43.4
   },
   {
    "s": "6706.TW",
-   "p": 115.5,
-   "c": 0.87,
-   "a50": 127.29,
+   "p": 114.5,
+   "c": 0.0,
+   "a50": 127.27,
    "a200": 127.97,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 111.95,
-   "r": 47.4
+   "a20": 111.9,
+   "r": 46.4
   },
   {
    "s": "2305.TW",
-   "p": 25.8,
-   "c": -3.19,
+   "p": 25.85,
+   "c": -3.0,
    "a50": 32.54,
    "a200": 19.09,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.19,
-   "r": 40.2
+   "a20": 28.2,
+   "r": 40.4
   },
   {
    "s": "6442.TW",
-   "p": 1450.0,
-   "c": -0.68,
-   "a50": 1503.4,
-   "a200": 1611.32,
+   "p": 1440.0,
+   "c": -1.37,
+   "a50": 1503.2,
+   "a200": 1611.28,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1419.5,
-   "r": 48.6
+   "a20": 1419.0,
+   "r": 48.0
   },
   {
    "s": "6515.TW",
-   "p": 6005.0,
-   "c": -2.28,
-   "a50": 7324.5,
-   "a200": 6127.4,
+   "p": 6000.0,
+   "c": -2.36,
+   "a50": 7324.4,
+   "a200": 6127.38,
    "yh": 10795.0,
    "yl": 1130.0,
-   "a20": 6420.25,
+   "a20": 6420.0,
    "r": 38.1
   },
   {
    "s": "6446.TW",
-   "p": 1450.0,
-   "c": -1.69,
-   "a50": 1228.73,
-   "a200": 739.76,
+   "p": 1445.0,
+   "c": -2.03,
+   "a50": 1228.63,
+   "a200": 739.73,
    "yh": 1500.0,
    "yl": 401.71,
-   "a20": 1324.75,
-   "r": 61.1
+   "a20": 1324.5,
+   "r": 60.6
   },
   {
    "s": "3324.TWO",
-   "p": 1000.0,
-   "c": -1.48,
-   "a50": 971.34,
-   "a200": 997.97,
+   "p": 1015.0,
+   "c": 0.0,
+   "a50": 971.64,
+   "a200": 998.04,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 980.2,
-   "r": 52.7
+   "a20": 980.95,
+   "r": 55.0
   },
   {
    "s": "3491.TWO",
-   "p": 1245.0,
-   "c": -3.49,
-   "a50": 1271.04,
-   "a200": 1219.6,
+   "p": 1230.0,
+   "c": -4.65,
+   "a50": 1270.74,
+   "a200": 1219.53,
    "yh": 2200.0,
    "yl": 352.0,
-   "a20": 1223.85,
-   "r": 48.4
+   "a20": 1223.1,
+   "r": 47.4
   },
   {
    "s": "3585.TWO",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5440.0,
-   "c": -2.25,
-   "a50": 6145.4,
-   "a200": 4144.98,
+   "p": 5400.0,
+   "c": -2.96,
+   "a50": 6144.6,
+   "a200": 4144.77,
    "yh": 7380.0,
    "yl": 1255.0,
-   "a20": 5787.0,
-   "r": 43.5
+   "a20": 5785.0,
+   "r": 43.0
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44403.91,
-   "c": -0.8,
-   "a50": 44900.73,
-   "a200": 36512.85,
+   "p": 44312.75,
+   "c": -1.0,
+   "a50": 44898.91,
+   "a200": 36512.39,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44284.16,
-   "r": 48.5
+   "a20": 44279.6,
+   "r": 47.9
   },
   {
    "s": "^GSPC",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 92.79,
-   "c": -1.7,
+   "p": 92.76,
+   "c": -1.73,
    "a50": 83.89,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.91,
-   "r": 57.9
+   "r": 57.8
   },
   {
    "s": "GC=F",
-   "p": 4697.6,
-   "c": 1.59,
-   "a50": 4188.09,
-   "a200": 4502.42,
+   "p": 4705.7,
+   "c": 1.76,
+   "a50": 4188.25,
+   "a200": 4502.46,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.33,
-   "r": 76.2
+   "a20": 4309.74,
+   "r": 76.5
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.34,
+   "c": 0.33,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03137747,
-   "c": -0.14,
+   "p": 0.03138732,
+   "c": -0.11,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -332,22 +332,22 @@
  ],
  "news": [
   {
-   "t": "新台幣開盤貶0.6分　為31.86元",
+   "t": "賴建信視察南部淹水情形　強化中央地方合作提升防洪韌性",
    "pub": "中央社財經",
    "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250021.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608250037.aspx"
   },
   {
-   "t": "Amazon's Free Cash Flow Went Negative by $7.6 Billion Even as Operating Cash Flow Rose 33%. Here's the Gap AI Capex Is Actually Creating.",
+   "t": "The Stock Market Is Repeating a Pattern Not Seen in Decades. Here's What History Says Comes Next.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amazons-free-cash-flow-went-143500432.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-repeating-pattern-not-150500239.html"
   },
   {
-   "t": "台股開盤跌33.96點",
+   "t": "2027年統籌分配款台北市1264億居冠　新北人均配額最低",
    "pub": "中央社財經",
    "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250020.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608250036.aspx"
   },
   {
    "t": "Luxury auto CEOs say there's a K-shaped economy even at the very top of the market",
@@ -356,22 +356,10 @@
    "u": "https://finance.yahoo.com/markets/article/luxury-auto-ceos-say-theres-a-k-shaped-economy-even-at-the-very-top-of-the-market-145500874.html"
   },
   {
-   "t": "美半導體股挫跌　法人：台股待補量關注華許演說",
+   "t": "華爾街搶用AI如魔鬼交易　高盛憂年輕人才思考力退化",
    "pub": "中央社財經",
    "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250016.aspx"
-  },
-  {
-   "t": "Nvidia Stock Is Treading Water Ahead of Earnings This Week - What's the Best NVDA Play?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-treading-water-ahead-143002140.html"
-  },
-  {
-   "t": "投資人權衡美國經濟施壓伊朗　華爾街股市多收跌",
-   "pub": "中央社財經",
-   "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250010.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608250026.aspx"
   },
   {
    "t": "Rocket Mortgage pushes home equity loans to wipe out credit card debt — here's how that could backfire on homeowners",
@@ -380,28 +368,40 @@
    "u": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-pushes-home-equity-150000372.html"
   },
   {
-   "t": "市場衡量美國擴大施壓伊朗　國際油價回落",
+   "t": "台積電領跌　台股早盤挫逾500點回測月線支撐",
    "pub": "中央社財經",
    "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250008.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608250024.aspx"
   },
   {
-   "t": "Duolingo Stock Is Shaking Off AI Fears",
+   "t": "Nvidia Stock Is Treading Water Ahead of Earnings This Week - What's the Best NVDA Play?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/duolingo-stock-shaking-off-ai-141502170.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-treading-water-ahead-143002140.html"
   },
   {
-   "t": "美國要向伊朗發動經濟戰　歐洲股市普遍收跌",
+   "t": "新台幣開盤貶0.6分　為31.86元",
    "pub": "中央社財經",
    "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250002.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608250021.aspx"
   },
   {
-   "t": "Warren Buffett explains investing sin Munger called 'thumb-sucking'",
+   "t": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-explains-investing-sin-143700822.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html"
+  },
+  {
+   "t": "台股開盤跌33.96點",
+   "pub": "中央社財經",
+   "d": "2026-08-25",
+   "u": "https://www.cna.com.tw/news/afe/202608250020.aspx"
+  },
+  {
+   "t": "This is One of the Cheapest Magnificent Seven Stocks Right Now",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/one-cheapest-magnificent-seven-stocks-150054957.html"
   }
  ],
  "inst": {
