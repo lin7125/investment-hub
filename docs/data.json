@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 00:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 00:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 309.57,
-   "c": -0.25,
+   "p": 309.45,
+   "c": -0.29,
    "a50": 310.87,
    "a200": 281.9,
    "yh": 340.08,
    "yl": 226.79,
    "a20": 311.48,
-   "r": 47.5
+   "r": 47.4
   },
   {
    "s": "NVDA",
-   "p": 211.81,
-   "c": 1.6,
+   "p": 211.84,
+   "c": 1.61,
    "a50": 207.78,
    "a200": 195.42,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 354.05,
-   "c": 1.46,
-   "a50": 363.81,
+   "p": 353.76,
+   "c": 1.38,
+   "a50": 363.8,
    "a200": 402.3,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 332.46,
-   "r": 53.5
+   "a20": 332.44,
+   "r": 53.3
   },
   {
    "s": "META",
-   "p": 564.84,
-   "c": 1.04,
+   "p": 565.08,
+   "c": 1.08,
    "a50": 592.76,
    "a200": 623.43,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.31,
-   "r": 44.6
+   "a20": 573.33,
+   "r": 44.7
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7675.1,
-   "c": 0.29,
-   "a50": 7551.09,
-   "a200": 7104.52,
+   "p": 7672.45,
+   "c": 0.26,
+   "a50": 7551.04,
+   "a200": 7104.51,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.73,
-   "r": 53.8
+   "a20": 7668.59,
+   "r": 53.5
   },
   {
    "s": "^VIX",
-   "p": 15.61,
-   "c": -1.51,
+   "p": 15.51,
+   "c": -2.15,
    "a50": 16.65,
    "a200": 18.45,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.73,
-   "r": 48.2
+   "r": 47.8
   },
   {
    "s": "BZ=F",
-   "p": 87.16,
-   "c": -5.44,
-   "a50": 83.87,
-   "a200": 82.69,
+   "p": 87.46,
+   "c": -5.11,
+   "a50": 83.88,
+   "a200": 82.7,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.04,
-   "r": 48.0
+   "a20": 88.05,
+   "r": 48.5
   },
   {
    "s": "GC=F",
-   "p": 4707.7,
-   "c": 1.44,
-   "a50": 4196.81,
-   "a200": 4505.77,
+   "p": 4704.8,
+   "c": 1.38,
+   "a50": 4196.75,
+   "a200": 4505.76,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4340.06,
-   "r": 76.7
+   "a20": 4339.92,
+   "r": 76.6
   },
   {
    "s": "HG=F",
-   "p": 6.69,
-   "c": 1.45,
+   "p": 6.71,
+   "c": 1.74,
    "a50": 6.38,
    "a200": 5.92,
-   "yh": 6.7,
+   "yh": 6.71,
    "yl": 4.41,
    "a20": 6.56,
-   "r": 63.0
+   "r": 63.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03138732,
-   "c": -0.11,
+   "c": -0.13,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "永豐金：現金股利為主　配發率維持65至70%",
+   "t": "蘋果發表M6及M5 Ultra晶片　強化桌機AI運算能力",
    "pub": "中央社財經",
    "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250354.aspx"
+   "u": "https://www.cna.com.tw/news/ait/202608250371.aspx"
   },
   {
    "t": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-cathie-wood-agree-191300323.html"
   },
   {
-   "t": "中央災害應變中心維持二級開設　760戶停電搶修",
+   "t": "星媒：美施壓伊朗之際  試圖避免與中國爆發更廣泛經濟外交衝突",
    "pub": "中央社財經",
    "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250353.aspx"
+   "u": "https://www.cna.com.tw/news/acn/202608250363.aspx"
   },
   {
    "t": "Trump discloses over 1,000 new stock trades as Democrats highlight his profitable oil sector holdings",
@@ -356,10 +356,22 @@
    "u": "https://finance.yahoo.com/markets/article/trump-discloses-over-1000-new-stock-trades-as-democrats-highlight-his-profitable-oil-sector-holdings-155232209.html"
   },
   {
-   "t": "外幣保單上半年新契約保費2865億元　創5年同期新高",
+   "t": "今彩539第115206期　頭獎1注中獎",
    "pub": "中央社財經",
    "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250352.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608250361.aspx"
+  },
+  {
+   "t": "Ultragenyx (RARE) Jumped 7.5% on FDA Approval. Can a $2.7 Million Gene Therapy Become a Commercial Success?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/healthcare/articles/ultragenyx-rare-jumped-7-5-155003574.html"
+  },
+  {
+   "t": "大樂透第115082期　頭獎槓龜",
+   "pub": "中央社財經",
+   "d": "2026-08-25",
+   "u": "https://www.cna.com.tw/news/ahel/202608250360.aspx"
   },
   {
    "t": "Vanguard strategist says retirees need 'a complete mind shift' — and shares 4 principles to ease financial anxiety",
@@ -368,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/articles/vanguard-strategist-says-retirees-complete-155000131.html"
   },
   {
-   "t": "大樂透第115082期開獎",
+   "t": "輝達財報前科技股反彈　美股開高",
    "pub": "中央社財經",
    "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/ahel/202608250347.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608250358.aspx"
   },
   {
    "t": "MrBeast claims he has 'negative money' despite $2.6B net worth —  Mark Cuban says that's more common than you'd expect",
@@ -380,28 +392,16 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/mrbeast-claims-negative-money-despite-154500480.html"
   },
   {
-   "t": "今彩539第115206期開獎",
+   "t": "永豐金：現金股利為主　配發率維持65至70%",
    "pub": "中央社財經",
    "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250344.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608250354.aspx"
   },
   {
-   "t": "AI and Insurance: Is Brown & Brown (BRO) Facing Extinction or Evolution?",
+   "t": "Dell Technologies vs. UiPath: Which Technology Stock Is a Better Buy in 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ai-insurance-brown-brown-bro-154458048.html"
-  },
-  {
-   "t": "彰銀首談併購可行性評估　規模不是唯一考量",
-   "pub": "中央社財經",
-   "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250340.aspx"
-  },
-  {
-   "t": "Lowe’s (LOW) Cut Its Outlook. Is Pro Demand Strong Enough to Offset the DIY Slump?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lowe-low-cut-outlook-pro-154428146.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-vs-uipath-technology-155004308.html"
   }
  ],
  "inst": {
