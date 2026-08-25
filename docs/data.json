@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 04:43（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 04:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,24 +289,24 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.55,
-   "c": -7.18,
+   "p": 85.6,
+   "c": -7.13,
    "a50": 83.84,
    "a200": 82.69,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.96,
-   "r": 45.8
+   "r": 45.9
   },
   {
    "s": "GC=F",
-   "p": 4720.3,
-   "c": 1.71,
-   "a50": 4197.06,
-   "a200": 4505.84,
+   "p": 4719.1,
+   "c": 1.69,
+   "a50": 4197.04,
+   "a200": 4505.83,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4340.69,
+   "a20": 4340.63,
    "r": 77.1
   },
   {
@@ -318,12 +318,12 @@
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.56,
-   "r": 63.8
+   "r": 63.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": -0.05,
+   "p": 0.0314169,
+   "c": -0.03,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260003.aspx"
   },
   {
-   "t": "Is Wall Street Bullish or Bearish on BXP Stock?",
+   "t": "Are Wall Street Analysts Bullish on VeriSign Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-bxp-115852610.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-verisign-120318309.html"
   },
   {
    "t": "美國對伊朗制裁未見明顯衝擊  歐股收盤漲多跌少",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260002.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Predicting Lam Research Stock Will Climb or Sink?",
+   "t": "Trip.com (TCOM): China’s Largest Travel Platform Set for Long Term Gains",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-lam-115104400.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-china-largest-120739032.html"
   },
   {
    "t": "蘋果發表M6及M5 Ultra晶片　強化桌機AI運算能力",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ait/202608250371.aspx"
   },
   {
-   "t": "Alphabet’s (GOOG) Sustainable Growth Outlook Appears Stronger Than Expectations",
+   "t": "Streaming Scale and Global Base Power Netflix’s (NFLX) Next Phase of Monetization",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-sustainable-growth-outlook-114703202.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/streaming-scale-global-power-netflix-120428736.html"
   },
   {
    "t": "星媒：美施壓伊朗之際  試圖避免與中國爆發更廣泛經濟外交衝突",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/acn/202608250363.aspx"
   },
   {
-   "t": "Streaming Scale and Global Base Power Netflix’s (NFLX) Next Phase of Monetization",
+   "t": "Nvidia earnings face a frustrating reality",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/streaming-scale-global-power-netflix-120428736.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/nvidia-earnings-face-a-frustrating-reality-103234712.html"
   },
   {
    "t": "今彩539第115206期　頭獎1注中獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250361.aspx"
   },
   {
-   "t": "Grocers need to pivot as Gen Z families enter the mainstream, report finds",
+   "t": "A 75-Day Seasonal Sell Window Is Opening in the Euro—Are You Prepared?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/grocers-pivot-gen-z-families-115000237.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/75-day-seasonal-sell-window-120337880.html"
   }
  ],
  "inst": {
