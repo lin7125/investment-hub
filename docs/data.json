@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 00:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 00:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,18 +212,18 @@
   },
   {
    "s": "AAPL",
-   "p": 309.62,
-   "c": -0.23,
+   "p": 309.57,
+   "c": -0.25,
    "a50": 310.87,
    "a200": 281.9,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 311.49,
-   "r": 47.6
+   "a20": 311.48,
+   "r": 47.5
   },
   {
    "s": "NVDA",
-   "p": 211.82,
+   "p": 211.81,
    "c": 1.6,
    "a50": 207.78,
    "a200": 195.42,
@@ -234,8 +234,8 @@
   },
   {
    "s": "TSLA",
-   "p": 354.09,
-   "c": 1.47,
+   "p": 354.05,
+   "c": 1.46,
    "a50": 363.81,
    "a200": 402.3,
    "yh": 489.88,
@@ -267,10 +267,10 @@
   },
   {
    "s": "^GSPC",
-   "p": 7675.23,
+   "p": 7675.1,
    "c": 0.29,
    "a50": 7551.09,
-   "a200": 7104.53,
+   "a200": 7104.52,
    "yh": 7798.99,
    "yl": 6343.72,
    "a20": 7668.73,
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 15.6,
-   "c": -1.58,
+   "p": 15.61,
+   "c": -1.51,
    "a50": 16.65,
    "a200": 18.45,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.1,
-   "c": -5.5,
+   "p": 87.16,
+   "c": -5.44,
    "a50": 83.87,
    "a200": 82.69,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.03,
-   "r": 47.9
+   "a20": 88.04,
+   "r": 48.0
   },
   {
    "s": "GC=F",
-   "p": 4707.0,
-   "c": 1.43,
-   "a50": 4196.79,
+   "p": 4707.7,
+   "c": 1.44,
+   "a50": 4196.81,
    "a200": 4505.77,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4340.03,
+   "a20": 4340.06,
    "r": 76.7
   },
   {
    "s": "HG=F",
    "p": 6.69,
-   "c": 1.36,
+   "c": 1.45,
    "a50": 6.38,
    "a200": 5.92,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.56,
-   "r": 62.7
+   "r": 63.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03139717,
-   "c": -0.1,
+   "p": 0.03138732,
+   "c": -0.11,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250353.aspx"
   },
   {
-   "t": "AI and Insurance: Is Brown & Brown (BRO) Facing Extinction or Evolution?",
+   "t": "Trump discloses over 1,000 new stock trades as Democrats highlight his profitable oil sector holdings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ai-insurance-brown-brown-bro-154458048.html"
+   "u": "https://finance.yahoo.com/markets/article/trump-discloses-over-1000-new-stock-trades-as-democrats-highlight-his-profitable-oil-sector-holdings-155232209.html"
   },
   {
    "t": "外幣保單上半年新契約保費2865億元　創5年同期新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250352.aspx"
   },
   {
-   "t": "Lowe’s (LOW) Cut Its Outlook. Is Pro Demand Strong Enough to Offset the DIY Slump?",
+   "t": "Vanguard strategist says retirees need 'a complete mind shift' — and shares 4 principles to ease financial anxiety",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lowe-low-cut-outlook-pro-154428146.html"
+   "u": "https://finance.yahoo.com/markets/articles/vanguard-strategist-says-retirees-complete-155000131.html"
   },
   {
    "t": "大樂透第115082期開獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250347.aspx"
   },
   {
-   "t": "Bitdeer Adds 28 MW at Soluna’s Wind-Powered Texas Mining Site",
+   "t": "MrBeast claims he has 'negative money' despite $2.6B net worth —  Mark Cuban says that's more common than you'd expect",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-adds-28-mw-soluna-153800582.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mrbeast-claims-negative-money-despite-154500480.html"
   },
   {
    "t": "今彩539第115206期開獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250344.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq hold steady as US-Canada trade tensions heat up",
+   "t": "AI and Insurance: Is Brown & Brown (BRO) Facing Extinction or Evolution?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-tariffs-oil-080527092.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ai-insurance-brown-brown-bro-154458048.html"
   },
   {
    "t": "彰銀首談併購可行性評估　規模不是唯一考量",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250340.aspx"
   },
   {
-   "t": "Hyundai Motor reaches tentative wage deal with union",
+   "t": "Lowe’s (LOW) Cut Its Outlook. Is Pro Demand Strong Enough to Offset the DIY Slump?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/hyundai-motor-reaches-tentative-wage-154128451.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lowe-low-cut-outlook-pro-154428146.html"
   }
  ],
  "inst": {
