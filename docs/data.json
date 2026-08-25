@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 309.7,
-   "c": -0.21,
+   "p": 309.71,
+   "c": -0.2,
    "a50": 310.87,
    "a200": 281.9,
    "yh": 340.08,
@@ -223,7 +223,7 @@
   },
   {
    "s": "NVDA",
-   "p": 212.31,
+   "p": 212.32,
    "c": 1.84,
    "a50": 207.79,
    "a200": 195.42,
@@ -234,8 +234,8 @@
   },
   {
    "s": "TSLA",
-   "p": 353.23,
-   "c": 1.23,
+   "p": 353.22,
+   "c": 1.22,
    "a50": 363.79,
    "a200": 402.3,
    "yh": 489.88,
@@ -267,13 +267,13 @@
   },
   {
    "s": "^GSPC",
-   "p": 7667.59,
+   "p": 7667.7,
    "c": 0.19,
    "a50": 7550.94,
    "a200": 7104.49,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.35,
+   "a20": 7668.36,
    "r": 53.1
   },
   {
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03138732,
-   "c": -0.12,
+   "c": -0.13,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/acn/202608250363.aspx"
   },
   {
-   "t": "Canadian Pacific Kansas City (CP) Reaffirms 36.9% Locomotive Emissions Reduction Goal by 2030",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq hold steady as US-Canada trade tensions heat up",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/canadian-pacific-kansas-city-cp-172304493.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-tariffs-oil-080527092.html"
   },
   {
    "t": "今彩539第115206期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250361.aspx"
   },
   {
-   "t": "HELOC, refinance or home equity loan: What’s the best way to borrow against your home?",
+   "t": "Canadian Pacific Kansas City (CP) Reaffirms 36.9% Locomotive Emissions Reduction Goal by 2030",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/home-equity-loan-heloc-vs-214358568.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/canadian-pacific-kansas-city-cp-172304493.html"
   },
   {
    "t": "大樂透第115082期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250360.aspx"
   },
   {
-   "t": "Earnings live updates: Dick's Sporting Goods stock plummets nearly 30%, management warns of 'pain' ahead",
+   "t": "HELOC, refinance or home equity loan: What’s the best way to borrow against your home?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html"
+   "u": "https://finance.yahoo.com/news/home-equity-loan-heloc-vs-214358568.html"
   },
   {
    "t": "輝達財報前科技股反彈　美股開高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250358.aspx"
   },
   {
-   "t": "Mortgage and refinance interest rates today, Tuesday, August 25, 2026: Rates mixed this morning",
+   "t": "Earnings live updates: Dick's Sporting Goods stock plummets nearly 30%, management warns of 'pain' ahead",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-august-25-2026-rates-mixed-this-morning-100000955.html"
+   "u": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html"
   },
   {
    "t": "永豐金：現金股利為主　配發率維持65至70%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250354.aspx"
   },
   {
-   "t": "Anthropic pitches IPO investors on $30 trillion market opportunity",
+   "t": "Schwab SCHD draws $679M as dividend ETF climbs 2.39%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-pitches-ipo-investors-30-172107288.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/schwab-schd-draws-679m-dividend-173300246.html"
   }
  ],
  "inst": {
