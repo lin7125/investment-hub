@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 00:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 00:25（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 309.45,
-   "c": -0.29,
-   "a50": 310.87,
+   "p": 310.05,
+   "c": -0.09,
+   "a50": 310.88,
    "a200": 281.9,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 311.48,
-   "r": 47.4
+   "a20": 311.51,
+   "r": 48.0
   },
   {
    "s": "NVDA",
-   "p": 211.84,
-   "c": 1.61,
-   "a50": 207.78,
+   "p": 212.04,
+   "c": 1.71,
+   "a50": 207.79,
    "a200": 195.42,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 214.52,
-   "r": 48.4
+   "a20": 214.53,
+   "r": 48.6
   },
   {
    "s": "TSLA",
-   "p": 353.76,
-   "c": 1.38,
-   "a50": 363.8,
+   "p": 354.08,
+   "c": 1.47,
+   "a50": 363.81,
    "a200": 402.3,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 332.44,
-   "r": 53.3
+   "a20": 332.46,
+   "r": 53.5
   },
   {
    "s": "META",
-   "p": 565.08,
-   "c": 1.08,
-   "a50": 592.76,
-   "a200": 623.43,
+   "p": 565.86,
+   "c": 1.22,
+   "a50": 592.78,
+   "a200": 623.44,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.33,
-   "r": 44.7
+   "a20": 573.36,
+   "r": 44.9
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7672.45,
-   "c": 0.26,
-   "a50": 7551.04,
-   "a200": 7104.51,
+   "p": 7674.25,
+   "c": 0.28,
+   "a50": 7551.07,
+   "a200": 7104.52,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.59,
-   "r": 53.5
+   "a20": 7668.68,
+   "r": 53.7
   },
   {
    "s": "^VIX",
-   "p": 15.51,
-   "c": -2.15,
+   "p": 15.55,
+   "c": -1.89,
    "a50": 16.65,
    "a200": 18.45,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.73,
-   "r": 47.8
+   "r": 47.9
   },
   {
    "s": "BZ=F",
-   "p": 87.46,
-   "c": -5.11,
+   "p": 87.34,
+   "c": -5.24,
    "a50": 83.88,
-   "a200": 82.7,
+   "a200": 82.69,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.05,
-   "r": 48.5
+   "a20": 88.04,
+   "r": 48.3
   },
   {
    "s": "GC=F",
-   "p": 4704.8,
-   "c": 1.38,
-   "a50": 4196.75,
-   "a200": 4505.76,
+   "p": 4701.5,
+   "c": 1.31,
+   "a50": 4196.68,
+   "a200": 4505.74,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4339.92,
-   "r": 76.6
+   "a20": 4339.75,
+   "r": 76.5
   },
   {
    "s": "HG=F",
    "p": 6.71,
-   "c": 1.74,
+   "c": 1.73,
    "a50": 6.38,
    "a200": 5.92,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.56,
-   "r": 63.9
+   "r": 63.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03138732,
-   "c": -0.13,
+   "c": -0.14,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/acn/202608250363.aspx"
   },
   {
-   "t": "Trump discloses over 1,000 new stock trades as Democrats highlight his profitable oil sector holdings",
+   "t": "‘Please don’t do this’: Dave Ramsey says to ditch this one household expense keeping Americans from becoming wealthy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/trump-discloses-over-1000-new-stock-trades-as-democrats-highlight-his-profitable-oil-sector-holdings-155232209.html"
+   "u": "https://finance.yahoo.com/small-business/articles/please-don-t-dave-ramsey-160500003.html"
   },
   {
    "t": "今彩539第115206期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250361.aspx"
   },
   {
-   "t": "Ultragenyx (RARE) Jumped 7.5% on FDA Approval. Can a $2.7 Million Gene Therapy Become a Commercial Success?",
+   "t": "Stock Market Today: Nasdaq Leads Charge Amid Canada Tariff News; Bloom Energy Extends Gains (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/ultragenyx-rare-jumped-7-5-155003574.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透第115082期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250360.aspx"
   },
   {
-   "t": "Vanguard strategist says retirees need 'a complete mind shift' — and shares 4 principles to ease financial anxiety",
+   "t": "Newmont (NEM) Faces Gold Above $4,500. Will Rising Costs Dilute the Windfall?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/vanguard-strategist-says-retirees-complete-155000131.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/newmont-nem-faces-gold-above-160043045.html"
   },
   {
    "t": "輝達財報前科技股反彈　美股開高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250358.aspx"
   },
   {
-   "t": "MrBeast claims he has 'negative money' despite $2.6B net worth —  Mark Cuban says that's more common than you'd expect",
+   "t": "Rocket Lab Stock: Launch This Bear Put Spread That Aims For A $295 Profit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mrbeast-claims-negative-money-despite-154500480.html"
+   "u": "https://www.investors.com/research/options/rocket-lab-rklb-satellite-space-options-trade-strategy-income-investing-markets/?src=A00220&yptr=yahoo"
   },
   {
    "t": "永豐金：現金股利為主　配發率維持65至70%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250354.aspx"
   },
   {
-   "t": "Dell Technologies vs. UiPath: Which Technology Stock Is a Better Buy in 2026?",
+   "t": "Robinhood Rises 7%, Webull Climbs 4% as a Day Trading Rule Repeal Ignites Retail Crypto Orders",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-vs-uipath-technology-155004308.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/robinhood-rises-7-webull-climbs-160951146.html"
   }
  ],
  "inst": {
