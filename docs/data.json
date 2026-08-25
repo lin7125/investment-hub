@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 14:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 14:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.6,
-   "c": 1.0,
+   "p": 50.7,
+   "c": 1.2,
    "a50": 57.68,
    "a200": 42.73,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 48.21,
-   "r": 48.2
+   "a20": 48.22,
+   "r": 48.4
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 91.31,
-   "c": -0.93,
+   "p": 91.27,
+   "c": -0.98,
    "a50": 83.96,
    "a200": 82.71,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.24,
-   "r": 55.0
+   "r": 54.9
   },
   {
    "s": "GC=F",
-   "p": 4702.7,
-   "c": 1.33,
-   "a50": 4196.71,
-   "a200": 4505.75,
+   "p": 4708.3,
+   "c": 1.45,
+   "a50": 4196.82,
+   "a200": 4505.78,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4339.81,
-   "r": 76.5
+   "a20": 4340.09,
+   "r": 76.7
   },
   {
    "s": "HG=F",
-   "p": 6.61,
-   "c": 0.1,
+   "p": 6.62,
+   "c": 0.25,
    "a50": 6.38,
    "a200": 5.92,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.55,
-   "r": 58.3
+   "r": 58.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03138732,
-   "c": -0.11,
+   "c": -0.13,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250111.aspx"
   },
   {
-   "t": "Nobody Plans to Retire Alone in The Villages. Here’s What It Costs When It Happens",
+   "t": "2 Energy Stocks Riding the Data Center Power Crunch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/nobody-plans-retire-alone-villages-184437724.html"
+   "u": "https://finance.yahoo.com/energy/articles/2-energy-stocks-riding-data-185500169.html"
   },
   {
    "t": "AI助攻循環經濟　經部：從回收再利用邁向智慧循環",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250097.aspx"
   },
   {
-   "t": "How to Play MRVL Stock Now as Marvell Technology Expands Its Relationship With Google",
+   "t": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/play-mrvl-stock-now-marvell-183002715.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html"
   },
   {
    "t": "新台幣午盤貶3.5分　暫收31.889元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250094.aspx"
   },
   {
-   "t": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?",
+   "t": "Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html"
   },
   {
    "t": "豪雨來襲35處積水未退　水利署支援80台抽水機",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250081.aspx"
   },
   {
-   "t": "J.P. Morgan just poured cold water on Bessent's bond fix",
+   "t": "Why Social Security Can't Be the Center of Your Retirement Income Plan",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/j-p-morgan-just-poured-184700637.html"
+   "u": "https://finance.yahoo.com/markets/articles/why-social-security-cant-center-185600538.html"
   }
  ],
  "inst": {
