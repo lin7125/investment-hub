@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 03:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 03:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 308.38,
-   "c": -0.63,
+   "p": 308.44,
+   "c": -0.61,
    "a50": 310.85,
    "a200": 281.89,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 311.42,
+   "a20": 311.43,
    "r": 46.5
   },
   {
    "s": "NVDA",
-   "p": 213.4,
-   "c": 2.36,
-   "a50": 207.81,
+   "p": 212.98,
+   "c": 2.16,
+   "a50": 207.8,
    "a200": 195.43,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 214.6,
-   "r": 49.9
+   "a20": 214.57,
+   "r": 49.5
   },
   {
    "s": "TSLA",
-   "p": 353.48,
-   "c": 1.3,
-   "a50": 363.79,
-   "a200": 402.3,
+   "p": 352.29,
+   "c": 0.96,
+   "a50": 363.77,
+   "a200": 402.29,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 332.43,
-   "r": 53.2
+   "a20": 332.37,
+   "r": 52.8
   },
   {
    "s": "META",
-   "p": 566.57,
-   "c": 1.35,
-   "a50": 592.79,
+   "p": 566.08,
+   "c": 1.26,
+   "a50": 592.78,
    "a200": 623.44,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.4,
-   "r": 45.2
+   "a20": 573.38,
+   "r": 45.0
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7675.86,
-   "c": 0.3,
-   "a50": 7551.11,
-   "a200": 7104.53,
+   "p": 7671.47,
+   "c": 0.24,
+   "a50": 7551.02,
+   "a200": 7104.51,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.76,
-   "r": 53.8
+   "a20": 7668.54,
+   "r": 53.5
   },
   {
    "s": "^VIX",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.18,
-   "c": -5.41,
+   "p": 87.17,
+   "c": -5.42,
    "a50": 83.87,
    "a200": 82.69,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4707.5,
-   "c": 1.44,
-   "a50": 4196.8,
-   "a200": 4505.77,
+   "p": 4711.9,
+   "c": 1.53,
+   "a50": 4196.89,
+   "a200": 4505.79,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4340.05,
-   "r": 76.7
+   "a20": 4340.27,
+   "r": 76.8
   },
   {
    "s": "HG=F",
    "p": 6.7,
-   "c": 1.56,
+   "c": 1.59,
    "a50": 6.38,
    "a200": 5.92,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.56,
-   "r": 63.3
+   "r": 63.4
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ait/202608250371.aspx"
   },
   {
-   "t": "Xpeng's robotics unit valued at over $6.3 billion after record funding round",
+   "t": "Exclusive-India plans first tokenised bond issue in September, sources say",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/xpeng-says-robotics-business-raised-094034493.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/exclusive-india-plans-first-tokenised-102445401.html"
   },
   {
    "t": "星媒：美施壓伊朗之際  試圖避免與中國爆發更廣泛經濟外交衝突",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/acn/202608250363.aspx"
   },
   {
-   "t": "My brother just died, and I don't want to work anymore, but I can’t afford to quit. Is a ‘soft retirement’ the solution?",
+   "t": "Vulcan Materials Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/brother-just-died-dont-want-094500417.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/vulcan-materials-stock-analyst-estimates-102558096.html"
   },
   {
    "t": "今彩539第115206期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250361.aspx"
   },
   {
-   "t": "An 83-year-old has $31,000 in credit card debt — her daughter needs to know one thing before paying another bill",
+   "t": "Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/83-old-31-000-credit-093000000.html"
+   "u": "https://finance.yahoo.com/markets/articles/vivian-tu-says-investors-carrying-103000829.html"
   },
   {
    "t": "大樂透第115082期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250360.aspx"
   },
   {
-   "t": "Nvidia earnings and Jackson Hole: What to watch this week",
+   "t": "AI scammers are scouring obituaries to target widows — one lost $7,000 after being told her late husband evaded taxes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-scammers-scouring-obituaries-target-103000752.html"
   },
   {
    "t": "輝達財報前科技股反彈　美股開高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250358.aspx"
   },
   {
-   "t": "New York beats out San Francisco for top tech talent hub: Trial Balance",
+   "t": "Brunswick CFO sets course in a changing boating market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/york-beats-san-francisco-top-094254500.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/brunswick-cfo-sets-course-changing-100000290.html"
   }
  ],
  "inst": {
