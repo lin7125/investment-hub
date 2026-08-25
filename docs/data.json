@@ -1,71 +1,71 @@
 {
- "generatedAt": "2026-08-25 13:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 13:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2380.0,
-   "c": 0.21,
-   "a50": 2392.6,
-   "a200": 1976.3,
+   "p": 2385.0,
+   "c": 0.42,
+   "a50": 2392.7,
+   "a200": 1976.32,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2367.5,
-   "r": 50.2
+   "a20": 2367.75,
+   "r": 50.8
   },
   {
    "s": "2317.TW",
-   "p": 242.5,
-   "c": -0.41,
-   "a50": 249.71,
+   "p": 243.0,
+   "c": -0.21,
+   "a50": 249.72,
    "a200": 235.72,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.45,
-   "r": 42.6
+   "a20": 252.48,
+   "r": 43.0
   },
   {
    "s": "2308.TW",
-   "p": 1695.0,
-   "c": -2.31,
-   "a50": 1841.9,
-   "a200": 1547.57,
+   "p": 1705.0,
+   "c": -1.73,
+   "a50": 1842.1,
+   "a200": 1547.62,
    "yh": 2520.0,
    "yl": 676.0,
-   "a20": 1721.0,
-   "r": 42.8
+   "a20": 1721.5,
+   "r": 43.5
   },
   {
    "s": "2454.TW",
-   "p": 3710.0,
-   "c": -1.46,
-   "a50": 3928.0,
-   "a200": 2535.45,
+   "p": 3715.0,
+   "c": -1.33,
+   "a50": 3928.1,
+   "a200": 2535.48,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3835.5,
-   "r": 45.0
+   "a20": 3835.75,
+   "r": 45.1
   },
   {
    "s": "2327.TW",
-   "p": 539.0,
-   "c": -2.18,
-   "a50": 760.39,
-   "a200": 440.73,
+   "p": 542.0,
+   "c": -1.63,
+   "a50": 760.45,
+   "a200": 440.75,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 565.67,
-   "r": 38.7
+   "a20": 565.83,
+   "r": 39.0
   },
   {
    "s": "1802.TW",
-   "p": 57.8,
-   "c": 1.58,
+   "p": 57.9,
+   "c": 1.76,
    "a50": 59.96,
-   "a200": 53.3,
+   "a200": 53.31,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 53.96,
-   "r": 53.1
+   "r": 53.3
   },
   {
    "s": "6862.TW",
@@ -80,25 +80,25 @@
   },
   {
    "s": "3701.TW",
-   "p": 40.6,
-   "c": 2.01,
+   "p": 40.75,
+   "c": 2.39,
    "a50": 41.74,
    "a200": 48.95,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 39.75,
-   "r": 49.5
+   "r": 50.0
   },
   {
    "s": "4722.TW",
-   "p": 202.5,
-   "c": 0.0,
-   "a50": 234.44,
-   "a200": 199.79,
+   "p": 204.5,
+   "c": 0.99,
+   "a50": 234.48,
+   "a200": 199.8,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 203.12,
-   "r": 44.5
+   "a20": 203.22,
+   "r": 45.6
   },
   {
    "s": "6706.TW",
@@ -113,14 +113,14 @@
   },
   {
    "s": "2305.TW",
-   "p": 27.15,
-   "c": 1.88,
-   "a50": 32.56,
-   "a200": 19.1,
+   "p": 28.3,
+   "c": 6.19,
+   "a50": 32.59,
+   "a200": 19.11,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.26,
-   "r": 44.0
+   "a20": 28.32,
+   "r": 47.5
   },
   {
    "s": "6442.TW",
@@ -135,14 +135,14 @@
   },
   {
    "s": "6515.TW",
-   "p": 6240.0,
-   "c": 1.55,
-   "a50": 7329.2,
-   "a200": 6128.58,
+   "p": 6275.0,
+   "c": 2.12,
+   "a50": 7329.9,
+   "a200": 6128.75,
    "yh": 10795.0,
    "yl": 1130.0,
-   "a20": 6432.0,
-   "r": 42.0
+   "a20": 6433.75,
+   "r": 42.7
   },
   {
    "s": "6446.TW",
@@ -157,47 +157,47 @@
   },
   {
    "s": "3324.TWO",
-   "p": 1060.0,
-   "c": 4.43,
-   "a50": 972.54,
-   "a200": 998.27,
+   "p": 1065.0,
+   "c": 4.93,
+   "a50": 972.64,
+   "a200": 998.3,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 983.2,
-   "r": 60.2
+   "a20": 983.45,
+   "r": 60.7
   },
   {
    "s": "3491.TWO",
-   "p": 1270.0,
-   "c": -1.55,
-   "a50": 1271.54,
-   "a200": 1219.72,
+   "p": 1275.0,
+   "c": -1.16,
+   "a50": 1271.64,
+   "a200": 1219.75,
    "yh": 2200.0,
    "yl": 352.0,
-   "a20": 1225.1,
-   "r": 50.1
+   "a20": 1225.35,
+   "r": 50.5
   },
   {
    "s": "3585.TWO",
-   "p": 48.85,
-   "c": -2.5,
-   "a50": 57.64,
+   "p": 49.35,
+   "c": -1.5,
+   "a50": 57.65,
    "a200": 42.72,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 48.12,
-   "r": 45.1
+   "a20": 48.15,
+   "r": 45.9
   },
   {
    "s": "6223.TWO",
-   "p": 5610.0,
-   "c": 0.81,
-   "a50": 6148.8,
-   "a200": 4145.82,
+   "p": 5625.0,
+   "c": 1.08,
+   "a50": 6149.1,
+   "a200": 4145.9,
    "yh": 7380.0,
    "yl": 1255.0,
-   "a20": 5795.5,
-   "r": 45.9
+   "a20": 5796.25,
+   "r": 46.1
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44911.57,
-   "c": 0.33,
-   "a50": 44910.89,
-   "a200": 36515.38,
+   "p": 45002.91,
+   "c": 0.54,
+   "a50": 44912.71,
+   "a200": 36515.84,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44309.54,
-   "r": 51.9
+   "a20": 44314.11,
+   "r": 52.4
   },
   {
    "s": "^GSPC",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4699.9,
-   "c": 1.27,
-   "a50": 4196.65,
-   "a200": 4505.73,
+   "p": 4701.8,
+   "c": 1.31,
+   "a50": 4196.69,
+   "a200": 4505.74,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4339.67,
+   "a20": 4339.77,
    "r": 76.5
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.03,
+   "c": -0.02,
    "a50": 6.38,
    "a200": 5.92,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.55,
-   "r": 58.0
+   "r": 57.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03135779,
-   "c": -0.2,
+   "c": -0.21,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250106.aspx"
   },
   {
-   "t": "Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.",
+   "t": "How to Play MRVL Stock Now as Marvell Technology Expands Its Relationship With Google",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/target-just-reported-earnings-heres-180000119.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/play-mrvl-stock-now-marvell-183002715.html"
   },
   {
    "t": "現代汽車10年首見全天罷工後　勞資達成初步協議",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608250104.aspx"
   },
   {
-   "t": "How to Play MRVL Stock Now as Marvell Technology Expands Its Relationship With Google",
+   "t": "Ahead of Nvidia Earnings, Here's What Barchart Data Says Comes Next for NVDA Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/play-mrvl-stock-now-marvell-183002715.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-nvidia-earnings-heres-barchart-190002391.html"
   },
   {
    "t": "Gogoro：上半年和第2季毛利率走高　連5季現金流正向",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250097.aspx"
   },
   {
-   "t": "Soros Fund Management Opened a New Position in Nebius During Q2. What This Means for NBIS Stock.",
+   "t": "As Cerebras Launches a New, Record-Setting AI Accelerator, Here’s How You Should Play CBRS Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/soros-fund-management-opened-position-173002452.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/cerebras-launches-record-setting-ai-193002886.html"
   },
   {
    "t": "新台幣午盤貶3.5分　暫收31.889元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250094.aspx"
   },
   {
-   "t": "Ahead of Nvidia Earnings, Here's What Barchart Data Says Comes Next for NVDA Stock",
+   "t": "Target admits it still has big problems to fix",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-nvidia-earnings-heres-barchart-190002391.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/target-admits-still-big-problems-180300058.html"
   },
   {
    "t": "豪雨來襲35處積水未退　水利署支援80台抽水機",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250081.aspx"
   },
   {
-   "t": "As Cerebras Launches a New, Record-Setting AI Accelerator, Here’s How You Should Play CBRS Stock",
+   "t": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/cerebras-launches-record-setting-ai-193002886.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html"
   }
  ],
  "inst": {
