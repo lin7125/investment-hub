@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 03:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 03:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 308.89,
-   "c": -0.47,
+   "p": 308.95,
+   "c": -0.45,
    "a50": 310.86,
    "a200": 281.9,
    "yh": 340.08,
    "yl": 226.79,
    "a20": 311.45,
-   "r": 46.9
+   "r": 47.0
   },
   {
    "s": "NVDA",
-   "p": 211.93,
-   "c": 1.65,
-   "a50": 207.78,
+   "p": 212.56,
+   "c": 1.96,
+   "a50": 207.8,
    "a200": 195.42,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 214.52,
-   "r": 48.5
+   "a20": 214.55,
+   "r": 49.1
   },
   {
    "s": "TSLA",
-   "p": 351.7,
-   "c": 0.79,
+   "p": 351.98,
+   "c": 0.87,
    "a50": 363.76,
    "a200": 402.29,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 332.34,
-   "r": 52.5
+   "a20": 332.36,
+   "r": 52.6
   },
   {
    "s": "META",
-   "p": 566.84,
-   "c": 1.4,
-   "a50": 592.8,
-   "a200": 623.44,
+   "p": 569.14,
+   "c": 1.81,
+   "a50": 592.85,
+   "a200": 623.45,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.41,
-   "r": 45.3
+   "a20": 573.53,
+   "r": 46.1
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7670.0,
-   "c": 0.22,
-   "a50": 7550.99,
-   "a200": 7104.5,
+   "p": 7672.0,
+   "c": 0.25,
+   "a50": 7551.03,
+   "a200": 7104.51,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.47,
-   "r": 53.3
+   "a20": 7668.57,
+   "r": 53.5
   },
   {
    "s": "^VIX",
-   "p": 15.48,
-   "c": -2.33,
+   "p": 15.47,
+   "c": -2.4,
    "a50": 16.65,
    "a200": 18.45,
    "yh": 31.05,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.2,
-   "c": -5.39,
+   "p": 87.22,
+   "c": -5.37,
    "a50": 83.87,
    "a200": 82.69,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4722.7,
-   "c": 1.76,
-   "a50": 4197.11,
-   "a200": 4505.85,
+   "p": 4717.0,
+   "c": 1.64,
+   "a50": 4196.99,
+   "a200": 4505.82,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4340.81,
-   "r": 77.2
+   "a20": 4340.53,
+   "r": 77.0
   },
   {
    "s": "HG=F",
-   "p": 6.71,
-   "c": 1.64,
+   "p": 6.7,
+   "c": 1.61,
    "a50": 6.38,
    "a200": 5.92,
-   "yh": 6.71,
+   "yh": 6.7,
    "yl": 4.41,
    "a20": 6.56,
-   "r": 63.6
+   "r": 63.5
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ait/202608250371.aspx"
   },
   {
-   "t": "Exclusive-India plans first tokenised bond issue in September, sources say",
+   "t": "Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/exclusive-india-plans-first-tokenised-102445401.html"
+   "u": "https://finance.yahoo.com/markets/articles/vivian-tu-says-investors-carrying-103000829.html"
   },
   {
    "t": "星媒：美施壓伊朗之際  試圖避免與中國爆發更廣泛經濟外交衝突",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/acn/202608250363.aspx"
   },
   {
-   "t": "Vulcan Materials Stock: Analyst Estimates & Ratings",
+   "t": "AI scammers are scouring obituaries to target widows — one lost $7,000 after being told her late husband evaded taxes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/vulcan-materials-stock-analyst-estimates-102558096.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-scammers-scouring-obituaries-target-103000752.html"
   },
   {
    "t": "今彩539第115206期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250361.aspx"
   },
   {
-   "t": "AI scammers are scouring obituaries to target widows — one lost $7,000 after being told her late husband evaded taxes",
+   "t": "Why This Week Looks to Be Fun",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-scammers-scouring-obituaries-target-103000752.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/why-week-looks-fun-103526664.html"
   },
   {
    "t": "大樂透第115082期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250360.aspx"
   },
   {
-   "t": "Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right",
+   "t": "Vulcan Materials Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/vivian-tu-says-investors-carrying-103000829.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/vulcan-materials-stock-analyst-estimates-102558096.html"
   },
   {
    "t": "輝達財報前科技股反彈　美股開高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250358.aspx"
   },
   {
-   "t": "If an AI Bubble Burst Is Coming, Warren Buffett's 1999 Warning to Investors Is More Crucial Than Ever",
+   "t": "Forces Pushing Treasury Yields Higher Still Not Exhausted",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-burst-coming-warren-102000270.html"
+   "u": "https://www.barrons.com/livecoverage/stock-market-news-today-082426/card/forces-pushing-treasury-yields-higher-still-not-exhausted-2Ld9A5KugmzCoESpciRh?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
