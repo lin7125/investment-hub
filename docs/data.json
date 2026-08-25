@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-25 10:40（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 10:50（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2365.0,
-   "c": -0.42,
-   "a50": 2392.3,
-   "a200": 1976.22,
+   "p": 2360.0,
+   "c": -0.63,
+   "a50": 2392.2,
+   "a200": 1976.2,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2366.75,
-   "r": 48.7
+   "a20": 2366.5,
+   "r": 48.2
   },
   {
    "s": "2317.TW",
@@ -25,14 +25,14 @@
   },
   {
    "s": "2308.TW",
-   "p": 1670.0,
-   "c": -3.75,
-   "a50": 1841.4,
-   "a200": 1547.44,
+   "p": 1665.0,
+   "c": -4.03,
+   "a50": 1841.3,
+   "a200": 1547.42,
    "yh": 2520.0,
    "yl": 676.0,
-   "a20": 1719.75,
-   "r": 41.2
+   "a20": 1719.5,
+   "r": 40.9
   },
   {
    "s": "2454.TW",
@@ -47,25 +47,25 @@
   },
   {
    "s": "2327.TW",
-   "p": 522.0,
-   "c": -5.26,
-   "a50": 760.05,
-   "a200": 440.65,
+   "p": 520.0,
+   "c": -5.63,
+   "a50": 760.01,
+   "a200": 440.64,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 564.83,
-   "r": 37.0
+   "a20": 564.72,
+   "r": 36.8
   },
   {
    "s": "1802.TW",
-   "p": 56.3,
-   "c": -1.05,
+   "p": 56.4,
+   "c": -0.88,
    "a50": 59.93,
    "a200": 53.3,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 53.88,
-   "r": 49.5
+   "a20": 53.89,
+   "r": 49.7
   },
   {
    "s": "6862.TW",
@@ -80,14 +80,14 @@
   },
   {
    "s": "3701.TW",
-   "p": 39.15,
-   "c": -1.63,
+   "p": 39.2,
+   "c": -1.51,
    "a50": 41.71,
    "a200": 48.94,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.67,
-   "r": 44.4
+   "a20": 39.68,
+   "r": 44.6
   },
   {
    "s": "4722.TW",
@@ -124,80 +124,80 @@
   },
   {
    "s": "6442.TW",
-   "p": 1445.0,
-   "c": -1.03,
-   "a50": 1503.3,
-   "a200": 1611.3,
+   "p": 1450.0,
+   "c": -0.68,
+   "a50": 1503.4,
+   "a200": 1611.32,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1419.25,
-   "r": 48.3
+   "a20": 1419.5,
+   "r": 48.6
   },
   {
    "s": "6515.TW",
-   "p": 6030.0,
-   "c": -1.87,
-   "a50": 7325.0,
-   "a200": 6127.52,
+   "p": 6050.0,
+   "c": -1.55,
+   "a50": 7325.4,
+   "a200": 6127.62,
    "yh": 10795.0,
    "yl": 1130.0,
-   "a20": 6421.5,
-   "r": 38.5
+   "a20": 6422.5,
+   "r": 38.7
   },
   {
    "s": "6446.TW",
-   "p": 1480.0,
-   "c": 0.34,
-   "a50": 1229.33,
-   "a200": 739.91,
+   "p": 1465.0,
+   "c": -0.68,
+   "a50": 1229.03,
+   "a200": 739.83,
    "yh": 1500.0,
    "yl": 401.71,
-   "a20": 1326.25,
-   "r": 63.9
+   "a20": 1325.5,
+   "r": 62.6
   },
   {
    "s": "3324.TWO",
-   "p": 1025.0,
-   "c": 0.99,
-   "a50": 971.84,
-   "a200": 998.1,
+   "p": 1020.0,
+   "c": 0.49,
+   "a50": 971.74,
+   "a200": 998.07,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 981.45,
-   "r": 56.3
+   "a20": 981.2,
+   "r": 55.7
   },
   {
    "s": "3491.TWO",
-   "p": 1240.0,
-   "c": -3.88,
-   "a50": 1270.94,
-   "a200": 1219.58,
+   "p": 1235.0,
+   "c": -4.26,
+   "a50": 1270.84,
+   "a200": 1219.55,
    "yh": 2200.0,
    "yl": 352.0,
-   "a20": 1223.6,
-   "r": 48.0
+   "a20": 1223.35,
+   "r": 47.7
   },
   {
    "s": "3585.TWO",
-   "p": 48.45,
-   "c": -3.29,
+   "p": 48.6,
+   "c": -2.99,
    "a50": 57.64,
    "a200": 42.72,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 48.1,
-   "r": 44.5
+   "a20": 48.11,
+   "r": 44.7
   },
   {
    "s": "6223.TWO",
-   "p": 5425.0,
-   "c": -2.52,
-   "a50": 6145.1,
-   "a200": 4144.9,
+   "p": 5450.0,
+   "c": -2.07,
+   "a50": 6145.6,
+   "a200": 4145.02,
    "yh": 7380.0,
    "yl": 1255.0,
-   "a20": 5786.25,
-   "r": 43.3
+   "a20": 5787.5,
+   "r": 43.6
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44402.76,
-   "c": -0.8,
-   "a50": 44900.71,
-   "a200": 36512.84,
+   "p": 44323.2,
+   "c": -0.98,
+   "a50": 44899.12,
+   "a200": 36512.44,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44284.1,
-   "r": 48.5
+   "a20": 44280.12,
+   "r": 48.0
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 92.81,
-   "c": -1.67,
+   "p": 92.78,
+   "c": -1.71,
    "a50": 83.89,
    "a200": 82.58,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4708.3,
-   "c": 1.82,
-   "a50": 4188.3,
-   "a200": 4502.47,
+   "p": 4699.8,
+   "c": 1.64,
+   "a50": 4188.13,
+   "a200": 4502.43,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.87,
-   "r": 76.6
+   "a20": 4309.44,
+   "r": 76.3
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.36,
+   "c": 0.32,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 58.1
+   "r": 58.0
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250037.aspx"
   },
   {
-   "t": "3 Closed-End Funds to Maximize Dividend Payments",
+   "t": "How long could global oil stockpiles last if supply disruptions continue?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/3-closed-end-funds-maximize-151500168.html"
+   "u": "https://finance.yahoo.com/energy/articles/long-could-global-oil-stockpiles-152000400.html"
   },
   {
    "t": "2027年統籌分配款台北市1264億居冠　新北人均配額最低",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250036.aspx"
   },
   {
-   "t": "Rocket Mortgage pushes home equity loans to wipe out credit card debt — here's how that could backfire on homeowners",
+   "t": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-pushes-home-equity-150000372.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html"
   },
   {
    "t": "華爾街搶用AI如魔鬼交易　高盛憂年輕人才思考力退化",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250026.aspx"
   },
   {
-   "t": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
+   "t": "Walmart Fell 9%. I’m Not Sure This Is Just a Walmart Problem",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-fell-9-m-not-153057565.html"
   },
   {
    "t": "台積電領跌　台股早盤挫逾500點回測月線支撐",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250024.aspx"
   },
   {
-   "t": "Luxury auto CEOs say there's a K-shaped economy even at the very top of the market",
+   "t": "SoundHound Is Making a Big AI Bet That Could Be a Margin Game Changer",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/luxury-auto-ceos-say-theres-a-k-shaped-economy-even-at-the-very-top-of-the-market-145500874.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/soundhound-making-big-ai-bet-153002501.html"
   },
   {
    "t": "新台幣開盤貶0.6分　為31.86元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250021.aspx"
   },
   {
-   "t": "SoundHound Is Making a Big AI Bet That Could Be a Margin Game Changer",
+   "t": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/soundhound-making-big-ai-bet-153002501.html"
+   "u": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html"
   },
   {
    "t": "台股開盤跌33.96點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250020.aspx"
   },
   {
-   "t": "The Stock Market Is Repeating a Pattern Not Seen in Decades. Here's What History Says Comes Next.",
+   "t": "3 Closed-End Funds to Maximize Dividend Payments",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-repeating-pattern-not-150500239.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3-closed-end-funds-maximize-151500168.html"
   }
  ],
  "inst": {
