@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 00:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 00:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 309.76,
-   "c": -0.19,
-   "a50": 310.87,
+   "p": 309.8,
+   "c": -0.17,
+   "a50": 310.88,
    "a200": 281.9,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 311.49,
+   "a20": 311.5,
    "r": 47.7
   },
   {
    "s": "NVDA",
-   "p": 212.15,
-   "c": 1.76,
+   "p": 212.27,
+   "c": 1.82,
    "a50": 207.79,
    "a200": 195.42,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 214.53,
-   "r": 48.7
+   "a20": 214.54,
+   "r": 48.8
   },
   {
    "s": "TSLA",
-   "p": 354.56,
-   "c": 1.61,
+   "p": 354.55,
+   "c": 1.6,
    "a50": 363.82,
    "a200": 402.31,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 565.18,
-   "c": 1.1,
-   "a50": 592.77,
+   "p": 565.6,
+   "c": 1.18,
+   "a50": 592.78,
    "a200": 623.43,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.33,
-   "r": 44.7
+   "a20": 573.35,
+   "r": 44.8
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7675.49,
-   "c": 0.3,
-   "a50": 7551.1,
-   "a200": 7104.53,
+   "p": 7674.39,
+   "c": 0.28,
+   "a50": 7551.08,
+   "a200": 7104.52,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.75,
-   "r": 53.8
+   "a20": 7668.69,
+   "r": 53.7
   },
   {
    "s": "^VIX",
-   "p": 15.5,
-   "c": -2.21,
+   "p": 15.49,
+   "c": -2.27,
    "a50": 16.65,
    "a200": 18.45,
    "yh": 31.05,
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.35,
-   "c": -5.23,
+   "p": 87.41,
+   "c": -5.16,
    "a50": 83.88,
-   "a200": 82.69,
+   "a200": 82.7,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.05,
-   "r": 48.3
+   "r": 48.4
   },
   {
    "s": "GC=F",
-   "p": 4697.6,
-   "c": 1.22,
-   "a50": 4196.61,
-   "a200": 4505.72,
+   "p": 4695.9,
+   "c": 1.19,
+   "a50": 4196.57,
+   "a200": 4505.71,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4339.56,
-   "r": 76.4
+   "a20": 4339.47,
+   "r": 76.3
   },
   {
    "s": "HG=F",
-   "p": 6.71,
-   "c": 1.72,
+   "p": 6.72,
+   "c": 1.78,
    "a50": 6.38,
    "a200": 5.92,
-   "yh": 6.71,
+   "yh": 6.72,
    "yl": 4.41,
    "a20": 6.56,
-   "r": 63.8
+   "r": 64.0
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/acn/202608250363.aspx"
   },
   {
-   "t": "‘Please don’t do this’: Dave Ramsey says to ditch this one household expense keeping Americans from becoming wealthy",
+   "t": "Tech stocks today: All eyes on Nvidia earnings, as Apple debuts new Mac Mini, Mac Studio aimed at AI developers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/please-don-t-dave-ramsey-160500003.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-earnings-as-apple-debuts-new-mac-mini-mac-studio-aimed-at-ai-developers-125406169.html"
   },
   {
    "t": "今彩539第115206期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250361.aspx"
   },
   {
-   "t": "Stock Market Today: Nasdaq Leads Charge Amid Canada Tariff News; Bloom Energy Extends Gains (Live Coverage)",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq hold steady as US-Canada trade tensions heat up",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-tariffs-oil-080527092.html"
   },
   {
    "t": "大樂透第115082期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608250360.aspx"
   },
   {
-   "t": "Newmont (NEM) Faces Gold Above $4,500. Will Rising Costs Dilute the Windfall?",
+   "t": "AI is Sharpening Ryan Specialty Holdings (RYAN), Not Replacing Them",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/newmont-nem-faces-gold-above-160043045.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ai-sharpening-ryan-specialty-holdings-162111595.html"
   },
   {
    "t": "輝達財報前科技股反彈　美股開高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250358.aspx"
   },
   {
-   "t": "Rocket Lab Stock: Launch This Bear Put Spread That Aims For A $295 Profit",
+   "t": "‘No downside’: Warren Buffett trusts 2 key assets for his grandkids — and says the income will likely jump for decades",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/rocket-lab-rklb-satellite-space-options-trade-strategy-income-investing-markets/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/real-estate/articles/no-downside-warren-buffett-trusts-161500580.html"
   },
   {
    "t": "永豐金：現金股利為主　配發率維持65至70%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250354.aspx"
   },
   {
-   "t": "Why Marvell Technology Stock Is Rocketing Higher Today",
+   "t": "SpaceX Is Building a $16.8 Billion Chip Fab in Texas. Is This a Genius Move or a Red Flag For Investors?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-stock-rocketing-161452851.html"
+   "u": "https://finance.yahoo.com/technology/articles/spacex-building-16-8-billion-162500056.html"
   }
  ],
  "inst": {
