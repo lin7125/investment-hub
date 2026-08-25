@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25 13:52（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 13:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.35,
-   "c": -1.5,
-   "a50": 57.65,
+   "p": 49.45,
+   "c": -1.3,
+   "a50": 57.66,
    "a200": 42.72,
    "yh": 165.0,
    "yl": 8.98,
    "a20": 48.15,
-   "r": 45.9
+   "r": 46.1
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45002.91,
-   "c": 0.54,
-   "a50": 44912.71,
-   "a200": 36515.84,
+   "p": 45169.46,
+   "c": 0.91,
+   "a50": 44916.04,
+   "a200": 36516.67,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44314.11,
-   "r": 52.4
+   "a20": 44322.43,
+   "r": 53.5
   },
   {
    "s": "^GSPC",
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4695.7,
-   "c": 1.18,
-   "a50": 4196.57,
-   "a200": 4505.71,
+   "p": 4697.1,
+   "c": 1.21,
+   "a50": 4196.6,
+   "a200": 4505.72,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4339.46,
-   "r": 76.3
+   "a20": 4339.53,
+   "r": 76.4
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": -0.15,
+   "c": -0.14,
    "a50": 6.38,
    "a200": 5.92,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.55,
-   "r": 57.0
+   "r": 57.1
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250111.aspx"
   },
   {
-   "t": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
+   "t": "125-year-old mall retail anchor closes discount outlet, cuts 101 jobs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html"
+   "u": "https://finance.yahoo.com/small-business/articles/125-old-mall-retail-anchor-181700285.html"
   },
   {
    "t": "AI助攻循環經濟　經部：從回收再利用邁向智慧循環",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608250104.aspx"
   },
   {
-   "t": "Ahead of Nvidia Earnings, Here's What Barchart Data Says Comes Next for NVDA Stock",
+   "t": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-nvidia-earnings-heres-barchart-190002391.html"
+   "u": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html"
   },
   {
    "t": "Gogoro：上半年和第2季毛利率走高　連5季現金流正向",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250097.aspx"
   },
   {
-   "t": "As Cerebras Launches a New, Record-Setting AI Accelerator, Here’s How You Should Play CBRS Stock",
+   "t": "Ahead of Nvidia Earnings, Here's What Barchart Data Says Comes Next for NVDA Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/cerebras-launches-record-setting-ai-193002886.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-nvidia-earnings-heres-barchart-190002391.html"
   },
   {
    "t": "新台幣午盤貶3.5分　暫收31.889元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250094.aspx"
   },
   {
-   "t": "Target admits it still has big problems to fix",
+   "t": "As Cerebras Launches a New, Record-Setting AI Accelerator, Here’s How You Should Play CBRS Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/target-admits-still-big-problems-180300058.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/cerebras-launches-record-setting-ai-193002886.html"
   },
   {
    "t": "豪雨來襲35處積水未退　水利署支援80台抽水機",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250081.aspx"
   },
   {
-   "t": "AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?",
+   "t": "I Love NuScale Stock for 1 Reason, and It's Not What You Think",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/love-nuscale-stock-1-reason-181400628.html"
   }
  ],
  "inst": {
