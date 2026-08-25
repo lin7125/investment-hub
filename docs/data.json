@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 03:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 04:02（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 309.34,
-   "c": -0.32,
-   "a50": 310.87,
+   "p": 309.9,
+   "c": -0.14,
+   "a50": 310.88,
    "a200": 281.9,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 311.47,
-   "r": 47.3
+   "a20": 311.5,
+   "r": 47.8
   },
   {
    "s": "NVDA",
-   "p": 212.37,
-   "c": 1.87,
-   "a50": 207.79,
-   "a200": 195.42,
+   "p": 213.05,
+   "c": 2.19,
+   "a50": 207.81,
+   "a200": 195.43,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 214.54,
-   "r": 48.9
+   "a20": 214.58,
+   "r": 49.6
   },
   {
    "s": "TSLA",
-   "p": 350.71,
-   "c": 0.5,
-   "a50": 363.74,
-   "a200": 402.29,
+   "p": 350.25,
+   "c": 0.37,
+   "a50": 363.73,
+   "a200": 402.28,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 332.29,
-   "r": 52.1
+   "a20": 332.27,
+   "r": 51.9
   },
   {
    "s": "META",
-   "p": 569.02,
-   "c": 1.79,
-   "a50": 592.84,
-   "a200": 623.45,
+   "p": 570.05,
+   "c": 1.97,
+   "a50": 592.86,
+   "a200": 623.46,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.52,
-   "r": 46.1
+   "a20": 573.57,
+   "r": 46.4
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7672.05,
-   "c": 0.25,
-   "a50": 7551.03,
-   "a200": 7104.51,
+   "p": 7677.2,
+   "c": 0.32,
+   "a50": 7551.13,
+   "a200": 7104.54,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.56,
-   "r": 53.5
+   "a20": 7668.83,
+   "r": 53.9
   },
   {
    "s": "^VIX",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.0,
-   "c": -5.61,
-   "a50": 83.87,
+   "p": 86.64,
+   "c": -6.0,
+   "a50": 83.86,
    "a200": 82.69,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.03,
-   "r": 47.8
+   "a20": 88.01,
+   "r": 47.3
   },
   {
    "s": "GC=F",
-   "p": 4716.8,
-   "c": 1.64,
-   "a50": 4196.99,
-   "a200": 4505.82,
+   "p": 4719.8,
+   "c": 1.7,
+   "a50": 4197.05,
+   "a200": 4505.83,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4340.52,
-   "r": 77.0
+   "a20": 4340.67,
+   "r": 77.1
   },
   {
    "s": "HG=F",
-   "p": 6.7,
-   "c": 1.6,
+   "p": 6.71,
+   "c": 1.69,
    "a50": 6.38,
    "a200": 5.92,
-   "yh": 6.7,
+   "yh": 6.71,
    "yl": 4.41,
    "a20": 6.56,
-   "r": 63.4
+   "r": 63.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03138732,
-   "c": -0.12,
+   "p": 0.03139717,
+   "c": -0.1,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "美國對伊朗制裁未見明顯衝擊  歐股收盤漲多跌少",
+   "t": "SpaceX將斥資千億美元打造新火箭基地　2027年動工",
    "pub": "中央社財經",
    "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/afe/202608260002.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608260004.aspx"
   },
   {
    "t": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks",
@@ -344,46 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-cathie-wood-agree-191300323.html"
   },
   {
-   "t": "蘋果發表M6及M5 Ultra晶片　強化桌機AI運算能力",
+   "t": "加拿大對美國祭對等報復關稅　含鋼鋁家電海鮮等700品項",
    "pub": "中央社財經",
-   "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/ait/202608250371.aspx"
-  },
-  {
-   "t": "Stocks Set to Open Lower as Chipmakers Get Hit, Nvidia Earnings and Warsh’s Jackson Hole Speech Awaited",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-lower-chipmakers-104034174.html"
-  },
-  {
-   "t": "星媒：美施壓伊朗之際  試圖避免與中國爆發更廣泛經濟外交衝突",
-   "pub": "中央社財經",
-   "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/acn/202608250363.aspx"
-  },
-  {
-   "t": "Why This Week Looks to Be Fun",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/why-week-looks-fun-103526664.html"
-  },
-  {
-   "t": "今彩539第115206期　頭獎1注中獎",
-   "pub": "中央社財經",
-   "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/ahel/202608250361.aspx"
-  },
-  {
-   "t": "Option Volatility and Earnings Report For Aug 24-28",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/option-volatility-earnings-report-aug-110002843.html"
-  },
-  {
-   "t": "大樂透第115082期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/ahel/202608250360.aspx"
+   "d": "2026-08-26",
+   "u": "https://www.cna.com.tw/news/aopl/202608260003.aspx"
   },
   {
    "t": "Wells Fargo Conceives a High Rating for the Fertility-Benefits Biz",
@@ -392,16 +356,52 @@
    "u": "https://finance.yahoo.com/healthcare/articles/wells-fargo-conceives-high-rating-110000324.html"
   },
   {
-   "t": "輝達財報前科技股反彈　美股開高",
+   "t": "美國對伊朗制裁未見明顯衝擊  歐股收盤漲多跌少",
    "pub": "中央社財經",
-   "d": "2026-08-25",
-   "u": "https://www.cna.com.tw/news/afe/202608250358.aspx"
+   "d": "2026-08-26",
+   "u": "https://www.cna.com.tw/news/afe/202608260002.aspx"
   },
   {
-   "t": "Beer giant Constellation Brands invests $100M in US farm profitability",
+   "t": "Warsh Goes to Wyoming. Will He Bring an Inflation Plan?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/beer-giant-constellation-brands-invests-104000334.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/warsh-goes-wyoming-bring-inflation-110000631.html"
+  },
+  {
+   "t": "蘋果發表M6及M5 Ultra晶片　強化桌機AI運算能力",
+   "pub": "中央社財經",
+   "d": "2026-08-25",
+   "u": "https://www.cna.com.tw/news/ait/202608250371.aspx"
+  },
+  {
+   "t": "Option Volatility and Earnings Report For Aug 24-28",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/options/articles/option-volatility-earnings-report-aug-110002843.html"
+  },
+  {
+   "t": "星媒：美施壓伊朗之際  試圖避免與中國爆發更廣泛經濟外交衝突",
+   "pub": "中央社財經",
+   "d": "2026-08-25",
+   "u": "https://www.cna.com.tw/news/acn/202608250363.aspx"
+  },
+  {
+   "t": "Vistra Corp. Stock: Is Wall Street Bullish or Bearish?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-stock-wall-street-110215038.html"
+  },
+  {
+   "t": "今彩539第115206期　頭獎1注中獎",
+   "pub": "中央社財經",
+   "d": "2026-08-25",
+   "u": "https://www.cna.com.tw/news/ahel/202608250361.aspx"
+  },
+  {
+   "t": "This Lumentum Insider Sold $1.6 Million in Stock. Here's What Long-Term Investors Should Know",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lumentum-insider-sold-1-6-105452714.html"
   }
  ],
  "inst": {
