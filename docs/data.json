@@ -1,71 +1,71 @@
 {
- "generatedAt": "2026-08-25 11:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-25 11:11（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2365.0,
-   "c": -0.42,
-   "a50": 2392.3,
-   "a200": 1976.22,
+   "p": 2360.0,
+   "c": -0.63,
+   "a50": 2392.2,
+   "a200": 1976.2,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2366.75,
-   "r": 48.7
+   "a20": 2366.5,
+   "r": 48.2
   },
   {
    "s": "2317.TW",
-   "p": 239.5,
-   "c": -1.64,
-   "a50": 249.65,
+   "p": 239.0,
+   "c": -1.85,
+   "a50": 249.64,
    "a200": 235.7,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.3,
-   "r": 40.6
+   "a20": 252.28,
+   "r": 40.3
   },
   {
    "s": "2308.TW",
-   "p": 1665.0,
-   "c": -4.03,
-   "a50": 1841.3,
-   "a200": 1547.42,
+   "p": 1660.0,
+   "c": -4.32,
+   "a50": 1841.2,
+   "a200": 1547.4,
    "yh": 2520.0,
    "yl": 676.0,
-   "a20": 1719.5,
-   "r": 40.9
+   "a20": 1719.25,
+   "r": 40.6
   },
   {
    "s": "2454.TW",
-   "p": 3680.0,
-   "c": -2.26,
-   "a50": 3927.4,
-   "a200": 2535.3,
+   "p": 3665.0,
+   "c": -2.66,
+   "a50": 3927.1,
+   "a200": 2535.22,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3834.0,
-   "r": 44.1
+   "a20": 3833.25,
+   "r": 43.7
   },
   {
    "s": "2327.TW",
-   "p": 520.0,
-   "c": -5.63,
-   "a50": 760.01,
-   "a200": 440.64,
+   "p": 516.0,
+   "c": -6.35,
+   "a50": 759.93,
+   "a200": 440.62,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 564.72,
-   "r": 36.8
+   "a20": 564.52,
+   "r": 36.4
   },
   {
    "s": "1802.TW",
-   "p": 56.4,
-   "c": -0.88,
-   "a50": 59.93,
-   "a200": 53.3,
+   "p": 55.8,
+   "c": -1.93,
+   "a50": 59.92,
+   "a200": 53.29,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 53.89,
-   "r": 49.7
+   "a20": 53.86,
+   "r": 48.3
   },
   {
    "s": "6862.TW",
@@ -80,25 +80,25 @@
   },
   {
    "s": "3701.TW",
-   "p": 39.45,
-   "c": -0.88,
-   "a50": 41.72,
+   "p": 39.35,
+   "c": -1.13,
+   "a50": 41.71,
    "a200": 48.94,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.69,
-   "r": 45.4
+   "a20": 39.68,
+   "r": 45.1
   },
   {
    "s": "4722.TW",
-   "p": 199.5,
-   "c": -1.48,
-   "a50": 234.38,
-   "a200": 199.78,
+   "p": 198.5,
+   "c": -1.98,
+   "a50": 234.36,
+   "a200": 199.77,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 202.98,
-   "r": 43.2
+   "a20": 202.92,
+   "r": 42.8
   },
   {
    "s": "6706.TW",
@@ -113,91 +113,91 @@
   },
   {
    "s": "2305.TW",
-   "p": 26.05,
-   "c": -2.25,
+   "p": 25.8,
+   "c": -3.19,
    "a50": 32.54,
-   "a200": 19.1,
+   "a200": 19.09,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.21,
-   "r": 40.8
+   "a20": 28.19,
+   "r": 40.2
   },
   {
    "s": "6442.TW",
-   "p": 1455.0,
-   "c": -0.34,
-   "a50": 1503.5,
-   "a200": 1611.35,
+   "p": 1450.0,
+   "c": -0.68,
+   "a50": 1503.4,
+   "a200": 1611.32,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1419.75,
-   "r": 48.9
+   "a20": 1419.5,
+   "r": 48.6
   },
   {
    "s": "6515.TW",
-   "p": 6005.0,
-   "c": -2.28,
-   "a50": 7324.5,
-   "a200": 6127.4,
+   "p": 6000.0,
+   "c": -2.36,
+   "a50": 7324.4,
+   "a200": 6127.38,
    "yh": 10795.0,
    "yl": 1130.0,
-   "a20": 6420.25,
+   "a20": 6420.0,
    "r": 38.1
   },
   {
    "s": "6446.TW",
-   "p": 1465.0,
-   "c": -0.68,
-   "a50": 1229.03,
-   "a200": 739.83,
+   "p": 1475.0,
+   "c": 0.0,
+   "a50": 1229.23,
+   "a200": 739.88,
    "yh": 1500.0,
    "yl": 401.71,
-   "a20": 1325.5,
-   "r": 62.6
+   "a20": 1326.0,
+   "r": 63.6
   },
   {
    "s": "3324.TWO",
-   "p": 1025.0,
-   "c": 0.99,
-   "a50": 971.84,
-   "a200": 998.1,
+   "p": 1030.0,
+   "c": 1.48,
+   "a50": 971.94,
+   "a200": 998.12,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 981.45,
-   "r": 56.3
+   "a20": 981.7,
+   "r": 56.9
   },
   {
    "s": "3491.TWO",
-   "p": 1240.0,
-   "c": -3.88,
-   "a50": 1270.94,
-   "a200": 1219.58,
+   "p": 1235.0,
+   "c": -4.26,
+   "a50": 1270.84,
+   "a200": 1219.55,
    "yh": 2200.0,
    "yl": 352.0,
-   "a20": 1223.6,
-   "r": 48.0
+   "a20": 1223.35,
+   "r": 47.7
   },
   {
    "s": "3585.TWO",
-   "p": 48.05,
-   "c": -4.09,
+   "p": 48.15,
+   "c": -3.89,
    "a50": 57.63,
    "a200": 42.72,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 48.08,
-   "r": 43.9
+   "a20": 48.09,
+   "r": 44.0
   },
   {
    "s": "6223.TWO",
-   "p": 5465.0,
-   "c": -1.8,
-   "a50": 6145.9,
-   "a200": 4145.1,
+   "p": 5425.0,
+   "c": -2.52,
+   "a50": 6145.1,
+   "a200": 4144.9,
    "yh": 7380.0,
    "yl": 1255.0,
-   "a20": 5788.25,
-   "r": 43.8
+   "a20": 5786.25,
+   "r": 43.3
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 44360.11,
-   "c": -0.9,
-   "a50": 44899.86,
-   "a200": 36512.63,
+   "p": 44222.84,
+   "c": -1.21,
+   "a50": 44897.11,
+   "a200": 36511.94,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44281.97,
-   "r": 48.2
+   "a20": 44275.1,
+   "r": 47.3
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 92.63,
-   "c": -1.86,
-   "a50": 83.89,
+   "p": 92.53,
+   "c": -1.97,
+   "a50": 83.88,
    "a200": 82.58,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.91,
-   "r": 57.6
+   "a20": 87.9,
+   "r": 57.4
   },
   {
    "s": "GC=F",
-   "p": 4691.0,
-   "c": 1.45,
-   "a50": 4187.96,
-   "a200": 4502.39,
+   "p": 4686.0,
+   "c": 1.34,
+   "a50": 4187.86,
+   "a200": 4502.36,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4309.0,
-   "r": 76.0
+   "a20": 4308.75,
+   "r": 75.9
   },
   {
    "s": "HG=F",
-   "p": 6.58,
-   "c": 0.04,
+   "p": 6.59,
+   "c": 0.15,
    "a50": 6.37,
    "a200": 5.91,
    "yh": 6.7,
    "yl": 4.41,
    "a20": 6.54,
-   "r": 56.9
+   "r": 57.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03136763,
-   "c": -0.19,
+   "p": 0.03138732,
+   "c": -0.14,
    "a50": 0.03119152,
    "a200": 0.0315856,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250037.aspx"
   },
   {
-   "t": "Spectrum rolls out free offer after steep customer losses",
+   "t": "Walmart Fell 9%. I’m Not Sure This Is Just a Walmart Problem",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/spectrum-rolls-free-offer-steep-153300402.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-fell-9-m-not-153057565.html"
   },
   {
    "t": "2027年統籌分配款台北市1264億居冠　新北人均配額最低",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250036.aspx"
   },
   {
-   "t": "SoundHound Is Making a Big AI Bet That Could Be a Margin Game Changer",
+   "t": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/soundhound-making-big-ai-bet-153002501.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html"
   },
   {
    "t": "華爾街搶用AI如魔鬼交易　高盛憂年輕人才思考力退化",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250026.aspx"
   },
   {
-   "t": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them",
+   "t": "Berkshire CEO Greg Abel Is Sitting on Nearly $400 Billion in Cash. Here's How His Deal-Making Approach Differs From Warren Buffett's.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/berkshire-ceo-greg-abel-sitting-153500037.html"
   },
   {
    "t": "台積電領跌　台股早盤挫逾500點回測月線支撐",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250024.aspx"
   },
   {
-   "t": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
+   "t": "SoundHound Is Making a Big AI Bet That Could Be a Margin Game Changer",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/soundhound-making-big-ai-bet-153002501.html"
   },
   {
    "t": "新台幣開盤貶0.6分　為31.86元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608250021.aspx"
   },
   {
-   "t": "Walmart Fell 9%. I’m Not Sure This Is Just a Walmart Problem",
+   "t": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-fell-9-m-not-153057565.html"
+   "u": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html"
   },
   {
    "t": "台股開盤跌33.96點",
