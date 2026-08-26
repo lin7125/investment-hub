@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 22:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 22:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 311.69,
-   "c": 0.58,
-   "a50": 311.18,
+   "p": 312.23,
+   "c": 0.75,
+   "a50": 311.19,
    "a200": 282.11,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 310.18,
-   "r": 49.7
+   "a20": 310.2,
+   "r": 50.3
   },
   {
    "s": "NVDA",
-   "p": 210.55,
-   "c": -1.17,
+   "p": 210.69,
+   "c": -1.11,
    "a50": 207.77,
    "a200": 195.54,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 215.61,
-   "r": 47.1
+   "r": 47.3
   },
   {
    "s": "TSLA",
-   "p": 346.2,
-   "c": -1.16,
-   "a50": 362.43,
+   "p": 346.6,
+   "c": -1.04,
+   "a50": 362.44,
    "a200": 401.79,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 334.66,
-   "r": 50.0
+   "a20": 334.68,
+   "r": 50.2
   },
   {
    "s": "META",
-   "p": 574.04,
-   "c": 0.7,
-   "a50": 592.48,
-   "a200": 623.23,
+   "p": 574.65,
+   "c": 0.81,
+   "a50": 592.49,
+   "a200": 623.24,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.0,
-   "r": 47.9
+   "a20": 573.03,
+   "r": 48.1
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7669.09,
-   "c": -0.11,
-   "a50": 7553.43,
-   "a200": 7109.28,
+   "p": 7672.63,
+   "c": -0.06,
+   "a50": 7553.5,
+   "a200": 7109.3,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7686.48,
-   "r": 53.1
+   "a20": 7686.66,
+   "r": 53.5
   },
   {
    "s": "^VIX",
-   "p": 15.48,
-   "c": 0.19,
+   "p": 15.51,
+   "c": 0.39,
    "a50": 16.63,
    "a200": 18.43,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.47,
-   "r": 47.7
+   "r": 47.8
   },
   {
    "s": "BZ=F",
-   "p": 86.61,
-   "c": -2.22,
+   "p": 86.7,
+   "c": -2.12,
    "a50": 83.97,
    "a200": 82.82,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.9,
-   "r": 47.0
+   "r": 47.2
   },
   {
    "s": "GC=F",
-   "p": 4678.8,
-   "c": 0.88,
-   "a50": 4202.43,
-   "a200": 4508.92,
+   "p": 4672.5,
+   "c": 0.74,
+   "a50": 4202.31,
+   "a200": 4508.89,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4368.79,
-   "r": 75.7
+   "a20": 4368.47,
+   "r": 75.4
   },
   {
    "s": "HG=F",
    "p": 6.75,
-   "c": 0.57,
+   "c": 0.54,
    "a50": 6.38,
    "a200": 5.93,
    "yh": 6.75,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03140704,
-   "c": -0.08,
+   "c": -0.1,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260312.aspx"
   },
   {
-   "t": "Emergency medical evacuation insurance: What it covers, what it costs, and how to compare plans",
+   "t": "Tech stocks today: Meta agrees to settle social media case for $16.68 billion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/emergency-medical-evacuation-insurance-142045430.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-agrees-to-settle-social-media-case-for-1668-billion-125406169.html"
   },
   {
    "t": "尖石鄉760戶停電　台電持續搶修",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260302.aspx"
   },
   {
-   "t": "Tech stocks today: Meta agrees to settle social media case for $16.68 billion",
+   "t": "Hyundai to build more cars in America, betting big on new hybrids and trucks, CEO says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-agrees-to-settle-social-media-case-for-1668-billion-125406169.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/hyundai-to-build-more-cars-in-america-betting-big-on-new-hybrids-and-trucks-ceo-says-142338721.html"
   },
   {
    "t": "科科科技重返資本市場　31日登錄興櫃",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260301.aspx"
   },
   {
-   "t": "Stocks in holding pattern ahead of Nvidia earnings: AlphaCheck",
+   "t": "US data lifts dollar as Fed hike expectations edge higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/stocks-in-holding-pattern-ahead-of-nvidia-earnings-alphacheck-141558586.html"
+   "u": "https://finance.yahoo.com/news/dollar-moves-narrow-range-ahead-015118187.html"
   },
   {
    "t": "外資買超逾365億　主動式ETF獲青睞、陽明聯電遭提款",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260295.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as PCE inflation stays sticky, Nvidia earnings loom",
+   "t": "Emergency medical evacuation insurance: What it covers, what it costs, and how to compare plans",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/emergency-medical-evacuation-insurance-142045430.html"
   },
   {
    "t": "油價下跌激勵投資人信心　亞股多收漲",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260292.aspx"
   },
   {
-   "t": "Japan To Proceed With Stock And Bond Tokenization",
+   "t": "Applied Nutrition upbeat on annual earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/japan-proceed-stock-bond-tokenization-140400005.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/applied-nutrition-upbeat-annual-earnings-142620439.html"
   }
  ],
  "inst": {
