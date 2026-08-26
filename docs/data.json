@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 14:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 14:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.78,
-   "c": -3.16,
+   "p": 85.56,
+   "c": -3.41,
    "a50": 83.95,
    "a200": 82.81,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.86,
-   "r": 45.8
+   "a20": 87.85,
+   "r": 45.5
   },
   {
    "s": "GC=F",
-   "p": 4686.7,
-   "c": 1.05,
-   "a50": 4202.59,
-   "a200": 4508.96,
+   "p": 4688.8,
+   "c": 1.09,
+   "a50": 4202.63,
+   "a200": 4508.97,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4369.18,
-   "r": 75.9
+   "a20": 4369.29,
+   "r": 76.0
   },
   {
    "s": "HG=F",
-   "p": 6.75,
-   "c": 0.67,
+   "p": 6.74,
+   "c": 0.42,
    "a50": 6.38,
    "a200": 5.93,
-   "yh": 6.75,
+   "yh": 6.74,
    "yl": 4.41,
    "a20": 6.58,
-   "r": 65.7
+   "r": 65.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03144654,
-   "c": 0.03,
+   "p": 0.03143666,
+   "c": 0.02,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260143.aspx"
   },
   {
-   "t": "Eli Lilly (LLY) Is Suing Six Companies Over an Unapproved Drug—Leaving Novo Nordisk (NVO) Clear in the GLP-1 Wars",
+   "t": "Applied Materials Drops 34%. Here’s Why You Should Buy the Dip in AMAT Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-suing-six-190400861.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-drops-34-why-190858009.html"
   },
   {
    "t": "高價股領軍　台股上漲663點收45832點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260139.aspx"
   },
   {
-   "t": "New Layoffs Just Hit Apple’s Vision Pro Staff. What That Means for AAPL Stock.",
+   "t": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/layoffs-just-hit-apple-vision-185505999.html"
+   "u": "https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html"
   },
   {
    "t": "IMF總裁示警：全球經濟風險仍偏下行　AI成重要支撐",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260136.aspx"
   },
   {
-   "t": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
+   "t": "Nat-Gas Prices Supported by Hot US Weather",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-supported-hot-191407074.html"
   },
   {
    "t": "台灣大硬科技日9/8登場　秀自研企業級AI代理平台",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260127.aspx"
   },
   {
-   "t": "Applied Materials Drops 34%. Here’s Why You Should Buy the Dip in AMAT Stock.",
+   "t": "Eli Lilly (LLY) Is Suing Six Companies Over an Unapproved Drug—Leaving Novo Nordisk (NVO) Clear in the GLP-1 Wars",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-drops-34-why-190858009.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-suing-six-190400861.html"
   },
   {
    "t": "川習會9月登場前　華為與惠普簽多年專利授權協議",
