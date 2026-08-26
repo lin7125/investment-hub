@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 14:52（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 15:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 51.0,
-   "c": 0.79,
-   "a50": 57.38,
+   "p": 51.1,
+   "c": 0.99,
+   "a50": 57.39,
    "a200": 42.92,
    "yh": 165.0,
    "yl": 8.98,
    "a20": 48.83,
-   "r": 49.0
+   "r": 49.2
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 54.0,
-   "c": -0.18,
-   "a50": 59.42,
+   "p": 53.9,
+   "c": -0.37,
+   "a50": 59.41,
    "a200": 57.14,
    "yh": 74.3,
    "yl": 37.6,
    "a20": 55.0,
-   "r": 41.6
+   "r": 41.3
   },
   {
    "s": "AAPL",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.56,
-   "c": -3.41,
+   "p": 85.4,
+   "c": -3.59,
    "a50": 83.95,
    "a200": 82.81,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.85,
-   "r": 45.5
+   "a20": 87.84,
+   "r": 45.3
   },
   {
    "s": "GC=F",
-   "p": 4688.8,
-   "c": 1.09,
-   "a50": 4202.63,
-   "a200": 4508.97,
+   "p": 4692.8,
+   "c": 1.18,
+   "a50": 4202.71,
+   "a200": 4508.99,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4369.29,
-   "r": 76.0
+   "a20": 4369.49,
+   "r": 76.2
   },
   {
    "s": "HG=F",
-   "p": 6.74,
-   "c": 0.42,
+   "p": 6.73,
+   "c": 0.26,
    "a50": 6.38,
    "a200": 5.93,
-   "yh": 6.74,
+   "yh": 6.73,
    "yl": 4.41,
    "a20": 6.58,
-   "r": 65.0
+   "r": 64.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03143666,
-   "c": 0.02,
+   "p": 0.03145643,
+   "c": 0.06,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260146.aspx"
   },
   {
-   "t": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks",
+   "t": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-cathie-wood-agree-191300323.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html"
   },
   {
    "t": "台股漲663.16點",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260143.aspx"
   },
   {
-   "t": "Applied Materials Drops 34%. Here’s Why You Should Buy the Dip in AMAT Stock.",
+   "t": "Diana Shipping (DSX) & Genco Shipping (GNK): A Nearly Year-Long Shipping Takeover Fight Just Ended. Here’s Who Blinked",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-drops-34-why-190858009.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/diana-shipping-dsx-genco-shipping-195643725.html"
   },
   {
    "t": "高價股領軍　台股上漲663點收45832點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260139.aspx"
   },
   {
-   "t": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases",
+   "t": "Trucking Downturn: Why 85% of New Carriers Didn’t Survive",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html"
+   "u": "https://finance.yahoo.com/small-business/articles/trucking-downturn-why-85-carriers-200228918.html"
   },
   {
    "t": "IMF總裁示警：全球經濟風險仍偏下行　AI成重要支撐",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260136.aspx"
   },
   {
-   "t": "Nat-Gas Prices Supported by Hot US Weather",
+   "t": "Case Closed: How to Play Super Micro Computer Stock as Smuggling Investigation Ends",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-supported-hot-191407074.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/case-closed-play-super-micro-195241108.html"
   },
   {
    "t": "台灣大硬科技日9/8登場　秀自研企業級AI代理平台",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260127.aspx"
   },
   {
-   "t": "Eli Lilly (LLY) Is Suing Six Companies Over an Unapproved Drug—Leaving Novo Nordisk (NVO) Clear in the GLP-1 Wars",
+   "t": "Oil drops more than $2 despite new US sanctions on Iran",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-suing-six-190400861.html"
+   "u": "https://finance.yahoo.com/news/oil-falls-1-ahead-us-231835385.html"
   },
   {
    "t": "川習會9月登場前　華為與惠普簽多年專利授權協議",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260114.aspx"
   },
   {
-   "t": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
+   "t": "How to Build $3,100 a Month in Dividend Income Starting From Zero",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/build-3-100-month-dividend-195912668.html"
   }
  ],
  "inst": {
