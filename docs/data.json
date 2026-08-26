@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 12:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 12:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -25,14 +25,14 @@
   },
   {
    "s": "2308.TW",
-   "p": 1755.0,
-   "c": 2.63,
-   "a50": 1832.7,
-   "a200": 1551.37,
+   "p": 1750.0,
+   "c": 2.34,
+   "a50": 1832.6,
+   "a200": 1551.34,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1734.75,
-   "r": 48.0
+   "a20": 1734.5,
+   "r": 47.5
   },
   {
    "s": "2454.TW",
@@ -69,36 +69,36 @@
   },
   {
    "s": "6862.TW",
-   "p": 140.0,
-   "c": 1.45,
-   "a50": 161.76,
+   "p": 139.0,
+   "c": 0.72,
+   "a50": 161.74,
    "a200": 175.02,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 139.45,
-   "r": 43.7
+   "a20": 139.4,
+   "r": 42.5
   },
   {
    "s": "3701.TW",
-   "p": 41.45,
-   "c": 1.72,
-   "a50": 41.62,
-   "a200": 48.98,
+   "p": 41.25,
+   "c": 1.23,
+   "a50": 41.61,
+   "a200": 48.97,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.07,
-   "r": 52.4
+   "a20": 40.06,
+   "r": 51.8
   },
   {
    "s": "4722.TW",
-   "p": 210.5,
-   "c": 2.68,
-   "a50": 233.9,
-   "a200": 199.98,
+   "p": 211.5,
+   "c": 3.17,
+   "a50": 233.92,
+   "a200": 199.99,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 205.45,
-   "r": 48.7
+   "a20": 205.5,
+   "r": 49.2
   },
   {
    "s": "6706.TW",
@@ -113,80 +113,80 @@
   },
   {
    "s": "2305.TW",
-   "p": 30.4,
-   "c": 7.8,
+   "p": 30.35,
+   "c": 7.62,
    "a50": 32.58,
    "a200": 19.2,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 28.46,
-   "r": 53.3
+   "r": 53.1
   },
   {
    "s": "6442.TW",
-   "p": 1635.0,
-   "c": 1.87,
-   "a50": 1501.7,
-   "a200": 1615.56,
+   "p": 1625.0,
+   "c": 1.25,
+   "a50": 1501.5,
+   "a200": 1615.51,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1453.5,
-   "r": 58.5
+   "a20": 1453.0,
+   "r": 58.0
   },
   {
    "s": "6515.TW",
-   "p": 5995.0,
-   "c": -4.16,
-   "a50": 7250.5,
-   "a200": 6145.92,
+   "p": 6000.0,
+   "c": -4.08,
+   "a50": 7250.6,
+   "a200": 6145.95,
    "yh": 10795.0,
    "yl": 1140.0,
-   "a20": 6461.75,
-   "r": 38.6
+   "a20": 6462.0,
+   "r": 38.7
   },
   {
    "s": "6446.TW",
-   "p": 1590.0,
-   "c": 6.71,
-   "a50": 1243.47,
-   "a200": 745.69,
-   "yh": 1590.0,
+   "p": 1585.0,
+   "c": 6.38,
+   "a50": 1243.37,
+   "a200": 745.66,
+   "yh": 1585.0,
    "yl": 401.71,
-   "a20": 1352.25,
-   "r": 69.7
+   "a20": 1352.0,
+   "r": 69.5
   },
   {
    "s": "3324.TWO",
-   "p": 1075.0,
-   "c": 0.94,
-   "a50": 973.14,
-   "a200": 998.54,
+   "p": 1070.0,
+   "c": 0.47,
+   "a50": 973.04,
+   "a200": 998.52,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 994.45,
-   "r": 61.8
+   "a20": 994.2,
+   "r": 61.3
   },
   {
    "s": "3491.TWO",
-   "p": 1305.0,
-   "c": 2.76,
-   "a50": 1266.24,
-   "a200": 1224.14,
+   "p": 1300.0,
+   "c": 2.36,
+   "a50": 1266.14,
+   "a200": 1224.11,
    "yh": 2200.0,
    "yl": 358.5,
-   "a20": 1239.1,
-   "r": 52.7
+   "a20": 1238.85,
+   "r": 52.4
   },
   {
    "s": "3585.TWO",
-   "p": 50.8,
-   "c": 0.4,
+   "p": 50.9,
+   "c": 0.59,
    "a50": 57.38,
-   "a200": 42.91,
+   "a200": 42.92,
    "yh": 165.0,
    "yl": 8.98,
    "a20": 48.82,
-   "r": 48.6
+   "r": 48.8
   },
   {
    "s": "6223.TWO",
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 45797.55,
-   "c": 1.39,
-   "a50": 44924.05,
-   "a200": 36604.19,
+   "p": 45808.52,
+   "c": 1.41,
+   "a50": 44924.27,
+   "a200": 36604.24,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44610.35,
+   "a20": 44610.9,
    "r": 57.3
   },
   {
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.35,
-   "c": -3.65,
-   "a50": 83.95,
+   "p": 85.28,
+   "c": -3.73,
+   "a50": 83.94,
    "a200": 82.81,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.84,
-   "r": 45.2
+   "a20": 87.83,
+   "r": 45.1
   },
   {
    "s": "GC=F",
-   "p": 4698.9,
-   "c": 1.31,
-   "a50": 4202.83,
+   "p": 4698.4,
+   "c": 1.3,
+   "a50": 4202.82,
    "a200": 4509.02,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4369.79,
+   "a20": 4369.77,
    "r": 76.4
   },
   {
    "s": "HG=F",
    "p": 6.76,
-   "c": 0.71,
+   "c": 0.68,
    "a50": 6.38,
    "a200": 5.93,
    "yh": 6.76,
    "yl": 4.41,
    "a20": 6.58,
-   "r": 65.9
+   "r": 65.8
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260027.aspx"
   },
   {
-   "t": "Elon Musk’s Social Security reset is coming even after DOGE’s death — protect your check whether you like him or not",
+   "t": "Gogoro Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/elon-musk-social-security-reset-163919950.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/gogoro-inc-q2-2026-earnings-165307094.html"
   },
   {
    "t": "新台幣開盤升3.8分　為31.83元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260022.aspx"
   },
   {
-   "t": "Blue-Chip Visa Stock Just Hit a New All-Time High",
+   "t": "Napco Security Technologies, Inc. Q4 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/blue-chip-visa-stock-just-163502197.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/napco-security-technologies-inc-q4-165248914.html"
   },
   {
    "t": "台股開盤跌11.82點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260021.aspx"
   },
   {
-   "t": "President Trump’s Portfolio Added 2 Stocks Bill Gates and Bill Ackman Also Own",
+   "t": "TGTX Stock Outperforms 95% of Stocks. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/president-trump-portfolio-added-2-162941904.html"
+   "u": "https://www.investors.com/research/multiple-sclerosis-tgtx-stock-biotech-tg-therapeutics/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美股齊揚台積電ADR漲1.78%　投顧：關注輝達財報",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260016.aspx"
   },
   {
-   "t": "Gogoro Inc. Q2 2026 Earnings Call Summary",
+   "t": "Elon Musk’s Social Security reset is coming even after DOGE’s death — protect your check whether you like him or not",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gogoro-inc-q2-2026-earnings-165307094.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/elon-musk-social-security-reset-163919950.html"
   },
   {
    "t": "華爾街日報：Anthropic自估潛在營收超過30兆美元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260008.aspx"
   },
   {
-   "t": "FTC Reaches Settlement With Zillow, Redfin Over Antitrust Concerns",
+   "t": "NVIDIA's Next Earnings Report on Aug. 26 Could Send the Stock Soaring. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/business/ftc-reaches-settlement-with-zillow-redfin-over-antitrust-concerns-9b185f3e?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidias-next-earnings-report-aug-165358714.html"
   }
  ],
  "inst": {
