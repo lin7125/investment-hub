@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27 01:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 02:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 210.2,
-   "c": -1.34,
-   "a50": 207.76,
+   "p": 210.59,
+   "c": -1.16,
+   "a50": 207.77,
    "a200": 195.54,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 215.59,
-   "r": 46.8
+   "a20": 215.61,
+   "r": 47.2
   },
   {
    "s": "TSLA",
-   "p": 346.7,
-   "c": -1.01,
-   "a50": 362.44,
-   "a200": 401.79,
+   "p": 345.95,
+   "c": -1.23,
+   "a50": 362.43,
+   "a200": 401.78,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 334.69,
-   "r": 50.2
+   "a20": 334.65,
+   "r": 49.9
   },
   {
    "s": "META",
-   "p": 577.56,
-   "c": 1.32,
-   "a50": 592.55,
-   "a200": 623.25,
+   "p": 578.67,
+   "c": 1.51,
+   "a50": 592.57,
+   "a200": 623.26,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.17,
-   "r": 49.1
+   "a20": 573.23,
+   "r": 49.5
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7673.22,
-   "c": -0.05,
-   "a50": 7553.51,
-   "a200": 7109.3,
+   "p": 7674.68,
+   "c": -0.03,
+   "a50": 7553.54,
+   "a200": 7109.31,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7686.69,
-   "r": 53.5
+   "a20": 7686.76,
+   "r": 53.7
   },
   {
    "s": "^VIX",
-   "p": 15.55,
-   "c": 0.65,
+   "p": 15.41,
+   "c": -0.26,
    "a50": 16.63,
    "a200": 18.43,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.47,
-   "r": 48.0
+   "a20": 15.46,
+   "r": 47.3
   },
   {
    "s": "BZ=F",
-   "p": 87.42,
-   "c": -1.31,
+   "p": 87.36,
+   "c": -1.38,
    "a50": 83.99,
    "a200": 82.82,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.94,
-   "r": 48.3
+   "r": 48.2
   },
   {
    "s": "GC=F",
-   "p": 4649.4,
-   "c": 0.24,
-   "a50": 4201.84,
-   "a200": 4508.77,
+   "p": 4652.6,
+   "c": 0.31,
+   "a50": 4201.91,
+   "a200": 4508.79,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4367.32,
-   "r": 74.5
+   "a20": 4367.48,
+   "r": 74.6
   },
   {
    "s": "HG=F",
    "p": 6.7,
-   "c": -0.19,
+   "c": -0.07,
    "a50": 6.38,
    "a200": 5.93,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.58,
-   "r": 62.6
+   "r": 63.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03140704,
-   "c": -0.08,
+   "c": -0.09,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "中信銀攜手統一集團推聯名卡　首年百萬卡目標達陣",
+   "t": "油價下跌　歐股多收紅",
    "pub": "中央社財經",
-   "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/afe/202608260356.aspx"
+   "d": "2026-08-27",
+   "u": "https://www.cna.com.tw/news/afe/202608270003.aspx"
   },
   {
    "t": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
@@ -344,16 +344,28 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html"
   },
   {
+   "t": "中信銀攜手統一集團推聯名卡　首年百萬卡目標達陣",
+   "pub": "中央社財經",
+   "d": "2026-08-26",
+   "u": "https://www.cna.com.tw/news/afe/202608260356.aspx"
+  },
+  {
+   "t": "Bitcoin has just wiped out three months of losses in 1 week",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/crypto/article/bitcoin-has-just-wiped-out-three-months-of-losses-in-1-week-091208677.html"
+  },
+  {
    "t": "今彩539第115207期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-08-26",
    "u": "https://www.cna.com.tw/news/ahel/202608260354.aspx"
   },
   {
-   "t": "Jim Cramer Says IBM Is A Hated Stock That Deserves Better",
+   "t": "In US-Canada trade spat, Washington left out a key lever: Canadian oil",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-ibm-hated-170706488.html"
+   "u": "https://finance.yahoo.com/energy/article/in-us-canada-trade-spat-washington-left-out-a-key-lever-canadian-oil-090000999.html"
   },
   {
    "t": "聯準會偏好通膨指標　美國7月PCE持平惟仍接近3年高點",
@@ -362,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260353.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Falls After Inflation Data; Nvidia Sinks Before Earnings, Telecom Name Plummets (Live Coverage)",
+   "t": "US Dollar Price Forecast: Warsh Speech Looms as EUR/USD and GBP/USD Hold Firm",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-warsh-085747517.html"
   },
   {
    "t": "閎暉認購FDK私募可轉債　總額25億日圓",
@@ -374,28 +386,16 @@
    "u": "https://www.cna.com.tw/news/afe/202608260351.aspx"
   },
   {
-   "t": "Advanced Micro Devices (AMD) and Intel (INTC) Both Just Raised Billions for AI. Here’s How Their Strategies Differ",
+   "t": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-intel-170203392.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html"
   },
   {
    "t": "南山人壽上半年股東權益達5630億元　較年初增92%",
    "pub": "中央社財經",
    "d": "2026-08-26",
    "u": "https://www.cna.com.tw/news/afe/202608260350.aspx"
-  },
-  {
-   "t": "Ferrari (RACE) vs. Tesla (TSLA): Ferrari’s $40M EV Record Shows How Luxury Scarcity Beats Tesla’s Mass-Market Volume",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ferrari-race-vs-tesla-tsla-170001732.html"
-  },
-  {
-   "t": "美時腸躁症學名藥獲美法院有利判決　藥證申請重審",
-   "pub": "中央社財經",
-   "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/afe/202608260340.aspx"
   },
   {
    "t": "Meta, states discuss mid-trial settlement in teen addiction case",
