@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 23:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 23:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 313.4,
-   "c": 1.13,
-   "a50": 311.22,
+   "p": 312.91,
+   "c": 0.97,
+   "a50": 311.21,
    "a200": 282.12,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 310.26,
-   "r": 51.4
+   "a20": 310.24,
+   "r": 50.9
   },
   {
    "s": "NVDA",
-   "p": 211.14,
-   "c": -0.9,
-   "a50": 207.78,
+   "p": 210.77,
+   "c": -1.07,
+   "a50": 207.77,
    "a200": 195.54,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 215.63,
-   "r": 47.7
+   "a20": 215.62,
+   "r": 47.3
   },
   {
    "s": "TSLA",
-   "p": 344.82,
-   "c": -1.55,
-   "a50": 362.4,
+   "p": 343.98,
+   "c": -1.79,
+   "a50": 362.39,
    "a200": 401.78,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 334.59,
-   "r": 49.4
+   "a20": 334.55,
+   "r": 49.0
   },
   {
    "s": "META",
-   "p": 585.25,
-   "c": 2.67,
-   "a50": 592.7,
-   "a200": 623.29,
+   "p": 583.01,
+   "c": 2.27,
+   "a50": 592.65,
+   "a200": 623.28,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.56,
-   "r": 51.6
+   "a20": 573.44,
+   "r": 50.9
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7681.03,
-   "c": 0.05,
-   "a50": 7553.67,
-   "a200": 7109.34,
+   "p": 7676.78,
+   "c": -0.01,
+   "a50": 7553.58,
+   "a200": 7109.32,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7687.08,
-   "r": 54.3
+   "a20": 7686.87,
+   "r": 53.9
   },
   {
    "s": "^VIX",
-   "p": 15.44,
-   "c": -0.06,
+   "p": 15.42,
+   "c": -0.19,
    "a50": 16.63,
    "a200": 18.43,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.46,
-   "r": 47.5
+   "r": 47.4
   },
   {
    "s": "BZ=F",
-   "p": 86.85,
-   "c": -1.95,
+   "p": 86.83,
+   "c": -1.98,
    "a50": 83.98,
    "a200": 82.82,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4656.1,
-   "c": 0.39,
-   "a50": 4201.98,
-   "a200": 4508.81,
+   "p": 4652.8,
+   "c": 0.32,
+   "a50": 4201.91,
+   "a200": 4508.79,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4367.65,
-   "r": 74.8
+   "a20": 4367.49,
+   "r": 74.6
   },
   {
    "s": "HG=F",
    "p": 6.72,
-   "c": 0.1,
+   "c": 0.22,
    "a50": 6.38,
    "a200": 5.93,
    "yh": 6.72,
    "yl": 4.41,
    "a20": 6.58,
-   "r": 64.0
+   "r": 64.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": -0.07,
+   "p": 0.03140704,
+   "c": -0.08,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608260354.aspx"
   },
   {
-   "t": "Why Anthropic's $30 trillion sales pitch ahead of its IPO could make sense",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slide as PCE inflation stays sticky, Nvidia earnings loom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/why-anthropics-30-trillion-sales-pitch-ahead-of-its-ipo-could-make-sense-145413337.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html"
   },
   {
    "t": "聯準會偏好通膨指標　美國7月PCE持平惟仍接近3年高點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260353.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq slide as PCE inflation stays sticky, Nvidia earnings loom",
+   "t": "Why Anthropic's $30 trillion sales pitch ahead of its IPO could make sense",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html"
+   "u": "https://finance.yahoo.com/markets/article/why-anthropics-30-trillion-sales-pitch-ahead-of-its-ipo-could-make-sense-145413337.html"
   },
   {
    "t": "閎暉認購FDK私募可轉債　總額25億日圓",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260351.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Slips On Inflation; Nvidia Falls Ahead Of Earnings, Abercrombie Soars (Live Coverage)",
+   "t": "Inflation Ran a Little Hotter Than Expected in July",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/articles/inflation-ran-little-hotter-expected-144912442.html"
   },
   {
    "t": "南山人壽上半年股東權益達5630億元　較年初增92%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260350.aspx"
   },
   {
-   "t": "Nvidia Stock Slips Ahead Of Report (Live Coverage)",
+   "t": "Stock Market Today: Dow Slips On Inflation; Nvidia Falls Ahead Of Earnings, Abercrombie Soars (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/nvidia-stock-nvda-fiscal-q2-2027-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美時腸躁症學名藥獲美法院有利判決　藥證申請重審",
