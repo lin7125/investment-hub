@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27 03:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 03:58（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 314.86,
-   "c": 1.6,
-   "a50": 311.25,
-   "a200": 282.13,
+   "p": 313.49,
+   "c": 1.16,
+   "a50": 311.22,
+   "a200": 282.12,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 310.33,
-   "r": 52.7
+   "a20": 310.27,
+   "r": 51.5
   },
   {
    "s": "NVDA",
-   "p": 209.71,
-   "c": -1.57,
+   "p": 209.82,
+   "c": -1.52,
    "a50": 207.75,
    "a200": 195.53,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 215.56,
-   "r": 46.3
+   "a20": 215.57,
+   "r": 46.4
   },
   {
    "s": "TSLA",
-   "p": 346.4,
-   "c": -1.1,
+   "p": 345.91,
+   "c": -1.24,
    "a50": 362.43,
-   "a200": 401.79,
+   "a200": 401.78,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 334.67,
-   "r": 50.1
+   "a20": 334.65,
+   "r": 49.9
   },
   {
    "s": "META",
-   "p": 576.72,
-   "c": 1.17,
+   "p": 576.95,
+   "c": 1.21,
    "a50": 592.53,
    "a200": 623.25,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.13,
-   "r": 48.8
+   "a20": 573.14,
+   "r": 48.9
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7686.36,
-   "c": 0.12,
-   "a50": 7553.78,
-   "a200": 7109.37,
+   "p": 7680.05,
+   "c": 0.04,
+   "a50": 7553.65,
+   "a200": 7109.33,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7687.35,
-   "r": 54.7
+   "a20": 7687.03,
+   "r": 54.2
   },
   {
    "s": "^VIX",
-   "p": 15.29,
-   "c": -1.04,
+   "p": 15.31,
+   "c": -0.91,
    "a50": 16.63,
    "a200": 18.43,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.46,
-   "r": 46.8
+   "r": 46.9
   },
   {
    "s": "BZ=F",
-   "p": 86.64,
-   "c": -2.19,
+   "p": 86.6,
+   "c": -2.24,
    "a50": 83.97,
    "a200": 82.82,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.9,
-   "r": 47.1
+   "r": 47.0
   },
   {
    "s": "GC=F",
-   "p": 4651.4,
-   "c": 0.29,
-   "a50": 4201.88,
-   "a200": 4508.78,
+   "p": 4650.0,
+   "c": 0.26,
+   "a50": 4201.86,
+   "a200": 4508.77,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4367.42,
-   "r": 74.6
+   "a20": 4367.35,
+   "r": 74.5
   },
   {
    "s": "HG=F",
    "p": 6.71,
-   "c": -0.04,
+   "c": -0.05,
    "a50": 6.38,
    "a200": 5.93,
    "yh": 6.71,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270003.aspx"
   },
   {
-   "t": "Ethereum Price Risks $2K Retest as Short-Liquidation Fuel Dries Up",
+   "t": "‘Don’t be a loser’: Robert Kiyosaki sounds alarm on $40T US debtload — warns owners of this ‘fake asset’ will get poorer",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-risks-2k-retest-104725823.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/don-t-loser-robert-kiyosaki-105500878.html"
   },
   {
    "t": "中信銀攜手統一集團推聯名卡　首年百萬卡目標達陣",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260356.aspx"
   },
   {
-   "t": "Stock Index Futures Climb as Chipmakers Rebound and Bond Yields Fall, U.S. Economic Data in Focus",
+   "t": "Ethereum Price Risks $2K Retest as Short-Liquidation Fuel Dries Up",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-climb-chipmakers-103711252.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-risks-2k-retest-104725823.html"
   },
   {
    "t": "今彩539第115207期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608260354.aspx"
   },
   {
-   "t": "‘Don’t be a loser’: Robert Kiyosaki sounds alarm on $40T US debtload — warns owners of this ‘fake asset’ will get poorer",
+   "t": "This Nvidia Earnings Trade Offers a High Probability of Success",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/don-t-loser-robert-kiyosaki-105500878.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/nvidia-earnings-trade-offers-high-110002601.html"
   },
   {
    "t": "聯準會偏好通膨指標　美國7月PCE持平惟仍接近3年高點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260353.aspx"
   },
   {
-   "t": "This Nvidia Earnings Trade Offers a High Probability of Success",
+   "t": "What Are Wall Street Analysts' Target Price for Equifax Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/nvidia-earnings-trade-offers-high-110002601.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-110149598.html"
   },
   {
    "t": "閎暉認購FDK私募可轉債　總額25億日圓",
