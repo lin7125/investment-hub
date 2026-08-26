@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 10:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 10:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,190 +14,190 @@
   },
   {
    "s": "2317.TW",
-   "p": 244.5,
-   "c": 0.62,
-   "a50": 249.23,
-   "a200": 235.63,
+   "p": 245.5,
+   "c": 1.03,
+   "a50": 249.25,
+   "a200": 235.64,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.85,
-   "r": 44.5
+   "a20": 252.9,
+   "r": 45.5
   },
   {
    "s": "2308.TW",
-   "p": 1710.0,
-   "c": 0.0,
-   "a50": 1831.8,
-   "a200": 1551.14,
+   "p": 1705.0,
+   "c": -0.29,
+   "a50": 1831.7,
+   "a200": 1551.12,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1732.5,
-   "r": 43.9
+   "a20": 1732.25,
+   "r": 43.5
   },
   {
    "s": "2454.TW",
-   "p": 3865.0,
-   "c": 3.48,
-   "a50": 3914.6,
-   "a200": 2548.35,
+   "p": 3860.0,
+   "c": 3.35,
+   "a50": 3914.5,
+   "a200": 2548.32,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3872.5,
-   "r": 50.4
+   "a20": 3872.25,
+   "r": 50.2
   },
   {
    "s": "2327.TW",
-   "p": 526.0,
-   "c": -3.31,
-   "a50": 752.01,
-   "a200": 442.14,
+   "p": 529.0,
+   "c": -2.76,
+   "a50": 752.07,
+   "a200": 442.16,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 566.88,
-   "r": 37.2
+   "a20": 567.02,
+   "r": 37.5
   },
   {
    "s": "1802.TW",
-   "p": 60.5,
-   "c": 4.31,
+   "p": 60.4,
+   "c": 4.14,
    "a50": 59.81,
    "a200": 53.47,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 54.79,
-   "r": 58.8
+   "r": 58.6
   },
   {
    "s": "6862.TW",
-   "p": 137.0,
-   "c": -0.72,
-   "a50": 161.7,
+   "p": 136.5,
+   "c": -1.09,
+   "a50": 161.69,
    "a200": 175.01,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 139.3,
-   "r": 40.2
+   "a20": 139.28,
+   "r": 39.7
   },
   {
    "s": "3701.TW",
-   "p": 41.2,
-   "c": 1.1,
-   "a50": 41.61,
-   "a200": 48.97,
+   "p": 41.5,
+   "c": 1.84,
+   "a50": 41.62,
+   "a200": 48.98,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.06,
-   "r": 51.6
+   "a20": 40.08,
+   "r": 52.6
   },
   {
    "s": "4722.TW",
-   "p": 208.5,
-   "c": 1.71,
-   "a50": 233.86,
-   "a200": 199.97,
+   "p": 212.0,
+   "c": 3.41,
+   "a50": 233.93,
+   "a200": 199.99,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 205.35,
-   "r": 47.7
+   "a20": 205.52,
+   "r": 49.4
   },
   {
    "s": "6706.TW",
-   "p": 122.5,
-   "c": -0.41,
-   "a50": 126.58,
-   "a200": 128.28,
+   "p": 125.0,
+   "c": 1.63,
+   "a50": 126.63,
+   "a200": 128.29,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 113.74,
-   "r": 53.2
+   "a20": 113.87,
+   "r": 55.2
   },
   {
    "s": "2305.TW",
-   "p": 29.5,
-   "c": 4.61,
+   "p": 29.45,
+   "c": 4.43,
    "a50": 32.57,
    "a200": 19.2,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.42,
-   "r": 51.0
+   "a20": 28.41,
+   "r": 50.8
   },
   {
    "s": "6442.TW",
-   "p": 1625.0,
-   "c": 1.25,
-   "a50": 1501.5,
-   "a200": 1615.51,
+   "p": 1635.0,
+   "c": 1.87,
+   "a50": 1501.7,
+   "a200": 1615.56,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1453.0,
-   "r": 58.0
+   "a20": 1453.5,
+   "r": 58.5
   },
   {
    "s": "6515.TW",
-   "p": 5990.0,
-   "c": -4.24,
-   "a50": 7250.4,
-   "a200": 6145.9,
+   "p": 5970.0,
+   "c": -4.56,
+   "a50": 7250.0,
+   "a200": 6145.8,
    "yh": 10795.0,
    "yl": 1140.0,
-   "a20": 6461.5,
-   "r": 38.5
+   "a20": 6460.5,
+   "r": 38.3
   },
   {
    "s": "6446.TW",
-   "p": 1590.0,
-   "c": 6.71,
-   "a50": 1243.47,
-   "a200": 745.69,
-   "yh": 1590.0,
+   "p": 1585.0,
+   "c": 6.38,
+   "a50": 1243.37,
+   "a200": 745.66,
+   "yh": 1585.0,
    "yl": 401.71,
-   "a20": 1352.25,
-   "r": 69.7
+   "a20": 1352.0,
+   "r": 69.5
   },
   {
    "s": "3324.TWO",
-   "p": 1065.0,
-   "c": 0.0,
-   "a50": 972.94,
-   "a200": 998.5,
+   "p": 1070.0,
+   "c": 0.47,
+   "a50": 973.04,
+   "a200": 998.52,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 993.95,
-   "r": 60.7
+   "a20": 994.2,
+   "r": 61.3
   },
   {
    "s": "3491.TWO",
-   "p": 1250.0,
-   "c": -1.57,
-   "a50": 1265.14,
-   "a200": 1223.86,
+   "p": 1260.0,
+   "c": -0.79,
+   "a50": 1265.34,
+   "a200": 1223.91,
    "yh": 2200.0,
    "yl": 358.5,
-   "a20": 1236.35,
-   "r": 48.6
+   "a20": 1236.85,
+   "r": 49.3
   },
   {
    "s": "3585.TWO",
-   "p": 52.0,
-   "c": 2.77,
-   "a50": 57.4,
+   "p": 51.1,
+   "c": 0.99,
+   "a50": 57.39,
    "a200": 42.92,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 48.88,
-   "r": 50.9
+   "a20": 48.83,
+   "r": 49.2
   },
   {
    "s": "6223.TWO",
-   "p": 5140.0,
-   "c": -8.21,
-   "a50": 6122.5,
-   "a200": 4161.45,
+   "p": 5100.0,
+   "c": -8.93,
+   "a50": 6121.7,
+   "a200": 4161.25,
    "yh": 7380.0,
    "yl": 1285.0,
-   "a20": 5812.5,
-   "r": 39.8
+   "a20": 5810.5,
+   "r": 39.4
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45358.33,
-   "c": 0.42,
-   "a50": 44915.27,
-   "a200": 36601.99,
+   "p": 45393.19,
+   "c": 0.5,
+   "a50": 44915.97,
+   "a200": 36602.17,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44588.39,
-   "r": 54.7
+   "a20": 44590.13,
+   "r": 54.9
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.25,
-   "c": -7.51,
+   "p": 85.29,
+   "c": -7.46,
    "a50": 83.84,
    "a200": 82.68,
    "yh": 118.35,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4717.0,
-   "c": 1.64,
-   "a50": 4196.99,
+   "p": 4716.3,
+   "c": 1.63,
+   "a50": 4196.98,
    "a200": 4505.82,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4340.53,
+   "a20": 4340.49,
    "r": 77.0
   },
   {
    "s": "HG=F",
    "p": 6.73,
-   "c": 1.95,
+   "c": 1.96,
    "a50": 6.38,
    "a200": 5.92,
    "yh": 6.73,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": -0.06,
+   "p": 0.03139717,
+   "c": -0.13,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260007.aspx"
   },
   {
-   "t": "ADNOC Awards McDermott $1 Billion-Plus Contract for Major Offshore Gas Project",
+   "t": "Make This 1 Trade Now as Inflation Still Runs Hot",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/adnoc-awards-mcdermott-1-billion-143422737.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/1-trade-now-inflation-still-144025344.html"
   },
   {
    "t": "市場估美再對伊朗軍事打擊風險降低　國際油價收黑",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260005.aspx"
   },
   {
-   "t": "Are Wall Street Analysts Predicting Westinghouse Air Brake Technologies Stock Will Climb or Sink?",
+   "t": "McKesson Stock Outlook: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-westinghouse-143319962.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mckesson-stock-outlook-wall-street-143920869.html"
   },
   {
    "t": "SpaceX將斥資千億美元打造新火箭基地　2027年動工",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260004.aspx"
   },
   {
-   "t": "Ares Management Stock: Analyst Estimates & Ratings",
+   "t": "Why gold and silver prices have added $5 trillion in value",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ares-management-stock-analyst-estimates-143325128.html"
+   "u": "https://finance.yahoo.com/markets/commodities/article/why-gold-and-silver-prices-have-added-5-trillion-in-value-092246961.html"
   },
   {
    "t": "加拿大對美國祭對等報復關稅　含鋼鋁家電海鮮等700品項",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260003.aspx"
   },
   {
-   "t": "Revvity Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Cattle Prices Struggle but Get Some Bullish USDA Data; Lean Hog Prices Mired at 12-Month Low",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/revvity-stock-wall-street-bullish-143003277.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/cattle-prices-struggle-bullish-usda-145144527.html"
   },
   {
    "t": "美國對伊朗制裁未見明顯衝擊  歐股收盤漲多跌少",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260002.aspx"
   },
   {
-   "t": "Elon Musk Says SPCX Could Reach 10,000 Starship Launches Annually by 2030: ‘Still Tiny’ Compared With Air Travel",
+   "t": "Super Micro Sinks 7% as Taiwan Indicts Employees Over Illegal AI Server Exports to China, Dell Slips",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/elon-musk-says-spcx-could-143119786.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/super-micro-sinks-7-taiwan-144106910.html"
   }
  ],
  "inst": {
