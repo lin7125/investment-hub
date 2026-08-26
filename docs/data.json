@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27 00:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 00:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 313.56,
-   "c": 1.18,
-   "a50": 311.22,
+   "p": 313.24,
+   "c": 1.08,
+   "a50": 311.21,
    "a200": 282.12,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 310.27,
-   "r": 51.5
+   "a20": 310.25,
+   "r": 51.2
   },
   {
    "s": "NVDA",
-   "p": 210.27,
-   "c": -1.3,
+   "p": 210.37,
+   "c": -1.26,
    "a50": 207.76,
    "a200": 195.54,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 215.59,
+   "a20": 215.6,
    "r": 46.9
   },
   {
    "s": "TSLA",
-   "p": 344.3,
-   "c": -1.7,
+   "p": 344.13,
+   "c": -1.75,
    "a50": 362.39,
    "a200": 401.78,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 334.57,
+   "a20": 334.56,
    "r": 49.1
   },
   {
    "s": "META",
-   "p": 578.96,
-   "c": 1.56,
-   "a50": 592.57,
-   "a200": 623.26,
+   "p": 576.25,
+   "c": 1.09,
+   "a50": 592.52,
+   "a200": 623.24,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.24,
-   "r": 49.6
+   "a20": 573.11,
+   "r": 48.7
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7670.99,
-   "c": -0.08,
-   "a50": 7553.47,
-   "a200": 7109.29,
+   "p": 7668.41,
+   "c": -0.12,
+   "a50": 7553.42,
+   "a200": 7109.28,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7686.58,
-   "r": 53.3
+   "a20": 7686.45,
+   "r": 53.0
   },
   {
    "s": "^VIX",
-   "p": 15.52,
-   "c": 0.45,
+   "p": 15.58,
+   "c": 0.84,
    "a50": 16.63,
    "a200": 18.43,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.47,
-   "r": 47.9
+   "r": 48.2
   },
   {
    "s": "BZ=F",
-   "p": 87.77,
-   "c": -0.91,
-   "a50": 83.99,
+   "p": 87.84,
+   "c": -0.84,
+   "a50": 84.0,
    "a200": 82.82,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.96,
-   "r": 48.9
+   "r": 49.0
   },
   {
    "s": "GC=F",
-   "p": 4653.5,
-   "c": 0.33,
-   "a50": 4201.93,
+   "p": 4654.0,
+   "c": 0.34,
+   "a50": 4201.94,
    "a200": 4508.79,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4367.52,
+   "a20": 4367.55,
    "r": 74.7
   },
   {
    "s": "HG=F",
-   "p": 6.7,
-   "c": -0.1,
+   "p": 6.71,
+   "c": -0.01,
    "a50": 6.38,
    "a200": 5.93,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.58,
-   "r": 63.1
+   "r": 63.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03140704,
-   "c": -0.09,
+   "c": -0.1,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608260354.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Eases After Inflation Data; Nvidia Slips Before Earnings, Zoom Tanks (Live Coverage)",
+   "t": "JPMorgan Eases SpaceX Lending Rules to Capture AI Wealth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-eases-spacex-lending-rules-155800513.html"
   },
   {
    "t": "聯準會偏好通膨指標　美國7月PCE持平惟仍接近3年高點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260353.aspx"
   },
   {
-   "t": "Earnings live updates: Abercrombie & Fitch stock jumps on earnings beat, guidance raise",
+   "t": "DeFi Development Launches Real-Time Solana Data Platform",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/defi-development-launches-real-time-155700393.html"
   },
   {
    "t": "閎暉認購FDK私募可轉債　總額25億日圓",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260351.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as PCE inflation stays sticky, Nvidia earnings loom",
+   "t": "Meta Stock Rises As $18 Billion Social Media Trial Settlement Addresses 'Major Overhang'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html"
+   "u": "https://www.investors.com/news/technology/meta-stock-federal-social-media-addiction-suit/?src=A00220&yptr=yahoo"
   },
   {
    "t": "南山人壽上半年股東權益達5630億元　較年初增92%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260350.aspx"
   },
   {
-   "t": "Oil slips as investors focus on Hormuz talks",
+   "t": "Stock Market Today: Dow Eases After Inflation Data; Nvidia Slips Before Earnings, Zoom Tanks (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/oil-prices-fall-2-on-iran-oman-talks-to-reopen-strait-of-hormuz-052337200.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美時腸躁症學名藥獲美法院有利判決　藥證申請重審",
