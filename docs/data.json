@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 22:40（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 22:50（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 312.23,
-   "c": 0.75,
-   "a50": 311.19,
-   "a200": 282.11,
+   "p": 312.44,
+   "c": 0.82,
+   "a50": 311.2,
+   "a200": 282.12,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 310.2,
-   "r": 50.3
+   "a20": 310.21,
+   "r": 50.5
   },
   {
    "s": "NVDA",
-   "p": 210.69,
-   "c": -1.11,
-   "a50": 207.77,
+   "p": 211.14,
+   "c": -0.9,
+   "a50": 207.78,
    "a200": 195.54,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 215.61,
-   "r": 47.3
+   "a20": 215.63,
+   "r": 47.7
   },
   {
    "s": "TSLA",
-   "p": 346.6,
-   "c": -1.04,
-   "a50": 362.44,
-   "a200": 401.79,
+   "p": 344.65,
+   "c": -1.6,
+   "a50": 362.4,
+   "a200": 401.78,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 334.68,
-   "r": 50.2
+   "a20": 334.59,
+   "r": 49.3
   },
   {
    "s": "META",
-   "p": 574.65,
-   "c": 0.81,
-   "a50": 592.49,
-   "a200": 623.24,
+   "p": 580.34,
+   "c": 1.81,
+   "a50": 592.6,
+   "a200": 623.26,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.03,
-   "r": 48.1
+   "a20": 573.31,
+   "r": 50.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7672.63,
-   "c": -0.06,
-   "a50": 7553.5,
+   "p": 7674.12,
+   "c": -0.04,
+   "a50": 7553.53,
    "a200": 7109.3,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7686.66,
-   "r": 53.5
+   "a20": 7686.73,
+   "r": 53.6
   },
   {
    "s": "^VIX",
-   "p": 15.51,
-   "c": 0.39,
+   "p": 15.52,
+   "c": 0.45,
    "a50": 16.63,
    "a200": 18.43,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.47,
-   "r": 47.8
+   "r": 47.9
   },
   {
    "s": "BZ=F",
-   "p": 86.7,
-   "c": -2.12,
+   "p": 86.63,
+   "c": -2.2,
    "a50": 83.97,
    "a200": 82.82,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.9,
-   "r": 47.2
+   "r": 47.1
   },
   {
    "s": "GC=F",
-   "p": 4672.5,
-   "c": 0.74,
-   "a50": 4202.31,
-   "a200": 4508.89,
+   "p": 4675.2,
+   "c": 0.8,
+   "a50": 4202.36,
+   "a200": 4508.9,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4368.47,
-   "r": 75.4
+   "a20": 4368.61,
+   "r": 75.5
   },
   {
    "s": "HG=F",
    "p": 6.75,
-   "c": 0.54,
+   "c": 0.6,
    "a50": 6.38,
    "a200": 5.93,
    "yh": 6.75,
    "yl": 4.41,
    "a20": 6.58,
-   "r": 65.4
+   "r": 65.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03140704,
-   "c": -0.1,
+   "c": -0.09,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "鴻海砸17億元美國購地買廠　估擴AI製造規模",
+   "t": "中信銀攜手統一集團推聯名卡　首年百萬卡目標達陣",
    "pub": "中央社財經",
    "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/afe/202608260317.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608260356.aspx"
   },
   {
    "t": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html"
   },
   {
-   "t": "經部：南部淹水面積深度、退水速度均有改善　續編預算擴大治水效益",
+   "t": "今彩539第115207期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/afe/202608260312.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608260354.aspx"
   },
   {
    "t": "Tech stocks today: Meta agrees to settle social media case for $16.68 billion",
@@ -356,10 +356,34 @@
    "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-agrees-to-settle-social-media-case-for-1668-billion-125406169.html"
   },
   {
-   "t": "尖石鄉760戶停電　台電持續搶修",
+   "t": "聯準會偏好通膨指標　美國7月PCE持平惟仍接近3年高點",
    "pub": "中央社財經",
    "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/afe/202608260302.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608260353.aspx"
+  },
+  {
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slide as PCE inflation stays sticky, Nvidia earnings loom",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html"
+  },
+  {
+   "t": "閎暉認購FDK私募可轉債　總額25億日圓",
+   "pub": "中央社財經",
+   "d": "2026-08-26",
+   "u": "https://www.cna.com.tw/news/afe/202608260351.aspx"
+  },
+  {
+   "t": "Nvidia Stock Slips Ahead Of Report (Live Coverage)",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/news/technology/nvidia-stock-nvda-fiscal-q2-2027-earnings/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "南山人壽上半年股東權益達5630億元　較年初增92%",
+   "pub": "中央社財經",
+   "d": "2026-08-26",
+   "u": "https://www.cna.com.tw/news/afe/202608260350.aspx"
   },
   {
    "t": "Hyundai to build more cars in America, betting big on new hybrids and trucks, CEO says",
@@ -368,40 +392,16 @@
    "u": "https://finance.yahoo.com/markets/stocks/article/hyundai-to-build-more-cars-in-america-betting-big-on-new-hybrids-and-trucks-ceo-says-142338721.html"
   },
   {
-   "t": "科科科技重返資本市場　31日登錄興櫃",
+   "t": "美時腸躁症學名藥獲美法院有利判決　藥證申請重審",
    "pub": "中央社財經",
    "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/afe/202608260301.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608260340.aspx"
   },
   {
-   "t": "US data lifts dollar as Fed hike expectations edge higher",
+   "t": "SSH named preferred contractor for Cavalier’s Crawford stage one",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/dollar-moves-narrow-range-ahead-015118187.html"
-  },
-  {
-   "t": "外資買超逾365億　主動式ETF獲青睞、陽明聯電遭提款",
-   "pub": "中央社財經",
-   "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/afe/202608260295.aspx"
-  },
-  {
-   "t": "Emergency medical evacuation insurance: What it covers, what it costs, and how to compare plans",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/emergency-medical-evacuation-insurance-142045430.html"
-  },
-  {
-   "t": "油價下跌激勵投資人信心　亞股多收漲",
-   "pub": "中央社財經",
-   "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/afe/202608260292.aspx"
-  },
-  {
-   "t": "Applied Nutrition upbeat on annual earnings",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/applied-nutrition-upbeat-annual-earnings-142620439.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/ssh-named-preferred-contractor-cavalier-143432211.html"
   }
  ],
  "inst": {
