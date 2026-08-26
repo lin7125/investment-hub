@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 13:40（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 13:50（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,36 +14,36 @@
   },
   {
    "s": "2317.TW",
-   "p": 247.0,
-   "c": 1.65,
-   "a50": 249.28,
+   "p": 246.5,
+   "c": 1.44,
+   "a50": 249.27,
    "a200": 235.64,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.98,
-   "r": 46.8
+   "a20": 252.95,
+   "r": 46.4
   },
   {
    "s": "2308.TW",
-   "p": 1755.0,
-   "c": 2.63,
-   "a50": 1832.7,
-   "a200": 1551.37,
+   "p": 1750.0,
+   "c": 2.34,
+   "a50": 1832.6,
+   "a200": 1551.34,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1734.75,
-   "r": 48.0
+   "a20": 1734.5,
+   "r": 47.5
   },
   {
    "s": "2454.TW",
-   "p": 3935.0,
-   "c": 5.35,
-   "a50": 3916.0,
-   "a200": 2548.7,
+   "p": 3945.0,
+   "c": 5.62,
+   "a50": 3916.2,
+   "a200": 2548.75,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3876.0,
-   "r": 52.6
+   "a20": 3876.5,
+   "r": 52.9
   },
   {
    "s": "2327.TW",
@@ -58,36 +58,36 @@
   },
   {
    "s": "1802.TW",
-   "p": 60.0,
-   "c": 3.45,
-   "a50": 59.8,
-   "a200": 53.47,
+   "p": 59.7,
+   "c": 2.93,
+   "a50": 59.79,
+   "a200": 53.46,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 54.77,
-   "r": 57.8
+   "a20": 54.75,
+   "r": 57.2
   },
   {
    "s": "6862.TW",
-   "p": 139.0,
-   "c": 0.72,
-   "a50": 161.74,
+   "p": 139.5,
+   "c": 1.09,
+   "a50": 161.75,
    "a200": 175.02,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 139.4,
-   "r": 42.5
+   "a20": 139.43,
+   "r": 43.1
   },
   {
    "s": "3701.TW",
-   "p": 41.5,
-   "c": 1.84,
+   "p": 41.45,
+   "c": 1.72,
    "a50": 41.62,
    "a200": 48.98,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.08,
-   "r": 52.6
+   "a20": 40.07,
+   "r": 52.4
   },
   {
    "s": "4722.TW",
@@ -102,14 +102,14 @@
   },
   {
    "s": "6706.TW",
-   "p": 123.5,
-   "c": 0.41,
-   "a50": 126.6,
+   "p": 123.0,
+   "c": 0.0,
+   "a50": 126.59,
    "a200": 128.28,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 113.79,
-   "r": 54.0
+   "a20": 113.77,
+   "r": 53.6
   },
   {
    "s": "2305.TW",
@@ -135,14 +135,14 @@
   },
   {
    "s": "6515.TW",
-   "p": 5985.0,
-   "c": -4.32,
-   "a50": 7250.3,
-   "a200": 6145.88,
+   "p": 6025.0,
+   "c": -3.68,
+   "a50": 7251.1,
+   "a200": 6146.08,
    "yh": 10795.0,
    "yl": 1140.0,
-   "a20": 6461.25,
-   "r": 38.5
+   "a20": 6463.25,
+   "r": 39.0
   },
   {
    "s": "6446.TW",
@@ -168,25 +168,25 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1335.0,
-   "c": 5.12,
-   "a50": 1266.84,
-   "a200": 1224.29,
+   "p": 1345.0,
+   "c": 5.91,
+   "a50": 1267.04,
+   "a200": 1224.34,
    "yh": 2200.0,
    "yl": 358.5,
-   "a20": 1240.6,
-   "r": 54.8
+   "a20": 1241.1,
+   "r": 55.4
   },
   {
    "s": "3585.TWO",
-   "p": 51.2,
-   "c": 1.19,
-   "a50": 57.39,
+   "p": 51.0,
+   "c": 0.79,
+   "a50": 57.38,
    "a200": 42.92,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 48.84,
-   "r": 49.4
+   "a20": 48.83,
+   "r": 49.0
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45826.21,
-   "c": 1.45,
-   "a50": 44924.63,
-   "a200": 36604.33,
+   "p": 45839.03,
+   "c": 1.48,
+   "a50": 44924.88,
+   "a200": 36604.4,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44611.78,
-   "r": 57.4
+   "a20": 44612.43,
+   "r": 57.5
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.73,
-   "c": -3.22,
-   "a50": 83.95,
+   "p": 85.9,
+   "c": -3.03,
+   "a50": 83.96,
    "a200": 82.81,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.86,
-   "r": 45.7
+   "a20": 87.87,
+   "r": 46.0
   },
   {
    "s": "GC=F",
-   "p": 4702.2,
-   "c": 1.38,
-   "a50": 4202.9,
-   "a200": 4509.04,
+   "p": 4698.8,
+   "c": 1.31,
+   "a50": 4202.83,
+   "a200": 4509.02,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4369.96,
-   "r": 76.5
+   "a20": 4369.79,
+   "r": 76.4
   },
   {
    "s": "HG=F",
-   "p": 6.77,
-   "c": 0.85,
+   "p": 6.76,
+   "c": 0.7,
    "a50": 6.38,
    "a200": 5.93,
-   "yh": 6.77,
+   "yh": 6.76,
    "yl": 4.41,
    "a20": 6.58,
-   "r": 66.3
+   "r": 65.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": -0.04,
+   "p": 0.03142678,
+   "c": -0.03,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260110.aspx"
   },
   {
-   "t": "As U.S. Debt Tops $40 Trillion, This Trade Bets On Further Weakness In The Bond Market",
+   "t": "This Analyst Just Upped Its Price Target on Palo Alto Networks Stock. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/bond-market-weakness-yields-treasury-etf-tlt-40-trillion-options-trade-income-investing-markets/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-upped-price-target-175916623.html"
   },
   {
    "t": "工研院攜手奇美等組示範聯盟　推動塑膠包材循環模式",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260105.aspx"
   },
   {
-   "t": "Nebius Group (NBIS) Just Posted 514% Revenue Growth. Can CoreWeave (CRWV)’s Numbers Compete?",
+   "t": "What credit score is needed to refinance your mortgage?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-nbis-just-posted-174505539.html"
+   "u": "https://finance.yahoo.com/news/credit-score-refinance-mortgage-223510184.html"
   },
   {
    "t": "中小微企業轉型條例擬9月送立院　放寬租稅優惠納小商家",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260104.aspx"
   },
   {
-   "t": "IBM Just Hit a New Quantum Computing Milestone. How to Play IBM Stock Now.",
+   "t": "Dear Semtech Stock Fans, Mark Your Calendars for August 25",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ibm-just-hit-quantum-computing-174126563.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-semtech-stock-fans-mark-180035994.html"
   },
   {
    "t": "新台幣午盤升1.8分　暫收31.85元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260098.aspx"
   },
   {
-   "t": "Berkshire Hathaway (BRK-B)’s Cash Pile Just Shrank for the First Time in Years. Is Greg Abel Finally Spending?",
+   "t": "Coherent (COHR) & Lumentum Holdings (LITE): Two AI Optics Suppliers Just Beat Earnings. Why Did Investors Punish One of Them?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-b-cash-173952752.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/coherent-cohr-lumentum-holdings-lite-180139462.html"
   },
   {
    "t": "大摩上調台灣今年經濟成長預測至11.6%　估迎40年新高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260097.aspx"
   },
   {
-   "t": "Bitcoin Surges On Treasury Game-Changer; Strategy Raises $2 Bil",
+   "t": "SpaceX Has Already Won More Than $8 Billion From Golden Dome. This Could Be Just the Beginning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/bitcoin-price-bessent-treasury-general-account-strategy/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-already-won-more-8-175533478.html"
   }
  ],
  "inst": {
