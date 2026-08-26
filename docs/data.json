@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 11:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 12:07（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,36 +14,36 @@
   },
   {
    "s": "2317.TW",
-   "p": 247.0,
-   "c": 1.65,
-   "a50": 249.28,
-   "a200": 235.64,
+   "p": 247.5,
+   "c": 1.85,
+   "a50": 249.29,
+   "a200": 235.65,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.98,
-   "r": 46.8
+   "a20": 253.0,
+   "r": 47.3
   },
   {
    "s": "2308.TW",
-   "p": 1750.0,
-   "c": 2.34,
-   "a50": 1832.6,
-   "a200": 1551.34,
+   "p": 1755.0,
+   "c": 2.63,
+   "a50": 1832.7,
+   "a200": 1551.37,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1734.5,
-   "r": 47.5
+   "a20": 1734.75,
+   "r": 48.0
   },
   {
    "s": "2454.TW",
-   "p": 3925.0,
-   "c": 5.09,
-   "a50": 3915.8,
-   "a200": 2548.65,
+   "p": 3915.0,
+   "c": 4.82,
+   "a50": 3915.6,
+   "a200": 2548.6,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3875.5,
-   "r": 52.3
+   "a20": 3875.0,
+   "r": 52.0
   },
   {
    "s": "2327.TW",
@@ -58,14 +58,14 @@
   },
   {
    "s": "1802.TW",
-   "p": 60.7,
-   "c": 4.66,
+   "p": 60.6,
+   "c": 4.48,
    "a50": 59.81,
    "a200": 53.47,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 54.8,
-   "r": 59.1
+   "r": 58.9
   },
   {
    "s": "6862.TW",
@@ -80,14 +80,14 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.55,
-   "c": 1.96,
+   "p": 41.7,
+   "c": 2.33,
    "a50": 41.62,
    "a200": 48.98,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.08,
-   "r": 52.8
+   "a20": 40.09,
+   "r": 53.3
   },
   {
    "s": "4722.TW",
@@ -102,58 +102,58 @@
   },
   {
    "s": "6706.TW",
-   "p": 123.0,
-   "c": 0.0,
-   "a50": 126.59,
+   "p": 122.5,
+   "c": -0.41,
+   "a50": 126.58,
    "a200": 128.28,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 113.77,
-   "r": 53.6
+   "a20": 113.74,
+   "r": 53.2
   },
   {
    "s": "2305.TW",
-   "p": 30.35,
-   "c": 7.62,
+   "p": 30.25,
+   "c": 7.27,
    "a50": 32.58,
    "a200": 19.2,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.46,
-   "r": 53.1
+   "a20": 28.45,
+   "r": 52.9
   },
   {
    "s": "6442.TW",
-   "p": 1630.0,
-   "c": 1.56,
-   "a50": 1501.6,
-   "a200": 1615.54,
+   "p": 1625.0,
+   "c": 1.25,
+   "a50": 1501.5,
+   "a200": 1615.51,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1453.25,
-   "r": 58.3
+   "a20": 1453.0,
+   "r": 58.0
   },
   {
    "s": "6515.TW",
-   "p": 6015.0,
-   "c": -3.84,
-   "a50": 7250.9,
-   "a200": 6146.02,
+   "p": 5970.0,
+   "c": -4.56,
+   "a50": 7250.0,
+   "a200": 6145.8,
    "yh": 10795.0,
    "yl": 1140.0,
-   "a20": 6462.75,
-   "r": 38.8
+   "a20": 6460.5,
+   "r": 38.3
   },
   {
    "s": "6446.TW",
-   "p": 1590.0,
-   "c": 6.71,
-   "a50": 1243.47,
-   "a200": 745.69,
-   "yh": 1590.0,
+   "p": 1585.0,
+   "c": 6.38,
+   "a50": 1243.37,
+   "a200": 745.66,
+   "yh": 1585.0,
    "yl": 401.71,
-   "a20": 1352.25,
-   "r": 69.7
+   "a20": 1352.0,
+   "r": 69.5
   },
   {
    "s": "3324.TWO",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.9,
-   "c": 0.59,
+   "p": 50.8,
+   "c": 0.4,
    "a50": 57.38,
-   "a200": 42.92,
+   "a200": 42.91,
    "yh": 165.0,
    "yl": 8.98,
    "a20": 48.82,
-   "r": 48.8
+   "r": 48.6
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45786.91,
-   "c": 1.37,
-   "a50": 44923.84,
-   "a200": 36604.14,
+   "p": 45777.68,
+   "c": 1.35,
+   "a50": 44923.66,
+   "a200": 36604.09,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44609.82,
-   "r": 57.2
+   "a20": 44609.36,
+   "r": 57.1
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.2,
-   "c": -7.56,
-   "a50": 83.83,
-   "a200": 82.68,
+   "p": 88.58,
+   "c": -3.89,
+   "a50": 83.9,
+   "a200": 82.7,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.94,
-   "r": 45.3
+   "a20": 88.11,
+   "r": 50.2
   },
   {
    "s": "GC=F",
-   "p": 4701.5,
-   "c": 1.31,
-   "a50": 4196.68,
-   "a200": 4505.74,
+   "p": 4638.1,
+   "c": -0.06,
+   "a50": 4195.42,
+   "a200": 4505.42,
    "yh": 5318.4,
-   "yl": 3373.8,
-   "a20": 4339.75,
-   "r": 76.5
+   "yl": 3388.6,
+   "a20": 4336.58,
+   "r": 74.0
   },
   {
    "s": "HG=F",
-   "p": 6.75,
-   "c": 2.33,
+   "p": 6.71,
+   "c": 1.67,
    "a50": 6.38,
    "a200": 5.92,
-   "yh": 6.75,
+   "yh": 6.71,
    "yl": 4.41,
    "a20": 6.56,
-   "r": 65.5
+   "r": 63.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03142678,
-   "c": -0.02,
+   "c": -0.03,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260022.aspx"
   },
   {
-   "t": "Analysts Fall Over Themselves With Bullish Ratings On IBD Stock Of The Day",
+   "t": "I Dug Into Michael Burry’s Nvidia Post So You Don’t Have To. Here’s Why I Think He’s Just Fishing.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/jersey-mikes-jmke-stock-of-the-day/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dug-michael-burry-nvidia-post-160235766.html"
   },
   {
    "t": "台股開盤跌11.82點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260021.aspx"
   },
   {
-   "t": "I Dug Into Michael Burry’s Nvidia Post So You Don’t Have To. Here’s Why I Think He’s Just Fishing.",
+   "t": "Analysts Fall Over Themselves With Bullish Ratings On IBD Stock Of The Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dug-michael-burry-nvidia-post-160235766.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/jersey-mikes-jmke-stock-of-the-day/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美股齊揚台積電ADR漲1.78%　投顧：關注輝達財報",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260016.aspx"
   },
   {
-   "t": "Delta CEO Ed Bastian says AI could boost profits by 50% as airline tests AI-set fares on 3% of tickets",
+   "t": "President Trump’s Portfolio Added 2 Stocks Bill Gates and Bill Ackman Also Own",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/delta-ceo-ed-bastian-says-160000381.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/president-trump-portfolio-added-2-162941904.html"
   },
   {
    "t": "華爾街日報：Anthropic自估潛在營收超過30兆美元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260008.aspx"
   },
   {
-   "t": "Royal Caribbean Is Down 20% From Its 52-Week High. Is the Dip Worth Buying?",
+   "t": "Blue-Chip Visa Stock Just Hit a New All-Time High",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-down-20-52-160800199.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/blue-chip-visa-stock-just-163502197.html"
   }
  ],
  "inst": {
