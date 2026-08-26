@@ -1,49 +1,49 @@
 {
- "generatedAt": "2026-08-26 11:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 11:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2410.0,
-   "c": 0.42,
-   "a50": 2393.2,
-   "a200": 1980.92,
+   "p": 2415.0,
+   "c": 0.63,
+   "a50": 2393.3,
+   "a200": 1980.95,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2379.0,
-   "r": 53.3
+   "a20": 2379.25,
+   "r": 53.7
   },
   {
    "s": "2317.TW",
-   "p": 247.5,
-   "c": 1.85,
-   "a50": 249.29,
-   "a200": 235.65,
+   "p": 247.0,
+   "c": 1.65,
+   "a50": 249.28,
+   "a200": 235.64,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.0,
-   "r": 47.3
+   "a20": 252.98,
+   "r": 46.8
   },
   {
    "s": "2308.TW",
-   "p": 1735.0,
-   "c": 1.46,
-   "a50": 1832.3,
-   "a200": 1551.27,
+   "p": 1730.0,
+   "c": 1.17,
+   "a50": 1832.2,
+   "a200": 1551.24,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1733.75,
-   "r": 46.2
+   "a20": 1733.5,
+   "r": 45.8
   },
   {
    "s": "2454.TW",
-   "p": 3955.0,
-   "c": 5.89,
-   "a50": 3916.4,
-   "a200": 2548.8,
+   "p": 3950.0,
+   "c": 5.76,
+   "a50": 3916.3,
+   "a200": 2548.78,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3877.0,
-   "r": 53.1
+   "a20": 3876.75,
+   "r": 53.0
   },
   {
    "s": "2327.TW",
@@ -58,113 +58,113 @@
   },
   {
    "s": "1802.TW",
-   "p": 60.7,
-   "c": 4.66,
-   "a50": 59.81,
+   "p": 60.8,
+   "c": 4.83,
+   "a50": 59.82,
    "a200": 53.47,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 54.8,
-   "r": 59.1
+   "a20": 54.81,
+   "r": 59.3
   },
   {
    "s": "6862.TW",
-   "p": 139.0,
-   "c": 0.72,
-   "a50": 161.74,
+   "p": 138.5,
+   "c": 0.36,
+   "a50": 161.73,
    "a200": 175.02,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 139.4,
-   "r": 42.5
+   "a20": 139.38,
+   "r": 41.8
   },
   {
    "s": "3701.TW",
-   "p": 41.8,
-   "c": 2.58,
+   "p": 41.75,
+   "c": 2.45,
    "a50": 41.62,
    "a200": 48.98,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.09,
-   "r": 53.6
+   "r": 53.4
   },
   {
    "s": "4722.TW",
-   "p": 214.0,
-   "c": 4.39,
-   "a50": 233.97,
+   "p": 214.5,
+   "c": 4.63,
+   "a50": 233.98,
    "a200": 200.0,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 205.62,
-   "r": 50.3
+   "a20": 205.65,
+   "r": 50.6
   },
   {
    "s": "6706.TW",
-   "p": 124.0,
-   "c": 0.81,
-   "a50": 126.61,
+   "p": 124.5,
+   "c": 1.22,
+   "a50": 126.62,
    "a200": 128.29,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 113.82,
-   "r": 54.4
+   "a20": 113.84,
+   "r": 54.8
   },
   {
    "s": "2305.TW",
-   "p": 30.3,
-   "c": 7.45,
-   "a50": 32.58,
+   "p": 30.7,
+   "c": 8.87,
+   "a50": 32.59,
    "a200": 19.2,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.46,
-   "r": 53.0
+   "a20": 28.48,
+   "r": 54.0
   },
   {
    "s": "6442.TW",
-   "p": 1650.0,
-   "c": 2.8,
-   "a50": 1502.0,
-   "a200": 1615.64,
+   "p": 1645.0,
+   "c": 2.49,
+   "a50": 1501.9,
+   "a200": 1615.61,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1454.25,
-   "r": 59.2
+   "a20": 1454.0,
+   "r": 59.0
   },
   {
    "s": "6515.TW",
-   "p": 6050.0,
-   "c": -3.28,
-   "a50": 7251.6,
-   "a200": 6146.2,
+   "p": 6025.0,
+   "c": -3.68,
+   "a50": 7251.1,
+   "a200": 6146.08,
    "yh": 10795.0,
    "yl": 1140.0,
-   "a20": 6464.5,
-   "r": 39.3
+   "a20": 6463.25,
+   "r": 39.0
   },
   {
    "s": "6446.TW",
-   "p": 1585.0,
-   "c": 6.38,
-   "a50": 1243.37,
-   "a200": 745.66,
-   "yh": 1585.0,
+   "p": 1590.0,
+   "c": 6.71,
+   "a50": 1243.47,
+   "a200": 745.69,
+   "yh": 1590.0,
    "yl": 401.71,
-   "a20": 1352.0,
-   "r": 69.5
+   "a20": 1352.25,
+   "r": 69.7
   },
   {
    "s": "3324.TWO",
-   "p": 1070.0,
-   "c": 0.47,
-   "a50": 973.04,
-   "a200": 998.52,
+   "p": 1065.0,
+   "c": 0.0,
+   "a50": 972.94,
+   "a200": 998.5,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 994.2,
-   "r": 61.3
+   "a20": 993.95,
+   "r": 60.7
   },
   {
    "s": "3491.TWO",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5145.0,
-   "c": -8.13,
-   "a50": 6122.6,
-   "a200": 4161.48,
+   "p": 5110.0,
+   "c": -8.75,
+   "a50": 6121.9,
+   "a200": 4161.3,
    "yh": 7380.0,
    "yl": 1285.0,
-   "a20": 5812.75,
-   "r": 39.9
+   "a20": 5811.0,
+   "r": 39.5
   },
   {
    "s": "6750.TWO",
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 45731.37,
-   "c": 1.24,
-   "a50": 44922.73,
-   "a200": 36603.86,
+   "p": 45737.81,
+   "c": 1.26,
+   "a50": 44922.86,
+   "a200": 36603.89,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44607.04,
+   "a20": 44607.36,
    "r": 56.9
   },
   {
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.19,
-   "c": -7.57,
-   "a50": 83.83,
+   "p": 85.32,
+   "c": -7.43,
+   "a50": 83.84,
    "a200": 82.68,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.94,
-   "r": 45.3
+   "r": 45.5
   },
   {
    "s": "GC=F",
-   "p": 4717.3,
-   "c": 1.65,
-   "a50": 4197.0,
-   "a200": 4505.82,
+   "p": 4715.3,
+   "c": 1.61,
+   "a50": 4196.96,
+   "a200": 4505.81,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4340.54,
+   "a20": 4340.44,
    "r": 77.0
   },
   {
    "s": "HG=F",
    "p": 6.75,
-   "c": 2.22,
+   "c": 2.29,
    "a50": 6.38,
    "a200": 5.92,
    "yh": 6.75,
    "yl": 4.41,
    "a20": 6.56,
-   "r": 65.2
+   "r": 65.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": -0.09,
+   "p": 0.03139717,
+   "c": -0.13,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260027.aspx"
   },
   {
-   "t": "Rout in Chipmakers Weighs on Broader Market",
+   "t": "Elevance Health Stock Outlook: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rout-chipmakers-weighs-broader-market-151143186.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/elevance-health-stock-outlook-wall-152400991.html"
   },
   {
    "t": "新台幣開盤升3.8分　為31.83元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260022.aspx"
   },
   {
-   "t": "Elevance Health Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "t": "Rout in Chipmakers Weighs on Broader Market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/elevance-health-stock-outlook-wall-152400991.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rout-chipmakers-weighs-broader-market-151143186.html"
   },
   {
    "t": "台股開盤跌11.82點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260021.aspx"
   },
   {
-   "t": "Billionaire Leon Cooperman Says Investors Are Acting Like ‘Pavlov’s Dog’ — Reveals 2 New Stock Picks",
+   "t": "Ahead of CrowdStrike Earnings, Here's What Barchart Data Says Comes Next for CRWD Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaire-leon-cooperman-says-investors-145743521.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-crowdstrike-earnings-heres-barchart-154036360.html"
   },
   {
    "t": "美股齊揚台積電ADR漲1.78%　投顧：關注輝達財報",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260016.aspx"
   },
   {
-   "t": "Ahead of CrowdStrike Earnings, Here's What Barchart Data Says Comes Next for CRWD Stock",
+   "t": "Bitcoin ETFs Post Strongest Weekly Inflows in 10 Months as Price Surges",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-crowdstrike-earnings-heres-barchart-154036360.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-strongest-weekly-154700094.html"
   },
   {
    "t": "華爾街日報：Anthropic自估潛在營收超過30兆美元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260008.aspx"
   },
   {
-   "t": "Whoever Said Marvell Suffers Customer Concentration Risk Lied",
+   "t": "IHCL to merge Oriental Hotels under proposed share-swap deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/whoever-said-marvell-suffers-customer-151317107.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ihcl-merge-oriental-hotels-under-152259508.html"
   }
  ],
  "inst": {
