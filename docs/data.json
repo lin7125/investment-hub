@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 15:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 22:07（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 309.9,
-   "c": -0.14,
-   "a50": 310.88,
-   "a200": 281.9,
+   "p": 312.5,
+   "c": 0.84,
+   "a50": 311.2,
+   "a200": 282.12,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 311.5,
-   "r": 47.8
+   "a20": 310.22,
+   "r": 50.5
   },
   {
    "s": "NVDA",
-   "p": 213.05,
-   "c": 2.19,
-   "a50": 207.81,
-   "a200": 195.43,
+   "p": 211.79,
+   "c": -0.59,
+   "a50": 207.79,
+   "a200": 195.54,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 214.58,
-   "r": 49.6
+   "a20": 215.67,
+   "r": 48.3
   },
   {
    "s": "TSLA",
-   "p": 350.25,
-   "c": 0.37,
-   "a50": 363.73,
-   "a200": 402.28,
+   "p": 348.21,
+   "c": -0.58,
+   "a50": 362.47,
+   "a200": 401.8,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 332.27,
-   "r": 51.9
+   "a20": 334.76,
+   "r": 50.9
   },
   {
    "s": "META",
-   "p": 570.05,
-   "c": 1.97,
-   "a50": 592.86,
-   "a200": 623.46,
+   "p": 575.5,
+   "c": 0.96,
+   "a50": 592.5,
+   "a200": 623.24,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.57,
-   "r": 46.4
+   "a20": 573.07,
+   "r": 48.4
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7677.28,
-   "c": 0.32,
-   "a50": 7551.14,
-   "a200": 7104.54,
+   "p": 7685.32,
+   "c": 0.1,
+   "a50": 7553.76,
+   "a200": 7109.36,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.83,
-   "r": 53.9
+   "a20": 7687.29,
+   "r": 54.6
   },
   {
    "s": "^VIX",
-   "p": 15.45,
-   "c": -2.52,
-   "a50": 16.65,
-   "a200": 18.45,
+   "p": 15.55,
+   "c": 0.65,
+   "a50": 16.63,
+   "a200": 18.43,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.72,
-   "r": 47.5
+   "a20": 15.47,
+   "r": 48.0
   },
   {
    "s": "BZ=F",
-   "p": 85.4,
-   "c": -3.59,
-   "a50": 83.95,
-   "a200": 82.81,
+   "p": 86.41,
+   "c": -2.45,
+   "a50": 83.97,
+   "a200": 82.82,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.84,
-   "r": 45.3
+   "a20": 87.89,
+   "r": 46.7
   },
   {
    "s": "GC=F",
-   "p": 4692.8,
-   "c": 1.18,
-   "a50": 4202.71,
-   "a200": 4508.99,
+   "p": 4683.0,
+   "c": 0.97,
+   "a50": 4202.52,
+   "a200": 4508.94,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4369.49,
-   "r": 76.2
+   "a20": 4369.0,
+   "r": 75.8
   },
   {
    "s": "HG=F",
-   "p": 6.73,
-   "c": 0.26,
+   "p": 6.78,
+   "c": 0.98,
    "a50": 6.38,
    "a200": 5.93,
-   "yh": 6.73,
+   "yh": 6.78,
    "yl": 4.41,
    "a20": 6.58,
-   "r": 64.5
+   "r": 66.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03145643,
-   "c": 0.06,
+   "p": 0.03140704,
+   "c": -0.09,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "9月台股期指漲979點",
+   "t": "鴻海砸17億元美國購地買廠　估擴AI製造規模",
    "pub": "中央社財經",
    "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/afe/202608260146.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608260317.aspx"
   },
   {
    "t": "Louis Navellier has blunt message on Nvidia’s reign before earnings",
@@ -344,140 +344,140 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html"
   },
   {
-   "t": "台股漲663.16點",
+   "t": "經部：南部淹水面積深度、退水速度均有改善　續編預算擴大治水效益",
    "pub": "中央社財經",
    "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/afe/202608260143.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608260312.aspx"
   },
   {
-   "t": "Diana Shipping (DSX) & Genco Shipping (GNK): A Nearly Year-Long Shipping Takeover Fight Just Ended. Here’s Who Blinked",
+   "t": "Tech stocks today: Meta agrees to settle social media case for $16.68 billion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/diana-shipping-dsx-genco-shipping-195643725.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-agrees-to-settle-social-media-case-for-1668-billion-125406169.html"
   },
   {
-   "t": "高價股領軍　台股上漲663點收45832點",
+   "t": "尖石鄉760戶停電　台電持續搶修",
    "pub": "中央社財經",
    "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/afe/202608260139.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608260302.aspx"
   },
   {
-   "t": "Trucking Downturn: Why 85% of New Carriers Didn’t Survive",
+   "t": "U.S. State Banking Associations To Launch Blockchain Network",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/trucking-downturn-why-85-carriers-200228918.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/u-state-banking-associations-launch-134500669.html"
   },
   {
-   "t": "IMF總裁示警：全球經濟風險仍偏下行　AI成重要支撐",
+   "t": "科科科技重返資本市場　31日登錄興櫃",
    "pub": "中央社財經",
    "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/aopl/202608260136.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608260301.aspx"
   },
   {
-   "t": "Case Closed: How to Play Super Micro Computer Stock as Smuggling Investigation Ends",
+   "t": "Stock Market Today: Dow Steady On Inflation Data; Nvidia Earnings Due Next (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/case-closed-play-super-micro-195241108.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "台灣大硬科技日9/8登場　秀自研企業級AI代理平台",
+   "t": "外資買超逾365億　主動式ETF獲青睞、陽明聯電遭提款",
    "pub": "中央社財經",
    "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/afe/202608260127.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608260295.aspx"
   },
   {
-   "t": "Oil drops more than $2 despite new US sanctions on Iran",
+   "t": "Meta To Pay $18 Billion In Federal Settlement. Stock Wavers.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/oil-falls-1-ahead-us-231835385.html"
+   "u": "https://www.investors.com/news/technology/meta-stock-federal-social-media-addiction-suit/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "川習會9月登場前　華為與惠普簽多年專利授權協議",
+   "t": "油價下跌激勵投資人信心　亞股多收漲",
    "pub": "中央社財經",
    "d": "2026-08-26",
-   "u": "https://www.cna.com.tw/news/aopl/202608260114.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608260292.aspx"
   },
   {
-   "t": "How to Build $3,100 a Month in Dividend Income Starting From Zero",
+   "t": "Gilead Sciences Has Snapped Out of Its Slump -- and 1 Catalyst Is Doing Most of the Heavy Lifting",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/build-3-100-month-dividend-195912668.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/gilead-sciences-snapped-slump-1-135000643.html"
   }
  ],
  "inst": {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "byCode": {
    "1802": {
-    "f": 2568,
-    "t": -357,
-    "all": 2055
-   },
-   "2305": {
-    "f": 440,
-    "t": 0,
-    "all": 452
-   },
-   "2454": {
-    "f": 415,
-    "t": -154,
-    "all": 358
-   },
-   "6442": {
-    "f": 203,
-    "t": -74,
-    "all": 187
-   },
-   "3701": {
-    "f": 99,
-    "t": 0,
-    "all": 101
-   },
-   "6706": {
-    "f": 11,
-    "t": 0,
-    "all": 85
-   },
-   "4722": {
-    "f": 91,
-    "t": 0,
-    "all": 80
-   },
-   "6515": {
-    "f": 67,
-    "t": -34,
-    "all": 33
-   },
-   "6862": {
-    "f": 8,
-    "t": 0,
-    "all": 4
+    "f": 15449,
+    "t": 80,
+    "all": 16510
    },
    "2330": {
-    "f": -1152,
-    "t": 658,
-    "all": -18
+    "f": 5204,
+    "t": -521,
+    "all": 4910
+   },
+   "2305": {
+    "f": 1597,
+    "t": 0,
+    "all": 1611
+   },
+   "2454": {
+    "f": 1231,
+    "t": -227,
+    "all": 1147
    },
    "6446": {
-    "f": -333,
-    "t": 30,
-    "all": -306
+    "f": 704,
+    "t": 88,
+    "all": 816
    },
-   "2327": {
-    "f": 1451,
-    "t": -2343,
-    "all": -1093
+   "3701": {
+    "f": 143,
+    "t": 0,
+    "all": 147
+   },
+   "4722": {
+    "f": 94,
+    "t": 0,
+    "all": 133
+   },
+   "6515": {
+    "f": 42,
+    "t": -2,
+    "all": 43
+   },
+   "6862": {
+    "f": 1,
+    "t": 0,
+    "all": 3
+   },
+   "6442": {
+    "f": -121,
+    "t": -42,
+    "all": -181
+   },
+   "6706": {
+    "f": -484,
+    "t": 0,
+    "all": -495
    },
    "2308": {
-    "f": -1876,
-    "t": -98,
-    "all": -1625
+    "f": 605,
+    "t": -1707,
+    "all": -860
    },
    "2317": {
-    "f": -15522,
-    "t": -404,
-    "all": -14764
+    "f": -2072,
+    "t": 11,
+    "all": -1358
+   },
+   "2327": {
+    "f": 49,
+    "t": -2875,
+    "all": -2411
    }
   },
-  "totalNetE": -47.1
+  "totalNetE": 579.1
  }
 }
