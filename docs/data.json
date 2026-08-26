@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 14:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 14:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.9,
-   "c": 0.59,
+   "p": 51.0,
+   "c": 0.79,
    "a50": 57.38,
    "a200": 42.92,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 48.82,
-   "r": 48.8
+   "a20": 48.83,
+   "r": 49.0
   },
   {
    "s": "6223.TWO",
@@ -289,9 +289,9 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.82,
-   "c": -3.12,
-   "a50": 83.95,
+   "p": 85.84,
+   "c": -3.09,
+   "a50": 83.96,
    "a200": 82.81,
    "yh": 118.35,
    "yl": 58.92,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4695.9,
-   "c": 1.25,
-   "a50": 4202.77,
-   "a200": 4509.0,
+   "p": 4693.4,
+   "c": 1.19,
+   "a50": 4202.72,
+   "a200": 4508.99,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4369.64,
-   "r": 76.3
+   "a20": 4369.52,
+   "r": 76.2
   },
   {
    "s": "HG=F",
    "p": 6.76,
-   "c": 0.72,
+   "c": 0.76,
    "a50": 6.38,
    "a200": 5.93,
    "yh": 6.76,
    "yl": 4.41,
    "a20": 6.58,
-   "r": 65.9
+   "r": 66.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03144654,
-   "c": 0.03,
+   "p": 0.03143666,
+   "c": 0.02,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260105.aspx"
   },
   {
-   "t": "Uber Freight: US-Mexico capacity crunch could ‘get worse before it gets better’",
+   "t": "Ford Motor (F) is Bringing Lincoln Production Home. Why is General Motors (GM) Walking Away From Its Battery Plant?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/uber-freight-us-mexico-capacity-182632148.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ford-motor-f-bringing-lincoln-183816663.html"
   },
   {
    "t": "中小微企業轉型條例擬9月送立院　放寬租稅優惠納小商家",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260104.aspx"
   },
   {
-   "t": "Ford Motor (F) is Bringing Lincoln Production Home. Why is General Motors (GM) Walking Away From Its Battery Plant?",
+   "t": "Chipmaker Stock Pullback Could Reap Bullish Implications",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ford-motor-f-bringing-lincoln-183816663.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chipmaker-stock-pullback-could-reap-183904323.html"
   },
   {
    "t": "新台幣午盤升1.8分　暫收31.85元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260098.aspx"
   },
   {
-   "t": "Chipmaker Stock Pullback Could Reap Bullish Implications",
+   "t": "Sandisk Sinks 37%, but Wall Street Still Backs SNDK Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chipmaker-stock-pullback-could-reap-183904323.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sinks-37-wall-street-182706194.html"
   },
   {
    "t": "大摩上調台灣今年經濟成長預測至11.6%　估迎40年新高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260097.aspx"
   },
   {
-   "t": "What Moderna Must Do to Take Its Stock to the Next Level",
+   "t": "Exelixis Owners Keep Getting A Bigger Slice Of A Company In Transition",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/moderna-stock-cancer-vaccine-8efb9e67?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/exelixis-owners-keep-getting-bigger-183610090.html"
   }
  ],
  "inst": {
