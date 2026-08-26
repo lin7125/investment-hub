@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27 02:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 02:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 314.01,
-   "c": 1.33,
-   "a50": 311.23,
-   "a200": 282.12,
+   "p": 314.53,
+   "c": 1.49,
+   "a50": 311.24,
+   "a200": 282.13,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 310.29,
-   "r": 52.0
+   "a20": 310.32,
+   "r": 52.4
   },
   {
    "s": "NVDA",
-   "p": 210.84,
-   "c": -1.04,
-   "a50": 207.77,
+   "p": 211.05,
+   "c": -0.94,
+   "a50": 207.78,
    "a200": 195.54,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 215.62,
-   "r": 47.4
+   "a20": 215.63,
+   "r": 47.6
   },
   {
    "s": "TSLA",
-   "p": 345.83,
-   "c": -1.26,
-   "a50": 362.42,
-   "a200": 401.78,
+   "p": 346.34,
+   "c": -1.12,
+   "a50": 362.43,
+   "a200": 401.79,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 334.64,
-   "r": 49.8
+   "a20": 334.67,
+   "r": 50.1
   },
   {
    "s": "META",
-   "p": 579.67,
-   "c": 1.69,
+   "p": 579.62,
+   "c": 1.68,
    "a50": 592.59,
    "a200": 623.26,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.28,
+   "a20": 573.27,
    "r": 49.8
   },
   {
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7679.34,
-   "c": 0.03,
-   "a50": 7553.64,
-   "a200": 7109.33,
+   "p": 7681.75,
+   "c": 0.06,
+   "a50": 7553.68,
+   "a200": 7109.34,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7686.99,
-   "r": 54.1
+   "a20": 7687.11,
+   "r": 54.3
   },
   {
    "s": "^VIX",
-   "p": 15.45,
-   "c": 0.0,
+   "p": 15.44,
+   "c": -0.06,
    "a50": 16.63,
    "a200": 18.43,
    "yh": 31.05,
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 86.93,
-   "c": -1.86,
-   "a50": 83.98,
+   "p": 86.8,
+   "c": -2.01,
+   "a50": 83.97,
    "a200": 82.82,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.92,
-   "r": 47.5
+   "a20": 87.91,
+   "r": 47.3
   },
   {
    "s": "GC=F",
-   "p": 4649.4,
-   "c": 0.24,
-   "a50": 4201.84,
-   "a200": 4508.77,
+   "p": 4651.6,
+   "c": 0.29,
+   "a50": 4201.89,
+   "a200": 4508.78,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4367.32,
-   "r": 74.5
+   "a20": 4367.43,
+   "r": 74.6
   },
   {
    "s": "HG=F",
-   "p": 6.7,
-   "c": -0.07,
+   "p": 6.71,
+   "c": -0.04,
    "a50": 6.38,
    "a200": 5.93,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.58,
-   "r": 63.3
+   "r": 63.4
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260356.aspx"
   },
   {
-   "t": "India’s Crude Import Bill Surges as Hormuz Shipping Rates Soar",
+   "t": "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/india-crude-import-bill-surges-094500112.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-chipmaker-enflame-sets-subscription-date-for-near-900-million-shanghai-ipo-030523823.html"
   },
   {
    "t": "今彩539第115207期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608260354.aspx"
   },
   {
-   "t": "Bitcoin has just wiped out three months of losses in 1 week",
+   "t": "Nvidia faces growth test as Rubin debut meets AI financing scrutiny",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/article/bitcoin-has-just-wiped-out-three-months-of-losses-in-1-week-091208677.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-growth-test-rubin-100234535.html"
   },
   {
    "t": "聯準會偏好通膨指標　美國7月PCE持平惟仍接近3年高點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260353.aspx"
   },
   {
-   "t": "US Dollar Price Forecast: Warsh Speech Looms as EUR/USD and GBP/USD Hold Firm",
+   "t": "Software is crushing chips by a record margin: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-warsh-085747517.html"
+   "u": "https://finance.yahoo.com/markets/article/software-is-crushing-chips-by-a-record-margin-chart-of-the-day-100000109.html"
   },
   {
    "t": "閎暉認購FDK私募可轉債　總額25億日圓",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260351.aspx"
   },
   {
-   "t": "In US-Canada trade spat, Washington left out a key lever: Canadian oil",
+   "t": "Best CD rates today, Tuesday, August 25, 2026: Lock in up to 4.30% APY today with multiple offers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/article/in-us-canada-trade-spat-washington-left-out-a-key-lever-canadian-oil-090000999.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-25-2026-lock-in-up-to-430-apy-today-with-multiple-offers-100000257.html"
   },
   {
    "t": "南山人壽上半年股東權益達5630億元　較年初增92%",
