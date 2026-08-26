@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 13:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 13:54（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -91,14 +91,14 @@
   },
   {
    "s": "4722.TW",
-   "p": 212.0,
-   "c": 3.41,
-   "a50": 233.93,
-   "a200": 199.99,
+   "p": 211.0,
+   "c": 2.93,
+   "a50": 233.91,
+   "a200": 199.98,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 205.52,
-   "r": 49.4
+   "a20": 205.48,
+   "r": 48.9
   },
   {
    "s": "6706.TW",
@@ -124,14 +124,14 @@
   },
   {
    "s": "6442.TW",
-   "p": 1615.0,
-   "c": 0.62,
-   "a50": 1501.3,
-   "a200": 1615.46,
+   "p": 1610.0,
+   "c": 0.31,
+   "a50": 1501.2,
+   "a200": 1615.44,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1452.5,
-   "r": 57.6
+   "a20": 1452.25,
+   "r": 57.3
   },
   {
    "s": "6515.TW",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45839.03,
-   "c": 1.48,
-   "a50": 44924.88,
-   "a200": 36604.4,
+   "p": 45832.62,
+   "c": 1.47,
+   "a50": 44924.76,
+   "a200": 36604.36,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44612.43,
-   "r": 57.5
+   "a20": 44612.11,
+   "r": 57.4
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.9,
-   "c": -3.03,
+   "p": 85.94,
+   "c": -2.98,
    "a50": 83.96,
    "a200": 82.81,
    "yh": 118.35,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4698.8,
-   "c": 1.31,
-   "a50": 4202.83,
-   "a200": 4509.02,
+   "p": 4695.4,
+   "c": 1.24,
+   "a50": 4202.76,
+   "a200": 4509.0,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4369.79,
-   "r": 76.4
+   "a20": 4369.62,
+   "r": 76.3
   },
   {
    "s": "HG=F",
    "p": 6.76,
-   "c": 0.7,
+   "c": 0.69,
    "a50": 6.38,
    "a200": 5.93,
    "yh": 6.76,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260110.aspx"
   },
   {
-   "t": "This Analyst Just Upped Its Price Target on Palo Alto Networks Stock. Here's Why.",
+   "t": "Behind the Ticker: KMEM Bets on Memory Chip Bottlenecks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-upped-price-target-175916623.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/behind-ticker-kmem-bets-memory-180513510.html"
   },
   {
    "t": "工研院攜手奇美等組示範聯盟　推動塑膠包材循環模式",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260105.aspx"
   },
   {
-   "t": "What credit score is needed to refinance your mortgage?",
+   "t": "Wall Street is rotating out of 2026's biggest winners: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/credit-score-refinance-mortgage-223510184.html"
+   "u": "https://finance.yahoo.com/markets/article/wall-street-is-rotating-out-of-2026s-biggest-winners-chart-of-the-day-180639239.html"
   },
   {
    "t": "中小微企業轉型條例擬9月送立院　放寬租稅優惠納小商家",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260104.aspx"
   },
   {
-   "t": "Dear Semtech Stock Fans, Mark Your Calendars for August 25",
+   "t": "Teradyne, Lumentum Back On Analysts' Earnings Radar, With Two More Stocks On Watch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-semtech-stock-fans-mark-180035994.html"
+   "u": "https://www.investors.com/research/teradyne-ter-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "新台幣午盤升1.8分　暫收31.85元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260098.aspx"
   },
   {
-   "t": "Coherent (COHR) & Lumentum Holdings (LITE): Two AI Optics Suppliers Just Beat Earnings. Why Did Investors Punish One of Them?",
+   "t": "This Generator Stock Has Been Crushed. But Data Center Orders Just Became a $1 Billion Growth Story",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/coherent-cohr-lumentum-holdings-lite-180139462.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/generator-stock-crushed-data-center-180716353.html"
   },
   {
    "t": "大摩上調台灣今年經濟成長預測至11.6%　估迎40年新高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260097.aspx"
   },
   {
-   "t": "SpaceX Has Already Won More Than $8 Billion From Golden Dome. This Could Be Just the Beginning",
+   "t": "Visa Just Put Hims & Hers in the Penalty Box—Here’s Why It Matters",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-already-won-more-8-175533478.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/visa-just-put-hims-hers-180500136.html"
   }
  ],
  "inst": {
