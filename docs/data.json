@@ -1,214 +1,214 @@
 {
- "generatedAt": "2026-08-27 05:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 05:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2400.0,
-   "c": 1.05,
-   "a50": 2393.0,
-   "a200": 1976.4,
+   "p": 2415.0,
+   "c": 0.63,
+   "a50": 2393.3,
+   "a200": 1980.95,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2368.5,
-   "r": 52.2
+   "a20": 2379.25,
+   "r": 53.7
   },
   {
    "s": "2317.TW",
-   "p": 243.0,
-   "c": -0.21,
-   "a50": 249.72,
-   "a200": 235.72,
+   "p": 246.5,
+   "c": 1.44,
+   "a50": 249.27,
+   "a200": 235.64,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.48,
-   "r": 43.0
+   "a20": 252.95,
+   "r": 46.4
   },
   {
    "s": "2308.TW",
-   "p": 1710.0,
-   "c": -1.44,
-   "a50": 1842.2,
-   "a200": 1547.64,
+   "p": 1750.0,
+   "c": 2.34,
+   "a50": 1832.6,
+   "a200": 1551.34,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1721.75,
-   "r": 43.9
+   "a20": 1734.5,
+   "r": 47.5
   },
   {
    "s": "2454.TW",
-   "p": 3735.0,
-   "c": -0.8,
-   "a50": 3928.5,
-   "a200": 2535.57,
+   "p": 3945.0,
+   "c": 5.62,
+   "a50": 3916.2,
+   "a200": 2548.75,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3836.75,
-   "r": 45.7
+   "a20": 3876.5,
+   "r": 52.9
   },
   {
    "s": "2327.TW",
-   "p": 544.0,
-   "c": -1.27,
-   "a50": 760.49,
-   "a200": 440.76,
+   "p": 537.0,
+   "c": -1.29,
+   "a50": 752.23,
+   "a200": 442.2,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 565.92,
-   "r": 39.2
+   "a20": 567.42,
+   "r": 38.4
   },
   {
    "s": "1802.TW",
-   "p": 58.0,
-   "c": 1.93,
-   "a50": 59.96,
-   "a200": 53.31,
+   "p": 59.7,
+   "c": 2.93,
+   "a50": 59.79,
+   "a200": 53.46,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 53.97,
-   "r": 53.5
+   "a20": 54.75,
+   "r": 57.2
   },
   {
    "s": "6862.TW",
-   "p": 138.0,
-   "c": 0.73,
-   "a50": 162.72,
-   "a200": 175.3,
+   "p": 139.5,
+   "c": 1.09,
+   "a50": 161.75,
+   "a200": 175.02,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 138.48,
-   "r": 41.1
+   "a20": 139.43,
+   "r": 43.1
   },
   {
    "s": "3701.TW",
-   "p": 40.75,
-   "c": 2.39,
-   "a50": 41.74,
-   "a200": 48.95,
+   "p": 41.45,
+   "c": 1.72,
+   "a50": 41.62,
+   "a200": 48.98,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 39.75,
-   "r": 50.0
+   "a20": 40.07,
+   "r": 52.4
   },
   {
    "s": "4722.TW",
-   "p": 205.0,
-   "c": 1.23,
-   "a50": 234.49,
-   "a200": 199.8,
+   "p": 211.0,
+   "c": 2.93,
+   "a50": 233.91,
+   "a200": 199.98,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 203.25,
-   "r": 45.8
+   "a20": 205.48,
+   "r": 48.9
   },
   {
    "s": "6706.TW",
    "p": 123.0,
-   "c": 7.42,
-   "a50": 127.44,
-   "a200": 128.01,
+   "c": 0.0,
+   "a50": 126.59,
+   "a200": 128.28,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 112.32,
+   "a20": 113.77,
    "r": 53.6
   },
   {
    "s": "2305.TW",
-   "p": 28.2,
-   "c": 5.82,
-   "a50": 32.58,
-   "a200": 19.11,
+   "p": 31.0,
+   "c": 9.93,
+   "a50": 32.6,
+   "a200": 19.21,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.31,
-   "r": 47.2
+   "a20": 28.49,
+   "r": 54.7
   },
   {
    "s": "6442.TW",
-   "p": 1605.0,
-   "c": 9.93,
-   "a50": 1506.5,
-   "a200": 1612.1,
+   "p": 1610.0,
+   "c": 0.31,
+   "a50": 1501.2,
+   "a200": 1615.44,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1427.25,
-   "r": 57.1
+   "a20": 1452.25,
+   "r": 57.3
   },
   {
    "s": "6515.TW",
-   "p": 6255.0,
-   "c": 1.79,
-   "a50": 7329.5,
-   "a200": 6128.65,
+   "p": 6025.0,
+   "c": -3.68,
+   "a50": 7251.1,
+   "a200": 6146.08,
    "yh": 10795.0,
    "yl": 1140.0,
-   "a20": 6432.75,
-   "r": 42.3
+   "a20": 6463.25,
+   "r": 39.0
   },
   {
    "s": "6446.TW",
-   "p": 1490.0,
-   "c": 1.02,
-   "a50": 1229.53,
-   "a200": 739.96,
-   "yh": 1500.0,
+   "p": 1585.0,
+   "c": 6.38,
+   "a50": 1243.37,
+   "a200": 745.66,
+   "yh": 1585.0,
    "yl": 401.71,
-   "a20": 1326.75,
-   "r": 64.5
+   "a20": 1352.0,
+   "r": 69.5
   },
   {
    "s": "3324.TWO",
-   "p": 1065.0,
-   "c": 4.93,
-   "a50": 972.64,
-   "a200": 998.3,
+   "p": 1075.0,
+   "c": 0.94,
+   "a50": 973.14,
+   "a200": 998.54,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 983.45,
-   "r": 60.7
+   "a20": 994.45,
+   "r": 61.8
   },
   {
    "s": "3491.TWO",
-   "p": 1270.0,
-   "c": -1.55,
-   "a50": 1271.54,
-   "a200": 1219.72,
+   "p": 1345.0,
+   "c": 5.91,
+   "a50": 1267.04,
+   "a200": 1224.34,
    "yh": 2200.0,
    "yl": 358.5,
-   "a20": 1225.1,
-   "r": 50.1
+   "a20": 1241.1,
+   "r": 55.4
   },
   {
    "s": "3585.TWO",
-   "p": 50.6,
-   "c": 1.0,
-   "a50": 57.68,
-   "a200": 42.73,
+   "p": 51.0,
+   "c": 0.79,
+   "a50": 57.38,
+   "a200": 42.92,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 48.21,
-   "r": 48.2
+   "a20": 48.83,
+   "r": 49.0
   },
   {
    "s": "6223.TWO",
-   "p": 5600.0,
-   "c": 0.63,
-   "a50": 6148.6,
-   "a200": 4145.77,
+   "p": 5040.0,
+   "c": -10.0,
+   "a50": 6120.5,
+   "a200": 4160.95,
    "yh": 7380.0,
    "yl": 1285.0,
-   "a20": 5795.0,
-   "r": 45.7
+   "a20": 5807.5,
+   "r": 38.7
   },
   {
    "s": "6750.TWO",
-   "p": 54.1,
-   "c": -1.46,
-   "a50": 59.62,
-   "a200": 57.09,
+   "p": 54.0,
+   "c": -0.18,
+   "a50": 59.42,
+   "a200": 57.14,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 54.8,
-   "r": 41.9
+   "a20": 55.0,
+   "r": 41.6
   },
   {
    "s": "AAPL",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608270005.aspx"
   },
   {
-   "t": "Option Traders Bet On Bitcoin’s Price Topping $82,000",
+   "t": "USD/JPY and USD/CHF Eye Upside as GBP/USD Rally Fades",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/option-traders-bet-bitcoin-price-132500757.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/usd-jpy-usd-chf-eye-132852213.html"
   },
   {
    "t": "油價下跌　歐股多收紅",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270003.aspx"
   },
   {
-   "t": "Home prices rose 2.1% in June, even as high mortgage rates keep the market 'under pressure'",
+   "t": "Option Traders Bet On Bitcoin’s Price Topping $82,000",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/article/home-prices-rose-21-in-june-even-as-high-mortgage-rates-keep-the-market-under-pressure-132414534.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/option-traders-bet-bitcoin-price-132500757.html"
   },
   {
    "t": "中信銀攜手統一集團推聯名卡　首年百萬卡目標達陣",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260356.aspx"
   },
   {
-   "t": "Covered Call Yields with ConocoPhillips Are Attractive as COP Stock Is Near a Peak",
+   "t": "Home prices rose 2.1% in June, even as high mortgage rates keep the market 'under pressure'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/covered-call-yields-conocophillips-attractive-131502930.html"
+   "u": "https://finance.yahoo.com/real-estate/article/home-prices-rose-21-in-june-even-as-high-mortgage-rates-keep-the-market-under-pressure-132414534.html"
   },
   {
    "t": "今彩539第115207期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608260354.aspx"
   },
   {
-   "t": "USD/JPY and USD/CHF Eye Upside as GBP/USD Rally Fades",
+   "t": "Covered Call Yields with ConocoPhillips Are Attractive as COP Stock Is Near a Peak",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/usd-jpy-usd-chf-eye-132852213.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/covered-call-yields-conocophillips-attractive-131502930.html"
   },
   {
    "t": "聯準會偏好通膨指標　美國7月PCE持平惟仍接近3年高點",
