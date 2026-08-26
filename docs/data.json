@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 11:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 11:57（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,14 +14,14 @@
   },
   {
    "s": "2317.TW",
-   "p": 246.0,
-   "c": 1.23,
-   "a50": 249.26,
+   "p": 247.0,
+   "c": 1.65,
+   "a50": 249.28,
    "a200": 235.64,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.92,
-   "r": 45.9
+   "a20": 252.98,
+   "r": 46.8
   },
   {
    "s": "2308.TW",
@@ -36,36 +36,36 @@
   },
   {
    "s": "2454.TW",
-   "p": 3910.0,
-   "c": 4.69,
-   "a50": 3915.5,
-   "a200": 2548.57,
+   "p": 3925.0,
+   "c": 5.09,
+   "a50": 3915.8,
+   "a200": 2548.65,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3874.75,
-   "r": 51.8
+   "a20": 3875.5,
+   "r": 52.3
   },
   {
    "s": "2327.TW",
-   "p": 537.0,
-   "c": -1.29,
-   "a50": 752.23,
-   "a200": 442.2,
+   "p": 536.0,
+   "c": -1.47,
+   "a50": 752.21,
+   "a200": 442.19,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 567.42,
-   "r": 38.4
+   "a20": 567.38,
+   "r": 38.3
   },
   {
    "s": "1802.TW",
-   "p": 60.5,
-   "c": 4.31,
+   "p": 60.7,
+   "c": 4.66,
    "a50": 59.81,
    "a200": 53.47,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 54.79,
-   "r": 58.8
+   "a20": 54.8,
+   "r": 59.1
   },
   {
    "s": "6862.TW",
@@ -80,69 +80,69 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.6,
-   "c": 2.09,
+   "p": 41.55,
+   "c": 1.96,
    "a50": 41.62,
    "a200": 48.98,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.08,
-   "r": 52.9
+   "r": 52.8
   },
   {
    "s": "4722.TW",
-   "p": 212.5,
-   "c": 3.66,
-   "a50": 233.94,
+   "p": 212.0,
+   "c": 3.41,
+   "a50": 233.93,
    "a200": 199.99,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 205.55,
-   "r": 49.6
+   "a20": 205.52,
+   "r": 49.4
   },
   {
    "s": "6706.TW",
-   "p": 123.5,
-   "c": 0.41,
-   "a50": 126.6,
+   "p": 123.0,
+   "c": 0.0,
+   "a50": 126.59,
    "a200": 128.28,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 113.79,
-   "r": 54.0
+   "a20": 113.77,
+   "r": 53.6
   },
   {
    "s": "2305.TW",
-   "p": 30.45,
-   "c": 7.98,
-   "a50": 32.59,
+   "p": 30.35,
+   "c": 7.62,
+   "a50": 32.58,
    "a200": 19.2,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 28.46,
-   "r": 53.4
+   "r": 53.1
   },
   {
    "s": "6442.TW",
-   "p": 1645.0,
-   "c": 2.49,
-   "a50": 1501.9,
-   "a200": 1615.61,
+   "p": 1630.0,
+   "c": 1.56,
+   "a50": 1501.6,
+   "a200": 1615.54,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1454.0,
-   "r": 59.0
+   "a20": 1453.25,
+   "r": 58.3
   },
   {
    "s": "6515.TW",
-   "p": 6005.0,
-   "c": -4.0,
-   "a50": 7250.7,
-   "a200": 6145.98,
+   "p": 6015.0,
+   "c": -3.84,
+   "a50": 7250.9,
+   "a200": 6146.02,
    "yh": 10795.0,
    "yl": 1140.0,
-   "a20": 6462.25,
-   "r": 38.7
+   "a20": 6462.75,
+   "r": 38.8
   },
   {
    "s": "6446.TW",
@@ -168,25 +168,25 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1300.0,
-   "c": 2.36,
-   "a50": 1266.14,
-   "a200": 1224.11,
+   "p": 1295.0,
+   "c": 1.97,
+   "a50": 1266.04,
+   "a200": 1224.09,
    "yh": 2200.0,
    "yl": 358.5,
-   "a20": 1238.85,
-   "r": 52.4
+   "a20": 1238.6,
+   "r": 52.0
   },
   {
    "s": "3585.TWO",
-   "p": 51.0,
-   "c": 0.79,
+   "p": 50.9,
+   "c": 0.59,
    "a50": 57.38,
    "a200": 42.92,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 48.83,
-   "r": 49.0
+   "a20": 48.82,
+   "r": 48.8
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45775.38,
-   "c": 1.34,
-   "a50": 44923.61,
-   "a200": 36604.08,
+   "p": 45786.91,
+   "c": 1.37,
+   "a50": 44923.84,
+   "a200": 36604.14,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44609.24,
-   "r": 57.1
+   "a20": 44609.82,
+   "r": 57.2
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 85.11,
-   "c": -7.66,
+   "p": 85.2,
+   "c": -7.56,
    "a50": 83.83,
    "a200": 82.68,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.93,
-   "r": 45.2
+   "a20": 87.94,
+   "r": 45.3
   },
   {
    "s": "GC=F",
-   "p": 4706.1,
-   "c": 1.41,
-   "a50": 4196.78,
-   "a200": 4505.76,
+   "p": 4701.5,
+   "c": 1.31,
+   "a50": 4196.68,
+   "a200": 4505.74,
    "yh": 5318.4,
    "yl": 3373.8,
-   "a20": 4339.98,
-   "r": 76.7
+   "a20": 4339.75,
+   "r": 76.5
   },
   {
    "s": "HG=F",
-   "p": 6.76,
-   "c": 2.41,
+   "p": 6.75,
+   "c": 2.33,
    "a50": 6.38,
    "a200": 5.92,
-   "yh": 6.76,
+   "yh": 6.75,
    "yl": 4.41,
    "a20": 6.56,
-   "r": 65.7
+   "r": 65.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": -0.07,
+   "p": 0.03142678,
+   "c": -0.02,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260027.aspx"
   },
   {
-   "t": "Analysts Fall Over Themselves With Bullish Ratings On IBD Stock Of The Day",
+   "t": "Do Wall Street Analysts Like The Trade Desk Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/jersey-mikes-jmke-stock-of-the-day/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-trade-desk-160841144.html"
   },
   {
    "t": "新台幣開盤升3.8分　為31.83元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260022.aspx"
   },
   {
-   "t": "I Dug Into Michael Burry’s Nvidia Post So You Don’t Have To. Here’s Why I Think He’s Just Fishing.",
+   "t": "Analysts Fall Over Themselves With Bullish Ratings On IBD Stock Of The Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dug-michael-burry-nvidia-post-160235766.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/jersey-mikes-jmke-stock-of-the-day/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股開盤跌11.82點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260021.aspx"
   },
   {
-   "t": "Do Wall Street Analysts Like The Trade Desk Stock?",
+   "t": "I Dug Into Michael Burry’s Nvidia Post So You Don’t Have To. Here’s Why I Think He’s Just Fishing.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-trade-desk-160841144.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dug-michael-burry-nvidia-post-160235766.html"
   },
   {
    "t": "美股齊揚台積電ADR漲1.78%　投顧：關注輝達財報",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260016.aspx"
   },
   {
-   "t": "Stellantis Gets Squeezed at the Border",
+   "t": "Delta CEO Ed Bastian says AI could boost profits by 50% as airline tests AI-set fares on 3% of tickets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stellantis-gets-squeezed-border-155837261.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/delta-ceo-ed-bastian-says-160000381.html"
   },
   {
    "t": "華爾街日報：Anthropic自估潛在營收超過30兆美元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260008.aspx"
   },
   {
-   "t": "Goldman, Wells Say Treasury Buybacks Unlikely to Cut Long Rates",
+   "t": "Royal Caribbean Is Down 20% From Its 52-Week High. Is the Dip Worth Buying?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/goldman-wells-treasury-buybacks-unlikely-160115810.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-down-20-52-160800199.html"
   }
  ],
  "inst": {
