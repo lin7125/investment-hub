@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26 12:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-26 12:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,14 +14,14 @@
   },
   {
    "s": "2317.TW",
-   "p": 247.5,
-   "c": 1.85,
-   "a50": 249.29,
-   "a200": 235.65,
+   "p": 246.5,
+   "c": 1.44,
+   "a50": 249.27,
+   "a200": 235.64,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.0,
-   "r": 47.3
+   "a20": 252.95,
+   "r": 46.4
   },
   {
    "s": "2308.TW",
@@ -36,14 +36,14 @@
   },
   {
    "s": "2454.TW",
-   "p": 3915.0,
-   "c": 4.82,
-   "a50": 3915.6,
-   "a200": 2548.6,
+   "p": 3945.0,
+   "c": 5.62,
+   "a50": 3916.2,
+   "a200": 2548.75,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3875.0,
-   "r": 52.0
+   "a20": 3876.5,
+   "r": 52.9
   },
   {
    "s": "2327.TW",
@@ -80,91 +80,91 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.7,
-   "c": 2.33,
-   "a50": 41.62,
-   "a200": 48.98,
+   "p": 41.4,
+   "c": 1.6,
+   "a50": 41.61,
+   "a200": 48.97,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.09,
-   "r": 53.3
+   "a20": 40.07,
+   "r": 52.3
   },
   {
    "s": "4722.TW",
-   "p": 212.0,
-   "c": 3.41,
-   "a50": 233.93,
-   "a200": 199.99,
+   "p": 211.0,
+   "c": 2.93,
+   "a50": 233.91,
+   "a200": 199.98,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 205.52,
-   "r": 49.4
+   "a20": 205.48,
+   "r": 48.9
   },
   {
    "s": "6706.TW",
-   "p": 122.5,
-   "c": -0.41,
-   "a50": 126.58,
+   "p": 123.5,
+   "c": 0.41,
+   "a50": 126.6,
    "a200": 128.28,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 113.74,
-   "r": 53.2
+   "a20": 113.79,
+   "r": 54.0
   },
   {
    "s": "2305.TW",
-   "p": 30.25,
-   "c": 7.27,
+   "p": 30.35,
+   "c": 7.62,
    "a50": 32.58,
    "a200": 19.2,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.45,
-   "r": 52.9
+   "a20": 28.46,
+   "r": 53.1
   },
   {
    "s": "6442.TW",
-   "p": 1625.0,
-   "c": 1.25,
-   "a50": 1501.5,
-   "a200": 1615.51,
+   "p": 1635.0,
+   "c": 1.87,
+   "a50": 1501.7,
+   "a200": 1615.56,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1453.0,
-   "r": 58.0
+   "a20": 1453.5,
+   "r": 58.5
   },
   {
    "s": "6515.TW",
-   "p": 5960.0,
-   "c": -4.72,
-   "a50": 7249.8,
-   "a200": 6145.75,
+   "p": 5990.0,
+   "c": -4.24,
+   "a50": 7250.4,
+   "a200": 6145.9,
    "yh": 10795.0,
    "yl": 1140.0,
-   "a20": 6460.0,
-   "r": 38.1
+   "a20": 6461.5,
+   "r": 38.5
   },
   {
    "s": "6446.TW",
-   "p": 1585.0,
-   "c": 6.38,
-   "a50": 1243.37,
-   "a200": 745.66,
-   "yh": 1585.0,
+   "p": 1595.0,
+   "c": 7.05,
+   "a50": 1243.57,
+   "a200": 745.71,
+   "yh": 1595.0,
    "yl": 401.71,
-   "a20": 1352.0,
-   "r": 69.5
+   "a20": 1352.5,
+   "r": 69.9
   },
   {
    "s": "3324.TWO",
-   "p": 1060.0,
-   "c": -0.47,
-   "a50": 972.84,
-   "a200": 998.47,
+   "p": 1065.0,
+   "c": 0.0,
+   "a50": 972.94,
+   "a200": 998.5,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 993.7,
-   "r": 59.9
+   "a20": 993.95,
+   "r": 60.7
   },
   {
    "s": "3491.TWO",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.8,
-   "c": 0.4,
+   "p": 50.6,
+   "c": 0.0,
    "a50": 57.38,
    "a200": 42.91,
    "yh": 165.0,
    "yl": 8.98,
-   "a20": 48.82,
-   "r": 48.6
+   "a20": 48.81,
+   "r": 48.2
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45777.18,
-   "c": 1.35,
-   "a50": 44923.65,
-   "a200": 36604.09,
+   "p": 45809.05,
+   "c": 1.42,
+   "a50": 44924.28,
+   "a200": 36604.25,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 44609.33,
-   "r": 57.1
+   "a20": 44610.93,
+   "r": 57.3
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.58,
-   "c": -3.89,
-   "a50": 83.9,
-   "a200": 82.7,
+   "p": 85.21,
+   "c": -3.8,
+   "a50": 83.94,
+   "a200": 82.81,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.11,
-   "r": 50.2
+   "a20": 87.83,
+   "r": 45.0
   },
   {
    "s": "GC=F",
-   "p": 4638.1,
-   "c": -0.06,
-   "a50": 4195.42,
-   "a200": 4505.42,
+   "p": 4699.3,
+   "c": 1.32,
+   "a50": 4202.84,
+   "a200": 4509.02,
    "yh": 5318.4,
    "yl": 3388.6,
-   "a20": 4336.58,
-   "r": 74.0
+   "a20": 4369.81,
+   "r": 76.4
   },
   {
    "s": "HG=F",
-   "p": 6.71,
-   "c": 1.67,
+   "p": 6.76,
+   "c": 0.74,
    "a50": 6.38,
-   "a200": 5.92,
-   "yh": 6.71,
+   "a200": 5.93,
+   "yh": 6.76,
    "yl": 4.41,
-   "a20": 6.56,
-   "r": 63.7
+   "a20": 6.58,
+   "r": 65.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03142678,
-   "c": -0.03,
+   "c": -0.04,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260027.aspx"
   },
   {
-   "t": "Do Wall Street Analysts Like The Trade Desk Stock?",
+   "t": "Blue-Chip Visa Stock Just Hit a New All-Time High",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-trade-desk-160841144.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/blue-chip-visa-stock-just-163502197.html"
   },
   {
    "t": "新台幣開盤升3.8分　為31.83元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260022.aspx"
   },
   {
-   "t": "I Dug Into Michael Burry’s Nvidia Post So You Don’t Have To. Here’s Why I Think He’s Just Fishing.",
+   "t": "President Trump’s Portfolio Added 2 Stocks Bill Gates and Bill Ackman Also Own",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dug-michael-burry-nvidia-post-160235766.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/president-trump-portfolio-added-2-162941904.html"
   },
   {
    "t": "台股開盤跌11.82點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260021.aspx"
   },
   {
-   "t": "Analysts Fall Over Themselves With Bullish Ratings On IBD Stock Of The Day",
+   "t": "Elon Musk’s Social Security reset is coming even after DOGE’s death — protect your check whether you like him or not",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/jersey-mikes-jmke-stock-of-the-day/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/policy/articles/elon-musk-social-security-reset-163919950.html"
   },
   {
    "t": "美股齊揚台積電ADR漲1.78%　投顧：關注輝達財報",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608260016.aspx"
   },
   {
-   "t": "President Trump’s Portfolio Added 2 Stocks Bill Gates and Bill Ackman Also Own",
+   "t": "Napco Security Technologies, Inc. Q4 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/president-trump-portfolio-added-2-162941904.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/napco-security-technologies-inc-q4-165248914.html"
   },
   {
    "t": "華爾街日報：Anthropic自估潛在營收超過30兆美元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608260008.aspx"
   },
   {
-   "t": "Blue-Chip Visa Stock Just Hit a New All-Time High",
+   "t": "Citi renews Nvidia stock forecast ahead of earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/blue-chip-visa-stock-just-163502197.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/analyst-rethinks-nvidia-stock-ahead-163300755.html"
   }
  ],
  "inst": {
