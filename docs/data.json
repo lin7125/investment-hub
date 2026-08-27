@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27 20:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 20:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,14 +278,14 @@
   },
   {
    "s": "^VIX",
-   "p": 15.0,
-   "c": -1.38,
+   "p": 14.97,
+   "c": -1.58,
    "a50": 16.6,
    "a200": 18.41,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.35,
-   "r": 45.4
+   "r": 45.3
   },
   {
    "s": "BZ=F",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4651.9,
-   "c": 1.17,
-   "a50": 4207.24,
-   "a200": 4511.78,
+   "p": 4648.0,
+   "c": 1.08,
+   "a50": 4207.16,
+   "a200": 4511.76,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4392.35,
-   "r": 72.0
+   "a20": 4392.15,
+   "r": 71.8
   },
   {
    "s": "HG=F",
-   "p": 6.67,
-   "c": 1.08,
+   "p": 6.68,
+   "c": 1.26,
    "a50": 6.38,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 58.8
+   "r": 59.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
-   "c": 0.45,
+   "p": 0.0315557,
+   "c": 0.46,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270285.aspx"
   },
   {
-   "t": "NetEase’s (NTES) Old Hits Are Still Doing The Heavy Lifting",
+   "t": "Gold prices today, Thursday, August 27, 2026: Prices pull back after PCE report, ahead of Warsh speech",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/netease-ntes-old-hits-still-120024365.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-27-2026-prices-pull-back-after-pce-report-ahead-of-warsh-speech-121341759.html"
   },
   {
    "t": "允強看旺AI半導體配管需求　下半年營運審慎樂觀",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270281.aspx"
   },
   {
-   "t": "Earnings live updates: Dollar General, Dollar Tree stocks diverge as guidance overshadows earnings",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia, Salesforce earnings boost tech",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html"
   },
   {
    "t": "沃旭遭疑未即時通報風機火災　經部：業者符合規定",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270280.aspx"
   },
   {
-   "t": "Dow Jones Futures: Techs Set To Run? Nvidia, CrowdStrike, Okta, Salesforce Jump On Earnings",
+   "t": "Dollar recoups some losses as focus shifts to Fed remarks at Jackson Hole",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/news/dollar-recoups-some-losses-as-focus-shifts-to-fed-remarks-at-jackson-hole-090226201.html"
   },
   {
    "t": "產創條例修正案三讀　經部：促進新創穩定發展及企業留才",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270279.aspx"
   },
   {
-   "t": "CrowdStrike Earnings Beat As AI Adoption Drives Endpoint Upgrades",
+   "t": "Dow Jones Futures: Techs Set To Run? Nvidia, CrowdStrike, Okta, Salesforce Jump On Earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/crowdtrike-stock-crwd-crowdstrike-earnings-news-q22026/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-crowdstrike-okta-salesforce-earnings-movers/?src=A00220&yptr=yahoo"
   },
   {
    "t": "宜鼎：記憶體很缺　價格會持續往上至明年底",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270274.aspx"
   },
   {
-   "t": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Abercrombie & Fitch, Choice Hotels International, DigitalOcean Holdings, First Solar, LTC Properties, Okta, Regions Financial, Synopsys, and More",
+   "t": "An $865,000 Portfolio That Quietly Pays You $4,100 a Month Without Touching Principal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/thursday-top-wall-street-analyst-120136428.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/865-000-portfolio-quietly-pays-121152793.html"
   }
  ],
  "inst": {
