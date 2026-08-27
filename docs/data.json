@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27 21:22（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 21:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 313.45,
-   "c": 1.15,
-   "a50": 311.22,
-   "a200": 282.12,
+   "p": 310.17,
+   "c": -1.04,
+   "a50": 311.44,
+   "a200": 282.33,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 310.26,
-   "r": 51.4
+   "a20": 309.1,
+   "r": 48.1
   },
   {
    "s": "NVDA",
-   "p": 209.66,
-   "c": -1.59,
-   "a50": 207.75,
-   "a200": 195.53,
+   "p": 223.81,
+   "c": 6.75,
+   "a50": 208.08,
+   "a200": 195.71,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 215.56,
-   "r": 46.3
+   "a20": 217.0,
+   "r": 58.7
   },
   {
    "s": "TSLA",
-   "p": 345.82,
-   "c": -1.26,
-   "a50": 362.42,
-   "a200": 401.78,
+   "p": 347.14,
+   "c": 0.38,
+   "a50": 361.27,
+   "a200": 401.37,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 334.64,
-   "r": 49.8
+   "a20": 336.56,
+   "r": 50.5
   },
   {
    "s": "META",
-   "p": 576.14,
-   "c": 1.07,
-   "a50": 592.52,
-   "a200": 623.24,
+   "p": 571.28,
+   "c": -0.84,
+   "a50": 591.94,
+   "a200": 622.99,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 573.1,
-   "r": 48.6
+   "a20": 574.71,
+   "r": 47.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7675.7,
-   "c": -0.02,
-   "a50": 7553.56,
-   "a200": 7109.31,
+   "p": 7693.32,
+   "c": 0.23,
+   "a50": 7557.2,
+   "a200": 7114.14,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7686.81,
-   "r": 53.8
+   "a20": 7699.6,
+   "r": 55.4
   },
   {
    "s": "^VIX",
-   "p": 15.03,
-   "c": -1.18,
+   "p": 15.01,
+   "c": -1.31,
    "a50": 16.6,
    "a200": 18.41,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.35,
-   "r": 45.6
+   "r": 45.5
   },
   {
    "s": "BZ=F",
-   "p": 87.54,
-   "c": -0.34,
+   "p": 87.59,
+   "c": -0.28,
    "a50": 84.17,
    "a200": 82.94,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.89,
-   "r": 48.4
+   "r": 48.5
   },
   {
    "s": "GC=F",
-   "p": 4641.2,
-   "c": 0.94,
-   "a50": 4207.03,
+   "p": 4640.9,
+   "c": 0.93,
+   "a50": 4207.02,
    "a200": 4511.72,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4391.81,
+   "a20": 4391.8,
    "r": 71.5
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 1.08,
+   "c": 1.14,
    "a50": 6.38,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 58.8
+   "r": 59.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315557,
-   "c": 0.47,
+   "p": 0.03157562,
+   "c": 0.53,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608270323.aspx"
   },
   {
-   "t": "Bitcoin and ethereum prices today, Thursday, August 27, 2026: Down from highs, but prices holding strong",
+   "t": "Why Nvidia probably just lit a new fire under these once-hot trades",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-27-2026-down-from-highs-but-prices-holding-strong-131109209.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-probably-just-lit-a-new-fire-under-these-once-hot-trades-103645649.html"
   },
   {
    "t": "今彩539第115208期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608270322.aspx"
   },
   {
-   "t": "Stock Market Today: Tech Futures Rally As Nvidia, Salesforce, CrowdStrike Surge On Earnings News (Live Coverage)",
+   "t": "Bitcoin and ethereum prices today, Thursday, August 27, 2026: Down from highs, but prices holding strong",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-salesforce-crm-crowdstrike-crwd/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-27-2026-down-from-highs-but-prices-holding-strong-131109209.html"
   },
   {
    "t": "金管會證實國銀少申報　房貸逾放6月已破94億",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270321.aspx"
   },
   {
-   "t": "Zoom Beat Every Estimate and Fell Anyway. Citizens Says That’s Exactly the Point",
+   "t": "You’re in the top 1% US boomers if you can shout ‘no’ to these 3 questions — how bulletproof is your nest egg?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/zoom-beat-every-estimate-fell-130057593.html"
+   "u": "https://finance.yahoo.com/markets/articles/top-1-us-boomers-shout-130500218.html"
   },
   {
    "t": "評估外部潛在整併機會　華南金、第一金各有3原則",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270317.aspx"
   },
   {
-   "t": "World stocks steady as Nvidia boost tempers Jackson Hole caution",
+   "t": "Stock Market Today: Tech Futures Rally As Nvidia, Salesforce, CrowdStrike Surge On Earnings News (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/asian-stocks-rise-third-day-020028496.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-salesforce-crm-crowdstrike-crwd/?src=A00220&yptr=yahoo"
   },
   {
    "t": "兆豐金不排除Fed年底升息　華銀、第一金估按兵不動",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270314.aspx"
   },
   {
-   "t": "Your Value Fund Might Hold Amazon. These 3 Managers Are Buying Hard Assets Instead.",
+   "t": "This Tiny AI Stock Has Crushed Micron and Nvidia This Year. Here's Why It Can Keep Going.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/what-is-deep-value-investing-top-funds-price-to-book-adcfd689?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tiny-ai-stock-crushed-micron-131500582.html"
   }
  ],
  "inst": {
