@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 07:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 07:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4654.8,
-   "c": 1.23,
-   "a50": 4207.3,
+   "p": 4653.9,
+   "c": 1.21,
+   "a50": 4207.28,
    "a200": 4511.79,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4392.49,
+   "a20": 4392.45,
    "r": 72.1
   },
   {
    "s": "HG=F",
    "p": 6.69,
-   "c": 1.42,
+   "c": 1.43,
    "a50": 6.39,
    "a200": 5.94,
    "yh": 6.71,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280009.aspx"
   },
   {
-   "t": "DeFi Development Launches Real-Time Solana Data Platform",
+   "t": "EMCOR Stock Outlook: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/defi-development-launches-real-time-155700393.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/emcor-stock-outlook-wall-street-160746836.html"
   },
   {
    "t": "印度盼就半導體與台灣合作　台商籲創造更友善投資環境",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280007.aspx"
   },
   {
-   "t": "JPMorgan Eases SpaceX Lending Rules to Capture AI Wealth",
+   "t": "Are Wall Street Analysts Predicting Domino's Pizza Stock Will Climb or Sink?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-eases-spacex-lending-rules-155800513.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-dominos-160426290.html"
   },
   {
    "t": "歐股多收跌　投資人聚焦聯準會主席演說",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280003.aspx"
   },
   {
-   "t": "Personalis Stock Is Up 250% in the Past Year. It Needs to Turn a Profit Next.",
+   "t": "Ahead of Marvell Technology Earnings, Here's What Barchart Data Says Comes Next for MRVL Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/personalis-stock-250-past-needs-155003253.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-marvell-technology-earnings-heres-160256623.html"
   },
   {
    "t": "輝達公布營收成長強勁　早盤股價大漲逾7%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608270352.aspx"
   },
   {
-   "t": "Ahead of Marvell Technology Earnings, Here's What Barchart Data Says Comes Next for MRVL Stock",
+   "t": "Do Wall Street Analysts Like Keysight Technologies Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-marvell-technology-earnings-heres-160256623.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-keysight-technologies-161102316.html"
   },
   {
    "t": "國泰專案金檢已完成　金管會：短期內公布裁罰結果",
