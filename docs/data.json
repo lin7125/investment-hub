@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27 22:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 22:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 310.56,
-   "c": -0.92,
-   "a50": 311.44,
+   "p": 309.91,
+   "c": -1.13,
+   "a50": 311.43,
    "a200": 282.33,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.12,
-   "r": 48.5
+   "a20": 309.09,
+   "r": 47.9
   },
   {
    "s": "NVDA",
-   "p": 225.25,
-   "c": 7.44,
-   "a50": 208.11,
-   "a200": 195.72,
+   "p": 224.37,
+   "c": 7.02,
+   "a50": 208.09,
+   "a200": 195.71,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 217.07,
-   "r": 59.6
+   "a20": 217.03,
+   "r": 59.1
   },
   {
    "s": "TSLA",
-   "p": 350.96,
-   "c": 1.49,
-   "a50": 361.35,
+   "p": 351.52,
+   "c": 1.65,
+   "a50": 361.36,
    "a200": 401.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 336.75,
-   "r": 52.2
+   "a20": 336.78,
+   "r": 52.5
   },
   {
    "s": "META",
-   "p": 584.47,
-   "c": 1.44,
-   "a50": 592.2,
-   "a200": 623.06,
+   "p": 579.57,
+   "c": 0.6,
+   "a50": 592.1,
+   "a200": 623.03,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.37,
-   "r": 51.6
+   "a20": 575.13,
+   "r": 49.9
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7706.78,
-   "c": 0.4,
-   "a50": 7557.47,
-   "a200": 7114.2,
+   "p": 7710.37,
+   "c": 0.45,
+   "a50": 7557.54,
+   "a200": 7114.22,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7700.27,
-   "r": 56.5
+   "a20": 7700.45,
+   "r": 56.8
   },
   {
    "s": "^VIX",
-   "p": 14.97,
-   "c": -1.58,
-   "a50": 16.6,
+   "p": 14.81,
+   "c": -2.63,
+   "a50": 16.59,
    "a200": 18.41,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.35,
-   "r": 45.3
+   "a20": 15.34,
+   "r": 44.6
   },
   {
    "s": "BZ=F",
-   "p": 87.9,
-   "c": 0.07,
+   "p": 87.85,
+   "c": 0.01,
    "a50": 84.17,
    "a200": 82.94,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.91,
-   "r": 49.1
+   "a20": 87.9,
+   "r": 49.0
   },
   {
    "s": "GC=F",
-   "p": 4621.9,
-   "c": 0.52,
-   "a50": 4206.64,
-   "a200": 4511.63,
+   "p": 4628.8,
+   "c": 0.67,
+   "a50": 4206.78,
+   "a200": 4511.66,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4390.85,
-   "r": 70.6
+   "a20": 4391.19,
+   "r": 71.0
   },
   {
    "s": "HG=F",
-   "p": 6.67,
-   "c": 1.2,
+   "p": 6.68,
+   "c": 1.24,
    "a50": 6.38,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 59.2
+   "r": 59.3
   },
   {
    "s": "TWDUSD",
    "p": 0.0315557,
-   "c": 0.47,
+   "c": 0.49,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608270323.aspx"
   },
   {
-   "t": "Why this could be the next big Nvidia stock catalyst, just like it was for Apple",
+   "t": "Why Nvidia spooked Apple investors... again",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/why-this-could-be-the-next-big-nvidia-stock-catalyst-just-like-it-was-for-apple-110850043.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-spooked-apple-investors-again-105823053.html"
   },
   {
    "t": "今彩539第115208期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608270322.aspx"
   },
   {
-   "t": "Earnings spur software and chip rally, offsetting weakness in other areas of the market: AlphaCheck",
+   "t": "Could Credit Acceptance (CACC) Keep Rising as Credit Trends Improve?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/earnings-spur-software-and-chip-rally-offsetting-weakness-in-other-areas-of-the-market-alphacheck-135658418.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/could-credit-acceptance-cacc-keep-140445638.html"
   },
   {
    "t": "金管會證實國銀少申報　房貸逾放6月已破94億",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270321.aspx"
   },
   {
-   "t": "Nvidia is looking more like the central bank of AI: Chart of the Day",
+   "t": "Nvidia Stock Jumps On Bullish Quarterly Report, Outlook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/nvidia-is-looking-more-like-the-central-bank-of-ai-chart-of-the-day-213156835.html"
+   "u": "https://www.investors.com/news/technology/nvidia-stock-jumps-on-bullish-quarterly-report-outlook/?src=A00220&yptr=yahoo"
   },
   {
    "t": "評估外部潛在整併機會　華南金、第一金各有3原則",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270317.aspx"
   },
   {
-   "t": "ATRenew (RERE): Secondhand Tech Giant Quietly Posting Record Profits",
+   "t": "Tech stocks today: Tech stocks gain after Nvidia tops Q2 expectations",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/atrenew-rere-secondhand-tech-giant-134627979.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-tech-stocks-gain-after-nvidia-tops-q2-expectations-125406169.html"
   },
   {
    "t": "兆豐金不排除Fed年底升息　華銀、第一金估按兵不動",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270314.aspx"
   },
   {
-   "t": "Bath & Body Works Q2 net sales fall amid weak underlying demand",
+   "t": "Energy CEO Sells 10,000 Shares, Valued at $2.1 Million, Following 53% Rally",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bath-body-works-q2-net-140043186.html"
+   "u": "https://finance.yahoo.com/energy/articles/energy-ceo-sells-10-000-140501680.html"
   }
  ],
  "inst": {
