@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 06:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 07:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,7 +300,7 @@
   },
   {
    "s": "GC=F",
-   "p": 4660.8,
+   "p": 4660.7,
    "c": 1.36,
    "a50": 4207.42,
    "a200": 4511.82,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03157562,
-   "c": 0.55,
+   "p": 0.03143666,
+   "c": 0.11,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280007.aspx"
   },
   {
-   "t": "Stocks Slip Ahead of Nvidia Earnings as Bond Yields Rise",
+   "t": "Broadcom’s Next $100 Billion AI Business Is Taking Shape. Here’s What It Means for AVGO Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-slip-ahead-nvidia-earnings-151335301.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/broadcom-next-100-billion-ai-151558258.html"
   },
   {
    "t": "歐股多收跌　投資人聚焦聯準會主席演說",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280003.aspx"
   },
   {
-   "t": "Broadcom’s Next $100 Billion AI Business Is Taking Shape. Here’s What It Means for AVGO Stock",
+   "t": "What Are Wall Street Analysts' Target Price for M&T Bank Stock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/broadcom-next-100-billion-ai-151558258.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-151354127.html"
   },
   {
    "t": "輝達公布營收成長強勁　早盤股價大漲逾7%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608270352.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for M&T Bank Stock?",
+   "t": "Stocks Slip Ahead of Nvidia Earnings as Bond Yields Rise",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-151354127.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-slip-ahead-nvidia-earnings-151335301.html"
   },
   {
    "t": "國泰專案金檢已完成　金管會：短期內公布裁罰結果",
