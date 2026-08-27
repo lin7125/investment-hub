@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27 21:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 21:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.06,
-   "c": -0.99,
+   "p": 15.03,
+   "c": -1.18,
    "a50": 16.6,
    "a200": 18.41,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.35,
-   "r": 45.7
+   "r": 45.6
   },
   {
    "s": "BZ=F",
-   "p": 87.58,
-   "c": -0.3,
+   "p": 87.54,
+   "c": -0.34,
    "a50": 84.17,
    "a200": 82.94,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.89,
-   "r": 48.5
+   "r": 48.4
   },
   {
    "s": "GC=F",
-   "p": 4638.0,
-   "c": 0.87,
-   "a50": 4206.96,
-   "a200": 4511.71,
+   "p": 4641.2,
+   "c": 0.94,
+   "a50": 4207.03,
+   "a200": 4511.72,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4391.65,
-   "r": 71.4
+   "a20": 4391.81,
+   "r": 71.5
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 1.09,
+   "c": 1.08,
    "a50": 6.38,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 58.9
+   "r": 58.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
-   "c": 0.46,
+   "p": 0.0315557,
+   "c": 0.47,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608270323.aspx"
   },
   {
-   "t": "Earnings live updates: Salesforce, CrowdStrike, Okta stocks surge as AI boom helps lift Q2 results",
+   "t": "Bitcoin and ethereum prices today, Thursday, August 27, 2026: Down from highs, but prices holding strong",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-27-2026-down-from-highs-but-prices-holding-strong-131109209.html"
   },
   {
    "t": "今彩539第115208期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608270322.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia, Salesforce earnings boost tech",
+   "t": "Stock Market Today: Tech Futures Rally As Nvidia, Salesforce, CrowdStrike Surge On Earnings News (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-salesforce-crm-crowdstrike-crwd/?src=A00220&yptr=yahoo"
   },
   {
    "t": "金管會證實國銀少申報　房貸逾放6月已破94億",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270321.aspx"
   },
   {
-   "t": "Keeping a Close Watch: Garrett Motion’s (GTX) Rising Share Price and Future Returns",
+   "t": "Zoom Beat Every Estimate and Fell Anyway. Citizens Says That’s Exactly the Point",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/keeping-close-watch-garrett-motion-125516235.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/zoom-beat-every-estimate-fell-130057593.html"
   },
   {
    "t": "評估外部潛在整併機會　華南金、第一金各有3原則",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270317.aspx"
   },
   {
-   "t": "Regeneron Pharmaceuticals (REGN) Adjusts Course Amid Mixed Results in Melanoma Drug Trials",
+   "t": "World stocks steady as Nvidia boost tempers Jackson Hole caution",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/regeneron-pharmaceuticals-regn-adjusts-course-124300443.html"
+   "u": "https://finance.yahoo.com/news/asian-stocks-rise-third-day-020028496.html"
   },
   {
    "t": "兆豐金不排除Fed年底升息　華銀、第一金估按兵不動",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270314.aspx"
   },
   {
-   "t": "Stock Market Today: Tech Futures Rally As Nvidia, Salesforce, CrowdStrike Surge On Earnings News (Live Coverage)",
+   "t": "Your Value Fund Might Hold Amazon. These 3 Managers Are Buying Hard Assets Instead.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-salesforce-crm-crowdstrike-crwd/?src=A00220&yptr=yahoo"
+   "u": "https://www.barrons.com/articles/what-is-deep-value-investing-top-funds-price-to-book-adcfd689?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
