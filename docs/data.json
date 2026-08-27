@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 07:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 07:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.62,
-   "c": 0.89,
+   "p": 88.63,
+   "c": 0.9,
    "a50": 84.19,
    "a200": 82.95,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4664.3,
-   "c": 1.44,
-   "a50": 4207.49,
-   "a200": 4511.84,
+   "p": 4657.5,
+   "c": 1.29,
+   "a50": 4207.35,
+   "a200": 4511.81,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4392.97,
-   "r": 72.5
+   "a20": 4392.63,
+   "r": 72.2
   },
   {
    "s": "HG=F",
    "p": 6.69,
-   "c": 1.46,
+   "c": 1.44,
    "a50": 6.39,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 60.0
+   "r": 59.9
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280007.aspx"
   },
   {
-   "t": "Broadcom’s Next $100 Billion AI Business Is Taking Shape. Here’s What It Means for AVGO Stock",
+   "t": "Personalis Stock Is Up 250% in the Past Year. It Needs to Turn a Profit Next.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/broadcom-next-100-billion-ai-151558258.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/personalis-stock-250-past-needs-155003253.html"
   },
   {
    "t": "歐股多收跌　投資人聚焦聯準會主席演說",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280003.aspx"
   },
   {
-   "t": "Stocks Slip Ahead of Nvidia Earnings as Bond Yields Rise",
+   "t": "1 Penny Stock That Could Howl Its Way to the Top After a $150 Million Funding Boost",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-slip-ahead-nvidia-earnings-151335301.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/1-penny-stock-could-howl-154753793.html"
   },
   {
    "t": "輝達公布營收成長強勁　早盤股價大漲逾7%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608270352.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for M&T Bank Stock?",
+   "t": "DeFi Development Launches Real-Time Solana Data Platform",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-151354127.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/defi-development-launches-real-time-155700393.html"
   },
   {
    "t": "國泰專案金檢已完成　金管會：短期內公布裁罰結果",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270346.aspx"
   },
   {
-   "t": "Enbridge Buys $600 Million Permian Crude Network",
+   "t": "JPMorgan Eases SpaceX Lending Rules to Capture AI Wealth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/enbridge-buys-600-million-permian-151012234.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-eases-spacex-lending-rules-155800513.html"
   }
  ],
  "inst": {
