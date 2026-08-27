@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 07:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 07:31（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4657.5,
-   "c": 1.29,
-   "a50": 4207.35,
-   "a200": 4511.81,
+   "p": 4654.8,
+   "c": 1.23,
+   "a50": 4207.3,
+   "a200": 4511.79,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4392.63,
-   "r": 72.2
+   "a20": 4392.49,
+   "r": 72.1
   },
   {
    "s": "HG=F",
    "p": 6.69,
-   "c": 1.44,
+   "c": 1.42,
    "a50": 6.39,
    "a200": 5.94,
    "yh": 6.71,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03157562,
-   "c": 0.43,
+   "c": 0.44,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280011.aspx"
   },
   {
-   "t": "Meta, states discuss mid-trial settlement in teen addiction case",
+   "t": "Cathie Wood bets on 'disrupter' stock with bullish analyst call",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/meta-states-discuss-mid-trial-111938416.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/cathie-wood-bets-disrupter-stock-171503487.html"
   },
   {
    "t": "美媒指川普無意重返美伊備忘錄　國際油價大漲",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280009.aspx"
   },
   {
-   "t": "Cathie Wood bets on 'disrupter' stock with bullish analyst call",
+   "t": "DeFi Development Launches Real-Time Solana Data Platform",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/cathie-wood-bets-disrupter-stock-171503487.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/defi-development-launches-real-time-155700393.html"
   },
   {
    "t": "印度盼就半導體與台灣合作　台商籲創造更友善投資環境",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280007.aspx"
   },
   {
-   "t": "Personalis Stock Is Up 250% in the Past Year. It Needs to Turn a Profit Next.",
+   "t": "JPMorgan Eases SpaceX Lending Rules to Capture AI Wealth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/personalis-stock-250-past-needs-155003253.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-eases-spacex-lending-rules-155800513.html"
   },
   {
    "t": "歐股多收跌　投資人聚焦聯準會主席演說",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280003.aspx"
   },
   {
-   "t": "1 Penny Stock That Could Howl Its Way to the Top After a $150 Million Funding Boost",
+   "t": "Personalis Stock Is Up 250% in the Past Year. It Needs to Turn a Profit Next.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/1-penny-stock-could-howl-154753793.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/personalis-stock-250-past-needs-155003253.html"
   },
   {
    "t": "輝達公布營收成長強勁　早盤股價大漲逾7%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608270352.aspx"
   },
   {
-   "t": "DeFi Development Launches Real-Time Solana Data Platform",
+   "t": "Ahead of Marvell Technology Earnings, Here's What Barchart Data Says Comes Next for MRVL Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/defi-development-launches-real-time-155700393.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-marvell-technology-earnings-heres-160256623.html"
   },
   {
    "t": "國泰專案金檢已完成　金管會：短期內公布裁罰結果",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270346.aspx"
   },
   {
-   "t": "JPMorgan Eases SpaceX Lending Rules to Capture AI Wealth",
+   "t": "Bank of America doubles down on Nvidia stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-eases-spacex-lending-rules-155800513.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html"
   }
  ],
  "inst": {
