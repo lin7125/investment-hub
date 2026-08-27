@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27 19:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 19:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 14.95,
-   "c": -1.71,
+   "p": 14.93,
+   "c": -1.84,
    "a50": 16.6,
    "a200": 18.41,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.34,
-   "r": 45.2
+   "r": 45.1
   },
   {
    "s": "BZ=F",
-   "p": 87.23,
-   "c": -0.69,
+   "p": 87.4,
+   "c": -0.5,
    "a50": 84.16,
    "a200": 82.94,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.87,
-   "r": 47.9
+   "a20": 87.88,
+   "r": 48.2
   },
   {
    "s": "GC=F",
-   "p": 4643.2,
-   "c": 0.98,
-   "a50": 4207.07,
+   "p": 4641.9,
+   "c": 0.95,
+   "a50": 4207.04,
    "a200": 4511.73,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4391.91,
+   "a20": 4391.85,
    "r": 71.6
   },
   {
    "s": "HG=F",
    "p": 6.65,
-   "c": 0.86,
+   "c": 0.9,
    "a50": 6.38,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.58,
-   "r": 58.1
+   "r": 58.3
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270285.aspx"
   },
   {
-   "t": "Dividend Aristocrat or Dividend Cuts: How to Evaluate the NKE Stock Payout as the Nike Turnaround Drags On",
+   "t": "SelectQuote, Inc. Q4 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dividend-aristocrat-dividend-cuts-evaluate-233002322.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/selectquote-inc-q4-2026-earnings-002540293.html"
   },
   {
    "t": "允強看旺AI半導體配管需求　下半年營運審慎樂觀",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270281.aspx"
   },
   {
-   "t": "Ventural Global (VG) is Riding the LNG Boom. But Can its Rally Last?",
+   "t": "Why Baker Hughes (BKR) Could be a Key Winner From the AI Boom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/ventural-global-vg-riding-lng-003051372.html"
+   "u": "https://finance.yahoo.com/energy/articles/why-baker-hughes-bkr-could-002112710.html"
   },
   {
    "t": "沃旭遭疑未即時通報風機火災　經部：業者符合規定",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270280.aspx"
   },
   {
-   "t": "Why Baker Hughes (BKR) Could be a Key Winner From the AI Boom",
+   "t": "Dividend Aristocrat or Dividend Cuts: How to Evaluate the NKE Stock Payout as the Nike Turnaround Drags On",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/why-baker-hughes-bkr-could-002112710.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dividend-aristocrat-dividend-cuts-evaluate-233002322.html"
   },
   {
    "t": "產創條例修正案三讀　經部：促進新創穩定發展及企業留才",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270279.aspx"
   },
   {
-   "t": "SelectQuote, Inc. Q4 2026 Earnings Call Summary",
+   "t": "Ventural Global (VG) is Riding the LNG Boom. But Can its Rally Last?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/selectquote-inc-q4-2026-earnings-002540293.html"
+   "u": "https://finance.yahoo.com/energy/articles/ventural-global-vg-riding-lng-003051372.html"
   },
   {
    "t": "宜鼎：記憶體很缺　價格會持續往上至明年底",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270274.aspx"
   },
   {
-   "t": "Starbucks Union Calls for Boycott in Latest Test of Company Turnaround",
+   "t": "He Retired From Corrections and Bought 100 Goats. The Losing Business Could Still Buy His Final Four Social Security Credits.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/starbucks-stock-union-boycott-fd830bd1?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/small-business/articles/retired-corrections-bought-100-goats-230224092.html"
   }
  ],
  "inst": {
