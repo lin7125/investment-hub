@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27 23:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 23:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 314.33,
-   "c": 0.28,
-   "a50": 311.52,
+   "p": 314.73,
+   "c": 0.41,
+   "a50": 311.53,
    "a200": 282.35,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.31,
-   "r": 52.3
+   "a20": 309.33,
+   "r": 52.7
   },
   {
    "s": "NVDA",
-   "p": 226.49,
-   "c": 8.02,
-   "a50": 208.13,
-   "a200": 195.73,
+   "p": 225.72,
+   "c": 7.66,
+   "a50": 208.12,
+   "a200": 195.72,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 217.13,
-   "r": 60.4
+   "a20": 217.09,
+   "r": 59.9
   },
   {
    "s": "TSLA",
-   "p": 352.58,
-   "c": 1.95,
-   "a50": 361.38,
+   "p": 353.08,
+   "c": 2.1,
+   "a50": 361.39,
    "a200": 401.4,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 336.83,
-   "r": 52.9
+   "a20": 336.86,
+   "r": 53.1
   },
   {
    "s": "META",
-   "p": 572.37,
-   "c": -0.65,
+   "p": 572.18,
+   "c": -0.69,
    "a50": 591.96,
    "a200": 623.0,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.77,
+   "a20": 574.76,
    "r": 47.3
   },
   {
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7724.15,
-   "c": 0.63,
-   "a50": 7557.82,
-   "a200": 7114.29,
+   "p": 7726.19,
+   "c": 0.66,
+   "a50": 7557.86,
+   "a200": 7114.3,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7701.14,
-   "r": 57.9
+   "a20": 7701.24,
+   "r": 58.1
   },
   {
    "s": "^VIX",
-   "p": 14.5,
-   "c": -4.67,
+   "p": 14.49,
+   "c": -4.73,
    "a50": 16.59,
    "a200": 18.41,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.32,
-   "r": 43.3
+   "r": 43.2
   },
   {
    "s": "BZ=F",
-   "p": 87.1,
-   "c": -0.84,
+   "p": 86.96,
+   "c": -1.0,
    "a50": 84.16,
    "a200": 82.94,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.87,
-   "r": 47.7
+   "a20": 87.86,
+   "r": 47.5
   },
   {
    "s": "GC=F",
-   "p": 4645.3,
-   "c": 1.02,
-   "a50": 4207.11,
-   "a200": 4511.75,
+   "p": 4647.6,
+   "c": 1.07,
+   "a50": 4207.15,
+   "a200": 4511.76,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4392.02,
-   "r": 71.7
+   "a20": 4392.13,
+   "r": 71.8
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 1.13,
+   "c": 1.11,
    "a50": 6.38,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 59.0
+   "r": 58.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315856,
-   "c": 0.56,
+   "p": 0.03159558,
+   "c": 0.6,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608270323.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq rise as Nvidia, Salesforce earnings boost tech",
+   "t": "YETI (YETI) Remains a Strong Player Despite Market Setbacks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/yeti-yeti-remains-strong-player-145948941.html"
   },
   {
    "t": "今彩539第115208期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608270322.aspx"
   },
   {
-   "t": "Bitcoin Price Tests $80,000 In 'Powerful Setup.' IREN Earnings Due.",
+   "t": "Stock market today: S&P 500, Nasdaq rise as Nvidia, Salesforce earnings boost tech",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/bitcoin-price-test-key-level-treasury-trump-adminsitration-clarity-act-crypto-regulations-iren-earnings-crypto-stocks/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html"
   },
   {
    "t": "金管會證實國銀少申報　房貸逾放6月已破94億",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270321.aspx"
   },
   {
-   "t": "KinderCare (KLC) Trims Its Footprint While Enrollment Keeps Slipping",
+   "t": "Bitcoin Price Tests $80,000 In 'Powerful Setup.' IREN Earnings Due.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/kindercare-klc-trims-footprint-while-144458135.html"
+   "u": "https://www.investors.com/news/bitcoin-price-test-key-level-treasury-trump-adminsitration-clarity-act-crypto-regulations-iren-earnings-crypto-stocks/?src=A00220&yptr=yahoo"
   },
   {
    "t": "評估外部潛在整併機會　華南金、第一金各有3原則",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270317.aspx"
   },
   {
-   "t": "How Miami International Holdings (MIAX) is Redefining Derivatives Markets",
+   "t": "KinderCare (KLC) Trims Its Footprint While Enrollment Keeps Slipping",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/miami-international-holdings-miax-redefining-144318791.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kindercare-klc-trims-footprint-while-144458135.html"
   },
   {
    "t": "兆豐金不排除Fed年底升息　華銀、第一金估按兵不動",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270314.aspx"
   },
   {
-   "t": "Unilever, McCormick to put Colman’s up for sale",
+   "t": "Boliden to acquire 64.7% stake in Nexa Resources from Votorantim",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/unilever-mccormick-put-colman-sale-140707839.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/boliden-acquire-64-7-stake-150443635.html"
   }
  ],
  "inst": {
