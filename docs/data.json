@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27 20:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 21:02（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.99,
-   "c": -1.45,
+   "p": 15.09,
+   "c": -0.79,
    "a50": 16.6,
-   "a200": 18.41,
+   "a200": 18.42,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.35,
-   "r": 45.4
+   "r": 45.9
   },
   {
    "s": "BZ=F",
-   "p": 87.38,
-   "c": -0.52,
-   "a50": 84.16,
+   "p": 87.58,
+   "c": -0.3,
+   "a50": 84.17,
    "a200": 82.94,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.88,
-   "r": 48.2
+   "a20": 87.89,
+   "r": 48.5
   },
   {
    "s": "GC=F",
-   "p": 4641.4,
-   "c": 0.94,
-   "a50": 4207.03,
-   "a200": 4511.73,
+   "p": 4634.4,
+   "c": 0.79,
+   "a50": 4206.89,
+   "a200": 4511.69,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4391.82,
-   "r": 71.5
+   "a20": 4391.47,
+   "r": 71.2
   },
   {
    "s": "HG=F",
    "p": 6.66,
-   "c": 0.96,
+   "c": 0.97,
    "a50": 6.38,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.58,
-   "r": 58.4
+   "r": 58.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
-   "c": 0.44,
+   "p": 0.03153579,
+   "c": 0.41,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270285.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia, Salesforce earnings boost tech",
+   "t": "Earnings live updates: Salesforce, CrowdStrike, Okta stocks surge as AI boom helps lift Q2 results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html"
+   "u": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html"
   },
   {
    "t": "允強看旺AI半導體配管需求　下半年營運審慎樂觀",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270281.aspx"
   },
   {
-   "t": "Stock Market Today: Tech Futures Rally As Nvidia, Salesforce, CrowdStrike Surge On Earnings News (Live Coverage)",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia, Salesforce earnings boost tech",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-salesforce-crm-crowdstrike-crwd/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html"
   },
   {
    "t": "沃旭遭疑未即時通報風機火災　經部：業者符合規定",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270280.aspx"
   },
   {
-   "t": "Silver prices today, Thursday, August 27, 2026: Silver prices steady following inflation report",
+   "t": "Keeping a Close Watch: Garrett Motion’s (GTX) Rising Share Price and Future Returns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-27-2026-silver-prices-steady-following-inflation-report-123011918.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/keeping-close-watch-garrett-motion-125516235.html"
   },
   {
    "t": "產創條例修正案三讀　經部：促進新創穩定發展及企業留才",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270279.aspx"
   },
   {
-   "t": "Think $600K isn’t enough to retire? Here’s how your nest egg could actually keep growing after you stop working",
+   "t": "Regeneron Pharmaceuticals (REGN) Adjusts Course Amid Mixed Results in Melanoma Drug Trials",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/think-600k-isn-t-enough-123000055.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/regeneron-pharmaceuticals-regn-adjusts-course-124300443.html"
   },
   {
    "t": "宜鼎：記憶體很缺　價格會持續往上至明年底",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270274.aspx"
   },
   {
-   "t": "Burlington Stores Q2 2026 earnings: tariff refunds to lower prices",
+   "t": "Stock Market Today: Tech Futures Rally As Nvidia, Salesforce, CrowdStrike Surge On Earnings News (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-q2-2026-earnings-123742994.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-salesforce-crm-crowdstrike-crwd/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
