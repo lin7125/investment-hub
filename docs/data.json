@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27 22:44（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 22:54（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 313.06,
-   "c": -0.12,
-   "a50": 311.49,
-   "a200": 282.34,
+   "p": 313.53,
+   "c": 0.03,
+   "a50": 311.5,
+   "a200": 282.35,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.25,
-   "r": 51.0
+   "a20": 309.27,
+   "r": 51.5
   },
   {
    "s": "NVDA",
-   "p": 224.75,
-   "c": 7.2,
-   "a50": 208.1,
+   "p": 225.7,
+   "c": 7.65,
+   "a50": 208.12,
    "a200": 195.72,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 217.05,
-   "r": 59.3
+   "a20": 217.09,
+   "r": 59.9
   },
   {
    "s": "TSLA",
-   "p": 352.14,
-   "c": 1.83,
+   "p": 351.92,
+   "c": 1.76,
    "a50": 361.37,
    "a200": 401.4,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 336.81,
-   "r": 52.7
+   "a20": 336.8,
+   "r": 52.6
   },
   {
    "s": "META",
-   "p": 571.99,
-   "c": -0.72,
-   "a50": 591.95,
+   "p": 570.93,
+   "c": -0.9,
+   "a50": 591.93,
    "a200": 622.99,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.75,
-   "r": 47.2
+   "a20": 574.7,
+   "r": 46.9
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7713.1,
-   "c": 0.49,
-   "a50": 7557.6,
-   "a200": 7114.23,
+   "p": 7718.86,
+   "c": 0.56,
+   "a50": 7557.71,
+   "a200": 7114.26,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7700.59,
-   "r": 57.1
+   "a20": 7700.87,
+   "r": 57.5
   },
   {
    "s": "^VIX",
-   "p": 14.58,
-   "c": -4.14,
+   "p": 14.55,
+   "c": -4.34,
    "a50": 16.59,
    "a200": 18.41,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.33,
-   "r": 43.6
+   "a20": 15.32,
+   "r": 43.5
   },
   {
    "s": "BZ=F",
-   "p": 87.7,
-   "c": -0.16,
-   "a50": 84.17,
+   "p": 87.28,
+   "c": -0.64,
+   "a50": 84.16,
    "a200": 82.94,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.9,
-   "r": 48.7
+   "a20": 87.87,
+   "r": 48.0
   },
   {
    "s": "GC=F",
-   "p": 4639.0,
-   "c": 0.89,
-   "a50": 4206.98,
-   "a200": 4511.71,
+   "p": 4650.2,
+   "c": 1.13,
+   "a50": 4207.21,
+   "a200": 4511.77,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4391.7,
-   "r": 71.4
+   "a20": 4392.26,
+   "r": 71.9
   },
   {
    "s": "HG=F",
    "p": 6.68,
-   "c": 1.25,
+   "c": 1.22,
    "a50": 6.38,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 59.4
+   "r": 59.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03156566,
-   "c": 0.51,
+   "p": 0.03157562,
+   "c": 0.52,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608270322.aspx"
   },
   {
-   "t": "Trump bought up to $500,000 of Boeing on the same day the Navy handed Boeing a deal worth up to $880 million",
+   "t": "Forgent Power Solutions (FPS) Positioned for Faster Customer Outcomes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/trump-bought-500-000-boeing-143000055.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-solutions-fps-positioned-143740272.html"
   },
   {
    "t": "金管會證實國銀少申報　房貸逾放6月已破94億",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270321.aspx"
   },
   {
-   "t": "Qualys (QLYS) Benefits as AI Strengthens Cybersecurity Demand",
+   "t": "Technological Advancements Fueling Badger Meter’s (BMI) Long-Term Growth Potential",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/qualys-qlys-benefits-ai-strengthens-142719069.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/technological-advancements-fueling-badger-meter-143521879.html"
   },
   {
    "t": "評估外部潛在整併機會　華南金、第一金各有3原則",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270317.aspx"
   },
   {
-   "t": "A Rejected Vote Pushes Capricor (CAPR) Toward A Narrower Path",
+   "t": "AirJoule’s (AIRJ) Water Technology Meets A Growing Data Center Crisis",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/rejected-vote-pushes-capricor-capr-142558491.html"
+   "u": "https://finance.yahoo.com/technology/articles/airjoule-airj-water-technology-meets-143446223.html"
   },
   {
    "t": "兆豐金不排除Fed年底升息　華銀、第一金估按兵不動",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270314.aspx"
   },
   {
-   "t": "Berglandmilch in talks over “merger” with Austrian rival",
+   "t": "WA Government and YNAC appeal Fortescue compensation ruling",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/berglandmilch-talks-over-merger-austrian-143604526.html"
+   "u": "https://finance.yahoo.com/energy/articles/wa-government-ynac-appeal-fortescue-143947393.html"
   }
  ],
  "inst": {
