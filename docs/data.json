@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27 22:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-27 22:13（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 311.54,
-   "c": -0.61,
-   "a50": 311.46,
-   "a200": 282.34,
+   "p": 310.56,
+   "c": -0.92,
+   "a50": 311.44,
+   "a200": 282.33,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.17,
-   "r": 49.5
+   "a20": 309.12,
+   "r": 48.5
   },
   {
    "s": "NVDA",
-   "p": 224.96,
-   "c": 7.3,
-   "a50": 208.1,
+   "p": 225.25,
+   "c": 7.44,
+   "a50": 208.11,
    "a200": 195.72,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 217.06,
-   "r": 59.4
+   "a20": 217.07,
+   "r": 59.6
   },
   {
    "s": "TSLA",
-   "p": 349.52,
-   "c": 1.07,
-   "a50": 361.32,
-   "a200": 401.38,
+   "p": 350.96,
+   "c": 1.49,
+   "a50": 361.35,
+   "a200": 401.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 336.68,
-   "r": 51.6
+   "a20": 336.75,
+   "r": 52.2
   },
   {
    "s": "META",
-   "p": 580.87,
-   "c": 0.82,
-   "a50": 592.13,
-   "a200": 623.04,
+   "p": 584.47,
+   "c": 1.44,
+   "a50": 592.2,
+   "a200": 623.06,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.19,
-   "r": 50.3
+   "a20": 575.37,
+   "r": 51.6
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7703.56,
-   "c": 0.36,
-   "a50": 7557.41,
-   "a200": 7114.19,
+   "p": 7706.78,
+   "c": 0.4,
+   "a50": 7557.47,
+   "a200": 7114.2,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7700.11,
-   "r": 56.3
+   "a20": 7700.27,
+   "r": 56.5
   },
   {
    "s": "^VIX",
-   "p": 15.01,
-   "c": -1.31,
+   "p": 14.97,
+   "c": -1.58,
    "a50": 16.6,
    "a200": 18.41,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.35,
-   "r": 45.5
+   "r": 45.3
   },
   {
    "s": "BZ=F",
-   "p": 87.71,
-   "c": -0.15,
+   "p": 87.9,
+   "c": 0.07,
    "a50": 84.17,
    "a200": 82.94,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.9,
-   "r": 48.7
+   "a20": 87.91,
+   "r": 49.1
   },
   {
    "s": "GC=F",
-   "p": 4630.5,
-   "c": 0.7,
-   "a50": 4206.81,
-   "a200": 4511.67,
+   "p": 4621.9,
+   "c": 0.52,
+   "a50": 4206.64,
+   "a200": 4511.63,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4391.28,
-   "r": 71.0
+   "a20": 4390.85,
+   "r": 70.6
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 1.16,
+   "c": 1.2,
    "a50": 6.38,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 59.1
+   "r": 59.2
   },
   {
    "s": "TWDUSD",
    "p": 0.0315557,
-   "c": 0.46,
+   "c": 0.47,
    "a50": 0.03118179,
    "a200": 0.03157562,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608270323.aspx"
   },
   {
-   "t": "Nvidia is looking more like the central bank of AI: Chart of the Day",
+   "t": "Why this could be the next big Nvidia stock catalyst, just like it was for Apple",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/nvidia-is-looking-more-like-the-central-bank-of-ai-chart-of-the-day-213156835.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/why-this-could-be-the-next-big-nvidia-stock-catalyst-just-like-it-was-for-apple-110850043.html"
   },
   {
    "t": "今彩539第115208期開獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608270322.aspx"
   },
   {
-   "t": "ATRenew (RERE): Secondhand Tech Giant Quietly Posting Record Profits",
+   "t": "Earnings spur software and chip rally, offsetting weakness in other areas of the market: AlphaCheck",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/atrenew-rere-secondhand-tech-giant-134627979.html"
+   "u": "https://finance.yahoo.com/markets/article/earnings-spur-software-and-chip-rally-offsetting-weakness-in-other-areas-of-the-market-alphacheck-135658418.html"
   },
   {
    "t": "金管會證實國銀少申報　房貸逾放6月已破94億",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270321.aspx"
   },
   {
-   "t": "Stock market today: S&P 500, Nasdaq rise as Nvidia, Salesforce earnings boost tech",
+   "t": "Nvidia is looking more like the central bank of AI: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html"
+   "u": "https://finance.yahoo.com/markets/article/nvidia-is-looking-more-like-the-central-bank-of-ai-chart-of-the-day-213156835.html"
   },
   {
    "t": "評估外部潛在整併機會　華南金、第一金各有3原則",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270317.aspx"
   },
   {
-   "t": "BlackRock Sees Continued Strength In Bitcoin",
+   "t": "ATRenew (RERE): Secondhand Tech Giant Quietly Posting Record Profits",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/blackrock-sees-continued-strength-bitcoin-134300997.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/atrenew-rere-secondhand-tech-giant-134627979.html"
   },
   {
    "t": "兆豐金不排除Fed年底升息　華銀、第一金估按兵不動",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270314.aspx"
   },
   {
-   "t": "3 High-Yield Dividend Stocks Near Their 52-Week Lows That Income Investors Are Sleeping On",
+   "t": "Bath & Body Works Q2 net sales fall amid weak underlying demand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/3-high-yield-dividend-stocks-135000784.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bath-body-works-q2-net-140043186.html"
   }
  ],
  "inst": {
