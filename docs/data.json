@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 12:39（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 12:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,25 +14,25 @@
   },
   {
    "s": "2317.TW",
-   "p": 253.5,
-   "c": 0.6,
-   "a50": 248.57,
+   "p": 253.0,
+   "c": 0.4,
+   "a50": 248.56,
    "a200": 235.62,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 254.22,
-   "r": 52.6
+   "a20": 254.2,
+   "r": 52.1
   },
   {
    "s": "2308.TW",
-   "p": 1850.0,
-   "c": 4.52,
-   "a50": 1818.9,
-   "a200": 1559.56,
+   "p": 1840.0,
+   "c": 3.95,
+   "a50": 1818.7,
+   "a200": 1559.5,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1757.0,
-   "r": 55.8
+   "a20": 1756.5,
+   "r": 55.1
   },
   {
    "s": "2454.TW",
@@ -47,25 +47,25 @@
   },
   {
    "s": "2327.TW",
-   "p": 601.0,
-   "c": 8.29,
-   "a50": 734.07,
-   "a200": 445.46,
+   "p": 602.0,
+   "c": 8.47,
+   "a50": 734.09,
+   "a200": 445.47,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 577.3,
-   "r": 49.0
+   "a20": 577.35,
+   "r": 49.1
   },
   {
    "s": "1802.TW",
-   "p": 62.1,
-   "c": 4.9,
-   "a50": 59.41,
-   "a200": 53.79,
+   "p": 61.5,
+   "c": 3.89,
+   "a50": 59.4,
+   "a200": 53.78,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 56.4,
-   "r": 61.7
+   "a20": 56.37,
+   "r": 60.6
   },
   {
    "s": "6862.TW",
@@ -80,25 +80,25 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.15,
-   "c": -1.79,
+   "p": 41.1,
+   "c": -1.91,
    "a50": 41.36,
    "a200": 49.03,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.75,
-   "r": 51.0
+   "r": 50.8
   },
   {
    "s": "4722.TW",
-   "p": 214.5,
-   "c": 0.7,
-   "a50": 231.63,
-   "a200": 200.31,
+   "p": 213.0,
+   "c": 0.0,
+   "a50": 231.6,
+   "a200": 200.3,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 210.3,
-   "r": 50.8
+   "a20": 210.22,
+   "r": 50.0
   },
   {
    "s": "6706.TW",
@@ -113,47 +113,47 @@
   },
   {
    "s": "2305.TW",
-   "p": 28.95,
-   "c": -1.7,
+   "p": 29.0,
+   "c": -1.53,
    "a50": 32.48,
    "a200": 19.39,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 28.53,
-   "r": 49.1
+   "r": 49.2
   },
   {
    "s": "6442.TW",
-   "p": 1610.0,
-   "c": 0.94,
-   "a50": 1489.7,
-   "a200": 1622.0,
+   "p": 1605.0,
+   "c": 0.63,
+   "a50": 1489.6,
+   "a200": 1621.98,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1502.25,
-   "r": 57.1
+   "a20": 1502.0,
+   "r": 56.8
   },
   {
    "s": "6515.TW",
-   "p": 6310.0,
-   "c": 3.36,
-   "a50": 7121.4,
-   "a200": 6182.8,
+   "p": 6300.0,
+   "c": 3.19,
+   "a50": 7121.2,
+   "a200": 6182.75,
    "yh": 10795.0,
    "yl": 1250.0,
-   "a20": 6528.75,
-   "r": 45.0
+   "a20": 6528.25,
+   "r": 44.8
   },
   {
    "s": "6446.TW",
-   "p": 1590.0,
-   "c": 1.92,
-   "a50": 1269.04,
-   "a200": 756.93,
-   "yh": 1590.0,
+   "p": 1600.0,
+   "c": 2.56,
+   "a50": 1269.24,
+   "a200": 756.98,
+   "yh": 1600.0,
    "yl": 401.71,
-   "a20": 1405.25,
-   "r": 68.4
+   "a20": 1405.75,
+   "r": 68.8
   },
   {
    "s": "3324.TWO",
@@ -168,35 +168,35 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1470.0,
-   "c": 3.16,
-   "a50": 1262.74,
-   "a200": 1234.46,
+   "p": 1465.0,
+   "c": 2.81,
+   "a50": 1262.64,
+   "a200": 1234.44,
    "yh": 2200.0,
    "yl": 387.0,
-   "a20": 1291.25,
-   "r": 62.7
+   "a20": 1291.0,
+   "r": 62.4
   },
   {
    "s": "3585.TWO",
-   "p": 50.1,
-   "c": 1.01,
+   "p": 49.85,
+   "c": 0.5,
    "a50": 56.61,
    "a200": 43.28,
    "yh": 165.0,
    "yl": 10.6,
-   "a20": 49.63,
-   "r": 47.4
+   "a20": 49.62,
+   "r": 46.9
   },
   {
    "s": "6223.TWO",
-   "p": 5030.0,
-   "c": -1.18,
-   "a50": 6066.2,
-   "a200": 4190.95,
+   "p": 5035.0,
+   "c": -1.08,
+   "a50": 6066.3,
+   "a200": 4190.98,
    "yh": 7380.0,
    "yl": 1285.0,
-   "a20": 5809.5,
+   "a20": 5809.75,
    "r": 38.9
   },
   {
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46420.74,
-   "c": 0.97,
-   "a50": 44938.94,
-   "a200": 36783.74,
+   "p": 46388.15,
+   "c": 0.9,
+   "a50": 44938.29,
+   "a200": 36783.58,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 45079.25,
-   "r": 60.8
+   "a20": 45077.62,
+   "r": 60.6
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.19,
-   "c": -1.68,
+   "p": 88.26,
+   "c": -1.61,
    "a50": 84.38,
    "a200": 83.07,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.9,
-   "r": 49.5
+   "r": 49.6
   },
   {
    "s": "GC=F",
-   "p": 4635.5,
-   "c": 0.56,
-   "a50": 4211.93,
-   "a200": 4514.19,
+   "p": 4630.4,
+   "c": 0.45,
+   "a50": 4211.83,
+   "a200": 4514.16,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4419.56,
-   "r": 71.4
+   "a20": 4419.3,
+   "r": 71.1
   },
   {
    "s": "HG=F",
    "p": 6.69,
-   "c": 1.61,
+   "c": 1.56,
    "a50": 6.39,
    "a200": 5.95,
    "yh": 6.71,
    "yl": 4.46,
    "a20": 6.59,
-   "r": 60.3
+   "r": 60.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03165559,
-   "c": 0.66,
+   "p": 0.03164557,
+   "c": 0.65,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280096.aspx"
   },
   {
-   "t": "WLFI CEO Zach Witkoff Swears People Are Using USD1",
+   "t": "JPMorgan Chase & Co. (JPM) Could Soon Be Worth $1 Trillion. One Analyst Says $2 Trillion Is Next",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/wlfi-ceo-zach-witkoff-swears-164244537.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-could-165404139.html"
   },
   {
    "t": "Anthropic傳放棄70億美元收購MatX　轉而洽談合作",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608280092.aspx"
   },
   {
-   "t": "Aerospace and defense PE exit value already beat last year's total",
+   "t": "Dimension Energy Secures $857 Million to Support Distributed Solar",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/aerospace-defense-pe-exit-value-164621371.html"
+   "u": "https://finance.yahoo.com/energy/articles/dimension-energy-secures-857-million-165420571.html"
   },
   {
    "t": "趙姬、寄居蟹濫發公司債爭議　經部發解釋令防堵規避行為",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280091.aspx"
   },
   {
-   "t": "Ethereum Price Breakout Targets $2,800 as ETF Inflows Surge",
+   "t": "Advanced Micro Devices (AMD) and Intel (INTC) Both Just Raised Billions for AI. Here’s How Their Strategies Differ",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-breakout-targets-2-163439380.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-intel-170203392.html"
   },
   {
    "t": "Marvell調升財測　受Google合約疑慮影響股價跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280074.aspx"
   },
   {
-   "t": "JPMorgan Chase & Co. (JPM) Could Soon Be Worth $1 Trillion. One Analyst Says $2 Trillion Is Next",
+   "t": "Hyundai to build more cars in the US, betting big on new hybrids and trucks, CEO says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-could-165404139.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/hyundai-to-build-more-cars-in-the-us-betting-big-on-new-hybrids-and-trucks-ceo-says-142338721.html"
   },
   {
    "t": "新青安3年撥貸近1.4兆元　房仲估青安3.0難現爆量熱潮",
