@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-28 10:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 10:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2425.0,
-   "c": 0.62,
-   "a50": 2394.1,
-   "a200": 1990.08,
+   "p": 2420.0,
+   "c": 0.41,
+   "a50": 2394.0,
+   "a200": 1990.05,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2389.5,
-   "r": 54.8
+   "a20": 2389.25,
+   "r": 54.2
   },
   {
    "s": "2317.TW",
@@ -25,80 +25,80 @@
   },
   {
    "s": "2308.TW",
-   "p": 1810.0,
-   "c": 2.26,
-   "a50": 1818.1,
-   "a200": 1559.36,
+   "p": 1820.0,
+   "c": 2.82,
+   "a50": 1818.3,
+   "a200": 1559.4,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1755.0,
-   "r": 52.8
+   "a20": 1755.5,
+   "r": 53.6
   },
   {
    "s": "2454.TW",
-   "p": 3955.0,
-   "c": 2.33,
-   "a50": 3895.6,
-   "a200": 2574.8,
+   "p": 3965.0,
+   "c": 2.59,
+   "a50": 3895.8,
+   "a200": 2574.85,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3928.0,
-   "r": 53.1
+   "a20": 3928.5,
+   "r": 53.4
   },
   {
    "s": "2327.TW",
-   "p": 591.0,
-   "c": 6.49,
-   "a50": 733.87,
-   "a200": 445.41,
+   "p": 594.0,
+   "c": 7.03,
+   "a50": 733.93,
+   "a200": 445.43,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 576.8,
-   "r": 47.6
+   "a20": 576.95,
+   "r": 48.0
   },
   {
    "s": "1802.TW",
-   "p": 59.6,
-   "c": 0.68,
+   "p": 60.0,
+   "c": 1.35,
    "a50": 59.36,
-   "a200": 53.77,
+   "a200": 53.78,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 56.28,
-   "r": 56.7
+   "a20": 56.3,
+   "r": 57.6
   },
   {
    "s": "6862.TW",
-   "p": 143.0,
-   "c": 1.78,
-   "a50": 158.75,
-   "a200": 174.56,
+   "p": 143.5,
+   "c": 2.14,
+   "a50": 158.76,
+   "a200": 174.57,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 141.5,
-   "r": 47.8
+   "a20": 141.52,
+   "r": 48.4
   },
   {
    "s": "3701.TW",
-   "p": 41.2,
-   "c": -1.67,
+   "p": 41.3,
+   "c": -1.43,
    "a50": 41.36,
    "a200": 49.03,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.75,
-   "r": 51.2
+   "a20": 40.76,
+   "r": 51.6
   },
   {
    "s": "4722.TW",
-   "p": 215.0,
-   "c": 0.94,
-   "a50": 231.64,
-   "a200": 200.31,
+   "p": 215.5,
+   "c": 1.17,
+   "a50": 231.65,
+   "a200": 200.32,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 210.32,
-   "r": 51.0
+   "a20": 210.35,
+   "r": 51.3
   },
   {
    "s": "6706.TW",
@@ -113,102 +113,102 @@
   },
   {
    "s": "2305.TW",
-   "p": 29.15,
-   "c": -1.02,
-   "a50": 32.48,
+   "p": 29.25,
+   "c": -0.68,
+   "a50": 32.49,
    "a200": 19.39,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 28.54,
-   "r": 49.6
+   "r": 49.9
   },
   {
    "s": "6442.TW",
-   "p": 1640.0,
-   "c": 2.82,
-   "a50": 1490.3,
-   "a200": 1622.15,
+   "p": 1620.0,
+   "c": 1.57,
+   "a50": 1489.9,
+   "a200": 1622.05,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1503.75,
-   "r": 58.7
+   "a20": 1502.75,
+   "r": 57.7
   },
   {
    "s": "6515.TW",
-   "p": 6195.0,
-   "c": 1.47,
-   "a50": 7119.1,
-   "a200": 6182.22,
+   "p": 6300.0,
+   "c": 3.19,
+   "a50": 7121.2,
+   "a200": 6182.75,
    "yh": 10795.0,
    "yl": 1250.0,
-   "a20": 6523.0,
-   "r": 42.7
+   "a20": 6528.25,
+   "r": 44.8
   },
   {
    "s": "6446.TW",
-   "p": 1580.0,
-   "c": 1.28,
-   "a50": 1268.84,
-   "a200": 756.88,
-   "yh": 1585.0,
+   "p": 1590.0,
+   "c": 1.92,
+   "a50": 1269.04,
+   "a200": 756.93,
+   "yh": 1590.0,
    "yl": 401.71,
-   "a20": 1404.75,
-   "r": 67.9
+   "a20": 1405.25,
+   "r": 68.4
   },
   {
    "s": "3324.TWO",
-   "p": 1150.0,
-   "c": 8.49,
-   "a50": 974.94,
-   "a200": 998.84,
+   "p": 1140.0,
+   "c": 7.55,
+   "a50": 974.74,
+   "a200": 998.8,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 1018.85,
-   "r": 67.8
+   "a20": 1018.35,
+   "r": 67.1
   },
   {
    "s": "3491.TWO",
-   "p": 1470.0,
-   "c": 3.16,
-   "a50": 1262.74,
-   "a200": 1234.46,
+   "p": 1475.0,
+   "c": 3.51,
+   "a50": 1262.84,
+   "a200": 1234.48,
    "yh": 2200.0,
    "yl": 387.0,
-   "a20": 1291.25,
-   "r": 62.7
+   "a20": 1291.5,
+   "r": 62.9
   },
   {
    "s": "3585.TWO",
-   "p": 51.0,
-   "c": 2.82,
-   "a50": 56.63,
+   "p": 50.6,
+   "c": 2.02,
+   "a50": 56.62,
    "a200": 43.28,
    "yh": 165.0,
    "yl": 10.6,
-   "a20": 49.68,
-   "r": 49.3
+   "a20": 49.66,
+   "r": 48.5
   },
   {
    "s": "6223.TWO",
-   "p": 4965.0,
-   "c": -2.46,
-   "a50": 6064.9,
-   "a200": 4190.62,
+   "p": 5020.0,
+   "c": -1.38,
+   "a50": 6066.0,
+   "a200": 4190.9,
    "yh": 7380.0,
    "yl": 1285.0,
-   "a20": 5806.25,
-   "r": 38.1
+   "a20": 5809.0,
+   "r": 38.7
   },
   {
    "s": "6750.TWO",
-   "p": 53.8,
-   "c": 0.56,
+   "p": 53.9,
+   "c": 0.75,
    "a50": 58.93,
    "a200": 57.24,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.38,
-   "r": 41.5
+   "a20": 55.39,
+   "r": 41.9
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46402.29,
-   "c": 0.93,
-   "a50": 44938.57,
-   "a200": 36783.65,
+   "p": 46386.95,
+   "c": 0.9,
+   "a50": 44938.27,
+   "a200": 36783.57,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 45078.33,
-   "r": 60.7
+   "a20": 45077.56,
+   "r": 60.6
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.49,
-   "c": 0.74,
+   "p": 88.46,
+   "c": 0.71,
    "a50": 84.19,
    "a200": 82.95,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4635.9,
-   "c": 0.82,
-   "a50": 4206.92,
-   "a200": 4511.7,
+   "p": 4639.6,
+   "c": 0.9,
+   "a50": 4206.99,
+   "a200": 4511.72,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4391.55,
-   "r": 71.3
+   "a20": 4391.73,
+   "r": 71.4
   },
   {
    "s": "HG=F",
    "p": 6.7,
-   "c": 1.61,
+   "c": 1.62,
    "a50": 6.39,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 60.4
+   "r": 60.5
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280032.aspx"
   },
   {
-   "t": "Silver price today, Wednesday, August 26, 2026:  Silver prices hold, notching a 17% monthly gain",
+   "t": "Emergency medical evacuation insurance: What it covers, what it costs, and how to compare plans",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-august-26-2026-silver-prices-hold-notching-a-17-monthly-gain-121703294.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/emergency-medical-evacuation-insurance-142045430.html"
   },
   {
    "t": "新台幣開盤升1.8分　為31.69元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280030.aspx"
   },
   {
-   "t": "Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700",
+   "t": "Silver price today, Wednesday, August 26, 2026:  Silver prices hold, notching a 17% monthly gain",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-august-26-2026-silver-prices-hold-notching-a-17-monthly-gain-121703294.html"
   },
   {
    "t": "世界先進桃園晶圓三廠火警　產線運轉無重大影響",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280029.aspx"
   },
   {
-   "t": "Applied Nutrition Flexes Its Protein Power",
+   "t": "Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/applied-nutrition-flexes-protein-power-141741188.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html"
   },
   {
    "t": "台股開盤漲95.61點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280028.aspx"
   },
   {
-   "t": "Emergency medical evacuation insurance: What it covers, what it costs, and how to compare plans",
+   "t": "Dollar Rises on US Economic News",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/insurance/article/emergency-medical-evacuation-insurance-142045430.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-rises-us-economic-news-143948147.html"
   },
   {
    "t": "SK海力士砸40億美元　美國新廠2029年量產AI晶片",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280025.aspx"
   },
   {
-   "t": "Nvidia Announces That Groq 3 LPX Is in Full-Scale Production. What This Means for NVDA Stock.",
+   "t": "Cramer Says Meta Is “One Hated Stock” As Company Settles Lawsuit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-announces-groq-3-lpx-142303685.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cramer-says-meta-one-hated-143803850.html"
   }
  ],
  "inst": {
