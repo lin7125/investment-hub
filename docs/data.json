@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 08:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 08:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.41,
-   "c": 0.65,
+   "p": 88.44,
+   "c": 0.68,
    "a50": 84.18,
    "a200": 82.95,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4643.4,
-   "c": 0.98,
-   "a50": 4207.07,
+   "p": 4644.2,
+   "c": 1.0,
+   "a50": 4207.09,
    "a200": 4511.74,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4391.92,
-   "r": 71.6
+   "a20": 4391.96,
+   "r": 71.7
   },
   {
    "s": "HG=F",
    "p": 6.68,
-   "c": 1.3,
+   "c": 1.32,
    "a50": 6.38,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 59.5
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03159558,
-   "c": 0.48,
+   "c": 0.49,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "科技股領漲　美股收高",
+   "t": "輝達漲逾8%激勵美股　法人：留意全球央行年會訊息",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280011.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608280023.aspx"
   },
   {
    "t": "Cathie Wood bets on 'disrupter' stock with bullish analyst call",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/cathie-wood-bets-disrupter-stock-171503487.html"
   },
   {
-   "t": "美媒指川普無意重返美伊備忘錄　國際油價大漲",
+   "t": "科技股領漲　美股收高",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280009.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608280011.aspx"
   },
   {
    "t": "Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html"
   },
   {
-   "t": "印度盼就半導體與台灣合作　台商籲創造更友善投資環境",
+   "t": "美媒指川普無意重返美伊備忘錄　國際油價大漲",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280007.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608280009.aspx"
   },
   {
    "t": "Silver price today, Wednesday, August 26, 2026:  Silver prices hold, notching a 17% monthly gain",
@@ -368,16 +368,28 @@
    "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-august-26-2026-silver-prices-hold-notching-a-17-monthly-gain-121703294.html"
   },
   {
+   "t": "印度盼就半導體與台灣合作　台商籲創造更友善投資環境",
+   "pub": "中央社財經",
+   "d": "2026-08-28",
+   "u": "https://www.cna.com.tw/news/afe/202608280007.aspx"
+  },
+  {
+   "t": "Cybersecurity Stocks Are Priced For Big AI Growth. Why Earnings Could Bring Fireworks.",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/news/technology/cybersecurity-stocks-earnings-artificial-intelligence-high-expectations/?src=A00220&yptr=yahoo"
+  },
+  {
    "t": "歐股多收跌　投資人聚焦聯準會主席演說",
    "pub": "中央社財經",
    "d": "2026-08-28",
    "u": "https://www.cna.com.tw/news/afe/202608280003.aspx"
   },
   {
-   "t": "Soybeans Posting Early Wednesday Strength",
+   "t": "3 Stocks to Buy Now to Invest Like President Trump",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-posting-early-wednesday-strength-123214787.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-now-invest-130002652.html"
   },
   {
    "t": "輝達公布營收成長強勁　早盤股價大漲逾7%",
@@ -386,98 +398,86 @@
    "u": "https://www.cna.com.tw/news/aopl/202608270352.aspx"
   },
   {
-   "t": "Corn Closing in on 3-year Highs",
+   "t": "Does Vanguard or State Street Have the Better S&P 500 ETF?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-closing-3-highs-123214522.html"
-  },
-  {
-   "t": "國泰專案金檢已完成　金管會：短期內公布裁罰結果",
-   "pub": "中央社財經",
-   "d": "2026-08-27",
-   "u": "https://www.cna.com.tw/news/afe/202608270346.aspx"
-  },
-  {
-   "t": "Stock Spirits gains UK supermarket listing for Sierra RTDs",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-spirits-gains-uk-supermarket-123137445.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/does-vanguard-state-street-better-124719225.html"
   }
  ],
  "inst": {
-  "date": "2026-08-27",
+  "date": "2026-08-25",
   "byCode": {
-   "2317": {
-    "f": 18248,
-    "t": -121,
-    "all": 18605
-   },
-   "2330": {
-    "f": 4500,
-    "t": -318,
-    "all": 4340
-   },
-   "3701": {
-    "f": 217,
-    "t": 0,
-    "all": 219
-   },
-   "6446": {
-    "f": 139,
-    "t": -4,
-    "all": 137
-   },
-   "4722": {
-    "f": 98,
-    "t": 0,
-    "all": 71
-   },
-   "6862": {
-    "f": 49,
-    "t": 0,
-    "all": 48
-   },
-   "6515": {
-    "f": 215,
-    "t": -188,
-    "all": 31
-   },
-   "2308": {
-    "f": 716,
-    "t": -838,
-    "all": -174
+   "1802": {
+    "f": 2568,
+    "t": -357,
+    "all": 2055
    },
    "2305": {
-    "f": -152,
-    "t": -2,
-    "all": -179
-   },
-   "6706": {
-    "f": -206,
+    "f": 440,
     "t": 0,
-    "all": -194
-   },
-   "6442": {
-    "f": -152,
-    "t": -176,
-    "all": -321
+    "all": 452
    },
    "2454": {
-    "f": -247,
-    "t": -15,
-    "all": -344
+    "f": 415,
+    "t": -154,
+    "all": 358
+   },
+   "6442": {
+    "f": 203,
+    "t": -74,
+    "all": 187
+   },
+   "3701": {
+    "f": 99,
+    "t": 0,
+    "all": 101
+   },
+   "6706": {
+    "f": 11,
+    "t": 0,
+    "all": 85
+   },
+   "4722": {
+    "f": 91,
+    "t": 0,
+    "all": 80
+   },
+   "6515": {
+    "f": 67,
+    "t": -34,
+    "all": 33
+   },
+   "6862": {
+    "f": 8,
+    "t": 0,
+    "all": 4
+   },
+   "2330": {
+    "f": -1152,
+    "t": 658,
+    "all": -18
+   },
+   "6446": {
+    "f": -333,
+    "t": 30,
+    "all": -306
    },
    "2327": {
-    "f": -840,
-    "t": -5323,
-    "all": -5033
+    "f": 1451,
+    "t": -2343,
+    "all": -1093
    },
-   "1802": {
-    "f": -5750,
-    "t": 2,
-    "all": -6439
+   "2308": {
+    "f": -1876,
+    "t": -98,
+    "all": -1625
+   },
+   "2317": {
+    "f": -15522,
+    "t": -404,
+    "all": -14764
    }
   },
-  "totalNetE": 626.8
+  "totalNetE": -47.1
  }
 }
