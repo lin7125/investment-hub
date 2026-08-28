@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 20:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 20:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.41,
-   "c": -0.69,
+   "p": 14.46,
+   "c": -0.34,
    "a50": 16.51,
    "a200": 18.4,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.24,
-   "r": 42.9
+   "a20": 15.25,
+   "r": 43.1
   },
   {
    "s": "BZ=F",
-   "p": 87.88,
-   "c": -2.03,
-   "a50": 84.38,
+   "p": 87.72,
+   "c": -2.21,
+   "a50": 84.37,
    "a200": 83.07,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.88,
-   "r": 48.9
+   "r": 48.7
   },
   {
    "s": "GC=F",
-   "p": 4656.1,
-   "c": 1.01,
-   "a50": 4212.34,
-   "a200": 4514.29,
+   "p": 4642.2,
+   "c": 0.71,
+   "a50": 4212.06,
+   "a200": 4514.22,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4420.59,
-   "r": 72.3
+   "a20": 4419.89,
+   "r": 71.7
   },
   {
    "s": "HG=F",
-   "p": 6.72,
-   "c": 2.1,
+   "p": 6.73,
+   "c": 2.11,
    "a50": 6.39,
    "a200": 5.95,
-   "yh": 6.72,
+   "yh": 6.73,
    "yl": 4.46,
    "a20": 6.6,
    "r": 61.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03164557,
-   "c": 0.64,
+   "p": 0.03165559,
+   "c": 0.67,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608280294.aspx"
   },
   {
-   "t": "Is UnitedHealth (UNH) the Healthcare Stock to Watch Right Now?",
+   "t": "Could Ross Stores (ROST)’s Blowout Comp Growth Signal a Bigger Market Share Opportunity?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-healthcare-stock-watch-002642031.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/could-ross-stores-rost-blowout-003819805.html"
   },
   {
    "t": "中傑第2季本業營運回溫　每股盈餘0.3元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280293.aspx"
   },
   {
-   "t": "Blackbird hits $740M Fund VI record close to back VC founders",
+   "t": "Shopify, IBD Stock Of The Day, Nears Buy Point As AI Shopping Strategy Clicks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/blackbird-hits-740m-fund-vi-002827706.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/shopify-stock-new-buy-point-artificial-intelligence-winner/?src=A00220&yptr=yahoo"
   },
   {
    "t": "2037年中高齡勞動力估過半　產業界籲擴大海外人才留台",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280286.aspx"
   },
   {
-   "t": "Could Charter Communications (CHTR)’s Cox Deal Give it an Edge Over Liberty Broadband Corporation (LBRDK)?",
+   "t": "Nvidia Reports $7.8 Billion in Q2 Gains on Equity Portfolio That Includes SpaceX, Intel, CoreWeave, and More",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/could-charter-communications-chtr-cox-003619618.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-reports-7-8-billion-010632699.html"
   },
   {
    "t": "華碩AIoT事業群轉型更名　聚焦實體AI",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280283.aspx"
   },
   {
-   "t": "Could Ross Stores (ROST)’s Blowout Comp Growth Signal a Bigger Market Share Opportunity?",
+   "t": "Georgia Power Wins Approval for 3.2-GW OpenAI Power Deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/could-ross-stores-rost-blowout-003819805.html"
+   "u": "https://finance.yahoo.com/energy/articles/georgia-power-wins-approval-3-014037634.html"
   },
   {
    "t": "人口結構挑戰政府續推新對策　學者：AI導入須掌握產業用人變化",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280278.aspx"
   },
   {
-   "t": "SFL (SFL) Q2 2026 Earnings Call Transcript",
+   "t": "The next big AI opportunity may be hiding in plain sight",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sfl-sfl-q2-2026-earnings-002833818.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/next-big-ai-opportunity-may-003700377.html"
   }
  ],
  "inst": {
