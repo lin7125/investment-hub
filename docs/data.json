@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 22:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 22:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,40 +212,40 @@
   },
   {
    "s": "AAPL",
-   "p": 316.71,
-   "c": 0.68,
-   "a50": 311.94,
+   "p": 317.55,
+   "c": 0.94,
+   "a50": 311.96,
    "a200": 282.59,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.71,
-   "r": 54.7
+   "a20": 309.75,
+   "r": 55.5
   },
   {
    "s": "NVDA",
-   "p": 224.96,
-   "c": -1.32,
+   "p": 225.27,
+   "c": -1.19,
    "a50": 208.57,
    "a200": 195.86,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.42,
-   "r": 58.4
+   "a20": 218.43,
+   "r": 58.7
   },
   {
    "s": "TSLA",
-   "p": 352.59,
-   "c": -0.63,
-   "a50": 360.55,
+   "p": 352.98,
+   "c": -0.52,
+   "a50": 360.56,
    "a200": 400.95,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 339.01,
-   "r": 52.7
+   "a20": 339.03,
+   "r": 52.9
   },
   {
    "s": "META",
-   "p": 577.2,
+   "p": 577.21,
    "c": 1.07,
    "a50": 592.13,
    "a200": 622.72,
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7730.54,
-   "c": -0.01,
-   "a50": 7564.16,
-   "a200": 7118.81,
+   "p": 7741.96,
+   "c": 0.14,
+   "a50": 7564.39,
+   "a200": 7118.87,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7713.52,
-   "r": 58.4
+   "a20": 7714.09,
+   "r": 59.4
   },
   {
    "s": "^VIX",
-   "p": 14.69,
-   "c": 1.24,
+   "p": 14.34,
+   "c": -1.17,
    "a50": 16.51,
    "a200": 18.4,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.26,
-   "r": 44.4
+   "a20": 15.24,
+   "r": 42.6
   },
   {
    "s": "BZ=F",
-   "p": 87.84,
-   "c": -2.07,
+   "p": 87.87,
+   "c": -2.04,
    "a50": 84.38,
    "a200": 83.07,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4605.8,
-   "c": -0.08,
-   "a50": 4211.33,
+   "p": 4607.1,
+   "c": -0.06,
+   "a50": 4211.36,
    "a200": 4514.04,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4418.07,
-   "r": 69.6
+   "a20": 4418.14,
+   "r": 69.7
   },
   {
    "s": "HG=F",
-   "p": 6.69,
-   "c": 1.62,
+   "p": 6.68,
+   "c": 1.47,
    "a50": 6.39,
    "a200": 5.95,
    "yh": 6.71,
    "yl": 4.46,
    "a20": 6.59,
-   "r": 60.3
+   "r": 59.8
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608280294.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500 climb, Nasdaq falls as the focus turns to Kevin Warsh's Jackson Hole speech",
+   "t": "Fed Chair Warsh Leans Hawkish In Jackson Hole Speech (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-fed-warsh-jackson-hole-081514091.html"
+   "u": "https://www.investors.com/news/federal-reserve-chairman-kevin-warsh-jackson-hole-treasury-yields-sp-500/?src=A00220&yptr=yahoo"
   },
   {
    "t": "中傑第2季本業營運回溫　每股盈餘0.3元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280293.aspx"
   },
   {
-   "t": "Warsh says Fed has 'work to do' if above-target inflation persists",
+   "t": "A Union Just Delayed Alphabet (GOOGL) Google’s $10 Million Purchase of a Bankrupt Airline’s Data",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/warshs-jackson-hole-speech-course-050258340.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/union-just-delayed-alphabet-googl-142611968.html"
   },
   {
    "t": "2037年中高齡勞動力估過半　產業界籲擴大海外人才留台",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280286.aspx"
   },
   {
-   "t": "Jackson Hole Fed summit live: Kevin Warsh's keynote speech comes at a pivotal moment for the Federal Reserve",
+   "t": "Investors In Trump Crypto Ventures Are $4.7 Billion Underwater: Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/live/jackson-hole-fed-summit-live-kevin-warsh-keynote-speech-180442096.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/investors-trump-crypto-ventures-4-142400214.html"
   },
   {
    "t": "華碩AIoT事業群轉型更名　聚焦實體AI",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280283.aspx"
   },
   {
-   "t": "Fed Chairman Warsh says inflation is running too high, offers first assessment of economy",
+   "t": "Stock market today: Dow, S&P 500 climb, Nasdaq falls as the focus turns to Kevin Warsh's Jackson Hole speech",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/article/fed-chairman-warsh-says-inflation-is-running-too-high-offers-first-assessment-of-economy-140031752.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-fed-warsh-jackson-hole-081514091.html"
   },
   {
    "t": "人口結構挑戰政府續推新對策　學者：AI導入須掌握產業用人變化",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280278.aspx"
   },
   {
-   "t": "Helcim valuation hits C$250m after Series C financing",
+   "t": "Amber Beverage Group gets extension on debt moratorium",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/helcim-valuation-hits-c-250m-141428820.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amber-beverage-group-gets-extension-143052451.html"
   }
  ],
  "inst": {
