@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 09:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 10:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,58 +14,58 @@
   },
   {
    "s": "2317.TW",
-   "p": 253.5,
-   "c": 0.6,
-   "a50": 248.57,
+   "p": 252.5,
+   "c": 0.2,
+   "a50": 248.55,
    "a200": 235.62,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 254.22,
-   "r": 52.6
+   "a20": 254.18,
+   "r": 51.7
   },
   {
    "s": "2308.TW",
-   "p": 1805.0,
-   "c": 1.98,
-   "a50": 1818.0,
-   "a200": 1559.33,
+   "p": 1800.0,
+   "c": 1.69,
+   "a50": 1817.9,
+   "a200": 1559.3,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1754.75,
-   "r": 52.4
+   "a20": 1754.5,
+   "r": 52.0
   },
   {
    "s": "2454.TW",
-   "p": 3960.0,
-   "c": 2.46,
-   "a50": 3895.7,
-   "a200": 2574.82,
+   "p": 3945.0,
+   "c": 2.07,
+   "a50": 3895.4,
+   "a200": 2574.75,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3928.25,
-   "r": 53.2
+   "a20": 3927.5,
+   "r": 52.8
   },
   {
    "s": "2327.TW",
-   "p": 599.0,
-   "c": 7.93,
-   "a50": 734.03,
-   "a200": 445.45,
+   "p": 594.0,
+   "c": 7.03,
+   "a50": 733.93,
+   "a200": 445.43,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 577.2,
-   "r": 48.7
+   "a20": 576.95,
+   "r": 48.0
   },
   {
    "s": "1802.TW",
-   "p": 59.5,
-   "c": 0.51,
+   "p": 59.6,
+   "c": 0.68,
    "a50": 59.36,
    "a200": 53.77,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 56.27,
-   "r": 56.5
+   "a20": 56.28,
+   "r": 56.7
   },
   {
    "s": "6862.TW",
@@ -80,14 +80,14 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.3,
-   "c": -1.43,
+   "p": 41.2,
+   "c": -1.67,
    "a50": 41.36,
    "a200": 49.03,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.76,
-   "r": 51.6
+   "a20": 40.75,
+   "r": 51.2
   },
   {
    "s": "4722.TW",
@@ -102,113 +102,113 @@
   },
   {
    "s": "6706.TW",
-   "p": 125.0,
-   "c": 0.81,
-   "a50": 124.79,
-   "a200": 128.84,
+   "p": 124.0,
+   "c": 0.0,
+   "a50": 124.77,
+   "a200": 128.83,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 116.94,
-   "r": 55.3
+   "a20": 116.89,
+   "r": 54.5
   },
   {
    "s": "2305.TW",
-   "p": 29.35,
-   "c": -0.34,
-   "a50": 32.49,
+   "p": 29.2,
+   "c": -0.85,
+   "a50": 32.48,
    "a200": 19.39,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.55,
-   "r": 50.2
+   "a20": 28.54,
+   "r": 49.7
   },
   {
    "s": "6442.TW",
-   "p": 1630.0,
-   "c": 2.19,
-   "a50": 1490.1,
-   "a200": 1622.1,
+   "p": 1610.0,
+   "c": 0.94,
+   "a50": 1489.7,
+   "a200": 1622.0,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1503.25,
-   "r": 58.2
+   "a20": 1502.25,
+   "r": 57.1
   },
   {
    "s": "6515.TW",
-   "p": 6155.0,
-   "c": 0.82,
-   "a50": 7118.3,
-   "a200": 6182.02,
+   "p": 6095.0,
+   "c": -0.16,
+   "a50": 7117.1,
+   "a200": 6181.72,
    "yh": 10795.0,
    "yl": 1250.0,
-   "a20": 6521.0,
-   "r": 41.8
+   "a20": 6518.0,
+   "r": 40.6
   },
   {
    "s": "6446.TW",
-   "p": 1560.0,
-   "c": 0.0,
-   "a50": 1268.44,
-   "a200": 756.78,
+   "p": 1550.0,
+   "c": -0.64,
+   "a50": 1268.24,
+   "a200": 756.73,
    "yh": 1585.0,
    "yl": 401.71,
-   "a20": 1403.75,
-   "r": 66.8
+   "a20": 1403.25,
+   "r": 65.7
   },
   {
    "s": "3324.TWO",
-   "p": 1110.0,
-   "c": 4.72,
-   "a50": 974.14,
-   "a200": 998.64,
+   "p": 1120.0,
+   "c": 5.66,
+   "a50": 974.34,
+   "a200": 998.7,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 1016.85,
-   "r": 64.5
+   "a20": 1017.35,
+   "r": 65.4
   },
   {
    "s": "3491.TWO",
-   "p": 1505.0,
-   "c": 5.61,
-   "a50": 1263.44,
-   "a200": 1234.64,
+   "p": 1500.0,
+   "c": 5.26,
+   "a50": 1263.34,
+   "a200": 1234.61,
    "yh": 2200.0,
    "yl": 387.0,
-   "a20": 1293.0,
-   "r": 64.4
+   "a20": 1292.75,
+   "r": 64.1
   },
   {
    "s": "3585.TWO",
-   "p": 51.1,
-   "c": 3.02,
+   "p": 51.2,
+   "c": 3.23,
    "a50": 56.63,
    "a200": 43.28,
    "yh": 165.0,
    "yl": 10.6,
-   "a20": 49.68,
-   "r": 49.5
+   "a20": 49.69,
+   "r": 49.7
   },
   {
    "s": "6223.TWO",
-   "p": 5040.0,
-   "c": -0.98,
-   "a50": 6066.4,
-   "a200": 4191.0,
+   "p": 4965.0,
+   "c": -2.46,
+   "a50": 6064.9,
+   "a200": 4190.62,
    "yh": 7380.0,
    "yl": 1285.0,
-   "a20": 5810.0,
-   "r": 39.0
+   "a20": 5806.25,
+   "r": 38.1
   },
   {
    "s": "6750.TWO",
-   "p": 54.2,
-   "c": 1.31,
-   "a50": 58.94,
+   "p": 53.3,
+   "c": -0.37,
+   "a50": 58.92,
    "a200": 57.24,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.4,
-   "r": 43.1
+   "a20": 55.36,
+   "r": 39.6
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46427.64,
-   "c": 0.98,
-   "a50": 44939.08,
-   "a200": 36783.77,
+   "p": 46387.0,
+   "c": 0.9,
+   "a50": 44938.27,
+   "a200": 36783.57,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 45079.6,
-   "r": 60.9
+   "a20": 45077.56,
+   "r": 60.6
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.14,
-   "c": 0.34,
+   "p": 88.21,
+   "c": 0.42,
    "a50": 84.18,
    "a200": 82.95,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.92,
-   "r": 49.5
+   "r": 49.6
   },
   {
    "s": "GC=F",
-   "p": 4634.8,
-   "c": 0.8,
-   "a50": 4206.9,
-   "a200": 4511.69,
+   "p": 4630.1,
+   "c": 0.69,
+   "a50": 4206.8,
+   "a200": 4511.67,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4391.49,
-   "r": 71.2
+   "a20": 4391.26,
+   "r": 71.0
   },
   {
    "s": "HG=F",
-   "p": 6.69,
-   "c": 1.46,
+   "p": 6.68,
+   "c": 1.34,
    "a50": 6.39,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 60.0
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03163556,
-   "c": 0.6,
+   "p": 0.03162555,
+   "c": 0.59,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280011.aspx"
   },
   {
-   "t": "Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700",
+   "t": "Silver price today, Wednesday, August 26, 2026:  Silver prices hold, notching a 17% monthly gain",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-august-26-2026-silver-prices-hold-notching-a-17-monthly-gain-121703294.html"
   },
   {
    "t": "美媒指川普無意重返美伊備忘錄　國際油價大漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280009.aspx"
   },
   {
-   "t": "Silver price today, Wednesday, August 26, 2026:  Silver prices hold, notching a 17% monthly gain",
+   "t": "Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-august-26-2026-silver-prices-hold-notching-a-17-monthly-gain-121703294.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html"
   },
   {
    "t": "印度盼就半導體與台灣合作　台商籲創造更友善投資環境",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280007.aspx"
   },
   {
-   "t": "Dear Dollar General Stock Fans, Mark Your Calendars for August 27",
+   "t": "Booking Holdings Stock: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-dollar-general-stock-fans-134248797.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-stock-wall-street-140302023.html"
   },
   {
    "t": "歐股多收跌　投資人聚焦聯準會主席演說",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280003.aspx"
   },
   {
-   "t": "U.S. State Banking Associations To Launch Blockchain Network",
+   "t": "Oats Prices Are Heading Higher as Larger Grain Futures Markets Rally. How to Trade Oats Here.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/u-state-banking-associations-launch-134500669.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/oats-prices-heading-higher-larger-140322164.html"
   },
   {
    "t": "輝達公布營收成長強勁　早盤股價大漲逾7%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608270352.aspx"
   },
   {
-   "t": "Target stock drops 5% after blackface costume pulled",
+   "t": "Boston Scientific Stock Is Falling as Cyberattack Puts More Strain on the Medical Device Maker",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/target-stock-drops-5-blackface-134240822.html"
+   "u": "https://www.barrons.com/articles/boston-scientific-stock-cyberattack-494f7cdf?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
