@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-08-28 10:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 10:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2420.0,
-   "c": 0.41,
-   "a50": 2394.0,
-   "a200": 1990.05,
+   "p": 2425.0,
+   "c": 0.62,
+   "a50": 2394.1,
+   "a200": 1990.08,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2389.25,
-   "r": 54.2
+   "a20": 2389.5,
+   "r": 54.8
   },
   {
    "s": "2317.TW",
@@ -25,102 +25,102 @@
   },
   {
    "s": "2308.TW",
-   "p": 1820.0,
-   "c": 2.82,
-   "a50": 1818.3,
-   "a200": 1559.4,
+   "p": 1825.0,
+   "c": 3.11,
+   "a50": 1818.4,
+   "a200": 1559.43,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1755.5,
-   "r": 53.6
+   "a20": 1755.75,
+   "r": 54.0
   },
   {
    "s": "2454.TW",
-   "p": 3965.0,
-   "c": 2.59,
-   "a50": 3895.8,
-   "a200": 2574.85,
+   "p": 3955.0,
+   "c": 2.33,
+   "a50": 3895.6,
+   "a200": 2574.8,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3928.5,
-   "r": 53.4
+   "a20": 3928.0,
+   "r": 53.1
   },
   {
    "s": "2327.TW",
-   "p": 594.0,
-   "c": 7.03,
-   "a50": 733.93,
-   "a200": 445.43,
+   "p": 592.0,
+   "c": 6.67,
+   "a50": 733.89,
+   "a200": 445.42,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 576.95,
-   "r": 48.0
+   "a20": 576.85,
+   "r": 47.7
   },
   {
    "s": "1802.TW",
-   "p": 60.0,
-   "c": 1.35,
-   "a50": 59.36,
+   "p": 60.8,
+   "c": 2.7,
+   "a50": 59.38,
    "a200": 53.78,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 56.3,
-   "r": 57.6
+   "a20": 56.34,
+   "r": 59.3
   },
   {
    "s": "6862.TW",
-   "p": 143.5,
-   "c": 2.14,
-   "a50": 158.76,
-   "a200": 174.57,
+   "p": 143.0,
+   "c": 1.78,
+   "a50": 158.75,
+   "a200": 174.56,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 141.52,
-   "r": 48.4
+   "a20": 141.5,
+   "r": 47.8
   },
   {
    "s": "3701.TW",
-   "p": 41.3,
-   "c": -1.43,
+   "p": 41.25,
+   "c": -1.55,
    "a50": 41.36,
    "a200": 49.03,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.76,
-   "r": 51.6
+   "r": 51.4
   },
   {
    "s": "4722.TW",
-   "p": 215.5,
-   "c": 1.17,
-   "a50": 231.65,
-   "a200": 200.32,
+   "p": 214.5,
+   "c": 0.7,
+   "a50": 231.63,
+   "a200": 200.31,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 210.35,
-   "r": 51.3
+   "a20": 210.3,
+   "r": 50.8
   },
   {
    "s": "6706.TW",
-   "p": 125.0,
-   "c": 0.81,
-   "a50": 124.79,
-   "a200": 128.84,
+   "p": 123.5,
+   "c": -0.4,
+   "a50": 124.76,
+   "a200": 128.83,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 116.94,
-   "r": 55.3
+   "a20": 116.87,
+   "r": 54.0
   },
   {
    "s": "2305.TW",
-   "p": 29.25,
-   "c": -0.68,
+   "p": 29.3,
+   "c": -0.51,
    "a50": 32.49,
    "a200": 19.39,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.54,
-   "r": 49.9
+   "a20": 28.55,
+   "r": 50.0
   },
   {
    "s": "6442.TW",
@@ -135,36 +135,36 @@
   },
   {
    "s": "6515.TW",
-   "p": 6300.0,
-   "c": 3.19,
-   "a50": 7121.2,
-   "a200": 6182.75,
+   "p": 6280.0,
+   "c": 2.87,
+   "a50": 7120.8,
+   "a200": 6182.65,
    "yh": 10795.0,
    "yl": 1250.0,
-   "a20": 6528.25,
-   "r": 44.8
+   "a20": 6527.25,
+   "r": 44.4
   },
   {
    "s": "6446.TW",
-   "p": 1590.0,
-   "c": 1.92,
-   "a50": 1269.04,
-   "a200": 756.93,
-   "yh": 1590.0,
+   "p": 1595.0,
+   "c": 2.24,
+   "a50": 1269.14,
+   "a200": 756.95,
+   "yh": 1595.0,
    "yl": 401.71,
-   "a20": 1405.25,
-   "r": 68.4
+   "a20": 1405.5,
+   "r": 68.6
   },
   {
    "s": "3324.TWO",
-   "p": 1140.0,
-   "c": 7.55,
-   "a50": 974.74,
-   "a200": 998.8,
+   "p": 1135.0,
+   "c": 7.08,
+   "a50": 974.64,
+   "a200": 998.77,
    "yh": 1280.0,
    "yl": 643.0,
-   "a20": 1018.35,
-   "r": 67.1
+   "a20": 1018.1,
+   "r": 66.7
   },
   {
    "s": "3491.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46386.95,
-   "c": 0.9,
-   "a50": 44938.27,
-   "a200": 36783.57,
+   "p": 46392.65,
+   "c": 0.91,
+   "a50": 44938.38,
+   "a200": 36783.6,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 45077.56,
-   "r": 60.6
+   "a20": 45077.85,
+   "r": 60.7
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.46,
-   "c": 0.71,
-   "a50": 84.19,
+   "p": 88.33,
+   "c": 0.56,
+   "a50": 84.18,
    "a200": 82.95,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.93,
-   "r": 50.1
+   "r": 49.9
   },
   {
    "s": "GC=F",
-   "p": 4639.6,
-   "c": 0.9,
-   "a50": 4206.99,
-   "a200": 4511.72,
+   "p": 4635.4,
+   "c": 0.81,
+   "a50": 4206.91,
+   "a200": 4511.7,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4391.73,
-   "r": 71.4
+   "a20": 4391.52,
+   "r": 71.3
   },
   {
    "s": "HG=F",
-   "p": 6.7,
-   "c": 1.62,
+   "p": 6.69,
+   "c": 1.44,
    "a50": 6.39,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 60.5
+   "r": 59.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03163556,
-   "c": 0.62,
+   "p": 0.03165559,
+   "c": 0.66,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280030.aspx"
   },
   {
-   "t": "Silver price today, Wednesday, August 26, 2026:  Silver prices hold, notching a 17% monthly gain",
+   "t": "XPeng’s Robotics Unit Raised Over $900 Million at a $6.3 Billion Valuation. What This Means for XPEV Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-august-26-2026-silver-prices-hold-notching-a-17-monthly-gain-121703294.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/xpeng-robotics-unit-raised-over-145727155.html"
   },
   {
    "t": "世界先進桃園晶圓三廠火警　產線運轉無重大影響",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280029.aspx"
   },
   {
-   "t": "Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700",
+   "t": "Silver price today, Wednesday, August 26, 2026:  Silver prices hold, notching a 17% monthly gain",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-august-26-2026-silver-prices-hold-notching-a-17-monthly-gain-121703294.html"
   },
   {
    "t": "台股開盤漲95.61點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280028.aspx"
   },
   {
-   "t": "Dollar Rises on US Economic News",
+   "t": "SpaceX Intends to Launch Its First Nvidia-Powered AI Satellites in Late 2027. What This Means for SPCX and NVDA.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-rises-us-economic-news-143948147.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/spacex-intends-launch-first-nvidia-145955751.html"
   },
   {
    "t": "SK海力士砸40億美元　美國新廠2029年量產AI晶片",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280025.aspx"
   },
   {
-   "t": "Cramer Says Meta Is “One Hated Stock” As Company Settles Lawsuit",
+   "t": "Bank of America doubles down on Nvidia stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cramer-says-meta-one-hated-143803850.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html"
   }
  ],
  "inst": {
