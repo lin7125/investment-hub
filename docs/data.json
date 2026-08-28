@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 22:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 22:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 316.92,
-   "c": 0.74,
+   "p": 316.81,
+   "c": 0.71,
    "a50": 311.94,
    "a200": 282.59,
    "yh": 340.08,
    "yl": 226.79,
    "a20": 309.72,
-   "r": 54.9
+   "r": 54.8
   },
   {
    "s": "NVDA",
-   "p": 224.64,
-   "c": -1.47,
-   "a50": 208.56,
+   "p": 224.22,
+   "c": -1.65,
+   "a50": 208.55,
    "a200": 195.86,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.4,
-   "r": 58.1
+   "a20": 218.38,
+   "r": 57.7
   },
   {
    "s": "TSLA",
-   "p": 353.2,
-   "c": -0.45,
-   "a50": 360.56,
+   "p": 352.62,
+   "c": -0.62,
+   "a50": 360.55,
    "a200": 400.95,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 339.04,
-   "r": 53.0
+   "a20": 339.01,
+   "r": 52.8
   },
   {
    "s": "META",
-   "p": 579.51,
-   "c": 1.47,
+   "p": 579.56,
+   "c": 1.48,
    "a50": 592.17,
    "a200": 622.73,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.84,
+   "a20": 575.85,
    "r": 50.1
   },
   {
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7733.25,
-   "c": 0.03,
-   "a50": 7564.22,
+   "p": 7733.79,
+   "c": 0.04,
+   "a50": 7564.23,
    "a200": 7118.83,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7713.66,
+   "a20": 7713.68,
    "r": 58.7
   },
   {
    "s": "^VIX",
-   "p": 14.58,
-   "c": 0.48,
+   "p": 14.53,
+   "c": 0.14,
    "a50": 16.51,
    "a200": 18.4,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.25,
-   "r": 43.7
+   "r": 43.4
   },
   {
    "s": "BZ=F",
-   "p": 87.35,
-   "c": -2.62,
+   "p": 87.38,
+   "c": -2.59,
    "a50": 84.37,
    "a200": 83.07,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4680.1,
-   "c": 1.53,
-   "a50": 4212.82,
-   "a200": 4514.41,
+   "p": 4628.7,
+   "c": 0.41,
+   "a50": 4211.79,
+   "a200": 4514.15,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4421.79,
-   "r": 73.3
+   "a20": 4419.22,
+   "r": 71.0
   },
   {
    "s": "HG=F",
-   "p": 6.73,
-   "c": 2.11,
+   "p": 6.69,
+   "c": 1.59,
    "a50": 6.39,
    "a200": 5.95,
-   "yh": 6.73,
+   "yh": 6.71,
    "yl": 4.46,
-   "a20": 6.6,
-   "r": 61.7
+   "a20": 6.59,
+   "r": 60.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03162555,
-   "c": 0.58,
+   "p": 0.03161555,
+   "c": 0.55,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608280294.aspx"
   },
   {
-   "t": "Fed Chairman Warsh says inflation is running too high, offers first assesment of economy",
+   "t": "Stock market today: Dow, S&P 500 climb, Nasdaq falls as the focus turns to Kevin Warsh's Jackson Hole speech",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/article/fed-chairman-warsh-says-inflation-is-running-too-high-offers-first-assesment-of-economy-140031752.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-fed-warsh-jackson-hole-081514091.html"
   },
   {
    "t": "中傑第2季本業營運回溫　每股盈餘0.3元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280293.aspx"
   },
   {
-   "t": "Why Software Stock Elastic Is Rocketing 20% Higher",
+   "t": "Stocks open on mixed footing ahead of Warsh's Jackson Hole speech: AlphaCheck",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/elastic-stock-earnings-july-2026-estc-news/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/tktk-alphacheck-140557980.html"
   },
   {
    "t": "2037年中高齡勞動力估過半　產業界籲擴大海外人才留台",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280286.aspx"
   },
   {
-   "t": "Jackson Hole Fed summit live: Kevin Warsh's keynote speech comes at a pivotal moment for the Federal Reserve",
+   "t": "Fed Chairman Warsh says inflation is running too high, offers first assessment of economy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/live/jackson-hole-fed-summit-live-kevin-warsh-keynote-speech-180442096.html"
+   "u": "https://finance.yahoo.com/economy/policy/article/fed-chairman-warsh-says-inflation-is-running-too-high-offers-first-assessment-of-economy-140031752.html"
   },
   {
    "t": "華碩AIoT事業群轉型更名　聚焦實體AI",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280283.aspx"
   },
   {
-   "t": "Walmart settles US government's opioid lawsuit",
+   "t": "What Makes Rackspace Technology (RXT) an Investment Choice?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/walmart-settles-us-governments-opioid-134328640.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/makes-rackspace-technology-rxt-investment-140036181.html"
   },
   {
    "t": "人口結構挑戰政府續推新對策　學者：AI導入須掌握產業用人變化",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280278.aspx"
   },
   {
-   "t": "Stocks Waver as Investors Await Warsh Speech",
+   "t": "Why Software Stock Elastic Is Rocketing 20% Higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/finance/stocks/u-s-stock-futures-mixed-ahead-of-fed-chair-warshs-jackson-hole-debut-5c045a6d?siteid=yhoof2&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/elastic-stock-earnings-july-2026-estc-news/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
