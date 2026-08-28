@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 23:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 23:11（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 321.05,
-   "c": 2.06,
-   "a50": 312.03,
+   "p": 320.5,
+   "c": 1.88,
+   "a50": 312.02,
    "a200": 282.61,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.93,
-   "r": 58.5
+   "a20": 309.9,
+   "r": 58.0
   },
   {
    "s": "NVDA",
-   "p": 226.64,
-   "c": -0.59,
-   "a50": 208.6,
-   "a200": 195.87,
+   "p": 224.88,
+   "c": -1.36,
+   "a50": 208.57,
+   "a200": 195.86,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.5,
-   "r": 60.0
+   "a20": 218.41,
+   "r": 58.3
   },
   {
    "s": "TSLA",
-   "p": 354.55,
-   "c": -0.07,
-   "a50": 360.59,
+   "p": 354.13,
+   "c": -0.19,
+   "a50": 360.58,
    "a200": 400.96,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 339.11,
-   "r": 53.7
+   "a20": 339.09,
+   "r": 53.5
   },
   {
    "s": "META",
-   "p": 584.37,
-   "c": 2.32,
-   "a50": 592.27,
-   "a200": 622.75,
+   "p": 585.84,
+   "c": 2.58,
+   "a50": 592.3,
+   "a200": 622.76,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.09,
-   "r": 51.7
+   "a20": 576.16,
+   "r": 52.2
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7769.72,
-   "c": 0.5,
-   "a50": 7564.95,
-   "a200": 7119.01,
+   "p": 7760.72,
+   "c": 0.38,
+   "a50": 7564.77,
+   "a200": 7118.96,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7715.48,
-   "r": 61.4
+   "a20": 7715.03,
+   "r": 60.8
   },
   {
    "s": "^VIX",
-   "p": 14.22,
-   "c": -2.0,
+   "p": 14.24,
+   "c": -1.86,
    "a50": 16.5,
    "a200": 18.4,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.23,
-   "r": 42.1
+   "a20": 15.24,
+   "r": 42.2
   },
   {
    "s": "BZ=F",
-   "p": 88.1,
-   "c": -1.78,
+   "p": 88.03,
+   "c": -1.86,
    "a50": 84.38,
    "a200": 83.07,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.89,
-   "r": 49.3
+   "r": 49.2
   },
   {
    "s": "GC=F",
-   "p": 4607.9,
-   "c": -0.04,
-   "a50": 4211.38,
-   "a200": 4514.05,
+   "p": 4632.3,
+   "c": 0.49,
+   "a50": 4211.86,
+   "a200": 4514.17,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4418.18,
-   "r": 69.8
+   "a20": 4419.4,
+   "r": 71.2
   },
   {
    "s": "HG=F",
-   "p": 6.7,
-   "c": 1.74,
+   "p": 6.72,
+   "c": 2.01,
    "a50": 6.39,
    "a200": 5.95,
-   "yh": 6.71,
+   "yh": 6.72,
    "yl": 4.46,
-   "a20": 6.59,
-   "r": 60.7
+   "a20": 6.6,
+   "r": 61.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03162555,
-   "c": 0.59,
+   "c": 0.57,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608280328.aspx"
   },
   {
-   "t": "A Closer Look at Amphenol (APH): Pioneers in Connectors and Cables",
+   "t": "Advance Auto Parts (AAP) Just Posted Its Best Quarter In Years",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/closer-look-amphenol-aph-pioneers-143738452.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-aap-just-145354349.html"
   },
   {
    "t": "日本公布砸3兆多元支撐日圓　創史上最大單月干預紀錄",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608280327.aspx"
   },
   {
-   "t": "Broad-Based Strength Lifts GE Aerospace (GE) Performance",
+   "t": "Fed Chair Warsh Leans Hawkish In Jackson Hole Speech (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/broad-based-strength-lifts-ge-143547221.html"
+   "u": "https://www.investors.com/news/federal-reserve-chairman-kevin-warsh-jackson-hole-treasury-yields-sp-500/?src=A00220&yptr=yahoo"
   },
   {
    "t": "國泰世華銀：台廠資金需求旺　上半年企業放款年增21%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280321.aspx"
   },
   {
-   "t": "What Makes ASML (ASML) The Best-Positioned Business Within The AI Cohort?",
+   "t": "Morgan Stanley (MS) is Well Positioned to Benefit from AI Capital Raising",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/makes-asml-asml-best-positioned-143408648.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-well-positioned-144732682.html"
   },
   {
    "t": "大樂透第115083期開獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608280317.aspx"
   },
   {
-   "t": "Intuit’s (INTU) Workforce Restructuring Highlights AI Platform Scalability",
+   "t": "BioNTech Tumbles 8% as Colorectal Cancer Vaccine Trial Fails, Moderna Drops 6%, Pfizer Holds Flat",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-workforce-restructuring-highlights-143226504.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/biontech-tumbles-8-colorectal-cancer-145826079.html"
   }
  ],
  "inst": {
