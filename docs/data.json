@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 23:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 23:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 321.56,
-   "c": 2.22,
+   "p": 321.81,
+   "c": 2.3,
    "a50": 312.04,
    "a200": 282.61,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.95,
-   "r": 58.9
+   "a20": 309.97,
+   "r": 59.1
   },
   {
    "s": "NVDA",
-   "p": 222.99,
-   "c": -2.19,
-   "a50": 208.53,
+   "p": 222.17,
+   "c": -2.55,
+   "a50": 208.51,
    "a200": 195.85,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.32,
-   "r": 56.7
+   "a20": 218.28,
+   "r": 56.0
   },
   {
    "s": "TSLA",
-   "p": 350.6,
-   "c": -1.19,
-   "a50": 360.51,
-   "a200": 400.94,
+   "p": 348.42,
+   "c": -1.8,
+   "a50": 360.47,
+   "a200": 400.93,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 338.91,
-   "r": 51.8
+   "a20": 338.8,
+   "r": 50.7
   },
   {
    "s": "META",
-   "p": 582.28,
-   "c": 1.96,
-   "a50": 592.23,
-   "a200": 622.74,
+   "p": 577.34,
+   "c": 1.09,
+   "a50": 592.13,
+   "a200": 622.72,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.98,
-   "r": 51.0
+   "a20": 575.74,
+   "r": 49.3
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7749.98,
-   "c": 0.25,
-   "a50": 7564.55,
-   "a200": 7118.91,
+   "p": 7735.84,
+   "c": 0.06,
+   "a50": 7564.27,
+   "a200": 7118.84,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7714.49,
-   "r": 60.0
+   "a20": 7713.79,
+   "r": 58.9
   },
   {
    "s": "^VIX",
-   "p": 14.16,
-   "c": -2.41,
+   "p": 14.15,
+   "c": -2.48,
    "a50": 16.5,
    "a200": 18.4,
    "yh": 31.05,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.27,
-   "c": -1.59,
+   "p": 88.25,
+   "c": -1.62,
    "a50": 84.38,
    "a200": 83.07,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4615.3,
-   "c": 0.12,
-   "a50": 4211.52,
-   "a200": 4514.08,
+   "p": 4592.1,
+   "c": -0.38,
+   "a50": 4211.06,
+   "a200": 4513.97,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4418.55,
-   "r": 70.4
+   "a20": 4417.39,
+   "r": 68.0
   },
   {
    "s": "HG=F",
-   "p": 6.69,
-   "c": 1.53,
+   "p": 6.67,
+   "c": 1.26,
    "a50": 6.39,
    "a200": 5.95,
    "yh": 6.71,
    "yl": 4.46,
    "a20": 6.59,
-   "r": 60.0
+   "r": 59.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315856,
-   "c": 0.47,
+   "p": 0.03159558,
+   "c": 0.5,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608280330.aspx"
   },
   {
-   "t": "Fed Chairman Warsh says inflation is running too high, offers first assessment of economy",
+   "t": "Job Market Uncertainty Pushes Commercial Staffing Stocks Up 80% This Year",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/article/fed-chairman-warsh-says-inflation-is-running-too-high-offers-first-assessment-of-economy-140031752.html"
+   "u": "https://www.investors.com/news/job-market-staffing-services-ai-labor-hiring/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透第115083期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608280328.aspx"
   },
   {
-   "t": "When will mortgage rates go down? Or maybe they're poised to move higher.",
+   "t": "Stock Market Today: Dow Rises As Warsh Speech Wraps; Microsoft Breaks Out, Workday Jumps (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-or-maybe-theyre-poised-to-move-higher-190610094.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-warsh-jackson-hole-speech-marvell-affirm-paypal/?src=A00220&yptr=yahoo"
   },
   {
    "t": "日本公布砸3兆多元支撐日圓　創史上最大單月干預紀錄",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608280327.aspx"
   },
   {
-   "t": "Rate-hike expectations rise on Warsh speech at Jackson Hole",
+   "t": "Jackson Hole Fed summit live: Kevin Warsh's keynote speech comes at a pivotal moment for the Federal Reserve",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/rate-hike-expectations-rise-warsh-144023525.html"
+   "u": "https://finance.yahoo.com/economy/live/jackson-hole-fed-summit-live-kevin-warsh-keynote-speech-180442096.html"
   },
   {
    "t": "國泰世華銀：台廠資金需求旺　上半年企業放款年增21%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280321.aspx"
   },
   {
-   "t": "Ford (F) and General Motors (GM) Battle for Title of Most “American-Made” Automaker",
+   "t": "General Motors (GM) Faces Safety Probe Over Engine Failures in Nearly 1 Million Vehicles",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/ford-f-general-motors-gm-151429216.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-faces-safety-152648465.html"
   },
   {
    "t": "大樂透第115083期開獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608280317.aspx"
   },
   {
-   "t": "MARA and Riot Sink 6% While Bitcoin Holds Near $79,500; Strategy Slips 3%",
+   "t": "Sundar Pichai Raised Alphabet's 2026 Capex Forecast to as Much as $205 Billion, Sending the Stock Down 7%. Was That an Overreaction That Investors Should Buy Into?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/mara-riot-sink-6-while-152002594.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sundar-pichai-raised-alphabets-2026-153500431.html"
   }
  ],
  "inst": {
