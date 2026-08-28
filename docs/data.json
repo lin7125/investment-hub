@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-29 00:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-29 02:54（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 320.95,
-   "c": 2.02,
-   "a50": 312.02,
-   "a200": 282.61,
+   "p": 319.36,
+   "c": 1.52,
+   "a50": 311.99,
+   "a200": 282.6,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.92,
-   "r": 58.4
+   "a20": 309.84,
+   "r": 57.1
   },
   {
    "s": "NVDA",
-   "p": 220.76,
-   "c": -3.17,
-   "a50": 208.48,
-   "a200": 195.84,
+   "p": 217.18,
+   "c": -4.74,
+   "a50": 208.41,
+   "a200": 195.82,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.21,
-   "r": 54.8
+   "a20": 218.03,
+   "r": 52.1
   },
   {
    "s": "TSLA",
-   "p": 347.77,
-   "c": -1.98,
-   "a50": 360.45,
-   "a200": 400.92,
+   "p": 345.41,
+   "c": -2.65,
+   "a50": 360.41,
+   "a200": 400.91,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 338.77,
-   "r": 50.4
+   "a20": 338.65,
+   "r": 49.4
   },
   {
    "s": "META",
-   "p": 575.4,
-   "c": 0.75,
-   "a50": 592.09,
-   "a200": 622.71,
+   "p": 574.59,
+   "c": 0.61,
+   "a50": 592.08,
+   "a200": 622.7,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.64,
-   "r": 48.6
+   "a20": 575.6,
+   "r": 48.3
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7722.13,
-   "c": -0.11,
-   "a50": 7564.0,
-   "a200": 7118.77,
+   "p": 7702.99,
+   "c": -0.36,
+   "a50": 7563.61,
+   "a200": 7118.68,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7713.1,
-   "r": 57.5
+   "a20": 7712.14,
+   "r": 55.4
   },
   {
    "s": "^VIX",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.25,
-   "c": -1.62,
+   "p": 87.94,
+   "c": -1.96,
    "a50": 84.38,
    "a200": 83.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.9,
-   "r": 49.6
+   "a20": 87.89,
+   "r": 49.0
   },
   {
    "s": "GC=F",
-   "p": 4524.2,
-   "c": -1.85,
-   "a50": 4209.7,
-   "a200": 4513.63,
+   "p": 4496.4,
+   "c": -2.46,
+   "a50": 4209.15,
+   "a200": 4513.49,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4413.99,
-   "r": 61.0
+   "a20": 4412.6,
+   "r": 58.5
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 0.99,
+   "p": 6.63,
+   "c": 0.72,
    "a50": 6.39,
    "a200": 5.95,
    "yh": 6.71,
    "yl": 4.46,
    "a20": 6.59,
-   "r": 58.3
+   "r": 57.4
   },
   {
    "s": "TWDUSD",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "看好再工業化前景　台灣五金工具業者擴建法國據點",
+   "t": "歐股收紅　連5個月走高",
    "pub": "中央社財經",
-   "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280332.aspx"
+   "d": "2026-08-29",
+   "u": "https://www.cna.com.tw/news/afe/202608290002.aspx"
   },
   {
    "t": "Bank of America doubles down on Nvidia stock",
@@ -344,16 +344,40 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html"
   },
   {
+   "t": "華許全球央行年會首秀  憂通膨未改善暗示可能升息",
+   "pub": "中央社財經",
+   "d": "2026-08-28",
+   "u": "https://www.cna.com.tw/news/aopl/202608280338.aspx"
+  },
+  {
+   "t": "Keysight’s (KEYS) Orders Just Topped $2B Again, But Can Supply Keep Up",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/technology/ai/articles/keysight-keys-orders-just-topped-084051126.html"
+  },
+  {
+   "t": "看好再工業化前景　台灣五金工具業者擴建法國據點",
+   "pub": "中央社財經",
+   "d": "2026-08-28",
+   "u": "https://www.cna.com.tw/news/afe/202608280332.aspx"
+  },
+  {
+   "t": "Nvidia tops Q2 expectations on revenue of $96.2 billion, offers strong Q3 outlook",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/article/nvidia-tops-q2-expectations-offers-strong-q3-outlook-revenue-96-billion-112502189.html"
+  },
+  {
    "t": "今彩539第115209期　頭獎1注中獎",
    "pub": "中央社財經",
    "d": "2026-08-28",
    "u": "https://www.cna.com.tw/news/ahel/202608280330.aspx"
   },
   {
-   "t": "Can passive PE investing enhance portfolio performance?",
+   "t": "Lowe’s (LOW) Leans On Pro And Online As DIY Cools",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/passive-pe-investing-enhance-portfolio-163816562.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lowe-low-leans-pro-online-083055124.html"
   },
   {
    "t": "大樂透第115083期　頭獎槓龜",
@@ -362,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608280328.aspx"
   },
   {
-   "t": "JPMorgan (JPM) Hiring Bank of America (BAC)’s David Fishman to Lead Tech M&A",
+   "t": "Alberta Premier Rejects Using Oil as a Weapon Against Trump",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/jpmorgan-jpm-hiring-bank-america-163650800.html"
+   "u": "https://finance.yahoo.com/energy/articles/alberta-premier-rejects-using-oil-083000589.html"
   },
   {
    "t": "日本公布砸3兆多元支撐日圓　創史上最大單月干預紀錄",
@@ -374,34 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608280327.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq moderate as markets digest Warsh's Jackson Hole speech",
+   "t": "TJX (TJX) Beats Expectations Even As Its Biggest Division Stumbles",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html"
-  },
-  {
-   "t": "國泰世華銀：台廠資金需求旺　上半年企業放款年增21%",
-   "pub": "中央社財經",
-   "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280321.aspx"
-  },
-  {
-   "t": "Walmart (WMT) to Add Apple (AAPL)’s Apple Pay Support in Push for Contactless Payments",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/walmart-wmt-add-apple-aapl-162629965.html"
-  },
-  {
-   "t": "大樂透第115083期開獎",
-   "pub": "中央社財經",
-   "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/ahel/202608280317.aspx"
-  },
-  {
-   "t": "Stock Market Today: Dow Waffles As Warsh Speech Wraps; Microsoft Breaks Out, Amazon Jumps (Live Coverage)",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-warsh-jackson-hole-speech-marvell-affirm-paypal/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tjx-tjx-beats-expectations-even-085809205.html"
   }
  ],
  "inst": {
