@@ -1,104 +1,104 @@
 {
- "generatedAt": "2026-08-28 13:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 13:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2415.0,
-   "c": 0.21,
-   "a50": 2393.9,
-   "a200": 1990.02,
+   "p": 2420.0,
+   "c": 0.41,
+   "a50": 2394.0,
+   "a200": 1990.05,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2389.0,
-   "r": 53.7
+   "a20": 2389.25,
+   "r": 54.2
   },
   {
    "s": "2317.TW",
-   "p": 252.5,
-   "c": 0.2,
-   "a50": 248.55,
+   "p": 251.5,
+   "c": -0.2,
+   "a50": 248.53,
    "a200": 235.62,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 254.18,
-   "r": 51.7
+   "a20": 254.12,
+   "r": 50.8
   },
   {
    "s": "2308.TW",
-   "p": 1825.0,
-   "c": 3.11,
-   "a50": 1818.4,
-   "a200": 1559.43,
+   "p": 1830.0,
+   "c": 3.39,
+   "a50": 1818.5,
+   "a200": 1559.46,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1755.75,
-   "r": 54.0
+   "a20": 1756.0,
+   "r": 54.3
   },
   {
    "s": "2454.TW",
-   "p": 3940.0,
-   "c": 1.94,
-   "a50": 3895.3,
-   "a200": 2574.72,
+   "p": 3990.0,
+   "c": 3.23,
+   "a50": 3896.3,
+   "a200": 2574.98,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3927.25,
-   "r": 52.6
+   "a20": 3929.75,
+   "r": 54.1
   },
   {
    "s": "2327.TW",
-   "p": 596.0,
-   "c": 7.39,
-   "a50": 733.97,
-   "a200": 445.44,
+   "p": 599.0,
+   "c": 7.93,
+   "a50": 734.03,
+   "a200": 445.45,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 577.05,
-   "r": 48.3
+   "a20": 577.2,
+   "r": 48.7
   },
   {
    "s": "1802.TW",
-   "p": 61.3,
-   "c": 3.55,
-   "a50": 59.39,
+   "p": 60.9,
+   "c": 2.87,
+   "a50": 59.38,
    "a200": 53.78,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 56.36,
-   "r": 60.2
+   "a20": 56.34,
+   "r": 59.5
   },
   {
    "s": "6862.TW",
-   "p": 144.0,
-   "c": 2.49,
-   "a50": 158.77,
+   "p": 143.5,
+   "c": 2.14,
+   "a50": 158.76,
    "a200": 174.57,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 141.55,
-   "r": 49.0
+   "a20": 141.52,
+   "r": 48.4
   },
   {
    "s": "3701.TW",
-   "p": 41.2,
-   "c": -1.67,
+   "p": 41.05,
+   "c": -2.03,
    "a50": 41.36,
    "a200": 49.03,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.75,
-   "r": 51.2
+   "r": 50.6
   },
   {
    "s": "4722.TW",
-   "p": 212.5,
-   "c": -0.23,
-   "a50": 231.59,
+   "p": 213.0,
+   "c": 0.0,
+   "a50": 231.6,
    "a200": 200.3,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 210.2,
-   "r": 49.7
+   "a20": 210.22,
+   "r": 50.0
   },
   {
    "s": "6706.TW",
@@ -113,14 +113,14 @@
   },
   {
    "s": "2305.TW",
-   "p": 28.9,
-   "c": -1.87,
+   "p": 28.75,
+   "c": -2.38,
    "a50": 32.48,
    "a200": 19.39,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.53,
-   "r": 49.0
+   "a20": 28.52,
+   "r": 48.6
   },
   {
    "s": "6442.TW",
@@ -135,25 +135,25 @@
   },
   {
    "s": "6515.TW",
-   "p": 6250.0,
-   "c": 2.38,
-   "a50": 7120.2,
-   "a200": 6182.5,
+   "p": 6200.0,
+   "c": 1.56,
+   "a50": 7119.2,
+   "a200": 6182.25,
    "yh": 10795.0,
    "yl": 1250.0,
-   "a20": 6525.75,
-   "r": 43.8
+   "a20": 6523.25,
+   "r": 42.8
   },
   {
    "s": "6446.TW",
-   "p": 1595.0,
-   "c": 2.24,
-   "a50": 1269.14,
-   "a200": 756.95,
-   "yh": 1595.0,
+   "p": 1585.0,
+   "c": 1.6,
+   "a50": 1268.94,
+   "a200": 756.9,
+   "yh": 1585.0,
    "yl": 401.71,
-   "a20": 1405.5,
-   "r": 68.6
+   "a20": 1405.0,
+   "r": 68.1
   },
   {
    "s": "3324.TWO",
@@ -168,36 +168,36 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1490.0,
-   "c": 4.56,
-   "a50": 1263.14,
-   "a200": 1234.56,
+   "p": 1495.0,
+   "c": 4.91,
+   "a50": 1263.24,
+   "a200": 1234.58,
    "yh": 2200.0,
    "yl": 387.0,
-   "a20": 1292.25,
-   "r": 63.6
+   "a20": 1292.5,
+   "r": 63.9
   },
   {
    "s": "3585.TWO",
-   "p": 50.1,
-   "c": 1.01,
-   "a50": 56.61,
+   "p": 50.3,
+   "c": 1.41,
+   "a50": 56.62,
    "a200": 43.28,
    "yh": 165.0,
    "yl": 10.6,
-   "a20": 49.63,
-   "r": 47.4
+   "a20": 49.64,
+   "r": 47.8
   },
   {
    "s": "6223.TWO",
-   "p": 5025.0,
-   "c": -1.28,
-   "a50": 6066.1,
-   "a200": 4190.92,
+   "p": 5040.0,
+   "c": -0.98,
+   "a50": 6066.4,
+   "a200": 4191.0,
    "yh": 7380.0,
    "yl": 1285.0,
-   "a20": 5809.25,
-   "r": 38.8
+   "a20": 5810.0,
+   "r": 39.0
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46279.83,
-   "c": 0.66,
-   "a50": 44936.13,
-   "a200": 36783.03,
+   "p": 46343.19,
+   "c": 0.8,
+   "a50": 44937.39,
+   "a200": 36783.35,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 45072.21,
-   "r": 60.1
+   "a20": 45075.37,
+   "r": 60.4
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.39,
-   "c": -1.46,
+   "p": 88.37,
+   "c": -1.48,
    "a50": 84.39,
    "a200": 83.08,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4630.9,
-   "c": 0.46,
-   "a50": 4211.84,
-   "a200": 4514.16,
+   "p": 4634.2,
+   "c": 0.53,
+   "a50": 4211.9,
+   "a200": 4514.18,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4419.33,
-   "r": 71.1
+   "a20": 4419.49,
+   "r": 71.3
   },
   {
    "s": "HG=F",
-   "p": 6.69,
-   "c": 1.54,
+   "p": 6.7,
+   "c": 1.69,
    "a50": 6.39,
    "a200": 5.95,
    "yh": 6.71,
    "yl": 4.46,
    "a20": 6.59,
-   "r": 60.1
+   "r": 60.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03164557,
-   "c": 0.63,
+   "p": 0.03163556,
+   "c": 0.62,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280097.aspx"
   },
   {
-   "t": "Cathie Wood bets on 'disrupter' stock with bullish analyst call",
+   "t": "Bank of America doubles down on Nvidia stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/cathie-wood-bets-disrupter-stock-171503487.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html"
   },
   {
    "t": "新台幣午盤強升1.01角　暫收31.607元",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280096.aspx"
   },
   {
-   "t": "Cotton Showing Modest Strength on Wednesday Morning",
+   "t": "NVIDIA Corporation (NVDA) & Blackstone (BX): Nvidia Wants Wall Street to Lend Against AI Chips Like They’re Mortgages",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/cotton-showing-modest-strength-wednesday-172657428.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-blackstone-bx-174958402.html"
   },
   {
    "t": "Anthropic傳放棄70億美元收購MatX　轉而洽談合作",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608280092.aspx"
   },
   {
-   "t": "Soybeans Joining in on the Grain Rally",
+   "t": "Comcast Corporation (CMCSA) vs Charter Communications (CHTR): Two Cable Giants, Two Opposite Bets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-joining-grain-rally-172657539.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/comcast-corporation-cmcsa-vs-charter-174353158.html"
   },
   {
    "t": "趙姬、寄居蟹濫發公司債爭議　經部發解釋令防堵規避行為",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280091.aspx"
   },
   {
-   "t": "HP, Inc. Results Today - Huge, Unusual Options Activity in Long-Dated HPQ Puts",
+   "t": "This ETF Could Be the Trade of the Year If Long-Term Rates Drop",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/hp-inc-results-today-huge-173002550.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/etf-could-trade-long-term-175722784.html"
   },
   {
    "t": "Marvell調升財測　受Google合約疑慮影響股價跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280074.aspx"
   },
   {
-   "t": "Medpace Stock Hovers Near Entry, Offers Second Chance After July Spike",
+   "t": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/medpace-stock-medp-drug-pharma-near-entry-offers-second-chance-july-spike/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-eyes-perplexity-ai-earnings-175225895.html"
   },
   {
    "t": "新青安3年撥貸近1.4兆元　房仲估青安3.0難現爆量熱潮",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280070.aspx"
   },
   {
-   "t": "Bank of America doubles down on Nvidia stock",
+   "t": "Insight Enterprises Executive Sells 4,000 Shares for $619,320",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/insight-enterprises-executive-sells-4-174501613.html"
   }
  ],
  "inst": {
