@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 12:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 13:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,25 +14,25 @@
   },
   {
    "s": "2317.TW",
-   "p": 252.5,
-   "c": 0.2,
-   "a50": 248.55,
+   "p": 252.0,
+   "c": 0.0,
+   "a50": 248.54,
    "a200": 235.62,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 254.18,
-   "r": 51.7
+   "a20": 254.15,
+   "r": 51.3
   },
   {
    "s": "2308.TW",
-   "p": 1840.0,
-   "c": 3.95,
-   "a50": 1818.7,
-   "a200": 1559.5,
+   "p": 1830.0,
+   "c": 3.39,
+   "a50": 1818.5,
+   "a200": 1559.46,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1756.5,
-   "r": 55.1
+   "a20": 1756.0,
+   "r": 54.3
   },
   {
    "s": "2454.TW",
@@ -47,47 +47,47 @@
   },
   {
    "s": "2327.TW",
-   "p": 600.0,
-   "c": 8.11,
-   "a50": 734.05,
-   "a200": 445.46,
+   "p": 599.0,
+   "c": 7.93,
+   "a50": 734.03,
+   "a200": 445.45,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 577.25,
-   "r": 48.9
+   "a20": 577.2,
+   "r": 48.7
   },
   {
    "s": "1802.TW",
-   "p": 62.0,
-   "c": 4.73,
-   "a50": 59.4,
-   "a200": 53.79,
+   "p": 61.4,
+   "c": 3.72,
+   "a50": 59.39,
+   "a200": 53.78,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 56.4,
-   "r": 61.5
+   "a20": 56.37,
+   "r": 60.4
   },
   {
    "s": "6862.TW",
-   "p": 144.5,
-   "c": 2.85,
-   "a50": 158.78,
+   "p": 144.0,
+   "c": 2.49,
+   "a50": 158.77,
    "a200": 174.57,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 141.57,
-   "r": 49.6
+   "a20": 141.55,
+   "r": 49.0
   },
   {
    "s": "3701.TW",
-   "p": 41.1,
-   "c": -1.91,
+   "p": 41.2,
+   "c": -1.67,
    "a50": 41.36,
    "a200": 49.03,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.75,
-   "r": 50.8
+   "r": 51.2
   },
   {
    "s": "4722.TW",
@@ -113,47 +113,47 @@
   },
   {
    "s": "2305.TW",
-   "p": 29.1,
-   "c": -1.19,
+   "p": 28.95,
+   "c": -1.7,
    "a50": 32.48,
    "a200": 19.39,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.54,
-   "r": 49.5
+   "a20": 28.53,
+   "r": 49.1
   },
   {
    "s": "6442.TW",
-   "p": 1605.0,
-   "c": 0.63,
-   "a50": 1489.6,
-   "a200": 1621.98,
+   "p": 1610.0,
+   "c": 0.94,
+   "a50": 1489.7,
+   "a200": 1622.0,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1502.0,
-   "r": 56.8
+   "a20": 1502.25,
+   "r": 57.1
   },
   {
    "s": "6515.TW",
-   "p": 6300.0,
-   "c": 3.19,
-   "a50": 7121.2,
-   "a200": 6182.75,
+   "p": 6235.0,
+   "c": 2.13,
+   "a50": 7119.9,
+   "a200": 6182.42,
    "yh": 10795.0,
    "yl": 1250.0,
-   "a20": 6528.25,
-   "r": 44.8
+   "a20": 6525.0,
+   "r": 43.5
   },
   {
    "s": "6446.TW",
-   "p": 1595.0,
-   "c": 2.24,
-   "a50": 1269.14,
-   "a200": 756.95,
-   "yh": 1595.0,
+   "p": 1600.0,
+   "c": 2.56,
+   "a50": 1269.24,
+   "a200": 756.98,
+   "yh": 1600.0,
    "yl": 401.71,
-   "a20": 1405.5,
-   "r": 68.6
+   "a20": 1405.75,
+   "r": 68.8
   },
   {
    "s": "3324.TWO",
@@ -179,36 +179,36 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.2,
-   "c": 1.21,
+   "p": 50.1,
+   "c": 1.01,
    "a50": 56.61,
    "a200": 43.28,
    "yh": 165.0,
    "yl": 10.6,
-   "a20": 49.64,
-   "r": 47.6
+   "a20": 49.63,
+   "r": 47.4
   },
   {
    "s": "6223.TWO",
-   "p": 5035.0,
-   "c": -1.08,
-   "a50": 6066.3,
-   "a200": 4190.98,
+   "p": 5020.0,
+   "c": -1.38,
+   "a50": 6066.0,
+   "a200": 4190.9,
    "yh": 7380.0,
    "yl": 1285.0,
-   "a20": 5809.75,
-   "r": 38.9
+   "a20": 5809.0,
+   "r": 38.7
   },
   {
    "s": "6750.TWO",
-   "p": 53.9,
-   "c": 0.75,
-   "a50": 58.93,
+   "p": 54.0,
+   "c": 0.93,
+   "a50": 58.94,
    "a200": 57.24,
    "yh": 74.3,
    "yl": 37.6,
    "a20": 55.39,
-   "r": 41.9
+   "r": 42.3
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46361.29,
-   "c": 0.84,
-   "a50": 44937.75,
-   "a200": 36783.44,
+   "p": 46312.95,
+   "c": 0.73,
+   "a50": 44936.79,
+   "a200": 36783.2,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 45076.28,
-   "r": 60.5
+   "a20": 45073.86,
+   "r": 60.2
   },
   {
    "s": "^GSPC",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4633.3,
-   "c": 0.51,
-   "a50": 4211.88,
-   "a200": 4514.17,
+   "p": 4636.4,
+   "c": 0.58,
+   "a50": 4211.95,
+   "a200": 4514.19,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4419.45,
-   "r": 71.2
+   "a20": 4419.6,
+   "r": 71.4
   },
   {
    "s": "HG=F",
    "p": 6.69,
-   "c": 1.59,
+   "c": 1.62,
    "a50": 6.39,
    "a200": 5.95,
    "yh": 6.71,
    "yl": 4.46,
    "a20": 6.59,
-   "r": 60.2
+   "r": 60.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03163556,
-   "c": 0.63,
+   "p": 0.03164557,
+   "c": 0.64,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280096.aspx"
   },
   {
-   "t": "Ferrari (RACE) vs. Tesla (TSLA): Ferrari’s $40M EV Record Shows How Luxury Scarcity Beats Tesla’s Mass-Market Volume",
+   "t": "Cotton Showing Modest Strength on Wednesday Morning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ferrari-race-vs-tesla-tsla-170001732.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/cotton-showing-modest-strength-wednesday-172657428.html"
   },
   {
    "t": "Anthropic傳放棄70億美元收購MatX　轉而洽談合作",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608280092.aspx"
   },
   {
-   "t": "Advanced Micro Devices (AMD) and Intel (INTC) Both Just Raised Billions for AI. Here’s How Their Strategies Differ",
+   "t": "Soybeans Joining in on the Grain Rally",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-intel-170203392.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-joining-grain-rally-172657539.html"
   },
   {
    "t": "趙姬、寄居蟹濫發公司債爭議　經部發解釋令防堵規避行為",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280091.aspx"
   },
   {
-   "t": "JPMorgan Chase & Co. (JPM) Could Soon Be Worth $1 Trillion. One Analyst Says $2 Trillion Is Next",
+   "t": "HP, Inc. Results Today - Huge, Unusual Options Activity in Long-Dated HPQ Puts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-could-165404139.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/hp-inc-results-today-huge-173002550.html"
   },
   {
    "t": "Marvell調升財測　受Google合約疑慮影響股價跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280074.aspx"
   },
   {
-   "t": "Williams-Sonoma, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Medpace Stock Hovers Near Entry, Offers Second Chance After July Spike",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/williams-sonoma-inc-q2-2026-170610121.html"
+   "u": "https://www.investors.com/research/medpace-stock-medp-drug-pharma-near-entry-offers-second-chance-july-spike/?src=A00220&yptr=yahoo"
   },
   {
    "t": "新青安3年撥貸近1.4兆元　房仲估青安3.0難現爆量熱潮",
