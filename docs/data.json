@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 08:22（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 08:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.5,
-   "c": 0.75,
-   "a50": 84.19,
+   "p": 88.44,
+   "c": 0.68,
+   "a50": 84.18,
    "a200": 82.95,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.94,
-   "r": 50.2
+   "a20": 87.93,
+   "r": 50.0
   },
   {
    "s": "GC=F",
-   "p": 4654.3,
-   "c": 1.22,
-   "a50": 4207.29,
-   "a200": 4511.79,
+   "p": 4646.7,
+   "c": 1.05,
+   "a50": 4207.14,
+   "a200": 4511.75,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4392.47,
-   "r": 72.1
+   "a20": 4392.09,
+   "r": 71.8
   },
   {
    "s": "HG=F",
-   "p": 6.69,
-   "c": 1.38,
-   "a50": 6.39,
+   "p": 6.68,
+   "c": 1.27,
+   "a50": 6.38,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 59.7
+   "r": 59.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315856,
-   "c": 0.45,
+   "p": 0.03157562,
+   "c": 0.44,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280003.aspx"
   },
   {
-   "t": "What Are Wall Street Analysts' Target Price for Packaging Corporation of America Stock?",
+   "t": "Semtech Corporation Q2 2027 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-122311696.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/semtech-corporation-q2-2027-earnings-123000425.html"
   },
   {
    "t": "輝達公布營收成長強勁　早盤股價大漲逾7%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608270352.aspx"
   },
   {
-   "t": "Semtech Corporation Q2 2027 Earnings Call Summary",
+   "t": "India’s Russian Oil Imports Slide From Record High as Supply Tightens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/semtech-corporation-q2-2027-earnings-123000425.html"
+   "u": "https://finance.yahoo.com/energy/articles/india-russian-oil-imports-slide-123000849.html"
   },
   {
    "t": "國泰專案金檢已完成　金管會：短期內公布裁罰結果",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608270346.aspx"
   },
   {
-   "t": "Vanguard Buys Wealth Management Platform Altruist in $4 Billion Deal",
+   "t": "Movado Group shares rise 3% after second-quarter earnings and revenue beat forecasts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/business/deals/vanguard-buys-wealth-management-platform-altruist-in-4-billion-deal-68e7260c?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/movado-group-shares-rise-3-122619229.html"
   }
  ],
  "inst": {
