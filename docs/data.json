@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-29 02:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-29 07:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 319.36,
-   "c": 1.52,
-   "a50": 311.99,
+   "p": 319.7,
+   "c": 1.63,
+   "a50": 312.0,
    "a200": 282.6,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.84,
-   "r": 57.1
+   "a20": 309.86,
+   "r": 57.4
   },
   {
    "s": "NVDA",
-   "p": 217.18,
-   "c": -4.74,
-   "a50": 208.41,
-   "a200": 195.82,
+   "p": 217.55,
+   "c": -4.57,
+   "a50": 208.42,
+   "a200": 195.83,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.03,
-   "r": 52.1
+   "a20": 218.05,
+   "r": 52.3
   },
   {
    "s": "TSLA",
-   "p": 345.41,
-   "c": -2.65,
-   "a50": 360.41,
-   "a200": 400.91,
+   "p": 348.75,
+   "c": -1.71,
+   "a50": 360.47,
+   "a200": 400.93,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 338.65,
-   "r": 49.4
+   "a20": 338.82,
+   "r": 50.9
   },
   {
    "s": "META",
-   "p": 574.59,
-   "c": 0.61,
-   "a50": 592.08,
-   "a200": 622.7,
+   "p": 578.02,
+   "c": 1.21,
+   "a50": 592.14,
+   "a200": 622.72,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.6,
-   "r": 48.3
+   "a20": 575.77,
+   "r": 49.6
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7702.99,
-   "c": -0.36,
-   "a50": 7563.61,
-   "a200": 7118.68,
+   "p": 7711.76,
+   "c": -0.25,
+   "a50": 7563.79,
+   "a200": 7118.72,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7712.14,
-   "r": 55.4
+   "a20": 7712.58,
+   "r": 56.3
   },
   {
    "s": "^VIX",
-   "p": 14.53,
-   "c": 0.14,
+   "p": 14.43,
+   "c": -0.55,
    "a50": 16.51,
    "a200": 18.4,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.25,
-   "r": 43.4
+   "r": 43.0
   },
   {
    "s": "BZ=F",
-   "p": 87.94,
-   "c": -1.96,
+   "p": 88.29,
+   "c": -1.57,
    "a50": 84.38,
    "a200": 83.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.89,
-   "r": 49.0
+   "a20": 87.9,
+   "r": 49.6
   },
   {
    "s": "GC=F",
-   "p": 4496.4,
-   "c": -2.46,
-   "a50": 4209.15,
-   "a200": 4513.49,
+   "p": 4504.1,
+   "c": -2.29,
+   "a50": 4209.3,
+   "a200": 4513.53,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4412.6,
-   "r": 58.5
+   "a20": 4412.99,
+   "r": 59.1
   },
   {
    "s": "HG=F",
-   "p": 6.63,
-   "c": 0.72,
+   "p": 6.64,
+   "c": 0.8,
    "a50": 6.39,
    "a200": 5.95,
    "yh": 6.71,
    "yl": 4.46,
    "a20": 6.59,
-   "r": 57.4
+   "r": 57.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315856,
-   "c": 0.46,
+   "p": 0.03161555,
+   "c": 0.56,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "歐股收紅　連5個月走高",
+   "t": "聯準會主席鷹派談話引發升息預期　美股收黑",
    "pub": "中央社財經",
    "d": "2026-08-29",
-   "u": "https://www.cna.com.tw/news/afe/202608290002.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608290006.aspx"
   },
   {
    "t": "Bank of America doubles down on Nvidia stock",
@@ -344,16 +344,52 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html"
   },
   {
+   "t": "華許全球央行年會演說　憂通膨高、偏好更安靜的聯準會",
+   "pub": "中央社財經",
+   "d": "2026-08-29",
+   "u": "https://www.cna.com.tw/news/aopl/202608290004.aspx"
+  },
+  {
+   "t": "Charles Schwab Adds Solana, Avalanche, Chainlink to Crypto Platform",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/charles-schwab-adds-solana-avalanche-154400480.html"
+  },
+  {
+   "t": "通膨憂慮升溫　密西根大學：美8月消費者信心下滑6%",
+   "pub": "中央社財經",
+   "d": "2026-08-29",
+   "u": "https://www.cna.com.tw/news/aopl/202608290003.aspx"
+  },
+  {
+   "t": "NeoGenomics Stock Just Turned Its First Profit, Creating an Optimal Entry Point",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/neogenomics-stock-just-turned-first-154502935.html"
+  },
+  {
+   "t": "歐股收紅　連5個月走高",
+   "pub": "中央社財經",
+   "d": "2026-08-29",
+   "u": "https://www.cna.com.tw/news/afe/202608290002.aspx"
+  },
+  {
+   "t": "Coinbase’s Billionaire CEO Says California’s Proposed Wealth Tax Is ‘The Kind Of Thing That Third World Countries Do’ and He May Leave Before New Year’s",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/coinbase-billionaire-ceo-says-california-154548013.html"
+  },
+  {
    "t": "華許全球央行年會首秀  憂通膨未改善暗示可能升息",
    "pub": "中央社財經",
    "d": "2026-08-28",
    "u": "https://www.cna.com.tw/news/aopl/202608280338.aspx"
   },
   {
-   "t": "Keysight’s (KEYS) Orders Just Topped $2B Again, But Can Supply Keep Up",
+   "t": "XRP Price Holds $1.35 Support as ETF Inflows Target $1.80",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/keysight-keys-orders-just-topped-084051126.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-holds-1-35-154611493.html"
   },
   {
    "t": "看好再工業化前景　台灣五金工具業者擴建法國據點",
@@ -362,46 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280332.aspx"
   },
   {
-   "t": "Nvidia tops Q2 expectations on revenue of $96.2 billion, offers strong Q3 outlook",
+   "t": "183-year-old giant tool company closes factory, lays off dozens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/nvidia-tops-q2-expectations-offers-strong-q3-outlook-revenue-96-billion-112502189.html"
-  },
-  {
-   "t": "今彩539第115209期　頭獎1注中獎",
-   "pub": "中央社財經",
-   "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/ahel/202608280330.aspx"
-  },
-  {
-   "t": "Lowe’s (LOW) Leans On Pro And Online As DIY Cools",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lowe-low-leans-pro-online-083055124.html"
-  },
-  {
-   "t": "大樂透第115083期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/ahel/202608280328.aspx"
-  },
-  {
-   "t": "Alberta Premier Rejects Using Oil as a Weapon Against Trump",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/alberta-premier-rejects-using-oil-083000589.html"
-  },
-  {
-   "t": "日本公布砸3兆多元支撐日圓　創史上最大單月干預紀錄",
-   "pub": "中央社財經",
-   "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/aopl/202608280327.aspx"
-  },
-  {
-   "t": "TJX (TJX) Beats Expectations Even As Its Biggest Division Stumbles",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tjx-tjx-beats-expectations-even-085809205.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/183-old-giant-tool-company-160300042.html"
   }
  ],
  "inst": {
