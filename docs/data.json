@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-08-28 12:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 12:59（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2420.0,
-   "c": 0.41,
-   "a50": 2394.0,
-   "a200": 1990.05,
+   "p": 2415.0,
+   "c": 0.21,
+   "a50": 2393.9,
+   "a200": 1990.02,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2389.25,
-   "r": 54.2
+   "a20": 2389.0,
+   "r": 53.7
   },
   {
    "s": "2317.TW",
-   "p": 253.0,
-   "c": 0.4,
-   "a50": 248.56,
+   "p": 252.5,
+   "c": 0.2,
+   "a50": 248.55,
    "a200": 235.62,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 254.2,
-   "r": 52.1
+   "a20": 254.18,
+   "r": 51.7
   },
   {
    "s": "2308.TW",
@@ -36,47 +36,47 @@
   },
   {
    "s": "2454.TW",
-   "p": 3940.0,
-   "c": 1.94,
-   "a50": 3895.3,
-   "a200": 2574.72,
+   "p": 3935.0,
+   "c": 1.81,
+   "a50": 3895.2,
+   "a200": 2574.7,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3927.25,
-   "r": 52.6
+   "a20": 3927.0,
+   "r": 52.4
   },
   {
    "s": "2327.TW",
-   "p": 602.0,
-   "c": 8.47,
-   "a50": 734.09,
-   "a200": 445.47,
+   "p": 600.0,
+   "c": 8.11,
+   "a50": 734.05,
+   "a200": 445.46,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 577.35,
-   "r": 49.1
+   "a20": 577.25,
+   "r": 48.9
   },
   {
    "s": "1802.TW",
-   "p": 61.5,
-   "c": 3.89,
+   "p": 62.0,
+   "c": 4.73,
    "a50": 59.4,
-   "a200": 53.78,
+   "a200": 53.79,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 56.37,
-   "r": 60.6
+   "a20": 56.4,
+   "r": 61.5
   },
   {
    "s": "6862.TW",
-   "p": 145.0,
-   "c": 3.2,
-   "a50": 158.79,
-   "a200": 174.58,
+   "p": 144.5,
+   "c": 2.85,
+   "a50": 158.78,
+   "a200": 174.57,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 141.6,
-   "r": 50.1
+   "a20": 141.57,
+   "r": 49.6
   },
   {
    "s": "3701.TW",
@@ -102,25 +102,25 @@
   },
   {
    "s": "6706.TW",
-   "p": 124.0,
-   "c": 0.0,
-   "a50": 124.77,
+   "p": 123.5,
+   "c": -0.4,
+   "a50": 124.76,
    "a200": 128.83,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 116.89,
-   "r": 54.5
+   "a20": 116.87,
+   "r": 54.0
   },
   {
    "s": "2305.TW",
-   "p": 29.0,
-   "c": -1.53,
+   "p": 29.1,
+   "c": -1.19,
    "a50": 32.48,
    "a200": 19.39,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.53,
-   "r": 49.2
+   "a20": 28.54,
+   "r": 49.5
   },
   {
    "s": "6442.TW",
@@ -146,14 +146,14 @@
   },
   {
    "s": "6446.TW",
-   "p": 1600.0,
-   "c": 2.56,
-   "a50": 1269.24,
-   "a200": 756.98,
-   "yh": 1600.0,
+   "p": 1595.0,
+   "c": 2.24,
+   "a50": 1269.14,
+   "a200": 756.95,
+   "yh": 1595.0,
    "yl": 401.71,
-   "a20": 1405.75,
-   "r": 68.8
+   "a20": 1405.5,
+   "r": 68.6
   },
   {
    "s": "3324.TWO",
@@ -168,25 +168,25 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1465.0,
-   "c": 2.81,
-   "a50": 1262.64,
-   "a200": 1234.44,
+   "p": 1470.0,
+   "c": 3.16,
+   "a50": 1262.74,
+   "a200": 1234.46,
    "yh": 2200.0,
    "yl": 387.0,
-   "a20": 1291.0,
-   "r": 62.4
+   "a20": 1291.25,
+   "r": 62.7
   },
   {
    "s": "3585.TWO",
-   "p": 49.85,
-   "c": 0.5,
+   "p": 50.2,
+   "c": 1.21,
    "a50": 56.61,
    "a200": 43.28,
    "yh": 165.0,
    "yl": 10.6,
-   "a20": 49.62,
-   "r": 46.9
+   "a20": 49.64,
+   "r": 47.6
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46388.15,
-   "c": 0.9,
-   "a50": 44938.29,
-   "a200": 36783.58,
+   "p": 46361.29,
+   "c": 0.84,
+   "a50": 44937.75,
+   "a200": 36783.44,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 45077.62,
-   "r": 60.6
+   "a20": 45076.28,
+   "r": 60.5
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.26,
-   "c": -1.61,
-   "a50": 84.38,
-   "a200": 83.07,
+   "p": 88.35,
+   "c": -1.51,
+   "a50": 84.39,
+   "a200": 83.08,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.9,
-   "r": 49.6
+   "a20": 87.91,
+   "r": 49.7
   },
   {
    "s": "GC=F",
-   "p": 4630.4,
-   "c": 0.45,
-   "a50": 4211.83,
-   "a200": 4514.16,
+   "p": 4633.3,
+   "c": 0.51,
+   "a50": 4211.88,
+   "a200": 4514.17,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4419.3,
-   "r": 71.1
+   "a20": 4419.45,
+   "r": 71.2
   },
   {
    "s": "HG=F",
    "p": 6.69,
-   "c": 1.56,
+   "c": 1.59,
    "a50": 6.39,
    "a200": 5.95,
    "yh": 6.71,
    "yl": 4.46,
    "a20": 6.59,
-   "r": 60.1
+   "r": 60.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03164557,
-   "c": 0.65,
+   "p": 0.03163556,
+   "c": 0.63,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280096.aspx"
   },
   {
-   "t": "JPMorgan Chase & Co. (JPM) Could Soon Be Worth $1 Trillion. One Analyst Says $2 Trillion Is Next",
+   "t": "Ferrari (RACE) vs. Tesla (TSLA): Ferrari’s $40M EV Record Shows How Luxury Scarcity Beats Tesla’s Mass-Market Volume",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-could-165404139.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ferrari-race-vs-tesla-tsla-170001732.html"
   },
   {
    "t": "Anthropic傳放棄70億美元收購MatX　轉而洽談合作",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608280092.aspx"
   },
   {
-   "t": "Dimension Energy Secures $857 Million to Support Distributed Solar",
+   "t": "Advanced Micro Devices (AMD) and Intel (INTC) Both Just Raised Billions for AI. Here’s How Their Strategies Differ",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/dimension-energy-secures-857-million-165420571.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-intel-170203392.html"
   },
   {
    "t": "趙姬、寄居蟹濫發公司債爭議　經部發解釋令防堵規避行為",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280091.aspx"
   },
   {
-   "t": "Advanced Micro Devices (AMD) and Intel (INTC) Both Just Raised Billions for AI. Here’s How Their Strategies Differ",
+   "t": "JPMorgan Chase & Co. (JPM) Could Soon Be Worth $1 Trillion. One Analyst Says $2 Trillion Is Next",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-intel-170203392.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-could-165404139.html"
   },
   {
    "t": "Marvell調升財測　受Google合約疑慮影響股價跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280074.aspx"
   },
   {
-   "t": "Hyundai to build more cars in the US, betting big on new hybrids and trucks, CEO says",
+   "t": "Williams-Sonoma, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/hyundai-to-build-more-cars-in-the-us-betting-big-on-new-hybrids-and-trucks-ceo-says-142338721.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/williams-sonoma-inc-q2-2026-170610121.html"
   },
   {
    "t": "新青安3年撥貸近1.4兆元　房仲估青安3.0難現爆量熱潮",
