@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 08:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 09:03（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -184,7 +184,7 @@
    "a50": 56.98,
    "a200": 43.09,
    "yh": 165.0,
-   "yl": 10.4,
+   "yl": 10.6,
    "a20": 49.39,
    "r": 46.3
   },
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.44,
-   "c": 0.68,
+   "p": 88.36,
+   "c": 0.59,
    "a50": 84.18,
    "a200": 82.95,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.93,
-   "r": 50.0
+   "r": 49.9
   },
   {
    "s": "GC=F",
-   "p": 4644.2,
-   "c": 1.0,
-   "a50": 4207.09,
-   "a200": 4511.74,
+   "p": 4641.0,
+   "c": 0.93,
+   "a50": 4207.02,
+   "a200": 4511.72,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4391.96,
-   "r": 71.7
+   "a20": 4391.8,
+   "r": 71.5
   },
   {
    "s": "HG=F",
    "p": 6.68,
-   "c": 1.32,
+   "c": 1.27,
    "a50": 6.38,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 59.6
+   "r": 59.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03159558,
-   "c": 0.49,
+   "p": 0.03163556,
+   "c": 0.62,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280007.aspx"
   },
   {
-   "t": "Cybersecurity Stocks Are Priced For Big AI Growth. Why Earnings Could Bring Fireworks.",
+   "t": "3 Stocks to Buy Now to Invest Like President Trump",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/cybersecurity-stocks-earnings-artificial-intelligence-high-expectations/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-now-invest-130002652.html"
   },
   {
    "t": "歐股多收跌　投資人聚焦聯準會主席演說",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280003.aspx"
   },
   {
-   "t": "3 Stocks to Buy Now to Invest Like President Trump",
+   "t": "News Corporation Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-now-invest-130002652.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/news-corporation-stock-analyst-estimates-131745216.html"
   },
   {
    "t": "輝達公布營收成長強勁　早盤股價大漲逾7%",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/aopl/202608270352.aspx"
   },
   {
-   "t": "Does Vanguard or State Street Have the Better S&P 500 ETF?",
+   "t": "Should You Buy Lululemon Stock Before Sept. 3?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/does-vanguard-state-street-better-124719225.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/buy-lululemon-stock-sept-3-125700233.html"
   }
  ],
  "inst": {
-  "date": "2026-08-25",
+  "date": "2026-08-27",
   "byCode": {
-   "1802": {
-    "f": 2568,
-    "t": -357,
-    "all": 2055
-   },
-   "2305": {
-    "f": 440,
-    "t": 0,
-    "all": 452
-   },
-   "2454": {
-    "f": 415,
-    "t": -154,
-    "all": 358
-   },
-   "6442": {
-    "f": 203,
-    "t": -74,
-    "all": 187
-   },
-   "3701": {
-    "f": 99,
-    "t": 0,
-    "all": 101
-   },
-   "6706": {
-    "f": 11,
-    "t": 0,
-    "all": 85
-   },
-   "4722": {
-    "f": 91,
-    "t": 0,
-    "all": 80
-   },
-   "6515": {
-    "f": 67,
-    "t": -34,
-    "all": 33
-   },
-   "6862": {
-    "f": 8,
-    "t": 0,
-    "all": 4
+   "2317": {
+    "f": 18248,
+    "t": -121,
+    "all": 18605
    },
    "2330": {
-    "f": -1152,
-    "t": 658,
-    "all": -18
+    "f": 4500,
+    "t": -318,
+    "all": 4340
+   },
+   "3701": {
+    "f": 217,
+    "t": 0,
+    "all": 219
    },
    "6446": {
-    "f": -333,
-    "t": 30,
-    "all": -306
+    "f": 139,
+    "t": -4,
+    "all": 137
    },
-   "2327": {
-    "f": 1451,
-    "t": -2343,
-    "all": -1093
+   "4722": {
+    "f": 98,
+    "t": 0,
+    "all": 71
+   },
+   "6862": {
+    "f": 49,
+    "t": 0,
+    "all": 48
+   },
+   "6515": {
+    "f": 215,
+    "t": -188,
+    "all": 31
    },
    "2308": {
-    "f": -1876,
-    "t": -98,
-    "all": -1625
+    "f": 716,
+    "t": -838,
+    "all": -174
    },
-   "2317": {
-    "f": -15522,
-    "t": -404,
-    "all": -14764
+   "2305": {
+    "f": -152,
+    "t": -2,
+    "all": -179
+   },
+   "6706": {
+    "f": -206,
+    "t": 0,
+    "all": -194
+   },
+   "6442": {
+    "f": -152,
+    "t": -176,
+    "all": -321
+   },
+   "2454": {
+    "f": -247,
+    "t": -15,
+    "all": -344
+   },
+   "2327": {
+    "f": -840,
+    "t": -5323,
+    "all": -5033
+   },
+   "1802": {
+    "f": -5750,
+    "t": 2,
+    "all": -6439
    }
   },
-  "totalNetE": -47.1
+  "totalNetE": 626.8
  }
 }
