@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 22:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 23:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 319.01,
-   "c": 1.41,
-   "a50": 311.99,
-   "a200": 282.6,
+   "p": 321.05,
+   "c": 2.06,
+   "a50": 312.03,
+   "a200": 282.61,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.83,
-   "r": 56.8
+   "a20": 309.93,
+   "r": 58.5
   },
   {
    "s": "NVDA",
-   "p": 225.87,
-   "c": -0.93,
-   "a50": 208.59,
+   "p": 226.64,
+   "c": -0.59,
+   "a50": 208.6,
    "a200": 195.87,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.46,
-   "r": 59.3
+   "a20": 218.5,
+   "r": 60.0
   },
   {
    "s": "TSLA",
-   "p": 353.48,
-   "c": -0.38,
-   "a50": 360.57,
-   "a200": 400.95,
+   "p": 354.55,
+   "c": -0.07,
+   "a50": 360.59,
+   "a200": 400.96,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 339.06,
-   "r": 53.2
+   "a20": 339.11,
+   "r": 53.7
   },
   {
    "s": "META",
-   "p": 585.77,
-   "c": 2.57,
-   "a50": 592.3,
-   "a200": 622.76,
+   "p": 584.37,
+   "c": 2.32,
+   "a50": 592.27,
+   "a200": 622.75,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.16,
-   "r": 52.2
+   "a20": 576.09,
+   "r": 51.7
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7758.18,
-   "c": 0.35,
-   "a50": 7564.72,
-   "a200": 7118.95,
+   "p": 7769.72,
+   "c": 0.5,
+   "a50": 7564.95,
+   "a200": 7119.01,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7714.9,
-   "r": 60.6
+   "a20": 7715.48,
+   "r": 61.4
   },
   {
    "s": "^VIX",
-   "p": 14.25,
-   "c": -1.79,
+   "p": 14.22,
+   "c": -2.0,
    "a50": 16.5,
    "a200": 18.4,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.24,
-   "r": 42.2
+   "a20": 15.23,
+   "r": 42.1
   },
   {
    "s": "BZ=F",
-   "p": 87.93,
-   "c": -1.97,
+   "p": 88.1,
+   "c": -1.78,
    "a50": 84.38,
    "a200": 83.07,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.89,
-   "r": 49.0
+   "r": 49.3
   },
   {
    "s": "GC=F",
-   "p": 4618.3,
-   "c": 0.19,
-   "a50": 4211.58,
-   "a200": 4514.1,
+   "p": 4607.9,
+   "c": -0.04,
+   "a50": 4211.38,
+   "a200": 4514.05,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4418.7,
-   "r": 70.5
+   "a20": 4418.18,
+   "r": 69.8
   },
   {
    "s": "HG=F",
-   "p": 6.69,
-   "c": 1.63,
+   "p": 6.7,
+   "c": 1.74,
    "a50": 6.39,
    "a200": 5.95,
    "yh": 6.71,
    "yl": 4.46,
    "a20": 6.59,
-   "r": 60.3
+   "r": 60.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315856,
-   "c": 0.47,
+   "p": 0.03162555,
+   "c": 0.59,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "經部：去年資通產品躍居出口第一　對美出口占比首超中國",
+   "t": "看好再工業化前景　台灣五金工具業者擴建法國據點",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280304.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608280332.aspx"
   },
   {
    "t": "Bank of America doubles down on Nvidia stock",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html"
   },
   {
-   "t": "輝達財報推高股價　黃仁勳登世界第6大富豪超越祖克柏",
+   "t": "今彩539第115209期　頭獎1注中獎",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/aopl/202608280294.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608280330.aspx"
   },
   {
    "t": "Stock market today: Dow, S&P 500 climb, Nasdaq falls as the focus turns to Kevin Warsh's Jackson Hole speech",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-fed-warsh-jackson-hole-081514091.html"
   },
   {
-   "t": "中傑第2季本業營運回溫　每股盈餘0.3元",
+   "t": "大樂透第115083期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280293.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608280328.aspx"
   },
   {
    "t": "A Closer Look at Amphenol (APH): Pioneers in Connectors and Cables",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/closer-look-amphenol-aph-pioneers-143738452.html"
   },
   {
-   "t": "2037年中高齡勞動力估過半　產業界籲擴大海外人才留台",
+   "t": "日本公布砸3兆多元支撐日圓　創史上最大單月干預紀錄",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280286.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608280327.aspx"
   },
   {
    "t": "Broad-Based Strength Lifts GE Aerospace (GE) Performance",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/broad-based-strength-lifts-ge-143547221.html"
   },
   {
-   "t": "華碩AIoT事業群轉型更名　聚焦實體AI",
+   "t": "國泰世華銀：台廠資金需求旺　上半年企業放款年增21%",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280283.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608280321.aspx"
   },
   {
    "t": "What Makes ASML (ASML) The Best-Positioned Business Within The AI Cohort?",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/makes-asml-asml-best-positioned-143408648.html"
   },
   {
-   "t": "人口結構挑戰政府續推新對策　學者：AI導入須掌握產業用人變化",
+   "t": "大樂透第115083期開獎",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280278.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608280317.aspx"
   },
   {
    "t": "Intuit’s (INTU) Workforce Restructuring Highlights AI Platform Scalability",
