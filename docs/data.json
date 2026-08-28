@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-29 00:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-29 00:23（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 321.21,
-   "c": 2.11,
-   "a50": 312.03,
+   "p": 320.88,
+   "c": 2.0,
+   "a50": 312.02,
    "a200": 282.61,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.94,
-   "r": 58.6
+   "a20": 309.92,
+   "r": 58.3
   },
   {
    "s": "NVDA",
-   "p": 220.93,
-   "c": -3.09,
-   "a50": 208.49,
+   "p": 220.17,
+   "c": -3.43,
+   "a50": 208.47,
    "a200": 195.84,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.22,
-   "r": 54.9
+   "a20": 218.18,
+   "r": 54.3
   },
   {
    "s": "TSLA",
-   "p": 348.44,
-   "c": -1.8,
-   "a50": 360.47,
-   "a200": 400.93,
+   "p": 347.92,
+   "c": -1.94,
+   "a50": 360.46,
+   "a200": 400.92,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 338.8,
-   "r": 50.7
+   "a20": 338.78,
+   "r": 50.5
   },
   {
    "s": "META",
-   "p": 575.47,
-   "c": 0.77,
-   "a50": 592.09,
-   "a200": 622.71,
+   "p": 574.28,
+   "c": 0.56,
+   "a50": 592.07,
+   "a200": 622.7,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.64,
-   "r": 48.6
+   "a20": 575.58,
+   "r": 48.2
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7729.69,
-   "c": -0.02,
-   "a50": 7564.15,
-   "a200": 7118.81,
+   "p": 7714.64,
+   "c": -0.21,
+   "a50": 7563.85,
+   "a200": 7118.73,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7713.48,
-   "r": 58.3
+   "a20": 7712.73,
+   "r": 56.6
   },
   {
    "s": "^VIX",
-   "p": 14.58,
-   "c": 0.48,
+   "p": 14.48,
+   "c": -0.21,
    "a50": 16.51,
    "a200": 18.4,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.25,
-   "r": 43.7
+   "r": 43.2
   },
   {
    "s": "BZ=F",
-   "p": 87.93,
-   "c": -1.97,
+   "p": 88.06,
+   "c": -1.83,
    "a50": 84.38,
    "a200": 83.07,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.89,
-   "r": 49.0
+   "r": 49.2
   },
   {
    "s": "GC=F",
-   "p": 4574.6,
-   "c": -0.76,
-   "a50": 4210.71,
-   "a200": 4513.88,
+   "p": 4562.4,
+   "c": -1.03,
+   "a50": 4210.47,
+   "a200": 4513.82,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4416.51,
-   "r": 66.0
+   "a20": 4415.9,
+   "r": 64.7
   },
   {
    "s": "HG=F",
-   "p": 6.67,
-   "c": 1.24,
+   "p": 6.66,
+   "c": 1.07,
    "a50": 6.39,
    "a200": 5.95,
    "yh": 6.71,
    "yl": 4.46,
    "a20": 6.59,
-   "r": 59.1
+   "r": 58.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315856,
-   "c": 0.45,
+   "p": 0.03157562,
+   "c": 0.42,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608280330.aspx"
   },
   {
-   "t": "Dollar rises to session high after Warsh comments, set for weekly gain",
+   "t": "Jackson Hole Fed summit live: Kevin Warsh's keynote speech comes at a pivotal moment for the Federal Reserve",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/dollar-flat-near-one-week-023614874.html"
+   "u": "https://finance.yahoo.com/economy/live/jackson-hole-fed-summit-live-kevin-warsh-keynote-speech-180442096.html"
   },
   {
    "t": "大樂透第115083期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608280328.aspx"
   },
   {
-   "t": "Equities rise with 2-year yields, dollar as rate hike bets rise following Warsh speech",
+   "t": "Micron (MU) CEO: AI Shift Breaks Traditional Memory Market Cycles",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/shares-turn-cautious-ahead-warsh-015638766.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/micron-mu-ceo-ai-shift-161424175.html"
   },
   {
    "t": "日本公布砸3兆多元支撐日圓　創史上最大單月干預紀錄",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608280327.aspx"
   },
   {
-   "t": "Intuit (INTU) Slid on TurboTax Segment’s Underperformance",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq moderate as markets digest Warsh's Jackson Hole speech",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intuit-intu-slid-turbotax-segment-154227599.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-fed-warsh-jackson-hole-081514091.html"
   },
   {
    "t": "國泰世華銀：台廠資金需求旺　上半年企業放款年增21%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280321.aspx"
   },
   {
-   "t": "Jackson Hole Fed summit live: Kevin Warsh's keynote speech comes at a pivotal moment for the Federal Reserve",
+   "t": "Stock Market Rises On Nvidia, CrowdStrike, Salesforce, Warsh: Weekly Review",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/live/jackson-hole-fed-summit-live-kevin-warsh-keynote-speech-180442096.html"
+   "u": "https://www.investors.com/news/stock-market-nvidia-crowdstrike-salesforce-fed-chief-warsh/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透第115083期開獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608280317.aspx"
   },
   {
-   "t": "Analyzing CME Group’s (CME) Stock Performance Amidst Market Volatility",
+   "t": "Warsh Says Fed Has “Work to Do” If Prices Don’t Fall. They Won’t. Rate Hikes Are Coming",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/analyzing-cme-group-cme-stock-153934249.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/warsh-says-fed-prices-don-161502321.html"
   }
  ],
  "inst": {
