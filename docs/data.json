@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-08-28 12:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 12:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2425.0,
-   "c": 0.62,
-   "a50": 2394.1,
-   "a200": 1990.08,
+   "p": 2420.0,
+   "c": 0.41,
+   "a50": 2394.0,
+   "a200": 1990.05,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2389.5,
-   "r": 54.8
+   "a20": 2389.25,
+   "r": 54.2
   },
   {
    "s": "2317.TW",
-   "p": 254.0,
-   "c": 0.79,
-   "a50": 248.58,
-   "a200": 235.63,
+   "p": 253.5,
+   "c": 0.6,
+   "a50": 248.57,
+   "a200": 235.62,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 254.25,
-   "r": 53.0
+   "a20": 254.22,
+   "r": 52.6
   },
   {
    "s": "2308.TW",
@@ -47,47 +47,47 @@
   },
   {
    "s": "2327.TW",
-   "p": 600.0,
-   "c": 8.11,
-   "a50": 734.05,
-   "a200": 445.46,
+   "p": 598.0,
+   "c": 7.75,
+   "a50": 734.01,
+   "a200": 445.45,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 577.25,
-   "r": 48.9
+   "a20": 577.15,
+   "r": 48.6
   },
   {
    "s": "1802.TW",
-   "p": 62.2,
-   "c": 5.07,
-   "a50": 59.41,
-   "a200": 53.79,
+   "p": 61.6,
+   "c": 4.05,
+   "a50": 59.4,
+   "a200": 53.78,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 56.41,
-   "r": 61.9
+   "a20": 56.38,
+   "r": 60.8
   },
   {
    "s": "6862.TW",
-   "p": 145.5,
-   "c": 3.56,
-   "a50": 158.8,
+   "p": 145.0,
+   "c": 3.2,
+   "a50": 158.79,
    "a200": 174.58,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 141.62,
-   "r": 50.7
+   "a20": 141.6,
+   "r": 50.1
   },
   {
    "s": "3701.TW",
-   "p": 41.1,
-   "c": -1.91,
+   "p": 41.15,
+   "c": -1.79,
    "a50": 41.36,
    "a200": 49.03,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.75,
-   "r": 50.8
+   "r": 51.0
   },
   {
    "s": "4722.TW",
@@ -113,14 +113,14 @@
   },
   {
    "s": "2305.TW",
-   "p": 29.05,
-   "c": -1.36,
+   "p": 28.95,
+   "c": -1.7,
    "a50": 32.48,
    "a200": 19.39,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 28.53,
-   "r": 49.4
+   "r": 49.1
   },
   {
    "s": "6442.TW",
@@ -135,14 +135,14 @@
   },
   {
    "s": "6515.TW",
-   "p": 6350.0,
-   "c": 4.01,
-   "a50": 7122.2,
-   "a200": 6183.0,
+   "p": 6310.0,
+   "c": 3.36,
+   "a50": 7121.4,
+   "a200": 6182.8,
    "yh": 10795.0,
    "yl": 1250.0,
-   "a20": 6530.75,
-   "r": 45.8
+   "a20": 6528.75,
+   "r": 45.0
   },
   {
    "s": "6446.TW",
@@ -168,36 +168,36 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1480.0,
-   "c": 3.86,
-   "a50": 1262.94,
-   "a200": 1234.51,
+   "p": 1470.0,
+   "c": 3.16,
+   "a50": 1262.74,
+   "a200": 1234.46,
    "yh": 2200.0,
    "yl": 387.0,
-   "a20": 1291.75,
-   "r": 63.2
+   "a20": 1291.25,
+   "r": 62.7
   },
   {
    "s": "3585.TWO",
-   "p": 50.1,
-   "c": 1.01,
-   "a50": 56.61,
+   "p": 50.5,
+   "c": 1.81,
+   "a50": 56.62,
    "a200": 43.28,
    "yh": 165.0,
    "yl": 10.6,
-   "a20": 49.63,
-   "r": 47.4
+   "a20": 49.65,
+   "r": 48.3
   },
   {
    "s": "6223.TWO",
-   "p": 5010.0,
-   "c": -1.57,
-   "a50": 6065.8,
-   "a200": 4190.85,
+   "p": 5020.0,
+   "c": -1.38,
+   "a50": 6066.0,
+   "a200": 4190.9,
    "yh": 7380.0,
    "yl": 1285.0,
-   "a20": 5808.5,
-   "r": 38.6
+   "a20": 5809.0,
+   "r": 38.7
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46485.82,
-   "c": 1.11,
-   "a50": 44940.25,
-   "a200": 36784.06,
+   "p": 46419.08,
+   "c": 0.97,
+   "a50": 44938.91,
+   "a200": 36783.73,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 45082.5,
-   "r": 61.2
+   "a20": 45079.17,
+   "r": 60.8
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.2,
-   "c": -1.67,
+   "p": 88.19,
+   "c": -1.68,
    "a50": 84.38,
    "a200": 83.07,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4630.3,
-   "c": 0.45,
-   "a50": 4211.82,
-   "a200": 4514.16,
+   "p": 4634.2,
+   "c": 0.53,
+   "a50": 4211.9,
+   "a200": 4514.18,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4419.3,
-   "r": 71.1
+   "a20": 4419.49,
+   "r": 71.3
   },
   {
    "s": "HG=F",
-   "p": 6.69,
-   "c": 1.62,
+   "p": 6.7,
+   "c": 1.65,
    "a50": 6.39,
    "a200": 5.95,
    "yh": 6.71,
    "yl": 4.46,
    "a20": 6.59,
-   "r": 60.3
+   "r": 60.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03165559,
-   "c": 0.67,
+   "p": 0.03164557,
+   "c": 0.66,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280032.aspx"
   },
   {
-   "t": "Do Wall Street Analysts Like Keysight Technologies Stock?",
+   "t": "Ethereum Price Breakout Targets $2,800 as ETF Inflows Surge",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-keysight-technologies-161102316.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-breakout-targets-2-163439380.html"
   },
   {
    "t": "新台幣開盤升1.8分　為31.69元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280030.aspx"
   },
   {
-   "t": "Why Abercrombie & Fitch Stock Is Soaring Despite It Being The Year 2026",
+   "t": "Suze Orman says 41% of workers delay medical care when emergencies hit — and 1 in 4 raid retirement savings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/abercrombie-stock-anf-soars-smashed-q2-2027-estimates-tariff-refunds/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/suze-orman-says-41-workers-163000860.html"
   },
   {
    "t": "世界先進桃園晶圓三廠火警　產線運轉無重大影響",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280029.aspx"
   },
   {
-   "t": "Vivmark Residential Stock: Analyst Estimates & Ratings",
+   "t": "WLFI CEO Zach Witkoff Swears People Are Using USD1",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/vivmark-residential-stock-analyst-estimates-161725943.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/wlfi-ceo-zach-witkoff-swears-164244537.html"
   },
   {
    "t": "台股開盤漲95.61點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280028.aspx"
   },
   {
-   "t": "A. O. Smith Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Solana Price Hits $100 as SOL Faces 10% Pullback Risk",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/o-smith-stock-wall-street-161317017.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/solana-price-hits-100-sol-162948002.html"
   },
   {
    "t": "SK海力士砸40億美元　美國新廠2029年量產AI晶片",
