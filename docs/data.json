@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 08:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 08:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.56,
-   "c": 0.82,
+   "p": 88.54,
+   "c": 0.8,
    "a50": 84.19,
    "a200": 82.95,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.94,
-   "r": 50.3
+   "r": 50.2
   },
   {
    "s": "GC=F",
-   "p": 4648.7,
-   "c": 1.1,
-   "a50": 4207.18,
-   "a200": 4511.76,
+   "p": 4650.6,
+   "c": 1.14,
+   "a50": 4207.21,
+   "a200": 4511.77,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4392.19,
-   "r": 71.8
+   "a20": 4392.28,
+   "r": 71.9
   },
   {
    "s": "HG=F",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280009.aspx"
   },
   {
-   "t": "Solana Price Hits $100 as SOL Faces 10% Pullback Risk",
+   "t": "Regeneron Pharmaceuticals Stock Outlook: Is Wall Street Bullish or Bearish?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/solana-price-hits-100-sol-162948002.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/regeneron-pharmaceuticals-stock-outlook-wall-120128745.html"
   },
   {
    "t": "印度盼就半導體與台灣合作　台商籲創造更友善投資環境",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280007.aspx"
   },
   {
-   "t": "Suze Orman says 41% of workers delay medical care when emergencies hit — and 1 in 4 raid retirement savings",
+   "t": "Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/suze-orman-says-41-workers-163000860.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html"
   },
   {
    "t": "歐股多收跌　投資人聚焦聯準會主席演說",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280003.aspx"
   },
   {
-   "t": "Vivmark Residential Stock: Analyst Estimates & Ratings",
+   "t": "Are Wall Street Analysts Predicting IDEXX Laboratories Stock Will Climb or Sink?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/vivmark-residential-stock-analyst-estimates-161725943.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-idexx-120900269.html"
   },
   {
    "t": "輝達公布營收成長強勁　早盤股價大漲逾7%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608270352.aspx"
   },
   {
-   "t": "Why Abercrombie & Fitch Stock Is Soaring Despite It Being The Year 2026",
+   "t": "Warren Buffett is ‘still in the game’: The Omaha Oracle may be making more Berkshire investment decisions than you think",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/abercrombie-stock-anf-soars-smashed-q2-2027-estimates-tariff-refunds/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-still-game-omaha-121500344.html"
   },
   {
    "t": "國泰專案金檢已完成　金管會：短期內公布裁罰結果",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202608270346.aspx"
   },
   {
-   "t": "Bank of America doubles down on Nvidia stock",
+   "t": "J. M. Smucker Q1 Earnings Call Highlights",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-q1-earnings-120156381.html"
   }
  ],
  "inst": {
-  "date": "2026-08-27",
+  "date": "2026-08-26",
   "byCode": {
-   "2317": {
-    "f": 18248,
-    "t": -121,
-    "all": 18605
+   "1802": {
+    "f": 15449,
+    "t": 80,
+    "all": 16510
    },
    "2330": {
-    "f": 4500,
-    "t": -318,
-    "all": 4340
-   },
-   "3701": {
-    "f": 217,
-    "t": 0,
-    "all": 219
-   },
-   "6446": {
-    "f": 139,
-    "t": -4,
-    "all": 137
-   },
-   "4722": {
-    "f": 98,
-    "t": 0,
-    "all": 71
-   },
-   "6862": {
-    "f": 49,
-    "t": 0,
-    "all": 48
-   },
-   "6515": {
-    "f": 215,
-    "t": -188,
-    "all": 31
-   },
-   "2308": {
-    "f": 716,
-    "t": -838,
-    "all": -174
+    "f": 5204,
+    "t": -521,
+    "all": 4910
    },
    "2305": {
-    "f": -152,
-    "t": -2,
-    "all": -179
-   },
-   "6706": {
-    "f": -206,
+    "f": 1597,
     "t": 0,
-    "all": -194
-   },
-   "6442": {
-    "f": -152,
-    "t": -176,
-    "all": -321
+    "all": 1611
    },
    "2454": {
-    "f": -247,
-    "t": -15,
-    "all": -344
+    "f": 1231,
+    "t": -227,
+    "all": 1147
+   },
+   "6446": {
+    "f": 704,
+    "t": 88,
+    "all": 816
+   },
+   "3701": {
+    "f": 143,
+    "t": 0,
+    "all": 147
+   },
+   "4722": {
+    "f": 94,
+    "t": 0,
+    "all": 133
+   },
+   "6515": {
+    "f": 42,
+    "t": -2,
+    "all": 43
+   },
+   "6862": {
+    "f": 1,
+    "t": 0,
+    "all": 3
+   },
+   "6442": {
+    "f": -121,
+    "t": -42,
+    "all": -181
+   },
+   "6706": {
+    "f": -484,
+    "t": 0,
+    "all": -495
+   },
+   "2308": {
+    "f": 605,
+    "t": -1707,
+    "all": -860
+   },
+   "2317": {
+    "f": -2072,
+    "t": 11,
+    "all": -1358
    },
    "2327": {
-    "f": -840,
-    "t": -5323,
-    "all": -5033
-   },
-   "1802": {
-    "f": -5750,
-    "t": 2,
-    "all": -6439
+    "f": 49,
+    "t": -2875,
+    "all": -2411
    }
   },
-  "totalNetE": 626.8
+  "totalNetE": 579.1
  }
 }
