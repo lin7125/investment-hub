@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 13:34（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 20:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,58 +14,58 @@
   },
   {
    "s": "2317.TW",
-   "p": 251.5,
-   "c": -0.2,
-   "a50": 248.53,
+   "p": 253.0,
+   "c": 0.4,
+   "a50": 248.56,
    "a200": 235.62,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 254.12,
-   "r": 50.8
+   "a20": 254.2,
+   "r": 52.1
   },
   {
    "s": "2308.TW",
-   "p": 1835.0,
-   "c": 3.67,
-   "a50": 1818.6,
-   "a200": 1559.48,
+   "p": 1830.0,
+   "c": 3.39,
+   "a50": 1818.5,
+   "a200": 1559.46,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1756.25,
-   "r": 54.7
+   "a20": 1756.0,
+   "r": 54.3
   },
   {
    "s": "2454.TW",
-   "p": 3995.0,
-   "c": 3.36,
-   "a50": 3896.4,
-   "a200": 2575.0,
+   "p": 3985.0,
+   "c": 3.1,
+   "a50": 3896.2,
+   "a200": 2574.95,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3930.0,
-   "r": 54.2
+   "a20": 3929.5,
+   "r": 54.0
   },
   {
    "s": "2327.TW",
-   "p": 598.0,
-   "c": 7.75,
-   "a50": 734.01,
-   "a200": 445.45,
+   "p": 597.0,
+   "c": 7.57,
+   "a50": 733.99,
+   "a200": 445.44,
    "yh": 1140.0,
    "yl": 134.5,
-   "a20": 577.15,
-   "r": 48.6
+   "a20": 577.1,
+   "r": 48.4
   },
   {
    "s": "1802.TW",
-   "p": 61.1,
-   "c": 3.21,
-   "a50": 59.39,
+   "p": 60.8,
+   "c": 2.7,
+   "a50": 59.38,
    "a200": 53.78,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 56.35,
-   "r": 59.9
+   "a20": 56.34,
+   "r": 59.3
   },
   {
    "s": "6862.TW",
@@ -80,80 +80,80 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.1,
-   "c": -1.91,
+   "p": 41.05,
+   "c": -2.03,
    "a50": 41.36,
    "a200": 49.03,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.75,
-   "r": 50.8
+   "r": 50.6
   },
   {
    "s": "4722.TW",
-   "p": 213.0,
-   "c": 0.0,
-   "a50": 231.6,
+   "p": 213.5,
+   "c": 0.23,
+   "a50": 231.61,
    "a200": 200.3,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 210.22,
-   "r": 50.0
+   "a20": 210.25,
+   "r": 50.2
   },
   {
    "s": "6706.TW",
-   "p": 123.5,
-   "c": -0.4,
-   "a50": 124.76,
+   "p": 124.0,
+   "c": 0.0,
+   "a50": 124.77,
    "a200": 128.83,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 116.87,
-   "r": 54.0
+   "a20": 116.89,
+   "r": 54.5
   },
   {
    "s": "2305.TW",
-   "p": 28.7,
-   "c": -2.55,
-   "a50": 32.47,
+   "p": 29.0,
+   "c": -1.53,
+   "a50": 32.48,
    "a200": 19.39,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.52,
-   "r": 48.5
+   "a20": 28.53,
+   "r": 49.2
   },
   {
    "s": "6442.TW",
-   "p": 1610.0,
-   "c": 0.94,
-   "a50": 1489.7,
-   "a200": 1622.0,
+   "p": 1615.0,
+   "c": 1.25,
+   "a50": 1489.8,
+   "a200": 1622.02,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1502.25,
-   "r": 57.1
+   "a20": 1502.5,
+   "r": 57.4
   },
   {
    "s": "6515.TW",
-   "p": 6200.0,
-   "c": 1.56,
-   "a50": 7119.2,
-   "a200": 6182.25,
+   "p": 6250.0,
+   "c": 2.38,
+   "a50": 7120.2,
+   "a200": 6182.5,
    "yh": 10795.0,
    "yl": 1250.0,
-   "a20": 6523.25,
-   "r": 42.8
+   "a20": 6525.75,
+   "r": 43.8
   },
   {
    "s": "6446.TW",
-   "p": 1575.0,
-   "c": 0.96,
-   "a50": 1268.74,
-   "a200": 756.85,
+   "p": 1545.0,
+   "c": -0.96,
+   "a50": 1268.14,
+   "a200": 756.7,
    "yh": 1585.0,
    "yl": 401.71,
-   "a20": 1404.5,
-   "r": 67.6
+   "a20": 1403.0,
+   "r": 65.2
   },
   {
    "s": "3324.TWO",
@@ -168,47 +168,47 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1500.0,
-   "c": 5.26,
-   "a50": 1263.34,
-   "a200": 1234.61,
+   "p": 1510.0,
+   "c": 5.96,
+   "a50": 1263.54,
+   "a200": 1234.66,
    "yh": 2200.0,
    "yl": 387.0,
-   "a20": 1292.75,
-   "r": 64.1
+   "a20": 1293.25,
+   "r": 64.6
   },
   {
    "s": "3585.TWO",
-   "p": 50.0,
-   "c": 0.81,
-   "a50": 56.61,
-   "a200": 43.28,
+   "p": 49.65,
+   "c": 0.1,
+   "a50": 56.6,
+   "a200": 43.27,
    "yh": 165.0,
    "yl": 10.6,
-   "a20": 49.63,
-   "r": 47.2
+   "a20": 49.61,
+   "r": 46.4
   },
   {
    "s": "6223.TWO",
-   "p": 5045.0,
-   "c": -0.88,
-   "a50": 6066.5,
-   "a200": 4191.02,
+   "p": 5030.0,
+   "c": -1.18,
+   "a50": 6066.2,
+   "a200": 4190.95,
    "yh": 7380.0,
    "yl": 1285.0,
-   "a20": 5810.25,
-   "r": 39.0
+   "a20": 5809.5,
+   "r": 38.9
   },
   {
    "s": "6750.TWO",
-   "p": 53.1,
-   "c": -0.75,
-   "a50": 58.92,
-   "a200": 57.23,
+   "p": 54.0,
+   "c": 0.93,
+   "a50": 58.94,
+   "a200": 57.24,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.35,
-   "r": 39.0
+   "a20": 55.39,
+   "r": 42.3
   },
   {
    "s": "AAPL",
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 46320.92,
-   "c": 0.75,
-   "a50": 44936.95,
-   "a200": 36783.24,
+   "p": 46331.45,
+   "c": 0.77,
+   "a50": 44937.16,
+   "a200": 36783.29,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 45074.26,
+   "a20": 45074.79,
    "r": 60.3
   },
   {
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.51,
-   "c": -4.6,
-   "a50": 16.59,
-   "a200": 18.41,
+   "p": 14.49,
+   "c": -0.14,
+   "a50": 16.51,
+   "a200": 18.4,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.32,
-   "r": 43.3
+   "a20": 15.25,
+   "r": 43.2
   },
   {
    "s": "BZ=F",
-   "p": 88.37,
-   "c": -1.48,
-   "a50": 84.39,
-   "a200": 83.08,
+   "p": 87.97,
+   "c": -1.93,
+   "a50": 84.38,
+   "a200": 83.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.91,
-   "r": 49.8
+   "a20": 87.89,
+   "r": 49.1
   },
   {
    "s": "GC=F",
-   "p": 4636.1,
-   "c": 0.57,
-   "a50": 4211.94,
-   "a200": 4514.19,
+   "p": 4647.6,
+   "c": 0.82,
+   "a50": 4212.17,
+   "a200": 4514.25,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4419.59,
-   "r": 71.4
+   "a20": 4420.16,
+   "r": 71.9
   },
   {
    "s": "HG=F",
-   "p": 6.7,
-   "c": 1.64,
+   "p": 6.74,
+   "c": 2.25,
    "a50": 6.39,
    "a200": 5.95,
-   "yh": 6.71,
+   "yh": 6.74,
    "yl": 4.46,
-   "a20": 6.59,
-   "r": 60.4
+   "a20": 6.6,
+   "r": 62.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03164557,
-   "c": 0.64,
+   "c": 0.65,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "能率創新投資布局　鑫蘊林科發展機器人大腦",
+   "t": "告別勞動力充沛期　50年內工作年齡人口大減逾千萬人",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280097.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608280241.aspx"
   },
   {
    "t": "Bank of America doubles down on Nvidia stock",
@@ -344,140 +344,140 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html"
   },
   {
-   "t": "新台幣午盤強升1.01角　暫收31.607元",
+   "t": "國泰金前7月獲利亮眼　李長庚：股利配發會比過去好",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280096.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608280221.aspx"
   },
   {
-   "t": "NVIDIA Corporation (NVDA) & Blackstone (BX): Nvidia Wants Wall Street to Lend Against AI Chips Like They’re Mortgages",
+   "t": "KiiChain Adds TRON to Expand Onchain FX and Stablecoin Settlement",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-blackstone-bx-174958402.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/kiichain-adds-tron-expand-onchain-000700863.html"
   },
   {
-   "t": "Anthropic傳放棄70億美元收購MatX　轉而洽談合作",
+   "t": "德國產業界施壓梅爾茨　要求對中國採取更強硬政策",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/aopl/202608280092.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608280219.aspx"
   },
   {
-   "t": "Comcast Corporation (CMCSA) vs Charter Communications (CHTR): Two Cable Giants, Two Opposite Bets",
+   "t": "Is UnitedHealth (UNH) the Healthcare Stock to Watch Right Now?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/comcast-corporation-cmcsa-vs-charter-174353158.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-healthcare-stock-watch-002642031.html"
   },
   {
-   "t": "趙姬、寄居蟹濫發公司債爭議　經部發解釋令防堵規避行為",
+   "t": "大立光今年第5度獵地　斥資6.5億買台中南屯區土地建物",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280091.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608280217.aspx"
   },
   {
-   "t": "Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare.",
+   "t": "Blackbird hits $740M Fund VI record close to back VC founders",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-eyes-perplexity-ai-earnings-175225895.html"
+   "u": "https://finance.yahoo.com/small-business/articles/blackbird-hits-740m-fund-vi-002827706.html"
   },
   {
-   "t": "Marvell調升財測　受Google合約疑慮影響股價跌",
+   "t": "台灣生育率0.7人落後日星韓　國發會估今年新生兒恐跌破10萬",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280074.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608280213.aspx"
   },
   {
-   "t": "HP, Inc. Results Today - Huge, Unusual Options Activity in Long-Dated HPQ Puts",
+   "t": "Could Charter Communications (CHTR)’s Cox Deal Give it an Edge Over Liberty Broadband Corporation (LBRDK)?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/hp-inc-results-today-huge-173002550.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/could-charter-communications-chtr-cox-003619618.html"
   },
   {
-   "t": "新青安3年撥貸近1.4兆元　房仲估青安3.0難現爆量熱潮",
+   "t": "投資台灣再添6案　花仙子、好神拖製造商擴大布局",
    "pub": "中央社財經",
    "d": "2026-08-28",
-   "u": "https://www.cna.com.tw/news/afe/202608280070.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608280210.aspx"
   },
   {
-   "t": "Market Indexes Hold Flat as Wall Street Waits on Nvidia",
+   "t": "Key Walmart and grocery chain supplier files Chapter 7 bankruptcy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/market-indexes-hold-flat-wall-174053637.html"
+   "u": "https://finance.yahoo.com/small-business/articles/key-walmart-grocery-chain-supplier-000639921.html"
   }
  ],
  "inst": {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "byCode": {
-   "2317": {
-    "f": 18248,
-    "t": -121,
-    "all": 18605
+   "1802": {
+    "f": 11554,
+    "t": 0,
+    "all": 13336
    },
    "2330": {
-    "f": 4500,
-    "t": -318,
-    "all": 4340
-   },
-   "3701": {
-    "f": 217,
-    "t": 0,
-    "all": 219
-   },
-   "6446": {
-    "f": 139,
-    "t": -4,
-    "all": 137
-   },
-   "4722": {
-    "f": 98,
-    "t": 0,
-    "all": 71
-   },
-   "6862": {
-    "f": 49,
-    "t": 0,
-    "all": 48
-   },
-   "6515": {
-    "f": 215,
-    "t": -188,
-    "all": 31
-   },
-   "2308": {
-    "f": 716,
-    "t": -838,
-    "all": -174
-   },
-   "2305": {
-    "f": -152,
-    "t": -2,
-    "all": -179
-   },
-   "6706": {
-    "f": -206,
-    "t": 0,
-    "all": -194
-   },
-   "6442": {
-    "f": -152,
-    "t": -176,
-    "all": -321
+    "f": 3031,
+    "t": -1765,
+    "all": 1243
    },
    "2454": {
-    "f": -247,
-    "t": -15,
-    "all": -344
+    "f": 1096,
+    "t": -118,
+    "all": 996
+   },
+   "2317": {
+    "f": 1192,
+    "t": 307,
+    "all": 776
+   },
+   "2308": {
+    "f": 1163,
+    "t": -732,
+    "all": 546
+   },
+   "6706": {
+    "f": 155,
+    "t": 0,
+    "all": 125
+   },
+   "4722": {
+    "f": 115,
+    "t": 0,
+    "all": 96
+   },
+   "6442": {
+    "f": 132,
+    "t": -32,
+    "all": 83
+   },
+   "6515": {
+    "f": -24,
+    "t": -3,
+    "all": -25
+   },
+   "6862": {
+    "f": -52,
+    "t": 0,
+    "all": -48
+   },
+   "3701": {
+    "f": -134,
+    "t": 0,
+    "all": -135
+   },
+   "6446": {
+    "f": -187,
+    "t": -5,
+    "all": -192
+   },
+   "2305": {
+    "f": -897,
+    "t": 0,
+    "all": -900
    },
    "2327": {
-    "f": -840,
-    "t": -5323,
-    "all": -5033
-   },
-   "1802": {
-    "f": -5750,
-    "t": 2,
-    "all": -6439
+    "f": -2216,
+    "t": -1106,
+    "all": -2762
    }
   },
-  "totalNetE": 626.8
+  "totalNetE": 458.3
  }
 }
