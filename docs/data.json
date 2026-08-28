@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 07:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 08:02（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.55,
-   "c": 0.81,
+   "p": 88.56,
+   "c": 0.82,
    "a50": 84.19,
    "a200": 82.95,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 87.94,
-   "r": 50.2
+   "r": 50.3
   },
   {
    "s": "GC=F",
-   "p": 4653.3,
-   "c": 1.2,
-   "a50": 4207.27,
-   "a200": 4511.79,
+   "p": 4648.7,
+   "c": 1.1,
+   "a50": 4207.18,
+   "a200": 4511.76,
    "yh": 5318.4,
    "yl": 3404.6,
-   "a20": 4392.42,
-   "r": 72.0
+   "a20": 4392.19,
+   "r": 71.8
   },
   {
    "s": "HG=F",
-   "p": 6.69,
-   "c": 1.43,
+   "p": 6.68,
+   "c": 1.37,
    "a50": 6.39,
    "a200": 5.94,
    "yh": 6.71,
    "yl": 4.41,
    "a20": 6.59,
-   "r": 59.9
+   "r": 59.7
   },
   {
    "s": "TWDUSD",
    "p": 0.0315856,
-   "c": 0.45,
+   "c": 0.46,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280009.aspx"
   },
   {
-   "t": "Vivmark Residential Stock: Analyst Estimates & Ratings",
+   "t": "Solana Price Hits $100 as SOL Faces 10% Pullback Risk",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/vivmark-residential-stock-analyst-estimates-161725943.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/solana-price-hits-100-sol-162948002.html"
   },
   {
    "t": "印度盼就半導體與台灣合作　台商籲創造更友善投資環境",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280007.aspx"
   },
   {
-   "t": "Why Abercrombie & Fitch Stock Is Soaring Despite It Being The Year 2026",
+   "t": "Suze Orman says 41% of workers delay medical care when emergencies hit — and 1 in 4 raid retirement savings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/abercrombie-stock-anf-soars-smashed-q2-2027-estimates-tariff-refunds/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/suze-orman-says-41-workers-163000860.html"
   },
   {
    "t": "歐股多收跌　投資人聚焦聯準會主席演說",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280003.aspx"
   },
   {
-   "t": "US inflation remains elevated as GDP growth outlook brightens",
+   "t": "Vivmark Residential Stock: Analyst Estimates & Ratings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/us-inflation-remains-sticky-july-124816701.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/vivmark-residential-stock-analyst-estimates-161725943.html"
   },
   {
    "t": "輝達公布營收成長強勁　早盤股價大漲逾7%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608270352.aspx"
   },
   {
-   "t": "A. O. Smith Stock: Is Wall Street Bullish or Bearish?",
+   "t": "Why Abercrombie & Fitch Stock Is Soaring Despite It Being The Year 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/o-smith-stock-wall-street-161317017.html"
+   "u": "https://www.investors.com/news/abercrombie-stock-anf-soars-smashed-q2-2027-estimates-tariff-refunds/?src=A00220&yptr=yahoo"
   },
   {
    "t": "國泰專案金檢已完成　金管會：短期內公布裁罰結果",
@@ -405,79 +405,79 @@
   }
  ],
  "inst": {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "byCode": {
-   "1802": {
-    "f": 15449,
-    "t": 80,
-    "all": 16510
+   "2317": {
+    "f": 18248,
+    "t": -121,
+    "all": 18605
    },
    "2330": {
-    "f": 5204,
-    "t": -521,
-    "all": 4910
-   },
-   "2305": {
-    "f": 1597,
-    "t": 0,
-    "all": 1611
-   },
-   "2454": {
-    "f": 1231,
-    "t": -227,
-    "all": 1147
-   },
-   "6446": {
-    "f": 704,
-    "t": 88,
-    "all": 816
+    "f": 4500,
+    "t": -318,
+    "all": 4340
    },
    "3701": {
-    "f": 143,
+    "f": 217,
     "t": 0,
-    "all": 147
+    "all": 219
+   },
+   "6446": {
+    "f": 139,
+    "t": -4,
+    "all": 137
    },
    "4722": {
-    "f": 94,
+    "f": 98,
     "t": 0,
-    "all": 133
-   },
-   "6515": {
-    "f": 42,
-    "t": -2,
-    "all": 43
+    "all": 71
    },
    "6862": {
-    "f": 1,
+    "f": 49,
     "t": 0,
-    "all": 3
+    "all": 48
    },
-   "6442": {
-    "f": -121,
-    "t": -42,
-    "all": -181
-   },
-   "6706": {
-    "f": -484,
-    "t": 0,
-    "all": -495
+   "6515": {
+    "f": 215,
+    "t": -188,
+    "all": 31
    },
    "2308": {
-    "f": 605,
-    "t": -1707,
-    "all": -860
+    "f": 716,
+    "t": -838,
+    "all": -174
    },
-   "2317": {
-    "f": -2072,
-    "t": 11,
-    "all": -1358
+   "2305": {
+    "f": -152,
+    "t": -2,
+    "all": -179
+   },
+   "6706": {
+    "f": -206,
+    "t": 0,
+    "all": -194
+   },
+   "6442": {
+    "f": -152,
+    "t": -176,
+    "all": -321
+   },
+   "2454": {
+    "f": -247,
+    "t": -15,
+    "all": -344
    },
    "2327": {
-    "f": 49,
-    "t": -2875,
-    "all": -2411
+    "f": -840,
+    "t": -5323,
+    "all": -5033
+   },
+   "1802": {
+    "f": -5750,
+    "t": 2,
+    "all": -6439
    }
   },
-  "totalNetE": 579.1
+  "totalNetE": 626.8
  }
 }
