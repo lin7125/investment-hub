@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 23:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 23:31（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 320.93,
-   "c": 2.02,
-   "a50": 312.02,
+   "p": 322.2,
+   "c": 2.42,
+   "a50": 312.05,
    "a200": 282.61,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.92,
-   "r": 58.4
+   "a20": 309.99,
+   "r": 59.4
   },
   {
    "s": "NVDA",
-   "p": 223.63,
-   "c": -1.91,
-   "a50": 208.54,
+   "p": 223.91,
+   "c": -1.79,
+   "a50": 208.55,
    "a200": 195.86,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.35,
-   "r": 57.2
+   "a20": 218.37,
+   "r": 57.5
   },
   {
    "s": "TSLA",
-   "p": 353.32,
-   "c": -0.42,
-   "a50": 360.57,
-   "a200": 400.95,
+   "p": 351.87,
+   "c": -0.83,
+   "a50": 360.54,
+   "a200": 400.94,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 339.05,
-   "r": 53.1
+   "a20": 338.97,
+   "r": 52.4
   },
   {
    "s": "META",
-   "p": 584.27,
-   "c": 2.31,
-   "a50": 592.27,
-   "a200": 622.75,
+   "p": 584.76,
+   "c": 2.39,
+   "a50": 592.28,
+   "a200": 622.76,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.08,
-   "r": 51.7
+   "a20": 576.11,
+   "r": 51.9
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7763.0,
-   "c": 0.41,
-   "a50": 7564.81,
-   "a200": 7118.98,
+   "p": 7765.22,
+   "c": 0.44,
+   "a50": 7564.86,
+   "a200": 7118.99,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7715.14,
-   "r": 60.9
+   "a20": 7715.26,
+   "r": 61.1
   },
   {
    "s": "^VIX",
-   "p": 14.25,
-   "c": -1.79,
+   "p": 14.17,
+   "c": -2.34,
    "a50": 16.5,
    "a200": 18.4,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.24,
-   "r": 42.2
+   "a20": 15.23,
+   "r": 41.9
   },
   {
    "s": "BZ=F",
-   "p": 88.09,
-   "c": -1.79,
+   "p": 88.26,
+   "c": -1.61,
    "a50": 84.38,
    "a200": 83.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.89,
-   "r": 49.3
+   "a20": 87.9,
+   "r": 49.6
   },
   {
    "s": "GC=F",
-   "p": 4616.8,
-   "c": 0.15,
-   "a50": 4211.55,
-   "a200": 4514.09,
+   "p": 4606.3,
+   "c": -0.07,
+   "a50": 4211.34,
+   "a200": 4514.04,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4418.62,
-   "r": 70.4
+   "a20": 4418.1,
+   "r": 69.7
   },
   {
    "s": "HG=F",
-   "p": 6.7,
-   "c": 1.74,
+   "p": 6.69,
+   "c": 1.52,
    "a50": 6.39,
    "a200": 5.95,
    "yh": 6.71,
    "yl": 4.46,
    "a20": 6.59,
-   "r": 60.7
+   "r": 60.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03160556,
-   "c": 0.54,
+   "c": 0.53,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608280330.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500 climb, Nasdaq falls as the focus turns to Kevin Warsh's Jackson Hole speech",
+   "t": "Fed Chairman Warsh says inflation is running too high, offers first assessment of economy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-fed-warsh-jackson-hole-081514091.html"
+   "u": "https://finance.yahoo.com/economy/policy/article/fed-chairman-warsh-says-inflation-is-running-too-high-offers-first-assessment-of-economy-140031752.html"
   },
   {
    "t": "大樂透第115083期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608280328.aspx"
   },
   {
-   "t": "Advance Auto Parts (AAP) Just Posted Its Best Quarter In Years",
+   "t": "When will mortgage rates go down? Or maybe they're poised to move higher.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-aap-just-145354349.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-or-maybe-theyre-poised-to-move-higher-190610094.html"
   },
   {
    "t": "日本公布砸3兆多元支撐日圓　創史上最大單月干預紀錄",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608280327.aspx"
   },
   {
-   "t": "Fed Chair Warsh Leans Hawkish In Jackson Hole Speech (Live Coverage)",
+   "t": "Rate-hike expectations rise on Warsh speech at Jackson Hole",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/federal-reserve-chairman-kevin-warsh-jackson-hole-treasury-yields-sp-500/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/policy/articles/rate-hike-expectations-rise-warsh-144023525.html"
   },
   {
    "t": "國泰世華銀：台廠資金需求旺　上半年企業放款年增21%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280321.aspx"
   },
   {
-   "t": "Morgan Stanley (MS) is Well Positioned to Benefit from AI Capital Raising",
+   "t": "Ford (F) and General Motors (GM) Battle for Title of Most “American-Made” Automaker",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-well-positioned-144732682.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/ford-f-general-motors-gm-151429216.html"
   },
   {
    "t": "大樂透第115083期開獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608280317.aspx"
   },
   {
-   "t": "BioNTech Tumbles 8% as Colorectal Cancer Vaccine Trial Fails, Moderna Drops 6%, Pfizer Holds Flat",
+   "t": "MARA and Riot Sink 6% While Bitcoin Holds Near $79,500; Strategy Slips 3%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/biontech-tumbles-8-colorectal-cancer-145826079.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/mara-riot-sink-6-while-152002594.html"
   }
  ],
  "inst": {
