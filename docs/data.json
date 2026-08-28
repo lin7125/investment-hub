@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28 21:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-28 21:39（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 314.58,
-   "c": 0.36,
-   "a50": 311.52,
-   "a200": 282.35,
+   "p": 317.29,
+   "c": 0.86,
+   "a50": 311.95,
+   "a200": 282.59,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.32,
-   "r": 52.6
+   "a20": 309.74,
+   "r": 55.2
   },
   {
    "s": "NVDA",
-   "p": 227.98,
-   "c": 8.74,
-   "a50": 208.16,
-   "a200": 195.73,
+   "p": 227.88,
+   "c": -0.04,
+   "a50": 208.63,
+   "a200": 195.88,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 217.21,
-   "r": 61.3
+   "a20": 218.56,
+   "r": 61.2
   },
   {
    "s": "TSLA",
-   "p": 354.81,
-   "c": 2.6,
-   "a50": 361.43,
-   "a200": 401.41,
+   "p": 356.0,
+   "c": 0.34,
+   "a50": 360.62,
+   "a200": 400.96,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 336.94,
-   "r": 53.9
+   "a20": 339.18,
+   "r": 54.4
   },
   {
    "s": "META",
-   "p": 571.1,
-   "c": -0.87,
-   "a50": 591.94,
-   "a200": 622.99,
+   "p": 579.16,
+   "c": 1.41,
+   "a50": 592.17,
+   "a200": 622.73,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.7,
-   "r": 46.9
+   "a20": 575.83,
+   "r": 50.0
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7730.99,
-   "c": 0.72,
-   "a50": 7557.96,
-   "a200": 7114.32,
+   "p": 7739.86,
+   "c": 0.11,
+   "a50": 7564.35,
+   "a200": 7118.86,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7701.48,
-   "r": 58.5
+   "a20": 7713.99,
+   "r": 59.2
   },
   {
    "s": "^VIX",
-   "p": 14.47,
-   "c": -0.28,
+   "p": 14.46,
+   "c": -0.34,
    "a50": 16.51,
    "a200": 18.4,
    "yh": 31.05,
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.54,
-   "c": -2.41,
+   "p": 87.5,
+   "c": -2.45,
    "a50": 84.37,
    "a200": 83.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.87,
-   "r": 48.4
+   "a20": 87.86,
+   "r": 48.3
   },
   {
    "s": "GC=F",
-   "p": 4650.6,
-   "c": 0.89,
-   "a50": 4212.23,
-   "a200": 4514.26,
+   "p": 4653.3,
+   "c": 0.95,
+   "a50": 4212.28,
+   "a200": 4514.27,
    "yh": 5318.4,
    "yl": 3431.8,
-   "a20": 4420.31,
-   "r": 72.1
+   "a20": 4420.45,
+   "r": 72.2
   },
   {
    "s": "HG=F",
    "p": 6.72,
-   "c": 2.05,
+   "c": 1.97,
    "a50": 6.39,
    "a200": 5.95,
    "yh": 6.72,
    "yl": 4.46,
    "a20": 6.6,
-   "r": 61.6
+   "r": 61.4
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608280294.aspx"
   },
   {
-   "t": "Nvidia Reports $7.8 Billion in Q2 Gains on Equity Portfolio That Includes SpaceX, Intel, CoreWeave, and More",
+   "t": "Georgia Power Wins Approval for 3.2-GW OpenAI Power Deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-reports-7-8-billion-010632699.html"
+   "u": "https://finance.yahoo.com/energy/articles/georgia-power-wins-approval-3-014037634.html"
   },
   {
    "t": "中傑第2季本業營運回溫　每股盈餘0.3元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280293.aspx"
   },
   {
-   "t": "Georgia Power Wins Approval for 3.2-GW OpenAI Power Deal",
+   "t": "KKR settles US antitrust case accusing it of merger filing violations for $250 million",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/georgia-power-wins-approval-3-014037634.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kkr-settles-us-antitrust-case-015103051.html"
   },
   {
    "t": "2037年中高齡勞動力估過半　產業界籲擴大海外人才留台",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280286.aspx"
   },
   {
-   "t": "KKR settles US antitrust case accusing it of merger filing violations for $250 million",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq close lower, Nvidia stock jumps after earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/kkr-settles-us-antitrust-case-015103051.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html"
   },
   {
    "t": "華碩AIoT事業群轉型更名　聚焦實體AI",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608280283.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq close lower, Nvidia stock jumps after earnings",
+   "t": "Sticky Inflation Report Raises Jackson Hole Stakes for Fed’s Warsh",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/sticky-inflation-report-raises-jackson-040100001.html"
   },
   {
    "t": "人口結構挑戰政府續推新對策　學者：AI導入須掌握產業用人變化",
