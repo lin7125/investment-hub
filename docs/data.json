@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-29 11:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-29 12:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 319.7,
-   "c": 1.63,
-   "a50": 312.0,
-   "a200": 282.6,
+   "p": 314.58,
+   "c": 0.36,
+   "a50": 311.52,
+   "a200": 282.35,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.86,
-   "r": 57.4
+   "a20": 309.32,
+   "r": 52.6
   },
   {
    "s": "NVDA",
-   "p": 217.55,
-   "c": -4.57,
-   "a50": 208.42,
-   "a200": 195.83,
+   "p": 227.98,
+   "c": 8.74,
+   "a50": 208.16,
+   "a200": 195.73,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.05,
-   "r": 52.3
+   "a20": 217.21,
+   "r": 61.3
   },
   {
    "s": "TSLA",
-   "p": 348.75,
-   "c": -1.71,
-   "a50": 360.47,
-   "a200": 400.93,
+   "p": 354.81,
+   "c": 2.6,
+   "a50": 361.43,
+   "a200": 401.41,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 338.82,
-   "r": 50.9
+   "a20": 336.94,
+   "r": 53.9
   },
   {
    "s": "META",
-   "p": 578.02,
-   "c": 1.21,
-   "a50": 592.14,
-   "a200": 622.72,
+   "p": 571.1,
+   "c": -0.87,
+   "a50": 591.94,
+   "a200": 622.99,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.77,
-   "r": 49.6
+   "a20": 574.7,
+   "r": 46.9
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7711.76,
-   "c": -0.25,
-   "a50": 7563.79,
-   "a200": 7118.72,
+   "p": 7730.99,
+   "c": 0.72,
+   "a50": 7557.96,
+   "a200": 7114.32,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7712.58,
-   "r": 56.3
+   "a20": 7701.48,
+   "r": 58.5
   },
   {
    "s": "^VIX",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.29,
-   "c": -1.57,
-   "a50": 84.38,
-   "a200": 83.07,
+   "p": 89.7,
+   "c": 2.12,
+   "a50": 84.21,
+   "a200": 82.95,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 87.9,
-   "r": 49.6
+   "a20": 88.0,
+   "r": 52.2
   },
   {
    "s": "GC=F",
-   "p": 4504.1,
-   "c": -2.29,
-   "a50": 4209.3,
-   "a200": 4513.53,
+   "p": 4609.7,
+   "c": 0.25,
+   "a50": 4206.4,
+   "a200": 4511.57,
    "yh": 5318.4,
-   "yl": 3431.8,
-   "a20": 4412.99,
-   "r": 59.1
+   "yl": 3473.7,
+   "a20": 4390.24,
+   "r": 70.1
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 0.8,
-   "a50": 6.39,
-   "a200": 5.95,
+   "p": 6.59,
+   "c": -0.11,
+   "a50": 6.38,
+   "a200": 5.94,
    "yh": 6.71,
-   "yl": 4.46,
-   "a20": 6.59,
-   "r": 57.6
+   "yl": 4.48,
+   "a20": 6.58,
+   "r": 54.6
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608290043.aspx"
   },
   {
-   "t": "What is a sinking fund, and why do you need one?",
+   "t": "Can credit unions fail?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/sinking-fund-185644343.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/failed-credit-unions-202059471.html"
   },
   {
    "t": "台電獎學金招考70人最高40萬元　9/18報名截止",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608290041.aspx"
   },
   {
-   "t": "Affirm Stock Climbs As Key E-Commerce Metric Tops Views",
+   "t": "BioNTech (BNTX) Rallied on Moderna’s Win. Does a Competitor’s Success Validate its Oncology Pipeline?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/afrm-stock-affirm-earnings-news-q22026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/biontech-bntx-rallied-moderna-win-215243851.html"
   },
   {
    "t": "國際半導體展規模創新高　資料中心CSP巨頭齊聚亮點一次看",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608290036.aspx"
   },
   {
-   "t": "Elon Musk is about to launch an Nvidia data center into orbit — and he's betting everything on its chips",
+   "t": "Nancy Pelosi Buys Intel. What Comes Next and If You Should Buy INTC Stock Too.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/elon-musk-launch-nvidia-data-213000046.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-buys-intel-comes-215722404.html"
   },
   {
    "t": "台灣僑社攜手巴西企業家協會　結盟推動捐血公益",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608290035.aspx"
   },
   {
-   "t": "Rubrik Earnings, Revenue Handily Beat Wall Street Targets",
+   "t": "Tempus AI (TEM) Jumped on Moderna’s Melanoma Win. Did its $1.5B Personalis Acquisition Just Get Validated?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/rubrik-stock-rbrk-rubrik-earnings-news-q22026/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/tempus-ai-tem-jumped-moderna-220104362.html"
   },
   {
    "t": "國有地助攻綠能　財政部估未來裝置容量933MW",
