@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31 15:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-31 16:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.25,
-   "c": 5.68,
+   "p": 15.26,
+   "c": 5.75,
    "a50": 16.48,
    "a200": 18.39,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.21,
+   "a20": 15.22,
    "r": 47.7
   },
   {
    "s": "BZ=F",
-   "p": 87.7,
-   "c": -1.8,
+   "p": 87.8,
+   "c": -1.69,
    "a50": 84.56,
    "a200": 83.19,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.15,
-   "r": 48.4
+   "a20": 88.16,
+   "r": 48.6
   },
   {
    "s": "GC=F",
-   "p": 4493.4,
-   "c": 0.34,
-   "a50": 4214.17,
-   "a200": 4515.33,
+   "p": 4494.9,
+   "c": 0.38,
+   "a50": 4214.2,
+   "a200": 4515.34,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4434.67,
-   "r": 57.9
+   "a20": 4434.75,
+   "r": 58.0
   },
   {
    "s": "HG=F",
    "p": 6.69,
-   "c": 1.94,
+   "c": 1.92,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 60.0
+   "r": 59.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03156566,
-   "c": -0.07,
+   "p": 0.03157562,
+   "c": -0.04,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310121.aspx"
   },
   {
-   "t": "Better Growth Stock ETF: Vanguard's Large-Cap VUG vs. Invesco's Small-Cap RZG",
+   "t": "Bond Traders Buy Warsh’s Tough Talk on Inflation, for Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/better-growth-stock-etf-vanguards-201417595.html"
+   "u": "https://www.barrons.com/articles/treasury-bond-market-fed-warsh-inflation-7689b45a?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
