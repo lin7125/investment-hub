@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31 18:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-31 22:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 319.7,
-   "c": 1.63,
-   "a50": 312.0,
-   "a200": 282.6,
+   "p": 316.67,
+   "c": -0.95,
+   "a50": 312.37,
+   "a200": 282.81,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 309.86,
-   "r": 57.4
+   "a20": 310.52,
+   "r": 53.9
   },
   {
    "s": "NVDA",
-   "p": 217.55,
-   "c": -4.57,
-   "a50": 208.42,
-   "a200": 195.83,
+   "p": 220.05,
+   "c": 1.15,
+   "a50": 208.61,
+   "a200": 195.96,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.05,
-   "r": 52.3
+   "a20": 218.72,
+   "r": 54.1
   },
   {
    "s": "TSLA",
-   "p": 348.75,
-   "c": -1.71,
-   "a50": 360.47,
-   "a200": 400.93,
+   "p": 360.84,
+   "c": 3.47,
+   "a50": 359.68,
+   "a200": 400.53,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 338.82,
-   "r": 50.9
+   "a20": 340.76,
+   "r": 56.1
   },
   {
    "s": "META",
-   "p": 578.02,
-   "c": 1.21,
-   "a50": 592.14,
-   "a200": 622.72,
+   "p": 570.85,
+   "c": -1.24,
+   "a50": 592.02,
+   "a200": 622.44,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.77,
-   "r": 49.6
+   "a20": 574.8,
+   "r": 47.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7711.76,
-   "c": -0.25,
-   "a50": 7563.79,
-   "a200": 7118.72,
+   "p": 7675.91,
+   "c": -0.46,
+   "a50": 7567.3,
+   "a200": 7122.87,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7712.58,
-   "r": 56.3
+   "a20": 7716.35,
+   "r": 52.5
   },
   {
    "s": "^VIX",
-   "p": 15.22,
-   "c": 5.47,
+   "p": 15.27,
+   "c": 5.82,
    "a50": 16.48,
    "a200": 18.39,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.21,
-   "r": 47.5
+   "a20": 15.22,
+   "r": 47.8
   },
   {
    "s": "BZ=F",
-   "p": 88.79,
-   "c": -0.58,
+   "p": 88.45,
+   "c": -0.96,
    "a50": 84.58,
    "a200": 83.2,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.21,
-   "r": 50.4
+   "a20": 88.19,
+   "r": 49.8
   },
   {
    "s": "GC=F",
-   "p": 4501.0,
-   "c": 0.51,
-   "a50": 4214.32,
-   "a200": 4515.37,
+   "p": 4473.9,
+   "c": -0.09,
+   "a50": 4213.78,
+   "a200": 4515.23,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4435.05,
-   "r": 58.4
+   "a20": 4433.7,
+   "r": 56.6
   },
   {
    "s": "HG=F",
-   "p": 6.66,
-   "c": 1.55,
+   "p": 6.71,
+   "c": 2.21,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 58.7
+   "r": 60.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03157562,
-   "c": -0.03,
+   "p": 0.0315856,
+   "c": -0.0,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,76 +332,76 @@
  ],
  "news": [
   {
-   "t": "華許放鷹新台幣爆量小貶　8月仍強升6.26角",
+   "t": "研調：二手機維修市場支撐　手機面板出貨年減幅縮小",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310249.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608310309.aspx"
   },
   {
-   "t": "Major fruit grower lays off nearly 1,000 workers",
+   "t": "Goldman Sachs sends blunt message on oil price, economy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/major-fruit-grower-lays-off-010300694.html"
+   "u": "https://finance.yahoo.com/energy/articles/goldman-sachs-sends-blunt-message-003700417.html"
   },
   {
-   "t": "中油9月民生與工業天然氣價凍漲　電業漲5.83%",
+   "t": "凱基人壽布局全齡健康　北市信義區打造康養宅",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310248.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608310308.aspx"
   },
   {
-   "t": "‘I love the inflation!’: Trump shrugs off rising prices — here’s what you can do before inflation eats into your savings",
+   "t": "Scotts Miracle-Gro's biggest challenge: Overcoming young homeowners who are OK with dandelions in their lawn",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/love-inflation-trump-shrugs-off-103500495.html"
+   "u": "https://finance.yahoo.com/markets/article/scotts-miracle-gros-biggest-challenge-overcoming-young-homeowners-who-are-ok-with-dandelions-in-their-lawn-135714271.html"
   },
   {
-   "t": "合庫金：不排除Fed升息1碼　央行升息的腳已踩在油門上",
+   "t": "稜研：天線模組營收占比明年衝50%　衛星應用先量產",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310243.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608310303.aspx"
   },
   {
-   "t": "3 super simple hacks that can save you thousands effortlessly — but you need to do them before September ends",
+   "t": "Martin Marietta Materials (MLM) Stock Pulls Back on Expectations, Fundamentals Intact",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/3-super-simple-hacks-save-103000062.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/martin-marietta-materials-mlm-stock-135247614.html"
   },
   {
-   "t": "半導體今年營收估逾1.5兆美元　材料連2年成長2位數",
+   "t": "劉書勝紀念獎擴大至能源電網　獎金提高到12萬元",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310241.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608310299.aspx"
   },
   {
-   "t": "Mortgage and refinance interest rates today, Monday, August 31, 2026: Purchase rates currently higher than refinance rates",
+   "t": "Entegris (ENTG) Surged on Increased Demand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-august-31-2026-purchase-rates-currently-higher-than-refinance-rates-100000904.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/entegris-entg-surged-increased-demand-135110193.html"
   },
   {
-   "t": "市場權衡華許放鷹和中東局勢　亞股多收黑",
+   "t": "威力彩第115070期開獎",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/aopl/202608310230.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608310298.aspx"
   },
   {
-   "t": "Best high-yield savings interest rates today, Monday, August 31, 2026: Earn up to 4.15% APY",
+   "t": "Stock Market Today: Dow Falls, Oil Prices Jump As U.S., Iran Exchange New Strikes (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-31-2026-earn-up-to-415-apy-100000500.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-attacks-oil-prices-jump/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "新加坡加碼投資金融科技　55億鞏固金融中心競爭力",
+   "t": "今彩539第115211期開獎",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/aopl/202608310224.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202608310297.aspx"
   },
   {
-   "t": "Teva Pharmaceuticals to acquire BioXcel assets for up to $125m",
+   "t": "This Thesis for Marvell Technology Keeps Me Accumulating Amid Tailwinds",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/teva-pharmaceuticals-acquire-bioxcel-assets-103223307.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/thesis-marvell-technology-keeps-accumulating-135022748.html"
   }
  ],
  "inst": {
@@ -412,15 +412,15 @@
     "t": 0,
     "all": 565
    },
-   "2308": {
-    "f": 271,
-    "t": 37,
-    "all": 297
-   },
    "6442": {
     "f": 236,
     "t": -66,
     "all": 176
+   },
+   "2308": {
+    "f": 271,
+    "t": -161,
+    "all": 99
    },
    "6706": {
     "f": 103,
@@ -449,13 +449,13 @@
    },
    "2454": {
     "f": -614,
-    "t": -263,
-    "all": -888
+    "t": -330,
+    "all": -955
    },
    "6446": {
     "f": -1739,
-    "t": 0,
-    "all": -1804
+    "t": 4,
+    "all": -1800
    },
    "1802": {
     "f": -2265,
@@ -464,20 +464,20 @@
    },
    "2317": {
     "f": -3856,
-    "t": 24,
-    "all": -4201
+    "t": 166,
+    "all": -4059
    },
    "2330": {
     "f": -4555,
-    "t": -977,
-    "all": -5710
+    "t": -962,
+    "all": -5695
    },
    "2327": {
     "f": -13469,
-    "t": -3609,
-    "all": -16894
+    "t": -3642,
+    "all": -16927
    }
   },
-  "totalNetE": -267.6
+  "totalNetE": -258.5
  }
 }
