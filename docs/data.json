@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 06:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 07:09（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.52,
-   "c": -0.88,
+   "p": 88.64,
+   "c": -0.75,
    "a50": 84.58,
    "a200": 83.2,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.19,
-   "r": 49.9
+   "a20": 88.2,
+   "r": 50.1
   },
   {
    "s": "GC=F",
-   "p": 4495.2,
-   "c": 0.38,
-   "a50": 4214.2,
+   "p": 4495.5,
+   "c": 0.39,
+   "a50": 4214.21,
    "a200": 4515.34,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4434.76,
+   "a20": 4434.78,
    "r": 58.1
   },
   {
    "s": "HG=F",
    "p": 6.69,
-   "c": 2.02,
+   "c": 1.97,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 60.2
+   "r": 60.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03156566,
-   "c": -0.05,
+   "p": 0.03157562,
+   "c": -0.04,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010005.aspx"
   },
   {
-   "t": "Man posed as a 49ers player and convinced 26 women to hand over $1.3 million in romance scam scheme",
+   "t": "Marvell Wins Wall Street. Google Bets $12 Billion. Amazon Fears Fade.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/man-posed-49ers-player-convinced-142000089.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/marvell-wins-wall-street-google-144502254.html"
   },
   {
    "t": "台韓受惠AI熱潮　高盛：韓國人口老化過快難享紅利",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310321.aspx"
   },
   {
-   "t": "A Major $12.9 Billion Catalyst Is Brewing for Nvidia Stock",
+   "t": "Despite Impressive Results, Nvidia Stock May Be Stuck in a Range - What's the Best Play?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/major-12-9-billion-catalyst-141502070.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/despite-impressive-results-nvidia-stock-143002477.html"
   },
   {
    "t": "今彩539第115211期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608310320.aspx"
   },
   {
-   "t": "Despite Impressive Results, Nvidia Stock May Be Stuck in a Range - What's the Best Play?",
+   "t": "A $3.13 Billion Reason to Buy Zoom Communications Stock Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/despite-impressive-results-nvidia-stock-143002477.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3-13-billion-reason-buy-150002113.html"
   },
   {
    "t": "SEMICON半導體展　友達秀玻璃核心基板技術",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310319.aspx"
   },
   {
-   "t": "Marvell Wins Wall Street. Google Bets $12 Billion. Amazon Fears Fade.",
+   "t": "Why Billionaire Founder Jack Ma Just Bought $76.5 Million Worth of Alibaba Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/marvell-wins-wall-street-google-144502254.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-billionaire-founder-jack-ma-150002705.html"
   },
   {
    "t": "威力彩第115070期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608310318.aspx"
   },
   {
-   "t": "Here's How Much You'd Have if You Invested $1,000 in NVIDIA Stock in 2010",
+   "t": "Jim Cramer delivers unmistakable verdict on vital tech giant",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-1-141747252.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-delivers-unmistakable-verdict-143700553.html"
   }
  ],
  "inst": {
