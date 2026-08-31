@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31 14:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-31 14:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 90.76,
-   "c": 1.62,
+   "p": 90.79,
+   "c": 1.66,
    "a50": 84.62,
    "a200": 83.21,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.3,
-   "r": 54.0
+   "a20": 88.31,
+   "r": 54.1
   },
   {
    "s": "GC=F",
-   "p": 4480.0,
-   "c": 0.04,
-   "a50": 4213.9,
-   "a200": 4515.26,
+   "p": 4482.6,
+   "c": 0.1,
+   "a50": 4213.95,
+   "a200": 4515.28,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4434.0,
-   "r": 57.1
+   "a20": 4434.13,
+   "r": 57.3
   },
   {
    "s": "HG=F",
-   "p": 6.66,
-   "c": 1.55,
+   "p": 6.67,
+   "c": 1.58,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 58.7
+   "r": 58.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03156566,
-   "c": -0.05,
+   "p": 0.03157562,
+   "c": -0.03,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310075.aspx"
   },
   {
-   "t": "Oracle vs. Microsoft: Big Tech’s AI Cloud Battle Has a New Underdog",
+   "t": "A $100 Billion Buildout In Louisiana Is Planned for Starship. What This Means for SPCX Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-microsoft-big-tech-183002599.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/100-billion-buildout-louisiana-planned-193002508.html"
   },
   {
    "t": "AI投資帶動財報成長　科技巨擘獲利增1600億美元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310069.aspx"
   },
   {
-   "t": "Intel vs. AMD: Why the Market Share Number Is Misleading",
+   "t": "Oracle vs. Microsoft: Big Tech’s AI Cloud Battle Has a New Underdog",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-amd-why-market-183002932.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-microsoft-big-tech-183002599.html"
   },
   {
    "t": "日圓兌美元再破160關卡　美財長：走勢受控未失序",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310068.aspx"
   },
   {
-   "t": "A $100 Billion Buildout In Louisiana Is Planned for Starship. What This Means for SPCX Stock.",
+   "t": "Intel vs. AMD: Why the Market Share Number Is Misleading",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/100-billion-buildout-louisiana-planned-193002508.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-amd-why-market-183002932.html"
   },
   {
    "t": "台股盤中跌逾800點　CPO、記憶體股相對強勢",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608310047.aspx"
   },
   {
-   "t": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+   "t": "Wall Street used to worry that too much U.S. debt would crowd out the private sector. But AI hyperscalers are ‘reverse crowding’ the Treasury",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/sony-music-warner-sue-anthropic-184159740.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/wall-street-used-worry-too-185900607.html"
   }
  ],
  "inst": {
