@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 07:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 07:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.63,
-   "c": -0.76,
+   "p": 88.58,
+   "c": -0.82,
    "a50": 84.58,
    "a200": 83.2,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.2,
-   "r": 50.1
+   "r": 50.0
   },
   {
    "s": "GC=F",
-   "p": 4494.4,
-   "c": 0.36,
-   "a50": 4214.19,
-   "a200": 4515.34,
+   "p": 4491.7,
+   "c": 0.3,
+   "a50": 4214.13,
+   "a200": 4515.32,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4434.72,
-   "r": 58.0
+   "a20": 4434.59,
+   "r": 57.8
   },
   {
    "s": "HG=F",
    "p": 6.69,
-   "c": 2.0,
+   "c": 1.97,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03157562,
-   "c": -0.04,
+   "c": -0.02,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "中東緊張局勢升溫　國際油價走揚",
+   "t": "中東地區情勢緊張　美國股市大多收低",
    "pub": "中央社財經",
    "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/afe/202609010008.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609010010.aspx"
   },
   {
    "t": "Goldman Sachs sends blunt message on oil price, economy",
@@ -344,22 +344,10 @@
    "u": "https://finance.yahoo.com/energy/articles/goldman-sachs-sends-blunt-message-003700417.html"
   },
   {
-   "t": "伊朗情勢緊張推升國際油價　歐洲股市收低",
+   "t": "中東緊張局勢升溫　國際油價走揚",
    "pub": "中央社財經",
    "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/afe/202609010005.aspx"
-  },
-  {
-   "t": "Marvell Wins Wall Street. Google Bets $12 Billion. Amazon Fears Fade.",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/marvell-wins-wall-street-google-144502254.html"
-  },
-  {
-   "t": "台韓受惠AI熱潮　高盛：韓國人口老化過快難享紅利",
-   "pub": "中央社財經",
-   "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310321.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609010008.aspx"
   },
   {
    "t": "A $3.13 Billion Reason to Buy Zoom Communications Stock Now",
@@ -368,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/3-13-billion-reason-buy-150002113.html"
   },
   {
-   "t": "今彩539第115211期　頭獎槓龜",
+   "t": "伊朗情勢緊張推升國際油價　歐洲股市收低",
    "pub": "中央社財經",
-   "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/ahel/202608310320.aspx"
+   "d": "2026-09-01",
+   "u": "https://www.cna.com.tw/news/afe/202609010005.aspx"
   },
   {
    "t": "Why Billionaire Founder Jack Ma Just Bought $76.5 Million Worth of Alibaba Stock",
@@ -380,10 +368,22 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/why-billionaire-founder-jack-ma-150002705.html"
   },
   {
-   "t": "SEMICON半導體展　友達秀玻璃核心基板技術",
+   "t": "台韓受惠AI熱潮　高盛：韓國人口老化過快難享紅利",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310319.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608310321.aspx"
+  },
+  {
+   "t": "Marvell Wins Wall Street. Google Bets $12 Billion. Amazon Fears Fade.",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/marvell-wins-wall-street-google-144502254.html"
+  },
+  {
+   "t": "今彩539第115211期　頭獎槓龜",
+   "pub": "中央社財經",
+   "d": "2026-08-31",
+   "u": "https://www.cna.com.tw/news/ahel/202608310320.aspx"
   },
   {
    "t": "Despite Impressive Results, Nvidia Stock May Be Stuck in a Range - What's the Best Play?",
@@ -392,16 +392,16 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/despite-impressive-results-nvidia-stock-143002477.html"
   },
   {
-   "t": "威力彩第115070期　頭獎槓龜",
+   "t": "SEMICON半導體展　友達秀玻璃核心基板技術",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/ahel/202608310318.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608310319.aspx"
   },
   {
-   "t": "Bull Markets Rise, Bear Markets Fall: Here's How I Use Each to Build Wealth",
+   "t": "Digital Euro Adoption Hinges on Speed—Can the ECB Make It Easy Enough to Use?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bull-markets-rise-bear-markets-145000231.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/digital-euro-adoption-hinges-speed-145133013.html"
   }
  ],
  "inst": {
