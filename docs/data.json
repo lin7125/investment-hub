@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31 14:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-31 14:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 46.8,
-   "c": -6.59,
+   "p": 46.9,
+   "c": -6.39,
    "a50": 55.79,
    "a200": 43.44,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.81,
-   "r": 41.3
+   "a20": 49.82,
+   "r": 41.5
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 90.79,
-   "c": 1.66,
+   "p": 90.59,
+   "c": 1.43,
    "a50": 84.62,
    "a200": 83.21,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.31,
-   "r": 54.1
+   "a20": 88.3,
+   "r": 53.7
   },
   {
    "s": "GC=F",
-   "p": 4482.6,
-   "c": 0.1,
-   "a50": 4213.95,
-   "a200": 4515.28,
+   "p": 4485.8,
+   "c": 0.17,
+   "a50": 4214.01,
+   "a200": 4515.29,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4434.13,
-   "r": 57.3
+   "a20": 4434.29,
+   "r": 57.5
   },
   {
    "s": "HG=F",
-   "p": 6.67,
-   "c": 1.58,
+   "p": 6.68,
+   "c": 1.75,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 58.8
+   "r": 59.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03157562,
-   "c": -0.03,
+   "p": 0.03153579,
+   "c": -0.15,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "7月製造業景氣睽違5年亮繁榮紅燈　下半年續航力待觀察",
+   "t": "MSCI調整台股震盪收跌202點　CPO光學逆勢表現強",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310076.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608310135.aspx"
   },
   {
    "t": "Major fruit grower lays off nearly 1,000 workers",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/major-fruit-grower-lays-off-010300694.html"
   },
   {
-   "t": "防豪雨來襲　水利署成立三級應變小組強化防汛整備",
+   "t": "9月台股期指跌374點",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310075.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608310130.aspx"
   },
   {
    "t": "A $100 Billion Buildout In Louisiana Is Planned for Starship. What This Means for SPCX Stock.",
@@ -356,34 +356,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/100-billion-buildout-louisiana-planned-193002508.html"
   },
   {
-   "t": "AI投資帶動財報成長　科技巨擘獲利增1600億美元",
+   "t": "9月電子期跌　金融期漲",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310069.aspx"
-  },
-  {
-   "t": "Oracle vs. Microsoft: Big Tech’s AI Cloud Battle Has a New Underdog",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-microsoft-big-tech-183002599.html"
-  },
-  {
-   "t": "日圓兌美元再破160關卡　美財長：走勢受控未失序",
-   "pub": "中央社財經",
-   "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310068.aspx"
-  },
-  {
-   "t": "Intel vs. AMD: Why the Market Share Number Is Misleading",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-amd-why-market-183002932.html"
-  },
-  {
-   "t": "台股盤中跌逾800點　CPO、記憶體股相對強勢",
-   "pub": "中央社財經",
-   "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310064.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608310129.aspx"
   },
   {
    "t": "Apple Was Always 1 Step Behind in AI. In Chipmaking, It’s Now 1 Step Ahead.",
@@ -392,16 +368,40 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/apple-always-1-step-behind-203002772.html"
   },
   {
-   "t": "統一發票3-4月千萬獎5張未領　兌領期限9/7",
+   "t": "數發部推AI對抗AI詐騙　攜手Meta等4大平台強化阻詐",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/ahel/202608310047.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608310127.aspx"
   },
   {
-   "t": "Wall Street used to worry that too much U.S. debt would crowd out the private sector. But AI hyperscalers are ‘reverse crowding’ the Treasury",
+   "t": "Solar Has Crossed a Critical Economic Tipping Point",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/wall-street-used-worry-too-185900607.html"
+   "u": "https://finance.yahoo.com/energy/articles/solar-crossed-critical-economic-tipping-210000010.html"
+  },
+  {
+   "t": "台股跌202.98點",
+   "pub": "中央社財經",
+   "d": "2026-08-31",
+   "u": "https://www.cna.com.tw/news/afe/202608310123.aspx"
+  },
+  {
+   "t": "Iran War Adds $330 Billion to Global Energy Import Bill",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/energy/articles/iran-war-adds-330-billion-230000013.html"
+  },
+  {
+   "t": "台股收跌202點守住46100點　台積電尾盤爆逾萬張大量",
+   "pub": "中央社財經",
+   "d": "2026-08-31",
+   "u": "https://www.cna.com.tw/news/afe/202608310121.aspx"
+  },
+  {
+   "t": "Ameresco CEO Sakellaris Buys 5,000 Shares for $113,300. Is This a Sign Renewable Energy Projects are Taking Off?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/energy/articles/ameresco-ceo-sakellaris-buys-5-190701101.html"
   }
  ],
  "inst": {
