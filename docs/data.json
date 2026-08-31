@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 03:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 03:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 315.84,
-   "c": -1.21,
+   "p": 315.85,
+   "c": -1.2,
    "a50": 312.36,
    "a200": 282.81,
    "yh": 340.08,
@@ -223,8 +223,8 @@
   },
   {
    "s": "NVDA",
-   "p": 219.76,
-   "c": 1.02,
+   "p": 219.75,
+   "c": 1.01,
    "a50": 208.6,
    "a200": 195.96,
    "yh": 235.74,
@@ -234,24 +234,24 @@
   },
   {
    "s": "TSLA",
-   "p": 366.65,
-   "c": 5.13,
+   "p": 366.85,
+   "c": 5.19,
    "a50": 359.8,
    "a200": 400.56,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 341.05,
-   "r": 58.2
+   "a20": 341.06,
+   "r": 58.3
   },
   {
    "s": "META",
-   "p": 572.38,
-   "c": -0.98,
+   "p": 572.29,
+   "c": -0.99,
    "a50": 592.05,
    "a200": 622.45,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.88,
+   "a20": 574.87,
    "r": 47.5
   },
   {
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7680.85,
-   "c": -0.4,
-   "a50": 7567.39,
+   "p": 7680.13,
+   "c": -0.41,
+   "a50": 7567.38,
    "a200": 7122.89,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7716.6,
-   "r": 53.0
+   "a20": 7716.56,
+   "r": 52.9
   },
   {
    "s": "^VIX",
-   "p": 15.02,
-   "c": 4.09,
+   "p": 15.03,
+   "c": 4.16,
    "a50": 16.48,
    "a200": 18.39,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.2,
-   "r": 46.4
+   "r": 46.5
   },
   {
    "s": "BZ=F",
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4482.5,
-   "c": 0.1,
-   "a50": 4213.95,
-   "a200": 4515.28,
+   "p": 4485.6,
+   "c": 0.17,
+   "a50": 4214.01,
+   "a200": 4515.29,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4434.13,
-   "r": 57.3
+   "a20": 4434.28,
+   "r": 57.5
   },
   {
    "s": "HG=F",
    "p": 6.68,
-   "c": 1.78,
+   "c": 1.82,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 59.5
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608310318.aspx"
   },
   {
-   "t": "After 35 years of marriage, this couple dreads retiring together — a retirement coach explains why it's so common",
+   "t": "Trump says $465K in savings makes you 'rich.' Financial experts warn it falls short — how much do you actually need?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/35-years-marriage-couple-dreads-093000588.html"
+   "u": "https://finance.yahoo.com/markets/articles/trump-says-465k-savings-makes-110500861.html"
   },
   {
    "t": "雅加達省政府推37項投資案　盼吸引國內外投資",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202608310311.aspx"
   },
   {
-   "t": "Here's My 3-Part Plan for Turning a Bloom Energy Stake Into Real Retirement Income",
+   "t": "Tim Cook Committed Apple to a $60 Billion Domestic Manufacturing Bet Just Weeks Before Handing Off the CEO Job. Here's What It Means for Apple Investors.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/heres-3-part-plan-turning-102001395.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tim-cook-committed-apple-60-103500567.html"
   }
  ],
  "inst": {
