@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31 16:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-31 16:31（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 87.96,
-   "c": -1.51,
+   "p": 88.28,
+   "c": -1.15,
    "a50": 84.57,
-   "a200": 83.19,
+   "a200": 83.2,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.16,
-   "r": 48.9
+   "a20": 88.18,
+   "r": 49.5
   },
   {
    "s": "GC=F",
-   "p": 4492.7,
-   "c": 0.33,
-   "a50": 4214.15,
-   "a200": 4515.33,
+   "p": 4489.8,
+   "c": 0.26,
+   "a50": 4214.09,
+   "a200": 4515.31,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4434.64,
-   "r": 57.9
+   "a20": 4434.49,
+   "r": 57.7
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 1.67,
+   "c": 1.59,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 59.1
+   "r": 58.9
   },
   {
    "s": "TWDUSD",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310121.aspx"
   },
   {
-   "t": "Better International ETF: the iShares IEFA vs. State Street's SPDW",
+   "t": "Elizabeth Warren Accuses Trump Of Profiting  While His Administration Shapes Crypto Policy: 'The President Shouldn’t Be Getting Rich’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/better-international-etf-ishares-iefa-212001961.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/elizabeth-warren-accuses-trump-profiting-213117513.html"
   }
  ],
  "inst": {
