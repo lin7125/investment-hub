@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 05:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 06:07（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -322,7 +322,7 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
+   "p": 0.0315557,
    "c": -0.11,
    "a50": 0.03118179,
    "a200": 0.03156566,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010005.aspx"
   },
   {
-   "t": "Victoria's Secret stock soars nearly 300% as GLP-1 weight-loss drugs help reshape lingerie buying habits",
+   "t": "Everything I Learned from My Hot Chart Summer, and How My 21 Stocks Picks Have Performed.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/victorias-secret-stock-soars-nearly-130000704.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/everything-learned-hot-chart-summer-133002092.html"
   },
   {
    "t": "台韓受惠AI熱潮　高盛：韓國人口老化過快難享紅利",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310321.aspx"
   },
   {
-   "t": "Is Advanced Micro Devices Stock Outperforming the Dow?",
+   "t": "Josh Brown Says ‘Take a Break From AI CapEx World,’ Highlights His 2 Top Healthcare Stock Picks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-stock-outperforming-122944212.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/josh-brown-says-break-ai-134507001.html"
   },
   {
    "t": "今彩539第115211期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608310320.aspx"
   },
   {
-   "t": "Come on, Target. Do better.",
+   "t": "Victoria's Secret stock soars nearly 300% as GLP-1 weight-loss drugs help reshape lingerie buying habits",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/come-on-target-do-better-123000000.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/victorias-secret-stock-soars-nearly-130000704.html"
   },
   {
    "t": "SEMICON半導體展　友達秀玻璃核心基板技術",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310319.aspx"
   },
   {
-   "t": "Michigan woman to dip into her $50,000 in stocks to cover her brother-in-law's unpaid HOA fees or face foreclosure",
+   "t": "A Major $12.9 Billion Catalyst Is Brewing for Nvidia Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/michigan-woman-dip-her-50-123000768.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/major-12-9-billion-catalyst-141502070.html"
   },
   {
    "t": "威力彩第115070期　頭獎槓龜",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/ahel/202608310318.aspx"
   },
   {
-   "t": "US leveraged single-stock ETF boom shows signs of cooling",
+   "t": "Where Will the Vanguard S&P 500 ETF (VOO) Be in 20 Years? Here's What History Suggests.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/us-leveraged-single-stock-etf-130300313.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/where-vanguard-p-500-etf-132900788.html"
   }
  ],
  "inst": {
-  "date": "2026-08-28",
+  "date": "2026-08-31",
   "byCode": {
-   "1802": {
-    "f": 11554,
+   "2305": {
+    "f": 546,
     "t": 0,
-    "all": 13336
-   },
-   "2330": {
-    "f": 3031,
-    "t": -1765,
-    "all": 1243
-   },
-   "2454": {
-    "f": 1096,
-    "t": -118,
-    "all": 996
-   },
-   "2317": {
-    "f": 1192,
-    "t": 307,
-    "all": 776
-   },
-   "2308": {
-    "f": 1163,
-    "t": -732,
-    "all": 546
-   },
-   "6706": {
-    "f": 155,
-    "t": 0,
-    "all": 125
-   },
-   "4722": {
-    "f": 115,
-    "t": 0,
-    "all": 96
+    "all": 565
    },
    "6442": {
-    "f": 132,
-    "t": -32,
-    "all": 83
+    "f": 236,
+    "t": -66,
+    "all": 176
    },
-   "6515": {
-    "f": -24,
-    "t": -3,
-    "all": -25
+   "2308": {
+    "f": 271,
+    "t": -161,
+    "all": 99
    },
-   "6862": {
-    "f": -52,
+   "6706": {
+    "f": 103,
     "t": 0,
-    "all": -48
+    "all": 98
    },
    "3701": {
-    "f": -134,
+    "f": 50,
     "t": 0,
-    "all": -135
+    "all": 51
+   },
+   "4722": {
+    "f": 0,
+    "t": 0,
+    "all": -11
+   },
+   "6862": {
+    "f": -17,
+    "t": 0,
+    "all": -19
+   },
+   "6515": {
+    "f": -15,
+    "t": -16,
+    "all": -35
+   },
+   "2454": {
+    "f": -614,
+    "t": -330,
+    "all": -955
    },
    "6446": {
-    "f": -187,
-    "t": -5,
-    "all": -192
+    "f": -1739,
+    "t": 4,
+    "all": -1800
    },
-   "2305": {
-    "f": -897,
-    "t": 0,
-    "all": -900
+   "1802": {
+    "f": -2265,
+    "t": 47,
+    "all": -2238
+   },
+   "2317": {
+    "f": -3856,
+    "t": 166,
+    "all": -4059
+   },
+   "2330": {
+    "f": -4555,
+    "t": -962,
+    "all": -5695
    },
    "2327": {
-    "f": -2216,
-    "t": -1106,
-    "all": -2762
+    "f": -13469,
+    "t": -3642,
+    "all": -16927
    }
   },
-  "totalNetE": 458.3
+  "totalNetE": -258.5
  }
 }
