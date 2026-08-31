@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31 14:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-31 14:48（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 46.9,
-   "c": -6.39,
-   "a50": 55.79,
+   "p": 46.65,
+   "c": -6.89,
+   "a50": 55.78,
    "a200": 43.44,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.82,
-   "r": 41.5
+   "a20": 49.81,
+   "r": 41.1
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 90.59,
-   "c": 1.43,
+   "p": 90.64,
+   "c": 1.49,
    "a50": 84.62,
    "a200": 83.21,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.3,
-   "r": 53.7
+   "r": 53.8
   },
   {
    "s": "GC=F",
-   "p": 4485.8,
-   "c": 0.17,
-   "a50": 4214.01,
-   "a200": 4515.29,
+   "p": 4487.0,
+   "c": 0.2,
+   "a50": 4214.04,
+   "a200": 4515.3,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4434.29,
+   "a20": 4434.35,
    "r": 57.5
   },
   {
    "s": "HG=F",
    "p": 6.68,
-   "c": 1.75,
+   "c": 1.81,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 59.4
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03153579,
-   "c": -0.15,
+   "c": -0.17,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310121.aspx"
   },
   {
-   "t": "Ameresco CEO Sakellaris Buys 5,000 Shares for $113,300. Is This a Sign Renewable Energy Projects are Taking Off?",
+   "t": "If You'd Invested $1,000 in McDonald's 25 Years Ago, Here's How Much You'd Have Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/ameresco-ceo-sakellaris-buys-5-190701101.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-mcdonalds-190900852.html"
   }
  ],
  "inst": {
