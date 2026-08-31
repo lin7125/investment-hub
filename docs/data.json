@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31 18:23（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-08-31 18:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 15.21,
-   "c": 5.41,
+   "p": 15.23,
+   "c": 5.54,
    "a50": 16.48,
    "a200": 18.39,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.21,
-   "r": 47.5
+   "r": 47.6
   },
   {
    "s": "BZ=F",
-   "p": 89.09,
-   "c": -0.25,
+   "p": 88.88,
+   "c": -0.48,
    "a50": 84.59,
    "a200": 83.2,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.22,
-   "r": 51.0
+   "a20": 88.21,
+   "r": 50.6
   },
   {
    "s": "GC=F",
-   "p": 4500.0,
-   "c": 0.49,
-   "a50": 4214.3,
+   "p": 4499.4,
+   "c": 0.48,
+   "a50": 4214.29,
    "a200": 4515.36,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4435.0,
-   "r": 58.4
+   "a20": 4434.97,
+   "r": 58.3
   },
   {
    "s": "HG=F",
-   "p": 6.66,
-   "c": 1.57,
+   "p": 6.67,
+   "c": 1.61,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 58.8
+   "r": 58.9
   },
   {
    "s": "TWDUSD",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "經部核准美商科林增資台灣98億　攻先進半導體設備研發",
+   "t": "華許放鷹新台幣爆量小貶　8月仍強升6.26角",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310201.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608310249.aspx"
   },
   {
    "t": "Major fruit grower lays off nearly 1,000 workers",
@@ -344,22 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/major-fruit-grower-lays-off-010300694.html"
   },
   {
-   "t": "中研院：台廠應切入大型量子電腦　掌握CPU對接需求",
+   "t": "中油9月民生與工業天然氣價凍漲　電業漲5.83%",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310192.aspx"
-  },
-  {
-   "t": "Best high-yield savings interest rates today, Monday, August 31, 2026: Earn up to 4.15% APY",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-31-2026-earn-up-to-415-apy-100000500.html"
-  },
-  {
-   "t": "新台幣貶3.8分　收31.666元",
-   "pub": "中央社財經",
-   "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310190.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608310248.aspx"
   },
   {
    "t": "It's Tim Cook's last day as Apple CEO. Investors are $4 trillion richer because of him.",
@@ -368,10 +356,22 @@
    "u": "https://finance.yahoo.com/markets/stocks/article/its-tim-cooks-last-day-as-apple-ceo-investors-are-4-trillion-richer-because-of-him-230325985.html"
   },
   {
-   "t": "卓榮泰：上半年臨櫃關懷阻詐43億　擬修法強化執法",
+   "t": "合庫金：不排除Fed升息1碼　央行升息的腳已踩在油門上",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310189.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202608310243.aspx"
+  },
+  {
+   "t": "Best high-yield savings interest rates today, Monday, August 31, 2026: Earn up to 4.15% APY",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-31-2026-earn-up-to-415-apy-100000500.html"
+  },
+  {
+   "t": "半導體今年營收估逾1.5兆美元　材料連2年成長2位數",
+   "pub": "中央社財經",
+   "d": "2026-08-31",
+   "u": "https://www.cna.com.tw/news/afe/202608310241.aspx"
   },
   {
    "t": "Mortgage and refinance interest rates today, Monday, August 31, 2026: Purchase rates currently higher than refinance rates",
@@ -380,28 +380,28 @@
    "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-august-31-2026-purchase-rates-currently-higher-than-refinance-rates-100000904.html"
   },
   {
-   "t": "8月房市北強南弱　房仲：央行動向、股房資金牽動後市",
+   "t": "市場權衡華許放鷹和中東局勢　亞股多收黑",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/afe/202608310186.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608310230.aspx"
   },
   {
-   "t": "Best CD rates today, Monday, August 31, 2026: Lock in up to 4.30% APY",
+   "t": "HELOC and home equity loan rates today, Monday, August 31, 2026: A 19-basis-point differential",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-31-2026-lock-in-up-to-430-apy-100000028.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-31-2026-a-19-basis-point-differential-100000999.html"
   },
   {
-   "t": "升息預期強  日本10年債殖利率飆2.95%創近30年新高",
+   "t": "新加坡加碼投資金融科技　55億鞏固金融中心競爭力",
    "pub": "中央社財經",
    "d": "2026-08-31",
-   "u": "https://www.cna.com.tw/news/aopl/202608310185.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202608310224.aspx"
   },
   {
-   "t": "At 67, He Worked 40 Hours on One Bridge Slide. Social Security Kept Paying. His Union Pension Stopped.",
+   "t": "Warren Buffett Has Recommended This 1 Investment for Decades. History Says It Could Turn $100 per Month Into $225,000.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/67-worked-40-hours-one-100521691.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-recommended-1-investment-102000595.html"
   }
  ],
  "inst": {
