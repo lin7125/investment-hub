@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 06:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 06:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4497.3,
-   "c": 0.43,
-   "a50": 4214.24,
-   "a200": 4515.35,
+   "p": 4501.5,
+   "c": 0.52,
+   "a50": 4214.33,
+   "a200": 4515.37,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4434.87,
-   "r": 58.2
+   "a20": 4435.08,
+   "r": 58.5
   },
   {
    "s": "HG=F",
    "p": 6.69,
-   "c": 1.94,
+   "c": 2.0,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 60.0
+   "r": 60.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315557,
-   "c": -0.11,
+   "p": 0.03156566,
+   "c": -0.08,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608310318.aspx"
   },
   {
-   "t": "Where Will the Vanguard S&P 500 ETF (VOO) Be in 20 Years? Here's What History Suggests.",
+   "t": "Elon Musk Owns 48.4% of SpaceX, a New Filing Shows. Here's Why That Matters for Everyone Else Holding the Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/where-vanguard-p-500-etf-132900788.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-owns-48-4-133500566.html"
   }
  ],
  "inst": {
