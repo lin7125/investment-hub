@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 08:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 08:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.75,
-   "c": -0.63,
+   "p": 88.8,
+   "c": -0.57,
    "a50": 84.58,
    "a200": 83.2,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.2,
+   "a20": 88.21,
    "r": 50.4
   },
   {
    "s": "GC=F",
-   "p": 4509.8,
-   "c": 0.71,
-   "a50": 4214.49,
+   "p": 4508.7,
+   "c": 0.68,
+   "a50": 4214.47,
    "a200": 4515.41,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4435.49,
-   "r": 59.0
+   "a20": 4435.44,
+   "r": 58.9
   },
   {
    "s": "HG=F",
-   "p": 6.71,
-   "c": 2.3,
+   "p": 6.72,
+   "c": 2.39,
    "a50": 6.39,
    "a200": 5.96,
-   "yh": 6.71,
+   "yh": 6.72,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 61.1
+   "r": 61.3
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010005.aspx"
   },
   {
-   "t": "Is Advanced Micro Devices Stock Outperforming the Dow?",
+   "t": "Everything I Learned from My Hot Chart Summer, and How My 21 Stocks Picks Have Performed.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-stock-outperforming-122944212.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/everything-learned-hot-chart-summer-133002092.html"
   },
   {
    "t": "台韓受惠AI熱潮　高盛：韓國人口老化過快難享紅利",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310321.aspx"
   },
   {
-   "t": "Michigan woman to dip into her $50,000 in stocks to cover her brother-in-law's unpaid HOA fees or face foreclosure",
+   "t": "Josh Brown Says ‘Take a Break From AI CapEx World,’ Highlights His 2 Top Healthcare Stock Picks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/michigan-woman-dip-her-50-123000768.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/josh-brown-says-break-ai-134507001.html"
   },
   {
    "t": "今彩539第115211期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608310320.aspx"
   },
   {
-   "t": "Come on, Target. Do better.",
+   "t": "A Major $12.9 Billion Catalyst Is Brewing for Nvidia Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/come-on-target-do-better-123000000.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/major-12-9-billion-catalyst-141502070.html"
   },
   {
    "t": "SEMICON半導體展　友達秀玻璃核心基板技術",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310319.aspx"
   },
   {
-   "t": "Hock Tan Guided Broadcom Past $100 Billion of AI Revenue in 2027. The Stock Is 25% off Its High.",
+   "t": "US leveraged single-stock ETF boom shows signs of cooling",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/hock-tan-guided-broadcom-past-125801165.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/us-leveraged-single-stock-etf-130300313.html"
   }
  ],
  "inst": {
