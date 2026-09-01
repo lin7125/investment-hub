@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 06:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 06:11（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.22,
-   "c": 5.23,
-   "a50": 84.96,
+   "p": 95.31,
+   "c": 5.33,
+   "a50": 84.97,
    "a200": 83.37,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.08,
-   "r": 60.9
+   "a20": 89.09,
+   "r": 61.0
   },
   {
    "s": "GC=F",
-   "p": 4375.7,
-   "c": -1.25,
-   "a50": 4216.8,
-   "a200": 4515.88,
+   "p": 4379.1,
+   "c": -1.17,
+   "a50": 4216.86,
+   "a200": 4515.89,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4445.58,
-   "r": 49.0
+   "a20": 4445.74,
+   "r": 49.2
   },
   {
    "s": "HG=F",
-   "p": 6.53,
-   "c": -0.9,
+   "p": 6.54,
+   "c": -0.82,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.59,
-   "r": 50.5
+   "r": 50.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03159558,
-   "c": 0.13,
+   "c": -0.06,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010368.aspx"
   },
   {
-   "t": "Mobility Global (MBGL): A Promising New Player in the Automotive Sector",
+   "t": "Entegris (ENTG) Surged on Increased Demand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mobility-global-mbgl-promising-player-133854452.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/entegris-entg-surged-increased-demand-135110193.html"
   },
   {
    "t": "國際半導體展　所羅門秀晶圓翹曲及玻璃通孔檢測方案",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010365.aspx"
   },
   {
-   "t": "Is American Express Stock Underperforming the Nasdaq?",
+   "t": "Is Caterpillar Stock Outperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/american-express-stock-underperforming-nasdaq-133257971.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-stock-outperforming-dow-134934196.html"
   },
   {
    "t": "30家業者推安養信託　財產本金逾2000億年增3成",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010358.aspx"
   },
   {
-   "t": "S&P Global’s (SPGI) Remaining Divisions Showcase Strong Profitability Post Spin-Out",
+   "t": "Martin Marietta Materials (MLM) Stock Pulls Back on Expectations, Fundamentals Intact",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-remaining-divisions-133015336.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/martin-marietta-materials-mlm-stock-135247614.html"
   }
  ],
  "inst": {
