@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 15:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 15:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,36 +278,36 @@
   },
   {
    "s": "^VIX",
-   "p": 14.92,
-   "c": 2.83,
-   "a50": 16.52,
-   "a200": 18.4,
+   "p": 14.95,
+   "c": 0.2,
+   "a50": 16.49,
+   "a200": 18.39,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.27,
-   "r": 45.6
+   "a20": 15.22,
+   "r": 45.8
   },
   {
    "s": "BZ=F",
-   "p": 89.28,
-   "c": -1.34,
+   "p": 89.31,
+   "c": -1.3,
    "a50": 84.85,
    "a200": 83.34,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 88.79,
-   "r": 51.1
+   "r": 51.2
   },
   {
    "s": "GC=F",
-   "p": 4480.3,
-   "c": 1.11,
-   "a50": 4218.89,
-   "a200": 4516.4,
+   "p": 4475.7,
+   "c": 1.01,
+   "a50": 4218.8,
+   "a200": 4516.38,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4450.8,
-   "r": 56.4
+   "a20": 4450.58,
+   "r": 56.1
   },
   {
    "s": "HG=F",
@@ -318,12 +318,12 @@
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 61.1
+   "r": 61.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03160556,
-   "c": -0.04,
+   "c": -0.05,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010132.aspx"
   },
   {
-   "t": "Chevron Stock: Is CVX Underperforming the Energy Sector?",
+   "t": "Ethereum Price Prediction: Key On-Chain Metric Flashes “Buy” at $2,500",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-cvx-underperforming-energy-193129112.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-key-chain-204758899.html"
   },
   {
    "t": "台積電漲35元聯發科漲停　台股漲820點創近2個月新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010130.aspx"
   },
   {
-   "t": "Uber Spent Its Entire 2026 AI Budget in 4 Months. It Just Found a Way to Fix It.",
+   "t": "Chevron Stock: Is CVX Underperforming the Energy Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/uber-spent-entire-2026-ai-193002803.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-cvx-underperforming-energy-193129112.html"
   },
   {
    "t": "荷莫茲海峽幾乎停擺　船隻通行量僅剩個位數",
