@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 14:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 14:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.53,
-   "c": -2.17,
-   "a50": 84.83,
+   "p": 88.92,
+   "c": -1.73,
+   "a50": 84.84,
    "a200": 83.34,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.75,
-   "r": 49.7
+   "a20": 88.77,
+   "r": 50.4
   },
   {
    "s": "GC=F",
-   "p": 4491.7,
-   "c": 1.37,
-   "a50": 4219.12,
-   "a200": 4516.46,
+   "p": 4486.1,
+   "c": 1.24,
+   "a50": 4219.0,
+   "a200": 4516.43,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4451.38,
-   "r": 57.1
+   "a20": 4451.09,
+   "r": 56.8
   },
   {
    "s": "HG=F",
-   "p": 6.73,
-   "c": 2.04,
+   "p": 6.72,
+   "c": 1.9,
    "a50": 6.4,
    "a200": 5.96,
-   "yh": 6.73,
+   "yh": 6.72,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 62.2
+   "r": 61.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03161555,
-   "c": -0.0,
+   "p": 0.03163556,
+   "c": 0.06,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609010101.aspx"
   },
   {
-   "t": "PepsiCo Stock: Is PEP Underperforming the Consumer Defensive Sector?",
+   "t": "Wu-Tang Clan Member Raekwon Is a Palantir ‘OG,’ Visiting Headquarters 16 Years After Receiving His Custom PLTR Jacket",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/pepsico-stock-pep-underperforming-consumer-182650291.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/wu-tang-clan-member-raekwon-183002606.html"
   },
   {
    "t": "徐秀蘭：台灣助全球AI發展　電力和算力面臨壓力",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010091.aspx"
   },
   {
-   "t": "Wu-Tang Clan Member Raekwon Is a Palantir ‘OG,’ Visiting Headquarters 16 Years After Receiving His Custom PLTR Jacket",
+   "t": "Pinterest’s (PINS) CFO Exit Tests Whether The Growth Story Holds",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/wu-tang-clan-member-raekwon-183002606.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/pinterest-pins-cfo-exit-tests-182159557.html"
   },
   {
    "t": "新台幣午盤升3.5分　暫收31.631元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010088.aspx"
   },
   {
-   "t": "Pinterest’s (PINS) CFO Exit Tests Whether The Growth Story Holds",
+   "t": "PepsiCo Stock: Is PEP Underperforming the Consumer Defensive Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/pinterest-pins-cfo-exit-tests-182159557.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/pepsico-stock-pep-underperforming-consumer-182650291.html"
   },
   {
    "t": "台積電：3DFabric異質整合加速AI運算　助散熱冷卻",
