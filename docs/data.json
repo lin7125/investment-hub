@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 14:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 14:25（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.94,
-   "c": -1.71,
+   "p": 88.91,
+   "c": -1.75,
    "a50": 84.84,
    "a200": 83.34,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4485.3,
-   "c": 1.22,
-   "a50": 4218.99,
-   "a200": 4516.42,
+   "p": 4481.8,
+   "c": 1.14,
+   "a50": 4218.92,
+   "a200": 4516.41,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4451.05,
-   "r": 56.7
+   "a20": 4450.88,
+   "r": 56.5
   },
   {
    "s": "HG=F",
-   "p": 6.72,
-   "c": 1.93,
+   "p": 6.7,
+   "c": 1.69,
    "a50": 6.4,
    "a200": 5.96,
-   "yh": 6.72,
+   "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 61.8
+   "r": 61.1
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010136.aspx"
   },
   {
-   "t": "Wu-Tang Clan Member Raekwon Is a Palantir ‘OG,’ Visiting Headquarters 16 Years After Receiving His Custom PLTR Jacket",
+   "t": "AI Was Supposed to Kill Wix. Google Just Gave It a Way to Fight Back.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/wu-tang-clan-member-raekwon-183002606.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-supposed-kill-wix-google-183751576.html"
   },
   {
    "t": "9月台股期指漲1232點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010134.aspx"
   },
   {
-   "t": "Pinterest’s (PINS) CFO Exit Tests Whether The Growth Story Holds",
+   "t": "Frontline (FRO) Just Delivered Its Best Quarter Yet, But Can It Last?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/pinterest-pins-cfo-exit-tests-182159557.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/frontline-fro-just-delivered-best-184112065.html"
   },
   {
    "t": "台股漲820.25點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010132.aspx"
   },
   {
-   "t": "PepsiCo Stock: Is PEP Underperforming the Consumer Defensive Sector?",
+   "t": "Miniso (MNSO) Booming Membership Growth Collides With A Struggling Global Expansion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/pepsico-stock-pep-underperforming-consumer-182650291.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/miniso-mnso-booming-membership-growth-184952315.html"
   },
   {
    "t": "台積電漲35元聯發科漲停　台股漲820點創近2個月新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010130.aspx"
   },
   {
-   "t": "AI Was Supposed to Kill Wix. Google Just Gave It a Way to Fight Back.",
+   "t": "Is Bank of America Stock Outperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-supposed-kill-wix-google-183751576.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-stock-outperforming-dow-185346172.html"
   },
   {
    "t": "荷莫茲海峽幾乎停擺　船隻通行量僅剩個位數",
