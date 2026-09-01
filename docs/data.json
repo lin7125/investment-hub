@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 14:56（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 15:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 46.9,
-   "c": 0.75,
+   "p": 46.95,
+   "c": 0.86,
    "a50": 55.06,
    "a200": 43.61,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.68,
-   "r": 41.7
+   "a20": 49.69,
+   "r": 41.9
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.83,
-   "c": -1.83,
+   "p": 88.86,
+   "c": -1.8,
    "a50": 84.84,
    "a200": 83.34,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.76,
-   "r": 50.2
+   "a20": 88.77,
+   "r": 50.3
   },
   {
    "s": "GC=F",
-   "p": 4482.3,
-   "c": 1.16,
-   "a50": 4218.93,
-   "a200": 4516.41,
+   "p": 4478.9,
+   "c": 1.08,
+   "a50": 4218.86,
+   "a200": 4516.39,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4450.9,
-   "r": 56.6
+   "a20": 4450.73,
+   "r": 56.3
   },
   {
    "s": "HG=F",
-   "p": 6.71,
-   "c": 1.72,
+   "p": 6.7,
+   "c": 1.64,
    "a50": 6.4,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 61.2
+   "r": 60.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03161555,
-   "c": -0.02,
+   "p": 0.03159558,
+   "c": -0.09,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010136.aspx"
   },
   {
-   "t": "Is Merck Stock Outperforming the Nasdaq?",
+   "t": "How Is AbbVie’s Stock Performance Compared to Other Healthcare Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/merck-stock-outperforming-nasdaq-191534975.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/abbvie-stock-performance-compared-other-192104509.html"
   },
   {
    "t": "9月台股期指漲1232點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010134.aspx"
   },
   {
-   "t": "How Is AbbVie’s Stock Performance Compared to Other Healthcare Stocks",
+   "t": "Is Merck Stock Outperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/abbvie-stock-performance-compared-other-192104509.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/merck-stock-outperforming-nasdaq-191534975.html"
   },
   {
    "t": "台股漲820.25點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010132.aspx"
   },
   {
-   "t": "Uber Spent Its Entire 2026 AI Budget in 4 Months. It Just Found a Way to Fix It.",
+   "t": "Chevron Stock: Is CVX Underperforming the Energy Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/uber-spent-entire-2026-ai-193002803.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-cvx-underperforming-energy-193129112.html"
   },
   {
    "t": "台積電漲35元聯發科漲停　台股漲820點創近2個月新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010130.aspx"
   },
   {
-   "t": "Chevron Stock: Is CVX Underperforming the Energy Sector?",
+   "t": "Uber Spent Its Entire 2026 AI Budget in 4 Months. It Just Found a Way to Fix It.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-cvx-underperforming-energy-193129112.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/uber-spent-entire-2026-ai-193002803.html"
   },
   {
    "t": "荷莫茲海峽幾乎停擺　船隻通行量僅剩個位數",
