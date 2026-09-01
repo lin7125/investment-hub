@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 14:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 14:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 88.86,
-   "c": -1.8,
+   "p": 88.79,
+   "c": -1.88,
    "a50": 84.84,
    "a200": 83.34,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.77,
-   "r": 50.3
+   "a20": 88.76,
+   "r": 50.2
   },
   {
    "s": "GC=F",
-   "p": 4481.4,
-   "c": 1.14,
-   "a50": 4218.91,
-   "a200": 4516.41,
+   "p": 4480.3,
+   "c": 1.11,
+   "a50": 4218.89,
+   "a200": 4516.4,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4450.86,
-   "r": 56.5
+   "a20": 4450.8,
+   "r": 56.4
   },
   {
    "s": "HG=F",
    "p": 6.71,
-   "c": 1.8,
+   "c": 1.79,
    "a50": 6.4,
    "a200": 5.96,
    "yh": 6.71,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03161555,
-   "c": -0.01,
+   "c": -0.02,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010136.aspx"
   },
   {
-   "t": "Is Bank of America Stock Outperforming the Dow?",
+   "t": "Is Merck Stock Outperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-stock-outperforming-dow-185346172.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/merck-stock-outperforming-nasdaq-191534975.html"
   },
   {
    "t": "9月台股期指漲1232點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010134.aspx"
   },
   {
-   "t": "Miniso (MNSO) Booming Membership Growth Collides With A Struggling Global Expansion",
+   "t": "How Is AbbVie’s Stock Performance Compared to Other Healthcare Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/miniso-mnso-booming-membership-growth-184952315.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/abbvie-stock-performance-compared-other-192104509.html"
   },
   {
    "t": "台股漲820.25點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010132.aspx"
   },
   {
-   "t": "Is Merck Stock Outperforming the Nasdaq?",
+   "t": "Is Bank of America Stock Outperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/merck-stock-outperforming-nasdaq-191534975.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-stock-outperforming-dow-185346172.html"
   },
   {
    "t": "台積電漲35元聯發科漲停　台股漲820點創近2個月新高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010130.aspx"
   },
   {
-   "t": "How Is AbbVie’s Stock Performance Compared to Other Healthcare Stocks",
+   "t": "Uber Spent Its Entire 2026 AI Budget in 4 Months. It Just Found a Way to Fix It.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/abbvie-stock-performance-compared-other-192104509.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/uber-spent-entire-2026-ai-193002803.html"
   },
   {
    "t": "荷莫茲海峽幾乎停擺　船隻通行量僅剩個位數",
