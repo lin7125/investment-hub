@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 07:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 08:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,14 +300,14 @@
   },
   {
    "s": "GC=F",
-   "p": 4494.5,
-   "c": 0.37,
-   "a50": 4214.19,
+   "p": 4495.4,
+   "c": 0.39,
+   "a50": 4214.21,
    "a200": 4515.34,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4434.73,
-   "r": 58.0
+   "a20": 4434.77,
+   "r": 58.1
   },
   {
    "s": "HG=F",
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03156566,
-   "c": -0.06,
+   "c": -0.07,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310321.aspx"
   },
   {
-   "t": "A $3.13 Billion Reason to Buy Zoom Communications Stock Now",
+   "t": "Why Billionaire Founder Jack Ma Just Bought $76.5 Million Worth of Alibaba Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/3-13-billion-reason-buy-150002113.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-billionaire-founder-jack-ma-150002705.html"
   },
   {
    "t": "今彩539第115211期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202608310320.aspx"
   },
   {
-   "t": "Why Billionaire Founder Jack Ma Just Bought $76.5 Million Worth of Alibaba Stock",
+   "t": "A $3.13 Billion Reason to Buy Zoom Communications Stock Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-billionaire-founder-jack-ma-150002705.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3-13-billion-reason-buy-150002113.html"
   },
   {
    "t": "SEMICON半導體展　友達秀玻璃核心基板技術",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202608310319.aspx"
   },
   {
-   "t": "1 Stat That Makes Hershey Stock Hard to Ignore Heading Into Fall",
+   "t": "Humana Is Cutting Medicare Advantage Plans for 2027. The Non-Renewal Letters Arrive in Early October.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/1-stat-makes-hershey-stock-152200491.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/humana-cutting-medicare-advantage-plans-153022830.html"
   }
  ],
  "inst": {
