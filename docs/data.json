@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 18:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 19:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.87,
-   "c": 6.37,
-   "a50": 16.51,
+   "p": 15.76,
+   "c": 5.63,
+   "a50": 16.5,
    "a200": 18.39,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.27,
-   "r": 50.6
+   "a20": 15.26,
+   "r": 50.1
   },
   {
    "s": "BZ=F",
-   "p": 92.31,
-   "c": 2.01,
-   "a50": 84.91,
+   "p": 91.81,
+   "c": 1.46,
+   "a50": 84.9,
    "a200": 83.35,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.94,
-   "r": 56.7
+   "a20": 88.91,
+   "r": 55.9
   },
   {
    "s": "GC=F",
-   "p": 4423.4,
-   "c": -0.17,
-   "a50": 4217.75,
-   "a200": 4516.12,
+   "p": 4432.8,
+   "c": 0.04,
+   "a50": 4217.94,
+   "a200": 4516.16,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4447.96,
-   "r": 52.5
+   "a20": 4448.43,
+   "r": 53.3
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 0.17,
+   "c": 0.03,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.59,
-   "r": 55.6
+   "r": 55.0
   },
   {
    "s": "TWDUSD",
    "p": 0.0315557,
-   "c": -0.19,
+   "c": -0.21,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "日本升息預期增強  10年期國債殖利率睽違30年升至3%",
+   "t": "宇沛永續：半導體製程廢水利用　節能50%",
    "pub": "中央社財經",
    "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/afe/202609010208.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609010317.aspx"
   },
   {
    "t": "Firearms retailer files Chapter 11 bankruptcy as gun sales drop",
@@ -344,34 +344,22 @@
    "u": "https://finance.yahoo.com/small-business/articles/firearms-retailer-files-chapter-11-153300921.html"
   },
   {
-   "t": "新台幣升3.3分　收31.633元",
+   "t": "8月六都建物買賣移轉棟數下探10年新低　9月央行動向牽動後市",
    "pub": "中央社財經",
    "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/afe/202609010207.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609010314.aspx"
   },
   {
-   "t": "Affirm’s (AFRM) Next Chapter Bets Big On The Card",
+   "t": "Lantronix (LTRX) Turns A Drone Bet Into A Real Growth Engine",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/affirm-afrm-next-chapter-bets-100800347.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lantronix-ltrx-turns-drone-bet-112349983.html"
   },
   {
-   "t": "印度單季GDP成長7.8%　莫迪籲續用國貨與服務",
+   "t": "8月PMI創5年最快擴張　連賢明：AI暢旺但生產已現瓶頸",
    "pub": "中央社財經",
    "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/aopl/202609010201.aspx"
-  },
-  {
-   "t": "Analysis-Texas' halt on powering data centers reflects US reckoning over 'ghost' demand",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/analysis-texas-halt-powering-data-100250823.html"
-  },
-  {
-   "t": "錼創：Micro LED光通訊2年商品化　AR眼鏡先上路",
-   "pub": "中央社財經",
-   "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/afe/202609010177.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609010313.aspx"
   },
   {
    "t": "Stock market today: Dow, S&P 500, Nasdaq futures fall as inflation, Fed rate-hike fears persist",
@@ -380,22 +368,34 @@
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html"
   },
   {
-   "t": "中東衝突升溫添不確定性　日經指數微幅收跌",
+   "t": "正文攜手印度Dixon　瞄準AI資料中心光通訊商機",
    "pub": "中央社財經",
    "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/afe/202609010175.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609010310.aspx"
   },
   {
-   "t": "Best high-yield savings interest rates today, Tuesday, September 1, 2026: Earn up to 4.10% APY",
+   "t": "Remember Elon Musk’s warning that America will ‘1,000%’ go bankrupt? Well, US debt just soared through $40T",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-september-1-2026-earn-up-to-410-apy-100000500.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/remember-elon-musk-warning-america-111500338.html"
   },
   {
-   "t": "三大法人買超台股561.38億元",
+   "t": "台積電：系統整合商須納3D IC聯盟生態圈　落實協同合作",
    "pub": "中央社財經",
    "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/afe/202609010169.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609010307.aspx"
+  },
+  {
+   "t": "Nvidia’s (NVDA) Record Quarter Comes With A New Kind Of Bet",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-record-quarter-comes-111205824.html"
+  },
+  {
+   "t": "川普再揚言狠狠打擊伊朗　國際油價續漲、亞股多收黑",
+   "pub": "中央社財經",
+   "d": "2026-09-01",
+   "u": "https://www.cna.com.tw/news/afe/202609010305.aspx"
   },
   {
    "t": "161-year-old kids clothing giant closes 29 more stores",
@@ -412,15 +412,15 @@
     "t": 698,
     "all": 15110
    },
-   "2327": {
-    "f": 10023,
-    "t": -2463,
-    "all": 7413
-   },
    "2330": {
     "f": 5730,
     "t": 103,
     "all": 5965
+   },
+   "2327": {
+    "f": 10023,
+    "t": -4131,
+    "all": 5745
    },
    "1802": {
     "f": 2918,
@@ -452,11 +452,6 @@
     "t": 0,
     "all": 60
    },
-   "2308": {
-    "f": -499,
-    "t": 368,
-    "all": 14
-   },
    "6862": {
     "f": -1,
     "t": 0,
@@ -466,6 +461,11 @@
     "f": -340,
     "t": -3,
     "all": -94
+   },
+   "2308": {
+    "f": -499,
+    "t": 194,
+    "all": -160
    },
    "2305": {
     "f": -887,
