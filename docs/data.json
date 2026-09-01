@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 17:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 17:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 15.66,
-   "c": 4.96,
-   "a50": 16.5,
+   "p": 15.79,
+   "c": 5.83,
+   "a50": 16.51,
    "a200": 18.39,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.26,
-   "r": 49.6
+   "a20": 15.27,
+   "r": 50.2
   },
   {
    "s": "BZ=F",
-   "p": 92.47,
-   "c": 2.19,
+   "p": 92.28,
+   "c": 1.98,
    "a50": 84.91,
-   "a200": 83.36,
+   "a200": 83.35,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.95,
-   "r": 56.9
+   "a20": 88.94,
+   "r": 56.6
   },
   {
    "s": "GC=F",
-   "p": 4420.7,
-   "c": -0.23,
-   "a50": 4217.7,
-   "a200": 4516.1,
+   "p": 4418.5,
+   "c": -0.28,
+   "a50": 4217.65,
+   "a200": 4516.09,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4447.82,
-   "r": 52.3
+   "a20": 4447.71,
+   "r": 52.1
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 0.27,
+   "c": 0.28,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03156566,
-   "c": -0.18,
+   "p": 0.0315557,
+   "c": -0.21,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010207.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures fall as inflation, Fed rate-hike fears persist",
+   "t": "Build-A-Bear’s (BBW) Summer Stumble Tests A Brand Built On Loyalty",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/build-bear-bbw-summer-stumble-090806178.html"
   },
   {
    "t": "印度單季GDP成長7.8%　莫迪籲續用國貨與服務",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609010201.aspx"
   },
   {
-   "t": "Canadian Solar’s (CSIQ) Backlog Balloons While The Bottom Line Bleeds",
+   "t": "Rich young Americans have already ditched stocks for alternative assets. Should you?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/canadian-solar-csiq-backlog-balloons-084904843.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rich-young-americans-already-ditched-090500306.html"
   },
   {
    "t": "錼創：Micro LED光通訊2年商品化　AR眼鏡先上路",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010177.aspx"
   },
   {
-   "t": "IREN (IREN) Swaps Bitcoin Rigs For Microsoft’s (MSFT) GPU Contracts",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq futures fall as inflation, Fed rate-hike fears persist",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/iren-iren-swaps-bitcoin-rigs-083947823.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html"
   },
   {
    "t": "中東衝突升溫添不確定性　日經指數微幅收跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010175.aspx"
   },
   {
-   "t": "PagerDuty (PD) Hits A Milestone While Trimming Its Own Headcount",
+   "t": "Canadian Solar’s (CSIQ) Backlog Balloons While The Bottom Line Bleeds",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/pagerduty-pd-hits-milestone-while-083053100.html"
+   "u": "https://finance.yahoo.com/energy/articles/canadian-solar-csiq-backlog-balloons-084904843.html"
   },
   {
    "t": "三大法人買超台股561.38億元",
