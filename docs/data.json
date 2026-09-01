@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 16:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 16:59（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 15.49,
-   "c": 3.82,
+   "p": 15.67,
+   "c": 5.03,
    "a50": 16.5,
    "a200": 18.39,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.25,
-   "r": 48.7
+   "a20": 15.26,
+   "r": 49.6
   },
   {
    "s": "BZ=F",
-   "p": 92.29,
-   "c": 1.99,
+   "p": 92.33,
+   "c": 2.03,
    "a50": 84.91,
    "a200": 83.35,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4420.2,
-   "c": -0.25,
-   "a50": 4217.69,
-   "a200": 4516.1,
+   "p": 4424.9,
+   "c": -0.14,
+   "a50": 4217.78,
+   "a200": 4516.12,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4447.8,
-   "r": 52.3
+   "a20": 4448.03,
+   "r": 52.6
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 0.7,
+   "p": 6.63,
+   "c": 0.5,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.59,
-   "r": 57.7
+   "r": 56.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03157562,
-   "c": -0.15,
+   "p": 0.0315557,
+   "c": -0.2,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010207.aspx"
   },
   {
-   "t": "Ethereum Price Prediction: Key On-Chain Metric Flashes “Buy” at $2,500",
+   "t": "Tesla Just Killed Its Solar Roof After Years of Struggling to Scale. What It Means for TSLA Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-key-chain-204758899.html"
+   "u": "https://finance.yahoo.com/energy/articles/tesla-just-killed-solar-roof-220544385.html"
   },
   {
    "t": "印度單季GDP成長7.8%　莫迪籲續用國貨與服務",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609010201.aspx"
   },
   {
-   "t": "Tesla Just Killed Its Solar Roof After Years of Struggling to Scale. What It Means for TSLA Stock.",
+   "t": "PetroChina First-Half Profit Jumps 22% to Record High",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/tesla-just-killed-solar-roof-220544385.html"
+   "u": "https://finance.yahoo.com/energy/articles/petrochina-profit-jumps-22-oil-011638944.html"
   },
   {
    "t": "錼創：Micro LED光通訊2年商品化　AR眼鏡先上路",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010177.aspx"
   },
   {
-   "t": "PetroChina First-Half Profit Jumps 22% to Record High",
+   "t": "ONEOK to Acquire Brazos Midland Gas Assets for $4.425 Billion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/petrochina-profit-jumps-22-oil-011638944.html"
+   "u": "https://finance.yahoo.com/energy/articles/oneok-acquire-brazos-midland-gas-023537851.html"
   },
   {
    "t": "中東衝突升溫添不確定性　日經指數微幅收跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010175.aspx"
   },
   {
-   "t": "ONEOK to Acquire Brazos Midland Gas Assets for $4.425 Billion",
+   "t": "Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/oneok-acquire-brazos-midland-gas-023537851.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo"
   },
   {
    "t": "三大法人買超台股561.38億元",
