@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 06:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 06:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,40 +289,40 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.36,
-   "c": 5.38,
+   "p": 95.48,
+   "c": 5.51,
    "a50": 84.97,
    "a200": 83.37,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.09,
-   "r": 61.1
+   "a20": 89.1,
+   "r": 61.2
   },
   {
    "s": "GC=F",
-   "p": 4375.4,
-   "c": -1.26,
-   "a50": 4216.79,
-   "a200": 4515.88,
+   "p": 4374.7,
+   "c": -1.27,
+   "a50": 4216.78,
+   "a200": 4515.87,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4445.56,
+   "a20": 4445.52,
    "r": 48.9
   },
   {
    "s": "HG=F",
    "p": 6.54,
-   "c": -0.87,
+   "c": -0.88,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.59,
-   "r": 50.7
+   "r": 50.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03159558,
+   "p": 0.03160556,
    "c": -0.06,
    "a50": 0.03118179,
    "a200": 0.03156566,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010368.aspx"
   },
   {
-   "t": "Stocks Pressured as Soaring Crude Prices Boost Bond Yields",
+   "t": "Dear Broadcom Stock Fans, Mark Your Calendars for August 31",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-soaring-crude-prices-140109087.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-broadcom-stock-fans-mark-141529231.html"
   },
   {
    "t": "國際半導體展　所羅門秀晶圓翹曲及玻璃通孔檢測方案",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010365.aspx"
   },
   {
-   "t": "Newly Public QumulusAI Scored a Data Center Win. How You Should Play QMLS Stock Here.",
+   "t": "NextEra Energy Stock: Is NEE Outperforming the Utilities Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/newly-public-qumulusai-scored-data-140002479.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-stock-nee-outperforming-141441410.html"
   },
   {
    "t": "30家業者推安養信託　財產本金逾2000億年增3成",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010358.aspx"
   },
   {
-   "t": "Cathie Wood Just Bought $17 Million of Cerebras Stock. Wall Street Sees 59% Upside.",
+   "t": "Energy stocks lead in subdued final trading day of August, utilities under pressure: AlphaCheck",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-just-bought-17-140002333.html"
+   "u": "https://finance.yahoo.com/markets/article/energy-stocks-lead-in-subdued-final-trading-day-of-august-utilities-under-pressure-alphacheck-142014111.html"
   }
  ],
  "inst": {
