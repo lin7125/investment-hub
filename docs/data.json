@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 06:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 06:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -257,13 +257,13 @@
   {
    "s": "^TWII",
    "p": 46128.47,
-   "c": 0.33,
-   "a50": 44933.1,
-   "a200": 36782.28,
+   "c": -0.44,
+   "a50": 44930.42,
+   "a200": 36872.26,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 45064.64,
-   "r": 59.2
+   "a20": 45211.89,
+   "r": 58.6
   },
   {
    "s": "^GSPC",
@@ -280,45 +280,45 @@
    "s": "^VIX",
    "p": 16.34,
    "c": 9.52,
-   "a50": 16.52,
-   "a200": 18.39,
+   "a50": 16.46,
+   "a200": 18.37,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.29,
-   "r": 52.7
+   "a20": 15.19,
+   "r": 53.3
   },
   {
    "s": "BZ=F",
-   "p": 95.43,
-   "c": 5.46,
+   "p": 95.29,
+   "c": 5.3,
    "a50": 84.97,
    "a200": 83.37,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 89.09,
-   "r": 61.2
+   "r": 61.0
   },
   {
    "s": "GC=F",
-   "p": 4373.9,
-   "c": -1.29,
-   "a50": 4216.76,
+   "p": 4373.6,
+   "c": -1.3,
+   "a50": 4216.75,
    "a200": 4515.87,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4445.48,
+   "a20": 4445.47,
    "r": 48.8
   },
   {
    "s": "HG=F",
-   "p": 6.54,
-   "c": -0.88,
+   "p": 6.53,
+   "c": -0.93,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.59,
-   "r": 50.6
+   "r": 50.4
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010368.aspx"
   },
   {
-   "t": "Strategy Bought $370 Million Of Bitcoin Last Week",
+   "t": "Dollar Weakens on Strength in the Chinese Yuan",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-bought-370-million-bitcoin-142100501.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-weakens-strength-chinese-yuan-143135663.html"
   },
   {
    "t": "國際半導體展　所羅門秀晶圓翹曲及玻璃通孔檢測方案",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010365.aspx"
   },
   {
-   "t": "Energy stocks lead in subdued final trading day of August, utilities under pressure: AlphaCheck",
+   "t": "Cattle, Hog Prices Are Still Trapped and Heading Lower. What to Watch Next.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/energy-stocks-lead-in-subdued-final-trading-day-of-august-utilities-under-pressure-alphacheck-142014111.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/cattle-hog-prices-still-trapped-142944481.html"
   },
   {
    "t": "30家業者推安養信託　財產本金逾2000億年增3成",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010358.aspx"
   },
   {
-   "t": "Is McDonald's Stock Underperforming the S&P 500?",
+   "t": "Bitmine Accelerates Ethereum Purchases To Close Out August",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-stock-underperforming-p-500-141948650.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitmine-accelerates-ethereum-purchases-close-142800772.html"
   }
  ],
  "inst": {
