@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 15:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 15:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.95,
-   "c": 0.2,
+   "p": 14.98,
+   "c": 0.4,
    "a50": 16.49,
    "a200": 18.39,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.22,
-   "r": 45.8
+   "a20": 15.23,
+   "r": 46.0
   },
   {
    "s": "BZ=F",
-   "p": 89.31,
-   "c": -1.3,
-   "a50": 84.85,
-   "a200": 83.34,
+   "p": 91.71,
+   "c": 1.35,
+   "a50": 84.89,
+   "a200": 83.35,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.79,
-   "r": 51.2
+   "a20": 88.91,
+   "r": 55.7
   },
   {
    "s": "GC=F",
-   "p": 4475.7,
-   "c": 1.01,
-   "a50": 4218.8,
-   "a200": 4516.38,
+   "p": 4469.2,
+   "c": 0.86,
+   "a50": 4218.67,
+   "a200": 4516.34,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4450.58,
-   "r": 56.1
+   "a20": 4450.25,
+   "r": 55.7
   },
   {
    "s": "HG=F",
-   "p": 6.71,
-   "c": 1.71,
+   "p": 6.69,
+   "c": 1.51,
    "a50": 6.4,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.6,
-   "r": 61.2
+   "r": 60.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03160556,
-   "c": -0.05,
+   "p": 0.03159558,
+   "c": -0.09,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010134.aspx"
   },
   {
-   "t": "Strategy Stock Surges as Bitcoin Briefly Tops $80K",
+   "t": "Ethereum Price Prediction: Key On-Chain Metric Flashes “Buy” at $2,500",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-stock-surges-bitcoin-briefly-193515545.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-key-chain-204758899.html"
   },
   {
    "t": "台股漲820.25點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010132.aspx"
   },
   {
-   "t": "Ethereum Price Prediction: Key On-Chain Metric Flashes “Buy” at $2,500",
+   "t": "Strategy Stock Surges as Bitcoin Briefly Tops $80K",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-key-chain-204758899.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-stock-surges-bitcoin-briefly-193515545.html"
   },
   {
    "t": "台積電漲35元聯發科漲停　台股漲820點創近2個月新高",
