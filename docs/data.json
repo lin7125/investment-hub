@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 03:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 03:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 325.56,
-   "c": 2.75,
-   "a50": 312.95,
+   "p": 325.33,
+   "c": 2.67,
+   "a50": 312.94,
    "a200": 283.07,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 311.34,
-   "r": 61.4
+   "a20": 311.33,
+   "r": 61.2
   },
   {
    "s": "NVDA",
-   "p": 217.27,
-   "c": -1.59,
-   "a50": 208.79,
+   "p": 217.39,
+   "c": -1.54,
+   "a50": 208.8,
    "a200": 196.08,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.02,
-   "r": 51.7
+   "a20": 219.03,
+   "r": 51.8
   },
   {
    "s": "TSLA",
-   "p": 355.64,
-   "c": -3.35,
-   "a50": 358.83,
+   "p": 356.43,
+   "c": -3.13,
+   "a50": 358.85,
    "a200": 400.2,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 342.53,
-   "r": 52.9
+   "a20": 342.57,
+   "r": 53.2
   },
   {
    "s": "META",
-   "p": 579.46,
-   "c": 1.24,
-   "a50": 592.36,
+   "p": 578.8,
+   "c": 1.13,
+   "a50": 592.35,
    "a200": 622.3,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.45,
-   "r": 50.3
+   "a20": 574.42,
+   "r": 50.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7628.28,
-   "c": -0.75,
-   "a50": 7570.61,
+   "p": 7626.41,
+   "c": -0.78,
+   "a50": 7570.57,
    "a200": 7126.8,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7711.45,
-   "r": 47.7
+   "a20": 7711.36,
+   "r": 47.6
   },
   {
    "s": "^VIX",
-   "p": 16.23,
-   "c": 8.78,
+   "p": 16.35,
+   "c": 9.58,
    "a50": 16.46,
    "a200": 18.37,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.18,
-   "r": 52.8
+   "a20": 15.19,
+   "r": 53.4
   },
   {
    "s": "BZ=F",
-   "p": 95.1,
-   "c": 5.09,
+   "p": 95.0,
+   "c": 4.98,
    "a50": 84.96,
    "a200": 83.37,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.08,
-   "r": 60.7
+   "a20": 89.07,
+   "r": 60.6
   },
   {
    "s": "GC=F",
-   "p": 4382.2,
-   "c": -1.1,
-   "a50": 4216.93,
-   "a200": 4515.91,
+   "p": 4377.5,
+   "c": -1.21,
+   "a50": 4216.83,
+   "a200": 4515.89,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4445.9,
-   "r": 49.4
+   "a20": 4445.66,
+   "r": 49.1
   },
   {
    "s": "HG=F",
    "p": 6.53,
-   "c": -0.96,
+   "c": -0.97,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.59,
-   "r": 50.3
+   "r": 50.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03153579,
-   "c": -0.26,
+   "c": -0.27,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010368.aspx"
   },
   {
-   "t": "3 super simple hacks that can save you thousands effortlessly — but you need to do them before September ends",
+   "t": "‘I love the inflation!’: Trump shrugs off rising prices — here’s what you can do before inflation eats into your savings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/3-super-simple-hacks-save-103000062.html"
+   "u": "https://finance.yahoo.com/economy/articles/love-inflation-trump-shrugs-off-103500495.html"
   },
   {
    "t": "國際半導體展　所羅門秀晶圓翹曲及玻璃通孔檢測方案",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010365.aspx"
   },
   {
-   "t": "‘I love the inflation!’: Trump shrugs off rising prices — here’s what you can do before inflation eats into your savings",
+   "t": "Stocks Set to Open Lower as Fresh U.S.-Iran Flare-Up Lifts Oil, Jobs Data Awaited",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/love-inflation-trump-shrugs-off-103500495.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-lower-fresh-103552894.html"
   },
   {
    "t": "30家業者推安養信託　財產本金逾2000億年增3成",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010358.aspx"
   },
   {
-   "t": "Stocks Set to Open Lower as Fresh U.S.-Iran Flare-Up Lifts Oil, Jobs Data Awaited",
+   "t": "Wells Fargo Stock: Is WFC Underperforming the Financial Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-lower-fresh-103552894.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-stock-wfc-underperforming-103741065.html"
   }
  ],
  "inst": {
