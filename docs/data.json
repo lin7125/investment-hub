@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 05:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 05:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.18,
-   "c": 5.18,
+   "p": 95.22,
+   "c": 5.23,
    "a50": 84.96,
    "a200": 83.37,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4375.2,
-   "c": -1.26,
-   "a50": 4216.79,
-   "a200": 4515.87,
+   "p": 4375.7,
+   "c": -1.25,
+   "a50": 4216.8,
+   "a200": 4515.88,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4445.55,
-   "r": 48.9
+   "a20": 4445.58,
+   "r": 49.0
   },
   {
    "s": "HG=F",
-   "p": 6.54,
-   "c": -0.85,
+   "p": 6.53,
+   "c": -0.9,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.59,
-   "r": 50.8
+   "r": 50.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
-   "c": -0.24,
+   "p": 0.03156566,
+   "c": -0.18,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010368.aspx"
   },
   {
-   "t": "After an 'extraordinary' earnings season, here's the next big positive for stocks",
+   "t": "Silver prices today, Monday, August 31, 2026: Silver opens lower as rate-hike expectations rise",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/after-an-extraordinary-earnings-season-heres-the-next-big-positive-for-stocks-122048479.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-august-31-2026-silver-opens-lower-as-rate-hike-expectations-rise-125201881.html"
   },
   {
    "t": "國際半導體展　所羅門秀晶圓翹曲及玻璃通孔檢測方案",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010365.aspx"
   },
   {
-   "t": "Fed Chairman Kevin Warsh triggered a new problem for stocks",
+   "t": "Gold prices today, Monday, August 31, 2026: Gold sinks following U.S. strikes on Iran",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/fed-chairman-kevin-warsh-triggered-a-new-problem-for-stocks-120625754.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-31-2026-gold-sinks-following-us-strikes-on-iran-123744944.html"
   },
   {
    "t": "30家業者推安養信託　財產本金逾2000億年增3成",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010358.aspx"
   },
   {
-   "t": "Corn Pausing Rally on Monday Morning as August Comes to a Close",
+   "t": "Nvidia, Apple and SMCI Technical Outlook After Tech Selloff",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-pausing-rally-monday-morning-123004467.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-apple-smci-technical-outlook-125951795.html"
   }
  ],
  "inst": {
