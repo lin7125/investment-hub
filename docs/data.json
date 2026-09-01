@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 01:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 01:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 324.48,
-   "c": 2.41,
+   "p": 324.91,
+   "c": 2.54,
    "a50": 312.93,
    "a200": 283.07,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 311.29,
-   "r": 60.6
+   "a20": 311.31,
+   "r": 60.9
   },
   {
    "s": "NVDA",
-   "p": 218.35,
-   "c": -1.1,
-   "a50": 208.82,
+   "p": 218.23,
+   "c": -1.15,
+   "a50": 208.81,
    "a200": 196.09,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 219.07,
-   "r": 52.6
+   "r": 52.5
   },
   {
    "s": "TSLA",
-   "p": 357.03,
-   "c": -2.97,
-   "a50": 358.86,
+   "p": 356.57,
+   "c": -3.09,
+   "a50": 358.85,
    "a200": 400.2,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 342.6,
-   "r": 53.5
+   "a20": 342.57,
+   "r": 53.3
   },
   {
    "s": "META",
-   "p": 581.11,
-   "c": 1.53,
-   "a50": 592.39,
+   "p": 581.65,
+   "c": 1.63,
+   "a50": 592.4,
    "a200": 622.31,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.53,
-   "r": 50.9
+   "a20": 574.56,
+   "r": 51.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7637.61,
-   "c": -0.63,
-   "a50": 7570.8,
-   "a200": 7126.85,
+   "p": 7634.58,
+   "c": -0.67,
+   "a50": 7570.74,
+   "a200": 7126.84,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7711.92,
-   "r": 48.6
+   "a20": 7711.77,
+   "r": 48.3
   },
   {
    "s": "^VIX",
-   "p": 16.15,
-   "c": 8.24,
-   "a50": 16.46,
-   "a200": 18.37,
+   "p": 15.93,
+   "c": 6.77,
+   "a50": 16.45,
+   "a200": 18.36,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.18,
-   "r": 52.4
+   "a20": 15.17,
+   "r": 51.4
   },
   {
    "s": "BZ=F",
-   "p": 94.13,
-   "c": 4.02,
-   "a50": 84.94,
-   "a200": 83.36,
+   "p": 94.55,
+   "c": 4.49,
+   "a50": 84.95,
+   "a200": 83.37,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.03,
-   "r": 59.4
+   "a20": 89.05,
+   "r": 60.0
   },
   {
    "s": "GC=F",
-   "p": 4398.7,
-   "c": -0.73,
-   "a50": 4217.26,
-   "a200": 4515.99,
+   "p": 4393.1,
+   "c": -0.86,
+   "a50": 4217.14,
+   "a200": 4515.96,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4446.73,
-   "r": 50.6
+   "a20": 4446.44,
+   "r": 50.2
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": -0.04,
+   "c": -0.13,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.59,
-   "r": 54.7
+   "r": 54.2
   },
   {
    "s": "TWDUSD",
    "p": 0.0315557,
-   "c": -0.2,
+   "c": -0.21,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609010370.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq drop as rising bond yields, oil prices weigh on stocks",
+   "t": "A Landmark Deal Just Rewired Martin Marietta’s (MLM) Growth Engine",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/a2-130737637.html"
   },
   {
    "t": "公債殖利率與油價走高衝擊市場情緒　美股開低",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010368.aspx"
   },
   {
-   "t": "Tech stocks today: John Ternus becomes Apple CEO as legal battle with OpenAI escalates",
+   "t": "10 best free checking accounts for September 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-free-checking-accounts-195709452.html"
   },
   {
    "t": "國際半導體展　所羅門秀晶圓翹曲及玻璃通孔檢測方案",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010365.aspx"
   },
   {
-   "t": "What is a good savings account interest rate in 2026?",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq drop as rising bond yields, oil prices weigh on stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-good-savings-account-interest-rate-173915779.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html"
   },
   {
    "t": "30家業者推安養信託　財產本金逾2000億年增3成",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010358.aspx"
   },
   {
-   "t": "Lumentum Sets Up After 148% Gain; AI Summer Swoon Yields New Buy Point",
+   "t": "Tech stocks today: John Ternus becomes Apple CEO as legal battle with OpenAI escalates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/lumentum-lite-stock-ai-data-center/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html"
   },
   {
    "t": "大樂透第115084期開獎",
