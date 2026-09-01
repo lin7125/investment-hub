@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 01:52（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 02:03（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 324.91,
-   "c": 2.54,
-   "a50": 312.93,
+   "p": 325.52,
+   "c": 2.74,
+   "a50": 312.95,
    "a200": 283.07,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 311.31,
-   "r": 60.9
+   "a20": 311.34,
+   "r": 61.3
   },
   {
    "s": "NVDA",
-   "p": 218.23,
-   "c": -1.15,
+   "p": 218.1,
+   "c": -1.22,
    "a50": 208.81,
-   "a200": 196.09,
+   "a200": 196.08,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.07,
-   "r": 52.5
+   "a20": 219.06,
+   "r": 52.4
   },
   {
    "s": "TSLA",
-   "p": 356.57,
-   "c": -3.09,
-   "a50": 358.85,
+   "p": 355.98,
+   "c": -3.25,
+   "a50": 358.84,
    "a200": 400.2,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 342.57,
-   "r": 53.3
+   "a20": 342.54,
+   "r": 53.0
   },
   {
    "s": "META",
-   "p": 581.65,
-   "c": 1.63,
-   "a50": 592.4,
-   "a200": 622.31,
+   "p": 584.32,
+   "c": 2.09,
+   "a50": 592.46,
+   "a200": 622.32,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.56,
-   "r": 51.1
+   "a20": 574.69,
+   "r": 52.0
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7634.58,
-   "c": -0.67,
-   "a50": 7570.74,
+   "p": 7635.8,
+   "c": -0.65,
+   "a50": 7570.76,
    "a200": 7126.84,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7711.77,
-   "r": 48.3
+   "a20": 7711.83,
+   "r": 48.4
   },
   {
    "s": "^VIX",
-   "p": 15.93,
-   "c": 6.77,
+   "p": 15.96,
+   "c": 6.97,
    "a50": 16.45,
    "a200": 18.36,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.17,
-   "r": 51.4
+   "r": 51.5
   },
   {
    "s": "BZ=F",
-   "p": 94.55,
-   "c": 4.49,
+   "p": 94.51,
+   "c": 4.44,
    "a50": 84.95,
    "a200": 83.37,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4393.1,
-   "c": -0.86,
-   "a50": 4217.14,
+   "p": 4391.5,
+   "c": -0.89,
+   "a50": 4217.11,
    "a200": 4515.96,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4446.44,
-   "r": 50.2
+   "a20": 4446.36,
+   "r": 50.1
   },
   {
    "s": "HG=F",
-   "p": 6.59,
-   "c": -0.13,
+   "p": 6.58,
+   "c": -0.25,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.59,
-   "r": 54.2
+   "r": 53.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315557,
-   "c": -0.21,
+   "p": 0.03154574,
+   "c": -0.24,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "今彩539第115212期頭獎槓龜",
+   "t": "歐元區8月通膨近3年新高　歐股收跌",
    "pub": "中央社財經",
-   "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/ahel/202609010373.aspx"
+   "d": "2026-09-02",
+   "u": "https://www.cna.com.tw/news/afe/202609020002.aspx"
   },
   {
    "t": "Firearms retailer files Chapter 11 bankruptcy as gun sales drop",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/firearms-retailer-files-chapter-11-153300921.html"
   },
   {
-   "t": "大樂透第115084期頭獎槓龜",
+   "t": "今彩539第115212期頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/ahel/202609010370.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202609010373.aspx"
   },
   {
    "t": "A Landmark Deal Just Rewired Martin Marietta’s (MLM) Growth Engine",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/a2-130737637.html"
   },
   {
-   "t": "公債殖利率與油價走高衝擊市場情緒　美股開低",
+   "t": "大樂透第115084期頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/afe/202609010368.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202609010370.aspx"
   },
   {
    "t": "10 best free checking accounts for September 2026",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/personal-finance/banking/article/best-free-checking-accounts-195709452.html"
   },
   {
-   "t": "國際半導體展　所羅門秀晶圓翹曲及玻璃通孔檢測方案",
+   "t": "公債殖利率與油價走高衝擊市場情緒　美股開低",
    "pub": "中央社財經",
    "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/afe/202609010365.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609010368.aspx"
   },
   {
    "t": "Stock market today: Dow, S&P 500, Nasdaq drop as rising bond yields, oil prices weigh on stocks",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html"
   },
   {
-   "t": "30家業者推安養信託　財產本金逾2000億年增3成",
+   "t": "國際半導體展　所羅門秀晶圓翹曲及玻璃通孔檢測方案",
    "pub": "中央社財經",
    "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/afe/202609010358.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609010365.aspx"
   },
   {
    "t": "Tech stocks today: John Ternus becomes Apple CEO as legal battle with OpenAI escalates",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html"
   },
   {
-   "t": "大樂透第115084期開獎",
+   "t": "30家業者推安養信託　財產本金逾2000億年增3成",
    "pub": "中央社財經",
    "d": "2026-09-01",
-   "u": "https://www.cna.com.tw/news/ahel/202609010356.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609010358.aspx"
   },
   {
    "t": "161-year-old kids clothing giant closes 29 more stores",
