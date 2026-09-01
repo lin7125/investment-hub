@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 04:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 04:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,36 +278,36 @@
   },
   {
    "s": "^VIX",
-   "p": 16.29,
-   "c": 9.18,
+   "p": 16.35,
+   "c": 9.58,
    "a50": 16.46,
    "a200": 18.37,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.19,
-   "r": 53.1
+   "r": 53.4
   },
   {
    "s": "BZ=F",
-   "p": 95.33,
-   "c": 5.35,
+   "p": 95.38,
+   "c": 5.4,
    "a50": 84.97,
    "a200": 83.37,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 89.09,
-   "r": 61.0
+   "r": 61.1
   },
   {
    "s": "GC=F",
-   "p": 4375.1,
-   "c": -1.26,
-   "a50": 4216.78,
-   "a200": 4515.87,
+   "p": 4372.7,
+   "c": -1.32,
+   "a50": 4216.74,
+   "a200": 4515.86,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4445.54,
-   "r": 48.9
+   "a20": 4445.42,
+   "r": 48.8
   },
   {
    "s": "HG=F",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010368.aspx"
   },
   {
-   "t": "How Is T-Mobile’s Stock Performance Compared to Other Communication Stocks",
+   "t": "How Is QUALCOMM's Stock Performance Compared to Other Semiconductor Stocks?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/t-mobile-stock-performance-compared-105214894.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/qualcomms-stock-performance-compared-other-114624562.html"
   },
   {
    "t": "國際半導體展　所羅門秀晶圓翹曲及玻璃通孔檢測方案",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010365.aspx"
   },
   {
-   "t": "2 key trucking groups in filing raise alarm on Penske decision fallout",
+   "t": "How Is Amgen’s Stock Performance Compared to Other General Drug Manufacturers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/2-key-trucking-groups-filing-110000220.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amgen-stock-performance-compared-other-113347028.html"
   },
   {
    "t": "30家業者推安養信託　財產本金逾2000億年增3成",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010358.aspx"
   },
   {
-   "t": "Option Volatility and Earnings Report For Aug 31 – Sept 4",
+   "t": "Is Intuit Stock Underperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/option-volatility-earnings-report-aug-110002453.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/intuit-stock-underperforming-nasdaq-113002853.html"
   }
  ],
  "inst": {
