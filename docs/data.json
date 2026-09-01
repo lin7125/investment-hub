@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01 17:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-01 17:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.89,
-   "c": 6.5,
+   "p": 15.91,
+   "c": 6.64,
    "a50": 16.51,
    "a200": 18.39,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.27,
-   "r": 50.7
+   "r": 50.8
   },
   {
    "s": "BZ=F",
-   "p": 92.1,
-   "c": 1.78,
-   "a50": 84.9,
+   "p": 92.36,
+   "c": 2.07,
+   "a50": 84.91,
    "a200": 83.35,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 88.93,
-   "r": 56.3
+   "a20": 88.94,
+   "r": 56.8
   },
   {
    "s": "GC=F",
-   "p": 4424.9,
-   "c": -0.14,
-   "a50": 4217.78,
-   "a200": 4516.12,
+   "p": 4419.2,
+   "c": -0.27,
+   "a50": 4217.67,
+   "a200": 4516.09,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4448.03,
-   "r": 52.6
+   "a20": 4447.75,
+   "r": 52.2
   },
   {
    "s": "HG=F",
-   "p": 6.61,
-   "c": 0.24,
+   "p": 6.6,
+   "c": 0.13,
    "a50": 6.39,
    "a200": 5.96,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.59,
-   "r": 55.8
+   "r": 55.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
-   "c": -0.25,
+   "p": 0.03156566,
+   "c": -0.19,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010207.aspx"
   },
   {
-   "t": "Build-A-Bear’s (BBW) Summer Stumble Tests A Brand Built On Loyalty",
+   "t": "Royal Bank of Canada (RY) Posts Record Profit as Tariffs Loom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/build-bear-bbw-summer-stumble-090806178.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/royal-bank-canada-ry-posts-091959289.html"
   },
   {
    "t": "印度單季GDP成長7.8%　莫迪籲續用國貨與服務",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609010201.aspx"
   },
   {
-   "t": "Rich young Americans have already ditched stocks for alternative assets. Should you?",
+   "t": "Build-A-Bear’s (BBW) Summer Stumble Tests A Brand Built On Loyalty",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rich-young-americans-already-ditched-090500306.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/build-bear-bbw-summer-stumble-090806178.html"
   },
   {
    "t": "錼創：Micro LED光通訊2年商品化　AR眼鏡先上路",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010177.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures fall as inflation, Fed rate-hike fears persist",
+   "t": "Rich young Americans have already ditched stocks for alternative assets. Should you?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rich-young-americans-already-ditched-090500306.html"
   },
   {
    "t": "中東衝突升溫添不確定性　日經指數微幅收跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010175.aspx"
   },
   {
-   "t": "Canadian Solar’s (CSIQ) Backlog Balloons While The Bottom Line Bleeds",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq futures fall as inflation, Fed rate-hike fears persist",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/canadian-solar-csiq-backlog-balloons-084904843.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html"
   },
   {
    "t": "三大法人買超台股561.38億元",
