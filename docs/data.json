@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 04:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 04:48（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.2,
-   "c": 5.2,
-   "a50": 84.96,
+   "p": 95.28,
+   "c": 5.29,
+   "a50": 84.97,
    "a200": 83.37,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.08,
-   "r": 60.9
+   "a20": 89.09,
+   "r": 61.0
   },
   {
    "s": "GC=F",
-   "p": 4375.4,
-   "c": -1.26,
-   "a50": 4216.79,
-   "a200": 4515.88,
+   "p": 4372.5,
+   "c": -1.32,
+   "a50": 4216.73,
+   "a200": 4515.86,
    "yh": 5318.4,
    "yl": 3549.4,
-   "a20": 4445.56,
-   "r": 48.9
+   "a20": 4445.41,
+   "r": 48.7
   },
   {
    "s": "HG=F",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010368.aspx"
   },
   {
-   "t": "How Is QUALCOMM's Stock Performance Compared to Other Semiconductor Stocks?",
+   "t": "Fed Chairman Kevin Warsh triggered a new problem for stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/qualcomms-stock-performance-compared-other-114624562.html"
+   "u": "https://finance.yahoo.com/markets/article/fed-chairman-kevin-warsh-triggered-a-new-problem-for-stocks-120625754.html"
   },
   {
    "t": "國際半導體展　所羅門秀晶圓翹曲及玻璃通孔檢測方案",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010365.aspx"
   },
   {
-   "t": "Fed Chairman Kevin Warsh triggered a new problem for stocks",
+   "t": "8 Stocks Turn $100,000 Into $12.7 Million In 8 Months",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/fed-chairman-kevin-warsh-triggered-a-new-problem-for-stocks-120625754.html"
+   "u": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-turn-100000-into-12-7-million-in-8-months/?src=A00220&yptr=yahoo"
   },
   {
    "t": "30家業者推安養信託　財產本金逾2000億年增3成",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609010358.aspx"
   },
   {
-   "t": "8 Stocks Turn $100,000 Into $12.7 Million In 8 Months",
+   "t": "How Is QUALCOMM's Stock Performance Compared to Other Semiconductor Stocks?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-turn-100000-into-12-7-million-in-8-months/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/qualcomms-stock-performance-compared-other-114624562.html"
   }
  ],
  "inst": {
