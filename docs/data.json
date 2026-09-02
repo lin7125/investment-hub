@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 01:44（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 01:54（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 325.35,
-   "c": 0.07,
-   "a50": 313.56,
+   "p": 325.82,
+   "c": 0.21,
+   "a50": 313.57,
    "a200": 283.33,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 312.04,
-   "r": 61.2
+   "a20": 312.06,
+   "r": 61.6
   },
   {
    "s": "NVDA",
-   "p": 225.18,
-   "c": 3.56,
+   "p": 224.96,
+   "c": 3.46,
    "a50": 209.3,
    "a200": 196.27,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.33,
-   "r": 57.1
+   "a20": 219.32,
+   "r": 57.0
   },
   {
    "s": "TSLA",
-   "p": 352.98,
-   "c": -0.87,
-   "a50": 358.27,
+   "p": 352.32,
+   "c": -1.06,
+   "a50": 358.26,
    "a200": 399.95,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 344.12,
-   "r": 51.7
+   "a20": 344.09,
+   "r": 51.4
   },
   {
    "s": "META",
-   "p": 592.44,
-   "c": 2.4,
-   "a50": 592.95,
+   "p": 592.22,
+   "c": 2.36,
+   "a50": 592.94,
    "a200": 622.21,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.59,
+   "a20": 574.58,
    "r": 55.0
   },
   {
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7664.8,
-   "c": 0.44,
-   "a50": 7576.66,
-   "a200": 7131.46,
+   "p": 7666.55,
+   "c": 0.46,
+   "a50": 7576.7,
+   "a200": 7131.47,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.67,
-   "r": 51.3
+   "a20": 7708.76,
+   "r": 51.5
   },
   {
    "s": "^VIX",
-   "p": 15.38,
-   "c": -5.88,
+   "p": 15.39,
+   "c": -5.81,
    "a50": 16.38,
    "a200": 18.34,
    "yh": 31.05,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.81,
-   "c": 1.23,
+   "p": 95.82,
+   "c": 1.24,
    "a50": 85.33,
    "a200": 83.53,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4415.2,
-   "c": 1.55,
-   "a50": 4221.95,
-   "a200": 4516.88,
+   "p": 4421.4,
+   "c": 1.69,
+   "a50": 4222.07,
+   "a200": 4516.91,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4452.66,
-   "r": 51.9
+   "a20": 4452.97,
+   "r": 52.3
   },
   {
    "s": "HG=F",
-   "p": 6.59,
-   "c": 1.35,
+   "p": 6.6,
+   "c": 1.43,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 54.3
+   "r": 54.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03149606,
-   "c": -0.2,
+   "p": 0.03150599,
+   "c": -0.15,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
   },
   {
-   "t": "How to pay off student loans quickly: 8 strategies that work",
+   "t": "U.S. Debt, AI Borrowing Binge Spurs Bessent's Bond Market Gambit; Risks Rise For Stocks, Dollar",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/student-loans/article/paying-off-student-loans-184751746.html"
+   "u": "https://www.investors.com/news/us-debt-ai-borrowing-bessent-bond-market-stocks-dollar/?src=A00220&yptr=yahoo"
   },
   {
    "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030002.aspx"
   },
   {
-   "t": "Jim Cramer Breaks Down the Enterprise Software Rebound for Salesforce (CRM) and Veeva (VEEV)",
+   "t": "Cancer Stock Breaks Out To Highs; Key FDA Action On Watch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/jim-cramer-breaks-down-enterprise-172158642.html"
+   "u": "https://www.investors.com/research/cancer-exelixis-exel-stock-fda-drugs-markets-investing/?src=A00220&yptr=yahoo"
   },
   {
    "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
   },
   {
-   "t": "Coinbase Brings Crypto Futures to Canadian Traders",
+   "t": "Jim Cramer Explains Why Palantir’s Rule of 40 Dominance Proves Bears Wrong",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/coinbase-brings-crypto-futures-canadian-171800728.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-palantir-172601433.html"
   },
   {
    "t": "今彩539第115213期　頭獎4注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
   },
   {
-   "t": "Circle CEO Urges U.S. to Lead Digital Finance With Stablecoins",
+   "t": "How to pay off student loans quickly: 8 strategies that work",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/circle-ceo-urges-u-lead-171500113.html"
+   "u": "https://finance.yahoo.com/personal-finance/student-loans/article/paying-off-student-loans-184751746.html"
   },
   {
    "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
