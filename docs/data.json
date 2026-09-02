@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 03:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 03:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 325.58,
-   "c": 0.14,
+   "p": 325.35,
+   "c": 0.07,
    "a50": 313.56,
    "a200": 283.33,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 312.05,
-   "r": 61.4
+   "a20": 312.04,
+   "r": 61.2
   },
   {
    "s": "NVDA",
-   "p": 224.45,
-   "c": 3.22,
-   "a50": 209.29,
+   "p": 223.8,
+   "c": 2.92,
+   "a50": 209.27,
    "a200": 196.27,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.29,
-   "r": 56.7
+   "a20": 219.26,
+   "r": 56.3
   },
   {
    "s": "TSLA",
-   "p": 353.01,
-   "c": -0.87,
-   "a50": 358.27,
+   "p": 353.38,
+   "c": -0.76,
+   "a50": 358.28,
    "a200": 399.95,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 344.12,
-   "r": 51.7
+   "a20": 344.14,
+   "r": 51.9
   },
   {
    "s": "META",
-   "p": 594.86,
-   "c": 2.82,
-   "a50": 592.99,
-   "a200": 622.22,
+   "p": 592.94,
+   "c": 2.49,
+   "a50": 592.96,
+   "a200": 622.21,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.71,
-   "r": 55.8
+   "a20": 574.61,
+   "r": 55.2
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7669.6,
-   "c": 0.5,
-   "a50": 7576.76,
+   "p": 7668.43,
+   "c": 0.48,
+   "a50": 7576.73,
    "a200": 7131.48,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.91,
-   "r": 51.7
+   "a20": 7708.86,
+   "r": 51.6
   },
   {
    "s": "^VIX",
-   "p": 15.12,
-   "c": -7.47,
+   "p": 15.16,
+   "c": -7.22,
    "a50": 16.37,
    "a200": 18.34,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.16,
-   "r": 47.3
+   "r": 47.5
   },
   {
    "s": "BZ=F",
-   "p": 95.5,
-   "c": 0.9,
+   "p": 95.54,
+   "c": 0.94,
    "a50": 85.32,
    "a200": 83.53,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4425.4,
-   "c": 1.78,
-   "a50": 4222.15,
-   "a200": 4516.93,
+   "p": 4428.2,
+   "c": 1.84,
+   "a50": 4222.21,
+   "a200": 4516.94,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4453.17,
-   "r": 52.5
+   "a20": 4453.31,
+   "r": 52.7
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 1.48,
+   "c": 1.5,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 54.7
+   "r": 54.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03149606,
-   "c": -0.2,
+   "c": -0.21,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
   },
   {
-   "t": "How you can quickly tell Wall Street still really loves tech stocks",
+   "t": "Stock Index Futures Slip as Bond Yields Surge, U.S. JOLTS Report in Focus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/how-you-can-quickly-tell-wall-street-still-really-loves-tech-stocks-102324025.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-slip-bond-103858947.html"
   },
   {
    "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030002.aspx"
   },
   {
-   "t": "Alphabet stock has tanked recently because of a 'brain drain'",
+   "t": "UP Fintech’s (TIGR) Record Quarter Comes With A Bigger Bill",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/alphabet-stock-has-tanked-recently-because-of-a-brain-drain-102219947.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fintech-tigr-record-quarter-comes-104421402.html"
   },
   {
    "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
   },
   {
-   "t": "Morning Bid: September storm",
+   "t": "TORM’s (TRMD) Record Quarter Rides A Fragile Geopolitical Wave",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/morning-bid-september-storm-103452894.html"
+   "u": "https://finance.yahoo.com/energy/articles/torm-trmd-record-quarter-rides-103652177.html"
   },
   {
    "t": "今彩539第115213期　頭獎4注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
   },
   {
-   "t": "5 clear signs you’re actually upper middle class in America (even if you feel broke)",
+   "t": "A 'small' $5M: Bobbi Althoff asked Mark Cuban to buy her a house. His answer shows why homeownership is out of reach",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/5-clear-signs-actually-upper-101500405.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/small-5m-bobbi-althoff-asked-104500254.html"
   },
   {
    "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
