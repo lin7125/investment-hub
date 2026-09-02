@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 05:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 05:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -258,34 +258,34 @@
    "s": "^TWII",
    "p": 46948.72,
    "c": 1.78,
-   "a50": 44942.77,
-   "a200": 36875.35,
+   "a50": 44914.57,
+   "a200": 36966.42,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 45242.75,
-   "r": 63.8
+   "a20": 45391.29,
+   "r": 63.3
   },
   {
    "s": "^GSPC",
    "p": 7666.6,
    "c": 0.46,
-   "a50": 7569.77,
-   "a200": 7126.59,
+   "a50": 7576.7,
+   "a200": 7131.47,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7709.35,
-   "r": 51.7
+   "a20": 7708.76,
+   "r": 51.5
   },
   {
    "s": "^VIX",
    "p": 15.2,
    "c": -6.98,
-   "a50": 16.37,
-   "a200": 18.34,
+   "a50": 16.47,
+   "a200": 18.37,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.16,
-   "r": 47.7
+   "a20": 15.23,
+   "r": 47.4
   },
   {
    "s": "BZ=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03149606,
-   "c": -0.19,
+   "p": 0.03150599,
+   "c": -0.17,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
   },
   {
-   "t": "Coupang (CPNG) Shares Drop 7.7% on Softer Q2 Guidance",
+   "t": "As US Bond Selloff Accelerates, Treasury Secretary Scott Bessent Says a Stronger Yen is Coming",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/coupang-cpng-shares-drop-7-132307692.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/us-bond-selloff-accelerates-treasury-133239190.html"
   },
   {
    "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030002.aspx"
   },
   {
-   "t": "Taiwan Semiconductor Manufacturing Company (TSM) Limited Continues to Deliver Stellar Financial Results",
+   "t": "Is Consensus Cloud Solutions (CCSI) a Mispriced Legacy Tech with Hidden Appeal?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-131831930.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/consensus-cloud-solutions-ccsi-mispriced-133145356.html"
   },
   {
    "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
   },
   {
-   "t": "Multiple Compression Pulls Back Shopify (SHOP) in Q2",
+   "t": "Descartes acquires Extensiv for $120M",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/multiple-compression-pulls-back-shopify-132525484.html"
+   "u": "https://finance.yahoo.com/technology/articles/descartes-acquires-extensiv-120m-132905113.html"
   },
   {
    "t": "今彩539第115213期　頭獎4注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
   },
   {
-   "t": "SelectQuote’s (SLQT) Cash Flow Pitch Comes With A Shrinking Top Line",
+   "t": "Scotiabank (BNS) Just Blew Past Its Own Profit Target",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/selectquote-slqt-cash-flow-pitch-132746828.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-bns-just-blew-past-133539144.html"
   },
   {
    "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
