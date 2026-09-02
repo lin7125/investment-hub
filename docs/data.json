@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 01:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 01:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 325.67,
-   "c": 0.17,
-   "a50": 313.57,
+   "p": 324.74,
+   "c": -0.12,
+   "a50": 313.55,
    "a200": 283.33,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 312.05,
-   "r": 61.5
+   "a20": 312.01,
+   "r": 60.6
   },
   {
    "s": "NVDA",
-   "p": 224.96,
-   "c": 3.46,
+   "p": 225.27,
+   "c": 3.6,
    "a50": 209.3,
    "a200": 196.27,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.32,
-   "r": 57.0
+   "a20": 219.33,
+   "r": 57.2
   },
   {
    "s": "TSLA",
-   "p": 353.24,
-   "c": -0.8,
+   "p": 353.49,
+   "c": -0.73,
    "a50": 358.28,
    "a200": 399.95,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 344.13,
-   "r": 51.8
+   "a20": 344.15,
+   "r": 51.9
   },
   {
    "s": "META",
-   "p": 593.35,
-   "c": 2.56,
-   "a50": 592.96,
+   "p": 592.61,
+   "c": 2.43,
+   "a50": 592.95,
    "a200": 622.21,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.63,
-   "r": 55.3
+   "a20": 574.6,
+   "r": 55.1
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7663.59,
-   "c": 0.42,
-   "a50": 7576.64,
-   "a200": 7131.45,
+   "p": 7661.03,
+   "c": 0.39,
+   "a50": 7576.59,
+   "a200": 7131.44,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.61,
-   "r": 51.2
+   "a20": 7708.49,
+   "r": 50.9
   },
   {
    "s": "^VIX",
-   "p": 15.39,
-   "c": -5.81,
+   "p": 15.45,
+   "c": -5.45,
    "a50": 16.38,
    "a200": 18.34,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.17,
-   "r": 48.5
+   "r": 48.8
   },
   {
    "s": "BZ=F",
-   "p": 95.81,
-   "c": 1.23,
+   "p": 95.77,
+   "c": 1.18,
    "a50": 85.33,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 89.87,
-   "r": 61.8
+   "r": 61.7
   },
   {
    "s": "GC=F",
-   "p": 4415.7,
-   "c": 1.56,
-   "a50": 4221.96,
-   "a200": 4516.88,
+   "p": 4413.7,
+   "c": 1.51,
+   "a50": 4221.92,
+   "a200": 4516.87,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4452.69,
-   "r": 51.9
+   "a20": 4452.59,
+   "r": 51.8
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 1.33,
+   "c": 1.34,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03150599,
-   "c": -0.17,
+   "p": 0.03149606,
+   "c": -0.21,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
+   "t": "美商務部長：擬加徵半導體關稅　在美生產可豁免",
    "pub": "中央社財經",
-   "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
+   "d": "2026-09-03",
+   "u": "https://www.cna.com.tw/news/aopl/202609030004.aspx"
   },
   {
    "t": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
@@ -344,58 +344,58 @@
    "u": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html"
   },
   {
+   "t": "美債殖利率與油價回升　歐股收黑",
+   "pub": "中央社財經",
+   "d": "2026-09-03",
+   "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
+  },
+  {
+   "t": "How to pay off student loans quickly: 8 strategies that work",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/personal-finance/student-loans/article/paying-off-student-loans-184751746.html"
+  },
+  {
+   "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
+   "pub": "中央社財經",
+   "d": "2026-09-03",
+   "u": "https://www.cna.com.tw/news/aopl/202609030002.aspx"
+  },
+  {
+   "t": "Jim Cramer Breaks Down the Enterprise Software Rebound for Salesforce (CRM) and Veeva (VEEV)",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/technology/articles/jim-cramer-breaks-down-enterprise-172158642.html"
+  },
+  {
+   "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
+   "pub": "中央社財經",
+   "d": "2026-09-02",
+   "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
+  },
+  {
+   "t": "Circle CEO Urges U.S. to Lead Digital Finance With Stablecoins",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/circle-ceo-urges-u-lead-171500113.html"
+  },
+  {
    "t": "今彩539第115213期　頭獎4注中獎",
    "pub": "中央社財經",
    "d": "2026-09-02",
    "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
   },
   {
-   "t": "Goldman Sachs warns investors to expect lower returns over the next year",
+   "t": "Q2 Cash Flow Turnaround Supports Boeing’s (BA) Rating Upgrade by Argus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/goldman-sachs-warns-investors-to-expect-lower-returns-over-the-next-year-171050637.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/q2-cash-flow-turnaround-supports-171442253.html"
   },
   {
    "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
    "pub": "中央社財經",
    "d": "2026-09-02",
    "u": "https://www.cna.com.tw/news/aopl/202609020356.aspx"
-  },
-  {
-   "t": "Here’s Why Berenberg Sees More Upside on Autodesk Stock Despite Key AI Headwinds",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-berenberg-sees-more-upside-170706753.html"
-  },
-  {
-   "t": "串聯台灣業者展前瞻資安量能　數產署：建構半導體堅實防線",
-   "pub": "中央社財經",
-   "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020352.aspx"
-  },
-  {
-   "t": "Nvidia Leads Chip Stocks Higher Amid Renewed Confidence In AI Spending",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://www.investors.com/news/technology/nvidia-stock-buy-point-chip-stocks-rally/?src=A00220&yptr=yahoo"
-  },
-  {
-   "t": "國銀五大信賴產業放款單月大增3061億　7月底餘額近5兆",
-   "pub": "中央社財經",
-   "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020349.aspx"
-  },
-  {
-   "t": "CrowdStrike’s AI Security Boom May Still Have Room to Run",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-ai-security-boom-may-165458612.html"
-  },
-  {
-   "t": "叡揚資訊：訂閱式收入增加　今年營收有望雙位數成長",
-   "pub": "中央社財經",
-   "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020348.aspx"
   },
   {
    "t": "Costco shuts down a key service with no notice",
