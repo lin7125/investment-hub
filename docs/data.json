@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 03:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 03:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,14 +212,14 @@
   },
   {
    "s": "AAPL",
-   "p": 325.67,
-   "c": 0.17,
-   "a50": 313.57,
+   "p": 325.58,
+   "c": 0.14,
+   "a50": 313.56,
    "a200": 283.33,
    "yh": 340.08,
    "yl": 226.79,
    "a20": 312.05,
-   "r": 61.5
+   "r": 61.4
   },
   {
    "s": "NVDA",
@@ -234,8 +234,8 @@
   },
   {
    "s": "TSLA",
-   "p": 353.06,
-   "c": -0.85,
+   "p": 353.01,
+   "c": -0.87,
    "a50": 358.27,
    "a200": 399.95,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 595.56,
-   "c": 2.94,
-   "a50": 593.01,
+   "p": 594.86,
+   "c": 2.82,
+   "a50": 592.99,
    "a200": 622.22,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.74,
-   "r": 56.0
+   "a20": 574.71,
+   "r": 55.8
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7668.97,
-   "c": 0.49,
-   "a50": 7576.74,
+   "p": 7669.6,
+   "c": 0.5,
+   "a50": 7576.76,
    "a200": 7131.48,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.88,
+   "a20": 7708.91,
    "r": 51.7
   },
   {
    "s": "^VIX",
-   "p": 15.22,
-   "c": -6.85,
+   "p": 15.12,
+   "c": -7.47,
    "a50": 16.37,
    "a200": 18.34,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.16,
-   "r": 47.7
+   "r": 47.3
   },
   {
    "s": "BZ=F",
-   "p": 95.44,
-   "c": 0.83,
+   "p": 95.5,
+   "c": 0.9,
    "a50": 85.32,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.85,
-   "r": 61.3
+   "a20": 89.86,
+   "r": 61.4
   },
   {
    "s": "GC=F",
-   "p": 4422.1,
-   "c": 1.7,
-   "a50": 4222.09,
-   "a200": 4516.91,
+   "p": 4425.4,
+   "c": 1.78,
+   "a50": 4222.15,
+   "a200": 4516.93,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4453.01,
-   "r": 52.3
+   "a20": 4453.17,
+   "r": 52.5
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 1.44,
+   "c": 1.48,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 54.6
+   "r": 54.7
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
   },
   {
-   "t": "TD’s (TD) Record Quarter Comes With A Regulatory Asterisk",
+   "t": "How you can quickly tell Wall Street still really loves tech stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/td-td-record-quarter-comes-095938043.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/how-you-can-quickly-tell-wall-street-still-really-loves-tech-stocks-102324025.html"
   },
   {
    "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030002.aspx"
   },
   {
-   "t": "Cook hands Apple to Ternus: bigger and richer, but catching up in AI race",
+   "t": "Alphabet stock has tanked recently because of a 'brain drain'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/cook-hands-apple-ternus-bigger-101359508.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/alphabet-stock-has-tanked-recently-because-of-a-brain-drain-102219947.html"
   },
   {
    "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
   },
   {
-   "t": "Factory activity bounced in August as AI fuelled Asian expansion",
+   "t": "Morning Bid: September storm",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/global-ai-boom-fuels-asia-023721642.html"
+   "u": "https://finance.yahoo.com/markets/articles/morning-bid-september-storm-103452894.html"
   },
   {
    "t": "今彩539第115213期　頭獎4注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
   },
   {
-   "t": "Affirm’s (AFRM) Next Chapter Bets Big On The Card",
+   "t": "5 clear signs you’re actually upper middle class in America (even if you feel broke)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/affirm-afrm-next-chapter-bets-100800347.html"
+   "u": "https://finance.yahoo.com/markets/articles/5-clear-signs-actually-upper-101500405.html"
   },
   {
    "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
