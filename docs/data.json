@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 14:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 14:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 46.05,
-   "c": -1.81,
-   "a50": 54.41,
+   "p": 45.2,
+   "c": -3.62,
+   "a50": 54.39,
    "a200": 43.76,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.53,
-   "r": 40.2
+   "a20": 49.49,
+   "r": 38.8
   },
   {
    "s": "6223.TWO",
@@ -289,14 +289,14 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.61,
-   "c": 1.01,
+   "p": 95.67,
+   "c": 1.08,
    "a50": 85.32,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.86,
-   "r": 61.5
+   "a20": 89.87,
+   "r": 61.6
   },
   {
    "s": "GC=F",
@@ -312,18 +312,18 @@
   {
    "s": "HG=F",
    "p": 6.54,
-   "c": 0.58,
+   "c": 0.57,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 51.3
+   "r": 51.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03148615,
-   "c": -0.22,
+   "c": -0.23,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020152.aspx"
   },
   {
-   "t": "SentinelOne (S) Rides an AI Security Boom to Record Operating Margins",
+   "t": "Best Buy’s (BBY) Turnaround Gains Steam As Leadership Changes Hands",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/sentinelone-rides-ai-security-boom-185212323.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/best-buy-bby-turnaround-gains-190436123.html"
   },
   {
    "t": "台積電跌破季線　台股收跌784點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020151.aspx"
   },
   {
-   "t": "6 ways to invest in gold from simple buys to more complex bets",
+   "t": "Weekly survey of mortgage lenders with the lowest rates: Minor pricing changes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/best-way-to-invest-in-gold-152426261.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-31-170834159.html"
   },
   {
    "t": "9月台股期指跌1012點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020149.aspx"
   },
   {
-   "t": "Best Buy’s (BBY) Turnaround Gains Steam As Leadership Changes Hands",
+   "t": "6 ways to invest in gold from simple buys to more complex bets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/best-buy-bby-turnaround-gains-190436123.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/best-way-to-invest-in-gold-152426261.html"
   },
   {
    "t": "台股跌784點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020146.aspx"
   },
   {
-   "t": "Dear Tesla Stock Fans, Mark Your Calendars for September 3",
+   "t": "Why Nvidia Stock Looks Attractive... for Some Investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-tesla-stock-fans-mark-185036932.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-stock-looks-attractive-191726860.html"
   },
   {
    "t": "TEL台灣總裁仲間誠二上任後首露面　揭培育人才3要務",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020143.aspx"
   },
   {
-   "t": "The Bill For Oracle's AI Build Arrived Before The Revenue",
+   "t": "Broadcom Has Trailed the S&P 500 This Year. That Shouldn't Last Much Longer.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/bill-oracles-ai-build-arrived-185118557.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/broadcom-trailed-p-500-shouldnt-190500296.html"
   }
  ],
  "inst": {
