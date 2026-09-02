@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 02:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 02:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 326.16,
-   "c": 0.32,
-   "a50": 313.58,
+   "p": 325.95,
+   "c": 0.25,
+   "a50": 313.57,
    "a200": 283.33,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 312.08,
-   "r": 61.8
+   "a20": 312.07,
+   "r": 61.7
   },
   {
    "s": "NVDA",
-   "p": 225.24,
-   "c": 3.59,
+   "p": 225.29,
+   "c": 3.61,
    "a50": 209.3,
    "a200": 196.27,
    "yh": 235.74,
@@ -234,8 +234,8 @@
   },
   {
    "s": "TSLA",
-   "p": 352.1,
-   "c": -1.12,
+   "p": 352.16,
+   "c": -1.1,
    "a50": 358.25,
    "a200": 399.95,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 593.15,
-   "c": 2.53,
-   "a50": 592.96,
+   "p": 592.48,
+   "c": 2.41,
+   "a50": 592.95,
    "a200": 622.21,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.62,
-   "r": 55.3
+   "a20": 574.59,
+   "r": 55.1
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7671.47,
-   "c": 0.52,
-   "a50": 7576.79,
-   "a200": 7131.49,
+   "p": 7669.56,
+   "c": 0.5,
+   "a50": 7576.76,
+   "a200": 7131.48,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7709.01,
-   "r": 51.9
+   "a20": 7708.91,
+   "r": 51.7
   },
   {
    "s": "^VIX",
-   "p": 15.25,
-   "c": -6.67,
+   "p": 15.21,
+   "c": -6.92,
    "a50": 16.37,
    "a200": 18.34,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.16,
-   "r": 47.9
+   "r": 47.7
   },
   {
    "s": "BZ=F",
-   "p": 95.82,
-   "c": 1.24,
+   "p": 95.73,
+   "c": 1.14,
    "a50": 85.33,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 89.87,
-   "r": 61.8
+   "r": 61.7
   },
   {
    "s": "GC=F",
-   "p": 4416.7,
-   "c": 1.58,
-   "a50": 4221.98,
-   "a200": 4516.89,
+   "p": 4419.4,
+   "c": 1.64,
+   "a50": 4222.03,
+   "a200": 4516.9,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4452.74,
-   "r": 52.0
+   "a20": 4452.87,
+   "r": 52.1
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 1.44,
+   "c": 1.46,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 54.6
+   "r": 54.7
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
   },
   {
-   "t": "How Is Texas Instruments' Stock Performance Compared to Other Semiconductor Stocks?",
+   "t": "Price, Not Politics, Is Driving Most of India’s Oil Buying",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-stock-performance-compared-092835644.html"
+   "u": "https://finance.yahoo.com/energy/articles/price-not-politics-driving-most-093000043.html"
   },
   {
    "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
   },
   {
-   "t": "Price, Not Politics, Is Driving Most of India’s Oil Buying",
+   "t": "How Is Texas Instruments' Stock Performance Compared to Other Semiconductor Stocks?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/price-not-politics-driving-most-093000043.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-stock-performance-compared-092835644.html"
   },
   {
    "t": "今彩539第115213期　頭獎4注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
   },
   {
-   "t": "Royal Bank of Canada (RY) Posts Record Profit as Tariffs Loom",
+   "t": "Marvell’s (MRVL) Data Center Machine Keeps Rewriting Its Own Forecast",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/royal-bank-canada-ry-posts-091959289.html"
+   "u": "https://finance.yahoo.com/technology/articles/marvell-mrvl-data-center-machine-094301143.html"
   },
   {
    "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
