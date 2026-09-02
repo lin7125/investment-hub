@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 14:41（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 14:51（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.2,
-   "c": -3.62,
-   "a50": 54.39,
+   "p": 46.05,
+   "c": -1.81,
+   "a50": 54.41,
    "a200": 43.76,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.49,
-   "r": 38.8
+   "a20": 49.53,
+   "r": 40.2
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.67,
-   "c": 1.08,
+   "p": 95.45,
+   "c": 0.85,
    "a50": 85.32,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.87,
-   "r": 61.6
+   "a20": 89.86,
+   "r": 61.3
   },
   {
    "s": "GC=F",
-   "p": 4370.0,
-   "c": 0.51,
-   "a50": 4221.04,
-   "a200": 4516.65,
+   "p": 4371.3,
+   "c": 0.54,
+   "a50": 4221.07,
+   "a200": 4516.66,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4450.4,
-   "r": 48.8
+   "a20": 4450.46,
+   "r": 48.9
   },
   {
    "s": "HG=F",
-   "p": 6.54,
-   "c": 0.57,
+   "p": 6.56,
+   "c": 0.77,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 51.2
+   "r": 52.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03148615,
-   "c": -0.23,
+   "c": -0.21,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020152.aspx"
   },
   {
-   "t": "Best Buy’s (BBY) Turnaround Gains Steam As Leadership Changes Hands",
+   "t": "Why Nvidia Stock Looks Attractive... for Some Investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/best-buy-bby-turnaround-gains-190436123.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-stock-looks-attractive-191726860.html"
   },
   {
    "t": "台積電跌破季線　台股收跌784點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020151.aspx"
   },
   {
-   "t": "Weekly survey of mortgage lenders with the lowest rates: Minor pricing changes",
+   "t": "Best Buy’s (BBY) Turnaround Gains Steam As Leadership Changes Hands",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-31-170834159.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/best-buy-bby-turnaround-gains-190436123.html"
   },
   {
    "t": "9月台股期指跌1012點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020149.aspx"
   },
   {
-   "t": "6 ways to invest in gold from simple buys to more complex bets",
+   "t": "Weekly survey of mortgage lenders with the lowest rates: Minor pricing changes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/best-way-to-invest-in-gold-152426261.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-31-170834159.html"
   },
   {
    "t": "台股跌784點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020146.aspx"
   },
   {
-   "t": "Why Nvidia Stock Looks Attractive... for Some Investors",
+   "t": "Rip-Roaring Bull Markets Are Taking Corn, Soybean, and Wheat Prices Higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-stock-looks-attractive-191726860.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/rip-roaring-bull-markets-taking-190002679.html"
   },
   {
    "t": "TEL台灣總裁仲間誠二上任後首露面　揭培育人才3要務",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020143.aspx"
   },
   {
-   "t": "Broadcom Has Trailed the S&P 500 This Year. That Shouldn't Last Much Longer.",
+   "t": "Amazon Shares Slip as FTC Lawsuit Looms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/broadcom-trailed-p-500-shouldnt-190500296.html"
+   "u": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/amazon-shares-slip-as-ftc-lawsuit-looms-4H956RJGgyfl58zZYrnB?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
