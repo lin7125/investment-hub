@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 14:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 15:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.45,
-   "c": 0.85,
+   "p": 95.52,
+   "c": 0.92,
    "a50": 85.32,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 89.86,
-   "r": 61.3
+   "r": 61.4
   },
   {
    "s": "GC=F",
-   "p": 4371.3,
-   "c": 0.54,
-   "a50": 4221.07,
-   "a200": 4516.66,
+   "p": 4362.1,
+   "c": 0.32,
+   "a50": 4220.89,
+   "a200": 4516.61,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4450.46,
-   "r": 48.9
+   "a20": 4450.01,
+   "r": 48.2
   },
   {
    "s": "HG=F",
-   "p": 6.56,
-   "c": 0.77,
+   "p": 6.55,
+   "c": 0.6,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 52.1
+   "r": 51.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03148615,
-   "c": -0.21,
+   "p": 0.03146633,
+   "c": -0.3,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020151.aspx"
   },
   {
-   "t": "Best Buy’s (BBY) Turnaround Gains Steam As Leadership Changes Hands",
+   "t": "SEC chairman moves to give US states power over shareholder resolutions",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/best-buy-bby-turnaround-gains-190436123.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/sec-chairman-moves-us-states-193030974.html"
   },
   {
    "t": "9月台股期指跌1012點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020149.aspx"
   },
   {
-   "t": "Weekly survey of mortgage lenders with the lowest rates: Minor pricing changes",
+   "t": "Dollar Slips on Dovish Bessent Comments",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-31-170834159.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-slips-dovish-bessent-comments-193251444.html"
   },
   {
    "t": "台股跌784點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020146.aspx"
   },
   {
-   "t": "Rip-Roaring Bull Markets Are Taking Corn, Soybean, and Wheat Prices Higher",
+   "t": "Best Buy’s (BBY) Turnaround Gains Steam As Leadership Changes Hands",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/rip-roaring-bull-markets-taking-190002679.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/best-buy-bby-turnaround-gains-190436123.html"
   },
   {
    "t": "TEL台灣總裁仲間誠二上任後首露面　揭培育人才3要務",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020143.aspx"
   },
   {
-   "t": "Amazon Shares Slip as FTC Lawsuit Looms",
+   "t": "Weekly survey of mortgage lenders with the lowest rates: Minor pricing changes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/amazon-shares-slip-as-ftc-lawsuit-looms-4H956RJGgyfl58zZYrnB?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-31-170834159.html"
   }
  ],
  "inst": {
