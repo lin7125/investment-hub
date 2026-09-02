@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 15:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 15:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.39,
-   "c": 0.31,
+   "p": 16.41,
+   "c": 0.43,
    "a50": 16.4,
    "a200": 18.35,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.22,
-   "r": 53.6
+   "r": 53.7
   },
   {
    "s": "BZ=F",
-   "p": 94.81,
-   "c": 0.17,
-   "a50": 85.31,
-   "a200": 83.53,
+   "p": 94.6,
+   "c": -0.05,
+   "a50": 85.3,
+   "a200": 83.52,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.82,
-   "r": 60.4
+   "a20": 89.81,
+   "r": 60.0
   },
   {
    "s": "GC=F",
-   "p": 4376.7,
-   "c": 0.66,
-   "a50": 4221.18,
-   "a200": 4516.69,
+   "p": 4371.1,
+   "c": 0.53,
+   "a50": 4221.07,
+   "a200": 4516.66,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4450.74,
-   "r": 49.3
+   "a20": 4450.46,
+   "r": 48.9
   },
   {
    "s": "HG=F",
-   "p": 6.54,
-   "c": 0.58,
+   "p": 6.55,
+   "c": 0.64,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 51.3
+   "r": 51.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03146633,
-   "c": -0.28,
+   "p": 0.03145643,
+   "c": -0.33,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020152.aspx"
   },
   {
-   "t": "Okta Stock Just Got a New Street-High Price Target",
+   "t": "Tesla Tops S&P 500. Was It Cybercab Buzz, Or Elon Musk's New FSD Tease?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/okta-stock-just-got-street-201450706.html"
+   "u": "https://www.investors.com/news/tesla-sp-500-cybercab-robotaxi-self-driving-cars-elon-musk/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台積電跌破季線　台股收跌784點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020151.aspx"
   },
   {
-   "t": "AMD Stock Alert: Advanced Micro Devices Teams Up With Cisco on AI Infrastructure",
+   "t": "Gold posts best month since February despite investor concerns over rate hikes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-alert-advanced-micro-201522502.html"
+   "u": "https://finance.yahoo.com/markets/article/gold-posts-best-month-since-february-despite-investor-concerns-over-rate-hikes-165315959.html"
   },
   {
    "t": "9月台股期指跌1012點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020149.aspx"
   },
   {
-   "t": "How to get a car loan with bad credit",
+   "t": "AMD Stock Alert: Advanced Micro Devices Teams Up With Cisco on AI Infrastructure",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/car-loan-bad-credit-203049189.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-alert-advanced-micro-201522502.html"
   },
   {
    "t": "台股跌784點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020146.aspx"
   },
   {
-   "t": "Nvidia Stock Teases Buy Zone After Beat-And-Raise Report. Watch These Clues.",
+   "t": "Okta Stock Just Got a New Street-High Price Target",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/nvidia-stock-teases-buy-zone-after-beat-and-raise-report-watch-these-clues/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/okta-stock-just-got-street-201450706.html"
   },
   {
    "t": "TEL台灣總裁仲間誠二上任後首露面　揭培育人才3要務",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020143.aspx"
   },
   {
-   "t": "How to Play the Micron vs. CXMT Memory-Chip War",
+   "t": "Your Drug Is Covered Today. On January 1, the Plan Can Change the Rules and Nobody Calls to Warn You.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/micron-stock-cxmt-chinese-memory-chip-dram-etf-d2b135a2?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/drug-covered-today-january-1-203007379.html"
   }
  ],
  "inst": {
