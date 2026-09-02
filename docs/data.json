@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 02:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 02:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 326.33,
-   "c": 0.37,
+   "p": 326.22,
+   "c": 0.34,
    "a50": 313.58,
-   "a200": 283.34,
+   "a200": 283.33,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 312.09,
-   "r": 62.0
+   "a20": 312.08,
+   "r": 61.9
   },
   {
    "s": "NVDA",
-   "p": 224.82,
-   "c": 3.39,
+   "p": 224.77,
+   "c": 3.37,
    "a50": 209.29,
    "a200": 196.27,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 352.42,
-   "c": -1.03,
+   "p": 352.26,
+   "c": -1.08,
    "a50": 358.26,
    "a200": 399.95,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 344.09,
+   "a20": 344.08,
    "r": 51.4
   },
   {
    "s": "META",
-   "p": 591.71,
-   "c": 2.28,
-   "a50": 592.93,
-   "a200": 622.2,
+   "p": 592.9,
+   "c": 2.48,
+   "a50": 592.95,
+   "a200": 622.21,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.55,
-   "r": 54.8
+   "a20": 574.61,
+   "r": 55.2
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7669.15,
+   "p": 7668.75,
    "c": 0.49,
-   "a50": 7576.75,
+   "a50": 7576.74,
    "a200": 7131.48,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.89,
+   "a20": 7708.87,
    "r": 51.7
   },
   {
    "s": "^VIX",
-   "p": 15.27,
-   "c": -6.55,
+   "p": 15.25,
+   "c": -6.67,
    "a50": 16.37,
    "a200": 18.34,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.16,
-   "r": 48.0
+   "r": 47.9
   },
   {
    "s": "BZ=F",
-   "p": 95.63,
-   "c": 1.04,
-   "a50": 85.32,
+   "p": 95.7,
+   "c": 1.11,
+   "a50": 85.33,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.86,
-   "r": 61.5
+   "a20": 89.87,
+   "r": 61.6
   },
   {
    "s": "GC=F",
-   "p": 4423.0,
-   "c": 1.72,
-   "a50": 4222.1,
-   "a200": 4516.92,
+   "p": 4421.6,
+   "c": 1.69,
+   "a50": 4222.08,
+   "a200": 4516.91,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4453.05,
-   "r": 52.4
+   "a20": 4452.98,
+   "r": 52.3
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 1.48,
+   "c": 1.49,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03149606,
-   "c": -0.19,
+   "p": 0.03150599,
+   "c": -0.18,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
   },
   {
-   "t": "U.S. Debt, AI Borrowing Binge Spurs Bessent's Bond Market Gambit; Risks Rise For Stocks, Dollar",
+   "t": "Bilibili’s (BILI) Ad Engine And Margins Outrun Its Slumping Game Unit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/us-debt-ai-borrowing-bessent-bond-market-stocks-dollar/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/media-advertising/articles/bilibili-bili-ad-engine-margins-092735917.html"
   },
   {
    "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030002.aspx"
   },
   {
-   "t": "Cancer Stock Breaks Out To Highs; Key FDA Action On Watch",
+   "t": "Royal Bank of Canada (RY) Posts Record Profit as Tariffs Loom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/cancer-exelixis-exel-stock-fda-drugs-markets-investing/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/policy/articles/royal-bank-canada-ry-posts-091959289.html"
   },
   {
    "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
   },
   {
-   "t": "Jim Cramer Explains Why Palantir’s Rule of 40 Dominance Proves Bears Wrong",
+   "t": "Build-A-Bear’s (BBW) Summer Stumble Tests A Brand Built On Loyalty",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-palantir-172601433.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/build-bear-bbw-summer-stumble-090806178.html"
   },
   {
    "t": "今彩539第115213期　頭獎4注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
   },
   {
-   "t": "How to pay off student loans quickly: 8 strategies that work",
+   "t": "How Is Texas Instruments' Stock Performance Compared to Other Semiconductor Stocks?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/student-loans/article/paying-off-student-loans-184751746.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-stock-performance-compared-092835644.html"
   },
   {
    "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
