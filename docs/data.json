@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 01:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 01:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 325.62,
-   "c": 0.15,
+   "p": 325.67,
+   "c": 0.17,
    "a50": 313.57,
    "a200": 283.33,
    "yh": 340.08,
    "yl": 226.79,
    "a20": 312.05,
-   "r": 61.4
+   "r": 61.5
   },
   {
    "s": "NVDA",
-   "p": 225.26,
-   "c": 3.6,
+   "p": 224.96,
+   "c": 3.46,
    "a50": 209.3,
    "a200": 196.27,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.33,
-   "r": 57.2
+   "a20": 219.32,
+   "r": 57.0
   },
   {
    "s": "TSLA",
-   "p": 353.21,
-   "c": -0.81,
+   "p": 353.24,
+   "c": -0.8,
    "a50": 358.28,
    "a200": 399.95,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 592.28,
-   "c": 2.37,
-   "a50": 592.94,
+   "p": 593.35,
+   "c": 2.56,
+   "a50": 592.96,
    "a200": 622.21,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.58,
-   "r": 55.0
+   "a20": 574.63,
+   "r": 55.3
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7665.63,
-   "c": 0.45,
-   "a50": 7576.68,
-   "a200": 7131.46,
+   "p": 7663.59,
+   "c": 0.42,
+   "a50": 7576.64,
+   "a200": 7131.45,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.72,
-   "r": 51.4
+   "a20": 7708.61,
+   "r": 51.2
   },
   {
    "s": "^VIX",
-   "p": 15.38,
-   "c": -5.88,
+   "p": 15.39,
+   "c": -5.81,
    "a50": 16.38,
    "a200": 18.34,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.69,
-   "c": 1.1,
+   "p": 95.81,
+   "c": 1.23,
    "a50": 85.33,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 89.87,
-   "r": 61.6
+   "r": 61.8
   },
   {
    "s": "GC=F",
-   "p": 4415.0,
-   "c": 1.54,
-   "a50": 4221.94,
+   "p": 4415.7,
+   "c": 1.56,
+   "a50": 4221.96,
    "a200": 4516.88,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4452.65,
+   "a20": 4452.69,
    "r": 51.9
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": 1.42,
+   "p": 6.59,
+   "c": 1.33,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 54.5
+   "r": 54.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03150599,
-   "c": -0.15,
+   "c": -0.17,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
   },
   {
-   "t": "Stock Market Today: Dow, Small Caps Lead Rise; Digital Ad Firm Rallies Off Key Level (Live Coverage)",
+   "t": "Goldman Sachs warns investors to expect lower returns over the next year",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-ai-stock-credo-earnings/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/goldman-sachs-warns-investors-to-expect-lower-returns-over-the-next-year-171050637.html"
   },
   {
    "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020356.aspx"
   },
   {
-   "t": "Rosenblatt Raises MongoDB (MDB) Price Target Despite Atlas Growth Concerns",
+   "t": "Here’s Why Berenberg Sees More Upside on Autodesk Stock Despite Key AI Headwinds",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-raises-mongodb-mdb-price-163844853.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-berenberg-sees-more-upside-170706753.html"
   },
   {
    "t": "串聯台灣業者展前瞻資安量能　數產署：建構半導體堅實防線",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020352.aspx"
   },
   {
-   "t": "Do You Believe in Insmed’s INSM) Long-Term Potential Despite Short-Term Challenges?",
+   "t": "Nvidia Leads Chip Stocks Higher Amid Renewed Confidence In AI Spending",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/believe-insmed-insm-long-term-162515449.html"
+   "u": "https://www.investors.com/news/technology/nvidia-stock-buy-point-chip-stocks-rally/?src=A00220&yptr=yahoo"
   },
   {
    "t": "國銀五大信賴產業放款單月大增3061億　7月底餘額近5兆",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020349.aspx"
   },
   {
-   "t": "IBD Stock Of The Day, TG Therapeutics, Eyes Breakout After Topping Early Buy Point",
+   "t": "CrowdStrike’s AI Security Boom May Still Have Room to Run",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/tg-therapeutics-stock-briumvi-early-buy-point/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-ai-security-boom-may-165458612.html"
   },
   {
    "t": "叡揚資訊：訂閱式收入增加　今年營收有望雙位數成長",
