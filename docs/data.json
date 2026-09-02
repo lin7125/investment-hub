@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 13:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 13:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,14 +14,14 @@
   },
   {
    "s": "2317.TW",
-   "p": 251.5,
-   "c": -1.76,
-   "a50": 248.03,
-   "a200": 235.72,
+   "p": 251.0,
+   "c": -1.95,
+   "a50": 248.02,
+   "a200": 235.71,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 254.0,
-   "r": 50.4
+   "a20": 253.98,
+   "r": 50.0
   },
   {
    "s": "2308.TW",
@@ -36,14 +36,14 @@
   },
   {
    "s": "2454.TW",
-   "p": 4315.0,
-   "c": 0.0,
-   "a50": 3881.6,
-   "a200": 2618.05,
+   "p": 4280.0,
+   "c": -0.81,
+   "a50": 3880.9,
+   "a200": 2617.88,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3968.5,
-   "r": 62.2
+   "a20": 3966.75,
+   "r": 61.0
   },
   {
    "s": "2327.TW",
@@ -69,14 +69,14 @@
   },
   {
    "s": "6862.TW",
-   "p": 141.0,
-   "c": 0.0,
-   "a50": 154.54,
+   "p": 140.0,
+   "c": -0.71,
+   "a50": 154.52,
    "a200": 174.02,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 141.62,
-   "r": 45.9
+   "a20": 141.57,
+   "r": 44.8
   },
   {
    "s": "3701.TW",
@@ -91,36 +91,36 @@
   },
   {
    "s": "4722.TW",
-   "p": 204.0,
-   "c": -1.92,
-   "a50": 226.82,
-   "a200": 200.82,
+   "p": 202.5,
+   "c": -2.64,
+   "a50": 226.79,
+   "a200": 200.81,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 210.82,
-   "r": 44.9
+   "a20": 210.75,
+   "r": 44.1
   },
   {
    "s": "6706.TW",
-   "p": 127.0,
-   "c": 0.0,
-   "a50": 122.44,
+   "p": 126.5,
+   "c": -0.39,
+   "a50": 122.43,
    "a200": 129.62,
    "yh": 216.5,
    "yl": 60.5,
-   "a20": 119.7,
-   "r": 57.1
+   "a20": 119.68,
+   "r": 56.5
   },
   {
    "s": "2305.TW",
-   "p": 30.4,
-   "c": 2.88,
+   "p": 30.45,
+   "c": 3.05,
    "a50": 32.02,
    "a200": 19.69,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 28.34,
-   "r": 53.0
+   "r": 53.2
   },
   {
    "s": "6442.TW",
@@ -135,36 +135,36 @@
   },
   {
    "s": "6515.TW",
-   "p": 7130.0,
-   "c": 3.18,
-   "a50": 6958.5,
-   "a200": 6247.45,
+   "p": 7035.0,
+   "c": 1.81,
+   "a50": 6956.6,
+   "a200": 6246.98,
    "yh": 10795.0,
    "yl": 1535.0,
-   "a20": 6556.5,
-   "r": 59.1
+   "a20": 6551.75,
+   "r": 57.8
   },
   {
    "s": "6446.TW",
-   "p": 1305.0,
-   "c": -0.38,
-   "a50": 1287.94,
-   "a200": 769.99,
+   "p": 1300.0,
+   "c": -0.76,
+   "a50": 1287.84,
+   "a200": 769.97,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1417.75,
-   "r": 45.6
+   "a20": 1417.5,
+   "r": 45.3
   },
   {
    "s": "3324.TWO",
-   "p": 1420.0,
-   "c": 3.27,
-   "a50": 992.54,
-   "a200": 1003.42,
-   "yh": 1420.0,
+   "p": 1415.0,
+   "c": 2.91,
+   "a50": 992.44,
+   "a200": 1003.4,
+   "yh": 1415.0,
    "yl": 643.0,
-   "a20": 1077.95,
-   "r": 81.3
+   "a20": 1077.7,
+   "r": 81.2
   },
   {
    "s": "3491.TWO",
@@ -179,36 +179,36 @@
   },
   {
    "s": "3585.TWO",
-   "p": 46.0,
-   "c": -1.92,
-   "a50": 54.41,
+   "p": 45.55,
+   "c": -2.88,
+   "a50": 54.4,
    "a200": 43.76,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.53,
-   "r": 40.1
+   "a20": 49.51,
+   "r": 39.4
   },
   {
    "s": "6223.TWO",
-   "p": 5320.0,
-   "c": -1.66,
-   "a50": 5977.8,
-   "a200": 4240.0,
+   "p": 5275.0,
+   "c": -2.5,
+   "a50": 5976.9,
+   "a200": 4239.77,
    "yh": 7380.0,
    "yl": 1385.0,
-   "a20": 5705.0,
-   "r": 44.7
+   "a20": 5702.75,
+   "r": 44.0
   },
   {
    "s": "6750.TWO",
-   "p": 57.4,
-   "c": 6.3,
-   "a50": 58.27,
+   "p": 57.9,
+   "c": 7.22,
+   "a50": 58.28,
    "a200": 57.4,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.7,
-   "r": 55.8
+   "a20": 55.72,
+   "r": 57.3
   },
   {
    "s": "AAPL",
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 46239.78,
-   "c": -1.51,
-   "a50": 44897.35,
-   "a200": 37059.04,
+   "p": 46237.38,
+   "c": -1.52,
+   "a50": 44897.3,
+   "a200": 37059.02,
    "yh": 47741.51,
    "yl": 24016.78,
-   "a20": 45472.7,
+   "a20": 45472.58,
    "r": 57.2
   },
   {
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.54,
-   "c": 0.94,
+   "p": 95.37,
+   "c": 0.76,
    "a50": 85.32,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.86,
-   "r": 61.4
+   "a20": 89.85,
+   "r": 61.2
   },
   {
    "s": "GC=F",
-   "p": 4351.5,
-   "c": 0.08,
-   "a50": 4220.67,
-   "a200": 4516.56,
+   "p": 4358.0,
+   "c": 0.23,
+   "a50": 4220.8,
+   "a200": 4516.59,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4449.48,
-   "r": 47.4
+   "a20": 4449.8,
+   "r": 47.9
   },
   {
    "s": "HG=F",
-   "p": 6.53,
-   "c": 0.29,
+   "p": 6.54,
+   "c": 0.45,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 50.1
+   "r": 50.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03149606,
-   "c": -0.21,
+   "p": 0.03148615,
+   "c": -0.23,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020106.aspx"
   },
   {
-   "t": "FingerMotion Stock Recently Soared on an AI Data Center Pivot. How to Play FNGR Here.",
+   "t": "Unusual Volume in Edwards Lifesciences Put Options Shows Investors Bullish on EW Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fingermotion-stock-recently-soared-ai-172212235.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/unusual-volume-edwards-lifesciences-put-173002555.html"
   },
   {
    "t": "渣打：AI帶動成長　上調台灣今年經濟成長率至11.5%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020101.aspx"
   },
   {
-   "t": "Cotton Posting Monday Rally",
+   "t": "Fed Chairman Kevin Warsh warned about inflation — but that's not why long-term rates are surging: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/cotton-posting-monday-rally-172155652.html"
+   "u": "https://finance.yahoo.com/markets/article/fed-chairman-kevin-warsh-warned-about-inflation--but-thats-not-why-long-term-rates-are-surging-chart-of-the-day-173243232.html"
   },
   {
    "t": "新台幣貶9.3分　暫收31.726元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020097.aspx"
   },
   {
-   "t": "Soybeans Posting Modest Monday Gains",
+   "t": "August Wrap-Up Weather, Geopolitics, and Fuel Costs Keep Commodity Markets Busy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-posting-modest-monday-gains-172155292.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/august-wrap-weather-geopolitics-fuel-173557026.html"
   },
   {
    "t": "日銀總裁回應升息可能性　稱「將充分討論」",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020095.aspx"
   },
   {
-   "t": "Corn Bulls Extending Gains into the End of August",
+   "t": "FingerMotion Stock Recently Soared on an AI Data Center Pivot. How to Play FNGR Here.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-bulls-extending-gains-end-172155764.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fingermotion-stock-recently-soared-ai-172212235.html"
   }
  ],
  "inst": {
