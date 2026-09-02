@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 06:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 06:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.23,
-   "c": 0.61,
+   "p": 95.35,
+   "c": 0.74,
    "a50": 85.32,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.84,
-   "r": 61.0
+   "a20": 89.85,
+   "r": 61.1
   },
   {
    "s": "GC=F",
-   "p": 4436.9,
-   "c": 2.04,
-   "a50": 4222.38,
-   "a200": 4516.99,
+   "p": 4436.0,
+   "c": 2.02,
+   "a50": 4222.36,
+   "a200": 4516.98,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4453.74,
+   "a20": 4453.7,
    "r": 53.2
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 1.63,
+   "c": 1.53,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 55.3
+   "r": 54.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03150599,
-   "c": -0.15,
+   "c": -0.16,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "美商務部長：擬加徵半導體關稅　在美生產可豁免",
+   "t": "美國伊朗衝突不斷　國際油價續漲",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/aopl/202609030004.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030011.aspx"
   },
   {
    "t": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
@@ -344,16 +344,40 @@
    "u": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html"
   },
   {
+   "t": "連跌後吸引逢低買氣　美股收高",
+   "pub": "中央社財經",
+   "d": "2026-09-03",
+   "u": "https://www.cna.com.tw/news/afe/202609030009.aspx"
+  },
+  {
+   "t": "Elevance Health (ELV): Bridging the Gap between Care and Coverage",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/healthcare/articles/elevance-health-elv-bridging-gap-141309528.html"
+  },
+  {
+   "t": "美商務部長：擬加徵半導體關稅　在美生產可豁免",
+   "pub": "中央社財經",
+   "d": "2026-09-03",
+   "u": "https://www.cna.com.tw/news/aopl/202609030004.aspx"
+  },
+  {
+   "t": "Citi Trends (CTRN) Turns A Growth Streak Into Real Profit",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/citi-trends-ctrn-turns-growth-141403811.html"
+  },
+  {
    "t": "美債殖利率與油價回升　歐股收黑",
    "pub": "中央社財經",
    "d": "2026-09-03",
    "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
   },
   {
-   "t": "Why Marvell Stock’s Post-Earnings Malaise Offers Another Shot",
+   "t": "United Kingdom To Bring Stocks Onchain",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-post-earnings-135218808.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/united-kingdom-bring-stocks-onchain-141300465.html"
   },
   {
    "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
@@ -362,40 +386,16 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030002.aspx"
   },
   {
-   "t": "Singapore Moves To Ban Stablecoin Yield",
+   "t": "US job openings rise slightly to 7.3 million as labor market remains sturdy despite higher costs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/singapore-moves-ban-stablecoin-yield-135900461.html"
+   "u": "https://finance.yahoo.com/economy/articles/u-job-openings-rise-slightly-140953221.html"
   },
   {
    "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
    "pub": "中央社財經",
    "d": "2026-09-02",
    "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
-  },
-  {
-   "t": "Stocks slip as 10-year Treasury yield hits highest level since January 2025: AlphaCheck",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/article/stocks-slip-as-10-year-treasury-yield-hits-highest-level-since-january-2025-alphacheck-134150677.html"
-  },
-  {
-   "t": "今彩539第115213期　頭獎4注中獎",
-   "pub": "中央社財經",
-   "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
-  },
-  {
-   "t": "Is Micron Technology Stock Outperforming the Nasdaq?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-outperforming-nasdaq-133913289.html"
-  },
-  {
-   "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
-   "pub": "中央社財經",
-   "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/aopl/202609020356.aspx"
   },
   {
    "t": "Costco shuts down key service without notice",
