@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 17:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 17:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.6,
-   "c": 1.59,
+   "p": 16.63,
+   "c": 1.77,
    "a50": 16.4,
    "a200": 18.35,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.23,
-   "r": 54.5
+   "r": 54.7
   },
   {
    "s": "BZ=F",
-   "p": 94.96,
-   "c": 0.33,
+   "p": 95.15,
+   "c": 0.53,
    "a50": 85.31,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.83,
-   "r": 60.6
+   "a20": 89.84,
+   "r": 60.9
   },
   {
    "s": "GC=F",
-   "p": 4361.6,
-   "c": 0.31,
-   "a50": 4220.88,
-   "a200": 4516.61,
+   "p": 4355.9,
+   "c": 0.18,
+   "a50": 4220.76,
+   "a200": 4516.58,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4449.98,
-   "r": 48.2
+   "a20": 4449.69,
+   "r": 47.7
   },
   {
    "s": "HG=F",
    "p": 6.53,
-   "c": 0.44,
+   "c": 0.4,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 50.7
+   "r": 50.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03150599,
-   "c": -0.15,
+   "p": 0.03149606,
+   "c": -0.19,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "新台幣貶9.5分　收31.728元",
+   "t": "安碁資訊：下半年有望優於上半年　拚全年營收雙位數成長",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020221.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020264.aspx"
   },
   {
    "t": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
@@ -344,10 +344,22 @@
    "u": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html"
   },
   {
-   "t": "穎崴：不缺席CPO晶圓測試　10幾個專案進行中",
+   "t": "外資精選台灣100強榜單出爐　前10大皆為AI供應鏈",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020215.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020249.aspx"
+  },
+  {
+   "t": "Nvidia Can Clearly Afford a Bigger Dividend. Why Its Payout Hasn’t Grown.",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-clearly-afford-bigger-dividend-233002980.html"
+  },
+  {
+   "t": "信邦8月營收32億元年增逾3成　連5月創高",
+   "pub": "中央社財經",
+   "d": "2026-09-02",
+   "u": "https://www.cna.com.tw/news/afe/202609020247.aspx"
   },
   {
    "t": "Why More Venezuelan Oil Won’t Solve America’s Gasoline Problem",
@@ -356,10 +368,10 @@
    "u": "https://finance.yahoo.com/energy/articles/why-more-venezuelan-oil-won-230000293.html"
   },
   {
-   "t": "南亞科8月營收攀升至446億元　再創歷史新高",
+   "t": "經部：白埔園區南側台積電設2座中心　高雄市府辦理北側招商",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020214.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020243.aspx"
   },
   {
    "t": "Uphold review 2026: One account for crypto, metals, and cash",
@@ -368,22 +380,10 @@
    "u": "https://finance.yahoo.com/personal-finance/investing/review/uphold-review-203900002.html"
   },
   {
-   "t": "高油價、債市崩跌夾擊　日經大跌2.85%",
+   "t": "AI基礎建設瓶頸浮現　微軟：效率突破在跨層設計",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020196.aspx"
-  },
-  {
-   "t": "KKR's 'Berkshire Hathaway' strategy bears fruit with $17B USI sale",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/kkrs-berkshire-hathaway-strategy-bears-224841466.html"
-  },
-  {
-   "t": "2027年人口結構2大轉折　18歲人口首跌破20萬關卡",
-   "pub": "中央社財經",
-   "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020191.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020240.aspx"
   },
   {
    "t": "These are all the companies pledging matching funds to Trump Accounts",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/personal-finance/banking/article/these-are-all-the-companies-pledging-matching-funds-to-trump-accounts-155809477.html"
   },
   {
-   "t": "三大法人賣超台股1150.33億元",
+   "t": "Google副總裁：若沒與台灣夥伴合作　無法打造AI基礎設施",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020185.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020236.aspx"
   },
   {
    "t": "Citi says investors should consider buying tumbling tech stock",
