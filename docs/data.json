@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 17:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 17:25（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.72,
-   "c": 2.33,
+   "p": 16.6,
+   "c": 1.59,
    "a50": 16.4,
    "a200": 18.35,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.24,
-   "r": 55.1
+   "a20": 15.23,
+   "r": 54.5
   },
   {
    "s": "BZ=F",
-   "p": 94.77,
-   "c": 0.13,
+   "p": 94.96,
+   "c": 0.33,
    "a50": 85.31,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.82,
-   "r": 60.3
+   "a20": 89.83,
+   "r": 60.6
   },
   {
    "s": "GC=F",
-   "p": 4361.8,
-   "c": 0.32,
+   "p": 4361.6,
+   "c": 0.31,
    "a50": 4220.88,
    "a200": 4516.61,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4449.99,
+   "a20": 4449.98,
    "r": 48.2
   },
   {
    "s": "HG=F",
    "p": 6.53,
-   "c": 0.4,
+   "c": 0.44,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 50.5
+   "r": 50.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03151592,
-   "c": -0.12,
+   "p": 0.03150599,
+   "c": -0.15,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020214.aspx"
   },
   {
-   "t": "KKR's 'Berkshire Hathaway' strategy bears fruit with $17B USI sale",
+   "t": "Uphold review 2026: One account for crypto, metals, and cash",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/kkrs-berkshire-hathaway-strategy-bears-224841466.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/review/uphold-review-203900002.html"
   },
   {
    "t": "高油價、債市崩跌夾擊　日經大跌2.85%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020196.aspx"
   },
   {
-   "t": "Elastic (ESTC) Finally Delivered After Years of Head-Fakes — and Wall Street Still Can’t Agree It Lasts",
+   "t": "KKR's 'Berkshire Hathaway' strategy bears fruit with $17B USI sale",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/elastic-estc-finally-delivered-years-223759339.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kkrs-berkshire-hathaway-strategy-bears-224841466.html"
   },
   {
    "t": "2027年人口結構2大轉折　18歲人口首跌破20萬關卡",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020191.aspx"
   },
   {
-   "t": "Uphold review 2026: One account for crypto, metals, and cash",
+   "t": "These are all the companies pledging matching funds to Trump Accounts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/review/uphold-review-203900002.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/these-are-all-the-companies-pledging-matching-funds-to-trump-accounts-155809477.html"
   },
   {
    "t": "三大法人賣超台股1150.33億元",
