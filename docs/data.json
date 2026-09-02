@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 02:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 02:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 325.95,
-   "c": 0.25,
-   "a50": 313.57,
+   "p": 325.29,
+   "c": 0.05,
+   "a50": 313.56,
    "a200": 283.33,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 312.07,
-   "r": 61.7
+   "a20": 312.03,
+   "r": 61.2
   },
   {
    "s": "NVDA",
-   "p": 225.29,
-   "c": 3.61,
-   "a50": 209.3,
+   "p": 224.69,
+   "c": 3.33,
+   "a50": 209.29,
    "a200": 196.27,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.33,
-   "r": 57.2
+   "a20": 219.3,
+   "r": 56.8
   },
   {
    "s": "TSLA",
-   "p": 352.16,
-   "c": -1.1,
-   "a50": 358.25,
+   "p": 352.63,
+   "c": -0.97,
+   "a50": 358.26,
    "a200": 399.95,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 344.08,
-   "r": 51.3
+   "a20": 344.1,
+   "r": 51.5
   },
   {
    "s": "META",
-   "p": 592.48,
-   "c": 2.41,
-   "a50": 592.95,
-   "a200": 622.21,
+   "p": 591.77,
+   "c": 2.29,
+   "a50": 592.93,
+   "a200": 622.2,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.59,
-   "r": 55.1
+   "a20": 574.55,
+   "r": 54.8
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7669.56,
-   "c": 0.5,
-   "a50": 7576.76,
-   "a200": 7131.48,
+   "p": 7664.56,
+   "c": 0.43,
+   "a50": 7576.66,
+   "a200": 7131.46,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.91,
-   "r": 51.7
+   "a20": 7708.66,
+   "r": 51.3
   },
   {
    "s": "^VIX",
-   "p": 15.21,
-   "c": -6.92,
+   "p": 15.22,
+   "c": -6.85,
    "a50": 16.37,
    "a200": 18.34,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.73,
-   "c": 1.14,
-   "a50": 85.33,
+   "p": 95.23,
+   "c": 0.61,
+   "a50": 85.32,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.87,
-   "r": 61.7
+   "a20": 89.84,
+   "r": 61.0
   },
   {
    "s": "GC=F",
-   "p": 4419.4,
-   "c": 1.64,
-   "a50": 4222.03,
-   "a200": 4516.9,
+   "p": 4424.5,
+   "c": 1.76,
+   "a50": 4222.13,
+   "a200": 4516.93,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4452.87,
-   "r": 52.1
+   "a20": 4453.12,
+   "r": 52.5
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 1.46,
+   "c": 1.51,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 54.7
+   "r": 54.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03149606,
-   "c": -0.18,
+   "c": -0.19,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
   },
   {
-   "t": "Price, Not Politics, Is Driving Most of India’s Oil Buying",
+   "t": "Marvell’s (MRVL) Data Center Machine Keeps Rewriting Its Own Forecast",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/price-not-politics-driving-most-093000043.html"
+   "u": "https://finance.yahoo.com/technology/articles/marvell-mrvl-data-center-machine-094301143.html"
   },
   {
    "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030002.aspx"
   },
   {
-   "t": "Bilibili’s (BILI) Ad Engine And Margins Outrun Its Slumping Game Unit",
+   "t": "Factory activity bounced in August as AI fuelled Asian expansion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/bilibili-bili-ad-engine-margins-092735917.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/global-ai-boom-fuels-asia-023721642.html"
   },
   {
    "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
   },
   {
-   "t": "How Is Texas Instruments' Stock Performance Compared to Other Semiconductor Stocks?",
+   "t": "Price, Not Politics, Is Driving Most of India’s Oil Buying",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-stock-performance-compared-092835644.html"
+   "u": "https://finance.yahoo.com/energy/articles/price-not-politics-driving-most-093000043.html"
   },
   {
    "t": "今彩539第115213期　頭獎4注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
   },
   {
-   "t": "Marvell’s (MRVL) Data Center Machine Keeps Rewriting Its Own Forecast",
+   "t": "TD’s (TD) Record Quarter Comes With A Regulatory Asterisk",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/marvell-mrvl-data-center-machine-094301143.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/td-td-record-quarter-comes-095938043.html"
   },
   {
    "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
