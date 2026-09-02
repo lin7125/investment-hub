@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 15:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 15:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.36,
-   "c": 0.12,
+   "p": 16.39,
+   "c": 0.31,
    "a50": 16.4,
    "a200": 18.35,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.22,
-   "r": 53.4
+   "r": 53.6
   },
   {
    "s": "BZ=F",
-   "p": 95.09,
-   "c": 0.46,
+   "p": 94.81,
+   "c": 0.17,
    "a50": 85.31,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.84,
-   "r": 60.8
+   "a20": 89.82,
+   "r": 60.4
   },
   {
    "s": "GC=F",
-   "p": 4372.1,
-   "c": 0.55,
-   "a50": 4221.09,
-   "a200": 4516.66,
+   "p": 4376.7,
+   "c": 0.66,
+   "a50": 4221.18,
+   "a200": 4516.69,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4450.51,
-   "r": 48.9
+   "a20": 4450.74,
+   "r": 49.3
   },
   {
    "s": "HG=F",
    "p": 6.54,
-   "c": 0.53,
+   "c": 0.58,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 51.1
+   "r": 51.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03147624,
-   "c": -0.25,
+   "p": 0.03146633,
+   "c": -0.28,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020152.aspx"
   },
   {
-   "t": "26% of Gen Z Investors Include Sports Betting in Their Financial Strategy – Don’t Mistake Gambling for Retirement Investing",
+   "t": "Okta Stock Just Got a New Street-High Price Target",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/26-gen-z-investors-sports-195318329.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/okta-stock-just-got-street-201450706.html"
   },
   {
    "t": "台積電跌破季線　台股收跌784點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020151.aspx"
   },
   {
-   "t": "Coinbase And Webull Join Forces In Canada",
+   "t": "AMD Stock Alert: Advanced Micro Devices Teams Up With Cisco on AI Infrastructure",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/coinbase-webull-join-forces-canada-195500186.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-alert-advanced-micro-201522502.html"
   },
   {
    "t": "9月台股期指跌1012點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020149.aspx"
   },
   {
-   "t": "Nvidia Is Likely to Remain in an Uptrend as Earnings Outlook Remains Bright",
+   "t": "How to get a car loan with bad credit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-likely-remain-uptrend-earnings-195640710.html"
+   "u": "https://finance.yahoo.com/news/car-loan-bad-credit-203049189.html"
   },
   {
    "t": "台股跌784點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020146.aspx"
   },
   {
-   "t": "What you need to know about payday loans",
+   "t": "Nvidia Stock Teases Buy Zone After Beat-And-Raise Report. Watch These Clues.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/know-payday-loans-185219608.html"
+   "u": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/nvidia-stock-teases-buy-zone-after-beat-and-raise-report-watch-these-clues/?src=A00220&yptr=yahoo"
   },
   {
    "t": "TEL台灣總裁仲間誠二上任後首露面　揭培育人才3要務",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020143.aspx"
   },
   {
-   "t": "What Happens to XRP If the $1.30 Support Breaks?",
+   "t": "How to Play the Micron vs. CXMT Memory-Chip War",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/happens-xrp-1-30-support-195443140.html"
+   "u": "https://www.barrons.com/articles/micron-stock-cxmt-chinese-memory-chip-dram-etf-d2b135a2?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
