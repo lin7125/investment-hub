@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 15:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 15:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 46.0,
-   "c": -1.92,
-   "a50": 54.41,
+   "p": 45.65,
+   "c": -2.67,
+   "a50": 54.4,
    "a200": 43.76,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.53,
-   "r": 40.1
+   "a20": 49.51,
+   "r": 39.6
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.37,
-   "c": 0.76,
-   "a50": 85.32,
+   "p": 94.97,
+   "c": 0.34,
+   "a50": 85.31,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.85,
-   "r": 61.2
+   "a20": 89.83,
+   "r": 60.6
   },
   {
    "s": "GC=F",
-   "p": 4368.0,
-   "c": 0.46,
-   "a50": 4221.0,
-   "a200": 4516.64,
+   "p": 4376.3,
+   "c": 0.65,
+   "a50": 4221.17,
+   "a200": 4516.69,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4450.3,
-   "r": 48.6
+   "a20": 4450.71,
+   "r": 49.2
   },
   {
    "s": "HG=F",
-   "p": 6.54,
-   "c": 0.56,
+   "p": 6.55,
+   "c": 0.7,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 51.2
+   "r": 51.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03146633,
-   "c": -0.3,
+   "c": -0.28,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020152.aspx"
   },
   {
-   "t": "Analysts Expect Nvidia Stock to Soar 47%, But You Shouldn’t Rush to Buy NVDA Here",
+   "t": "26% of Gen Z Investors Include Sports Betting in Their Financial Strategy – Don’t Mistake Gambling for Retirement Investing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/analysts-expect-nvidia-stock-soar-194056451.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/26-gen-z-investors-sports-195318329.html"
   },
   {
    "t": "台積電跌破季線　台股收跌784點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020151.aspx"
   },
   {
-   "t": "Dollar Slips on Dovish Bessent Comments",
+   "t": "Coinbase And Webull Join Forces In Canada",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-slips-dovish-bessent-comments-193251444.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/coinbase-webull-join-forces-canada-195500186.html"
   },
   {
    "t": "9月台股期指跌1012點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020149.aspx"
   },
   {
-   "t": "SEC chairman moves to give US states power over shareholder resolutions",
+   "t": "Nvidia Is Likely to Remain in an Uptrend as Earnings Outlook Remains Bright",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/sec-chairman-moves-us-states-193030974.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-likely-remain-uptrend-earnings-195640710.html"
   },
   {
    "t": "台股跌784點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020146.aspx"
   },
   {
-   "t": "26% of Gen Z Investors Include Sports Betting in Their Financial Strategy – Don’t Mistake Gambling for Retirement Investing",
+   "t": "What you need to know about payday loans",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/26-gen-z-investors-sports-195318329.html"
+   "u": "https://finance.yahoo.com/news/know-payday-loans-185219608.html"
   },
   {
    "t": "TEL台灣總裁仲間誠二上任後首露面　揭培育人才3要務",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202609020143.aspx"
   },
   {
-   "t": "Wall Street slips as oil spike revives rate fears",
+   "t": "What Happens to XRP If the $1.30 Support Breaks?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/wall-street-slips-oil-spike-194403456.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/happens-xrp-1-30-support-195443140.html"
   }
  ],
  "inst": {
-  "date": "2026-09-01",
+  "date": "2026-08-31",
   "byCode": {
-   "2317": {
-    "f": 13474,
-    "t": 698,
-    "all": 15110
-   },
-   "2330": {
-    "f": 5730,
-    "t": 103,
-    "all": 5965
-   },
-   "2327": {
-    "f": 10023,
-    "t": -4131,
-    "all": 5745
-   },
-   "1802": {
-    "f": 2918,
-    "t": 409,
-    "all": 3225
-   },
-   "6706": {
-    "f": 275,
+   "2305": {
+    "f": 546,
     "t": 0,
-    "all": 351
+    "all": 565
    },
    "6442": {
-    "f": 249,
-    "t": 6,
-    "all": 239
-   },
-   "4722": {
-    "f": 137,
-    "t": 0,
-    "all": 136
-   },
-   "6515": {
-    "f": 11,
-    "t": 69,
-    "all": 78
-   },
-   "3701": {
-    "f": 74,
-    "t": 0,
-    "all": 60
-   },
-   "6862": {
-    "f": -1,
-    "t": 0,
-    "all": -2
-   },
-   "2454": {
-    "f": -340,
-    "t": -3,
-    "all": -94
+    "f": 236,
+    "t": -66,
+    "all": 176
    },
    "2308": {
-    "f": -499,
-    "t": 194,
-    "all": -160
+    "f": 271,
+    "t": -161,
+    "all": 99
    },
-   "2305": {
-    "f": -887,
+   "6706": {
+    "f": 103,
     "t": 0,
-    "all": -828
+    "all": 98
+   },
+   "3701": {
+    "f": 50,
+    "t": 0,
+    "all": 51
+   },
+   "4722": {
+    "f": 0,
+    "t": 0,
+    "all": -11
+   },
+   "6862": {
+    "f": -17,
+    "t": 0,
+    "all": -19
+   },
+   "6515": {
+    "f": -15,
+    "t": -16,
+    "all": -35
+   },
+   "2454": {
+    "f": -614,
+    "t": -330,
+    "all": -955
    },
    "6446": {
-    "f": -26,
-    "t": -975,
-    "all": -992
+    "f": -1739,
+    "t": 4,
+    "all": -1800
+   },
+   "1802": {
+    "f": -2265,
+    "t": 47,
+    "all": -2238
+   },
+   "2317": {
+    "f": -3856,
+    "t": 166,
+    "all": -4059
+   },
+   "2330": {
+    "f": -4555,
+    "t": -962,
+    "all": -5695
+   },
+   "2327": {
+    "f": -13469,
+    "t": -3642,
+    "all": -16927
    }
   },
-  "totalNetE": 566.4
+  "totalNetE": -258.5
  }
 }
