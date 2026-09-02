@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 04:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 04:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 15.31,
-   "c": -6.3,
-   "a50": 16.38,
+   "p": 15.26,
+   "c": -6.61,
+   "a50": 16.37,
    "a200": 18.34,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.17,
-   "r": 48.1
+   "a20": 15.16,
+   "r": 47.9
   },
   {
    "s": "BZ=F",
-   "p": 95.39,
-   "c": 0.78,
-   "a50": 85.32,
+   "p": 94.94,
+   "c": 0.31,
+   "a50": 85.31,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.85,
-   "r": 61.2
+   "a20": 89.83,
+   "r": 60.6
   },
   {
    "s": "GC=F",
-   "p": 4433.6,
-   "c": 1.97,
-   "a50": 4222.32,
-   "a200": 4516.97,
+   "p": 4435.3,
+   "c": 2.01,
+   "a50": 4222.35,
+   "a200": 4516.98,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4453.58,
-   "r": 53.0
+   "a20": 4453.66,
+   "r": 53.1
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 1.52,
+   "c": 1.56,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 54.9
+   "r": 55.0
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
   },
   {
-   "t": "Is Stryker Stock Underperforming the Nasdaq?",
+   "t": "How to tell if you’re a poor, middle-class, or rich US boomer — and the big thing to do now if you’re way behind",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stryker-stock-underperforming-nasdaq-114044379.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tell-poor-middle-class-rich-114500444.html"
   },
   {
    "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030002.aspx"
   },
   {
-   "t": "Napco’s (NSSC) Record Quarter Comes With A Costly Asterisk Attached",
+   "t": "Last-mile costs rise 12% for a second year",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/napco-nssc-record-quarter-comes-113359153.html"
+   "u": "https://finance.yahoo.com/economy/articles/last-mile-costs-rise-12-120000869.html"
   },
   {
    "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
   },
   {
-   "t": "How to tell if you’re a poor, middle-class, or rich US boomer — and the big thing to do now if you’re way behind",
+   "t": "Is Charles Schwab Stock Underperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tell-poor-middle-class-rich-114500444.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-stock-underperforming-p-115730585.html"
   },
   {
    "t": "今彩539第115213期　頭獎4注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
   },
   {
-   "t": "HealthEquity’s (HQY) Health Savings Engine Hits A New Gear",
+   "t": "Tesla's AI Investments Pale In Comparison To Microsoft, Amazon And Alphabet",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/healthequity-hqy-health-savings-engine-114219183.html"
+   "u": "https://www.investors.com/news/ai-alphabet-amazon-microsoft-openai-anthropic-tesla-spacex/?src=A00220&yptr=yahoo"
   },
   {
    "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
