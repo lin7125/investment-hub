@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 03:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 03:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 325.28,
-   "c": 0.05,
-   "a50": 313.56,
+   "p": 325.67,
+   "c": 0.17,
+   "a50": 313.57,
    "a200": 283.33,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 312.03,
-   "r": 61.2
+   "a20": 312.05,
+   "r": 61.5
   },
   {
    "s": "NVDA",
-   "p": 224.62,
-   "c": 3.3,
+   "p": 224.45,
+   "c": 3.22,
    "a50": 209.29,
    "a200": 196.27,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.3,
-   "r": 56.8
+   "a20": 219.29,
+   "r": 56.7
   },
   {
    "s": "TSLA",
-   "p": 352.74,
-   "c": -0.94,
+   "p": 353.06,
+   "c": -0.85,
    "a50": 358.27,
    "a200": 399.95,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 344.11,
-   "r": 51.6
+   "a20": 344.12,
+   "r": 51.7
   },
   {
    "s": "META",
-   "p": 593.41,
-   "c": 2.57,
-   "a50": 592.96,
-   "a200": 622.21,
+   "p": 595.56,
+   "c": 2.94,
+   "a50": 593.01,
+   "a200": 622.22,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.64,
-   "r": 55.4
+   "a20": 574.74,
+   "r": 56.0
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7666.82,
-   "c": 0.46,
-   "a50": 7576.7,
-   "a200": 7131.47,
+   "p": 7668.97,
+   "c": 0.49,
+   "a50": 7576.74,
+   "a200": 7131.48,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.78,
-   "r": 51.5
+   "a20": 7708.88,
+   "r": 51.7
   },
   {
    "s": "^VIX",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.39,
-   "c": 0.78,
+   "p": 95.44,
+   "c": 0.83,
    "a50": 85.32,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 89.85,
-   "r": 61.2
+   "r": 61.3
   },
   {
    "s": "GC=F",
-   "p": 4421.1,
-   "c": 1.68,
-   "a50": 4222.07,
+   "p": 4422.1,
+   "c": 1.7,
+   "a50": 4222.09,
    "a200": 4516.91,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4452.96,
-   "r": 52.2
+   "a20": 4453.01,
+   "r": 52.3
   },
   {
    "s": "HG=F",
    "p": 6.6,
-   "c": 1.45,
+   "c": 1.44,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 54.7
+   "r": 54.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03149606,
-   "c": -0.19,
+   "c": -0.2,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
   },
   {
-   "t": "Is Eaton Corporation Stock Underperforming the Nasdaq?",
+   "t": "TD’s (TD) Record Quarter Comes With A Regulatory Asterisk",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/eaton-corporation-stock-underperforming-nasdaq-100330259.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/td-td-record-quarter-comes-095938043.html"
   },
   {
    "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030002.aspx"
   },
   {
-   "t": "Analysis-Texas' halt on powering data centers reflects US reckoning over 'ghost' demand",
+   "t": "Cook hands Apple to Ternus: bigger and richer, but catching up in AI race",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/analysis-texas-halt-powering-data-100250823.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/cook-hands-apple-ternus-bigger-101359508.html"
   },
   {
    "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
   },
   {
-   "t": "Software stocks crushed chips in August. History says September gets tougher: Chart of the Day",
+   "t": "Factory activity bounced in August as AI fuelled Asian expansion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/software-stocks-crushed-chips-in-august-history-says-september-gets-tougher-chart-of-the-day-100000653.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/global-ai-boom-fuels-asia-023721642.html"
   },
   {
    "t": "今彩539第115213期　頭獎4注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
   },
   {
-   "t": "5 clear signs you’re actually upper middle class in America (even if you feel broke)",
+   "t": "Affirm’s (AFRM) Next Chapter Bets Big On The Card",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/5-clear-signs-actually-upper-101500405.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/affirm-afrm-next-chapter-bets-100800347.html"
   },
   {
    "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
