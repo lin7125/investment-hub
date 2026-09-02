@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 07:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 07:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -280,50 +280,50 @@
    "s": "^VIX",
    "p": 15.2,
    "c": -6.98,
-   "a50": 16.47,
-   "a200": 18.37,
+   "a50": 16.37,
+   "a200": 18.34,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.23,
-   "r": 47.4
+   "a20": 15.16,
+   "r": 47.7
   },
   {
    "s": "BZ=F",
-   "p": 95.32,
-   "c": 0.71,
+   "p": 95.28,
+   "c": 0.67,
    "a50": 85.32,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 89.85,
-   "r": 61.1
+   "r": 61.0
   },
   {
    "s": "GC=F",
-   "p": 4431.1,
-   "c": 1.91,
-   "a50": 4222.27,
-   "a200": 4516.96,
+   "p": 4429.4,
+   "c": 1.87,
+   "a50": 4222.23,
+   "a200": 4516.95,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4453.46,
-   "r": 52.9
+   "a20": 4453.37,
+   "r": 52.8
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 1.54,
+   "c": 1.53,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 55.0
+   "r": 54.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03151592,
-   "c": -0.17,
+   "c": -0.16,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030004.aspx"
   },
   {
-   "t": "RTX Corporation Stock: Is RTX Outperforming the Industrial Sector?",
+   "t": "Is NIKE Stock Underperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-stock-rtx-outperforming-152720890.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nike-stock-underperforming-dow-152130977.html"
   },
   {
    "t": "美債殖利率與油價回升　歐股收黑",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
   },
   {
-   "t": "Dell and HPE Stocks Soared After Last Earnings. Forget the Guidance Raise. This Is What Matters Most This Time.",
+   "t": "OpenAI Is An Ad Business Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dell-hpe-stocks-soared-last-152826535.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/openai-ad-business-now-151737936.html"
   },
   {
    "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
   },
   {
-   "t": "How soaring Treasury yields could hit your finances",
+   "t": "Is Goldman Sachs Stock Outperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-soaring-treasury-yields-could-hit-your-finances-141336109.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-stock-outperforming-nasdaq-151659607.html"
   }
  ],
  "inst": {
