@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 03:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 03:57（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,20 +212,20 @@
   },
   {
    "s": "AAPL",
-   "p": 325.08,
-   "c": -0.02,
+   "p": 325.02,
+   "c": -0.03,
    "a50": 313.55,
    "a200": 283.33,
    "yh": 340.08,
    "yl": 226.79,
    "a20": 312.02,
-   "r": 61.0
+   "r": 60.9
   },
   {
    "s": "NVDA",
-   "p": 224.44,
-   "c": 3.22,
-   "a50": 209.29,
+   "p": 224.21,
+   "c": 3.11,
+   "a50": 209.28,
    "a200": 196.27,
    "yh": 235.74,
    "yl": 165.17,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 355.61,
-   "c": -0.13,
-   "a50": 358.32,
+   "p": 357.08,
+   "c": 0.28,
+   "a50": 358.35,
    "a200": 399.97,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 344.25,
-   "r": 52.9
+   "a20": 344.33,
+   "r": 53.5
   },
   {
    "s": "META",
-   "p": 593.65,
-   "c": 2.61,
-   "a50": 592.97,
+   "p": 593.03,
+   "c": 2.5,
+   "a50": 592.96,
    "a200": 622.21,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 574.65,
-   "r": 55.4
+   "a20": 574.62,
+   "r": 55.2
   },
   {
    "s": "^TWII",
@@ -267,25 +267,25 @@
   },
   {
    "s": "^GSPC",
-   "p": 7670.04,
-   "c": 0.51,
-   "a50": 7576.77,
-   "a200": 7131.48,
+   "p": 7665.87,
+   "c": 0.45,
+   "a50": 7576.68,
+   "a200": 7131.46,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.94,
-   "r": 51.8
+   "a20": 7708.73,
+   "r": 51.4
   },
   {
    "s": "^VIX",
-   "p": 15.22,
-   "c": -6.85,
+   "p": 15.27,
+   "c": -6.55,
    "a50": 16.37,
    "a200": 18.34,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.16,
-   "r": 47.7
+   "r": 48.0
   },
   {
    "s": "BZ=F",
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4430.2,
-   "c": 1.89,
-   "a50": 4222.25,
-   "a200": 4516.95,
+   "p": 4431.4,
+   "c": 1.92,
+   "a50": 4222.27,
+   "a200": 4516.96,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4453.41,
-   "r": 52.8
+   "a20": 4453.47,
+   "r": 52.9
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 1.52,
+   "c": 1.53,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
   },
   {
-   "t": "UP Fintech’s (TIGR) Record Quarter Comes With A Bigger Bill",
+   "t": "HYPE Price Eyes 10% Surge as Hyperliquid Pushes Toward US Expansion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fintech-tigr-record-quarter-comes-104421402.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/hype-price-eyes-10-surge-105211875.html"
   },
   {
    "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030002.aspx"
   },
   {
-   "t": "Morning Bid: September storm",
+   "t": "Salesforce (CRM) Bets Its Next Chapter On An Unlikely AI Marriage",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/morning-bid-september-storm-103452894.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-bets-next-chapter-110052594.html"
   },
   {
    "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
   },
   {
-   "t": "CrowdStrike’s (CRWD) Blowout Quarter Comes With A Guidance Reality Check",
+   "t": "UP Fintech’s (TIGR) Record Quarter Comes With A Bigger Bill",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-blowout-quarter-comes-105315744.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fintech-tigr-record-quarter-comes-104421402.html"
   },
   {
    "t": "今彩539第115213期　頭獎4注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
   },
   {
-   "t": "Stock Index Futures Slip as Bond Yields Surge, U.S. JOLTS Report in Focus",
+   "t": "October Volatility Warning: How Options Traders Can Prepare",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-slip-bond-103858947.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/october-volatility-warning-options-traders-110002424.html"
   },
   {
    "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
