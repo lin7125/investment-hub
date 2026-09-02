@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 05:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 05:31（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -280,12 +280,12 @@
    "s": "^VIX",
    "p": 15.2,
    "c": -6.98,
-   "a50": 16.47,
-   "a200": 18.37,
+   "a50": 16.37,
+   "a200": 18.34,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.23,
-   "r": 47.4
+   "a20": 15.16,
+   "r": 47.7
   },
   {
    "s": "BZ=F",
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03149606,
-   "c": -0.2,
+   "c": -0.19,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
   },
   {
-   "t": "Here’s What Pressured Atmus Filtration Technologies (ATMU) in Q2",
+   "t": "Coupang (CPNG) Shares Drop 7.7% on Softer Q2 Guidance",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/pressured-atmus-filtration-technologies-atmu-130442412.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/coupang-cpng-shares-drop-7-132307692.html"
   },
   {
    "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030002.aspx"
   },
   {
-   "t": "ShipStation first to bundle LTL into parcel shipping platform",
+   "t": "Taiwan Semiconductor Manufacturing Company (TSM) Limited Continues to Deliver Stellar Financial Results",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/shipstation-first-bundle-ltl-parcel-130005905.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-tsm-131831930.html"
   },
   {
    "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
   },
   {
-   "t": "Speculative Rally Weighed on LeMaitre Vascular (LMAT)",
+   "t": "Multiple Compression Pulls Back Shopify (SHOP) in Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/speculative-rally-weighed-lemaitre-vascular-130603141.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/multiple-compression-pulls-back-shopify-132525484.html"
   },
   {
    "t": "今彩539第115213期　頭獎4注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609020362.aspx"
   },
   {
-   "t": "Why Going Global Isn’t Always the Right Call",
+   "t": "SelectQuote’s (SLQT) Cash Flow Pitch Comes With A Shrinking Top Line",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/why-going-global-isn-t-130000980.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/selectquote-slqt-cash-flow-pitch-132746828.html"
   },
   {
    "t": "地緣政治動盪　荷蘭央行將86公噸黃金自美加移往英國",
