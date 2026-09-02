@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 16:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 16:23（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.45,
-   "c": 0.67,
+   "p": 16.41,
+   "c": 0.43,
    "a50": 16.4,
    "a200": 18.35,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.22,
-   "r": 53.8
+   "r": 53.7
   },
   {
    "s": "BZ=F",
-   "p": 94.8,
-   "c": 0.16,
+   "p": 94.77,
+   "c": 0.13,
    "a50": 85.31,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 89.82,
-   "r": 60.4
+   "r": 60.3
   },
   {
    "s": "GC=F",
-   "p": 4370.0,
-   "c": 0.51,
-   "a50": 4221.04,
-   "a200": 4516.65,
+   "p": 4372.4,
+   "c": 0.56,
+   "a50": 4221.09,
+   "a200": 4516.67,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4450.4,
-   "r": 48.8
+   "a20": 4450.52,
+   "r": 49.0
   },
   {
    "s": "HG=F",
    "p": 6.55,
-   "c": 0.61,
+   "c": 0.71,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 51.4
+   "r": 51.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03149606,
-   "c": -0.2,
+   "p": 0.03150599,
+   "c": -0.15,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "9月電子期跌　金融期漲",
+   "t": "新台幣貶9.5分　收31.728元",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020153.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020221.aspx"
   },
   {
    "t": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
@@ -344,34 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html"
   },
   {
-   "t": "認購聯發科可轉債　Google副總裁：投資優秀公司機會",
+   "t": "穎崴：不缺席CPO晶圓測試　10幾個專案進行中",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020152.aspx"
-  },
-  {
-   "t": "Okta Stock Just Got a New Street-High Price Target",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/okta-stock-just-got-street-201450706.html"
-  },
-  {
-   "t": "台積電跌破季線　台股收跌784點",
-   "pub": "中央社財經",
-   "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020151.aspx"
-  },
-  {
-   "t": "AMD Stock Alert: Advanced Micro Devices Teams Up With Cisco on AI Infrastructure",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-alert-advanced-micro-201522502.html"
-  },
-  {
-   "t": "9月台股期指跌1012點",
-   "pub": "中央社財經",
-   "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020149.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020215.aspx"
   },
   {
    "t": "Tesla Tops S&P 500. Was It Cybercab Buzz, Or Elon Musk's New FSD Tease?",
@@ -380,10 +356,10 @@
    "u": "https://www.investors.com/news/tesla-sp-500-cybercab-robotaxi-self-driving-cars-elon-musk/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "台股跌784點",
+   "t": "南亞科8月營收攀升至446億元　再創歷史新高",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020146.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020214.aspx"
   },
   {
    "t": "Gold posts best month since February despite investor concerns over rate hikes",
@@ -392,10 +368,34 @@
    "u": "https://finance.yahoo.com/markets/article/gold-posts-best-month-since-february-despite-investor-concerns-over-rate-hikes-165315959.html"
   },
   {
-   "t": "TEL台灣總裁仲間誠二上任後首露面　揭培育人才3要務",
+   "t": "高油價、債市崩跌夾擊　日經大跌2.85%",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020143.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020196.aspx"
+  },
+  {
+   "t": "Stock Market Today: Dow Skids As Trump Gives This AI Warning; Tesla Pops Ahead Of Key Event",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-attacks-oil-prices-jump/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "2027年人口結構2大轉折　18歲人口首跌破20萬關卡",
+   "pub": "中央社財經",
+   "d": "2026-09-02",
+   "u": "https://www.cna.com.tw/news/afe/202609020191.aspx"
+  },
+  {
+   "t": "Uphold review 2026: One account for crypto, metals, and cash",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/personal-finance/investing/review/uphold-review-203900002.html"
+  },
+  {
+   "t": "三大法人賣超台股1150.33億元",
+   "pub": "中央社財經",
+   "d": "2026-09-02",
+   "u": "https://www.cna.com.tw/news/afe/202609020185.aspx"
   },
   {
    "t": "Citi says investors should consider buying tumbling tech stock",
@@ -405,79 +405,79 @@
   }
  ],
  "inst": {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "byCode": {
-   "2317": {
-    "f": 13474,
-    "t": 698,
-    "all": 15110
-   },
-   "2330": {
-    "f": 5730,
-    "t": 103,
-    "all": 5965
-   },
-   "2327": {
-    "f": 10023,
-    "t": -4131,
-    "all": 5745
-   },
-   "1802": {
-    "f": 2918,
-    "t": 409,
-    "all": 3225
-   },
-   "6706": {
-    "f": 275,
-    "t": 0,
-    "all": 351
-   },
    "6442": {
-    "f": 249,
-    "t": 6,
-    "all": 239
-   },
-   "4722": {
-    "f": 137,
-    "t": 0,
-    "all": 136
-   },
-   "6515": {
-    "f": 11,
-    "t": 69,
-    "all": 78
-   },
-   "3701": {
-    "f": 74,
-    "t": 0,
-    "all": 60
-   },
-   "6862": {
-    "f": -1,
-    "t": 0,
-    "all": -2
-   },
-   "2454": {
-    "f": -340,
-    "t": -3,
-    "all": -94
-   },
-   "2308": {
-    "f": -499,
-    "t": 194,
-    "all": -160
+    "f": 65,
+    "t": 101,
+    "all": 380
    },
    "2305": {
-    "f": -887,
+    "f": 275,
     "t": 0,
-    "all": -828
+    "all": 282
+   },
+   "3701": {
+    "f": 181,
+    "t": 0,
+    "all": 214
+   },
+   "6862": {
+    "f": 10,
+    "t": 0,
+    "all": 7
+   },
+   "6515": {
+    "f": -310,
+    "t": 223,
+    "all": -88
+   },
+   "4722": {
+    "f": -104,
+    "t": 0,
+    "all": -116
+   },
+   "2454": {
+    "f": -1222,
+    "t": 851,
+    "all": -310
+   },
+   "6706": {
+    "f": -283,
+    "t": 0,
+    "all": -314
    },
    "6446": {
-    "f": -26,
-    "t": -975,
-    "all": -992
+    "f": -780,
+    "t": -52,
+    "all": -824
+   },
+   "1802": {
+    "f": -1434,
+    "t": 316,
+    "all": -1209
+   },
+   "2308": {
+    "f": -7030,
+    "t": -1032,
+    "all": -8387
+   },
+   "2317": {
+    "f": -8420,
+    "t": 222,
+    "all": -8863
+   },
+   "2330": {
+    "f": -11987,
+    "t": -837,
+    "all": -12752
+   },
+   "2327": {
+    "f": -16719,
+    "t": -1838,
+    "all": -19003
    }
   },
-  "totalNetE": 566.4
+  "totalNetE": -1150.3
  }
 }
