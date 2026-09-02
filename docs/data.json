@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 14:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 14:31（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.7,
-   "c": -2.56,
-   "a50": 54.4,
+   "p": 46.05,
+   "c": -1.81,
+   "a50": 54.41,
    "a200": 43.76,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.52,
-   "r": 39.6
+   "a20": 49.53,
+   "r": 40.2
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 56.0,
-   "c": 3.7,
-   "a50": 58.24,
-   "a200": 57.39,
+   "p": 57.6,
+   "c": 6.67,
+   "a50": 58.27,
+   "a200": 57.4,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.63,
-   "r": 51.1
+   "a20": 55.71,
+   "r": 56.4
   },
   {
    "s": "AAPL",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4370.1,
+   "p": 4370.0,
    "c": 0.51,
-   "a50": 4221.05,
+   "a50": 4221.04,
    "a200": 4516.65,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4450.41,
+   "a20": 4450.4,
    "r": 48.8
   },
   {
    "s": "HG=F",
-   "p": 6.55,
-   "c": 0.61,
+   "p": 6.54,
+   "c": 0.58,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 51.4
+   "r": 51.3
   },
   {
    "s": "TWDUSD",
    "p": 0.03148615,
-   "c": -0.24,
+   "c": -0.22,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "大銀微系統：矽光子檢測設備放量　能見度到明年第2季",
+   "t": "9月電子期跌　金融期漲",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020113.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020153.aspx"
   },
   {
    "t": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
@@ -344,140 +344,140 @@
    "u": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html"
   },
   {
-   "t": "SEMI總裁：台灣是AI重鎮　2030半導體營收衝2兆美元",
+   "t": "認購聯發科可轉債　Google副總裁：投資優秀公司機會",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020112.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020152.aspx"
   },
   {
-   "t": "Contrarian Signal Flashing for Ciena Stock",
+   "t": "SentinelOne (S) Rides an AI Security Boom to Record Operating Margins",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/contrarian-signal-flashing-ciena-stock-184424335.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/sentinelone-rides-ai-security-boom-185212323.html"
   },
   {
-   "t": "精測：明年上半年產能再增50%　探針卡營收成長可期",
+   "t": "台積電跌破季線　台股收跌784點",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020106.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020151.aspx"
   },
   {
-   "t": "Behind the Ticker: Capturing Innovation Long-Term With FRWD",
+   "t": "6 ways to invest in gold from simple buys to more complex bets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/behind-ticker-capturing-innovation-long-182829522.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/best-way-to-invest-in-gold-152426261.html"
   },
   {
-   "t": "渣打：AI帶動成長　上調台灣今年經濟成長率至11.5%",
+   "t": "9月台股期指跌1012點",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020101.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020149.aspx"
   },
   {
-   "t": "Malibu Boats (MBUU) Rides A Saxdor Wave Into A Choppier Market",
+   "t": "Best Buy’s (BBY) Turnaround Gains Steam As Leadership Changes Hands",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/malibu-boats-mbuu-rides-saxdor-184601373.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/best-buy-bby-turnaround-gains-190436123.html"
   },
   {
-   "t": "新台幣貶9.3分　暫收31.726元",
+   "t": "台股跌784點",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/afe/202609020097.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020146.aspx"
   },
   {
-   "t": "Amazon Stock Is Near Record Highs. Why There’s Still Room for AMZN to Grow.",
+   "t": "Dear Tesla Stock Fans, Mark Your Calendars for September 3",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-near-record-highs-182837747.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-tesla-stock-fans-mark-185036932.html"
   },
   {
-   "t": "日銀總裁回應升息可能性　稱「將充分討論」",
+   "t": "TEL台灣總裁仲間誠二上任後首露面　揭培育人才3要務",
    "pub": "中央社財經",
    "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/aopl/202609020095.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609020143.aspx"
   },
   {
-   "t": "Is Eaton Stock Riskier Than It Was A Year Ago?",
+   "t": "The Bill For Oracle's AI Build Arrived Before The Revenue",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-riskier-ago-184139978.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/bill-oracles-ai-build-arrived-185118557.html"
   }
  ],
  "inst": {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "byCode": {
-   "2305": {
-    "f": 546,
-    "t": 0,
-    "all": 565
-   },
-   "6442": {
-    "f": 236,
-    "t": -66,
-    "all": 176
-   },
-   "2308": {
-    "f": 271,
-    "t": -161,
-    "all": 99
-   },
-   "6706": {
-    "f": 103,
-    "t": 0,
-    "all": 98
-   },
-   "3701": {
-    "f": 50,
-    "t": 0,
-    "all": 51
-   },
-   "4722": {
-    "f": 0,
-    "t": 0,
-    "all": -11
-   },
-   "6862": {
-    "f": -17,
-    "t": 0,
-    "all": -19
-   },
-   "6515": {
-    "f": -15,
-    "t": -16,
-    "all": -35
-   },
-   "2454": {
-    "f": -614,
-    "t": -330,
-    "all": -955
-   },
-   "6446": {
-    "f": -1739,
-    "t": 4,
-    "all": -1800
-   },
-   "1802": {
-    "f": -2265,
-    "t": 47,
-    "all": -2238
-   },
    "2317": {
-    "f": -3856,
-    "t": 166,
-    "all": -4059
+    "f": 13474,
+    "t": 698,
+    "all": 15110
    },
    "2330": {
-    "f": -4555,
-    "t": -962,
-    "all": -5695
+    "f": 5730,
+    "t": 103,
+    "all": 5965
    },
    "2327": {
-    "f": -13469,
-    "t": -3642,
-    "all": -16927
+    "f": 10023,
+    "t": -4131,
+    "all": 5745
+   },
+   "1802": {
+    "f": 2918,
+    "t": 409,
+    "all": 3225
+   },
+   "6706": {
+    "f": 275,
+    "t": 0,
+    "all": 351
+   },
+   "6442": {
+    "f": 249,
+    "t": 6,
+    "all": 239
+   },
+   "4722": {
+    "f": 137,
+    "t": 0,
+    "all": 136
+   },
+   "6515": {
+    "f": 11,
+    "t": 69,
+    "all": 78
+   },
+   "3701": {
+    "f": 74,
+    "t": 0,
+    "all": 60
+   },
+   "6862": {
+    "f": -1,
+    "t": 0,
+    "all": -2
+   },
+   "2454": {
+    "f": -340,
+    "t": -3,
+    "all": -94
+   },
+   "2308": {
+    "f": -499,
+    "t": 194,
+    "all": -160
+   },
+   "2305": {
+    "f": -887,
+    "t": 0,
+    "all": -828
+   },
+   "6446": {
+    "f": -26,
+    "t": -975,
+    "all": -992
    }
   },
-  "totalNetE": -258.5
+  "totalNetE": 566.4
  }
 }
