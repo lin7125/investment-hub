@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02 17:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-02 17:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 16.63,
-   "c": 1.77,
+   "p": 16.69,
+   "c": 2.14,
    "a50": 16.4,
    "a200": 18.35,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.23,
-   "r": 54.7
+   "r": 55.0
   },
   {
    "s": "BZ=F",
-   "p": 95.15,
-   "c": 0.53,
+   "p": 94.98,
+   "c": 0.35,
    "a50": 85.31,
    "a200": 83.53,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.84,
-   "r": 60.9
+   "a20": 89.83,
+   "r": 60.6
   },
   {
    "s": "GC=F",
-   "p": 4355.9,
-   "c": 0.18,
-   "a50": 4220.76,
-   "a200": 4516.58,
+   "p": 4357.2,
+   "c": 0.21,
+   "a50": 4220.79,
+   "a200": 4516.59,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4449.69,
-   "r": 47.7
+   "a20": 4449.76,
+   "r": 47.8
   },
   {
    "s": "HG=F",
    "p": 6.53,
-   "c": 0.4,
+   "c": 0.41,
    "a50": 6.4,
    "a200": 5.97,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 50.5
+   "r": 50.6
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020249.aspx"
   },
   {
-   "t": "Nvidia Can Clearly Afford a Bigger Dividend. Why Its Payout Hasn’t Grown.",
+   "t": "Nvidia (NVDA) Invests $3.5 Billion in MediaTek. Is This the Next Leg of Its AI Growth?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-clearly-afford-bigger-dividend-233002980.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-invests-3-5-234008357.html"
   },
   {
    "t": "信邦8月營收32億元年增逾3成　連5月創高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020247.aspx"
   },
   {
-   "t": "Why More Venezuelan Oil Won’t Solve America’s Gasoline Problem",
+   "t": "Aon (AON) Bets $17 Billion on USI in Major Insurance Brokerage Deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/why-more-venezuelan-oil-won-230000293.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/aon-aon-bets-17-billion-234147708.html"
   },
   {
    "t": "經部：白埔園區南側台積電設2座中心　高雄市府辦理北側招商",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020243.aspx"
   },
   {
-   "t": "Uphold review 2026: One account for crypto, metals, and cash",
+   "t": "ONEOK (OKE) Doubles Down on the Permian with $4.43 Billion Brazos Acquisition",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/review/uphold-review-203900002.html"
+   "u": "https://finance.yahoo.com/energy/articles/oneok-oke-doubles-down-permian-234309695.html"
   },
   {
    "t": "AI基礎建設瓶頸浮現　微軟：效率突破在跨層設計",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609020240.aspx"
   },
   {
-   "t": "These are all the companies pledging matching funds to Trump Accounts",
+   "t": "Eli Lilly (LLY) Makes a $2.88 Billion Autoimmune Bet. What Could Go Right or Wrong?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/these-are-all-the-companies-pledging-matching-funds-to-trump-accounts-155809477.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-makes-2-234435537.html"
   },
   {
    "t": "Google副總裁：若沒與台灣夥伴合作　無法打造AI基礎設施",
