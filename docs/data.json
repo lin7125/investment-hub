@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 04:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 04:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 14.29,
-   "c": -5.99,
+   "p": 14.28,
+   "c": -6.05,
    "a50": 16.29,
    "a200": 18.3,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.12,
-   "r": 43.7
+   "r": 43.6
   },
   {
    "s": "BZ=F",
-   "p": 95.76,
-   "c": 0.14,
+   "p": 95.78,
+   "c": 0.16,
    "a50": 85.76,
    "a200": 83.69,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4520.6,
-   "c": 3.53,
-   "a50": 4231.58,
+   "p": 4519.6,
+   "c": 3.51,
+   "a50": 4231.56,
    "a200": 4518.8,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4464.14,
-   "r": 58.4
+   "a20": 4464.09,
+   "r": 58.3
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 2.62,
+   "c": 2.59,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 58.7
+   "r": 58.6
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040002.aspx"
   },
   {
-   "t": "Apple rallies as John Ternus takes the helm — how to protect the stock for almost nothing: Alpha Options Playbook",
+   "t": "Is Progressive Stock Underperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/article/apple-rallies-as-john-ternus-takes-the-helm--how-to-protect-the-stock-for-almost-nothing-alpha-options-playbook-100000403.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/progressive-stock-underperforming-p-500-114403320.html"
   },
   {
    "t": "卓榮泰：公有新建物達近零碳排　提前4年達標",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030336.aspx"
   },
   {
-   "t": "Best CD rates today, Wednesday, September 2, 2026: Earn up to 4.30% APY with Marcus",
+   "t": "How Is Elevance Health’s Stock Performance Compared to Other Health Providers?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-2-2026-earn-up-to-430-apy-with-marcus-100000651.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/elevance-health-stock-performance-compared-115720458.html"
   },
   {
    "t": "今彩539第115214期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030334.aspx"
   },
   {
-   "t": "Biggest share of America’s Social Security benefits go to these boomers. Fair or Foul?",
+   "t": "Is Lam Research Stock Outperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/biggest-share-america-social-security-101500729.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lam-research-stock-outperforming-nasdaq-113921669.html"
   },
   {
    "t": "威力彩第115071期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030332.aspx"
   },
   {
-   "t": "SentinelOne’s ARR Guidance Just Moved From Low- to Mid-Single Digits. Scotiabank Says That’s the Real Signal.",
+   "t": "‘Only in America’: Trump hails Nvidia’s record $96.2B quarter and Micron’s massive $250B US bet — are you cashing in?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sentinelone-arr-guidance-just-moved-102001295.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/only-america-trump-hails-nvidia-114000861.html"
   },
   {
    "t": "Fed理事華勒挺通膨降溫利率不動　美股開盤走揚",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030330.aspx"
   },
   {
-   "t": "Understanding a hotel’s duty of care",
+   "t": "The 2 Shining Lights in Market’s Bond-Yield Gloom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/understanding-hotel-duty-care-095857705.html"
+   "u": "https://www.barrons.com/articles/stock-market-things-to-know-today-e77a6e78?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
