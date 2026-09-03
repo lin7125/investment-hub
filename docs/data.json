@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 06:45（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 06:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.8,
-   "c": 0.18,
+   "p": 95.82,
+   "c": 0.2,
    "a50": 85.77,
    "a200": 83.69,
    "yh": 118.35,
@@ -300,13 +300,13 @@
   },
   {
    "s": "GC=F",
-   "p": 4521.3,
+   "p": 4521.1,
    "c": 3.55,
    "a50": 4231.59,
    "a200": 4518.8,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4464.18,
+   "a20": 4464.17,
    "r": 58.4
   },
   {
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "AI熱潮促美國7月貿易逆差擴大　對台創歷史新高",
+   "t": "債市拋售潮衝擊房市　美房貸利率近7%創2026年新高",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040003.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040008.aspx"
   },
   {
    "t": "Why you can't find McDonald's $3 value menu",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/mcdonalds-3-menu-problem-hits-231000768.html"
   },
   {
-   "t": "公債殖利率下滑激勵　歐股收高",
+   "t": "科技股領漲、債券殖利率回落　美股收高",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040002.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040007.aspx"
   },
   {
    "t": "Corning (GLW) is Well Positioned for Strong Earnings Growth",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-well-positioned-strong-145840474.html"
   },
   {
-   "t": "卓榮泰：公有新建物達近零碳排　提前4年達標",
+   "t": "投資人評估中東及俄烏局勢　國際油價漲跌互見",
    "pub": "中央社財經",
-   "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030336.aspx"
+   "d": "2026-09-04",
+   "u": "https://www.cna.com.tw/news/afe/202609040006.aspx"
   },
   {
    "t": "Lam Research Corporation (LRCX) is Exploring Growth Opportunities in the Semiconductor Equipment Market",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/technology/articles/lam-research-corporation-lrcx-exploring-150706060.html"
   },
   {
-   "t": "今彩539第115214期　頭獎1注中獎",
+   "t": "AI熱潮促美國7月貿易逆差擴大　對台創歷史新高",
    "pub": "中央社財經",
-   "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/ahel/202609030334.aspx"
+   "d": "2026-09-04",
+   "u": "https://www.cna.com.tw/news/afe/202609040003.aspx"
   },
   {
    "t": "Dell stock surges on record orders for AI servers",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/article/dell-stock-surges-on-record-orders-for-ai-servers-205629050.html"
   },
   {
-   "t": "威力彩第115071期　頭獎槓龜",
+   "t": "公債殖利率下滑激勵　歐股收高",
    "pub": "中央社財經",
-   "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/ahel/202609030332.aspx"
+   "d": "2026-09-04",
+   "u": "https://www.cna.com.tw/news/afe/202609040002.aspx"
   },
   {
    "t": "XRP Price Eyes $1.80 as Active Addresses Hit Record High",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-eyes-1-80-145034055.html"
   },
   {
-   "t": "Fed理事華勒挺通膨降溫利率不動　美股開盤走揚",
+   "t": "卓榮泰：公有新建物達近零碳排　提前4年達標",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030330.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030336.aspx"
   },
   {
    "t": "Why PG&E Stock Keeps Going Down",
