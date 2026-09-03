@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 03:40（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 03:50（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 327.54,
-   "c": 0.79,
-   "a50": 314.24,
-   "a200": 283.6,
+   "p": 327.98,
+   "c": 0.93,
+   "a50": 314.25,
+   "a200": 283.61,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 312.77,
-   "r": 62.9
+   "a20": 312.8,
+   "r": 63.2
   },
   {
    "s": "NVDA",
-   "p": 229.18,
-   "c": 2.12,
-   "a50": 209.89,
+   "p": 228.93,
+   "c": 2.02,
+   "a50": 209.88,
    "a200": 196.46,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.8,
-   "r": 59.6
+   "a20": 219.79,
+   "r": 59.5
   },
   {
    "s": "TSLA",
-   "p": 380.59,
-   "c": 6.6,
-   "a50": 358.45,
-   "a200": 399.85,
+   "p": 378.77,
+   "c": 6.09,
+   "a50": 358.42,
+   "a200": 399.84,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 347.38,
-   "r": 61.8
+   "a20": 347.28,
+   "r": 61.3
   },
   {
    "s": "META",
-   "p": 613.09,
-   "c": 3.41,
-   "a50": 594.06,
-   "a200": 622.23,
+   "p": 611.94,
+   "c": 3.22,
+   "a50": 594.04,
+   "a200": 622.22,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.77,
-   "r": 61.3
+   "a20": 575.71,
+   "r": 61.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7751.18,
-   "c": 1.1,
-   "a50": 7584.56,
-   "a200": 7136.55,
+   "p": 7749.31,
+   "c": 1.08,
+   "a50": 7584.52,
+   "a200": 7136.54,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7710.83,
-   "r": 58.6
+   "a20": 7710.73,
+   "r": 58.5
   },
   {
    "s": "^VIX",
-   "p": 14.42,
-   "c": -5.13,
+   "p": 14.39,
+   "c": -5.33,
    "a50": 16.29,
    "a200": 18.3,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.12,
-   "r": 44.2
+   "r": 44.1
   },
   {
    "s": "BZ=F",
-   "p": 95.58,
-   "c": -0.05,
+   "p": 95.46,
+   "c": -0.18,
    "a50": 85.76,
-   "a200": 83.69,
+   "a200": 83.68,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 90.52,
-   "r": 61.4
+   "a20": 90.51,
+   "r": 61.1
   },
   {
    "s": "GC=F",
-   "p": 4523.1,
-   "c": 3.59,
+   "p": 4523.5,
+   "c": 3.6,
    "a50": 4231.63,
    "a200": 4518.81,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4464.27,
+   "a20": 4464.29,
    "r": 58.5
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 2.62,
+   "c": 2.65,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 58.7
+   "r": 58.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03154574,
-   "c": -0.08,
+   "c": -0.09,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "公債殖利率下滑激勵　歐股收高",
+   "t": "AI熱潮促美國7月貿易逆差擴大　對台創歷史新高",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040002.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040003.aspx"
   },
   {
    "t": "Gold Falls to Three-Week Low as Markets Assess Oil Prices and Fed Rate Outlook",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-three-week-low-093140220.html"
   },
   {
-   "t": "卓榮泰：公有新建物達近零碳排　提前4年達標",
+   "t": "公債殖利率下滑激勵　歐股收高",
    "pub": "中央社財經",
-   "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030336.aspx"
+   "d": "2026-09-04",
+   "u": "https://www.cna.com.tw/news/afe/202609040002.aspx"
   },
   {
    "t": "Diesel Cracks Hit Record Highs as Global Fuel Squeeze Deepens",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/commodities/articles/diesel-cracks-hit-record-highs-094500094.html"
   },
   {
-   "t": "今彩539第115214期　頭獎1注中獎",
+   "t": "卓榮泰：公有新建物達近零碳排　提前4年達標",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/ahel/202609030334.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030336.aspx"
   },
   {
    "t": "‘Many jobs will disappear forever’: Bill Gates says AI could erase careers. Build a financial firewall before AI strikes",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/many-jobs-disappear-forever-bill-104500952.html"
   },
   {
-   "t": "威力彩第115071期　頭獎槓龜",
+   "t": "今彩539第115214期　頭獎1注中獎",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/ahel/202609030332.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202609030334.aspx"
   },
   {
    "t": "Morgan Stanley Just Upgraded Robinhood Markets Inc. (HOOD). Here’s Why",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-upgraded-robinhood-104259205.html"
   },
   {
-   "t": "Fed理事華勒挺通膨降溫利率不動　美股開盤走揚",
+   "t": "威力彩第115071期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030330.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202609030332.aspx"
   },
   {
    "t": "Nvidia forecasts 70% revenue jump fueled by exclusive SpaceX deal as Bank of England warns of AI bubble risk",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-forecasts-70-revenue-jump-110000227.html"
   },
   {
-   "t": "輝達砸逾4千億收購Hugging Face　押寶開源AI模型",
+   "t": "Fed理事華勒挺通膨降溫利率不動　美股開盤走揚",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/aopl/202609030329.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030330.aspx"
   },
   {
    "t": "Multiple pension funds reach $526M in Yellow pension settlements",
