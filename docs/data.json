@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 01:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 01:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 327.61,
-   "c": 0.82,
-   "a50": 314.24,
+   "p": 326.72,
+   "c": 0.54,
+   "a50": 314.23,
    "a200": 283.6,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 312.78,
-   "r": 62.9
+   "a20": 312.73,
+   "r": 62.3
   },
   {
    "s": "NVDA",
-   "p": 228.42,
-   "c": 1.79,
-   "a50": 209.87,
-   "a200": 196.46,
+   "p": 229.78,
+   "c": 2.39,
+   "a50": 209.9,
+   "a200": 196.47,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.76,
-   "r": 59.2
+   "a20": 219.83,
+   "r": 60.0
   },
   {
    "s": "TSLA",
-   "p": 382.6,
-   "c": 7.17,
+   "p": 382.36,
+   "c": 7.1,
    "a50": 358.49,
    "a200": 399.86,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 347.48,
-   "r": 62.4
+   "a20": 347.46,
+   "r": 62.3
   },
   {
    "s": "META",
-   "p": 614.82,
-   "c": 3.71,
-   "a50": 594.1,
-   "a200": 622.24,
+   "p": 614.41,
+   "c": 3.64,
+   "a50": 594.09,
+   "a200": 622.23,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.85,
-   "r": 61.8
+   "a20": 575.83,
+   "r": 61.7
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7747.48,
-   "c": 1.05,
-   "a50": 7584.48,
+   "p": 7746.03,
+   "c": 1.04,
+   "a50": 7584.45,
    "a200": 7136.53,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7710.64,
-   "r": 58.3
+   "a20": 7710.57,
+   "r": 58.2
   },
   {
    "s": "^VIX",
-   "p": 14.56,
-   "c": -4.21,
+   "p": 14.49,
+   "c": -4.67,
    "a50": 16.29,
    "a200": 18.3,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.13,
-   "r": 44.8
+   "r": 44.5
   },
   {
    "s": "BZ=F",
-   "p": 96.04,
-   "c": 0.43,
-   "a50": 85.77,
+   "p": 95.59,
+   "c": -0.04,
+   "a50": 85.76,
    "a200": 83.69,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 90.54,
-   "r": 62.1
+   "a20": 90.52,
+   "r": 61.4
   },
   {
    "s": "GC=F",
-   "p": 4538.1,
-   "c": 3.93,
-   "a50": 4231.93,
-   "a200": 4518.89,
+   "p": 4540.2,
+   "c": 3.98,
+   "a50": 4231.97,
+   "a200": 4518.9,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4465.02,
-   "r": 59.3
+   "a20": 4465.12,
+   "r": 59.4
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 2.53,
+   "c": 2.64,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
-   "a20": 6.57,
-   "r": 58.4
+   "a20": 6.58,
+   "r": 58.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03156566,
-   "c": -0.02,
+   "c": -0.01,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040002.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq surge as traders pare rate-hike bets, bond yields ease",
+   "t": "MongoDB missed one number and investors punished the stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mongodb-missed-one-number-investors-173300313.html"
   },
   {
    "t": "卓榮泰：公有新建物達近零碳排　提前4年達標",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030336.aspx"
   },
   {
-   "t": "Dow rises 635 points on Fed rate-hold hopes, Sep. 3, 2026",
+   "t": "Bitcoin tops $80,000: 'Crypto winter is close to being over'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dow-rises-635-points-fed-170855232.html"
+   "u": "https://finance.yahoo.com/markets/article/bitcoin-tops-80000-crypto-winter-is-close-to-being-over-173224980.html"
   },
   {
    "t": "今彩539第115214期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030334.aspx"
   },
   {
-   "t": "Genesco Inc. Q2 2027 Earnings Call Summary",
+   "t": "Jim Cramer Explains Why He Isn’t Ready to Pull the Trigger on Marvell (MRVL) Stock Yet",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/genesco-inc-q2-2027-earnings-170650806.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-isn-173128053.html"
   },
   {
    "t": "威力彩第115071期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030332.aspx"
   },
   {
-   "t": "Amber International Holding Ltd Q2 2026 Earnings Call Summary",
+   "t": "Jim Cramer is Bullish on Palo Alto (PANW) After Earnings Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amber-international-holding-ltd-q2-170324102.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-bullish-palo-alto-172136342.html"
   },
   {
    "t": "Fed理事華勒挺通膨降溫利率不動　美股開盤走揚",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030330.aspx"
   },
   {
-   "t": "Duluth Holdings Inc. Q2 2026 Earnings Call Summary",
+   "t": "Scott Bessent lauds $7B Chevron Venezuela deal as a salve to red-hot gas prices, but will it really work?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/duluth-holdings-inc-q2-2026-170202166.html"
+   "u": "https://finance.yahoo.com/energy/articles/scott-bessent-lauds-7b-chevron-172000501.html"
   },
   {
    "t": "輝達砸逾4千億收購Hugging Face　押寶開源AI模型",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030329.aspx"
   },
   {
-   "t": "Brady Corporation Q4 2026 Earnings Call Summary",
+   "t": "Crude oil nears $97 a barrel, diesel at highest since 2022",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/brady-corporation-q4-2026-earnings-170051658.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-oil-nears-97-barrel-173149836.html"
   }
  ],
  "inst": {
