@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 16:48（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 16:58（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.17,
-   "c": -0.2,
+   "p": 15.19,
+   "c": -0.07,
    "a50": 16.3,
    "a200": 18.31,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.16,
-   "r": 47.5
+   "r": 47.6
   },
   {
    "s": "BZ=F",
-   "p": 95.32,
-   "c": -0.32,
+   "p": 95.43,
+   "c": -0.21,
    "a50": 85.76,
    "a200": 83.68,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 90.51,
-   "r": 60.8
+   "r": 61.1
   },
   {
    "s": "GC=F",
-   "p": 4483.5,
-   "c": 2.68,
-   "a50": 4230.83,
-   "a200": 4518.61,
+   "p": 4485.0,
+   "c": 2.72,
+   "a50": 4230.86,
+   "a200": 4518.62,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4462.29,
-   "r": 56.4
+   "a20": 4462.36,
+   "r": 56.5
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": 1.81,
+   "p": 6.63,
+   "c": 1.92,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 56.0
+   "r": 56.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03152585,
-   "c": -0.15,
+   "p": 0.03153579,
+   "c": -0.12,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030173.aspx"
   },
   {
-   "t": "Wells Fargo Active Cash Card review: Unlimited 2% cash rewards and generous intro APR",
+   "t": "Do millionaires use credit cards? Yes, and so should you.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-active-cash-card-180512515.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/do-millionaires-use-credit-cards-234301938.html"
   },
   {
    "t": "雙鴻自結7月獲利年增1.2倍　單月每股賺6.47元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030162.aspx"
   },
   {
-   "t": "REZOLVE AI PLC Q2 2026 Earnings Call Summary",
+   "t": "Wells Fargo Active Cash Card review: Unlimited 2% cash rewards and generous intro APR",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/rezolve-ai-plc-q2-2026-205050637.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-active-cash-card-180512515.html"
   },
   {
    "t": "台肥：多元布局　半導體廢液回收廠預計2年完工",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030156.aspx"
   },
   {
-   "t": "Do millionaires use credit cards? Yes, and so should you.",
+   "t": "ETF League Tables: Invesco Inflows Jump",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/do-millionaires-use-credit-cards-234301938.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-invesco-inflows-210004532.html"
   },
   {
    "t": "台日合作模式支撐海外布局　龜甲萬攜手統一深耕亞洲",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030154.aspx"
   },
   {
-   "t": "Done Deal: LVMH Completes Sale of Marc Jacobs to WHP and G-III",
+   "t": "Energy & Utilities Roundup: Market Talk",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/done-deal-lvmh-completes-sale-204612299.html"
+   "u": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-2ff8fc72?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
