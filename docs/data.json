@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 15:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 15:26（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46164.72,
-   "c": -1.67,
-   "a50": 44895.85,
-   "a200": 37058.66,
+   "p": 45857.66,
+   "c": -0.67,
+   "a50": 44892.13,
+   "a200": 37148.45,
    "yh": 47741.51,
    "yl": 24100.3,
-   "a20": 45468.95,
-   "r": 56.6
+   "a20": 45542.0,
+   "r": 54.2
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 94.59,
-   "c": -1.09,
+   "p": 94.7,
+   "c": -0.97,
    "a50": 85.74,
    "a200": 83.68,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 90.47,
-   "r": 59.2
+   "r": 59.4
   },
   {
    "s": "GC=F",
-   "p": 4474.2,
-   "c": 2.47,
-   "a50": 4230.65,
-   "a200": 4518.57,
+   "p": 4468.7,
+   "c": 2.35,
+   "a50": 4230.54,
+   "a200": 4518.54,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4461.82,
-   "r": 55.8
+   "a20": 4461.55,
+   "r": 55.5
   },
   {
    "s": "HG=F",
-   "p": 6.59,
-   "c": 1.35,
+   "p": 6.58,
+   "c": 1.24,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 54.3
+   "r": 53.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
-   "c": -0.08,
+   "p": 0.03152585,
+   "c": -0.15,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030133.aspx"
   },
   {
-   "t": "Ally Unlimited Cash Back Mastercard review: A simplistic approach to cash back",
+   "t": "Best credit cards for home improvement (2026)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/ally-unlimited-cash-back-review-165948540.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-home-improvement-214525388.html"
   },
   {
    "t": "9月電子期跌　金融期漲",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030130.aspx"
   },
   {
-   "t": "Jensen Huang: Nvidia’s Vera Rubin Platform Turns Electricity Into a $40 Billion Cash Machine",
+   "t": "Ally Unlimited Cash Back Mastercard review: A simplistic approach to cash back",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-nvidia-vera-rubin-190913186.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/ally-unlimited-cash-back-review-165948540.html"
   },
   {
    "t": "9月台股期指跌328點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030126.aspx"
   },
   {
-   "t": "Best credit cards for home improvement (2026)",
+   "t": "How to protect your credit card rewards as CFPB responds to a surge in customer complaints",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-home-improvement-214525388.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-protect-credit-card-rewards-012404263.html"
   },
   {
    "t": "總統：台肥多元發展　與農業現代化、經濟發展密不可分",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202609030125.aspx"
   },
   {
-   "t": "Inflation Isn’t Causing the Bond Selloff. Blame This Instead.",
+   "t": "How many credit cards is too many?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/inflation-bond-selloff-yield-faec238b?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-many-credit-cards-is-too-many-191232220.html"
   }
  ],
  "inst": {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "byCode": {
-   "2317": {
-    "f": 13474,
-    "t": 698,
-    "all": 15110
-   },
-   "2330": {
-    "f": 5730,
-    "t": 103,
-    "all": 5965
-   },
-   "2327": {
-    "f": 10023,
-    "t": -4131,
-    "all": 5745
-   },
-   "1802": {
-    "f": 2918,
-    "t": 409,
-    "all": 3225
-   },
-   "6706": {
-    "f": 275,
-    "t": 0,
-    "all": 351
-   },
    "6442": {
-    "f": 249,
-    "t": 6,
-    "all": 239
-   },
-   "4722": {
-    "f": 137,
-    "t": 0,
-    "all": 136
-   },
-   "6515": {
-    "f": 11,
-    "t": 69,
-    "all": 78
-   },
-   "3701": {
-    "f": 74,
-    "t": 0,
-    "all": 60
-   },
-   "6862": {
-    "f": -1,
-    "t": 0,
-    "all": -2
-   },
-   "2454": {
-    "f": -340,
-    "t": -3,
-    "all": -94
-   },
-   "2308": {
-    "f": -499,
-    "t": 194,
-    "all": -160
+    "f": 65,
+    "t": 101,
+    "all": 380
    },
    "2305": {
-    "f": -887,
+    "f": 275,
     "t": 0,
-    "all": -828
+    "all": 282
+   },
+   "3701": {
+    "f": 181,
+    "t": 0,
+    "all": 214
+   },
+   "6862": {
+    "f": 10,
+    "t": 0,
+    "all": 7
+   },
+   "6515": {
+    "f": -310,
+    "t": 223,
+    "all": -88
+   },
+   "4722": {
+    "f": -104,
+    "t": 0,
+    "all": -116
+   },
+   "2454": {
+    "f": -1222,
+    "t": 851,
+    "all": -310
+   },
+   "6706": {
+    "f": -283,
+    "t": 0,
+    "all": -314
    },
    "6446": {
-    "f": -26,
-    "t": -975,
-    "all": -992
+    "f": -780,
+    "t": -52,
+    "all": -824
+   },
+   "1802": {
+    "f": -1434,
+    "t": 316,
+    "all": -1209
+   },
+   "2308": {
+    "f": -7030,
+    "t": -1032,
+    "all": -8387
+   },
+   "2317": {
+    "f": -8420,
+    "t": 212,
+    "all": -8873
+   },
+   "2330": {
+    "f": -11987,
+    "t": -837,
+    "all": -12752
+   },
+   "2327": {
+    "f": -16719,
+    "t": -1716,
+    "all": -18881
    }
   },
-  "totalNetE": 566.4
+  "totalNetE": -1152.4
  }
 }
