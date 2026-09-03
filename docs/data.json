@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 03:29（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 03:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 327.75,
-   "c": 0.86,
-   "a50": 314.25,
-   "a200": 283.61,
+   "p": 327.54,
+   "c": 0.79,
+   "a50": 314.24,
+   "a200": 283.6,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 312.78,
-   "r": 63.0
+   "a20": 312.77,
+   "r": 62.9
   },
   {
    "s": "NVDA",
-   "p": 229.66,
-   "c": 2.34,
-   "a50": 209.9,
-   "a200": 196.47,
+   "p": 229.18,
+   "c": 2.12,
+   "a50": 209.89,
+   "a200": 196.46,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.82,
-   "r": 59.9
+   "a20": 219.8,
+   "r": 59.6
   },
   {
    "s": "TSLA",
-   "p": 380.68,
-   "c": 6.63,
+   "p": 380.59,
+   "c": 6.6,
    "a50": 358.45,
    "a200": 399.85,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 612.72,
-   "c": 3.35,
-   "a50": 594.05,
+   "p": 613.09,
+   "c": 3.41,
+   "a50": 594.06,
    "a200": 622.23,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.75,
-   "r": 61.2
+   "a20": 575.77,
+   "r": 61.3
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7750.54,
-   "c": 1.09,
-   "a50": 7584.54,
+   "p": 7751.18,
+   "c": 1.1,
+   "a50": 7584.56,
    "a200": 7136.55,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7710.79,
+   "a20": 7710.83,
    "r": 58.6
   },
   {
    "s": "^VIX",
-   "p": 14.43,
-   "c": -5.07,
+   "p": 14.42,
+   "c": -5.13,
    "a50": 16.29,
    "a200": 18.3,
    "yh": 31.05,
@@ -289,24 +289,24 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.68,
-   "c": 0.05,
+   "p": 95.58,
+   "c": -0.05,
    "a50": 85.76,
    "a200": 83.69,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 90.52,
-   "r": 61.6
+   "r": 61.4
   },
   {
    "s": "GC=F",
-   "p": 4523.4,
-   "c": 3.6,
+   "p": 4523.1,
+   "c": 3.59,
    "a50": 4231.63,
    "a200": 4518.81,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4464.28,
+   "a20": 4464.27,
    "r": 58.5
   },
   {
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03153579,
-   "c": -0.1,
+   "p": 0.03154574,
+   "c": -0.08,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040002.aspx"
   },
   {
-   "t": "Diesel Cracks Hit Record Highs as Global Fuel Squeeze Deepens",
+   "t": "Gold Falls to Three-Week Low as Markets Assess Oil Prices and Fed Rate Outlook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/diesel-cracks-hit-record-highs-094500094.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-three-week-low-093140220.html"
   },
   {
    "t": "卓榮泰：公有新建物達近零碳排　提前4年達標",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030336.aspx"
   },
   {
-   "t": "S&P Futures Tick Higher as Oil Prices and Bond Yields Fall, U.S. ADP Jobs Report and Broadcom Earnings on Tap",
+   "t": "Diesel Cracks Hit Record Highs as Global Fuel Squeeze Deepens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/p-futures-tick-higher-oil-104044104.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/diesel-cracks-hit-record-highs-094500094.html"
   },
   {
    "t": "今彩539第115214期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030334.aspx"
   },
   {
-   "t": "Morgan Stanley Just Upgraded Robinhood Markets Inc. (HOOD). Here’s Why",
+   "t": "‘Many jobs will disappear forever’: Bill Gates says AI could erase careers. Build a financial firewall before AI strikes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-upgraded-robinhood-104259205.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/many-jobs-disappear-forever-bill-104500952.html"
   },
   {
    "t": "威力彩第115071期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030332.aspx"
   },
   {
-   "t": "Morning Bid: Bonds boil",
+   "t": "Morgan Stanley Just Upgraded Robinhood Markets Inc. (HOOD). Here’s Why",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/morning-bid-bonds-boil-104233524.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-upgraded-robinhood-104259205.html"
   },
   {
    "t": "Fed理事華勒挺通膨降溫利率不動　美股開盤走揚",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030330.aspx"
   },
   {
-   "t": "Construction job openings, hires up in July",
+   "t": "Nvidia forecasts 70% revenue jump fueled by exclusive SpaceX deal as Bank of England warns of AI bubble risk",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/construction-job-openings-hires-july-091600601.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-forecasts-70-revenue-jump-110000227.html"
   },
   {
    "t": "輝達砸逾4千億收購Hugging Face　押寶開源AI模型",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030329.aspx"
   },
   {
-   "t": "Greenbrier tabs new CEO in leadership succession",
+   "t": "Multiple pension funds reach $526M in Yellow pension settlements",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/greenbrier-tabs-ceo-leadership-succession-103200790.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/multiple-pension-funds-reach-526m-092800601.html"
   }
  ],
  "inst": {
