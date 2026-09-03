@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 04:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 04:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,9 +289,9 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.8,
-   "c": 0.18,
-   "a50": 85.77,
+   "p": 95.79,
+   "c": 0.17,
+   "a50": 85.76,
    "a200": 83.69,
    "yh": 118.35,
    "yl": 58.92,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4519.5,
+   "p": 4519.7,
    "c": 3.51,
-   "a50": 4231.55,
-   "a200": 4518.79,
+   "a50": 4231.56,
+   "a200": 4518.8,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4464.09,
+   "a20": 4464.1,
    "r": 58.3
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 2.61,
+   "c": 2.6,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040002.aspx"
   },
   {
-   "t": "Reddit’s Next AI Catalyst Isn’t User Growth — It’s What Alphabet’s Google and OpenAI Do Next",
+   "t": "You’ll probably never spend your retirement savings completely — don’t live your ‘go-go’ years full of worry. Here’s why",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/reddit-next-ai-catalyst-isn-121429089.html"
+   "u": "https://finance.yahoo.com/markets/articles/ll-probably-never-spend-retirement-122500272.html"
   },
   {
    "t": "卓榮泰：公有新建物達近零碳排　提前4年達標",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030336.aspx"
   },
   {
-   "t": "Dow Jones Futures Rise As Oil Prices Fall; Dell, Credo, Palo Alto Are Earnings Movers",
+   "t": "Nvidia didn't like Wall Street's estimates. So it tried to reset them.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-credo-palo-alto-earnings-oil-prices-jump/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/article/nvidia-didnt-like-wall-streets-estimates-so-it-tried-to-reset-them-122218541.html"
   },
   {
    "t": "今彩539第115214期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030334.aspx"
   },
   {
-   "t": "Amazon stock just entered the danger zone",
+   "t": "Soybeans Fading Back Lower on Wednesday Morning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-just-entered-the-danger-zone-104050035.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-fading-back-lower-wednesday-123106743.html"
   },
   {
    "t": "威力彩第115071期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030332.aspx"
   },
   {
-   "t": "Nvidia didn't like Wall Street's estimates. So it tried to reset them.",
+   "t": "Corn Bulls Taking a Breather on Wednesday Morning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/nvidia-didnt-like-wall-streets-estimates-so-it-tried-to-reset-them-122218541.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-bulls-taking-breather-wednesday-123106519.html"
   },
   {
    "t": "Fed理事華勒挺通膨降溫利率不動　美股開盤走揚",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030330.aspx"
   },
   {
-   "t": "Bitcoin Will Hit $260K, Says Strategy CEO Phong Le — Claims Firm Will Keep Buying at $130K",
+   "t": "MongoDB Q2 FY2027 earnings beat but stock falls on Atlas growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hit-260k-says-strategy-121641170.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mongodb-q2-fy2027-earnings-beat-122616545.html"
   }
  ],
  "inst": {
