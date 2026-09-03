@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 06:56（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 07:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,13 +300,13 @@
   },
   {
    "s": "GC=F",
-   "p": 4521.1,
-   "c": 3.55,
-   "a50": 4231.59,
-   "a200": 4518.8,
+   "p": 4521.6,
+   "c": 3.56,
+   "a50": 4231.6,
+   "a200": 4518.81,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4464.17,
+   "a20": 4464.19,
    "r": 58.4
   },
   {
@@ -323,9 +323,9 @@
   {
    "s": "TWDUSD",
    "p": 0.03153579,
-   "c": -0.12,
-   "a50": 0.03118179,
-   "a200": 0.03156566,
+   "c": 0.04,
+   "a50": 0.03119152,
+   "a200": 0.0315557,
    "yh": 0.033278,
    "yl": 0.030864
   }
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040007.aspx"
   },
   {
-   "t": "Corning (GLW) is Well Positioned for Strong Earnings Growth",
+   "t": "This Apple Trade Captures Profit In Either Direction The iPhone Maker's Stock Flies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-well-positioned-strong-145840474.html"
+   "u": "https://www.investors.com/research/options/apple-stock-aapl-iphone-tech-options-trade-setup-income-investing-strategy-markets/?src=A00220&yptr=yahoo"
   },
   {
    "t": "投資人評估中東及俄烏局勢　國際油價漲跌互見",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040006.aspx"
   },
   {
-   "t": "Lam Research Corporation (LRCX) is Exploring Growth Opportunities in the Semiconductor Equipment Market",
+   "t": "Fears of an Extended US-Iran Conflict Boost Crude Oil Prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/lam-research-corporation-lrcx-exploring-150706060.html"
+   "u": "https://finance.yahoo.com/energy/articles/fears-extended-us-iran-conflict-153900010.html"
   },
   {
    "t": "AI熱潮促美國7月貿易逆差擴大　對台創歷史新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040003.aspx"
   },
   {
-   "t": "Dell stock surges on record orders for AI servers",
+   "t": "Nvidia Blew Wall Street Away with Its Q2 Results. Cathie Wood Is Celebrating by Buying More Than 243,000 Shares.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/dell-stock-surges-on-record-orders-for-ai-servers-205629050.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-blew-wall-street-away-153932231.html"
   },
   {
    "t": "公債殖利率下滑激勵　歐股收高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040002.aspx"
   },
   {
-   "t": "XRP Price Eyes $1.80 as Active Addresses Hit Record High",
+   "t": "Is BlackRock Stock Underperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-eyes-1-80-145034055.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/blackrock-stock-underperforming-dow-153410963.html"
   },
   {
    "t": "卓榮泰：公有新建物達近零碳排　提前4年達標",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030336.aspx"
   },
   {
-   "t": "Why PG&E Stock Keeps Going Down",
+   "t": "Why MongoDB Stock Crashed Wednesday Morning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-pg-e-stock-keeps-150439566.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-mongodb-stock-crashed-wednesday-153624963.html"
   }
  ],
  "inst": {
