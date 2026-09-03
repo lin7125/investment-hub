@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 04:22（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 04:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.28,
-   "c": -6.05,
+   "p": 14.32,
+   "c": -5.79,
    "a50": 16.29,
    "a200": 18.3,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.12,
-   "r": 43.6
+   "r": 43.8
   },
   {
    "s": "BZ=F",
-   "p": 95.78,
-   "c": 0.16,
-   "a50": 85.76,
+   "p": 95.8,
+   "c": 0.18,
+   "a50": 85.77,
    "a200": 83.69,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 90.53,
-   "r": 61.7
+   "r": 61.8
   },
   {
    "s": "GC=F",
-   "p": 4519.6,
-   "c": 3.51,
-   "a50": 4231.56,
-   "a200": 4518.8,
+   "p": 4518.1,
+   "c": 3.48,
+   "a50": 4231.53,
+   "a200": 4518.79,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4464.09,
+   "a20": 4464.02,
    "r": 58.3
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 2.59,
+   "c": 2.64,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 58.6
+   "r": 58.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
-   "c": -0.09,
+   "p": 0.03153579,
+   "c": -0.12,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040002.aspx"
   },
   {
-   "t": "Is Progressive Stock Underperforming the S&P 500?",
+   "t": "Amazon stock just entered the danger zone",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/progressive-stock-underperforming-p-500-114403320.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-just-entered-the-danger-zone-104050035.html"
   },
   {
    "t": "卓榮泰：公有新建物達近零碳排　提前4年達標",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030336.aspx"
   },
   {
-   "t": "How Is Elevance Health’s Stock Performance Compared to Other Health Providers?",
+   "t": "Dow Jones Futures Rise As Oil Prices Fall; Dell, Credo, Palo Alto Are Earnings Movers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/elevance-health-stock-performance-compared-115720458.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-credo-palo-alto-earnings-oil-prices-jump/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115214期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030334.aspx"
   },
   {
-   "t": "Is Lam Research Stock Outperforming the Nasdaq?",
+   "t": "This couple ditched 6-figure paychecks for 14 Airbnbs and $12M in debt — here’s how it brought them financial freedom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lam-research-stock-outperforming-nasdaq-113921669.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/couple-ditched-6-figure-paychecks-112300675.html"
   },
   {
    "t": "威力彩第115071期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030332.aspx"
   },
   {
-   "t": "‘Only in America’: Trump hails Nvidia’s record $96.2B quarter and Micron’s massive $250B US bet — are you cashing in?",
+   "t": "Owkin signs AI drug discovery deal with Boehringer for cancer, immunology",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/only-america-trump-hails-nvidia-114000861.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/owkin-signs-ai-drug-discovery-120320075.html"
   },
   {
    "t": "Fed理事華勒挺通膨降溫利率不動　美股開盤走揚",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030330.aspx"
   },
   {
-   "t": "The 2 Shining Lights in Market’s Bond-Yield Gloom",
+   "t": "Want Income for Life? Coca-Cola Has Raised Its Dividend for 64 Straight Years and Yields 2.4%. Here's Whether It Belongs in Your Portfolio.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/stock-market-things-to-know-today-e77a6e78?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/want-income-life-coca-cola-120800955.html"
   }
  ],
  "inst": {
