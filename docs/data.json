@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 17:29（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 17:39（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 15.2,
-   "c": 0.0,
+   "p": 15.21,
+   "c": 0.07,
    "a50": 16.3,
    "a200": 18.31,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.72,
-   "c": 0.09,
-   "a50": 85.76,
+   "p": 95.98,
+   "c": 0.37,
+   "a50": 85.77,
    "a200": 83.69,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 90.53,
-   "r": 61.7
+   "a20": 90.54,
+   "r": 62.0
   },
   {
    "s": "GC=F",
-   "p": 4482.2,
-   "c": 2.65,
-   "a50": 4230.81,
+   "p": 4481.6,
+   "c": 2.64,
+   "a50": 4230.8,
    "a200": 4518.61,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4462.23,
+   "a20": 4462.19,
    "r": 56.3
   },
   {
    "s": "HG=F",
    "p": 6.64,
-   "c": 2.08,
+   "c": 2.09,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 56.9
+   "r": 57.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315557,
-   "c": -0.04,
+   "p": 0.03154574,
+   "c": -0.09,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "經長：台廠追加200億美元赴美投資　聚焦半導體AI伺服器",
+   "t": "美財長施壓日相財政、金融政策　憂日本利率上升波及美國",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030176.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609030223.aspx"
   },
   {
    "t": "Costco shuts down key service without notice",
@@ -344,22 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/costco-shuts-down-key-no-011218190.html"
   },
   {
-   "t": "精測8月營收創新高、南電同期次高　AI加持給力",
+   "t": "外資賣超台股481億元連2賣　減碼記憶體和ETF",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030173.aspx"
-  },
-  {
-   "t": "How soaring Treasury yields could hit your finances",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-soaring-treasury-yields-could-hit-your-finances-141336109.html"
-  },
-  {
-   "t": "雙鴻自結7月獲利年增1.2倍　單月每股賺6.47元",
-   "pub": "中央社財經",
-   "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030162.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030218.aspx"
   },
   {
    "t": "Best airline credit cards (2026)",
@@ -368,10 +356,10 @@
    "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-airline-credit-cards-193236919.html"
   },
   {
-   "t": "台肥：多元布局　半導體廢液回收廠預計2年完工",
+   "t": "記憶體漲價壓抑PC出貨　宏碁：預留零件升級空間因應",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030157.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030216.aspx"
   },
   {
    "t": "Best American Express credit cards (2026)",
@@ -380,10 +368,10 @@
    "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-amex-credit-card-172941206.html"
   },
   {
-   "t": "AI概念股下挫拖累　日經225指數小跌作收",
+   "t": "光寶科加強散熱布局　砸56億取得波蘭DCX約25%股權",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030156.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030211.aspx"
   },
   {
    "t": "Best Bank of America credit cards for 2026: Cash back, travel, 0% APR, and more",
@@ -392,92 +380,104 @@
    "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-bank-of-america-credit-cards-204820061.html"
   },
   {
-   "t": "台日合作模式支撐海外布局　龜甲萬攜手統一深耕亞洲",
+   "t": "日圓兌美元躍升逾1%　延續反彈走勢",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030154.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030207.aspx"
   },
   {
-   "t": "Best business credit cards (2026): Save money for your small business",
+   "t": "How soaring Treasury yields could hit your finances",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-business-credit-cards-181831412.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-soaring-treasury-yields-could-hit-your-finances-141336109.html"
+  },
+  {
+   "t": "經部：民生天然氣桶裝瓦斯凍漲至年底　盼國會支持追加預算",
+   "pub": "中央社財經",
+   "d": "2026-09-03",
+   "u": "https://www.cna.com.tw/news/afe/202609030203.aspx"
+  },
+  {
+   "t": "Best Citi credit cards for 2026",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-citi-credit-cards-195110694.html"
   }
  ],
  "inst": {
-  "date": "2026-09-01",
+  "date": "2026-09-03",
   "byCode": {
-   "2317": {
-    "f": 13474,
-    "t": 698,
-    "all": 15110
-   },
-   "2330": {
-    "f": 5730,
-    "t": 103,
-    "all": 5965
-   },
-   "2327": {
-    "f": 10023,
-    "t": -4131,
-    "all": 5745
-   },
-   "1802": {
-    "f": 2918,
-    "t": 409,
-    "all": 3225
-   },
-   "6706": {
-    "f": 275,
-    "t": 0,
-    "all": 351
-   },
-   "6442": {
-    "f": 249,
-    "t": 6,
-    "all": 239
-   },
-   "4722": {
-    "f": 137,
-    "t": 0,
-    "all": 136
-   },
-   "6515": {
-    "f": 11,
-    "t": 69,
-    "all": 78
-   },
-   "3701": {
-    "f": 74,
-    "t": 0,
-    "all": 60
-   },
-   "6862": {
-    "f": -1,
-    "t": 0,
-    "all": -2
+   "2308": {
+    "f": 2108,
+    "t": 137,
+    "all": 2449
    },
    "2454": {
-    "f": -340,
-    "t": -3,
-    "all": -94
+    "f": 1172,
+    "t": 451,
+    "all": 1683
    },
-   "2308": {
-    "f": -499,
-    "t": 194,
-    "all": -160
-   },
-   "2305": {
-    "f": -887,
-    "t": 0,
-    "all": -828
+   "6442": {
+    "f": 432,
+    "t": 535,
+    "all": 883
    },
    "6446": {
-    "f": -26,
-    "t": -975,
-    "all": -992
+    "f": 156,
+    "t": 138,
+    "all": 297
+   },
+   "6515": {
+    "f": -207,
+    "t": 227,
+    "all": 23
+   },
+   "6862": {
+    "f": -24,
+    "t": 0,
+    "all": -27
+   },
+   "4722": {
+    "f": -22,
+    "t": 0,
+    "all": -36
+   },
+   "3701": {
+    "f": -776,
+    "t": 0,
+    "all": -804
+   },
+   "2305": {
+    "f": -925,
+    "t": -2,
+    "all": -872
+   },
+   "2330": {
+    "f": -961,
+    "t": 51,
+    "all": -999
+   },
+   "6706": {
+    "f": -1033,
+    "t": 0,
+    "all": -1060
+   },
+   "2317": {
+    "f": -2323,
+    "t": -249,
+    "all": -2681
+   },
+   "2327": {
+    "f": -4642,
+    "t": -346,
+    "all": -5503
+   },
+   "1802": {
+    "f": -4927,
+    "t": 36,
+    "all": -6201
    }
   },
-  "totalNetE": 566.4
+  "totalNetE": -637.1
  }
 }
