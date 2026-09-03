@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 13:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 14:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 52.2,
-   "c": 14.47,
+   "p": 52.5,
+   "c": 15.13,
    "a50": 53.93,
    "a200": 43.95,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.67,
-   "r": 53.3
+   "a20": 49.68,
+   "r": 53.8
   },
   {
    "s": "6223.TWO",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4479.1,
-   "c": 2.58,
-   "a50": 4230.75,
-   "a200": 4518.59,
+   "p": 4481.6,
+   "c": 2.64,
+   "a50": 4230.8,
+   "a200": 4518.61,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4462.07,
-   "r": 56.1
+   "a20": 4462.19,
+   "r": 56.3
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 1.34,
+   "c": 1.42,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 54.2
+   "r": 54.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03152585,
-   "c": -0.14,
+   "p": 0.03154574,
+   "c": -0.09,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030094.aspx"
   },
   {
-   "t": "Royalty Pharma (RPRX) Bets $100M On A Blood Disorder Breakthrough",
+   "t": "Canadian Oil Stock Edges Into Buy Zone After 200% Earnings Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/royalty-pharma-rprx-bets-100m-175445428.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/oil-prices-canadian-natural-resources-valero-marathon-petroleum-natural-gas-canada/?src=A00220&yptr=yahoo"
   },
   {
    "t": "客製化AI晶片競爭升溫　博通第4季營收預測低於預期",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030093.aspx"
   },
   {
-   "t": "A Landmark Deal Just Rewired Martin Marietta’s (MLM) Growth Engine",
+   "t": "How to compare loan estimates and catch what lenders hope you won’t notice",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/a2-130737637.html"
+   "u": "https://finance.yahoo.com/news/read-compare-mortgage-loan-estimates-231932645.html"
   },
   {
    "t": "冬山地熱探勘井溫達200度　中油評估2028年底設電廠可行性",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030091.aspx"
   },
   {
-   "t": "How to compare loan estimates and catch what lenders hope you won’t notice",
+   "t": "Retail Investors’ 2 Favorite AI Stocks for the Long Term: Alphabet, IBM",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/read-compare-mortgage-loan-estimates-231932645.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-2-favorite-ai-181046723.html"
   },
   {
    "t": "新台幣午盤升0.7分　暫收31.721元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030084.aspx"
   },
   {
-   "t": "Canadian Oil Stock Edges Into Buy Zone After 200% Earnings Growth",
+   "t": "How Is ServiceNow's Stock Performance Compared to Other Software - Application Stocks?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/oil-prices-canadian-natural-resources-valero-marathon-petroleum-natural-gas-canada/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/servicenows-stock-performance-compared-other-181428569.html"
   },
   {
    "t": "財政部股息紅利進補　公股4金2銀明年配息看增",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202609030076.aspx"
   },
   {
-   "t": "Berkshire CEO Abel to Make Rare TV Appearance. What He Might Talk About.",
+   "t": "Nio Falls 4% as Memory Chip Costs and Revenue Miss Overshadow Doubled Vehicle Margin, XPeng Holds Steady",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/berkshire-hathaway-greg-abel-stock-0e19cb4d?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nio-falls-4-memory-chip-180340757.html"
   }
  ],
  "inst": {
-  "date": "2026-09-02",
+  "date": "2026-09-01",
   "byCode": {
-   "6442": {
-    "f": 65,
-    "t": 101,
-    "all": 380
-   },
-   "2305": {
-    "f": 275,
-    "t": 0,
-    "all": 282
-   },
-   "3701": {
-    "f": 181,
-    "t": 0,
-    "all": 214
-   },
-   "6862": {
-    "f": 10,
-    "t": 0,
-    "all": 7
-   },
-   "6515": {
-    "f": -310,
-    "t": 223,
-    "all": -88
-   },
-   "4722": {
-    "f": -104,
-    "t": 0,
-    "all": -116
-   },
-   "2454": {
-    "f": -1222,
-    "t": 851,
-    "all": -310
-   },
-   "6706": {
-    "f": -283,
-    "t": 0,
-    "all": -314
-   },
-   "6446": {
-    "f": -780,
-    "t": -52,
-    "all": -824
-   },
-   "1802": {
-    "f": -1434,
-    "t": 316,
-    "all": -1209
-   },
-   "2308": {
-    "f": -7030,
-    "t": -1032,
-    "all": -8387
-   },
    "2317": {
-    "f": -8420,
-    "t": 212,
-    "all": -8873
+    "f": 13474,
+    "t": 698,
+    "all": 15110
    },
    "2330": {
-    "f": -11987,
-    "t": -837,
-    "all": -12752
+    "f": 5730,
+    "t": 103,
+    "all": 5965
    },
    "2327": {
-    "f": -16719,
-    "t": -1716,
-    "all": -18881
+    "f": 10023,
+    "t": -4131,
+    "all": 5745
+   },
+   "1802": {
+    "f": 2918,
+    "t": 409,
+    "all": 3225
+   },
+   "6706": {
+    "f": 275,
+    "t": 0,
+    "all": 351
+   },
+   "6442": {
+    "f": 249,
+    "t": 6,
+    "all": 239
+   },
+   "4722": {
+    "f": 137,
+    "t": 0,
+    "all": 136
+   },
+   "6515": {
+    "f": 11,
+    "t": 69,
+    "all": 78
+   },
+   "3701": {
+    "f": 74,
+    "t": 0,
+    "all": 60
+   },
+   "6862": {
+    "f": -1,
+    "t": 0,
+    "all": -2
+   },
+   "2454": {
+    "f": -340,
+    "t": -3,
+    "all": -94
+   },
+   "2308": {
+    "f": -499,
+    "t": 194,
+    "all": -160
+   },
+   "2305": {
+    "f": -887,
+    "t": 0,
+    "all": -828
+   },
+   "6446": {
+    "f": -26,
+    "t": -975,
+    "all": -992
    }
   },
-  "totalNetE": -1152.4
+  "totalNetE": 566.4
  }
 }
