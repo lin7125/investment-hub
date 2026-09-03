@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 02:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 02:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 327.19,
-   "c": 0.69,
-   "a50": 314.23,
+   "p": 327.37,
+   "c": 0.74,
+   "a50": 314.24,
    "a200": 283.6,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 312.76,
-   "r": 62.6
+   "a20": 312.77,
+   "r": 62.8
   },
   {
    "s": "NVDA",
-   "p": 230.15,
-   "c": 2.56,
+   "p": 230.4,
+   "c": 2.67,
    "a50": 209.91,
    "a200": 196.47,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.85,
-   "r": 60.2
+   "a20": 219.86,
+   "r": 60.3
   },
   {
    "s": "TSLA",
-   "p": 382.64,
-   "c": 7.18,
-   "a50": 358.49,
+   "p": 382.12,
+   "c": 7.03,
+   "a50": 358.48,
    "a200": 399.86,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 347.48,
-   "r": 62.4
+   "a20": 347.45,
+   "r": 62.2
   },
   {
    "s": "META",
-   "p": 615.07,
-   "c": 3.75,
-   "a50": 594.1,
+   "p": 614.5,
+   "c": 3.65,
+   "a50": 594.09,
    "a200": 622.24,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.87,
-   "r": 61.8
+   "a20": 575.84,
+   "r": 61.7
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7754.1,
-   "c": 1.14,
-   "a50": 7584.61,
-   "a200": 7136.57,
+   "p": 7756.61,
+   "c": 1.17,
+   "a50": 7584.66,
+   "a200": 7136.58,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7710.97,
-   "r": 58.8
+   "a20": 7711.1,
+   "r": 59.0
   },
   {
    "s": "^VIX",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.52,
-   "c": -0.12,
+   "p": 95.32,
+   "c": -0.32,
    "a50": 85.76,
-   "a200": 83.69,
+   "a200": 83.68,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 90.52,
-   "r": 61.3
+   "a20": 90.51,
+   "r": 60.8
   },
   {
    "s": "GC=F",
-   "p": 4535.4,
-   "c": 3.87,
-   "a50": 4231.87,
-   "a200": 4518.87,
+   "p": 4533.1,
+   "c": 3.82,
+   "a50": 4231.83,
+   "a200": 4518.86,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4464.88,
-   "r": 59.1
+   "a20": 4464.77,
+   "r": 59.0
   },
   {
    "s": "HG=F",
-   "p": 6.67,
-   "c": 2.63,
+   "p": 6.68,
+   "c": 2.71,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 58.8
+   "r": 59.0
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040002.aspx"
   },
   {
-   "t": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face",
+   "t": "Nvidia Just Returned a Record $26 Billion to Shareholders After Increasing Its Dividend by 2,400%. I Predict Another Massive Dividend Increase.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/nvidia-confirms-13-billion-acquisition-of-open-weight-ai-platform-hugging-face-141058641.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-returned-record-26-082000642.html"
   },
   {
    "t": "卓榮泰：公有新建物達近零碳排　提前4年達標",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030336.aspx"
   },
   {
-   "t": "Stock Market Today: Nasdaq Leads Charge As Jobs Data Looms; NetApp Tests Support (Live Coverage)",
+   "t": "A Rocket Launch Just Highlighted Teledyne’s (TDY) Overlooked Space Business",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-broadcom-stock-avgo/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/articles/rocket-launch-just-highlighted-teledyne-082126973.html"
   },
   {
    "t": "今彩539第115214期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030334.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq surge as traders pare rate-hike bets, bond yields ease",
+   "t": "Tenaris (TS) Rides Rising Drilling Demand Even As Hormuz Cuts Into Sales",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tenaris-ts-rides-rising-drilling-080548760.html"
   },
   {
    "t": "威力彩第115071期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030332.aspx"
   },
   {
-   "t": "Standard Chartered Launches Spot Bitcoin, Ether Trading for UAE Institutions",
+   "t": "ATI’s (ATI) Record Backlog And Raised Guidance Signal Bigger Ambitions",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/standard-chartered-launches-spot-bitcoin-174300514.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ati-ati-record-backlog-raised-083003847.html"
   },
   {
    "t": "Fed理事華勒挺通膨降溫利率不動　美股開盤走揚",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030330.aspx"
   },
   {
-   "t": "When will mortgage rates go down? The signs to watch for.",
+   "t": "TechnipFMC’s (FTI) Deepwater Deal Streak Meets A Flattening Backlog",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-the-signs-to-watch-for-190610094.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/technipfmc-fti-deepwater-deal-streak-075503069.html"
   },
   {
    "t": "輝達砸逾4千億收購Hugging Face　押寶開源AI模型",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030329.aspx"
   },
   {
-   "t": "A new wave of VC funds bets on female founders",
+   "t": "Dollar Rises to Highest in Nearly 3 Weeks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/wave-vc-funds-bets-female-173548742.html"
+   "u": "https://www.barrons.com/livecoverage/stock-market-news-today-090226/card/dollar-rises-to-highest-in-nearly-3-weeks-Z3UtOVd9yR6sxVUtwN3T?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
