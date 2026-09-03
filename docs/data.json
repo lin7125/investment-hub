@@ -1,219 +1,219 @@
 {
- "generatedAt": "2026-09-04 03:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 03:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2385.0,
-   "c": -2.25,
+   "p": 2390.0,
+   "c": 0.21,
    "a50": 2390.8,
-   "a200": 2004.05,
+   "a200": 2008.7,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2396.0,
-   "r": 49.3
+   "a20": 2397.25,
+   "r": 49.9
   },
   {
    "s": "2317.TW",
-   "p": 251.0,
-   "c": -1.95,
-   "a50": 248.02,
-   "a200": 235.71,
+   "p": 247.5,
+   "c": -1.39,
+   "a50": 247.82,
+   "a200": 235.73,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.98,
-   "r": 50.0
+   "a20": 253.12,
+   "r": 46.9
   },
   {
    "s": "2308.TW",
-   "p": 1730.0,
-   "c": -7.24,
-   "a50": 1802.6,
-   "a200": 1572.03,
+   "p": 1760.0,
+   "c": 1.73,
+   "a50": 1798.2,
+   "a200": 1576.0,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1785.25,
-   "r": 45.3
+   "a20": 1789.25,
+   "r": 47.9
   },
   {
    "s": "2454.TW",
-   "p": 4275.0,
-   "c": -0.93,
-   "a50": 3880.8,
-   "a200": 2617.85,
+   "p": 4340.0,
+   "c": 1.52,
+   "a50": 3881.4,
+   "a200": 2633.25,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3966.5,
-   "r": 60.8
+   "a20": 3987.5,
+   "r": 62.3
   },
   {
    "s": "2327.TW",
-   "p": 540.0,
-   "c": -4.93,
-   "a50": 704.35,
-   "a200": 450.15,
+   "p": 511.0,
+   "c": -5.37,
+   "a50": 692.07,
+   "a200": 451.53,
    "yh": 1140.0,
    "yl": 135.0,
-   "a20": 574.95,
-   "r": 42.1
+   "a20": 572.0,
+   "r": 38.9
   },
   {
    "s": "1802.TW",
-   "p": 60.8,
-   "c": -0.82,
-   "a50": 58.72,
-   "a200": 54.26,
+   "p": 58.6,
+   "c": -3.62,
+   "a50": 58.5,
+   "a200": 54.4,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 57.79,
-   "r": 58.6
+   "a20": 57.99,
+   "r": 51.6
   },
   {
    "s": "6862.TW",
-   "p": 139.5,
-   "c": -1.06,
-   "a50": 154.51,
-   "a200": 174.02,
+   "p": 139.0,
+   "c": -0.36,
+   "a50": 153.32,
+   "a200": 173.87,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 141.55,
-   "r": 44.2
-  },
-  {
-   "s": "3701.TW",
-   "p": 43.25,
-   "c": 5.36,
-   "a50": 40.99,
-   "a200": 49.14,
-   "yh": 78.6,
-   "yl": 29.4,
-   "a20": 41.09,
-   "r": 58.8
-  },
-  {
-   "s": "4722.TW",
-   "p": 201.5,
-   "c": -3.12,
-   "a50": 226.77,
-   "a200": 200.8,
-   "yh": 306.5,
-   "yl": 120.0,
-   "a20": 210.7,
+   "a20": 141.3,
    "r": 43.6
   },
   {
+   "s": "3701.TW",
+   "p": 40.45,
+   "c": -6.47,
+   "a50": 40.86,
+   "a200": 49.17,
+   "yh": 78.6,
+   "yl": 29.4,
+   "a20": 40.94,
+   "r": 48.0
+  },
+  {
+   "s": "4722.TW",
+   "p": 195.5,
+   "c": -2.98,
+   "a50": 224.96,
+   "a200": 200.94,
+   "yh": 306.5,
+   "yl": 120.0,
+   "a20": 208.98,
+   "r": 40.5
+  },
+  {
    "s": "6706.TW",
-   "p": 126.0,
-   "c": -0.79,
-   "a50": 122.42,
-   "a200": 129.62,
+   "p": 120.5,
+   "c": -4.37,
+   "a50": 121.73,
+   "a200": 129.81,
    "yh": 216.5,
    "yl": 60.7,
-   "a20": 119.65,
-   "r": 55.9
+   "a20": 120.08,
+   "r": 49.6
   },
   {
    "s": "2305.TW",
-   "p": 30.05,
-   "c": 1.69,
-   "a50": 32.01,
-   "a200": 19.69,
+   "p": 30.1,
+   "c": 0.17,
+   "a50": 31.86,
+   "a200": 19.79,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.32,
-   "r": 52.1
+   "a20": 28.5,
+   "r": 52.2
   },
   {
    "s": "6442.TW",
-   "p": 1795.0,
-   "c": 9.79,
-   "a50": 1471.0,
-   "a200": 1633.96,
+   "p": 1770.0,
+   "c": -1.39,
+   "a50": 1469.1,
+   "a200": 1638.37,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1553.75,
-   "r": 66.7
+   "a20": 1571.5,
+   "r": 64.6
   },
   {
    "s": "6515.TW",
-   "p": 7050.0,
-   "c": 2.03,
-   "a50": 6956.9,
-   "a200": 6247.05,
+   "p": 7000.0,
+   "c": -0.71,
+   "a50": 6914.9,
+   "a200": 6270.15,
    "yh": 10795.0,
    "yl": 1565.0,
-   "a20": 6552.5,
-   "r": 58.0
+   "a20": 6563.75,
+   "r": 57.0
   },
   {
    "s": "6446.TW",
-   "p": 1305.0,
-   "c": -0.38,
-   "a50": 1287.94,
-   "a200": 769.99,
+   "p": 1350.0,
+   "c": 3.45,
+   "a50": 1293.4,
+   "a200": 774.49,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1417.75,
-   "r": 45.6
+   "a20": 1420.75,
+   "r": 49.1
   },
   {
    "s": "3324.TWO",
-   "p": 1435.0,
-   "c": 4.36,
-   "a50": 992.84,
-   "a200": 1003.5,
+   "p": 1350.0,
+   "c": -5.92,
+   "a50": 999.64,
+   "a200": 1005.02,
    "yh": 1435.0,
    "yl": 643.0,
-   "a20": 1078.7,
-   "r": 81.8
+   "a20": 1093.2,
+   "r": 71.1
   },
   {
    "s": "3491.TWO",
-   "p": 1445.0,
-   "c": -2.36,
-   "a50": 1264.54,
-   "a200": 1249.8,
+   "p": 1405.0,
+   "c": -2.77,
+   "a50": 1265.84,
+   "a200": 1254.67,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1332.5,
-   "r": 57.4
+   "a20": 1335.25,
+   "r": 54.6
   },
   {
    "s": "3585.TWO",
-   "p": 45.6,
-   "c": -2.77,
-   "a50": 54.4,
-   "a200": 43.76,
+   "p": 54.6,
+   "c": 19.74,
+   "a50": 53.98,
+   "a200": 43.96,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.51,
-   "r": 39.5
+   "a20": 49.79,
+   "r": 56.9
   },
   {
    "s": "6223.TWO",
-   "p": 5290.0,
-   "c": -2.22,
-   "a50": 5977.2,
-   "a200": 4239.85,
+   "p": 5045.0,
+   "c": -4.63,
+   "a50": 5940.0,
+   "a200": 4254.73,
    "yh": 7380.0,
    "yl": 1385.0,
-   "a20": 5703.5,
-   "r": 44.3
+   "a20": 5640.75,
+   "r": 40.7
   },
   {
    "s": "6750.TWO",
-   "p": 57.6,
-   "c": 6.67,
-   "a50": 58.27,
-   "a200": 57.4,
+   "p": 59.4,
+   "c": 3.13,
+   "a50": 58.12,
+   "a200": 57.48,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.71,
-   "r": 56.4
+   "a20": 55.87,
+   "r": 61.5
   },
   {
    "s": "AAPL",
-   "p": 327.55,
-   "c": 0.8,
+   "p": 327.53,
+   "c": 0.79,
    "a50": 314.24,
    "a200": 283.6,
    "yh": 340.08,
@@ -223,35 +223,35 @@
   },
   {
    "s": "NVDA",
-   "p": 229.38,
-   "c": 2.22,
-   "a50": 209.89,
+   "p": 229.6,
+   "c": 2.31,
+   "a50": 209.9,
    "a200": 196.47,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.81,
-   "r": 59.8
+   "a20": 219.82,
+   "r": 59.9
   },
   {
    "s": "TSLA",
-   "p": 380.75,
-   "c": 6.65,
+   "p": 380.81,
+   "c": 6.67,
    "a50": 358.46,
    "a200": 399.85,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 347.38,
+   "a20": 347.39,
    "r": 61.9
   },
   {
    "s": "META",
-   "p": 613.89,
-   "c": 3.55,
-   "a50": 594.08,
+   "p": 613.58,
+   "c": 3.5,
+   "a50": 594.07,
    "a200": 622.23,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 575.81,
+   "a20": 575.79,
    "r": 61.5
   },
   {
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7752.09,
-   "c": 1.12,
-   "a50": 7584.57,
-   "a200": 7136.56,
+   "p": 7751.11,
+   "c": 1.1,
+   "a50": 7584.55,
+   "a200": 7136.55,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7710.87,
-   "r": 58.7
+   "a20": 7710.82,
+   "r": 58.6
   },
   {
    "s": "^VIX",
-   "p": 14.48,
-   "c": -4.74,
+   "p": 14.42,
+   "c": -5.13,
    "a50": 16.29,
    "a200": 18.3,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.13,
-   "r": 44.4
+   "a20": 15.12,
+   "r": 44.2
   },
   {
    "s": "BZ=F",
-   "p": 95.65,
-   "c": 0.02,
+   "p": 95.69,
+   "c": 0.06,
    "a50": 85.76,
    "a200": 83.69,
    "yh": 118.35,
@@ -300,13 +300,13 @@
   },
   {
    "s": "GC=F",
-   "p": 4522.6,
+   "p": 4522.4,
    "c": 3.58,
-   "a50": 4231.62,
+   "a50": 4231.61,
    "a200": 4518.81,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4464.24,
+   "a20": 4464.23,
    "r": 58.5
   },
   {
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315557,
-   "c": -0.06,
+   "p": 0.03154574,
+   "c": -0.07,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040002.aspx"
   },
   {
-   "t": "What Dell and Nvidia just proved to the AI stock haters",
+   "t": "Why paying off a mortgage early could be the wrong move",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/what-dell-and-nvidia-just-proved-to-the-ai-stock-haters-090225103.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/why-paying-off-mortgage-early-090644529.html"
   },
   {
    "t": "卓榮泰：公有新建物達近零碳排　提前4年達標",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030336.aspx"
   },
   {
-   "t": "Ask an Advisor: I Think CDs Are a Better Deal Than Paying an Advisor. Am I Wrong?",
+   "t": "What Dell and Nvidia just proved to the AI stock haters",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/ask-advisor-prove-wrong-think-195737088.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/what-dell-and-nvidia-just-proved-to-the-ai-stock-haters-090225103.html"
   },
   {
    "t": "今彩539第115214期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030334.aspx"
   },
   {
-   "t": "Your Social Security check is on track for an automatic 22% cut in 2032 — what it means for your budget",
+   "t": "Ask an Advisor: I Think CDs Are a Better Deal Than Paying an Advisor. Am I Wrong?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/social-security-check-track-automatic-090000491.html"
+   "u": "https://finance.yahoo.com/news/ask-advisor-prove-wrong-think-195737088.html"
   },
   {
    "t": "威力彩第115071期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030332.aspx"
   },
   {
-   "t": "Cairn Homes H1 Earnings Call Highlights",
+   "t": "Your Social Security check is on track for an automatic 22% cut in 2032 — what it means for your budget",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/cairn-homes-h1-earnings-call-090207818.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/social-security-check-track-automatic-090000491.html"
   },
   {
    "t": "Fed理事華勒挺通膨降溫利率不動　美股開盤走揚",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030330.aspx"
   },
   {
-   "t": "JOYY Inc. (JOYY): Livestreaming Giant Is Building Two New Growth Engines Fast",
+   "t": "Warsh's Jackson Hole encore may put Trump's inflation record under a microscope",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/joyy-inc-joyy-livestreaming-giant-085444804.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/warshs-jackson-hole-encore-may-100556398.html"
   },
   {
    "t": "輝達砸逾4千億收購Hugging Face　押寶開源AI模型",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030329.aspx"
   },
   {
-   "t": "PPL Corp.’s (PPL) Guidance Holds Steady Amid A Data Center Gold Rush",
+   "t": "OpenAI, Anthropic aim to balance safety, progress as IPOs near",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/ppl-corp-ppl-guidance-holds-084802387.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-aim-balance-safety-091009484.html"
   }
  ],
  "inst": {
