@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 06:15（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 06:25（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.76,
-   "c": 0.14,
-   "a50": 85.76,
+   "p": 95.82,
+   "c": 0.2,
+   "a50": 85.77,
    "a200": 83.69,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 90.53,
-   "r": 61.7
+   "r": 61.8
   },
   {
    "s": "GC=F",
-   "p": 4523.4,
-   "c": 3.6,
-   "a50": 4231.63,
-   "a200": 4518.81,
+   "p": 4525.4,
+   "c": 3.64,
+   "a50": 4231.67,
+   "a200": 4518.82,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4464.28,
-   "r": 58.5
+   "a20": 4464.38,
+   "r": 58.6
   },
   {
    "s": "HG=F",
-   "p": 6.68,
-   "c": 2.7,
+   "p": 6.67,
+   "c": 2.64,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 59.0
+   "r": 58.8
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040002.aspx"
   },
   {
-   "t": "Is Chubb Limited Stock Outperforming the S&P 500?",
+   "t": "Lottomatica Goes All-In on Spanish Rival Cirsa",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chubb-limited-stock-outperforming-p-143202017.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lottomatica-goes-spanish-rival-cirsa-144728742.html"
   },
   {
    "t": "卓榮泰：公有新建物達近零碳排　提前4年達標",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030336.aspx"
   },
   {
-   "t": "NVIDIA and Equinix Deepen Their AI Inference Partnership. Here’s What It Means for Both Stocks",
+   "t": "Google defeats US bid to force ad tech sale",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-equinix-deepen-ai-inference-143402756.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/google-defeats-us-bid-force-143055450.html"
   },
   {
    "t": "今彩539第115214期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030334.aspx"
   },
   {
-   "t": "Dave Ramsey says TikTok's viral mortgage assumption trick is 'fraudulent' and will 'get you fried'",
+   "t": "XRP Price Eyes $1.80 as Active Addresses Hit Record High",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/dave-ramsey-says-tiktoks-viral-143500739.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-eyes-1-80-145034055.html"
   },
   {
    "t": "威力彩第115071期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030332.aspx"
   },
   {
-   "t": "XRP ETFs Attract $170 million Of Capital In 11 Days",
+   "t": "The Fund Added GE Aerospace (GE) Amid Market Skepticism",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-attract-170-million-143000518.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fund-added-ge-aerospace-ge-145059869.html"
   },
   {
    "t": "Fed理事華勒挺通膨降溫利率不動　美股開盤走揚",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030330.aspx"
   },
   {
-   "t": "Tim Cook's Final Full Quarter as CEO Saw iPhone Revenue Hit $56.99 Billion and Services Revenue Hit a Record $30.98 Billion. Does That Mix Make Apple Stock a Buy as John Ternus Takes Over?",
+   "t": "ZCCM targets $1.8bn from formalised small-scale gold sector",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tim-cooks-final-full-quarter-143500047.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/zccm-targets-1-8bn-formalised-145017272.html"
   }
  ],
  "inst": {
