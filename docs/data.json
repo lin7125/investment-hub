@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 14:45（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 14:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 53.7,
-   "c": 17.76,
-   "a50": 53.96,
+   "p": 54.6,
+   "c": 19.74,
+   "a50": 53.98,
    "a200": 43.96,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.74,
-   "r": 55.7
+   "a20": 49.79,
+   "r": 56.9
   },
   {
    "s": "6223.TWO",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 94.42,
-   "c": -1.27,
+   "p": 94.41,
+   "c": -1.28,
    "a50": 85.74,
    "a200": 83.68,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4469.1,
-   "c": 2.35,
-   "a50": 4230.55,
-   "a200": 4518.54,
+   "p": 4472.4,
+   "c": 2.43,
+   "a50": 4230.61,
+   "a200": 4518.56,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4461.57,
-   "r": 55.5
+   "a20": 4461.73,
+   "r": 55.7
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 1.42,
+   "c": 1.37,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 54.5
+   "r": 54.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03148615,
-   "c": -0.26,
+   "p": 0.03150599,
+   "c": -0.21,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "民俗月與暴雨衝擊　8月住展風向球續亮黃藍燈",
+   "t": "裁員10%疫情後最大規模　Uber加碼押寶自駕計程車",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030095.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030139.aspx"
   },
   {
    "t": "Costco shuts down key service without notice",
@@ -344,140 +344,140 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/costco-shuts-down-key-no-011218190.html"
   },
   {
-   "t": "金總建議重啟境外資金專法　財部憂3因素盼審慎評估",
+   "t": "電子股下挫　台股殺尾盤跌307點失守46000點",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030094.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030137.aspx"
   },
   {
-   "t": "Billionaires Were Buying These Two Nancy Pelosi AI Stocks",
+   "t": "This Popular Semiconductor ETF Has a Big Chip in Its Bull Case. How to Tell If It’s Broken Beyond Repair.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaires-were-buying-two-nancy-183456888.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/popular-semiconductor-etf-big-chip-184201946.html"
   },
   {
-   "t": "客製化AI晶片競爭升溫　博通第4季營收預測低於預期",
+   "t": "帆宣訂單能見度至2028年　日本德國同步施工",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/aopl/202609030093.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030133.aspx"
   },
   {
-   "t": "GoPro Pulls An Allbirds As It Trades Cameras For AI",
+   "t": "Dear GameStop Stock Fans, Mark Your Calendars for September 8",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gopro-pulls-allbirds-trades-cameras-184034642.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-gamestop-stock-fans-mark-184424585.html"
   },
   {
-   "t": "冬山地熱探勘井溫達200度　中油評估2028年底設電廠可行性",
+   "t": "9月電子期跌　金融期漲",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030091.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030130.aspx"
   },
   {
-   "t": "Best credit cards with no annual fee (2026)",
+   "t": "History Says Avoid This Software Stock in September",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/history-says-avoid-software-stock-185048756.html"
   },
   {
-   "t": "新台幣午盤升0.7分　暫收31.721元",
+   "t": "9月台股期指跌328點",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030084.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030126.aspx"
   },
   {
-   "t": "Credit card fees explained: 8 types you should know",
+   "t": "Best credit cards for shopping on Amazon (2026)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/types-credit-card-fees-144450351.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html"
   },
   {
-   "t": "財政部股息紅利進補　公股4金2銀明年配息看增",
+   "t": "總統：台肥多元發展　與農業現代化、經濟發展密不可分",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030076.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030125.aspx"
   },
   {
-   "t": "Google Just Locked Up the Largest Geothermal Power Deal Ever Made.",
+   "t": "Why Interactive Brokers Stock Tumbled on Tuesday",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/google-just-locked-largest-geothermal-183201824.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-interactive-brokers-stock-tumbled-184327244.html"
   }
  ],
  "inst": {
-  "date": "2026-09-02",
+  "date": "2026-09-01",
   "byCode": {
-   "6442": {
-    "f": 65,
-    "t": 101,
-    "all": 380
-   },
-   "2305": {
-    "f": 275,
-    "t": 0,
-    "all": 282
-   },
-   "3701": {
-    "f": 181,
-    "t": 0,
-    "all": 214
-   },
-   "6862": {
-    "f": 10,
-    "t": 0,
-    "all": 7
-   },
-   "6515": {
-    "f": -310,
-    "t": 223,
-    "all": -88
-   },
-   "4722": {
-    "f": -104,
-    "t": 0,
-    "all": -116
-   },
-   "2454": {
-    "f": -1222,
-    "t": 851,
-    "all": -310
-   },
-   "6706": {
-    "f": -283,
-    "t": 0,
-    "all": -314
-   },
-   "6446": {
-    "f": -780,
-    "t": -52,
-    "all": -824
-   },
-   "1802": {
-    "f": -1434,
-    "t": 316,
-    "all": -1209
-   },
-   "2308": {
-    "f": -7030,
-    "t": -1032,
-    "all": -8387
-   },
    "2317": {
-    "f": -8420,
-    "t": 212,
-    "all": -8873
+    "f": 13474,
+    "t": 698,
+    "all": 15110
    },
    "2330": {
-    "f": -11987,
-    "t": -837,
-    "all": -12752
+    "f": 5730,
+    "t": 103,
+    "all": 5965
    },
    "2327": {
-    "f": -16719,
-    "t": -1716,
-    "all": -18881
+    "f": 10023,
+    "t": -4131,
+    "all": 5745
+   },
+   "1802": {
+    "f": 2918,
+    "t": 409,
+    "all": 3225
+   },
+   "6706": {
+    "f": 275,
+    "t": 0,
+    "all": 351
+   },
+   "6442": {
+    "f": 249,
+    "t": 6,
+    "all": 239
+   },
+   "4722": {
+    "f": 137,
+    "t": 0,
+    "all": 136
+   },
+   "6515": {
+    "f": 11,
+    "t": 69,
+    "all": 78
+   },
+   "3701": {
+    "f": 74,
+    "t": 0,
+    "all": 60
+   },
+   "6862": {
+    "f": -1,
+    "t": 0,
+    "all": -2
+   },
+   "2454": {
+    "f": -340,
+    "t": -3,
+    "all": -94
+   },
+   "2308": {
+    "f": -499,
+    "t": 194,
+    "all": -160
+   },
+   "2305": {
+    "f": -887,
+    "t": 0,
+    "all": -828
+   },
+   "6446": {
+    "f": -26,
+    "t": -975,
+    "all": -992
    }
   },
-  "totalNetE": -1152.4
+  "totalNetE": 566.4
  }
 }
