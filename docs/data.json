@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 14:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 15:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 54.6,
-   "c": 19.74,
-   "a50": 53.98,
+   "p": 54.2,
+   "c": 18.86,
+   "a50": 53.97,
    "a200": 43.96,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.79,
-   "r": 56.9
+   "a20": 49.77,
+   "r": 56.4
   },
   {
    "s": "6223.TWO",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 94.41,
-   "c": -1.28,
+   "p": 94.57,
+   "c": -1.11,
    "a50": 85.74,
    "a200": 83.68,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 90.46,
-   "r": 58.8
+   "a20": 90.47,
+   "r": 59.1
   },
   {
    "s": "GC=F",
-   "p": 4472.4,
-   "c": 2.43,
-   "a50": 4230.61,
-   "a200": 4518.56,
+   "p": 4468.4,
+   "c": 2.34,
+   "a50": 4230.53,
+   "a200": 4518.54,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4461.73,
-   "r": 55.7
+   "a20": 4461.53,
+   "r": 55.5
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 1.37,
+   "c": 1.31,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 54.4
+   "r": 54.1
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030137.aspx"
   },
   {
-   "t": "This Popular Semiconductor ETF Has a Big Chip in Its Bull Case. How to Tell If It’s Broken Beyond Repair.",
+   "t": "Best credit cards for shopping at Walmart (2026)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/popular-semiconductor-etf-big-chip-184201946.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-walmart-182948137.html"
   },
   {
    "t": "帆宣訂單能見度至2028年　日本德國同步施工",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030133.aspx"
   },
   {
-   "t": "Dear GameStop Stock Fans, Mark Your Calendars for September 8",
+   "t": "Jensen Huang: Nvidia’s Vera Rubin Platform Turns Electricity Into a $40 Billion Cash Machine",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-gamestop-stock-fans-mark-184424585.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-nvidia-vera-rubin-190913186.html"
   },
   {
    "t": "9月電子期跌　金融期漲",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030130.aspx"
   },
   {
-   "t": "History Says Avoid This Software Stock in September",
+   "t": "Ally Unlimited Cash Back Mastercard review: A simplistic approach to cash back",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/history-says-avoid-software-stock-185048756.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/ally-unlimited-cash-back-review-165948540.html"
   },
   {
    "t": "9月台股期指跌328點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030126.aspx"
   },
   {
-   "t": "Best credit cards for shopping on Amazon (2026)",
+   "t": "Best credit cards for home improvement (2026)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-for-home-improvement-214525388.html"
   },
   {
    "t": "總統：台肥多元發展　與農業現代化、經濟發展密不可分",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202609030125.aspx"
   },
   {
-   "t": "Why Interactive Brokers Stock Tumbled on Tuesday",
+   "t": "Morgan Stanley Stock Is Up Nearly 20% in 2026: What Will It Take to Break Through $250?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-interactive-brokers-stock-tumbled-184327244.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-stock-nearly-20-190132513.html"
   }
  ],
  "inst": {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "byCode": {
-   "2317": {
-    "f": 13474,
-    "t": 698,
-    "all": 15110
-   },
-   "2330": {
-    "f": 5730,
-    "t": 103,
-    "all": 5965
-   },
-   "2327": {
-    "f": 10023,
-    "t": -4131,
-    "all": 5745
-   },
-   "1802": {
-    "f": 2918,
-    "t": 409,
-    "all": 3225
-   },
-   "6706": {
-    "f": 275,
-    "t": 0,
-    "all": 351
-   },
    "6442": {
-    "f": 249,
-    "t": 6,
-    "all": 239
-   },
-   "4722": {
-    "f": 137,
-    "t": 0,
-    "all": 136
-   },
-   "6515": {
-    "f": 11,
-    "t": 69,
-    "all": 78
-   },
-   "3701": {
-    "f": 74,
-    "t": 0,
-    "all": 60
-   },
-   "6862": {
-    "f": -1,
-    "t": 0,
-    "all": -2
-   },
-   "2454": {
-    "f": -340,
-    "t": -3,
-    "all": -94
-   },
-   "2308": {
-    "f": -499,
-    "t": 194,
-    "all": -160
+    "f": 65,
+    "t": 101,
+    "all": 380
    },
    "2305": {
-    "f": -887,
+    "f": 275,
     "t": 0,
-    "all": -828
+    "all": 282
+   },
+   "3701": {
+    "f": 181,
+    "t": 0,
+    "all": 214
+   },
+   "6862": {
+    "f": 10,
+    "t": 0,
+    "all": 7
+   },
+   "6515": {
+    "f": -310,
+    "t": 223,
+    "all": -88
+   },
+   "4722": {
+    "f": -104,
+    "t": 0,
+    "all": -116
+   },
+   "2454": {
+    "f": -1222,
+    "t": 851,
+    "all": -310
+   },
+   "6706": {
+    "f": -283,
+    "t": 0,
+    "all": -314
    },
    "6446": {
-    "f": -26,
-    "t": -975,
-    "all": -992
+    "f": -780,
+    "t": -52,
+    "all": -824
+   },
+   "1802": {
+    "f": -1434,
+    "t": 316,
+    "all": -1209
+   },
+   "2308": {
+    "f": -7030,
+    "t": -1032,
+    "all": -8387
+   },
+   "2317": {
+    "f": -8420,
+    "t": 212,
+    "all": -8873
+   },
+   "2330": {
+    "f": -11987,
+    "t": -837,
+    "all": -12752
+   },
+   "2327": {
+    "f": -16719,
+    "t": -1716,
+    "all": -18881
    }
   },
-  "totalNetE": 566.4
+  "totalNetE": -1152.4
  }
 }
