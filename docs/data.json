@@ -1,214 +1,214 @@
 {
- "generatedAt": "2026-09-03 07:45（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 13:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2385.0,
-   "c": -2.25,
-   "a50": 2390.8,
-   "a200": 2004.05,
+   "p": 2395.0,
+   "c": 0.42,
+   "a50": 2390.9,
+   "a200": 2008.72,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2396.0,
-   "r": 49.3
+   "a20": 2397.5,
+   "r": 50.5
   },
   {
    "s": "2317.TW",
-   "p": 251.0,
-   "c": -1.95,
-   "a50": 248.02,
-   "a200": 235.71,
+   "p": 251.5,
+   "c": 0.2,
+   "a50": 247.9,
+   "a200": 235.75,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.98,
-   "r": 50.0
+   "a20": 253.32,
+   "r": 50.4
   },
   {
    "s": "2308.TW",
-   "p": 1730.0,
-   "c": -7.24,
-   "a50": 1802.6,
-   "a200": 1572.03,
+   "p": 1785.0,
+   "c": 3.18,
+   "a50": 1798.7,
+   "a200": 1576.13,
    "yh": 2520.0,
    "yl": 680.0,
-   "a20": 1785.25,
-   "r": 45.3
+   "a20": 1790.5,
+   "r": 49.9
   },
   {
    "s": "2454.TW",
-   "p": 4275.0,
-   "c": -0.93,
-   "a50": 3880.8,
-   "a200": 2617.85,
+   "p": 4390.0,
+   "c": 2.69,
+   "a50": 3882.4,
+   "a200": 2633.5,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3966.5,
-   "r": 60.8
+   "a20": 3990.0,
+   "r": 63.4
   },
   {
    "s": "2327.TW",
-   "p": 540.0,
-   "c": -4.93,
-   "a50": 704.35,
-   "a200": 450.15,
+   "p": 525.0,
+   "c": -2.78,
+   "a50": 692.35,
+   "a200": 451.6,
    "yh": 1140.0,
-   "yl": 134.5,
-   "a20": 574.95,
-   "r": 42.1
+   "yl": 135.0,
+   "a20": 572.7,
+   "r": 40.4
   },
   {
    "s": "1802.TW",
-   "p": 60.8,
-   "c": -0.82,
-   "a50": 58.72,
-   "a200": 54.26,
+   "p": 59.9,
+   "c": -1.48,
+   "a50": 58.53,
+   "a200": 54.41,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 57.79,
-   "r": 58.6
+   "a20": 58.06,
+   "r": 55.5
   },
   {
    "s": "6862.TW",
-   "p": 139.5,
-   "c": -1.06,
-   "a50": 154.51,
-   "a200": 174.02,
+   "p": 138.0,
+   "c": -1.08,
+   "a50": 153.3,
+   "a200": 173.86,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 141.55,
-   "r": 44.2
+   "a20": 141.25,
+   "r": 42.5
   },
   {
    "s": "3701.TW",
-   "p": 43.25,
-   "c": 5.36,
-   "a50": 40.99,
-   "a200": 49.14,
+   "p": 41.3,
+   "c": -4.51,
+   "a50": 40.88,
+   "a200": 49.18,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 41.09,
-   "r": 58.8
+   "a20": 40.98,
+   "r": 50.8
   },
   {
    "s": "4722.TW",
-   "p": 201.5,
-   "c": -3.12,
-   "a50": 226.77,
-   "a200": 200.8,
+   "p": 200.0,
+   "c": -0.74,
+   "a50": 225.05,
+   "a200": 200.96,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 210.7,
-   "r": 43.6
+   "a20": 209.2,
+   "r": 42.8
   },
   {
    "s": "6706.TW",
-   "p": 126.0,
-   "c": -0.79,
-   "a50": 122.42,
-   "a200": 129.62,
+   "p": 123.5,
+   "c": -1.98,
+   "a50": 121.79,
+   "a200": 129.82,
    "yh": 216.5,
-   "yl": 60.5,
-   "a20": 119.65,
-   "r": 55.9
+   "yl": 60.7,
+   "a20": 120.22,
+   "r": 52.9
   },
   {
    "s": "2305.TW",
-   "p": 30.05,
-   "c": 1.69,
-   "a50": 32.01,
-   "a200": 19.69,
+   "p": 29.65,
+   "c": -1.33,
+   "a50": 31.85,
+   "a200": 19.78,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.32,
-   "r": 52.1
+   "a20": 28.48,
+   "r": 50.8
   },
   {
    "s": "6442.TW",
-   "p": 1795.0,
-   "c": 9.79,
-   "a50": 1471.0,
-   "a200": 1633.96,
+   "p": 1825.0,
+   "c": 1.67,
+   "a50": 1470.2,
+   "a200": 1638.64,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1553.75,
-   "r": 66.7
+   "a20": 1574.25,
+   "r": 68.0
   },
   {
    "s": "6515.TW",
-   "p": 7050.0,
-   "c": 2.03,
-   "a50": 6956.9,
-   "a200": 6247.05,
+   "p": 7260.0,
+   "c": 2.98,
+   "a50": 6920.1,
+   "a200": 6271.45,
    "yh": 10795.0,
-   "yl": 1535.0,
-   "a20": 6552.5,
-   "r": 58.0
+   "yl": 1565.0,
+   "a20": 6576.75,
+   "r": 61.0
   },
   {
    "s": "6446.TW",
-   "p": 1305.0,
-   "c": -0.38,
-   "a50": 1287.94,
-   "a200": 769.99,
+   "p": 1365.0,
+   "c": 4.6,
+   "a50": 1293.7,
+   "a200": 774.56,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1417.75,
-   "r": 45.6
+   "a20": 1421.5,
+   "r": 50.2
   },
   {
    "s": "3324.TWO",
-   "p": 1435.0,
-   "c": 4.36,
-   "a50": 992.84,
-   "a200": 1003.5,
+   "p": 1355.0,
+   "c": -5.57,
+   "a50": 999.74,
+   "a200": 1005.04,
    "yh": 1435.0,
    "yl": 643.0,
-   "a20": 1078.7,
-   "r": 81.8
+   "a20": 1093.45,
+   "r": 71.6
   },
   {
    "s": "3491.TWO",
-   "p": 1445.0,
-   "c": -2.36,
-   "a50": 1264.54,
-   "a200": 1249.8,
+   "p": 1450.0,
+   "c": 0.35,
+   "a50": 1266.74,
+   "a200": 1254.89,
    "yh": 2200.0,
-   "yl": 398.5,
-   "a20": 1332.5,
-   "r": 57.4
+   "yl": 420.5,
+   "a20": 1337.5,
+   "r": 57.6
   },
   {
    "s": "3585.TWO",
-   "p": 45.6,
-   "c": -2.77,
-   "a50": 54.4,
-   "a200": 43.76,
+   "p": 53.2,
+   "c": 16.67,
+   "a50": 53.95,
+   "a200": 43.96,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.51,
-   "r": 39.5
+   "a20": 49.72,
+   "r": 54.9
   },
   {
    "s": "6223.TWO",
-   "p": 5290.0,
-   "c": -2.22,
-   "a50": 5977.2,
-   "a200": 4239.85,
+   "p": 5155.0,
+   "c": -2.55,
+   "a50": 5942.2,
+   "a200": 4255.27,
    "yh": 7380.0,
    "yl": 1385.0,
-   "a20": 5703.5,
-   "r": 44.3
+   "a20": 5646.25,
+   "r": 42.2
   },
   {
    "s": "6750.TWO",
-   "p": 57.6,
-   "c": 6.67,
-   "a50": 58.27,
-   "a200": 57.4,
+   "p": 60.0,
+   "c": 4.17,
+   "a50": 58.13,
+   "a200": 57.48,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.71,
-   "r": 56.4
+   "a20": 55.9,
+   "r": 62.9
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46948.72,
-   "c": 1.78,
-   "a50": 44914.57,
-   "a200": 36966.42,
+   "p": 46264.65,
+   "c": 0.22,
+   "a50": 44900.27,
+   "a200": 37150.49,
    "yh": 47741.51,
-   "yl": 24016.78,
-   "a20": 45391.29,
-   "r": 63.3
+   "yl": 24100.3,
+   "a20": 45562.35,
+   "r": 57.3
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.3,
-   "c": 0.69,
-   "a50": 85.32,
-   "a200": 83.53,
+   "p": 95.02,
+   "c": -0.64,
+   "a50": 85.75,
+   "a200": 83.68,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 89.85,
-   "r": 61.1
+   "a20": 90.49,
+   "r": 60.1
   },
   {
    "s": "GC=F",
-   "p": 4428.5,
-   "c": 1.85,
-   "a50": 4222.21,
-   "a200": 4516.95,
+   "p": 4482.8,
+   "c": 2.67,
+   "a50": 4230.82,
+   "a200": 4518.61,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4453.32,
-   "r": 52.7
+   "a20": 4462.25,
+   "r": 56.3
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 1.51,
-   "a50": 6.4,
-   "a200": 5.97,
+   "c": 1.63,
+   "a50": 6.41,
+   "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
-   "a20": 6.58,
-   "r": 54.9
+   "a20": 6.57,
+   "r": 55.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03151592,
-   "c": -0.16,
+   "p": 0.03152585,
+   "c": -0.13,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,22 +332,10 @@
  ],
  "news": [
   {
-   "t": "美國伊朗衝突不斷　國際油價續漲",
+   "t": "民俗月與暴雨衝擊　8月住展風向球續亮黃藍燈",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030011.aspx"
-  },
-  {
-   "t": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html"
-  },
-  {
-   "t": "連跌後吸引逢低買氣　美股收高",
-   "pub": "中央社財經",
-   "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030009.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030095.aspx"
   },
   {
    "t": "Costco shuts down key service without notice",
@@ -356,52 +344,64 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/costco-shuts-down-key-no-011218190.html"
   },
   {
-   "t": "美商務部長：擬加徵半導體關稅　在美生產可豁免",
+   "t": "金總建議重啟境外資金專法　財部憂3因素盼審慎評估",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/aopl/202609030004.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030094.aspx"
   },
   {
-   "t": "Is Union Pacific Stock Outperforming the S&P 500?",
+   "t": "Why Unitil (UTL) Could Deliver 5%-7% Annual EPS Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/union-pacific-stock-outperforming-p-153756706.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-unitil-utl-could-deliver-171436201.html"
   },
   {
-   "t": "美債殖利率與油價回升　歐股收黑",
+   "t": "客製化AI晶片競爭升溫　博通第4季營收預測低於預期",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/afe/202609030003.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609030093.aspx"
   },
   {
-   "t": "How Is Intuitive Surgical's Stock Performance Compared to Other Health Care Equipment Stocks?",
+   "t": "Why Vontier (VNT) Could Be an Overlooked Value Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgicals-stock-performance-compared-153212563.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-vontier-vnt-could-overlooked-171346482.html"
   },
   {
-   "t": "雪佛龍砸70億美元投資委內瑞拉　5年內石油產量將翻倍",
+   "t": "冬山地熱探勘井溫達200度　中油評估2028年底設電廠可行性",
    "pub": "中央社財經",
    "d": "2026-09-03",
-   "u": "https://www.cna.com.tw/news/aopl/202609030002.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609030091.aspx"
   },
   {
-   "t": "How soaring Treasury yields could hit your finances",
+   "t": "Why InterDigital (IDCC) Could Be a Hidden Gem in Wireless Technology",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-soaring-treasury-yields-could-hit-your-finances-141336109.html"
+   "u": "https://finance.yahoo.com/technology/articles/why-interdigital-idcc-could-hidden-171403423.html"
   },
   {
-   "t": "埃及債務高  債息幣值物價三重夾擊經濟更為頭痛",
+   "t": "新台幣午盤升0.7分　暫收31.721元",
    "pub": "中央社財經",
-   "d": "2026-09-02",
-   "u": "https://www.cna.com.tw/news/aopl/202609020369.aspx"
+   "d": "2026-09-03",
+   "u": "https://www.cna.com.tw/news/afe/202609030084.aspx"
   },
   {
-   "t": "Dell and HPE Stocks Soared After Last Earnings. Forget the Guidance Raise. This Is What Matters Most This Time.",
+   "t": "Treasury Yields Hit 19-Month High As Bond Woes Spread Around The Globe",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dell-hpe-stocks-soared-last-152826535.html"
+   "u": "https://www.investors.com/news/10-year-treasury-yield-bond-market/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "財政部股息紅利進補　公股4金2銀明年配息看增",
+   "pub": "中央社財經",
+   "d": "2026-09-03",
+   "u": "https://www.cna.com.tw/news/afe/202609030076.aspx"
+  },
+  {
+   "t": "Bank of N.T. Butterfield (NTB): A Caribbean Banking Stock Trading Below 10x Earnings",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-n-t-butterfield-ntb-171417559.html"
   }
  ],
  "inst": {
