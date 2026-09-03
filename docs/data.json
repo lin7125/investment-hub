@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 17:39（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 17:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.21,
-   "c": 0.07,
-   "a50": 16.3,
+   "p": 15.22,
+   "c": 0.13,
+   "a50": 16.31,
    "a200": 18.31,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.16,
-   "r": 47.7
+   "r": 47.8
   },
   {
    "s": "BZ=F",
-   "p": 95.98,
-   "c": 0.37,
+   "p": 96.25,
+   "c": 0.65,
    "a50": 85.77,
    "a200": 83.69,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 90.54,
-   "r": 62.0
+   "a20": 90.55,
+   "r": 62.4
   },
   {
    "s": "GC=F",
-   "p": 4481.6,
-   "c": 2.64,
-   "a50": 4230.8,
-   "a200": 4518.61,
+   "p": 4477.6,
+   "c": 2.55,
+   "a50": 4230.72,
+   "a200": 4518.59,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4462.19,
-   "r": 56.3
+   "a20": 4461.99,
+   "r": 56.0
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 2.09,
+   "p": 6.62,
+   "c": 1.88,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 57.0
+   "r": 56.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
-   "c": -0.09,
+   "p": 0.03156566,
+   "c": -0.03,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030218.aspx"
   },
   {
-   "t": "Best airline credit cards (2026)",
+   "t": "Best American Express credit cards (2026)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-airline-credit-cards-193236919.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-amex-credit-card-172941206.html"
   },
   {
    "t": "記憶體漲價壓抑PC出貨　宏碁：預留零件升級空間因應",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030216.aspx"
   },
   {
-   "t": "Best American Express credit cards (2026)",
+   "t": "Best airline credit cards (2026)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-amex-credit-card-172941206.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-airline-credit-cards-193236919.html"
   },
   {
    "t": "光寶科加強散熱布局　砸56億取得波蘭DCX約25%股權",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030207.aspx"
   },
   {
-   "t": "How soaring Treasury yields could hit your finances",
+   "t": "Best business credit cards (2026): Save money for your small business",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-soaring-treasury-yields-could-hit-your-finances-141336109.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-business-credit-cards-181831412.html"
   },
   {
    "t": "經部：民生天然氣桶裝瓦斯凍漲至年底　盼國會支持追加預算",
