@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 14:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 14:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 53.0,
-   "c": 16.23,
-   "a50": 53.94,
+   "p": 53.7,
+   "c": 17.76,
+   "a50": 53.96,
    "a200": 43.96,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.71,
-   "r": 54.6
+   "a20": 49.74,
+   "r": 55.7
   },
   {
    "s": "6223.TWO",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 94.21,
-   "c": -1.48,
-   "a50": 85.73,
+   "p": 94.42,
+   "c": -1.27,
+   "a50": 85.74,
    "a200": 83.68,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 90.45,
-   "r": 58.4
+   "a20": 90.46,
+   "r": 58.8
   },
   {
    "s": "GC=F",
-   "p": 4464.9,
-   "c": 2.26,
-   "a50": 4230.46,
-   "a200": 4518.52,
+   "p": 4469.1,
+   "c": 2.35,
+   "a50": 4230.55,
+   "a200": 4518.54,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4461.36,
-   "r": 55.3
+   "a20": 4461.57,
+   "r": 55.5
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 1.4,
+   "c": 1.42,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03150599,
-   "c": -0.22,
+   "p": 0.03148615,
+   "c": -0.26,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030094.aspx"
   },
   {
-   "t": "The complete list of credit card perks that reset each calendar year (2026)",
+   "t": "Billionaires Were Buying These Two Nancy Pelosi AI Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-card-perks-calendar-year-214541060.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/billionaires-were-buying-two-nancy-183456888.html"
   },
   {
    "t": "客製化AI晶片競爭升溫　博通第4季營收預測低於預期",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030093.aspx"
   },
   {
-   "t": "Best Wells Fargo credit cards (2026)",
+   "t": "GoPro Pulls An Allbirds As It Trades Cameras For AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-wells-fargo-credit-cards-164310496.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/gopro-pulls-allbirds-trades-cameras-184034642.html"
   },
   {
    "t": "冬山地熱探勘井溫達200度　中油評估2028年底設電廠可行性",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030091.aspx"
   },
   {
-   "t": "Wells Fargo Autograph Card review: No frills and high rewards",
+   "t": "Best credit cards with no annual fee (2026)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-autograph-card-review-174306239.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-with-no-annual-fee-204747522.html"
   },
   {
    "t": "新台幣午盤升0.7分　暫收31.721元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030084.aspx"
   },
   {
-   "t": "With Cybersecurity for Cloud and Artificial Intelligence, CrowdStrike Stock Is Positioned for Sustained Growth",
+   "t": "Credit card fees explained: 8 types you should know",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/cybersecurity-cloud-artificial-intelligence-crowdstrike-182824264.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/types-credit-card-fees-144450351.html"
   },
   {
    "t": "財政部股息紅利進補　公股4金2銀明年配息看增",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202609030076.aspx"
   },
   {
-   "t": "Sequoia Financial Expands in Colorado With $2.3 Billion Acquisition",
+   "t": "Google Just Locked Up the Largest Geothermal Power Deal Ever Made.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/advisor/articles/sequoia-financial-group-acquires-colorado-ria-bsw-cf1d7849?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/energy/articles/google-just-locked-largest-geothermal-183201824.html"
   }
  ],
  "inst": {
-  "date": "2026-08-28",
+  "date": "2026-09-02",
   "byCode": {
-   "1802": {
-    "f": 11554,
-    "t": 0,
-    "all": 13336
-   },
-   "2330": {
-    "f": 3031,
-    "t": -1765,
-    "all": 1243
-   },
-   "2454": {
-    "f": 1096,
-    "t": -118,
-    "all": 996
-   },
-   "2317": {
-    "f": 1192,
-    "t": 307,
-    "all": 776
-   },
-   "2308": {
-    "f": 1163,
-    "t": -732,
-    "all": 546
-   },
-   "6706": {
-    "f": 155,
-    "t": 0,
-    "all": 125
-   },
-   "4722": {
-    "f": 115,
-    "t": 0,
-    "all": 96
-   },
    "6442": {
-    "f": 132,
-    "t": -32,
-    "all": 83
-   },
-   "6515": {
-    "f": -24,
-    "t": -3,
-    "all": -25
-   },
-   "6862": {
-    "f": -52,
-    "t": 0,
-    "all": -48
-   },
-   "3701": {
-    "f": -134,
-    "t": 0,
-    "all": -135
-   },
-   "6446": {
-    "f": -187,
-    "t": -5,
-    "all": -192
+    "f": 65,
+    "t": 101,
+    "all": 380
    },
    "2305": {
-    "f": -897,
+    "f": 275,
     "t": 0,
-    "all": -900
+    "all": 282
+   },
+   "3701": {
+    "f": 181,
+    "t": 0,
+    "all": 214
+   },
+   "6862": {
+    "f": 10,
+    "t": 0,
+    "all": 7
+   },
+   "6515": {
+    "f": -310,
+    "t": 223,
+    "all": -88
+   },
+   "4722": {
+    "f": -104,
+    "t": 0,
+    "all": -116
+   },
+   "2454": {
+    "f": -1222,
+    "t": 851,
+    "all": -310
+   },
+   "6706": {
+    "f": -283,
+    "t": 0,
+    "all": -314
+   },
+   "6446": {
+    "f": -780,
+    "t": -52,
+    "all": -824
+   },
+   "1802": {
+    "f": -1434,
+    "t": 316,
+    "all": -1209
+   },
+   "2308": {
+    "f": -7030,
+    "t": -1032,
+    "all": -8387
+   },
+   "2317": {
+    "f": -8420,
+    "t": 212,
+    "all": -8873
+   },
+   "2330": {
+    "f": -11987,
+    "t": -837,
+    "all": -12752
    },
    "2327": {
-    "f": -2216,
-    "t": -1106,
-    "all": -2762
+    "f": -16719,
+    "t": -1716,
+    "all": -18881
    }
   },
-  "totalNetE": 458.3
+  "totalNetE": -1152.4
  }
 }
