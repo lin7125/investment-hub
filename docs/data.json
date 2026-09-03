@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 14.3,
-   "c": -5.92,
+   "p": 14.29,
+   "c": -5.99,
    "a50": 16.29,
    "a200": 18.3,
    "yh": 31.05,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4519.6,
-   "c": 3.51,
-   "a50": 4231.56,
+   "p": 4520.6,
+   "c": 3.53,
+   "a50": 4231.58,
    "a200": 4518.8,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4464.09,
-   "r": 58.3
+   "a20": 4464.14,
+   "r": 58.4
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 2.63,
+   "c": 2.62,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 58.8
+   "r": 58.7
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030334.aspx"
   },
   {
-   "t": "Diesel Cracks Hit Record Highs as Global Fuel Squeeze Deepens",
+   "t": "Biggest share of America’s Social Security benefits go to these boomers. Fair or Foul?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/diesel-cracks-hit-record-highs-094500094.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/biggest-share-america-social-security-101500729.html"
   },
   {
    "t": "威力彩第115071期　頭獎槓龜",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609030332.aspx"
   },
   {
-   "t": "Biggest share of America’s Social Security benefits go to these boomers. Fair or Foul?",
+   "t": "SentinelOne’s ARR Guidance Just Moved From Low- to Mid-Single Digits. Scotiabank Says That’s the Real Signal.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/biggest-share-america-social-security-101500729.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sentinelone-arr-guidance-just-moved-102001295.html"
   },
   {
    "t": "Fed理事華勒挺通膨降溫利率不動　美股開盤走揚",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030330.aspx"
   },
   {
-   "t": "Why Is Credo Technology Stock Sinking Wednesday?",
+   "t": "Understanding a hotel’s duty of care",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-credo-technology-stock-sinking-095123669.html"
+   "u": "https://finance.yahoo.com/small-business/articles/understanding-hotel-duty-care-095857705.html"
   }
  ],
  "inst": {
