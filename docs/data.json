@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 15:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 15:57（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.25,
-   "c": 0.33,
-   "a50": 16.31,
+   "p": 15.16,
+   "c": -0.26,
+   "a50": 16.3,
    "a200": 18.31,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.16,
-   "r": 47.9
+   "r": 47.5
   },
   {
    "s": "BZ=F",
-   "p": 95.08,
-   "c": -0.58,
+   "p": 95.07,
+   "c": -0.59,
    "a50": 85.75,
    "a200": 83.68,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 90.49,
-   "r": 60.3
+   "r": 60.2
   },
   {
    "s": "GC=F",
-   "p": 4470.6,
-   "c": 2.39,
-   "a50": 4230.58,
-   "a200": 4518.55,
+   "p": 4474.0,
+   "c": 2.47,
+   "a50": 4230.64,
+   "a200": 4518.57,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4461.64,
-   "r": 55.6
+   "a20": 4461.81,
+   "r": 55.8
   },
   {
    "s": "HG=F",
-   "p": 6.6,
-   "c": 1.48,
+   "p": 6.59,
+   "c": 1.44,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 54.8
+   "r": 54.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03149606,
-   "c": -0.25,
+   "p": 0.03148615,
+   "c": -0.27,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030137.aspx"
   },
   {
-   "t": "The best credit cards (2026): See our picks for the top cash-back, rewards, travel cards, and more",
+   "t": "Best car insurance companies in 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-202825345.html"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/best-car-insurance-220609280.html"
   },
   {
    "t": "帆宣訂單能見度至2028年　日本德國同步施工",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030133.aspx"
   },
   {
-   "t": "Best credit cards for shopping on Amazon (2026)",
+   "t": "Why Software ETFs Are Suddenly Beating Semiconductors — and How the Top Funds Compare",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-software-etfs-suddenly-beating-194935136.html"
   },
   {
    "t": "9月電子期跌　金融期漲",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030130.aspx"
   },
   {
-   "t": "Can you pay rent with a credit card?",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq drop as oil tops $95, bond yields rise",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-pay-rent-with-a-credit-card-000451795.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html"
   },
   {
    "t": "9月台股期指跌328點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030126.aspx"
   },
   {
-   "t": "How to calculate credit card interest",
+   "t": "California Wildfire Legislation Postponed, Utility Stocks Bounce",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-calculate-credit-card-interest-222228806.html"
+   "u": "https://www.investors.com/news/gavin-newsom-california-wildfire-bill-postponed-pge-edison-international/?src=A00220&yptr=yahoo"
   },
   {
    "t": "總統：台肥多元發展　與農業現代化、經濟發展密不可分",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202609030125.aspx"
   },
   {
-   "t": "Symbotic's Backlog Sits at $22.5 Billion. Here's The Customer Concentration Risk Nobody Talks About",
+   "t": "BofA tells investors to consider buying hidden-value fintech stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/symbotics-backlog-sits-22-5-193703883.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bofa-tells-investors-consider-buying-194700235.html"
   }
  ],
  "inst": {
-  "date": "2026-09-02",
+  "date": "2026-09-01",
   "byCode": {
-   "6442": {
-    "f": 65,
-    "t": 101,
-    "all": 380
-   },
-   "2305": {
-    "f": 275,
-    "t": 0,
-    "all": 282
-   },
-   "3701": {
-    "f": 181,
-    "t": 0,
-    "all": 214
-   },
-   "6862": {
-    "f": 10,
-    "t": 0,
-    "all": 7
-   },
-   "6515": {
-    "f": -310,
-    "t": 223,
-    "all": -88
-   },
-   "4722": {
-    "f": -104,
-    "t": 0,
-    "all": -116
-   },
-   "2454": {
-    "f": -1222,
-    "t": 851,
-    "all": -310
-   },
-   "6706": {
-    "f": -283,
-    "t": 0,
-    "all": -314
-   },
-   "6446": {
-    "f": -780,
-    "t": -52,
-    "all": -824
-   },
-   "1802": {
-    "f": -1434,
-    "t": 316,
-    "all": -1209
-   },
-   "2308": {
-    "f": -7030,
-    "t": -1032,
-    "all": -8387
-   },
    "2317": {
-    "f": -8420,
-    "t": 212,
-    "all": -8873
+    "f": 13474,
+    "t": 698,
+    "all": 15110
    },
    "2330": {
-    "f": -11987,
-    "t": -837,
-    "all": -12752
+    "f": 5730,
+    "t": 103,
+    "all": 5965
    },
    "2327": {
-    "f": -16719,
-    "t": -1716,
-    "all": -18881
+    "f": 10023,
+    "t": -4131,
+    "all": 5745
+   },
+   "1802": {
+    "f": 2918,
+    "t": 409,
+    "all": 3225
+   },
+   "6706": {
+    "f": 275,
+    "t": 0,
+    "all": 351
+   },
+   "6442": {
+    "f": 249,
+    "t": 6,
+    "all": 239
+   },
+   "4722": {
+    "f": 137,
+    "t": 0,
+    "all": 136
+   },
+   "6515": {
+    "f": 11,
+    "t": 69,
+    "all": 78
+   },
+   "3701": {
+    "f": 74,
+    "t": 0,
+    "all": 60
+   },
+   "6862": {
+    "f": -1,
+    "t": 0,
+    "all": -2
+   },
+   "2454": {
+    "f": -340,
+    "t": -3,
+    "all": -94
+   },
+   "2308": {
+    "f": -499,
+    "t": 194,
+    "all": -160
+   },
+   "2305": {
+    "f": -887,
+    "t": 0,
+    "all": -828
+   },
+   "6446": {
+    "f": -26,
+    "t": -975,
+    "all": -992
    }
   },
-  "totalNetE": -1152.4
+  "totalNetE": 566.4
  }
 }
