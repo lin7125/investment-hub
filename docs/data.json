@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03 13:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-03 13:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 52.6,
-   "c": 15.35,
-   "a50": 53.94,
+   "p": 52.2,
+   "c": 14.47,
+   "a50": 53.93,
    "a200": 43.95,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.69,
-   "r": 54.0
+   "a20": 49.67,
+   "r": 53.3
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 94.26,
-   "c": -1.43,
-   "a50": 85.73,
+   "p": 94.49,
+   "c": -1.19,
+   "a50": 85.74,
    "a200": 83.68,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 90.45,
-   "r": 58.5
+   "a20": 90.46,
+   "r": 59.0
   },
   {
    "s": "GC=F",
-   "p": 4476.6,
-   "c": 2.53,
-   "a50": 4230.7,
-   "a200": 4518.58,
+   "p": 4479.1,
+   "c": 2.58,
+   "a50": 4230.75,
+   "a200": 4518.59,
    "yh": 5318.4,
    "yl": 3565.8,
-   "a20": 4461.94,
-   "r": 56.0
+   "a20": 4462.07,
+   "r": 56.1
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 1.38,
+   "c": 1.34,
    "a50": 6.41,
    "a200": 5.98,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 54.4
+   "r": 54.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03152585,
-   "c": -0.15,
+   "c": -0.14,
    "a50": 0.03118179,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030094.aspx"
   },
   {
-   "t": "1 Cheap Stock Under $10 for Aggressive Investors to Buy on the Dip",
+   "t": "Royalty Pharma (RPRX) Bets $100M On A Blood Disorder Breakthrough",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/1-cheap-stock-under-10-174435627.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/royalty-pharma-rprx-bets-100m-175445428.html"
   },
   {
    "t": "客製化AI晶片競爭升溫　博通第4季營收預測低於預期",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609030093.aspx"
   },
   {
-   "t": "There’s Finally 1 Covered Call ETF I Like. Here’s What Makes It Stand Out.",
+   "t": "A Landmark Deal Just Rewired Martin Marietta’s (MLM) Growth Engine",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/finally-1-covered-call-etf-174236259.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/a2-130737637.html"
   },
   {
    "t": "冬山地熱探勘井溫達200度　中油評估2028年底設電廠可行性",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030091.aspx"
   },
   {
-   "t": "A Landmark Deal Just Rewired Martin Marietta’s (MLM) Growth Engine",
+   "t": "How to compare loan estimates and catch what lenders hope you won’t notice",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/a2-130737637.html"
+   "u": "https://finance.yahoo.com/news/read-compare-mortgage-loan-estimates-231932645.html"
   },
   {
    "t": "新台幣午盤升0.7分　暫收31.721元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030084.aspx"
   },
   {
-   "t": "10 best free checking accounts for September 2026",
+   "t": "Canadian Oil Stock Edges Into Buy Zone After 200% Earnings Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-free-checking-accounts-195709452.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/oil-prices-canadian-natural-resources-valero-marathon-petroleum-natural-gas-canada/?src=A00220&yptr=yahoo"
   },
   {
    "t": "財政部股息紅利進補　公股4金2銀明年配息看增",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609030076.aspx"
   },
   {
-   "t": "Jensen Huang Has Become World’s 8th Richest Person",
+   "t": "Berkshire CEO Abel to Make Rare TV Appearance. What He Might Talk About.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-become-world-8th-174425351.html"
+   "u": "https://www.barrons.com/articles/berkshire-hathaway-greg-abel-stock-0e19cb4d?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
