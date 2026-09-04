@@ -1,218 +1,218 @@
 {
- "generatedAt": "2026-09-05 03:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-05 03:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2390.0,
-   "c": 0.21,
-   "a50": 2390.8,
-   "a200": 2008.7,
+   "p": 2410.0,
+   "c": 0.84,
+   "a50": 2392.2,
+   "a200": 2013.38,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2397.25,
-   "r": 49.9
+   "a20": 2399.25,
+   "r": 52.3
   },
   {
    "s": "2317.TW",
-   "p": 247.5,
-   "c": -1.39,
-   "a50": 247.82,
-   "a200": 235.73,
+   "p": 256.0,
+   "c": 3.43,
+   "a50": 247.97,
+   "a200": 235.76,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 253.12,
-   "r": 46.9
+   "a20": 252.92,
+   "r": 54.2
   },
   {
    "s": "2308.TW",
-   "p": 1760.0,
-   "c": 1.73,
-   "a50": 1798.2,
-   "a200": 1576.0,
+   "p": 1825.0,
+   "c": 3.69,
+   "a50": 1798.5,
+   "a200": 1580.22,
    "yh": 2520.0,
    "yl": 691.0,
-   "a20": 1789.25,
-   "r": 47.9
+   "a20": 1798.0,
+   "r": 53.1
   },
   {
    "s": "2454.TW",
-   "p": 4340.0,
-   "c": 1.52,
-   "a50": 3881.4,
-   "a200": 2633.25,
+   "p": 4415.0,
+   "c": 1.73,
+   "a50": 3892.1,
+   "a200": 2649.08,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 3987.5,
-   "r": 62.3
+   "a20": 4013.25,
+   "r": 64.1
   },
   {
    "s": "2327.TW",
-   "p": 511.0,
-   "c": -5.37,
-   "a50": 692.07,
-   "a200": 451.53,
+   "p": 562.0,
+   "c": 9.98,
+   "a50": 683.01,
+   "a200": 453.19,
    "yh": 1140.0,
    "yl": 135.0,
-   "a20": 572.0,
-   "r": 38.9
+   "a20": 573.1,
+   "r": 46.6
   },
   {
    "s": "1802.TW",
-   "p": 58.6,
-   "c": -3.62,
-   "a50": 58.5,
-   "a200": 54.4,
+   "p": 59.1,
+   "c": 0.85,
+   "a50": 58.36,
+   "a200": 54.55,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 57.99,
-   "r": 51.6
+   "a20": 58.29,
+   "r": 53.0
   },
   {
    "s": "6862.TW",
-   "p": 139.0,
-   "c": -0.36,
-   "a50": 153.32,
-   "a200": 173.87,
+   "p": 140.0,
+   "c": 0.72,
+   "a50": 152.36,
+   "a200": 173.75,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 141.3,
-   "r": 43.6
+   "a20": 141.0,
+   "r": 45.2
   },
   {
    "s": "3701.TW",
-   "p": 40.45,
-   "c": -6.47,
-   "a50": 40.86,
-   "a200": 49.17,
+   "p": 41.95,
+   "c": 3.71,
+   "a50": 40.83,
+   "a200": 49.22,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.94,
-   "r": 48.0
+   "a20": 40.91,
+   "r": 53.0
   },
   {
    "s": "4722.TW",
-   "p": 195.5,
-   "c": -2.98,
-   "a50": 224.96,
-   "a200": 200.94,
+   "p": 200.5,
+   "c": 2.56,
+   "a50": 223.18,
+   "a200": 201.14,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 208.98,
-   "r": 40.5
+   "a20": 207.4,
+   "r": 44.1
   },
   {
    "s": "6706.TW",
-   "p": 120.5,
-   "c": -4.37,
-   "a50": 121.73,
-   "a200": 129.81,
+   "p": 127.0,
+   "c": 5.39,
+   "a50": 121.4,
+   "a200": 130.02,
    "yh": 216.5,
    "yl": 62.2,
-   "a20": 120.08,
-   "r": 49.6
+   "a20": 120.98,
+   "r": 55.9
   },
   {
    "s": "2305.TW",
-   "p": 30.1,
-   "c": 0.17,
-   "a50": 31.86,
-   "a200": 19.79,
+   "p": 30.85,
+   "c": 2.49,
+   "a50": 31.77,
+   "a200": 19.89,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.5,
-   "r": 52.2
+   "a20": 28.72,
+   "r": 54.5
   },
   {
    "s": "6442.TW",
-   "p": 1770.0,
-   "c": -1.39,
-   "a50": 1469.1,
-   "a200": 1638.37,
+   "p": 1755.0,
+   "c": -0.85,
+   "a50": 1470.6,
+   "a200": 1642.48,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1571.5,
-   "r": 64.6
+   "a20": 1593.0,
+   "r": 63.3
   },
   {
    "s": "6515.TW",
-   "p": 7000.0,
-   "c": -0.71,
-   "a50": 6914.9,
-   "a200": 6270.15,
+   "p": 7075.0,
+   "c": 1.07,
+   "a50": 6892.6,
+   "a200": 6293.72,
    "yh": 10795.0,
    "yl": 1590.0,
-   "a20": 6563.75,
-   "r": 57.0
+   "a20": 6579.5,
+   "r": 58.2
   },
   {
    "s": "6446.TW",
-   "p": 1350.0,
-   "c": 3.45,
-   "a50": 1293.4,
-   "a200": 774.49,
+   "p": 1310.0,
+   "c": -2.96,
+   "a50": 1298.77,
+   "a200": 778.78,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1420.75,
-   "r": 49.1
+   "a20": 1424.25,
+   "r": 46.3
   },
   {
    "s": "3324.TWO",
-   "p": 1350.0,
-   "c": -5.92,
-   "a50": 999.64,
-   "a200": 1005.02,
-   "yh": 1435.0,
+   "p": 1485.0,
+   "c": 10.0,
+   "a50": 1009.94,
+   "a200": 1007.12,
+   "yh": 1485.0,
    "yl": 643.0,
-   "a20": 1093.2,
-   "r": 71.1
+   "a20": 1116.7,
+   "r": 76.4
   },
   {
    "s": "3491.TWO",
-   "p": 1405.0,
-   "c": -2.77,
-   "a50": 1265.84,
-   "a200": 1254.67,
+   "p": 1505.0,
+   "c": 7.12,
+   "a50": 1271.34,
+   "a200": 1260.04,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1335.25,
-   "r": 54.6
+   "a20": 1348.75,
+   "r": 59.8
   },
   {
    "s": "3585.TWO",
-   "p": 54.6,
-   "c": 19.74,
-   "a50": 53.98,
-   "a200": 43.96,
+   "p": 50.7,
+   "c": -7.14,
+   "a50": 53.52,
+   "a200": 44.15,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.79,
-   "r": 56.9
+   "a20": 49.92,
+   "r": 50.2
   },
   {
    "s": "6223.TWO",
-   "p": 5045.0,
-   "c": -4.63,
-   "a50": 5940.0,
-   "a200": 4254.73,
+   "p": 5155.0,
+   "c": 2.18,
+   "a50": 5913.1,
+   "a200": 4270.55,
    "yh": 7380.0,
    "yl": 1385.0,
-   "a20": 5640.75,
-   "r": 40.7
+   "a20": 5593.5,
+   "r": 42.9
   },
   {
    "s": "6750.TWO",
-   "p": 59.4,
-   "c": 3.13,
-   "a50": 58.12,
-   "a200": 57.48,
+   "p": 59.8,
+   "c": 0.67,
+   "a50": 58.0,
+   "a200": 57.56,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.87,
-   "r": 61.5
+   "a20": 56.0,
+   "r": 62.5
   },
   {
    "s": "AAPL",
-   "p": 321.77,
+   "p": 321.78,
    "c": -1.96,
    "a50": 315.19,
    "a200": 283.88,
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 229.91,
-   "c": 0.64,
+   "p": 230.2,
+   "c": 0.77,
    "a50": 210.56,
    "a200": 196.68,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.06,
-   "r": 60.1
+   "a20": 220.07,
+   "r": 60.3
   },
   {
    "s": "TSLA",
-   "p": 353.82,
-   "c": -5.99,
+   "p": 353.89,
+   "c": -5.97,
    "a50": 357.94,
    "a200": 399.56,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 348.43,
-   "r": 50.8
+   "r": 50.9
   },
   {
    "s": "META",
-   "p": 615.12,
-   "c": 0.73,
-   "a50": 595.46,
-   "a200": 622.28,
+   "p": 616.41,
+   "c": 0.94,
+   "a50": 595.48,
+   "a200": 622.29,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.8,
-   "r": 62.0
+   "a20": 576.86,
+   "r": 62.3
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7711.95,
+   "p": 7712.43,
    "c": -0.46,
-   "a50": 7591.58,
+   "a50": 7591.59,
    "a200": 7141.73,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.37,
+   "a20": 7708.39,
    "r": 54.7
   },
   {
    "s": "^VIX",
-   "p": 14.0,
-   "c": -2.23,
+   "p": 14.09,
+   "c": -1.61,
    "a50": 16.19,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.07,
-   "r": 42.4
+   "a20": 15.08,
+   "r": 42.8
   },
   {
    "s": "BZ=F",
-   "p": 96.34,
-   "c": 0.86,
+   "p": 96.22,
+   "c": 0.73,
    "a50": 86.18,
    "a200": 83.85,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.16,
-   "r": 62.5
+   "a20": 91.15,
+   "r": 62.4
   },
   {
    "s": "GC=F",
-   "p": 4470.8,
-   "c": -0.47,
-   "a50": 4239.8,
-   "a200": 4520.67,
+   "p": 4472.5,
+   "c": -0.43,
+   "a50": 4239.84,
+   "a200": 4520.68,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4469.2,
-   "r": 55.2
+   "a20": 4469.29,
+   "r": 55.4
   },
   {
    "s": "HG=F",
    "p": 6.65,
-   "c": 1.13,
+   "c": 1.16,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 58.0
+   "r": 58.1
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609050002.aspx"
   },
   {
-   "t": "Poundland owner seeks sale of retailer “within weeks” – report",
+   "t": "A Profit Collapse Masks Qfin’s (QFIN) Bigger AI Ambitions",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/poundland-owner-seeks-sale-retailer-090926553.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/profit-collapse-masks-qfin-qfin-092531452.html"
   },
   {
    "t": "今彩539第115215期　頭獎1注中獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040332.aspx"
   },
   {
-   "t": "nCino (NCNO): Banking Software Stock Quietly Rewriting Its Growth Story",
+   "t": "Opinion: Google's Latest Antitrust Ruling Is a Big Win for Alphabet Investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ncino-ncno-banking-software-stock-090420917.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/opinion-googles-latest-antitrust-ruling-092501731.html"
   },
   {
    "t": "大樂透第115085期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040331.aspx"
   },
   {
-   "t": "HEICO Corp. (HEI): Record Profits And Bold Bets Power Aerospace Supplier’s Surge",
+   "t": "A hacked Walmart account left this Florida woman $2,000 in the hole. Now she's accusing Walmart of reversing her refund",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/heico-corp-hei-record-profits-091725883.html"
+   "u": "https://finance.yahoo.com/markets/articles/hacked-walmart-account-left-florida-093000902.html"
   },
   {
    "t": "美就業報告強化Fed升息預期　美股開盤走勢不一",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040330.aspx"
   },
   {
-   "t": "Fidelity: 769,000 savers have $1 million or more in their 401(k)",
+   "t": "HEICO Corp. (HEI): Record Profits And Bold Bets Power Aerospace Supplier’s Surge",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/fidelity-769000-savers-have-1-million-or-more-in-their-401k-090000462.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/heico-corp-hei-record-profits-091725883.html"
   },
   {
    "t": "路透：習近平擬率領大型商業代表團隨同訪美",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040329.aspx"
   },
   {
-   "t": "Can I Retire at 62 With $500k in a Roth IRA and $2,000 in Monthly Income?",
+   "t": "Box (BOX) Turns Enterprise Files Into AI Fuel",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/500k-roth-ira-receive-combined-113000490.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/box-box-turns-enterprise-files-091016434.html"
   },
   {
    "t": "聯合國糧農組織：乾旱與戰爭推升8月食品價格",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040327.aspx"
   },
   {
-   "t": "B HODL Stock Surges 67% in a Month on MicroStrategy Bitcoin Playbook",
+   "t": "Movado Group (MOV): 145-Year-Old Watchmaker Is Suddenly Turning Heads Again",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/b-hodl-stock-surges-67-091148044.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/movado-group-mov-145-old-093743372.html"
   }
  ],
  "inst": {
