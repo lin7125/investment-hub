@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05 02:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-05 02:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 321.14,
-   "c": -2.15,
+   "p": 321.01,
+   "c": -2.19,
    "a50": 315.17,
    "a200": 283.88,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.2,
-   "r": 55.1
+   "a20": 313.19,
+   "r": 54.9
   },
   {
    "s": "NVDA",
-   "p": 230.18,
-   "c": 0.76,
-   "a50": 210.56,
+   "p": 230.34,
+   "c": 0.83,
+   "a50": 210.57,
    "a200": 196.68,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.07,
-   "r": 60.3
+   "a20": 220.08,
+   "r": 60.4
   },
   {
    "s": "TSLA",
-   "p": 352.62,
-   "c": -6.31,
-   "a50": 357.92,
-   "a200": 399.55,
+   "p": 354.0,
+   "c": -5.94,
+   "a50": 357.95,
+   "a200": 399.56,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 348.37,
-   "r": 50.4
+   "a20": 348.44,
+   "r": 50.9
   },
   {
    "s": "META",
-   "p": 608.48,
-   "c": -0.36,
-   "a50": 595.33,
-   "a200": 622.25,
+   "p": 609.88,
+   "c": -0.13,
+   "a50": 595.35,
+   "a200": 622.26,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.47,
-   "r": 59.7
+   "a20": 576.54,
+   "r": 60.3
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7709.53,
-   "c": -0.49,
-   "a50": 7591.53,
-   "a200": 7141.72,
+   "p": 7712.12,
+   "c": -0.46,
+   "a50": 7591.58,
+   "a200": 7141.73,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.25,
-   "r": 54.4
+   "a20": 7708.38,
+   "r": 54.7
   },
   {
    "s": "^VIX",
-   "p": 14.23,
-   "c": -0.63,
+   "p": 14.21,
+   "c": -0.77,
    "a50": 16.19,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.08,
-   "r": 43.4
+   "r": 43.3
   },
   {
    "s": "BZ=F",
-   "p": 95.66,
-   "c": 0.15,
+   "p": 95.7,
+   "c": 0.19,
    "a50": 86.17,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.12,
-   "r": 61.5
+   "r": 61.6
   },
   {
    "s": "GC=F",
-   "p": 4464.4,
-   "c": -0.61,
-   "a50": 4239.68,
-   "a200": 4520.64,
+   "p": 4462.1,
+   "c": -0.66,
+   "a50": 4239.63,
+   "a200": 4520.62,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4468.88,
-   "r": 54.8
+   "a20": 4468.77,
+   "r": 54.6
   },
   {
    "s": "HG=F",
    "p": 6.65,
-   "c": 1.17,
+   "c": 1.1,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 58.2
+   "r": 57.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03164557,
-   "c": 0.4,
+   "p": 0.03163556,
+   "c": 0.37,
    "a50": 0.03119152,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040332.aspx"
   },
   {
-   "t": "Cramer Says a Wave of 21 Year Olds on Robinhood Is the Only Reason This Market Has Not Cracked",
+   "t": "Broadcom’s Outlook Shows Surging AI Chip Sales",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cramer-says-wave-21-olds-174945002.html"
+   "u": "https://www.barrons.com/articles/broadcom-earnings-todya-stock-price-13672771?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "大樂透第115085期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040331.aspx"
   },
   {
-   "t": "Commvault’s (CVLT) AI Recovery Bet Meets A Margin Reality Check",
+   "t": "US Dollar Price Forecast: Weak ADP Hits DXY as NFP Becomes the Next Test; Key Levels for EUR/USD and GBP/USD Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/commvault-cvlt-ai-recovery-bet-174535550.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-weak-074726240.html"
   },
   {
    "t": "美就業報告強化Fed升息預期　美股開盤走勢不一",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040330.aspx"
   },
   {
-   "t": "REX’s Record 2Q EPS, CCS Project Advances – Quarterly Update Report",
+   "t": "Rezolve’s (RZLV) Revenue Surge Is Turning Heads, but at What Cost?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rex-record-2q-eps-ccs-173908985.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rezolve-rzlv-revenue-surge-turning-084132796.html"
   },
   {
    "t": "路透：習近平擬率領大型商業代表團隨同訪美",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040329.aspx"
   },
   {
-   "t": "Americold (COLD) Raised $1.1B by Contributing 12 Warehouses to a Joint Venture. Is Deleveraging Worth Ceding 70% of the Economics?",
+   "t": "Chinese Refiners Pay Record Premiums for Russian ESPO Crude",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/americold-cold-raised-1-1b-173422100.html"
+   "u": "https://finance.yahoo.com/energy/articles/chinese-refiners-pay-record-premiums-084500969.html"
   },
   {
    "t": "聯合國糧農組織：乾旱與戰爭推升8月食品價格",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040327.aspx"
   },
   {
-   "t": "Commvault (CVLT) Triples Its Cloud Safety Net While Wall Street Cools",
+   "t": "Sasol (SSL) Chases A Decade Low In Debt",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/commvault-cvlt-triples-cloud-safety-173309595.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sasol-ssl-chases-decade-low-084958048.html"
   },
   {
    "t": "美國8月非農就業新增16.2萬人超乎預期　失業率持平",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040323.aspx"
   },
   {
-   "t": "“Diesel Is the Blood of the Economy”: U.S. Prices Just Hit an All-Time High of $5.848 a Gallon",
+   "t": "SpaceX Stock: Buy, Sell, or Hold?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/diesel-blood-economy-u-prices-174839596.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-buy-sell-hold-081300864.html"
   }
  ],
  "inst": {
