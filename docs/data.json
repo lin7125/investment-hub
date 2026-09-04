@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05 03:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-05 03:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 321.78,
-   "c": -1.96,
+   "p": 321.87,
+   "c": -1.93,
    "a50": 315.19,
    "a200": 283.88,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.23,
-   "r": 55.7
+   "a20": 313.24,
+   "r": 55.8
   },
   {
    "s": "NVDA",
-   "p": 230.2,
-   "c": 0.77,
+   "p": 229.9,
+   "c": 0.63,
    "a50": 210.56,
    "a200": 196.68,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.07,
-   "r": 60.3
+   "a20": 220.06,
+   "r": 60.1
   },
   {
    "s": "TSLA",
-   "p": 353.89,
-   "c": -5.97,
-   "a50": 357.94,
+   "p": 354.81,
+   "c": -5.73,
+   "a50": 357.96,
    "a200": 399.56,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 348.43,
-   "r": 50.9
+   "a20": 348.48,
+   "r": 51.2
   },
   {
    "s": "META",
-   "p": 616.41,
-   "c": 0.94,
-   "a50": 595.48,
+   "p": 616.81,
+   "c": 1.0,
+   "a50": 595.49,
    "a200": 622.29,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.86,
-   "r": 62.3
+   "a20": 576.88,
+   "r": 62.4
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7712.43,
-   "c": -0.46,
-   "a50": 7591.59,
-   "a200": 7141.73,
+   "p": 7715.83,
+   "c": -0.41,
+   "a50": 7591.65,
+   "a200": 7141.75,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.39,
-   "r": 54.7
+   "a20": 7708.56,
+   "r": 55.0
   },
   {
    "s": "^VIX",
-   "p": 14.09,
-   "c": -1.61,
+   "p": 14.2,
+   "c": -0.84,
    "a50": 16.19,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.08,
-   "r": 42.8
+   "r": 43.3
   },
   {
    "s": "BZ=F",
-   "p": 96.22,
-   "c": 0.73,
+   "p": 96.24,
+   "c": 0.75,
    "a50": 86.18,
    "a200": 83.85,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4472.5,
-   "c": -0.43,
-   "a50": 4239.84,
-   "a200": 4520.68,
+   "p": 4476.8,
+   "c": -0.33,
+   "a50": 4239.92,
+   "a200": 4520.7,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4469.29,
-   "r": 55.4
+   "a20": 4469.5,
+   "r": 55.7
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 1.16,
+   "p": 6.66,
+   "c": 1.22,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 58.1
+   "r": 58.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03163556,
-   "c": 0.37,
+   "c": 0.35,
    "a50": 0.03119152,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609050002.aspx"
   },
   {
-   "t": "A Profit Collapse Masks Qfin’s (QFIN) Bigger AI Ambitions",
+   "t": "Uber plans 10% workforce reduction as revenue and profit rise",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/profit-collapse-masks-qfin-qfin-092531452.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/uber-plans-10-workforce-reduction-093705570.html"
   },
   {
    "t": "今彩539第115215期　頭獎1注中獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040332.aspx"
   },
   {
-   "t": "Opinion: Google's Latest Antitrust Ruling Is a Big Win for Alphabet Investors",
+   "t": "A hacked Walmart account left this Florida woman $2,000 in the hole. Now she's accusing Walmart of reversing her refund",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/opinion-googles-latest-antitrust-ruling-092501731.html"
+   "u": "https://finance.yahoo.com/markets/articles/hacked-walmart-account-left-florida-093000902.html"
   },
   {
    "t": "大樂透第115085期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040331.aspx"
   },
   {
-   "t": "A hacked Walmart account left this Florida woman $2,000 in the hole. Now she's accusing Walmart of reversing her refund",
+   "t": "Movado Group (MOV): 145-Year-Old Watchmaker Is Suddenly Turning Heads Again",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/hacked-walmart-account-left-florida-093000902.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/movado-group-mov-145-old-093743372.html"
   },
   {
    "t": "美就業報告強化Fed升息預期　美股開盤走勢不一",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040330.aspx"
   },
   {
-   "t": "HEICO Corp. (HEI): Record Profits And Bold Bets Power Aerospace Supplier’s Surge",
+   "t": "A Profit Collapse Masks Qfin’s (QFIN) Bigger AI Ambitions",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/heico-corp-hei-record-profits-091725883.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/profit-collapse-masks-qfin-qfin-092531452.html"
   },
   {
    "t": "路透：習近平擬率領大型商業代表團隨同訪美",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040329.aspx"
   },
   {
-   "t": "Box (BOX) Turns Enterprise Files Into AI Fuel",
+   "t": "JinkoSolar (JKS) Chases New Growth Engines While Solar Margins Shrink",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/box-box-turns-enterprise-files-091016434.html"
+   "u": "https://finance.yahoo.com/energy/articles/jinkosolar-jks-chases-growth-engines-095116133.html"
   },
   {
    "t": "聯合國糧農組織：乾旱與戰爭推升8月食品價格",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040327.aspx"
   },
   {
-   "t": "Movado Group (MOV): 145-Year-Old Watchmaker Is Suddenly Turning Heads Again",
+   "t": "If You'd Put $500 Into SpaceX the Day It Went Public, Here's What You'd Have Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/movado-group-mov-145-old-093743372.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/youd-put-500-spacex-day-093700456.html"
   }
  ],
  "inst": {
