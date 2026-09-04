@@ -1,71 +1,71 @@
 {
- "generatedAt": "2026-09-04 13:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 13:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2400.0,
-   "c": 0.42,
-   "a50": 2392.0,
-   "a200": 2013.32,
+   "p": 2410.0,
+   "c": 0.84,
+   "a50": 2392.2,
+   "a200": 2013.38,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2398.75,
-   "r": 51.1
+   "a20": 2399.25,
+   "r": 52.3
   },
   {
    "s": "2317.TW",
-   "p": 255.5,
-   "c": 3.23,
-   "a50": 247.96,
+   "p": 256.0,
+   "c": 3.43,
+   "a50": 247.97,
    "a200": 235.76,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.9,
-   "r": 53.8
+   "a20": 252.92,
+   "r": 54.2
   },
   {
    "s": "2308.TW",
-   "p": 1805.0,
-   "c": 2.56,
-   "a50": 1798.1,
-   "a200": 1580.12,
+   "p": 1820.0,
+   "c": 3.41,
+   "a50": 1798.4,
+   "a200": 1580.2,
    "yh": 2520.0,
    "yl": 691.0,
-   "a20": 1797.0,
-   "r": 51.6
+   "a20": 1797.75,
+   "r": 52.7
   },
   {
    "s": "2454.TW",
-   "p": 4400.0,
-   "c": 1.38,
-   "a50": 3891.8,
-   "a200": 2649.0,
+   "p": 4420.0,
+   "c": 1.84,
+   "a50": 3892.2,
+   "a200": 2649.1,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 4012.5,
-   "r": 63.7
+   "a20": 4013.5,
+   "r": 64.2
   },
   {
    "s": "2327.TW",
-   "p": 554.0,
-   "c": 8.41,
-   "a50": 682.85,
-   "a200": 453.15,
+   "p": 555.0,
+   "c": 8.61,
+   "a50": 682.87,
+   "a200": 453.16,
    "yh": 1140.0,
    "yl": 135.0,
-   "a20": 572.7,
-   "r": 45.5
+   "a20": 572.75,
+   "r": 45.6
   },
   {
    "s": "1802.TW",
-   "p": 58.8,
-   "c": 0.34,
+   "p": 59.0,
+   "c": 0.68,
    "a50": 58.36,
    "a200": 54.55,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 58.28,
-   "r": 52.1
+   "a20": 58.29,
+   "r": 52.7
   },
   {
    "s": "6862.TW",
@@ -80,80 +80,80 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.9,
-   "c": 3.58,
+   "p": 42.0,
+   "c": 3.83,
    "a50": 40.83,
    "a200": 49.22,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.91,
-   "r": 52.8
+   "r": 53.1
   },
   {
    "s": "4722.TW",
-   "p": 199.0,
-   "c": 1.79,
-   "a50": 223.15,
+   "p": 199.5,
+   "c": 2.05,
+   "a50": 223.16,
    "a200": 201.13,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 207.32,
-   "r": 43.0
+   "a20": 207.35,
+   "r": 43.4
   },
   {
    "s": "6706.TW",
-   "p": 125.5,
-   "c": 4.15,
-   "a50": 121.37,
+   "p": 126.0,
+   "c": 4.56,
+   "a50": 121.38,
    "a200": 130.01,
    "yh": 216.5,
    "yl": 62.2,
-   "a20": 120.9,
-   "r": 54.6
+   "a20": 120.92,
+   "r": 55.1
   },
   {
    "s": "2305.TW",
-   "p": 30.5,
-   "c": 1.33,
+   "p": 30.4,
+   "c": 1.0,
    "a50": 31.77,
    "a200": 19.89,
    "yh": 42.65,
    "yl": 10.25,
    "a20": 28.7,
-   "r": 53.5
+   "r": 53.2
   },
   {
    "s": "6442.TW",
-   "p": 1740.0,
-   "c": -1.69,
-   "a50": 1470.3,
-   "a200": 1642.4,
+   "p": 1770.0,
+   "c": 0.0,
+   "a50": 1470.9,
+   "a200": 1642.55,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1592.25,
-   "r": 62.0
+   "a20": 1593.75,
+   "r": 64.6
   },
   {
    "s": "6515.TW",
-   "p": 7100.0,
-   "c": 1.43,
-   "a50": 6893.1,
-   "a200": 6293.85,
+   "p": 7075.0,
+   "c": 1.07,
+   "a50": 6892.6,
+   "a200": 6293.72,
    "yh": 10795.0,
    "yl": 1590.0,
-   "a20": 6580.75,
-   "r": 58.6
+   "a20": 6579.5,
+   "r": 58.2
   },
   {
    "s": "6446.TW",
-   "p": 1345.0,
-   "c": -0.37,
-   "a50": 1299.47,
-   "a200": 778.96,
+   "p": 1325.0,
+   "c": -1.85,
+   "a50": 1299.07,
+   "a200": 778.86,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1426.0,
-   "r": 48.7
+   "a20": 1425.0,
+   "r": 47.3
   },
   {
    "s": "3324.TWO",
@@ -190,25 +190,25 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5130.0,
-   "c": 1.68,
-   "a50": 5912.6,
-   "a200": 4270.42,
+   "p": 5135.0,
+   "c": 1.78,
+   "a50": 5912.7,
+   "a200": 4270.45,
    "yh": 7380.0,
    "yl": 1385.0,
-   "a20": 5592.25,
-   "r": 42.4
+   "a20": 5592.5,
+   "r": 42.5
   },
   {
    "s": "6750.TWO",
-   "p": 58.3,
-   "c": -1.85,
-   "a50": 57.97,
+   "p": 59.7,
+   "c": 0.51,
+   "a50": 58.0,
    "a200": 57.56,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.92,
-   "r": 57.1
+   "a20": 55.99,
+   "r": 62.2
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46373.77,
-   "c": 1.13,
-   "a50": 44894.5,
-   "a200": 37242.06,
+   "p": 46510.82,
+   "c": 1.42,
+   "a50": 44897.24,
+   "a200": 37242.75,
    "yh": 47741.51,
    "yl": 24179.85,
-   "a20": 45649.39,
-   "r": 57.5
+   "a20": 45656.24,
+   "r": 58.3
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.53,
-   "c": 0.01,
+   "p": 95.49,
+   "c": -0.03,
    "a50": 86.16,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.11,
-   "r": 61.3
+   "r": 61.2
   },
   {
    "s": "GC=F",
-   "p": 4515.4,
-   "c": 0.53,
-   "a50": 4240.7,
-   "a200": 4520.89,
+   "p": 4520.2,
+   "c": 0.63,
+   "a50": 4240.79,
+   "a200": 4520.92,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4471.43,
-   "r": 58.2
+   "a20": 4471.68,
+   "r": 58.5
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 1.35,
+   "c": 1.41,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 58.8
+   "r": 59.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315557,
-   "c": 0.11,
+   "p": 0.03154574,
+   "c": 0.09,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040075.aspx"
   },
   {
-   "t": "OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply",
+   "t": "Cancer Stock Breaks Out To Highs; Key FDA Action On Watch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/opec-set-hold-oil-output-171952611.html"
+   "u": "https://www.investors.com/research/cancer-exelixis-exel-stock-fda-drugs-markets-investing/?src=A00220&yptr=yahoo"
   },
   {
    "t": "太平洋島國論壇與美副國務卿互動　林佳龍：很自然",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aipl/202609040072.aspx"
   },
   {
-   "t": "Coinbase Brings Crypto Futures to Canadian Traders",
+   "t": "Unusually Heavy Volume in Snowflake Call Options Ahead of Earnings Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/coinbase-brings-crypto-futures-canadian-171800728.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/unusually-heavy-volume-snowflake-call-173003128.html"
   },
   {
    "t": "三接海岸許可遭撤　經部：工業港外廓防波堤仍可繼續施工",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040068.aspx"
   },
   {
-   "t": "Cotton Bulls in Retreat on Wednesday",
+   "t": "The SEC Just Proposed Letting a Crypto Project Raise $5 Million With No Financial Statements at All — A Coffee Shop Raising the Same $5 Million Has to File Them",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/cotton-bulls-retreat-wednesday-171711120.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/sec-just-proposed-letting-crypto-174034511.html"
   },
   {
    "t": "從液態肥研發到碳匯合作　台肥台大深化產學連結",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040053.aspx"
   },
   {
-   "t": "How to pay off student loans quickly: 8 strategies that work",
+   "t": "Judge orders changes to Google's digital ads business but spares it from a breakup",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/student-loans/article/paying-off-student-loans-184751746.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/judge-orders-changes-googles-digital-174147090.html"
   },
   {
    "t": "上銀8月營收創49個月高點　下半年展望佳",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040039.aspx"
   },
   {
-   "t": "Circle President Urges U.S. to Lead Digital Finance With Stablecoins",
+   "t": "Nexperia, Aurobay in EV chip talks; China freezes assets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/circle-ceo-urges-u-lead-171500113.html"
+   "u": "https://finance.yahoo.com/technology/articles/nexperia-aurobay-ev-chip-talks-172855572.html"
   }
  ],
  "inst": {
