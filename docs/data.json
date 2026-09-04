@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 14:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 14:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 51.3,
-   "c": -6.04,
+   "p": 51.2,
+   "c": -6.23,
    "a50": 53.53,
    "a200": 44.15,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.95,
-   "r": 51.1
+   "a20": 49.94,
+   "r": 51.0
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.58,
-   "c": 0.06,
-   "a50": 86.17,
+   "p": 95.51,
+   "c": -0.01,
+   "a50": 86.16,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.12,
-   "r": 61.4
+   "a20": 91.11,
+   "r": 61.2
   },
   {
    "s": "GC=F",
-   "p": 4514.7,
-   "c": 0.51,
-   "a50": 4240.68,
-   "a200": 4520.89,
+   "p": 4513.6,
+   "c": 0.49,
+   "a50": 4240.66,
+   "a200": 4520.88,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4471.4,
-   "r": 58.2
+   "a20": 4471.34,
+   "r": 58.1
   },
   {
    "s": "HG=F",
    "p": 6.64,
-   "c": 1.03,
+   "c": 1.01,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 57.7
+   "r": 57.6
   },
   {
    "s": "TWDUSD",
    "p": 0.0315856,
-   "c": 0.2,
+   "c": 0.21,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "綠捷巡檢機器人切入半導體廠　四足機器人明年拚應用",
+   "t": "群電8月營收半年新低　記憶體缺料拖累NB電源出貨",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040121.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040145.aspx"
   },
   {
    "t": "Why you can't find McDonald's $3 value menu",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/mcdonalds-3-menu-problem-hits-231000768.html"
   },
   {
-   "t": "商研院：出口帶動台灣經濟外熱內溫　應防產業發展不均",
+   "t": "9月台股期指漲885點",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040119.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040140.aspx"
   },
   {
    "t": "GoPro Shares Sizzle on YouTuber Markiplier Becoming Largest Shareholder. How to Play GPRO Stock Here.",
@@ -356,34 +356,22 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/gopro-shares-sizzle-youtuber-markiplier-184458777.html"
   },
   {
-   "t": "卓榮泰：伸開雙手　歡迎所有多元綠能開發到台灣",
+   "t": "9月電子期金融期齊漲",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040117.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040139.aspx"
   },
   {
-   "t": "One Nuclear Signs Deal for 2.88-GW Gas-Fired Plant, Large BESS for Louisiana Data Center Campus",
+   "t": "Eni Becomes Operator of 35-Billion-Barrel Venezuelan Oil Field",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/one-nuclear-signs-deal-2-183826946.html"
+   "u": "https://finance.yahoo.com/energy/articles/eni-becomes-operator-35-billion-185551473.html"
   },
   {
-   "t": "巨茂：在手訂單逾30億元　能見度達2030年",
+   "t": "台股量縮上漲693點　以46551點作收重登5日均線",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040115.aspx"
-  },
-  {
-   "t": "Leveraged loan default rate dips further to 0.87%; distress ratio eases",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/leveraged-loan-default-rate-dips-183717248.html"
-  },
-  {
-   "t": "董瑞斌期許金融業成台灣「護民群山」　保障全民需求",
-   "pub": "中央社財經",
-   "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040107.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040135.aspx"
   },
   {
    "t": "Money market account vs. Treasury bill: Which option is best for your savings?",
@@ -392,16 +380,28 @@
    "u": "https://finance.yahoo.com/personal-finance/banking/comparison/money-market-account-vs-treasury-bill-192105099.html"
   },
   {
-   "t": "高一誠：新進人才不足　拓展金融人才庫刻不容緩",
+   "t": "台股漲693.47點",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040094.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040133.aspx"
   },
   {
-   "t": "3 Boring Stocks That Have Quietly Outlasted Every Bear Market of the Last 50 Years.",
+   "t": "Strategy’s Strategy Appears to Have Failed, and the Outlook of MSTR Stock Is Unfavorable",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/3-boring-stocks-quietly-outlasted-184157991.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-strategy-appears-failed-outlook-190338386.html"
+  },
+  {
+   "t": "綠捷巡檢機器人切入半導體廠　四足機器人明年拚應用",
+   "pub": "中央社財經",
+   "d": "2026-09-04",
+   "u": "https://www.cna.com.tw/news/afe/202609040121.aspx"
+  },
+  {
+   "t": "This Sector Is Fertile Ground For Buy Opportunities",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/news/fertilizer-biofuel-corn-prices-agriculture-stocks/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
