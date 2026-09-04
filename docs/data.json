@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 16:34（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 16:44（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.18,
-   "c": -0.98,
+   "p": 14.16,
+   "c": -1.12,
    "a50": 16.19,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.08,
-   "r": 43.2
+   "r": 43.1
   },
   {
    "s": "BZ=F",
-   "p": 95.14,
-   "c": -0.4,
+   "p": 95.21,
+   "c": -0.32,
    "a50": 86.16,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.1,
-   "r": 60.3
+   "r": 60.5
   },
   {
    "s": "GC=F",
-   "p": 4527.3,
-   "c": 0.79,
-   "a50": 4240.93,
+   "p": 4527.7,
+   "c": 0.8,
+   "a50": 4240.94,
    "a200": 4520.95,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4472.03,
+   "a20": 4472.05,
    "r": 58.9
   },
   {
    "s": "HG=F",
    "p": 6.68,
-   "c": 1.54,
+   "c": 1.61,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 59.4
+   "r": 59.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03157562,
-   "c": 0.19,
+   "p": 0.0315856,
+   "c": 0.21,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040179.aspx"
   },
   {
-   "t": "A Potential SpaceX Deal Could Meaningfully Accelerate Growth for Technip Stock",
+   "t": "Sprinklr, Inc. Q2 2027 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/potential-spacex-deal-could-meaningfully-205914830.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sprinklr-inc-q2-2027-earnings-210631715.html"
   },
   {
    "t": "日圓走強壓抑出口股　日經指數受科技股帶動上揚",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040169.aspx"
   },
   {
-   "t": "Daily ETF Flows: $628M Flows Into GLD",
+   "t": "A Potential SpaceX Deal Could Meaningfully Accelerate Growth for Technip Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/daily-etf-flows-628m-flows-210005390.html"
+   "u": "https://finance.yahoo.com/energy/articles/potential-spacex-deal-could-meaningfully-205914830.html"
   },
   {
    "t": "三大法人買超台股628.72億元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040162.aspx"
   },
   {
-   "t": "StealthGas Inc. Q2 2026 Earnings Call Summary",
+   "t": "Daily ETF Flows: $628M Flows Into GLD",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stealthgas-inc-q2-2026-earnings-205636238.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/daily-etf-flows-628m-flows-210005390.html"
   },
   {
    "t": "權值股回神、國巨漲停　台股終場上揚693點收復5日線",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040161.aspx"
   },
   {
-   "t": "Stock Market Today, Sept. 2: Dell Surges 16% on Soaring AI Backlog",
+   "t": "Roundtable 100 analysts rank Bitcoin lower than Ether, Solana, and HYPE",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-2-210353722.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/roundtable-100-analysts-rank-bitcoin-210855145.html"
   }
  ],
  "inst": {
