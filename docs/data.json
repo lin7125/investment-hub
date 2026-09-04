@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-09-04 13:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 13:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2410.0,
-   "c": 0.84,
-   "a50": 2392.2,
-   "a200": 2013.38,
+   "p": 2415.0,
+   "c": 1.05,
+   "a50": 2392.3,
+   "a200": 2013.4,
    "yh": 2510.0,
    "yl": 1160.0,
-   "a20": 2399.25,
-   "r": 52.3
+   "a20": 2399.5,
+   "r": 52.9
   },
   {
    "s": "2317.TW",
@@ -36,36 +36,36 @@
   },
   {
    "s": "2454.TW",
-   "p": 4420.0,
-   "c": 1.84,
-   "a50": 3892.2,
-   "a200": 2649.1,
+   "p": 4430.0,
+   "c": 2.07,
+   "a50": 3892.4,
+   "a200": 2649.15,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 4013.5,
-   "r": 64.2
+   "a20": 4014.0,
+   "r": 64.4
   },
   {
    "s": "2327.TW",
-   "p": 555.0,
-   "c": 8.61,
-   "a50": 682.87,
-   "a200": 453.16,
+   "p": 559.0,
+   "c": 9.39,
+   "a50": 682.95,
+   "a200": 453.18,
    "yh": 1140.0,
    "yl": 135.0,
-   "a20": 572.75,
-   "r": 45.6
+   "a20": 572.95,
+   "r": 46.2
   },
   {
    "s": "1802.TW",
-   "p": 59.0,
-   "c": 0.68,
-   "a50": 58.36,
+   "p": 59.2,
+   "c": 1.02,
+   "a50": 58.37,
    "a200": 54.55,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 58.29,
-   "r": 52.7
+   "a20": 58.3,
+   "r": 53.2
   },
   {
    "s": "6862.TW",
@@ -80,25 +80,25 @@
   },
   {
    "s": "3701.TW",
-   "p": 42.0,
-   "c": 3.83,
+   "p": 42.05,
+   "c": 3.96,
    "a50": 40.83,
    "a200": 49.22,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.91,
-   "r": 53.1
+   "a20": 40.92,
+   "r": 53.3
   },
   {
    "s": "4722.TW",
-   "p": 199.5,
-   "c": 2.05,
-   "a50": 223.16,
-   "a200": 201.13,
+   "p": 201.0,
+   "c": 2.81,
+   "a50": 223.19,
+   "a200": 201.14,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 207.35,
-   "r": 43.4
+   "a20": 207.42,
+   "r": 44.4
   },
   {
    "s": "6706.TW",
@@ -113,25 +113,25 @@
   },
   {
    "s": "2305.TW",
-   "p": 30.4,
-   "c": 1.0,
+   "p": 30.65,
+   "c": 1.83,
    "a50": 31.77,
    "a200": 19.89,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.7,
-   "r": 53.2
+   "a20": 28.71,
+   "r": 53.9
   },
   {
    "s": "6442.TW",
-   "p": 1770.0,
-   "c": 0.0,
-   "a50": 1470.9,
-   "a200": 1642.55,
+   "p": 1755.0,
+   "c": -0.85,
+   "a50": 1470.6,
+   "a200": 1642.48,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1593.75,
-   "r": 64.6
+   "a20": 1593.0,
+   "r": 63.3
   },
   {
    "s": "6515.TW",
@@ -146,14 +146,14 @@
   },
   {
    "s": "6446.TW",
-   "p": 1325.0,
-   "c": -1.85,
-   "a50": 1299.07,
-   "a200": 778.86,
+   "p": 1320.0,
+   "c": -2.22,
+   "a50": 1298.97,
+   "a200": 778.83,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1425.0,
-   "r": 47.3
+   "a20": 1424.75,
+   "r": 47.0
   },
   {
    "s": "3324.TWO",
@@ -168,47 +168,47 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1500.0,
-   "c": 6.76,
-   "a50": 1271.24,
-   "a200": 1260.02,
+   "p": 1510.0,
+   "c": 7.47,
+   "a50": 1271.44,
+   "a200": 1260.07,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1348.5,
-   "r": 59.6
+   "a20": 1349.0,
+   "r": 60.0
   },
   {
    "s": "3585.TWO",
-   "p": 51.2,
-   "c": -6.23,
+   "p": 51.3,
+   "c": -6.04,
    "a50": 53.53,
    "a200": 44.15,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.94,
-   "r": 51.0
+   "a20": 49.95,
+   "r": 51.1
   },
   {
    "s": "6223.TWO",
-   "p": 5135.0,
-   "c": 1.78,
-   "a50": 5912.7,
-   "a200": 4270.45,
+   "p": 5155.0,
+   "c": 2.18,
+   "a50": 5913.1,
+   "a200": 4270.55,
    "yh": 7380.0,
    "yl": 1385.0,
-   "a20": 5592.5,
-   "r": 42.5
+   "a20": 5593.5,
+   "r": 42.9
   },
   {
    "s": "6750.TWO",
-   "p": 59.7,
-   "c": 0.51,
+   "p": 59.8,
+   "c": 0.67,
    "a50": 58.0,
    "a200": 57.56,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.99,
-   "r": 62.2
+   "a20": 56.0,
+   "r": 62.5
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46510.82,
-   "c": 1.42,
-   "a50": 44897.24,
-   "a200": 37242.75,
+   "p": 46599.38,
+   "c": 1.62,
+   "a50": 44899.01,
+   "a200": 37243.19,
    "yh": 47741.51,
    "yl": 24179.85,
-   "a20": 45656.24,
-   "r": 58.3
+   "a20": 45660.67,
+   "r": 58.8
   },
   {
    "s": "^GSPC",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.49,
-   "c": -0.03,
+   "p": 95.37,
+   "c": -0.16,
    "a50": 86.16,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.11,
-   "r": 61.2
+   "r": 60.9
   },
   {
    "s": "GC=F",
-   "p": 4520.2,
-   "c": 0.63,
-   "a50": 4240.79,
-   "a200": 4520.92,
+   "p": 4515.9,
+   "c": 0.54,
+   "a50": 4240.71,
+   "a200": 4520.89,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4471.68,
-   "r": 58.5
+   "a20": 4471.46,
+   "r": 58.2
   },
   {
    "s": "HG=F",
-   "p": 6.67,
-   "c": 1.41,
+   "p": 6.66,
+   "c": 1.32,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 59.0
+   "r": 58.7
   },
   {
    "s": "TWDUSD",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "台灣立陶宛擴大合作　布局半導體先進封裝雷射技術",
+   "t": "綠捷巡檢機器人切入半導體廠　四足機器人明年拚應用",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040081.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040121.aspx"
   },
   {
    "t": "Why you can't find McDonald's $3 value menu",
@@ -344,46 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/mcdonalds-3-menu-problem-hits-231000768.html"
   },
   {
-   "t": "台股盤中漲逾300點　權值股回神、AI被動元件股強勢",
+   "t": "商研院：出口帶動台灣經濟外熱內溫　應防產業發展不均",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040075.aspx"
-  },
-  {
-   "t": "Cancer Stock Breaks Out To Highs; Key FDA Action On Watch",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://www.investors.com/research/cancer-exelixis-exel-stock-fda-drugs-markets-investing/?src=A00220&yptr=yahoo"
-  },
-  {
-   "t": "太平洋島國論壇與美副國務卿互動　林佳龍：很自然",
-   "pub": "中央社財經",
-   "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/aipl/202609040072.aspx"
-  },
-  {
-   "t": "Unusually Heavy Volume in Snowflake Call Options Ahead of Earnings Today",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/unusually-heavy-volume-snowflake-call-173003128.html"
-  },
-  {
-   "t": "三接海岸許可遭撤　經部：工業港外廓防波堤仍可繼續施工",
-   "pub": "中央社財經",
-   "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040068.aspx"
-  },
-  {
-   "t": "The SEC Just Proposed Letting a Crypto Project Raise $5 Million With No Financial Statements at All — A Coffee Shop Raising the Same $5 Million Has to File Them",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/sec-just-proposed-letting-crypto-174034511.html"
-  },
-  {
-   "t": "從液態肥研發到碳匯合作　台肥台大深化產學連結",
-   "pub": "中央社財經",
-   "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040053.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040119.aspx"
   },
   {
    "t": "Judge orders changes to Google's digital ads business but spares it from a breakup",
@@ -392,16 +356,52 @@
    "u": "https://finance.yahoo.com/media-advertising/articles/judge-orders-changes-googles-digital-174147090.html"
   },
   {
-   "t": "上銀8月營收創49個月高點　下半年展望佳",
+   "t": "卓榮泰：伸開雙手　歡迎所有多元綠能開發到台灣",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040039.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040117.aspx"
   },
   {
-   "t": "Nexperia, Aurobay in EV chip talks; China freezes assets",
+   "t": "The SEC Just Proposed Letting a Crypto Project Raise $5 Million With No Financial Statements at All — A Coffee Shop Raising the Same $5 Million Has to File Them",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/nexperia-aurobay-ev-chip-talks-172855572.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/sec-just-proposed-letting-crypto-174034511.html"
+  },
+  {
+   "t": "巨茂：在手訂單逾30億元　能見度達2030年",
+   "pub": "中央社財經",
+   "d": "2026-09-04",
+   "u": "https://www.cna.com.tw/news/afe/202609040115.aspx"
+  },
+  {
+   "t": "Market Extremes Flash Warning Signs: Deere Stock Soars While Dave & Buster’s Circles the Drain",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/market-extremes-flash-warning-signs-173034558.html"
+  },
+  {
+   "t": "董瑞斌期許金融業成台灣「護民群山」　保障全民需求",
+   "pub": "中央社財經",
+   "d": "2026-09-04",
+   "u": "https://www.cna.com.tw/news/afe/202609040107.aspx"
+  },
+  {
+   "t": "Unusually Heavy Volume in Snowflake Call Options Ahead of Earnings Today",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/options/articles/unusually-heavy-volume-snowflake-call-173003128.html"
+  },
+  {
+   "t": "高一誠：新進人才不足　拓展金融人才庫刻不容緩",
+   "pub": "中央社財經",
+   "d": "2026-09-04",
+   "u": "https://www.cna.com.tw/news/afe/202609040094.aspx"
+  },
+  {
+   "t": "Cramer Called the September Open Unholy and Then Named the One Stock He Would Still Buy",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cramer-called-september-open-unholy-174554914.html"
   }
  ],
  "inst": {
