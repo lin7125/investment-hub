@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05 01:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-05 01:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 321.14,
-   "c": -2.16,
+   "p": 321.01,
+   "c": -2.19,
    "a50": 315.17,
    "a200": 283.88,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.2,
-   "r": 55.1
+   "a20": 313.19,
+   "r": 54.9
   },
   {
    "s": "NVDA",
-   "p": 230.29,
-   "c": 0.81,
+   "p": 230.2,
+   "c": 0.76,
    "a50": 210.56,
    "a200": 196.68,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.08,
+   "a20": 220.07,
    "r": 60.3
   },
   {
    "s": "TSLA",
-   "p": 351.78,
-   "c": -6.53,
-   "a50": 357.9,
+   "p": 352.31,
+   "c": -6.39,
+   "a50": 357.91,
    "a200": 399.55,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 348.32,
-   "r": 50.1
+   "a20": 348.35,
+   "r": 50.3
   },
   {
    "s": "META",
-   "p": 609.5,
-   "c": -0.19,
-   "a50": 595.35,
+   "p": 609.24,
+   "c": -0.24,
+   "a50": 595.34,
    "a200": 622.25,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.52,
-   "r": 60.2
+   "a20": 576.5,
+   "r": 60.1
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7707.35,
-   "c": -0.52,
-   "a50": 7591.48,
-   "a200": 7141.71,
+   "p": 7709.4,
+   "c": -0.49,
+   "a50": 7591.52,
+   "a200": 7141.72,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.14,
-   "r": 54.2
+   "a20": 7708.24,
+   "r": 54.4
   },
   {
    "s": "^VIX",
-   "p": 14.18,
-   "c": -0.98,
+   "p": 14.24,
+   "c": -0.56,
    "a50": 16.19,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.08,
-   "r": 43.2
+   "a20": 15.09,
+   "r": 43.4
   },
   {
    "s": "BZ=F",
-   "p": 95.79,
-   "c": 0.28,
+   "p": 95.75,
+   "c": 0.24,
    "a50": 86.17,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.13,
-   "r": 61.7
+   "r": 61.6
   },
   {
    "s": "GC=F",
-   "p": 4471.9,
-   "c": -0.44,
-   "a50": 4239.83,
-   "a200": 4520.67,
+   "p": 4467.0,
+   "c": -0.55,
+   "a50": 4239.73,
+   "a200": 4520.65,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4469.26,
-   "r": 55.3
+   "a20": 4469.01,
+   "r": 55.0
   },
   {
    "s": "HG=F",
    "p": 6.66,
-   "c": 1.32,
+   "c": 1.22,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
-   "a20": 6.58,
-   "r": 58.7
+   "a20": 6.57,
+   "r": 58.3
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040332.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as hot jobs report fuels Fed rate-hike bets",
+   "t": "Americold (COLD) Raised $1.1B by Contributing 12 Warehouses to a Joint Venture. Is Deleveraging Worth Ceding 70% of the Economics?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-3-dow-sp-500-nasdaq-august-jobs-report-081005475.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/americold-cold-raised-1-1b-173422100.html"
   },
   {
    "t": "大樂透第115085期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040331.aspx"
   },
   {
-   "t": "Bread Savings review (2026): Home to high-interest online savings and CD accounts",
+   "t": "Commvault (CVLT) Triples Its Cloud Safety Net While Wall Street Cools",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/review/bread-savings-review-203340890.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/commvault-cvlt-triples-cloud-safety-173309595.html"
   },
   {
    "t": "美就業報告強化Fed升息預期　美股開盤走勢不一",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040330.aspx"
   },
   {
-   "t": "Billions in U.S. Savings Bonds Have Stopped Earning Interest and Their Owners Don’t Know It. The Ones in Your Parents’ Drawer Went Silent at Exactly Year 30",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as hot jobs report fuels Fed rate-hike bets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/billions-u-savings-bonds-stopped-172918026.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-3-dow-sp-500-nasdaq-august-jobs-report-081005475.html"
   },
   {
    "t": "路透：習近平擬率領大型商業代表團隨同訪美",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040329.aspx"
   },
   {
-   "t": "Zegna’s (ZGN) Direct Sales Surge Can’t Fully Offset A Messier Profit",
+   "t": "Bread Savings review (2026): Home to high-interest online savings and CD accounts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/zegna-zgn-direct-sales-surge-172258738.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/review/bread-savings-review-203340890.html"
   },
   {
    "t": "聯合國糧農組織：乾旱與戰爭推升8月食品價格",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040327.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Sinks As Inflation Report Looms; Oracle Up On OpenAI Buzz (Live Coverage)",
+   "t": "Zegna’s (ZGN) Direct Sales Surge Can’t Fully Offset A Messier Profit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-august-jobs-report-lululemon-lulu/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/zegna-zgn-direct-sales-surge-172258738.html"
   },
   {
    "t": "美國8月非農就業新增16.2萬人超乎預期　失業率持平",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040323.aspx"
   },
   {
-   "t": "Revolution Med (RVMD) Priced Rasonque at $39,800 per 30-Day Supply. Can Access Match the Clinical Breakthrough?",
+   "t": "Stock Market Today: Dow Sinks As Inflation Report Looms; Oracle Up On OpenAI Buzz (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/revolution-med-rvmd-priced-rasonque-172228096.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-august-jobs-report-lululemon-lulu/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
