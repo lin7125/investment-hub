@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 16:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 17:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.19,
-   "c": -0.91,
+   "p": 14.2,
+   "c": -0.84,
    "a50": 16.19,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.08,
-   "r": 43.2
+   "r": 43.3
   },
   {
    "s": "BZ=F",
-   "p": 95.15,
-   "c": -0.39,
-   "a50": 86.16,
+   "p": 95.02,
+   "c": -0.52,
+   "a50": 86.15,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.1,
-   "r": 60.4
+   "a20": 91.09,
+   "r": 60.0
   },
   {
    "s": "GC=F",
-   "p": 4524.7,
-   "c": 0.73,
-   "a50": 4240.88,
-   "a200": 4520.94,
+   "p": 4523.9,
+   "c": 0.72,
+   "a50": 4240.87,
+   "a200": 4520.93,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4471.9,
+   "a20": 4471.86,
    "r": 58.7
   },
   {
    "s": "HG=F",
-   "p": 6.68,
-   "c": 1.49,
+   "p": 6.67,
+   "c": 1.47,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 59.3
+   "r": 59.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315856,
-   "c": 0.2,
+   "p": 0.03157562,
+   "c": 0.19,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040179.aspx"
   },
   {
-   "t": "Discover Q3 2026 rewards calendar — Earn 5% cash back at gas stations, on transportation, and at drug stores",
+   "t": "August Wrap: Loans return 0.93%, buoyed by rebound in software sector",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/discover-rewards-calendar-163005023.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/august-wrap-loans-return-0-212645022.html"
   },
   {
    "t": "日圓走強壓抑出口股　日經指數受科技股帶動上揚",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040169.aspx"
   },
   {
-   "t": "Shell Completes $16.5-Billion Acquisition of ARC Resources",
+   "t": "Discover Q3 2026 rewards calendar — Earn 5% cash back at gas stations, on transportation, and at drug stores",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/shell-completes-16-5-billion-211713351.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/discover-rewards-calendar-163005023.html"
   },
   {
    "t": "三大法人買超台股628.72億元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040167.aspx"
   },
   {
-   "t": "Broadcom Stock Trades Lower After Earnings. Here’s What Traders Need to Know.",
+   "t": "Shell Completes $16.5-Billion Acquisition of ARC Resources",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-trades-lower-earnings-211408007.html"
+   "u": "https://finance.yahoo.com/energy/articles/shell-completes-16-5-billion-211713351.html"
   },
   {
    "t": "長榮海運打造智慧低碳冷鏈　瞄準全球生鮮商機",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040161.aspx"
   },
   {
-   "t": "Dad’s 3% Mortgage Doesn’t Die With Him: A 1982 Federal Law Lets the Kids Inherit the House AND the Loan and the Bank Isn’t Allowed to Say No",
+   "t": "Stock Market Today, Sept. 2: Dell Helps Stocks Edge Higher Despite Geopolitical Tensions",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/dad-3-mortgage-doesn-t-212405609.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-2-213113460.html"
   }
  ],
  "inst": {
