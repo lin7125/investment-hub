@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 17:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 17:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.24,
-   "c": -0.56,
+   "p": 14.25,
+   "c": -0.49,
    "a50": 16.19,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.09,
-   "r": 43.4
+   "r": 43.5
   },
   {
    "s": "BZ=F",
-   "p": 95.25,
-   "c": -0.28,
+   "p": 95.2,
+   "c": -0.34,
    "a50": 86.16,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.1,
-   "r": 60.6
+   "r": 60.5
   },
   {
    "s": "GC=F",
-   "p": 4510.3,
-   "c": 0.41,
-   "a50": 4240.59,
-   "a200": 4520.87,
+   "p": 4514.8,
+   "c": 0.51,
+   "a50": 4240.68,
+   "a200": 4520.89,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4471.18,
-   "r": 57.9
+   "a20": 4471.4,
+   "r": 58.2
   },
   {
    "s": "HG=F",
    "p": 6.65,
-   "c": 1.16,
+   "c": 1.06,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 58.1
+   "r": 57.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315557,
-   "c": 0.12,
+   "p": 0.03156566,
+   "c": 0.14,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "證交所推廣亞資中心　前進倫敦深化全球資金鏈結",
+   "t": "信驊8月營收16.26億元創新高　第4季擬漲價2位數",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040182.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040235.aspx"
   },
   {
    "t": "Why you can't find McDonald's $3 value menu",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/mcdonalds-3-menu-problem-hits-231000768.html"
   },
   {
-   "t": "日經亞洲：蘋果嚴格品管　摺疊iPhone初期日產僅數百支",
+   "t": "彰濱光電股權轉移惹議　經部：已要求聯合再生買回60%股份",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/aopl/202609040179.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040222.aspx"
   },
   {
    "t": "How to pay off student loans quickly: 8 strategies that work",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/personal-finance/student-loans/article/paying-off-student-loans-184751746.html"
   },
   {
-   "t": "日圓走強壓抑出口股　日經指數受科技股帶動上揚",
+   "t": "貿聯8月營收88.9億元年增近5成　歷史次高",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040169.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040212.aspx"
   },
   {
    "t": "Money market account vs. Treasury bill: Which option is best for your savings?",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/personal-finance/banking/comparison/money-market-account-vs-treasury-bill-192105099.html"
   },
   {
-   "t": "三大法人買超台股628.72億元",
+   "t": "台積電串起台日科技鏈結　國發會與熊本深化地方創生合作",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040167.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040207.aspx"
   },
   {
    "t": "Mortgage & refinance rates today, Wednesday, September 2, 2026: Rates up double digits as Iran war reescalates",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage--refinance-rates-today-wednesday-september-2-2026-rates-up-double-digits-as-iran-war-reescalates-100000964.html"
   },
   {
-   "t": "長榮海運打造智慧低碳冷鏈　瞄準全球生鮮商機",
+   "t": "金像電子投資138億元中壢建新廠　布局高階PCB市場",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040162.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040201.aspx"
   },
   {
    "t": "What is the FDIC, and how does it work?",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-the-fdic-and-how-does-it-work-102118542.html"
   },
   {
-   "t": "權值股回神、國巨漲停　台股終場上揚693點收復5日線",
+   "t": "中火2部新燃氣機組首度滿載發電　10月起拆除2部燃煤機組",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040161.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040200.aspx"
   },
   {
    "t": "Where credit card balances are highest, and what it says about a K-shaped economy",
