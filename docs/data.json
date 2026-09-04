@@ -212,41 +212,41 @@
   },
   {
    "s": "AAPL",
-   "p": 319.75,
-   "c": -2.58,
+   "p": 319.97,
+   "c": -2.51,
    "a50": 315.15,
    "a200": 283.87,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.13,
-   "r": 53.7
+   "a20": 313.14,
+   "r": 53.9
   },
   {
    "s": "NVDA",
-   "p": 230.25,
-   "c": 0.79,
-   "a50": 210.56,
+   "p": 230.36,
+   "c": 0.84,
+   "a50": 210.57,
    "a200": 196.68,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 220.08,
-   "r": 60.3
+   "r": 60.4
   },
   {
    "s": "TSLA",
-   "p": 353.83,
-   "c": -5.99,
-   "a50": 357.94,
+   "p": 354.08,
+   "c": -5.92,
+   "a50": 357.95,
    "a200": 399.56,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 348.43,
-   "r": 50.8
+   "a20": 348.44,
+   "r": 50.9
   },
   {
    "s": "META",
-   "p": 616.7,
-   "c": 0.99,
+   "p": 616.77,
+   "c": 1.0,
    "a50": 595.49,
    "a200": 622.29,
    "yh": 780.25,
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7716.81,
-   "c": -0.4,
-   "a50": 7591.67,
+   "p": 7718.36,
+   "c": -0.38,
+   "a50": 7591.7,
    "a200": 7141.76,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.61,
-   "r": 55.1
+   "a20": 7708.69,
+   "r": 55.3
   },
   {
    "s": "^VIX",
-   "p": 14.35,
-   "c": 0.21,
+   "p": 14.37,
+   "c": 0.35,
    "a50": 16.2,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.09,
-   "r": 44.0
+   "r": 44.1
   },
   {
    "s": "BZ=F",
-   "p": 96.08,
-   "c": 0.59,
-   "a50": 86.18,
+   "p": 96.02,
+   "c": 0.52,
+   "a50": 86.17,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.14,
-   "r": 62.1
+   "r": 62.0
   },
   {
    "s": "GC=F",
-   "p": 4482.0,
-   "c": -0.22,
-   "a50": 4240.03,
-   "a200": 4520.72,
+   "p": 4483.1,
+   "c": -0.19,
+   "a50": 4240.05,
+   "a200": 4520.73,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4469.76,
-   "r": 56.1
+   "a20": 4469.82,
+   "r": 56.2
   },
   {
    "s": "HG=F",
    "p": 6.66,
-   "c": 1.31,
+   "c": 1.33,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 58.6
+   "r": 58.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03164557,
-   "c": 0.39,
+   "c": 0.41,
    "a50": 0.03119152,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609050002.aspx"
   },
   {
-   "t": "How Is American Tower’s Stock Performance Compared to Other Real Estate Stocks",
+   "t": "Agrofert to plough capex into German baker Lieken",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/american-tower-stock-performance-compared-100422721.html"
+   "u": "https://finance.yahoo.com/small-business/articles/agrofert-plough-capex-german-baker-100709103.html"
   },
   {
    "t": "今彩539第115215期　頭獎1注中獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040332.aspx"
   },
   {
-   "t": "Could Sept. 15 Open the Institutional DeFi Floodgates? Former Lawmakers Say CLARITY Act Is the First Step",
+   "t": "Best CD rates today, Thursday, September 3, 2026: Lock in up to 4.30% APY with an 18-month CD",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/could-sept-15-open-institutional-100216333.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-september-3-2026-lock-in-up-to-430-apy-with-an-18-month-cd-100000861.html"
   },
   {
    "t": "大樂透第115085期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040331.aspx"
   },
   {
-   "t": "LTC Properties (LTC) Doubles Down On Senior Housing Bet",
+   "t": "The bond market is back in the danger zone — here's what could make it worse: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/ltc-properties-ltc-doubles-down-100500890.html"
+   "u": "https://finance.yahoo.com/markets/article/the-bond-market-is-back-in-the-danger-zone--heres-what-could-make-it-worse-chart-of-the-day-100000231.html"
   },
   {
    "t": "美就業報告強化Fed升息預期　美股開盤走勢不一",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040330.aspx"
   },
   {
-   "t": "UFP Technologies (UFPT) Posts Record Profits, But The Margin Story Gets Complicated",
+   "t": "How Is American Tower’s Stock Performance Compared to Other Real Estate Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ufp-technologies-ufpt-posts-record-101145831.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/american-tower-stock-performance-compared-100422721.html"
   },
   {
    "t": "路透：習近平擬率領大型商業代表團隨同訪美",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040329.aspx"
   },
   {
-   "t": "How Nvidia is still making history",
+   "t": "Why it's a mistake to put your kids' college savings ahead of your own retirement",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/how-nvidia-is-still-making-history-100126626.html"
+   "u": "https://finance.yahoo.com/economy/article/why-its-a-mistake-to-put-your-kids-college-savings-ahead-of-your-own-retirement-100000733.html"
   },
   {
    "t": "聯合國糧農組織：乾旱與戰爭推升8月食品價格",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040327.aspx"
   },
   {
-   "t": "Mondelez International Stock: Is MDLZ Underperforming the Consumer Staples Sector?",
+   "t": "Santee Cooper partners with Google in shift toward AI-driven forecasting",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mondelez-international-stock-mdlz-underperforming-101304086.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/santee-cooper-partners-google-shift-101001932.html"
   }
  ],
  "inst": {
