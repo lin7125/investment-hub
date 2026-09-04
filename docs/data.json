@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 13:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 13:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,80 +14,80 @@
   },
   {
    "s": "2317.TW",
-   "p": 255.0,
-   "c": 3.03,
-   "a50": 247.95,
+   "p": 255.5,
+   "c": 3.23,
+   "a50": 247.96,
    "a200": 235.76,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.88,
-   "r": 53.4
+   "a20": 252.9,
+   "r": 53.8
   },
   {
    "s": "2308.TW",
-   "p": 1810.0,
-   "c": 2.84,
-   "a50": 1798.2,
-   "a200": 1580.14,
+   "p": 1805.0,
+   "c": 2.56,
+   "a50": 1798.1,
+   "a200": 1580.12,
    "yh": 2520.0,
    "yl": 691.0,
-   "a20": 1797.25,
-   "r": 52.0
+   "a20": 1797.0,
+   "r": 51.6
   },
   {
    "s": "2454.TW",
-   "p": 4395.0,
-   "c": 1.27,
-   "a50": 3891.7,
-   "a200": 2648.98,
+   "p": 4400.0,
+   "c": 1.38,
+   "a50": 3891.8,
+   "a200": 2649.0,
    "yh": 4640.0,
    "yl": 1145.0,
-   "a20": 4012.25,
-   "r": 63.6
+   "a20": 4012.5,
+   "r": 63.7
   },
   {
    "s": "2327.TW",
-   "p": 552.0,
-   "c": 8.02,
-   "a50": 682.81,
-   "a200": 453.14,
+   "p": 554.0,
+   "c": 8.41,
+   "a50": 682.85,
+   "a200": 453.15,
    "yh": 1140.0,
    "yl": 135.0,
-   "a20": 572.6,
-   "r": 45.2
+   "a20": 572.7,
+   "r": 45.5
   },
   {
    "s": "1802.TW",
-   "p": 58.7,
-   "c": 0.17,
+   "p": 58.8,
+   "c": 0.34,
    "a50": 58.36,
    "a200": 54.55,
    "yh": 76.6,
    "yl": 25.65,
    "a20": 58.28,
-   "r": 51.9
+   "r": 52.1
   },
   {
    "s": "6862.TW",
-   "p": 140.0,
-   "c": 0.72,
-   "a50": 152.36,
+   "p": 140.5,
+   "c": 1.08,
+   "a50": 152.37,
    "a200": 173.75,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 141.0,
-   "r": 45.2
+   "a20": 141.02,
+   "r": 45.9
   },
   {
    "s": "3701.TW",
-   "p": 41.85,
-   "c": 3.46,
+   "p": 41.9,
+   "c": 3.58,
    "a50": 40.83,
    "a200": 49.22,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.91,
-   "r": 52.6
+   "r": 52.8
   },
   {
    "s": "4722.TW",
@@ -102,47 +102,47 @@
   },
   {
    "s": "6706.TW",
-   "p": 126.0,
-   "c": 4.56,
-   "a50": 121.38,
+   "p": 125.5,
+   "c": 4.15,
+   "a50": 121.37,
    "a200": 130.01,
    "yh": 216.5,
    "yl": 62.2,
-   "a20": 120.92,
-   "r": 55.1
+   "a20": 120.9,
+   "r": 54.6
   },
   {
    "s": "2305.TW",
-   "p": 30.35,
-   "c": 0.83,
-   "a50": 31.76,
+   "p": 30.5,
+   "c": 1.33,
+   "a50": 31.77,
    "a200": 19.89,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.69,
-   "r": 53.0
+   "a20": 28.7,
+   "r": 53.5
   },
   {
    "s": "6442.TW",
-   "p": 1730.0,
-   "c": -2.26,
-   "a50": 1470.1,
-   "a200": 1642.35,
+   "p": 1740.0,
+   "c": -1.69,
+   "a50": 1470.3,
+   "a200": 1642.4,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1591.75,
-   "r": 61.2
+   "a20": 1592.25,
+   "r": 62.0
   },
   {
    "s": "6515.TW",
-   "p": 7045.0,
-   "c": 0.64,
-   "a50": 6892.0,
-   "a200": 6293.58,
+   "p": 7100.0,
+   "c": 1.43,
+   "a50": 6893.1,
+   "a200": 6293.85,
    "yh": 10795.0,
    "yl": 1590.0,
-   "a20": 6578.0,
-   "r": 57.7
+   "a20": 6580.75,
+   "r": 58.6
   },
   {
    "s": "6446.TW",
@@ -168,47 +168,47 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1495.0,
-   "c": 6.41,
-   "a50": 1271.14,
-   "a200": 1259.99,
+   "p": 1500.0,
+   "c": 6.76,
+   "a50": 1271.24,
+   "a200": 1260.02,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1348.25,
-   "r": 59.3
+   "a20": 1348.5,
+   "r": 59.6
   },
   {
    "s": "3585.TWO",
-   "p": 51.3,
-   "c": -6.04,
+   "p": 51.2,
+   "c": -6.23,
    "a50": 53.53,
    "a200": 44.15,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.95,
-   "r": 51.1
+   "a20": 49.94,
+   "r": 51.0
   },
   {
    "s": "6223.TWO",
-   "p": 5095.0,
-   "c": 0.99,
-   "a50": 5911.9,
-   "a200": 4270.25,
+   "p": 5130.0,
+   "c": 1.68,
+   "a50": 5912.6,
+   "a200": 4270.42,
    "yh": 7380.0,
    "yl": 1385.0,
-   "a20": 5590.5,
-   "r": 41.8
+   "a20": 5592.25,
+   "r": 42.4
   },
   {
    "s": "6750.TWO",
-   "p": 59.8,
-   "c": 0.67,
-   "a50": 58.0,
+   "p": 58.3,
+   "c": -1.85,
+   "a50": 57.97,
    "a200": 57.56,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.0,
-   "r": 62.5
+   "a20": 55.92,
+   "r": 57.1
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46326.04,
-   "c": 1.02,
-   "a50": 44893.55,
-   "a200": 37241.83,
+   "p": 46373.77,
+   "c": 1.13,
+   "a50": 44894.5,
+   "a200": 37242.06,
    "yh": 47741.51,
    "yl": 24179.85,
-   "a20": 45647.0,
-   "r": 57.2
+   "a20": 45649.39,
+   "r": 57.5
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.59,
-   "c": 0.07,
-   "a50": 86.17,
+   "p": 95.53,
+   "c": 0.01,
+   "a50": 86.16,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.12,
-   "r": 61.4
+   "a20": 91.11,
+   "r": 61.3
   },
   {
    "s": "GC=F",
-   "p": 4520.2,
-   "c": 0.63,
-   "a50": 4240.79,
-   "a200": 4520.92,
+   "p": 4515.4,
+   "c": 0.53,
+   "a50": 4240.7,
+   "a200": 4520.89,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4471.68,
-   "r": 58.5
+   "a20": 4471.43,
+   "r": 58.2
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 1.4,
+   "c": 1.35,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 59.0
+   "r": 58.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
-   "c": 0.08,
+   "p": 0.0315557,
+   "c": 0.11,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040075.aspx"
   },
   {
-   "t": "Here’s Why Berenberg Sees More Upside on Autodesk Stock Despite Key AI Headwinds",
+   "t": "OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-berenberg-sees-more-upside-170706753.html"
+   "u": "https://finance.yahoo.com/energy/articles/opec-set-hold-oil-output-171952611.html"
   },
   {
    "t": "太平洋島國論壇與美副國務卿互動　林佳龍：很自然",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aipl/202609040072.aspx"
   },
   {
-   "t": "Nvidia CEO Jensen Huang Says His $3.5 Billion MediaTek Deal Is ‘Not Circular’ Because ‘They Do Their Own Business’",
+   "t": "Coinbase Brings Crypto Futures to Canadian Traders",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-says-170607027.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/coinbase-brings-crypto-futures-canadian-171800728.html"
   },
   {
    "t": "三接海岸許可遭撤　經部：工業港外廓防波堤仍可繼續施工",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040068.aspx"
   },
   {
-   "t": "AI Cuts Gate Dwell to 30 Seconds as Eagle Grows 350%",
+   "t": "Cotton Bulls in Retreat on Wednesday",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-cuts-gate-dwell-30-171108788.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/cotton-bulls-retreat-wednesday-171711120.html"
   },
   {
    "t": "從液態肥研發到碳匯合作　台肥台大深化產學連結",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040053.aspx"
   },
   {
-   "t": "Goldman Sachs warns investors to expect lower returns over the next year",
+   "t": "How to pay off student loans quickly: 8 strategies that work",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/goldman-sachs-warns-investors-to-expect-lower-returns-over-the-next-year-171050637.html"
+   "u": "https://finance.yahoo.com/personal-finance/student-loans/article/paying-off-student-loans-184751746.html"
   },
   {
    "t": "上銀8月營收創49個月高點　下半年展望佳",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040039.aspx"
   },
   {
-   "t": "Daktronics Q1 Earnings Call Highlights",
+   "t": "Circle President Urges U.S. to Lead Digital Finance With Stablecoins",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/daktronics-q1-earnings-call-highlights-170226476.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/circle-ceo-urges-u-lead-171500113.html"
   }
  ],
  "inst": {
