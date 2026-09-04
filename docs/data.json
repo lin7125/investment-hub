@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 15:33（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 15:43（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.15,
-   "c": -1.19,
+   "p": 14.14,
+   "c": -1.26,
    "a50": 16.19,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.08,
-   "r": 43.1
+   "r": 43.0
   },
   {
    "s": "BZ=F",
-   "p": 95.78,
-   "c": 0.27,
-   "a50": 86.17,
+   "p": 95.51,
+   "c": -0.01,
+   "a50": 86.16,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.13,
-   "r": 61.7
+   "a20": 91.11,
+   "r": 61.2
   },
   {
    "s": "GC=F",
-   "p": 4514.9,
-   "c": 0.52,
-   "a50": 4240.69,
-   "a200": 4520.89,
+   "p": 4520.8,
+   "c": 0.65,
+   "a50": 4240.8,
+   "a200": 4520.92,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4471.41,
-   "r": 58.2
+   "a20": 4471.7,
+   "r": 58.5
   },
   {
    "s": "HG=F",
    "p": 6.66,
-   "c": 1.22,
+   "c": 1.21,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 58.4
+   "r": 58.3
   },
   {
    "s": "TWDUSD",
    "p": 0.03159558,
-   "c": 0.24,
+   "c": 0.25,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040140.aspx"
   },
   {
-   "t": "What is the FDIC, and how does it work?",
+   "t": "Dollar Slips as T-note Yields Stabilize and Stocks Rally",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-the-fdic-and-how-does-it-work-102118542.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-slips-t-note-yields-193909593.html"
   },
   {
    "t": "9月電子期金融期齊漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040139.aspx"
   },
   {
-   "t": "Dear Zscaler Stock Fans, Mark Your Calendars for September 3",
+   "t": "Mortgage rates surge, hit 13-month high",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-zscaler-stock-fans-mark-192742718.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/mortgage-rates-surge-hit-13-194000495.html"
   },
   {
    "t": "台股量縮上漲693點　以46551點作收重登5日均線",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040135.aspx"
   },
   {
-   "t": "Mortgage & refinance rates today, Wednesday, September 2, 2026: Rates up double digits as Iran war reescalates",
+   "t": "What is the FDIC, and how does it work?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage--refinance-rates-today-wednesday-september-2-2026-rates-up-double-digits-as-iran-war-reescalates-100000964.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-the-fdic-and-how-does-it-work-102118542.html"
   },
   {
    "t": "台股漲693.47點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040133.aspx"
   },
   {
-   "t": "Apple May Need a Foldable iPhone to Avoid a Revenue Slowdown Next Year",
+   "t": "JPMorgan Says Grok Is Finally Worth Taking Seriously. SpaceX Stock Could Reach $240.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-may-foldable-iphone-avoid-193326903.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-says-grok-finally-worth-194426706.html"
   },
   {
    "t": "綠捷巡檢機器人切入半導體廠　四足機器人明年拚應用",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040121.aspx"
   },
   {
-   "t": "Oil Futures Extend Gains on Renewed U.S.-Iran Strikes",
+   "t": "ISRG Stock: The Best House On The Block Costs The Most",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-u-s-iran-hostilities-e12fa4f2?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/isrg-stock-best-house-block-193749019.html"
   }
  ],
  "inst": {
