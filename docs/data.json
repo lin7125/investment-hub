@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 14:52（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 15:02（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 51.2,
-   "c": -6.23,
-   "a50": 53.53,
+   "p": 50.6,
+   "c": -7.33,
+   "a50": 53.52,
    "a200": 44.15,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.94,
-   "r": 51.0
+   "a20": 49.91,
+   "r": 50.0
   },
   {
    "s": "6223.TWO",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.51,
-   "c": -0.01,
-   "a50": 86.16,
+   "p": 95.61,
+   "c": 0.09,
+   "a50": 86.17,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.11,
-   "r": 61.2
+   "a20": 91.12,
+   "r": 61.4
   },
   {
    "s": "GC=F",
-   "p": 4513.6,
-   "c": 0.49,
-   "a50": 4240.66,
-   "a200": 4520.88,
+   "p": 4509.8,
+   "c": 0.4,
+   "a50": 4240.58,
+   "a200": 4520.86,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4471.34,
-   "r": 58.1
+   "a20": 4471.15,
+   "r": 57.9
   },
   {
    "s": "HG=F",
    "p": 6.64,
-   "c": 1.01,
+   "c": 0.93,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 57.6
+   "r": 57.3
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040140.aspx"
   },
   {
-   "t": "GoPro Shares Sizzle on YouTuber Markiplier Becoming Largest Shareholder. How to Play GPRO Stock Here.",
+   "t": "Eni Becomes Operator of 35-Billion-Barrel Venezuelan Oil Field",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gopro-shares-sizzle-youtuber-markiplier-184458777.html"
+   "u": "https://finance.yahoo.com/energy/articles/eni-becomes-operator-35-billion-185551473.html"
   },
   {
    "t": "9月電子期金融期齊漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040139.aspx"
   },
   {
-   "t": "Eni Becomes Operator of 35-Billion-Barrel Venezuelan Oil Field",
+   "t": "Strategy’s Strategy Appears to Have Failed, and the Outlook of MSTR Stock Is Unfavorable",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/eni-becomes-operator-35-billion-185551473.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-strategy-appears-failed-outlook-190338386.html"
   },
   {
    "t": "台股量縮上漲693點　以46551點作收重登5日均線",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040135.aspx"
   },
   {
-   "t": "Money market account vs. Treasury bill: Which option is best for your savings?",
+   "t": "This Sector Is Fertile Ground For Buy Opportunities",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/comparison/money-market-account-vs-treasury-bill-192105099.html"
+   "u": "https://www.investors.com/news/fertilizer-biofuel-corn-prices-agriculture-stocks/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股漲693.47點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040133.aspx"
   },
   {
-   "t": "Strategy’s Strategy Appears to Have Failed, and the Outlook of MSTR Stock Is Unfavorable",
+   "t": "Solana Price Eyes $120 as ETF Inflows Extend Bullish Streak",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-strategy-appears-failed-outlook-190338386.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/solana-price-eyes-120-etf-190832179.html"
   },
   {
    "t": "綠捷巡檢機器人切入半導體廠　四足機器人明年拚應用",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040121.aspx"
   },
   {
-   "t": "This Sector Is Fertile Ground For Buy Opportunities",
+   "t": "These 2 REIT Dividends Look Equally Safe—Until You Dig Into the Numbers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/fertilizer-biofuel-corn-prices-agriculture-stocks/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/real-estate/articles/2-reit-dividends-look-equally-185733205.html"
   }
  ],
  "inst": {
