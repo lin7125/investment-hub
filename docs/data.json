@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05 02:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-05 03:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 321.7,
-   "c": -1.99,
+   "p": 321.77,
+   "c": -1.96,
    "a50": 315.19,
    "a200": 283.88,
    "yh": 340.08,
    "yl": 226.79,
    "a20": 313.23,
-   "r": 55.6
+   "r": 55.7
   },
   {
    "s": "NVDA",
-   "p": 230.63,
-   "c": 0.95,
-   "a50": 210.57,
+   "p": 229.91,
+   "c": 0.64,
+   "a50": 210.56,
    "a200": 196.68,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.1,
-   "r": 60.6
+   "a20": 220.06,
+   "r": 60.1
   },
   {
    "s": "TSLA",
-   "p": 354.09,
-   "c": -5.92,
-   "a50": 357.95,
+   "p": 353.82,
+   "c": -5.99,
+   "a50": 357.94,
    "a200": 399.56,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 348.44,
-   "r": 50.9
+   "a20": 348.43,
+   "r": 50.8
   },
   {
    "s": "META",
-   "p": 614.59,
-   "c": 0.64,
-   "a50": 595.45,
+   "p": 615.12,
+   "c": 0.73,
+   "a50": 595.46,
    "a200": 622.28,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.77,
-   "r": 61.8
+   "a20": 576.8,
+   "r": 62.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7718.91,
-   "c": -0.37,
-   "a50": 7591.72,
-   "a200": 7141.77,
+   "p": 7711.95,
+   "c": -0.46,
+   "a50": 7591.58,
+   "a200": 7141.73,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.72,
-   "r": 55.3
+   "a20": 7708.37,
+   "r": 54.7
   },
   {
    "s": "^VIX",
-   "p": 14.02,
-   "c": -2.09,
+   "p": 14.0,
+   "c": -2.23,
    "a50": 16.19,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.07,
-   "r": 42.5
+   "r": 42.4
   },
   {
    "s": "BZ=F",
-   "p": 96.45,
-   "c": 0.97,
+   "p": 96.34,
+   "c": 0.86,
    "a50": 86.18,
    "a200": 83.85,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.16,
-   "r": 62.7
+   "r": 62.5
   },
   {
    "s": "GC=F",
-   "p": 4471.2,
-   "c": -0.46,
-   "a50": 4239.81,
+   "p": 4470.8,
+   "c": -0.47,
+   "a50": 4239.8,
    "a200": 4520.67,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4469.23,
-   "r": 55.3
+   "a20": 4469.2,
+   "r": 55.2
   },
   {
    "s": "HG=F",
-   "p": 6.66,
-   "c": 1.19,
+   "p": 6.65,
+   "c": 1.13,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 58.2
+   "r": 58.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03163556,
-   "c": 0.36,
+   "c": 0.37,
    "a50": 0.03119152,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -332,16 +332,28 @@
  ],
  "news": [
   {
+   "t": "美聯準會升息機率增　歐股互有漲跌",
+   "pub": "中央社財經",
+   "d": "2026-09-05",
+   "u": "https://www.cna.com.tw/news/afe/202609050002.aspx"
+  },
+  {
+   "t": "Poundland owner seeks sale of retailer “within weeks” – report",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/poundland-owner-seeks-sale-retailer-090926553.html"
+  },
+  {
    "t": "今彩539第115215期　頭獎1注中獎",
    "pub": "中央社財經",
    "d": "2026-09-04",
    "u": "https://www.cna.com.tw/news/ahel/202609040332.aspx"
   },
   {
-   "t": "Uniswap (UNI) Price Surges 100%, and One Chain Playing ‘Robin Hood' Explains Why",
+   "t": "nCino (NCNO): Banking Software Stock Quietly Rewriting Its Growth Story",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/uniswap-uni-price-surges-100-090213128.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ncino-ncno-banking-software-stock-090420917.html"
   },
   {
    "t": "大樂透第115085期　頭獎槓龜",
@@ -350,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040331.aspx"
   },
   {
-   "t": "Can I Retire at 62 With $500k in a Roth IRA and $2,000 in Monthly Income?",
+   "t": "HEICO Corp. (HEI): Record Profits And Bold Bets Power Aerospace Supplier’s Surge",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/500k-roth-ira-receive-combined-113000490.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/heico-corp-hei-record-profits-091725883.html"
   },
   {
    "t": "美就業報告強化Fed升息預期　美股開盤走勢不一",
@@ -374,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040329.aspx"
   },
   {
-   "t": "Electromed (ELMD) Keeps Growing While Wall Street Barely Notices",
+   "t": "Can I Retire at 62 With $500k in a Roth IRA and $2,000 in Monthly Income?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/electromed-elmd-keeps-growing-while-085811550.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/500k-roth-ira-receive-combined-113000490.html"
   },
   {
    "t": "聯合國糧農組織：乾旱與戰爭推升8月食品價格",
@@ -386,22 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040327.aspx"
   },
   {
-   "t": "nCino (NCNO): Banking Software Stock Quietly Rewriting Its Growth Story",
+   "t": "B HODL Stock Surges 67% in a Month on MicroStrategy Bitcoin Playbook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ncino-ncno-banking-software-stock-090420917.html"
-  },
-  {
-   "t": "美國8月非農就業新增16.2萬人超乎預期　失業率持平",
-   "pub": "中央社財經",
-   "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/aopl/202609040323.aspx"
-  },
-  {
-   "t": "Anthropic and OpenAI's revenue chasm, explained",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-openais-revenue-chasm-explained-090007594.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/b-hodl-stock-surges-67-091148044.html"
   }
  ],
  "inst": {
