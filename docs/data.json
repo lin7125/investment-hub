@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05 04:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-05 04:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 14.4,
-   "c": 0.56,
+   "p": 14.58,
+   "c": 1.82,
    "a50": 16.2,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.09,
-   "r": 44.2
+   "a20": 15.1,
+   "r": 45.2
   },
   {
    "s": "BZ=F",
-   "p": 96.05,
-   "c": 0.55,
+   "p": 96.06,
+   "c": 0.57,
    "a50": 86.18,
    "a200": 83.84,
    "yh": 118.35,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4480.7,
-   "c": -0.24,
-   "a50": 4240.0,
-   "a200": 4520.72,
+   "p": 4479.0,
+   "c": -0.28,
+   "a50": 4239.97,
+   "a200": 4520.71,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4469.7,
-   "r": 56.0
+   "a20": 4469.61,
+   "r": 55.9
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 1.39,
+   "c": 1.37,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03164557,
-   "c": 0.4,
+   "c": 0.39,
    "a50": 0.03119152,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609050002.aspx"
   },
   {
-   "t": "HPE Raises 2026 and 2027 Guidance, Expands Oracle Networking Agreement",
+   "t": "Elliott Takes Stake in Deutsche Telekom, Opposes T-Mobile Deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/hpe-raises-2026-2027-guidance-101638997.html"
+   "u": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026/card/elliott-takes-stake-in-deutsche-telekom-opposes-t-mobile-deal-NwlVebgEnQ4rJ1uoIoXd?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "今彩539第115215期　頭獎1注中獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040332.aspx"
   },
   {
-   "t": "Is Airbnb Stock Outperforming the Nasdaq?",
+   "t": "Broadcom just took a page from Dell and Nvidia",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/airbnb-stock-outperforming-nasdaq-102000034.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/broadcom-just-took-a-page-from-dell-and-nvidia-102718498.html"
   },
   {
    "t": "大樂透第115085期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040331.aspx"
   },
   {
-   "t": "Here’s the average Social Security check by age in 2026 — how does yours compare?",
+   "t": "PENN Entertainment (PENN) Swings To Profit As Debt Comes Down",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/average-social-security-check-age-101500069.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/penn-entertainment-penn-swings-profit-103133484.html"
   },
   {
    "t": "美就業報告強化Fed升息預期　美股開盤走勢不一",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040330.aspx"
   },
   {
-   "t": "Clover Health (CLOV) Turns Profitable As Medicare Membership Explodes",
+   "t": "Is Arista Networks Stock Outperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/clover-health-clov-turns-profitable-101946315.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-outperforming-dow-102505909.html"
   },
   {
    "t": "路透：習近平擬率領大型商業代表團隨同訪美",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040327.aspx"
   },
   {
-   "t": "Snowflake Shares Rise After Q2 Revenue and Earnings Exceed Estimates",
+   "t": "Bitcoin price recovery narrows odds on higher 2026 targets, prediction market data shows",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/snowflake-shares-rise-q2-revenue-101849891.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-recovery-narrows-odds-103200652.html"
   }
  ],
  "inst": {
