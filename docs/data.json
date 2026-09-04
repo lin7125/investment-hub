@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05 00:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-05 01:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 321.2,
-   "c": -2.14,
-   "a50": 315.18,
+   "p": 321.02,
+   "c": -2.19,
+   "a50": 315.17,
    "a200": 283.88,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.2,
-   "r": 55.1
+   "a20": 313.19,
+   "r": 54.9
   },
   {
    "s": "NVDA",
-   "p": 231.45,
-   "c": 1.31,
+   "p": 231.52,
+   "c": 1.35,
    "a50": 210.59,
-   "a200": 196.68,
+   "a200": 196.69,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 220.14,
-   "r": 61.0
+   "r": 61.1
   },
   {
    "s": "TSLA",
-   "p": 352.51,
-   "c": -6.34,
-   "a50": 357.92,
+   "p": 351.88,
+   "c": -6.51,
+   "a50": 357.9,
    "a200": 399.55,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 348.36,
-   "r": 50.4
+   "a20": 348.33,
+   "r": 50.1
   },
   {
    "s": "META",
-   "p": 611.19,
-   "c": 0.08,
-   "a50": 595.38,
+   "p": 610.17,
+   "c": -0.08,
+   "a50": 595.36,
    "a200": 622.26,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.6,
-   "r": 60.8
+   "a20": 576.55,
+   "r": 60.5
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7726.8,
-   "c": -0.27,
-   "a50": 7591.87,
-   "a200": 7141.81,
+   "p": 7720.54,
+   "c": -0.35,
+   "a50": 7591.75,
+   "a200": 7141.77,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7709.11,
-   "r": 56.1
+   "a20": 7708.8,
+   "r": 55.5
   },
   {
    "s": "^VIX",
-   "p": 13.99,
-   "c": -2.3,
+   "p": 14.04,
+   "c": -1.96,
    "a50": 16.19,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.07,
-   "r": 42.4
+   "a20": 15.08,
+   "r": 42.6
   },
   {
    "s": "BZ=F",
-   "p": 95.49,
-   "c": -0.03,
-   "a50": 86.16,
+   "p": 95.71,
+   "c": 0.2,
+   "a50": 86.17,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.11,
-   "r": 61.2
+   "a20": 91.12,
+   "r": 61.6
   },
   {
    "s": "GC=F",
-   "p": 4485.6,
-   "c": -0.14,
-   "a50": 4240.1,
-   "a200": 4520.74,
+   "p": 4483.0,
+   "c": -0.19,
+   "a50": 4240.05,
+   "a200": 4520.73,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4469.94,
-   "r": 56.4
+   "a20": 4469.81,
+   "r": 56.2
   },
   {
    "s": "HG=F",
-   "p": 6.68,
-   "c": 1.6,
+   "p": 6.69,
+   "c": 1.66,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 59.6
+   "r": 59.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03166561,
-   "c": 0.46,
+   "p": 0.03165559,
+   "c": 0.43,
    "a50": 0.03119152,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040332.aspx"
   },
   {
-   "t": "Bitcoin's $80,000 breakout just failed after a blowout jobs report",
+   "t": "Trump Issues Ultimatum to Fed: Cut Rates or Face Trade War With the World",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-just-failed-after-a-blowout-jobs-report-100000584.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/trump-issues-ultimatum-fed-cut-165521532.html"
   },
   {
    "t": "大樂透第115085期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040331.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq edge lower after hot jobs report fuels Fed rate-hike bets",
+   "t": "Bitcoin's $80,000 breakout just failed after a blowout jobs report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-3-dow-sp-500-nasdaq-august-jobs-report-081005475.html"
+   "u": "https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-just-failed-after-a-blowout-jobs-report-100000584.html"
   },
   {
    "t": "美就業報告強化Fed升息預期　美股開盤走勢不一",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040330.aspx"
   },
   {
-   "t": "Stock Market Midday, Sept. 4: Stocks Edge Lower on Strong Jobs Report as Lululemon Plummets",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq edge lower after hot jobs report fuels Fed rate-hike bets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-4-163537251.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-3-dow-sp-500-nasdaq-august-jobs-report-081005475.html"
   },
   {
    "t": "路透：習近平擬率領大型商業代表團隨同訪美",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040329.aspx"
   },
   {
-   "t": "Salesforce (CRM) Grew Agentforce and Data 360 ARR More Than 200%. Is AI Finally Becoming Material to Growth?",
+   "t": "This Oil Stock Flirts With Entry As Profits Surge 108% Amid Strait Of Hormuz Crisis",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-grew-agentforce-data-163207657.html"
+   "u": "https://www.investors.com/stock-lists/stock-spotlight/oil-stock-equinor-eqnr-profits-surge-strait-of-hormuz/?src=A00220&yptr=yahoo"
   },
   {
    "t": "聯合國糧農組織：乾旱與戰爭推升8月食品價格",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040327.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Sinks As Inflation Report Looms; Oracle Up On OpenAI Buzz (Live Coverage)",
+   "t": "Salesforce (CRM) Grew Agentforce and Data 360 ARR More Than 200%. Is AI Finally Becoming Material to Growth?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-august-jobs-report-lululemon-lulu/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-grew-agentforce-data-163207657.html"
   },
   {
    "t": "美國8月非農就業新增16.2萬人超乎預期　失業率持平",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040323.aspx"
   },
   {
-   "t": "Aon (AON) is Paying $17B for USI. Can $395M of Synergies Justify Another Debt-Funded Megadeal?",
+   "t": "Stock Market Today: Dow Sinks As Inflation Report Looms; Oracle Up On OpenAI Buzz (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/aon-aon-paying-17b-usi-162842766.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-august-jobs-report-lululemon-lulu/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
