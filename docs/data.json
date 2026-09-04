@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05 01:26（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-05 01:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 321.6,
-   "c": -2.01,
+   "p": 321.22,
+   "c": -2.13,
    "a50": 315.18,
    "a200": 283.88,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.22,
-   "r": 55.5
+   "a20": 313.2,
+   "r": 55.1
   },
   {
    "s": "NVDA",
-   "p": 230.69,
-   "c": 0.98,
+   "p": 230.37,
+   "c": 0.84,
    "a50": 210.57,
    "a200": 196.68,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.1,
-   "r": 60.6
+   "a20": 220.08,
+   "r": 60.4
   },
   {
    "s": "TSLA",
-   "p": 352.5,
-   "c": -6.34,
-   "a50": 357.92,
+   "p": 351.99,
+   "c": -6.48,
+   "a50": 357.91,
    "a200": 399.55,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 348.36,
-   "r": 50.4
+   "a20": 348.34,
+   "r": 50.2
   },
   {
    "s": "META",
-   "p": 609.22,
-   "c": -0.24,
+   "p": 609.0,
+   "c": -0.28,
    "a50": 595.34,
    "a200": 622.25,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.5,
-   "r": 60.0
+   "a20": 576.49,
+   "r": 59.9
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7716.48,
-   "c": -0.4,
-   "a50": 7591.67,
-   "a200": 7141.75,
+   "p": 7712.06,
+   "c": -0.46,
+   "a50": 7591.58,
+   "a200": 7141.73,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.59,
-   "r": 55.1
+   "a20": 7708.37,
+   "r": 54.7
   },
   {
    "s": "^VIX",
@@ -289,40 +289,40 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.5,
-   "c": -0.02,
+   "p": 95.53,
+   "c": 0.01,
    "a50": 86.16,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.11,
-   "r": 61.2
+   "r": 61.3
   },
   {
    "s": "GC=F",
-   "p": 4481.1,
-   "c": -0.24,
-   "a50": 4240.01,
-   "a200": 4520.72,
+   "p": 4478.4,
+   "c": -0.3,
+   "a50": 4239.96,
+   "a200": 4520.71,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4469.72,
-   "r": 56.0
+   "a20": 4469.58,
+   "r": 55.8
   },
   {
    "s": "HG=F",
-   "p": 6.68,
-   "c": 1.5,
+   "p": 6.67,
+   "c": 1.37,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 59.3
+   "r": 58.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03164557,
+   "p": 0.03163556,
    "c": 0.38,
    "a50": 0.03119152,
    "a200": 0.03156566,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040332.aspx"
   },
   {
-   "t": "Texas Multifamily Loans Flood September Foreclosures",
+   "t": "BYD vs. Rivian: Evaluating the Better Automotive Stock to Buy for 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/texas-multifamily-loans-flood-september-170837402.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/byd-vs-rivian-evaluating-better-172242108.html"
   },
   {
    "t": "大樂透第115085期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040331.aspx"
   },
   {
-   "t": "GameStop (GME) Plans to Use $358M of Cash to Reduce Dilution in Its Note Exchange. Is Liquidity Being Put to Better Use?",
+   "t": "Science Applications (SAIC) Grew Revenue 6% but Posted a 0.6 Book-to-Bill Ratio. Is the $22B Backlog Enough?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gamestop-gme-plans-358m-cash-165918904.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/science-applications-saic-grew-revenue-171604286.html"
   },
   {
    "t": "美就業報告強化Fed升息預期　美股開盤走勢不一",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040330.aspx"
   },
   {
-   "t": "IBD Stock Of The Day Exelixis Hits Earnings Snag — And Then Breaks Out",
+   "t": "Dell Afterglow Continues. These Other Stocks Top Buy Points.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/exelixis-stock-break-out-second-quarter-2026/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/stock-lists/new-highs/dell-stock-vodafone-vod-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "路透：習近平擬率領大型商業代表團隨同訪美",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040329.aspx"
   },
   {
-   "t": "Bitcoin's $80,000 breakout just failed after a blowout jobs report",
+   "t": "KNOT Offshore Partners LP Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-just-failed-after-a-blowout-jobs-report-100000584.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/knot-offshore-partners-lp-q2-171303273.html"
   },
   {
    "t": "聯合國糧農組織：乾旱與戰爭推升8月食品價格",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040327.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq edge lower after hot jobs report fuels Fed rate-hike bets",
+   "t": "After A Microsoft Stock Price Spike, An Options Strategy Aims For A Robust Profit In Weeks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-3-dow-sp-500-nasdaq-august-jobs-report-081005475.html"
+   "u": "https://www.investors.com/research/options/microsoft-stock-msft-software-tech-options-markets-trade-strategy-income-investing-markets/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美國8月非農就業新增16.2萬人超乎預期　失業率持平",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040323.aspx"
   },
   {
-   "t": "Dallas Multifamily Investors Face Tough 2027 Capital Calls",
+   "t": "Why Marvell Stock Rallied Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/dallas-multifamily-investors-face-tough-170828493.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-rallied-today-172150765.html"
   }
  ],
  "inst": {
