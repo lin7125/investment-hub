@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 17:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 19:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.25,
-   "c": -0.49,
+   "p": 14.15,
+   "c": -1.19,
    "a50": 16.19,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.09,
-   "r": 43.5
+   "a20": 15.08,
+   "r": 43.1
   },
   {
    "s": "BZ=F",
-   "p": 95.2,
-   "c": -0.34,
+   "p": 95.07,
+   "c": -0.47,
    "a50": 86.16,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.1,
-   "r": 60.5
+   "a20": 91.09,
+   "r": 60.2
   },
   {
    "s": "GC=F",
-   "p": 4514.8,
-   "c": 0.51,
-   "a50": 4240.68,
+   "p": 4516.0,
+   "c": 0.54,
+   "a50": 4240.71,
    "a200": 4520.89,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4471.4,
+   "a20": 4471.46,
    "r": 58.2
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 1.06,
+   "p": 6.66,
+   "c": 1.22,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 57.8
+   "r": 58.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03156566,
-   "c": 0.14,
+   "c": 0.15,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -332,58 +332,34 @@
  ],
  "news": [
   {
-   "t": "信驊8月營收16.26億元創新高　第4季擬漲價2位數",
+   "t": "外資買超逾562億元　敲進電子股調節面板雙虎",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040235.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040286.aspx"
   },
   {
-   "t": "Why you can't find McDonald's $3 value menu",
+   "t": "Will the housing market crash in 2026? Numbers look steady",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/mcdonalds-3-menu-problem-hits-231000768.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-in-2026-numbers-look-steady-170038540.html"
   },
   {
-   "t": "彰濱光電股權轉移惹議　經部：已要求聯合再生買回60%股份",
+   "t": "中租控股：支持美台等地AI算力中心、供應鏈投融資",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040222.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040284.aspx"
   },
   {
-   "t": "How to pay off student loans quickly: 8 strategies that work",
+   "t": "Mortgage rate predictions through the next five years: What buyers can expect",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/student-loans/article/paying-off-student-loans-184751746.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-the-next-five-years-what-buyers-can-expect-195826935.html"
   },
   {
-   "t": "貿聯8月營收88.9億元年增近5成　歷史次高",
+   "t": "新台幣勁揚央行出手調節　8月外匯存底重返6000億美元大關",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040212.aspx"
-  },
-  {
-   "t": "Money market account vs. Treasury bill: Which option is best for your savings?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/comparison/money-market-account-vs-treasury-bill-192105099.html"
-  },
-  {
-   "t": "台積電串起台日科技鏈結　國發會與熊本深化地方創生合作",
-   "pub": "中央社財經",
-   "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040207.aspx"
-  },
-  {
-   "t": "Mortgage & refinance rates today, Wednesday, September 2, 2026: Rates up double digits as Iran war reescalates",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage--refinance-rates-today-wednesday-september-2-2026-rates-up-double-digits-as-iran-war-reescalates-100000964.html"
-  },
-  {
-   "t": "金像電子投資138億元中壢建新廠　布局高階PCB市場",
-   "pub": "中央社財經",
-   "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040201.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040280.aspx"
   },
   {
    "t": "What is the FDIC, and how does it work?",
@@ -392,16 +368,40 @@
    "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-the-fdic-and-how-does-it-work-102118542.html"
   },
   {
-   "t": "中火2部新燃氣機組首度滿載發電　10月起拆除2部燃煤機組",
+   "t": "談AI時代人才競爭力　信驊林鴻明：年輕人有更大機會",
    "pub": "中央社財經",
    "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040200.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609040276.aspx"
   },
   {
-   "t": "Where credit card balances are highest, and what it says about a K-shaped economy",
+   "t": "The 5 best debit cards for kids and teens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/where-credit-card-balances-are-highest-and-what-it-says-about-a-k-shaped-economy-143144084.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-debit-cards-for-kids-and-teens-224825436.html"
+  },
+  {
+   "t": "新台幣強升1.25角　央行：美下週CPI是利率決策關鍵",
+   "pub": "中央社財經",
+   "d": "2026-09-04",
+   "u": "https://www.cna.com.tw/news/afe/202609040266.aspx"
+  },
+  {
+   "t": "August LMI: Capacity at 40, Yet Prices Soar. Why This Disconnect?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/economy/articles/august-lmi-capacity-40-yet-233532016.html"
+  },
+  {
+   "t": "饗賓上市案獲證交所審議通過　上半年每股賺9.04元",
+   "pub": "中央社財經",
+   "d": "2026-09-04",
+   "u": "https://www.cna.com.tw/news/afe/202609040264.aspx"
+  },
+  {
+   "t": "Wells Fargo Autograph Journey® Card  review: A high-earning card designed for frequent travelers",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-autograph-journey-card-review-215134623.html"
   }
  ],
  "inst": {
