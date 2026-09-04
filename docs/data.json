@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05 05:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-05 05:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.84,
-   "c": 0.34,
+   "p": 95.83,
+   "c": 0.32,
    "a50": 86.17,
    "a200": 83.84,
    "yh": 118.35,
@@ -300,14 +300,14 @@
   },
   {
    "s": "GC=F",
-   "p": 4476.3,
-   "c": -0.34,
-   "a50": 4239.91,
+   "p": 4477.2,
+   "c": -0.32,
+   "a50": 4239.93,
    "a200": 4520.7,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4469.48,
-   "r": 55.6
+   "a20": 4469.52,
+   "r": 55.7
   },
   {
    "s": "HG=F",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609050002.aspx"
   },
   {
-   "t": "Ocular Therapeutix (OCUL): Faster Path To Approval Comes With Rising Costs",
+   "t": "Envista Holdings Shares Rise After JPMorgan Upgrade",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/ocular-therapeutix-ocul-faster-path-110651441.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/envista-holdings-shares-rise-jpmorgan-134540193.html"
   },
   {
    "t": "今彩539第115215期　頭獎1注中獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040332.aspx"
   },
   {
-   "t": "Texhibition Istanbul marks 10th edition with expanded international focus",
+   "t": "ePlus (PLUS) Expands Its Microsoft Footprint Even As Profit Margins Slip",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/texhibition-istanbul-marks-10th-edition-110926333.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/eplus-plus-expands-microsoft-footprint-134445622.html"
   },
   {
    "t": "大樂透第115085期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040331.aspx"
   },
   {
-   "t": "Innospec’s (IOSP) Strong Quarter Hides A Cash Flow Problem Worth Watching",
+   "t": "Is Synopsys Stock Underperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/innospec-iosp-strong-quarter-hides-111308628.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/synopsys-stock-underperforming-nasdaq-134710497.html"
   },
   {
    "t": "美就業報告強化Fed升息預期　美股開盤走勢不一",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040330.aspx"
   },
   {
-   "t": "Gold price today, Thursday, September 3, 2026: Gold moves higher on hopes that Iran war reescalation will be short-lived",
+   "t": "How Micron Technology (MU) is Shaping the AI Landscape",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-september-3-2026-gold-moves-higher-on-hopes-that-iran-war-reescalation-will-be-short-lived-110444019.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-shaping-ai-133716803.html"
   },
   {
    "t": "路透：習近平擬率領大型商業代表團隨同訪美",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040329.aspx"
   },
   {
-   "t": "‘Past the point of no return’: Ray Dalio has a warning for Americans holding this asset — are you ready?",
+   "t": "Old Dominion’s August: Some good, some OK",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/past-point-no-return-ray-111500640.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/old-dominion-august-good-ok-133250496.html"
   },
   {
    "t": "聯合國糧農組織：乾旱與戰爭推升8月食品價格",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040327.aspx"
   },
   {
-   "t": "Silver price today, Thursday, September 3, 2026: Silver prices rise following short-lived airstrikes",
+   "t": "Kala Bio Signs Exclusive U.S. Distribution Agreement for Virotek Ophthalmology Genetic Tests",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-thursday-september-3-2026-silver-prices-rise-following-short-lived-airstrikes-111653911.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/kala-bio-signs-exclusive-u-134751219.html"
   }
  ],
  "inst": {
