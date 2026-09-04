@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05 01:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-05 01:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,9 +212,9 @@
   },
   {
    "s": "AAPL",
-   "p": 321.22,
-   "c": -2.13,
-   "a50": 315.18,
+   "p": 321.14,
+   "c": -2.16,
+   "a50": 315.17,
    "a200": 283.88,
    "yh": 340.08,
    "yl": 226.79,
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 230.37,
-   "c": 0.84,
-   "a50": 210.57,
+   "p": 230.29,
+   "c": 0.81,
+   "a50": 210.56,
    "a200": 196.68,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 220.08,
-   "r": 60.4
+   "r": 60.3
   },
   {
    "s": "TSLA",
-   "p": 351.99,
-   "c": -6.48,
-   "a50": 357.91,
+   "p": 351.78,
+   "c": -6.53,
+   "a50": 357.9,
    "a200": 399.55,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 348.34,
-   "r": 50.2
+   "a20": 348.32,
+   "r": 50.1
   },
   {
    "s": "META",
-   "p": 609.0,
-   "c": -0.28,
-   "a50": 595.34,
+   "p": 609.5,
+   "c": -0.19,
+   "a50": 595.35,
    "a200": 622.25,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 576.49,
-   "r": 59.9
+   "a20": 576.52,
+   "r": 60.2
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7712.06,
-   "c": -0.46,
-   "a50": 7591.58,
-   "a200": 7141.73,
+   "p": 7707.35,
+   "c": -0.52,
+   "a50": 7591.48,
+   "a200": 7141.71,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7708.37,
-   "r": 54.7
+   "a20": 7708.14,
+   "r": 54.2
   },
   {
    "s": "^VIX",
-   "p": 14.08,
-   "c": -1.68,
+   "p": 14.18,
+   "c": -0.98,
    "a50": 16.19,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.08,
-   "r": 42.8
+   "r": 43.2
   },
   {
    "s": "BZ=F",
-   "p": 95.53,
-   "c": 0.01,
-   "a50": 86.16,
+   "p": 95.79,
+   "c": 0.28,
+   "a50": 86.17,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.11,
-   "r": 61.3
+   "a20": 91.13,
+   "r": 61.7
   },
   {
    "s": "GC=F",
-   "p": 4478.4,
-   "c": -0.3,
-   "a50": 4239.96,
-   "a200": 4520.71,
+   "p": 4471.9,
+   "c": -0.44,
+   "a50": 4239.83,
+   "a200": 4520.67,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4469.58,
-   "r": 55.8
+   "a20": 4469.26,
+   "r": 55.3
   },
   {
    "s": "HG=F",
-   "p": 6.67,
-   "c": 1.37,
+   "p": 6.66,
+   "c": 1.32,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 58.9
+   "r": 58.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03163556,
-   "c": 0.38,
+   "p": 0.03164557,
+   "c": 0.39,
    "a50": 0.03119152,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040332.aspx"
   },
   {
-   "t": "BYD vs. Rivian: Evaluating the Better Automotive Stock to Buy for 2026",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as hot jobs report fuels Fed rate-hike bets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/byd-vs-rivian-evaluating-better-172242108.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-3-dow-sp-500-nasdaq-august-jobs-report-081005475.html"
   },
   {
    "t": "大樂透第115085期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040331.aspx"
   },
   {
-   "t": "Science Applications (SAIC) Grew Revenue 6% but Posted a 0.6 Book-to-Bill Ratio. Is the $22B Backlog Enough?",
+   "t": "Bread Savings review (2026): Home to high-interest online savings and CD accounts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/science-applications-saic-grew-revenue-171604286.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/review/bread-savings-review-203340890.html"
   },
   {
    "t": "美就業報告強化Fed升息預期　美股開盤走勢不一",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040330.aspx"
   },
   {
-   "t": "Dell Afterglow Continues. These Other Stocks Top Buy Points.",
+   "t": "Billions in U.S. Savings Bonds Have Stopped Earning Interest and Their Owners Don’t Know It. The Ones in Your Parents’ Drawer Went Silent at Exactly Year 30",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/stock-lists/new-highs/dell-stock-vodafone-vod-stock/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/billions-u-savings-bonds-stopped-172918026.html"
   },
   {
    "t": "路透：習近平擬率領大型商業代表團隨同訪美",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040329.aspx"
   },
   {
-   "t": "KNOT Offshore Partners LP Q2 2026 Earnings Call Summary",
+   "t": "Zegna’s (ZGN) Direct Sales Surge Can’t Fully Offset A Messier Profit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/knot-offshore-partners-lp-q2-171303273.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/zegna-zgn-direct-sales-surge-172258738.html"
   },
   {
    "t": "聯合國糧農組織：乾旱與戰爭推升8月食品價格",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040327.aspx"
   },
   {
-   "t": "After A Microsoft Stock Price Spike, An Options Strategy Aims For A Robust Profit In Weeks",
+   "t": "Stock Market Today: Dow Sinks As Inflation Report Looms; Oracle Up On OpenAI Buzz (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/microsoft-stock-msft-software-tech-options-markets-trade-strategy-income-investing-markets/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-august-jobs-report-lululemon-lulu/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美國8月非農就業新增16.2萬人超乎預期　失業率持平",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040323.aspx"
   },
   {
-   "t": "Why Marvell Stock Rallied Today",
+   "t": "Revolution Med (RVMD) Priced Rasonque at $39,800 per 30-Day Supply. Can Access Match the Clinical Breakthrough?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-rallied-today-172150765.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/revolution-med-rvmd-priced-rasonque-172228096.html"
   }
  ],
  "inst": {
