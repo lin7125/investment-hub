@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04 15:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-04 15:23（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 50.2,
-   "c": -8.06,
+   "p": 50.5,
+   "c": -7.51,
    "a50": 53.51,
    "a200": 44.15,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.89,
-   "r": 49.4
+   "a20": 49.91,
+   "r": 49.9
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.67,
-   "c": 0.16,
+   "p": 95.72,
+   "c": 0.21,
    "a50": 86.17,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.12,
-   "r": 61.5
+   "r": 61.6
   },
   {
    "s": "GC=F",
-   "p": 4510.5,
-   "c": 0.42,
-   "a50": 4240.6,
-   "a200": 4520.87,
+   "p": 4516.3,
+   "c": 0.55,
+   "a50": 4240.71,
+   "a200": 4520.9,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4471.19,
-   "r": 57.9
+   "a20": 4471.48,
+   "r": 58.3
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 1.0,
+   "p": 6.66,
+   "c": 1.19,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.57,
-   "r": 57.5
+   "r": 58.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03159558,
-   "c": 0.23,
+   "p": 0.0315856,
+   "c": 0.21,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040140.aspx"
   },
   {
-   "t": "This Sector Is Fertile Ground For Buy Opportunities",
+   "t": "Nat-Gas Prices Rise on Hotter US Weather and Expectations of Smaller Storage",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/fertilizer-biofuel-corn-prices-agriculture-stocks/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/energy/articles/nat-gas-prices-rise-hotter-191347980.html"
   },
   {
    "t": "9月電子期金融期齊漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040139.aspx"
   },
   {
-   "t": "Solana Price Eyes $120 as ETF Inflows Extend Bullish Streak",
+   "t": "Crude Oil Prices Supported by Escalation of US-Iran Hostilities",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/solana-price-eyes-120-etf-190832179.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-supported-escalation-191450462.html"
   },
   {
    "t": "台股量縮上漲693點　以46551點作收重登5日均線",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040135.aspx"
   },
   {
-   "t": "Nat-Gas Prices Rise on Hotter US Weather and Expectations of Smaller Storage",
+   "t": "Mortgage & refinance rates today, Wednesday, September 2, 2026: Rates up double digits as Iran war reescalates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/nat-gas-prices-rise-hotter-191347980.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage--refinance-rates-today-wednesday-september-2-2026-rates-up-double-digits-as-iran-war-reescalates-100000964.html"
   },
   {
    "t": "台股漲693.47點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040133.aspx"
   },
   {
-   "t": "Crude Oil Prices Supported by Escalation of US-Iran Hostilities",
+   "t": "PE borrowing for shareholder payouts shrinks in 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-supported-escalation-191450462.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/pe-borrowing-shareholder-payouts-shrinks-192031326.html"
   },
   {
    "t": "綠捷巡檢機器人切入半導體廠　四足機器人明年拚應用",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040121.aspx"
   },
   {
-   "t": "Datadog Just Dropped 22% in a Month: Sell Now, or Buy More?",
+   "t": "Truist vs. U.S. Bancorp: Both Pay $0.52, but Only One Dividend Is Growing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/datadog-just-dropped-22-month-191010487.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/truist-vs-u-bancorp-both-191155267.html"
   }
  ],
  "inst": {
