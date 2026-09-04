@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05 04:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-05 04:31（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.58,
-   "c": 1.82,
+   "p": 14.53,
+   "c": 1.47,
    "a50": 16.2,
    "a200": 18.25,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.1,
-   "r": 45.2
+   "r": 44.9
   },
   {
    "s": "BZ=F",
-   "p": 96.06,
-   "c": 0.57,
-   "a50": 86.18,
+   "p": 95.99,
+   "c": 0.49,
+   "a50": 86.17,
    "a200": 83.84,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.14,
-   "r": 62.1
+   "r": 62.0
   },
   {
    "s": "GC=F",
-   "p": 4479.0,
-   "c": -0.28,
-   "a50": 4239.97,
-   "a200": 4520.71,
+   "p": 4477.8,
+   "c": -0.31,
+   "a50": 4239.94,
+   "a200": 4520.7,
    "yh": 5318.4,
    "yl": 3613.2,
-   "a20": 4469.61,
-   "r": 55.9
+   "a20": 4469.55,
+   "r": 55.8
   },
   {
    "s": "HG=F",
    "p": 6.67,
-   "c": 1.37,
+   "c": 1.35,
    "a50": 6.42,
    "a200": 5.99,
    "yh": 6.71,
    "yl": 4.48,
    "a20": 6.58,
-   "r": 58.9
+   "r": 58.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03164557,
-   "c": 0.39,
+   "p": 0.03165559,
+   "c": 0.41,
    "a50": 0.03119152,
    "a200": 0.03156566,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609050002.aspx"
   },
   {
-   "t": "Elliott Takes Stake in Deutsche Telekom, Opposes T-Mobile Deal",
+   "t": "Spinnova files SEC registration for US IPO and dual listing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026/card/elliott-takes-stake-in-deutsche-telekom-opposes-t-mobile-deal-NwlVebgEnQ4rJ1uoIoXd?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spinnova-files-sec-registration-us-103725081.html"
   },
   {
    "t": "今彩539第115215期　頭獎1注中獎",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040332.aspx"
   },
   {
-   "t": "Broadcom just took a page from Dell and Nvidia",
+   "t": "Morning Bid: Labor days",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/broadcom-just-took-a-page-from-dell-and-nvidia-102718498.html"
+   "u": "https://finance.yahoo.com/markets/articles/morning-bid-labor-days-103821254.html"
   },
   {
    "t": "大樂透第115085期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609040331.aspx"
   },
   {
-   "t": "PENN Entertainment (PENN) Swings To Profit As Debt Comes Down",
+   "t": "Dentsply Sirona (XRAY) Swings Back To Profit While Sales Keep Sliding",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/penn-entertainment-penn-swings-profit-103133484.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dentsply-sirona-xray-swings-back-103804322.html"
   },
   {
    "t": "美就業報告強化Fed升息預期　美股開盤走勢不一",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609040330.aspx"
   },
   {
-   "t": "Is Arista Networks Stock Outperforming the Dow?",
+   "t": "How Is Cadence Design Systems’ Stock Performance Compared to Other Application Software Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-outperforming-dow-102505909.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-stock-performance-103740747.html"
   },
   {
    "t": "路透：習近平擬率領大型商業代表團隨同訪美",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040329.aspx"
   },
   {
-   "t": "Is Duke Energy Stock Underperforming the Nasdaq?",
+   "t": "Stock Futures Muted as Bond Yields Stabilize, U.S. Economic Data and Fed Speak on Tap",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-stock-underperforming-nasdaq-102450843.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-muted-bond-yields-103414503.html"
   },
   {
    "t": "聯合國糧農組織：乾旱與戰爭推升8月食品價格",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609040327.aspx"
   },
   {
-   "t": "Bitcoin price recovery narrows odds on higher 2026 targets, prediction market data shows",
+   "t": "Smucker CEO Sells 84,821 Shares For $11.1 Million: Routine or Worrisome?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-recovery-narrows-odds-103200652.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/smucker-ceo-sells-84-821-103801569.html"
   }
  ],
  "inst": {
