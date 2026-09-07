@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08 07:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-08 07:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.23,
-   "c": 0.99,
-   "a50": 86.68,
+   "p": 97.28,
+   "c": 1.04,
+   "a50": 86.69,
    "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.63,
-   "r": 63.9
+   "r": 64.0
   },
   {
    "s": "GC=F",
-   "p": 4456.9,
+   "p": 4456.7,
    "c": 0.61,
-   "a50": 4246.55,
+   "a50": 4246.54,
    "a200": 4522.44,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.91,
-   "r": 54.1
+   "a20": 4471.9,
+   "r": 54.0
   },
   {
    "s": "HG=F",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070307.aspx"
   },
   {
-   "t": "Here's the stark reality of a $1.5 million retirement in America — 2026 edition",
+   "t": "Bruker (BRKR) Wagers On Fusion Energy While Wall Street Waits",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/heres-stark-reality-1-5-144500049.html"
+   "u": "https://finance.yahoo.com/energy/articles/bruker-brkr-wagers-fusion-energy-144830622.html"
   },
   {
    "t": "今彩539第115217期　頭獎1注中獎",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609070303.aspx"
   },
   {
-   "t": "Bruker (BRKR) Wagers On Fusion Energy While Wall Street Waits",
+   "t": "Here's the stark reality of a $1.5 million retirement in America — 2026 edition",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/bruker-brkr-wagers-fusion-energy-144830622.html"
+   "u": "https://finance.yahoo.com/markets/articles/heres-stark-reality-1-5-144500049.html"
   },
   {
    "t": "威力彩頭獎4.1億元1注獨得　獎落台中南屯",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070301.aspx"
   },
   {
-   "t": "Primerica’s (PRI) Investment Boom Masks A Shrinking Sales Force",
+   "t": "Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries — and pushing rates higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/primerica-pri-investment-boom-masks-142135413.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/mohamed-el-erian-says-influx-153000281.html"
   },
   {
    "t": "歐元區第二季GDP上修至0.6%　愛爾蘭經濟季增10.2%",
