@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07 15:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 15:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 48.9,
-   "c": -3.55,
+   "p": 48.95,
+   "c": -3.45,
    "a50": 53.05,
    "a200": 44.33,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 49.65,
-   "r": 47.4
+   "r": 47.5
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 59.9,
-   "c": 0.17,
+   "p": 60.0,
+   "c": 0.33,
    "a50": 57.91,
    "a200": 57.65,
    "yh": 74.3,
    "yl": 37.6,
    "a20": 56.01,
-   "r": 62.8
+   "r": 63.0
   },
   {
    "s": "AAPL",
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03168568,
-   "c": 0.44,
+   "c": 0.43,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070120.aspx"
   },
   {
-   "t": "Southwest Gas’s (SWX) Pipeline Bet Just Got $600M Bigger",
+   "t": "Everus (ECG) Bets $295M On Modular Construction’s Future",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/southwest-gas-swx-pipeline-bet-192801901.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/everus-ecg-bets-295m-modular-195345603.html"
   },
   {
    "t": "9月電子期金融期齊漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070116.aspx"
   },
   {
-   "t": "Everus (ECG) Bets $295M On Modular Construction’s Future",
+   "t": "Forget Stock-Picking. The Stock Market Is Just 1 Big Trade Now.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/everus-ecg-bets-295m-modular-195345603.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/forget-stock-picking-stock-market-200002004.html"
   },
   {
    "t": "憂中國殖民供應鏈　歐盟產業示警30萬個工作恐不保",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070114.aspx"
   },
   {
-   "t": "Forget Stock-Picking. The Stock Market Is Just 1 Big Trade Now.",
+   "t": "EPAM Systems (EPAM) Turns To Cybersecurity As Core Growth Cools",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/forget-stock-picking-stock-market-200002004.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/epam-systems-epam-turns-cybersecurity-201006224.html"
   },
   {
    "t": "台積電、聯發科領漲　台股勁揚775點收47326點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070112.aspx"
   },
   {
-   "t": "EPAM Systems (EPAM) Turns To Cybersecurity As Core Growth Cools",
+   "t": "Southwest Gas’s (SWX) Pipeline Bet Just Got $600M Bigger",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/epam-systems-epam-turns-cybersecurity-201006224.html"
+   "u": "https://finance.yahoo.com/energy/articles/southwest-gas-swx-pipeline-bet-192801901.html"
   },
   {
    "t": "台股大漲775.14點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070111.aspx"
   },
   {
-   "t": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
+   "t": "Triumph Financial COO Edward Schreyer Sells 2,900 Shares for $213,875",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/prediction-amazon-join-nvidia-apple-194000818.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/triumph-financial-coo-edward-schreyer-195001759.html"
   }
  ],
  "inst": {
