@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07 14:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 15:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 48.9,
-   "c": -3.55,
+   "p": 48.95,
+   "c": -3.45,
    "a50": 53.05,
    "a200": 44.33,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 49.65,
-   "r": 47.4
+   "r": 47.5
   },
   {
    "s": "6223.TWO",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03170577,
-   "c": 0.48,
+   "p": 0.03169572,
+   "c": 0.47,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070120.aspx"
   },
   {
-   "t": "Installed Building Products (IBP) Grows Revenue While Margins Quietly Slip",
+   "t": "Southwest Gas’s (SWX) Pipeline Bet Just Got $600M Bigger",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/installed-building-products-ibp-grows-191221244.html"
+   "u": "https://finance.yahoo.com/energy/articles/southwest-gas-swx-pipeline-bet-192801901.html"
   },
   {
    "t": "9月電子期金融期齊漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070116.aspx"
   },
   {
-   "t": "Freedom Broker Turns Bullish on Argan (AGX) After Record Quarter",
+   "t": "Magnolia Oil & Gas (MGY) Doubles Profits While Betting Big On Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/freedom-broker-turns-bullish-argan-190902032.html"
+   "u": "https://finance.yahoo.com/energy/articles/magnolia-oil-gas-mgy-doubles-192051152.html"
   },
   {
    "t": "憂中國殖民供應鏈　歐盟產業示警30萬個工作恐不保",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070114.aspx"
   },
   {
-   "t": "Magnolia Oil & Gas (MGY) Doubles Profits While Betting Big On Growth",
+   "t": "Everus (ECG) Bets $295M On Modular Construction’s Future",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/magnolia-oil-gas-mgy-doubles-192051152.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/everus-ecg-bets-295m-modular-195345603.html"
   },
   {
    "t": "台積電、聯發科領漲　台股勁揚775點收47326點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070112.aspx"
   },
   {
-   "t": "Southwest Gas’s (SWX) Pipeline Bet Just Got $600M Bigger",
+   "t": "Forget Stock-Picking. The Stock Market Is Just 1 Big Trade Now.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/southwest-gas-swx-pipeline-bet-192801901.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/forget-stock-picking-stock-market-200002004.html"
   },
   {
    "t": "台股大漲775.14點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070111.aspx"
   },
   {
-   "t": "ASML vs. Taiwan Semiconductor: Which Semiconductor Monopoly Is the Safer Investment?",
+   "t": "Tesla's Cybercab 'Storm' Was More of a 'Drizzle,' WSJ's Tim Higgins Says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/asml-vs-taiwan-semiconductor-semiconductor-192000370.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/teslas-cybercab-storm-more-drizzle-193401400.html"
   }
  ],
  "inst": {
