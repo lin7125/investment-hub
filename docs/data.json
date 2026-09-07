@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07 13:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 13:48（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -36,36 +36,36 @@
   },
   {
    "s": "2454.TW",
-   "p": 4800.0,
-   "c": 8.72,
-   "a50": 3909.9,
-   "a200": 2666.88,
-   "yh": 4800.0,
+   "p": 4775.0,
+   "c": 8.15,
+   "a50": 3909.4,
+   "a200": 2666.75,
+   "yh": 4775.0,
    "yl": 1145.0,
-   "a20": 4055.25,
-   "r": 71.4
+   "a20": 4054.0,
+   "r": 71.0
   },
   {
    "s": "2327.TW",
-   "p": 585.0,
-   "c": 4.09,
-   "a50": 673.91,
-   "a200": 454.96,
+   "p": 589.0,
+   "c": 4.8,
+   "a50": 673.99,
+   "a200": 454.98,
    "yh": 1140.0,
    "yl": 137.5,
-   "a20": 573.7,
-   "r": 49.6
+   "a20": 573.9,
+   "r": 50.1
   },
   {
    "s": "1802.TW",
-   "p": 60.8,
-   "c": 2.88,
+   "p": 61.0,
+   "c": 3.21,
    "a50": 58.22,
    "a200": 54.7,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 58.6,
-   "r": 57.4
+   "a20": 58.61,
+   "r": 57.9
   },
   {
    "s": "6862.TW",
@@ -80,47 +80,47 @@
   },
   {
    "s": "3701.TW",
-   "p": 40.85,
-   "c": -2.62,
+   "p": 40.9,
+   "c": -2.5,
    "a50": 40.77,
    "a200": 49.25,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.9,
-   "r": 49.2
+   "r": 49.4
   },
   {
    "s": "4722.TW",
-   "p": 202.5,
-   "c": 1.0,
-   "a50": 221.1,
-   "a200": 201.3,
+   "p": 200.0,
+   "c": -0.25,
+   "a50": 221.05,
+   "a200": 201.29,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 206.75,
-   "r": 45.5
+   "a20": 206.62,
+   "r": 43.8
   },
   {
    "s": "6706.TW",
-   "p": 124.0,
-   "c": -2.36,
-   "a50": 121.07,
-   "a200": 130.23,
+   "p": 124.5,
+   "c": -1.97,
+   "a50": 121.08,
+   "a200": 130.24,
    "yh": 216.5,
    "yl": 62.9,
-   "a20": 121.42,
-   "r": 52.7
+   "a20": 121.45,
+   "r": 53.2
   },
   {
    "s": "2305.TW",
-   "p": 33.4,
-   "c": 8.27,
+   "p": 33.35,
+   "c": 8.1,
    "a50": 31.72,
    "a200": 20.0,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.94,
-   "r": 61.4
+   "a20": 28.93,
+   "r": 61.3
   },
   {
    "s": "6442.TW",
@@ -135,25 +135,25 @@
   },
   {
    "s": "6515.TW",
-   "p": 7030.0,
-   "c": -0.64,
-   "a50": 6872.9,
-   "a200": 6317.85,
+   "p": 7015.0,
+   "c": -0.85,
+   "a50": 6872.6,
+   "a200": 6317.78,
    "yh": 10795.0,
    "yl": 1595.0,
-   "a20": 6589.5,
-   "r": 57.1
+   "a20": 6588.75,
+   "r": 56.8
   },
   {
    "s": "6446.TW",
-   "p": 1305.0,
-   "c": -0.38,
-   "a50": 1301.98,
-   "a200": 783.08,
+   "p": 1325.0,
+   "c": 1.15,
+   "a50": 1302.38,
+   "a200": 783.18,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1423.0,
-   "r": 45.9
+   "a20": 1424.0,
+   "r": 47.5
   },
   {
    "s": "3324.TWO",
@@ -168,47 +168,47 @@
   },
   {
    "s": "3491.TWO",
-   "p": 1520.0,
-   "c": 1.0,
-   "a50": 1275.54,
-   "a200": 1265.54,
+   "p": 1510.0,
+   "c": 0.33,
+   "a50": 1275.34,
+   "a200": 1265.49,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1363.0,
-   "r": 60.5
+   "a20": 1362.5,
+   "r": 60.0
   },
   {
    "s": "3585.TWO",
-   "p": 49.2,
-   "c": -2.96,
-   "a50": 53.06,
+   "p": 49.15,
+   "c": -3.06,
+   "a50": 53.05,
    "a200": 44.33,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.67,
+   "a20": 49.66,
    "r": 47.8
   },
   {
    "s": "6223.TWO",
-   "p": 5475.0,
-   "c": 6.21,
-   "a50": 5901.4,
-   "a200": 4288.95,
+   "p": 5490.0,
+   "c": 6.5,
+   "a50": 5901.7,
+   "a200": 4289.02,
    "yh": 7380.0,
    "yl": 1425.0,
-   "a20": 5556.0,
-   "r": 48.8
+   "a20": 5556.75,
+   "r": 49.1
   },
   {
    "s": "6750.TWO",
-   "p": 59.6,
-   "c": -0.33,
-   "a50": 57.91,
-   "a200": 57.65,
+   "p": 59.0,
+   "c": -1.34,
+   "a50": 57.89,
+   "a200": 57.64,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 55.99,
-   "r": 61.6
+   "a20": 55.96,
+   "r": 59.1
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 47299.09,
-   "c": 1.61,
-   "a50": 44952.59,
-   "a200": 37340.1,
+   "p": 47257.94,
+   "c": 1.52,
+   "a50": 44951.77,
+   "a200": 37339.89,
    "yh": 47741.51,
    "yl": 24547.38,
-   "a20": 45776.77,
-   "r": 62.6
+   "a20": 45774.72,
+   "r": 62.4
   },
   {
    "s": "^GSPC",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070083.aspx"
   },
   {
-   "t": "Valaris (VAL) Swings Back to Profit, but Middle East Costs Linger",
+   "t": "Clear Secure’s (YOU) Profits Are Soaring While Growth Signals Cool",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/valaris-val-swings-back-profit-181758119.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/clear-secure-profits-soaring-while-182450116.html"
   },
   {
    "t": "中秋網購防假網站詐騙　數產署籲核對官方資訊與網址",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609070081.aspx"
   },
   {
-   "t": "Management Reiterates Optimistic FY26 Guidance for Intuitive Machines (LUNR)",
+   "t": "Tesla’s Mixed European Sales Send Clear Signal on Regional Demand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/management-reiterates-optimistic-fy26-guidance-181230241.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tesla-mixed-european-sales-send-183002623.html"
   },
   {
    "t": "葉啓洲任金融消費評議中心董事長　盼強化消費者保護",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070080.aspx"
   },
   {
-   "t": "Clear Secure’s (YOU) Profits Are Soaring While Growth Signals Cool",
+   "t": "Snowflake (SNOW)’s AI Flywheel Transitions into a Growth Engine",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/clear-secure-profits-soaring-while-182450116.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/snowflake-snow-ai-flywheel-transitions-183449975.html"
   },
   {
    "t": "漢翔民用業務邁大步　再奪龐巴迪前機身20年訂單",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070079.aspx"
   },
   {
-   "t": "Profits Slide At Red Rock Resorts (RRR) Even As Dividends Hold",
+   "t": "Jim Cramer Explains Why He Is Avoiding Big Predictions on Rocket Companies (RKT)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/profits-slide-red-rock-resorts-180949235.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-avoiding-183939972.html"
   },
   {
    "t": "新台幣午盤升2.3分　暫收31.607元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070077.aspx"
   },
   {
-   "t": "Why I Just Added to My Chevron Position Despite Trump Criticism",
+   "t": "Why the jobs report will actually be good for bonds",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/why-just-added-chevron-position-181300131.html"
+   "u": "https://finance.yahoo.com/economy/articles/why-jobs-report-actually-good-183600544.html"
   }
  ],
  "inst": {
