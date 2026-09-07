@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07 17:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 20:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,14 +278,14 @@
   },
   {
    "s": "^VIX",
-   "p": 15.05,
-   "c": 3.58,
-   "a50": 16.13,
+   "p": 15.24,
+   "c": 4.89,
+   "a50": 16.14,
    "a200": 18.21,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.08,
-   "r": 47.8
+   "a20": 15.09,
+   "r": 48.7
   },
   {
    "s": "BZ=F",
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03172589,
-   "c": 0.54,
+   "c": 0.56,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "瑞銀要求應徵者展現AI能力　科技重塑銀行招募方式",
+   "t": "卓榮泰：保存國家歷史檔案有助於團結人民",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/aopl/202609070215.aspx"
+   "u": "https://www.cna.com.tw/news/aipl/202609070261.aspx"
   },
   {
    "t": "Scott Galloway issues grim SpaceX stock price forecast",
@@ -344,58 +344,58 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-issues-grim-spacex-173300856.html"
   },
   {
-   "t": "保瑞8月營收寫單月次高　委託製造訂單出貨挹注",
+   "t": "宏達電8月營收月增近4成　布局AI眼鏡與應用服務",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070211.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070254.aspx"
   },
   {
-   "t": "Walt Disney mortgaged his house and sold his car to fund Snow White — his wife said she 'never felt secure'",
+   "t": "Intuitive Surgical (ISRG): Embracing AI Innovations in Robotic Surgery for Future Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/walt-disney-mortgaged-house-sold-093000183.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/intuitive-surgical-isrg-embracing-ai-123044580.html"
   },
   {
-   "t": "12家台灣新創首度進軍IFA　與歐業者簽合作協議",
+   "t": "日本市場挹注　望隼8月營收創新高、晶碩寫次高",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070209.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070253.aspx"
   },
   {
-   "t": "Is the stock market open on Labor Day? Here's the holiday trading schedule for 2026.",
+   "t": "ASML Holding N.V. (ASML) Well Positioned as AI Fuels Chip Complexity",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-labor-day-heres-the-holiday-trading-schedule-for-2026-210239142.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-n-v-asml-122438281.html"
   },
   {
-   "t": "補丁科技9/16以740元登錄興櫃　南亞科持股約35%",
+   "t": "台股集中市場8月有交易戶數529萬戶　連2降",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070205.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070252.aspx"
   },
   {
-   "t": "Baidu Just Gained Shanghai and Shenzhen Stock Connect Access. Is It Now a Better AI Bet Than Alibaba?",
+   "t": "Audi introduces new compact EV in bid to boost European sales",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/baidu-just-gained-shanghai-shenzhen-090038693.html"
+   "u": "https://finance.yahoo.com/news/audi-introduces-compact-ev-bid-113825482.html"
   },
   {
-   "t": "研華8月營收104億元創歷史次高　連3月破百億",
+   "t": "台股大漲助攻　新台幣升7.8分收31.552元",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070204.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070247.aspx"
   },
   {
-   "t": "Nova (NVMI) Just Blew Past $250M In Quarterly Sales",
+   "t": "In a stalled exit market, sponsors are consolidating their way out",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nova-nvmi-just-blew-past-085257584.html"
+   "u": "https://finance.yahoo.com/small-business/articles/stalled-exit-market-sponsors-consolidating-112415745.html"
   },
   {
-   "t": "受惠MLCC應用　勤凱8月營收衝高、9月擴產拚量",
+   "t": "玉晶光8月營收月增12.26%　佳能創近10年單月新高",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070203.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070244.aspx"
   },
   {
    "t": "Gap closed 350 stores and now has an Old Navy problem",
@@ -414,8 +414,8 @@
    },
    "2327": {
     "f": 6448,
-    "t": -117,
-    "all": 7279
+    "t": -110,
+    "all": 7286
    },
    "1802": {
     "f": 5993,
@@ -424,8 +424,8 @@
    },
    "2454": {
     "f": 2913,
-    "t": 911,
-    "all": 4268
+    "t": 920,
+    "all": 4276
    },
    "2305": {
     "f": 688,
@@ -478,6 +478,6 @@
     "all": -3299
    }
   },
-  "totalNetE": 1138.7
+  "totalNetE": 1127.2
  }
 }
