@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08 06:15（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-08 06:25（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 96.28,
-   "c": 0.0,
-   "a50": 86.67,
-   "a200": 84.0,
+   "p": 97.22,
+   "c": 0.98,
+   "a50": 86.68,
+   "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.58,
-   "r": 62.4
+   "a20": 91.63,
+   "r": 63.9
   },
   {
    "s": "GC=F",
-   "p": 4476.6,
-   "c": 1.06,
-   "a50": 4246.94,
-   "a200": 4522.54,
+   "p": 4458.4,
+   "c": 0.65,
+   "a50": 4246.58,
+   "a200": 4522.45,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.89,
-   "r": 55.2
+   "a20": 4471.98,
+   "r": 54.1
   },
   {
    "s": "HG=F",
-   "p": 6.68,
-   "c": 1.3,
+   "p": 6.73,
+   "c": 2.01,
    "a50": 6.43,
    "a200": 5.99,
-   "yh": 6.71,
+   "yh": 6.73,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 60.0
+   "r": 62.3
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609070303.aspx"
   },
   {
-   "t": "The VIX Is Playing Tricks: Why Stocks Are Volatile, But the Fear Gauge Is Sleeping",
+   "t": "Alexandria’s (ARE) Profit Rebound Comes With A Cash Flow Catch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/vix-playing-tricks-why-stocks-133002657.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/alexandria-profit-rebound-comes-cash-135541164.html"
   },
   {
    "t": "威力彩頭獎4.1億元1注獨得　獎落台中南屯",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609070302.aspx"
   },
   {
-   "t": "Wynn Resorts (WYNN) Doubles Its Profit But Cracks Are Showing",
+   "t": "The VIX Is Playing Tricks: Why Stocks Are Volatile, But the Fear Gauge Is Sleeping",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wynn-resorts-wynn-doubles-profit-132704112.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/vix-playing-tricks-why-stocks-133002657.html"
   },
   {
    "t": "網傳瑞幸咖啡將在台開幕　經部：已發函要求循投資管道申請",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070301.aspx"
   },
   {
-   "t": "Alexandria’s (ARE) Profit Rebound Comes With A Cash Flow Catch",
+   "t": "Wynn Resorts (WYNN) Doubles Its Profit But Cracks Are Showing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/alexandria-profit-rebound-comes-cash-135541164.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wynn-resorts-wynn-doubles-profit-132704112.html"
   },
   {
    "t": "歐元區第二季GDP上修至0.6%　愛爾蘭經濟季增10.2%",
