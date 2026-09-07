@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07 17:34（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 17:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 15.06,
-   "c": 3.65,
+   "p": 15.05,
+   "c": 3.58,
    "a50": 16.13,
    "a200": 18.21,
    "yh": 31.05,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03172589,
-   "c": 0.56,
+   "c": 0.54,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "新台幣升7.8分　收31.552元",
+   "t": "瑞銀要求應徵者展現AI能力　科技重塑銀行招募方式",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070168.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609070215.aspx"
   },
   {
    "t": "Scott Galloway issues grim SpaceX stock price forecast",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-issues-grim-spacex-173300856.html"
   },
   {
-   "t": "SMAT發布六都交通政策建言書　提3大核心建言",
+   "t": "保瑞8月營收寫單月次高　委託製造訂單出貨挹注",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070161.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070211.aspx"
   },
   {
    "t": "Is the stock market open on Labor Day? Here's the holiday trading schedule for 2026.",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-labor-day-heres-the-holiday-trading-schedule-for-2026-210239142.html"
   },
   {
-   "t": "嚴防洗產地與違規轉運　經部裁處257件產地標示不實案",
+   "t": "12家台灣新創首度進軍IFA　與歐業者簽合作協議",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070157.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070209.aspx"
   },
   {
    "t": "Baidu Just Gained Shanghai and Shenzhen Stock Connect Access. Is It Now a Better AI Bet Than Alibaba?",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/baidu-just-gained-shanghai-shenzhen-090038693.html"
   },
   {
-   "t": "華航9/16起再漲貨運燃油附加費　反映國際油價",
+   "t": "補丁科技9/16以740元登錄興櫃　南亞科持股約35%",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070155.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070205.aspx"
   },
   {
    "t": "Nova (NVMI) Just Blew Past $250M In Quarterly Sales",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/nova-nvmi-just-blew-past-085257584.html"
   },
   {
-   "t": "群光布局AI影像市場　打進美國機器人新創供應鏈",
+   "t": "研華8月營收104億元創歷史次高　連3月破百億",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070152.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070204.aspx"
   },
   {
    "t": "Essential Utilities (WTRG) Keeps Growing While Profits Quietly Slide",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-wtrg-keeps-growing-084612803.html"
   },
   {
-   "t": "三大法人買超台股1138.65億元",
+   "t": "受惠MLCC應用　勤凱8月營收衝高、9月擴產拚量",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070147.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070203.aspx"
   },
   {
    "t": "Gap closed 350 stores and now has an Old Navy problem",
