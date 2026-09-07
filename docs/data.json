@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07 15:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 15:31（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,14 +278,14 @@
   },
   {
    "s": "^VIX",
-   "p": 14.53,
-   "c": 1.47,
-   "a50": 16.2,
-   "a200": 18.25,
+   "p": 15.01,
+   "c": 3.3,
+   "a50": 16.13,
+   "a200": 18.21,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.1,
-   "r": 44.9
+   "a20": 15.08,
+   "r": 47.6
   },
   {
    "s": "BZ=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03168568,
-   "c": 0.43,
+   "p": 0.03169572,
+   "c": 0.47,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070120.aspx"
   },
   {
-   "t": "Everus (ECG) Bets $295M On Modular Construction’s Future",
+   "t": "Forget Stock-Picking. The Stock Market Is Just 1 Big Trade Now.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/everus-ecg-bets-295m-modular-195345603.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/forget-stock-picking-stock-market-200002004.html"
   },
   {
    "t": "9月電子期金融期齊漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070116.aspx"
   },
   {
-   "t": "Forget Stock-Picking. The Stock Market Is Just 1 Big Trade Now.",
+   "t": "Everus (ECG) Bets $295M On Modular Construction’s Future",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/forget-stock-picking-stock-market-200002004.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/everus-ecg-bets-295m-modular-195345603.html"
   },
   {
    "t": "憂中國殖民供應鏈　歐盟產業示警30萬個工作恐不保",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070111.aspx"
   },
   {
-   "t": "Triumph Financial COO Edward Schreyer Sells 2,900 Shares for $213,875",
+   "t": "AppFolio CEO William Trigg Sells 2,057 Shares",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/triumph-financial-coo-edward-schreyer-195001759.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/appfolio-ceo-william-trigg-sells-200001737.html"
   }
  ],
  "inst": {
