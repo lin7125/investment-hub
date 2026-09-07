@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07 16:23（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 16:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,14 +278,14 @@
   },
   {
    "s": "^VIX",
-   "p": 15.0,
-   "c": 3.23,
+   "p": 15.02,
+   "c": 3.37,
    "a50": 16.13,
    "a200": 18.21,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.08,
-   "r": 47.5
+   "r": 47.6
   },
   {
    "s": "BZ=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03173596,
-   "c": 0.59,
+   "p": 0.03174603,
+   "c": 0.63,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070147.aspx"
   },
   {
-   "t": "Coca-Cola Stock at $88: Here's Why Investors Should Pause",
+   "t": "Elon Musk Says Cybercab Is Gold to Reflect 'Golden Era' of Mobility as Tesla Launches Robotaxi With Starlink",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-88-heres-212617123.html"
+   "u": "https://finance.yahoo.com/technology/articles/elon-musk-says-cybercab-gold-213015412.html"
   }
  ],
  "inst": {
