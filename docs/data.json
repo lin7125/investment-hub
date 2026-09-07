@@ -1,214 +1,214 @@
 {
- "generatedAt": "2026-09-05 07:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 13:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2410.0,
-   "c": 0.84,
-   "a50": 2392.2,
-   "a200": 2013.38,
+   "p": 2455.0,
+   "c": 1.87,
+   "a50": 2393.9,
+   "a200": 2018.32,
    "yh": 2510.0,
-   "yl": 1160.0,
-   "a20": 2399.25,
-   "r": 52.3
+   "yl": 1180.0,
+   "a20": 2403.0,
+   "r": 57.4
   },
   {
    "s": "2317.TW",
-   "p": 256.0,
-   "c": 3.43,
-   "a50": 247.97,
-   "a200": 235.76,
+   "p": 256.5,
+   "c": 0.2,
+   "a50": 248.17,
+   "a200": 235.81,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 252.92,
-   "r": 54.2
+   "a20": 252.52,
+   "r": 54.6
   },
   {
    "s": "2308.TW",
-   "p": 1825.0,
-   "c": 3.69,
-   "a50": 1798.5,
-   "a200": 1580.22,
+   "p": 1845.0,
+   "c": 1.1,
+   "a50": 1797.3,
+   "a200": 1584.58,
    "yh": 2520.0,
-   "yl": 691.0,
-   "a20": 1798.0,
-   "r": 53.1
+   "yl": 726.0,
+   "a20": 1799.5,
+   "r": 54.6
   },
   {
    "s": "2454.TW",
-   "p": 4415.0,
-   "c": 1.73,
-   "a50": 3892.1,
-   "a200": 2649.08,
-   "yh": 4640.0,
+   "p": 4780.0,
+   "c": 8.27,
+   "a50": 3909.5,
+   "a200": 2666.78,
+   "yh": 4780.0,
    "yl": 1145.0,
-   "a20": 4013.25,
-   "r": 64.1
+   "a20": 4054.25,
+   "r": 71.1
   },
   {
    "s": "2327.TW",
-   "p": 562.0,
-   "c": 9.98,
-   "a50": 683.01,
-   "a200": 453.19,
+   "p": 587.0,
+   "c": 4.45,
+   "a50": 673.95,
+   "a200": 454.98,
    "yh": 1140.0,
-   "yl": 135.0,
-   "a20": 573.1,
-   "r": 46.6
+   "yl": 137.5,
+   "a20": 573.8,
+   "r": 49.9
   },
   {
    "s": "1802.TW",
-   "p": 59.1,
-   "c": 0.85,
-   "a50": 58.36,
-   "a200": 54.55,
+   "p": 60.9,
+   "c": 3.05,
+   "a50": 58.22,
+   "a200": 54.7,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 58.29,
-   "r": 53.0
+   "a20": 58.6,
+   "r": 57.7
   },
   {
    "s": "6862.TW",
-   "p": 140.0,
-   "c": 0.72,
-   "a50": 152.36,
-   "a200": 173.75,
+   "p": 140.5,
+   "c": 0.36,
+   "a50": 151.5,
+   "a200": 173.63,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 141.0,
-   "r": 45.2
+   "a20": 140.57,
+   "r": 46.0
   },
   {
    "s": "3701.TW",
-   "p": 41.95,
-   "c": 3.71,
-   "a50": 40.83,
-   "a200": 49.22,
+   "p": 40.95,
+   "c": -2.38,
+   "a50": 40.77,
+   "a200": 49.26,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.91,
-   "r": 53.0
+   "a20": 40.9,
+   "r": 49.5
   },
   {
    "s": "4722.TW",
-   "p": 200.5,
-   "c": 2.56,
-   "a50": 223.18,
-   "a200": 201.14,
+   "p": 202.0,
+   "c": 0.75,
+   "a50": 221.09,
+   "a200": 201.3,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 207.4,
-   "r": 44.1
+   "a20": 206.72,
+   "r": 45.1
   },
   {
    "s": "6706.TW",
-   "p": 127.0,
-   "c": 5.39,
-   "a50": 121.4,
-   "a200": 130.02,
+   "p": 124.0,
+   "c": -2.36,
+   "a50": 121.07,
+   "a200": 130.23,
    "yh": 216.5,
-   "yl": 62.2,
-   "a20": 120.98,
-   "r": 55.9
+   "yl": 62.9,
+   "a20": 121.42,
+   "r": 52.7
   },
   {
    "s": "2305.TW",
-   "p": 30.85,
-   "c": 2.49,
-   "a50": 31.77,
-   "a200": 19.89,
+   "p": 33.15,
+   "c": 7.46,
+   "a50": 31.71,
+   "a200": 20.0,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 28.72,
-   "r": 54.5
+   "a20": 28.92,
+   "r": 60.8
   },
   {
    "s": "6442.TW",
-   "p": 1755.0,
-   "c": -0.85,
-   "a50": 1470.6,
-   "a200": 1642.48,
+   "p": 1715.0,
+   "c": -2.28,
+   "a50": 1472.9,
+   "a200": 1646.48,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1593.0,
-   "r": 63.3
+   "a20": 1607.5,
+   "r": 59.8
   },
   {
    "s": "6515.TW",
-   "p": 7075.0,
-   "c": 1.07,
-   "a50": 6892.6,
-   "a200": 6293.72,
+   "p": 7070.0,
+   "c": -0.07,
+   "a50": 6873.7,
+   "a200": 6318.05,
    "yh": 10795.0,
-   "yl": 1590.0,
-   "a20": 6579.5,
-   "r": 58.2
+   "yl": 1595.0,
+   "a20": 6591.5,
+   "r": 58.1
   },
   {
    "s": "6446.TW",
    "p": 1310.0,
-   "c": -2.96,
-   "a50": 1298.77,
-   "a200": 778.78,
+   "c": 0.0,
+   "a50": 1302.08,
+   "a200": 783.1,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1424.25,
+   "a20": 1423.25,
    "r": 46.3
   },
   {
    "s": "3324.TWO",
-   "p": 1485.0,
-   "c": 10.0,
-   "a50": 1009.94,
-   "a200": 1007.12,
+   "p": 1440.0,
+   "c": -3.03,
+   "a50": 1018.84,
+   "a200": 1009.12,
    "yh": 1485.0,
-   "yl": 643.0,
-   "a20": 1116.7,
-   "r": 76.4
+   "yl": 708.0,
+   "a20": 1138.2,
+   "r": 71.6
   },
   {
    "s": "3491.TWO",
-   "p": 1505.0,
-   "c": 7.12,
-   "a50": 1271.34,
-   "a200": 1260.04,
+   "p": 1515.0,
+   "c": 0.66,
+   "a50": 1275.44,
+   "a200": 1265.51,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1348.75,
-   "r": 59.8
+   "a20": 1362.75,
+   "r": 60.3
   },
   {
    "s": "3585.TWO",
-   "p": 50.7,
-   "c": -7.14,
-   "a50": 53.52,
-   "a200": 44.15,
+   "p": 49.2,
+   "c": -2.96,
+   "a50": 53.06,
+   "a200": 44.33,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.92,
-   "r": 50.2
+   "a20": 49.67,
+   "r": 47.8
   },
   {
    "s": "6223.TWO",
-   "p": 5155.0,
-   "c": 2.18,
-   "a50": 5913.1,
-   "a200": 4270.55,
+   "p": 5465.0,
+   "c": 6.01,
+   "a50": 5901.2,
+   "a200": 4288.9,
    "yh": 7380.0,
-   "yl": 1385.0,
-   "a20": 5593.5,
-   "r": 42.9
+   "yl": 1425.0,
+   "a20": 5555.5,
+   "r": 48.7
   },
   {
    "s": "6750.TWO",
-   "p": 59.8,
-   "c": 0.67,
-   "a50": 58.0,
-   "a200": 57.56,
+   "p": 59.9,
+   "c": 0.17,
+   "a50": 57.91,
+   "a200": 57.65,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.0,
-   "r": 62.5
+   "a20": 56.01,
+   "r": 62.8
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45857.66,
-   "c": -0.67,
-   "a50": 44892.13,
-   "a200": 37148.45,
+   "p": 47272.34,
+   "c": 1.55,
+   "a50": 44952.06,
+   "a200": 37339.96,
    "yh": 47741.51,
-   "yl": 24179.85,
-   "a20": 45542.0,
-   "r": 54.2
+   "yl": 24547.38,
+   "a20": 45775.44,
+   "r": 62.4
   },
   {
    "s": "^GSPC",
@@ -289,119 +289,119 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.83,
-   "c": 0.32,
-   "a50": 86.17,
-   "a200": 83.84,
+   "p": 96.28,
+   "c": 0.0,
+   "a50": 86.67,
+   "a200": 84.0,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.13,
-   "r": 61.8
+   "a20": 91.58,
+   "r": 62.4
   },
   {
    "s": "GC=F",
-   "p": 4477.2,
-   "c": -0.32,
-   "a50": 4239.93,
-   "a200": 4520.7,
+   "p": 4476.6,
+   "c": 1.06,
+   "a50": 4246.94,
+   "a200": 4522.54,
    "yh": 5318.4,
-   "yl": 3613.2,
-   "a20": 4469.52,
-   "r": 55.7
+   "yl": 3636.9,
+   "a20": 4472.89,
+   "r": 55.2
   },
   {
    "s": "HG=F",
-   "p": 6.67,
-   "c": 1.38,
-   "a50": 6.42,
+   "p": 6.68,
+   "c": 1.3,
+   "a50": 6.43,
    "a200": 5.99,
    "yh": 6.71,
-   "yl": 4.48,
+   "yl": 4.49,
    "a20": 6.58,
-   "r": 58.9
+   "r": 60.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03164557,
-   "c": 0.4,
+   "p": 0.03165559,
+   "c": 0.34,
    "a50": 0.03119152,
-   "a200": 0.03156566,
+   "a200": 0.0315557,
    "yh": 0.033278,
    "yl": 0.030864
   }
  ],
  "news": [
   {
-   "t": "美就業數據強勁加深升息預期　美股多數收黑",
+   "t": "中東衝突加劇通膨　歐洲央行預計本週再度升息",
    "pub": "中央社財經",
-   "d": "2026-09-05",
-   "u": "https://www.cna.com.tw/news/afe/202609050006.aspx"
+   "d": "2026-09-07",
+   "u": "https://www.cna.com.tw/news/aopl/202609070087.aspx"
   },
   {
-   "t": "Mortgage Rates Hit New One-Year High",
+   "t": "39-year-old ammunition manufacturer files Chapter 11 bankruptcy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026/card/mortgage-rates-hit-new-one-year-high-Eg56AjcqP3gQDQVGprMm?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/small-business/articles/39-old-major-bullet-manufacturer-023300278.html"
   },
   {
-   "t": "美聯準會升息機率增　歐股互有漲跌",
+   "t": "秦永沛：半導體卓越製造技術研發無捷徑　續貢獻心力",
    "pub": "中央社財經",
-   "d": "2026-09-05",
-   "u": "https://www.cna.com.tw/news/afe/202609050002.aspx"
+   "d": "2026-09-07",
+   "u": "https://www.cna.com.tw/news/afe/202609070083.aspx"
   },
   {
-   "t": "Mortgage rates hit highest level in over a year: Mortgage and refinance interest rates today, Thursday, September 3, 2026",
+   "t": "Jim Cramer Shares His Playbook for Buying Applied Materials (AMAT)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-hit-highest-level-in-over-a-year-mortgage-and-refinance-interest-rates-today-thursday-september-3-2026-100000627.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-playbook-buying-175046599.html"
   },
   {
-   "t": "今彩539第115215期　頭獎1注中獎",
+   "t": "中秋網購防假網站詐騙　數產署籲核對官方資訊與網址",
    "pub": "中央社財經",
-   "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/ahel/202609040332.aspx"
+   "d": "2026-09-07",
+   "u": "https://www.cna.com.tw/news/ahel/202609070081.aspx"
   },
   {
-   "t": "Best Wells Fargo credit cards (2026)",
+   "t": "Extended Strategic Agreements to Support Management’s Full-Year 2026 Guidance Raise for ATI Inc. (ATI)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-wells-fargo-credit-cards-164310496.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/extended-strategic-agreements-support-management-175418389.html"
   },
   {
-   "t": "大樂透第115085期　頭獎槓龜",
+   "t": "葉啓洲任金融消費評議中心董事長　盼強化消費者保護",
    "pub": "中央社財經",
-   "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/ahel/202609040331.aspx"
+   "d": "2026-09-07",
+   "u": "https://www.cna.com.tw/news/afe/202609070080.aspx"
   },
   {
-   "t": "Billionaire Portfolios: Top 2 Real Estate Stocks With High Dividend Yields",
+   "t": "AerCap Holdings (AER) Inspires Confidence with 100th Boeing 787 Delivery",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/billionaire-portfolios-top-2-real-155623278.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/aercap-holdings-aer-inspires-confidence-180405092.html"
   },
   {
-   "t": "美就業報告強化Fed升息預期　美股開盤走勢不一",
+   "t": "漢翔民用業務邁大步　再奪龐巴迪前機身20年訂單",
    "pub": "中央社財經",
-   "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/afe/202609040330.aspx"
+   "d": "2026-09-07",
+   "u": "https://www.cna.com.tw/news/afe/202609070079.aspx"
   },
   {
-   "t": "Robinhood (HOOD) Positioned with Multiple Long Term Growth Drivers",
+   "t": "Lululemon (LULU) Struggles as Analysts Cut Targets, But Is the Story Over?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/robinhood-hood-positioned-multiple-long-155718430.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lululemon-lulu-struggles-analysts-cut-174243651.html"
   },
   {
-   "t": "路透：習近平擬率領大型商業代表團隨同訪美",
+   "t": "新台幣午盤升2.3分　暫收31.607元",
    "pub": "中央社財經",
-   "d": "2026-09-04",
-   "u": "https://www.cna.com.tw/news/aopl/202609040329.aspx"
+   "d": "2026-09-07",
+   "u": "https://www.cna.com.tw/news/afe/202609070077.aspx"
   },
   {
-   "t": "Meta Stock Has a New AI Catalyst. Is META Headed Back Toward Its All-Time High?",
+   "t": "High-Yield Dividend Investors Could Be Making This Expensive Tax Mistake",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-ai-catalyst-meta-160038690.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/high-yield-dividend-investors-could-175233783.html"
   }
  ],
  "inst": {
