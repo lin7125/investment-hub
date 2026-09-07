@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07 14:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 14:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 49.0,
-   "c": -3.35,
+   "p": 49.1,
+   "c": -3.16,
    "a50": 53.05,
    "a200": 44.33,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 49.66,
-   "r": 47.5
+   "r": 47.7
   },
   {
    "s": "6223.TWO",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03169572,
-   "c": 0.45,
+   "p": 0.03170577,
+   "c": 0.49,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070083.aspx"
   },
   {
-   "t": "Two Chip-Equipment Stocks Just Crushed Nvidia. Is the AI Rally Broadening?",
+   "t": "Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped More Than 7%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/two-chip-equipment-stocks-just-184332143.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-barely-moved-2-ai-185658418.html"
   },
   {
    "t": "中秋網購防假網站詐騙　數產署籲核對官方資訊與網址",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609070081.aspx"
   },
   {
-   "t": "Casella’s (CWST) Growth Machine Is Outrunning Its Own Profits",
+   "t": "These 2 AI Storage Stocks Soared as the S&P 500 Fell",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/casella-cwst-growth-machine-outrunning-184607744.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/2-ai-storage-stocks-soared-190028471.html"
   },
   {
    "t": "葉啓洲任金融消費評議中心董事長　盼強化消費者保護",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070080.aspx"
   },
   {
-   "t": "Jim Cramer Explains Why He Is Avoiding Big Predictions on Rocket Companies (RKT)",
+   "t": "The S&P 500 Fell, but These 2 AI Memory Stocks Exploded Higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-avoiding-183939972.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-fell-2-ai-190345284.html"
   },
   {
    "t": "漢翔民用業務邁大步　再奪龐巴迪前機身20年訂單",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070079.aspx"
   },
   {
-   "t": "Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped More Than 7%",
+   "t": "Freedom Broker Turns Bullish on Argan (AGX) After Record Quarter",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-barely-moved-2-ai-185658418.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/freedom-broker-turns-bullish-argan-190902032.html"
   },
   {
    "t": "新台幣午盤升2.3分　暫收31.607元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070077.aspx"
   },
   {
-   "t": "Cramer says investors should consider buying tumbling aviation giant",
+   "t": "Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Buy After Earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cramer-says-investors-consider-buying-184700028.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-nvidia-1-critical-190500703.html"
   }
  ],
  "inst": {
