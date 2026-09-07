@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07 15:00（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 15:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 48.95,
-   "c": -3.45,
+   "p": 48.9,
+   "c": -3.55,
    "a50": 53.05,
    "a200": 44.33,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 49.65,
-   "r": 47.5
+   "r": 47.4
   },
   {
    "s": "6223.TWO",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03169572,
-   "c": 0.47,
+   "p": 0.03168568,
+   "c": 0.44,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070116.aspx"
   },
   {
-   "t": "Magnolia Oil & Gas (MGY) Doubles Profits While Betting Big On Growth",
+   "t": "Everus (ECG) Bets $295M On Modular Construction’s Future",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/magnolia-oil-gas-mgy-doubles-192051152.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/everus-ecg-bets-295m-modular-195345603.html"
   },
   {
    "t": "憂中國殖民供應鏈　歐盟產業示警30萬個工作恐不保",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070114.aspx"
   },
   {
-   "t": "Everus (ECG) Bets $295M On Modular Construction’s Future",
+   "t": "Forget Stock-Picking. The Stock Market Is Just 1 Big Trade Now.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/everus-ecg-bets-295m-modular-195345603.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/forget-stock-picking-stock-market-200002004.html"
   },
   {
    "t": "台積電、聯發科領漲　台股勁揚775點收47326點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070112.aspx"
   },
   {
-   "t": "Forget Stock-Picking. The Stock Market Is Just 1 Big Trade Now.",
+   "t": "EPAM Systems (EPAM) Turns To Cybersecurity As Core Growth Cools",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/forget-stock-picking-stock-market-200002004.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/epam-systems-epam-turns-cybersecurity-201006224.html"
   },
   {
    "t": "台股大漲775.14點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070111.aspx"
   },
   {
-   "t": "Tesla's Cybercab 'Storm' Was More of a 'Drizzle,' WSJ's Tim Higgins Says",
+   "t": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/teslas-cybercab-storm-more-drizzle-193401400.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/prediction-amazon-join-nvidia-apple-194000818.html"
   }
  ],
  "inst": {
