@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07 14:29（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 14:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "中東衝突加劇通膨　歐洲央行預計本週再度升息",
+   "t": "半導體股帶頭衝　台股漲775點創收盤歷史次高",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/aopl/202609070087.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070124.aspx"
   },
   {
    "t": "39-year-old ammunition manufacturer files Chapter 11 bankruptcy",
@@ -344,46 +344,22 @@
    "u": "https://finance.yahoo.com/small-business/articles/39-old-major-bullet-manufacturer-023300278.html"
   },
   {
-   "t": "秦永沛：半導體卓越製造技術研發無捷徑　續貢獻心力",
+   "t": "9月台股期指漲761點",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070083.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070120.aspx"
   },
   {
-   "t": "Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped More Than 7%",
+   "t": "Installed Building Products (IBP) Grows Revenue While Margins Quietly Slip",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-barely-moved-2-ai-185658418.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/installed-building-products-ibp-grows-191221244.html"
   },
   {
-   "t": "中秋網購防假網站詐騙　數產署籲核對官方資訊與網址",
+   "t": "9月電子期金融期齊漲",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/ahel/202609070081.aspx"
-  },
-  {
-   "t": "These 2 AI Storage Stocks Soared as the S&P 500 Fell",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/2-ai-storage-stocks-soared-190028471.html"
-  },
-  {
-   "t": "葉啓洲任金融消費評議中心董事長　盼強化消費者保護",
-   "pub": "中央社財經",
-   "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070080.aspx"
-  },
-  {
-   "t": "The S&P 500 Fell, but These 2 AI Memory Stocks Exploded Higher",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-fell-2-ai-190345284.html"
-  },
-  {
-   "t": "漢翔民用業務邁大步　再奪龐巴迪前機身20年訂單",
-   "pub": "中央社財經",
-   "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070079.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070116.aspx"
   },
   {
    "t": "Freedom Broker Turns Bullish on Argan (AGX) After Record Quarter",
@@ -392,16 +368,40 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/freedom-broker-turns-bullish-argan-190902032.html"
   },
   {
-   "t": "新台幣午盤升2.3分　暫收31.607元",
+   "t": "憂中國殖民供應鏈　歐盟產業示警30萬個工作恐不保",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070077.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070114.aspx"
   },
   {
-   "t": "Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Buy After Earnings",
+   "t": "Magnolia Oil & Gas (MGY) Doubles Profits While Betting Big On Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-nvidia-1-critical-190500703.html"
+   "u": "https://finance.yahoo.com/energy/articles/magnolia-oil-gas-mgy-doubles-192051152.html"
+  },
+  {
+   "t": "台積電、聯發科領漲　台股勁揚775點收47326點",
+   "pub": "中央社財經",
+   "d": "2026-09-07",
+   "u": "https://www.cna.com.tw/news/afe/202609070112.aspx"
+  },
+  {
+   "t": "Southwest Gas’s (SWX) Pipeline Bet Just Got $600M Bigger",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/energy/articles/southwest-gas-swx-pipeline-bet-192801901.html"
+  },
+  {
+   "t": "台股大漲775.14點",
+   "pub": "中央社財經",
+   "d": "2026-09-07",
+   "u": "https://www.cna.com.tw/news/afe/202609070111.aspx"
+  },
+  {
+   "t": "ASML vs. Taiwan Semiconductor: Which Semiconductor Monopoly Is the Safer Investment?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/asml-vs-taiwan-semiconductor-semiconductor-192000370.html"
   }
  ],
  "inst": {
