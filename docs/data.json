@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07 16:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 16:23（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03174603,
-   "c": 0.61,
+   "p": 0.03173596,
+   "c": 0.59,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "半導體股帶頭衝　台股漲775點創收盤歷史次高",
+   "t": "新台幣升7.8分　收31.552元",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070124.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070168.aspx"
   },
   {
    "t": "Scott Galloway issues grim SpaceX stock price forecast",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-issues-grim-spacex-173300856.html"
   },
   {
-   "t": "9月台股期指漲761點",
+   "t": "SMAT發布六都交通政策建言書　提3大核心建言",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070120.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070161.aspx"
   },
   {
    "t": "AI-Enabled Equipment Agent Bodes Well for United Rentals (URI)",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/ai-enabled-equipment-agent-bodes-215015202.html"
   },
   {
-   "t": "9月電子期金融期齊漲",
+   "t": "嚴防洗產地與違規轉運　經部裁處257件產地標示不實案",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070116.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070157.aspx"
   },
   {
    "t": "DA Davidson Assigns Buy Rating to Everus Construction (ECG) Based on Accretive M&A and Bookings Strength",
@@ -368,22 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-assigns-buy-rating-215811439.html"
   },
   {
-   "t": "憂中國殖民供應鏈　歐盟產業示警30萬個工作恐不保",
+   "t": "華航9/16起再漲貨運燃油附加費　反映國際油價",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070114.aspx"
-  },
-  {
-   "t": "EPAM Systems (EPAM) Turns To Cybersecurity As Core Growth Cools",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/epam-systems-epam-turns-cybersecurity-201006224.html"
-  },
-  {
-   "t": "台積電、聯發科領漲　台股勁揚775點收47326點",
-   "pub": "中央社財經",
-   "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070112.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070155.aspx"
   },
   {
    "t": "AI Hardware Rallied While Adobe and Palantir Sank. Which Side Is Right?",
@@ -392,92 +380,104 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/ai-hardware-rallied-while-adobe-220725248.html"
   },
   {
-   "t": "台股大漲775.14點",
+   "t": "群光布局AI影像市場　打進美國機器人新創供應鏈",
    "pub": "中央社財經",
    "d": "2026-09-07",
-   "u": "https://www.cna.com.tw/news/afe/202609070111.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609070152.aspx"
   },
   {
-   "t": "Insurers Have Already Told Wall Street Which Advantage Plans Die on December 31. Members Are the Last to Know, and the Letter Isn’t Due Until October 2.",
+   "t": "Michael Burry Says He Sold Alibaba, Calling It Pricey Before $10.2 Billion Share Sale",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/insurers-already-told-wall-street-211215190.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-sold-alibaba-224525107.html"
+  },
+  {
+   "t": "三大法人買超台股1138.65億元",
+   "pub": "中央社財經",
+   "d": "2026-09-07",
+   "u": "https://www.cna.com.tw/news/afe/202609070147.aspx"
+  },
+  {
+   "t": "Coca-Cola Stock at $88: Here's Why Investors Should Pause",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-88-heres-212617123.html"
   }
  ],
  "inst": {
-  "date": "2026-09-04",
+  "date": "2026-09-07",
   "byCode": {
-   "2317": {
-    "f": 26407,
-    "t": 1145,
-    "all": 28923
+   "2330": {
+    "f": 16135,
+    "t": -368,
+    "all": 16487
    },
    "2327": {
-    "f": 18525,
-    "t": -42,
-    "all": 18745
-   },
-   "2330": {
-    "f": 1885,
-    "t": -323,
-    "all": 1969
-   },
-   "2308": {
-    "f": 1406,
-    "t": 264,
-    "all": 1794
-   },
-   "2454": {
-    "f": 534,
-    "t": 339,
-    "all": 977
-   },
-   "3701": {
-    "f": 236,
-    "t": 0,
-    "all": 240
-   },
-   "4722": {
-    "f": 79,
-    "t": -1,
-    "all": 88
-   },
-   "6706": {
-    "f": 48,
-    "t": 0,
-    "all": 70
-   },
-   "6862": {
-    "f": 21,
-    "t": 0,
-    "all": 19
-   },
-   "6515": {
-    "f": -244,
-    "t": 201,
-    "all": -45
-   },
-   "6442": {
-    "f": -468,
-    "t": -105,
-    "all": -550
-   },
-   "6446": {
-    "f": -755,
-    "t": 47,
-    "all": -702
-   },
-   "2305": {
-    "f": -1152,
-    "t": 0,
-    "all": -1138
+    "f": 6448,
+    "t": -117,
+    "all": 7279
    },
    "1802": {
-    "f": -1490,
-    "t": 30,
-    "all": -1641
+    "f": 5993,
+    "t": 113,
+    "all": 6397
+   },
+   "2454": {
+    "f": 2913,
+    "t": 911,
+    "all": 4268
+   },
+   "2305": {
+    "f": 688,
+    "t": 0,
+    "all": 722
+   },
+   "6446": {
+    "f": 526,
+    "t": -60,
+    "all": 485
+   },
+   "2308": {
+    "f": 186,
+    "t": -10,
+    "all": 225
+   },
+   "4722": {
+    "f": 32,
+    "t": -1,
+    "all": 7
+   },
+   "6862": {
+    "f": 3,
+    "t": 0,
+    "all": 2
+   },
+   "6515": {
+    "f": -80,
+    "t": 32,
+    "all": -42
+   },
+   "6442": {
+    "f": -208,
+    "t": 4,
+    "all": -212
+   },
+   "6706": {
+    "f": -274,
+    "t": 0,
+    "all": -303
+   },
+   "3701": {
+    "f": -321,
+    "t": 0,
+    "all": -320
+   },
+   "2317": {
+    "f": -2610,
+    "t": 39,
+    "all": -3299
    }
   },
-  "totalNetE": 616.7
+  "totalNetE": 1138.7
  }
 }
