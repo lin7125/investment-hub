@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07 15:52（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 16:02（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,14 +278,14 @@
   },
   {
    "s": "^VIX",
-   "p": 15.02,
-   "c": 3.37,
+   "p": 15.05,
+   "c": 3.58,
    "a50": 16.13,
    "a200": 18.21,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.08,
-   "r": 47.6
+   "r": 47.8
   },
   {
    "s": "BZ=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03169572,
-   "c": 0.47,
+   "p": 0.03170577,
+   "c": 0.5,
    "a50": 0.03119152,
    "a200": 0.0315557,
    "yh": 0.033278,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070124.aspx"
   },
   {
-   "t": "39-year-old ammunition manufacturer files Chapter 11 bankruptcy",
+   "t": "Scott Galloway issues grim SpaceX stock price forecast",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/39-old-major-bullet-manufacturer-023300278.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-issues-grim-spacex-173300856.html"
   },
   {
    "t": "9月台股期指漲761點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070116.aspx"
   },
   {
-   "t": "Forget Stock-Picking. The Stock Market Is Just 1 Big Trade Now.",
+   "t": "AI-Enabled Equipment Agent Bodes Well for United Rentals (URI)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/forget-stock-picking-stock-market-200002004.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-enabled-equipment-agent-bodes-215015202.html"
   },
   {
    "t": "憂中國殖民供應鏈　歐盟產業示警30萬個工作恐不保",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070114.aspx"
   },
   {
-   "t": "Everus (ECG) Bets $295M On Modular Construction’s Future",
+   "t": "Forget Stock-Picking. The Stock Market Is Just 1 Big Trade Now.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/everus-ecg-bets-295m-modular-195345603.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/forget-stock-picking-stock-market-200002004.html"
   },
   {
    "t": "台積電、聯發科領漲　台股勁揚775點收47326點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070112.aspx"
   },
   {
-   "t": "AI-Enabled Equipment Agent Bodes Well for United Rentals (URI)",
+   "t": "DA Davidson Assigns Buy Rating to Everus Construction (ECG) Based on Accretive M&A and Bookings Strength",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-enabled-equipment-agent-bodes-215015202.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-assigns-buy-rating-215811439.html"
   },
   {
    "t": "台股大漲775.14點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070111.aspx"
   },
   {
-   "t": "A Chunk of the $400,000 Retirement-Community Entrance Fee Is Legally a Medical Bill. It’s Deductible the Year You Write the Check, Before You’ve Spent a Single Night in the Health Wing",
+   "t": "3 Nuclear Stocks to Buy With $2,000 After One Fell 83%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/chunk-400-000-retirement-community-201535140.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3-nuclear-stocks-buy-2-204301311.html"
   }
  ],
  "inst": {
