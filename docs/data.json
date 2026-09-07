@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07 15:41（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-07 15:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 15.01,
-   "c": 3.3,
+   "p": 15.02,
+   "c": 3.37,
    "a50": 16.13,
    "a200": 18.21,
    "yh": 31.05,
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070111.aspx"
   },
   {
-   "t": "Should You Buy AMC Entertainment Holdings (AMC) Stock While It's Below $3?",
+   "t": "A Chunk of the $400,000 Retirement-Community Entrance Fee Is Legally a Medical Bill. It’s Deductible the Year You Write the Check, Before You’ve Spent a Single Night in the Health Wing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/buy-amc-entertainment-holdings-amc-200800509.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/chunk-400-000-retirement-community-201535140.html"
   }
  ],
  "inst": {
