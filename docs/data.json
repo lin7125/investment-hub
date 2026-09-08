@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08 08:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-08 08:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.1,
-   "c": 0.85,
+   "p": 97.18,
+   "c": 0.93,
    "a50": 86.68,
    "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.62,
-   "r": 63.7
+   "a20": 91.63,
+   "r": 63.8
   },
   {
    "s": "GC=F",
-   "p": 4465.1,
-   "c": 0.8,
-   "a50": 4246.71,
-   "a200": 4522.48,
+   "p": 4475.0,
+   "c": 1.02,
+   "a50": 4246.91,
+   "a200": 4522.53,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.32,
-   "r": 54.5
+   "a20": 4472.81,
+   "r": 55.1
   },
   {
    "s": "HG=F",
-   "p": 6.73,
-   "c": 2.05,
+   "p": 6.76,
+   "c": 2.46,
    "a50": 6.43,
    "a200": 5.99,
-   "yh": 6.73,
+   "yh": 6.76,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 62.5
+   "r": 63.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03174603,
-   "c": 0.4,
+   "p": 0.03175611,
+   "c": 0.41,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080002.aspx"
   },
   {
-   "t": "SIGA Tech (SIGA): Profits Drop 65%, But Cash and Special Payouts Remain",
+   "t": "Voya Financial’s (VOYA) Earnings Fell While Its Retirement Business Boomed",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/siga-tech-siga-profits-drop-124131686.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/voya-financial-voya-earnings-fell-124948124.html"
   },
   {
    "t": "傳Google台灣大裁員3至5成　官方澄清：完全背離事實",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070307.aspx"
   },
   {
-   "t": "Voya Financial’s (VOYA) Earnings Fell While Its Retirement Business Boomed",
+   "t": "SIGA Tech (SIGA): Profits Drop 65%, But Cash and Special Payouts Remain",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/voya-financial-voya-earnings-fell-124948124.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/siga-tech-siga-profits-drop-124131686.html"
   },
   {
    "t": "今彩539第115217期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609070303.aspx"
   },
   {
-   "t": "Fidelity says average 401(k) balances surged 11% to a record $155K in Q2 — why some savers are falling behind",
+   "t": "Protagonist (PTGX) Swings To A Profit As Two Drugs Near Blockbuster Status",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/fidelity-says-average-401-k-123000191.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/protagonist-ptgx-swings-profit-two-125554207.html"
   },
   {
    "t": "威力彩頭獎4.1億元1注獨得　獎落台中南屯",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609070302.aspx"
   },
   {
-   "t": "IRS collected $3.5 billion less from audits in 2025 after losing 30% of its auditors to DOGE cuts, watchdog says",
+   "t": "These AI numbers are getting crazy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/irs-collected-3-5-billion-123000181.html"
+   "u": "https://finance.yahoo.com/markets/article/these-ai-numbers-are-getting-crazy-123000121.html"
   },
   {
    "t": "網傳瑞幸咖啡將在台開幕　經部：已發函要求循投資管道申請",
