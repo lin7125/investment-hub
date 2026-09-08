@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 06:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 06:44（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 99.4,
-   "c": 3.24,
+   "p": 99.36,
+   "c": 3.2,
    "a50": 86.73,
    "a200": 84.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.74,
-   "r": 66.9
+   "a20": 91.73,
+   "r": 66.8
   },
   {
    "s": "GC=F",
-   "p": 4399.1,
-   "c": -0.69,
-   "a50": 4245.39,
+   "p": 4398.4,
+   "c": -0.71,
+   "a50": 4245.38,
    "a200": 4522.15,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.02,
+   "a20": 4468.98,
    "r": 50.2
   },
   {
    "s": "HG=F",
    "p": 6.77,
-   "c": 2.65,
+   "c": 2.68,
    "a50": 6.44,
    "a200": 5.99,
    "yh": 6.77,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 64.2
+   "r": 64.3
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609080344.aspx"
   },
   {
-   "t": "Is Roper Technologies Stock Underperforming the Dow?",
+   "t": "Carrier Global Stock: Is CARR Underperforming the Industrial Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/roper-technologies-stock-underperforming-dow-142218550.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/carrier-global-stock-carr-underperforming-141424245.html"
   },
   {
    "t": "今彩539第115218期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080339.aspx"
   },
   {
-   "t": "Is Air Products and Chemicals Stock Underperforming the S&P 500?",
+   "t": "Is PG&E Corporation Stock Underperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/air-products-chemicals-stock-underperforming-141758560.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/pg-e-corporation-stock-underperforming-140648567.html"
   },
   {
    "t": "大樂透頭獎2.5億元1注獨得　獎落台東縣大武鄉",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080338.aspx"
   },
   {
-   "t": "How Is Phillips 66's Stock Performance Compared to Other Oil Refiners Stocks?",
+   "t": "Nvidia’s (NVDA) Strong Results Reinforce Long Term Outlook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/phillips-66s-stock-performance-compared-142533974.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-strong-results-reinforce-140501713.html"
   },
   {
    "t": "美加貿易戰升溫加劇通膨疑慮　美股盤初道瓊一度跌逾1%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080335.aspx"
   },
   {
-   "t": "Carrier Global Stock: Is CARR Underperforming the Industrial Sector?",
+   "t": "Is Air Products and Chemicals Stock Underperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/carrier-global-stock-carr-underperforming-141424245.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/air-products-chemicals-stock-underperforming-141758560.html"
   },
   {
    "t": "元山8月營收年增2.36%　液冷效能實驗室第3季底前啟用",
