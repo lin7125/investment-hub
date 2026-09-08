@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08 17:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-08 17:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.94,
-   "c": 4.18,
+   "p": 15.9,
+   "c": 3.92,
    "a50": 16.1,
    "a200": 18.16,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.12,
-   "r": 52.2
+   "r": 52.0
   },
   {
    "s": "BZ=F",
-   "p": 99.25,
-   "c": 3.08,
-   "a50": 86.73,
+   "p": 98.95,
+   "c": 2.77,
+   "a50": 86.72,
    "a200": 84.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.73,
-   "r": 66.7
+   "a20": 91.71,
+   "r": 66.3
   },
   {
    "s": "GC=F",
-   "p": 4437.3,
-   "c": 0.17,
-   "a50": 4246.16,
-   "a200": 4522.34,
+   "p": 4439.4,
+   "c": 0.22,
+   "a50": 4246.2,
+   "a200": 4522.35,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4470.93,
-   "r": 52.8
+   "a20": 4471.03,
+   "r": 53.0
   },
   {
    "s": "HG=F",
-   "p": 6.76,
-   "c": 2.52,
-   "a50": 6.43,
+   "p": 6.77,
+   "c": 2.61,
+   "a50": 6.44,
    "a200": 5.99,
-   "yh": 6.76,
+   "yh": 6.77,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 63.8
+   "r": 64.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03173596,
-   "c": 0.35,
+   "c": 0.34,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080168.aspx"
   },
   {
-   "t": "Retailers are Handling Tariff Refunds in Very Different Ways: Walmart and Home Depot",
+   "t": "Solstice (SOLS) and Element Solutions (ESI) Call Off Their $14.5 Billion Combination",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/retailers-handling-tariff-refunds-very-225628436.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/solstice-sols-element-solutions-esi-230510085.html"
   },
   {
    "t": "台塑四寶8月營收1570億元年增4成　台塑化南亞年月雙增",
