@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08 13:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-08 13:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,47 +14,47 @@
   },
   {
    "s": "2317.TW",
-   "p": 251.0,
-   "c": -1.95,
-   "a50": 248.16,
+   "p": 251.5,
+   "c": -1.76,
+   "a50": 248.17,
    "a200": 235.81,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 251.9,
-   "r": 49.6
+   "a20": 251.92,
+   "r": 50.0
   },
   {
    "s": "2308.TW",
-   "p": 1795.0,
-   "c": -2.97,
-   "a50": 1794.3,
-   "a200": 1588.75,
+   "p": 1805.0,
+   "c": -2.43,
+   "a50": 1794.5,
+   "a200": 1588.8,
    "yh": 2520.0,
    "yl": 726.0,
-   "a20": 1799.25,
-   "r": 50.2
+   "a20": 1799.75,
+   "r": 51.0
   },
   {
    "s": "2454.TW",
-   "p": 4700.0,
-   "c": -1.26,
-   "a50": 3918.2,
-   "a200": 2683.95,
+   "p": 4695.0,
+   "c": -1.37,
+   "a50": 3918.1,
+   "a200": 2683.92,
    "yh": 4760.0,
    "yl": 1145.0,
-   "a20": 4087.25,
-   "r": 68.4
+   "a20": 4087.0,
+   "r": 68.2
   },
   {
    "s": "2327.TW",
-   "p": 568.0,
-   "c": -3.57,
-   "a50": 662.55,
-   "a200": 456.67,
+   "p": 566.0,
+   "c": -3.9,
+   "a50": 662.51,
+   "a200": 456.66,
    "yh": 1140.0,
    "yl": 137.5,
-   "a20": 571.45,
-   "r": 47.5
+   "a20": 571.35,
+   "r": 47.2
   },
   {
    "s": "1802.TW",
@@ -69,69 +69,69 @@
   },
   {
    "s": "6862.TW",
-   "p": 138.0,
-   "c": -1.78,
-   "a50": 150.23,
+   "p": 138.5,
+   "c": -1.42,
+   "a50": 150.24,
    "a200": 173.5,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 140.07,
-   "r": 42.6
+   "a20": 140.1,
+   "r": 43.3
   },
   {
    "s": "3701.TW",
-   "p": 40.45,
-   "c": -1.34,
+   "p": 40.4,
+   "c": -1.46,
    "a50": 40.68,
    "a200": 49.29,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.87,
-   "r": 47.9
+   "a20": 40.86,
+   "r": 47.7
   },
   {
    "s": "4722.TW",
-   "p": 193.0,
-   "c": -3.5,
-   "a50": 219.16,
-   "a200": 201.38,
+   "p": 192.5,
+   "c": -3.75,
+   "a50": 219.15,
+   "a200": 201.37,
    "yh": 306.5,
    "yl": 120.0,
-   "a20": 205.52,
-   "r": 39.9
+   "a20": 205.5,
+   "r": 39.7
   },
   {
    "s": "6706.TW",
-   "p": 122.5,
-   "c": -0.81,
-   "a50": 120.52,
+   "p": 123.0,
+   "c": -0.4,
+   "a50": 120.53,
    "a200": 130.44,
    "yh": 216.5,
    "yl": 62.9,
-   "a20": 121.68,
-   "r": 51.1
+   "a20": 121.7,
+   "r": 51.6
   },
   {
    "s": "2305.TW",
-   "p": 33.1,
-   "c": -0.9,
+   "p": 33.0,
+   "c": -1.2,
    "a50": 31.61,
-   "a200": 20.12,
+   "a200": 20.11,
    "yh": 42.65,
    "yl": 10.25,
-   "a20": 29.23,
-   "r": 60.2
+   "a20": 29.22,
+   "r": 59.9
   },
   {
    "s": "6442.TW",
-   "p": 1700.0,
-   "c": 0.0,
-   "a50": 1473.8,
-   "a200": 1650.18,
+   "p": 1695.0,
+   "c": -0.29,
+   "a50": 1473.7,
+   "a200": 1650.15,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1619.25,
-   "r": 58.6
+   "a20": 1619.0,
+   "r": 58.1
   },
   {
    "s": "6515.TW",
@@ -146,36 +146,36 @@
   },
   {
    "s": "6446.TW",
-   "p": 1400.0,
-   "c": 5.66,
-   "a50": 1306.22,
-   "a200": 787.92,
+   "p": 1405.0,
+   "c": 6.04,
+   "a50": 1306.32,
+   "a200": 787.95,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1421.0,
-   "r": 53.2
+   "a20": 1421.25,
+   "r": 53.6
   },
   {
    "s": "3324.TWO",
-   "p": 1315.0,
-   "c": -8.68,
-   "a50": 1024.94,
-   "a200": 1010.62,
+   "p": 1320.0,
+   "c": -8.33,
+   "a50": 1025.04,
+   "a200": 1010.64,
    "yh": 1485.0,
    "yl": 708.0,
-   "a20": 1151.7,
-   "r": 60.5
+   "a20": 1151.95,
+   "r": 60.8
   },
   {
    "s": "3491.TWO",
-   "p": 1460.0,
-   "c": -3.31,
-   "a50": 1277.84,
-   "a200": 1270.47,
+   "p": 1475.0,
+   "c": -2.32,
+   "a50": 1278.14,
+   "a200": 1270.54,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1371.75,
-   "r": 56.3
+   "a20": 1372.5,
+   "r": 57.4
   },
   {
    "s": "3585.TWO",
@@ -190,25 +190,25 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5755.0,
-   "c": 4.83,
-   "a50": 5895.0,
-   "a200": 4309.2,
+   "p": 5790.0,
+   "c": 5.46,
+   "a50": 5895.7,
+   "a200": 4309.38,
    "yh": 7380.0,
    "yl": 1425.0,
-   "a20": 5528.75,
-   "r": 53.4
+   "a20": 5530.5,
+   "r": 53.9
   },
   {
    "s": "6750.TWO",
-   "p": 57.3,
-   "c": -4.34,
-   "a50": 57.73,
-   "a200": 57.72,
+   "p": 59.8,
+   "c": -0.17,
+   "a50": 57.78,
+   "a200": 57.73,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.0,
-   "r": 52.2
+   "a20": 56.12,
+   "r": 62.3
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 47028.44,
-   "c": -0.63,
-   "a50": 44993.71,
-   "a200": 37436.45,
+   "p": 47063.76,
+   "c": -0.55,
+   "a50": 44994.41,
+   "a200": 37436.63,
    "yh": 47741.51,
    "yl": 24547.38,
-   "a20": 45873.52,
-   "r": 60.2
+   "a20": 45875.28,
+   "r": 60.5
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.82,
-   "c": 1.6,
+   "p": 98.1,
+   "c": 1.89,
    "a50": 86.7,
    "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.66,
-   "r": 64.8
+   "a20": 91.67,
+   "r": 65.2
   },
   {
    "s": "GC=F",
-   "p": 4476.1,
-   "c": 1.05,
-   "a50": 4246.93,
-   "a200": 4522.54,
+   "p": 4465.2,
+   "c": 0.8,
+   "a50": 4246.71,
+   "a200": 4522.48,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.87,
-   "r": 55.2
+   "a20": 4472.32,
+   "r": 54.6
   },
   {
    "s": "HG=F",
-   "p": 6.79,
-   "c": 2.93,
+   "p": 6.77,
+   "c": 2.68,
    "a50": 6.44,
    "a200": 5.99,
-   "yh": 6.79,
+   "yh": 6.77,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 65.0
+   "r": 64.3
   },
   {
    "s": "TWDUSD",
    "p": 0.0317662,
-   "c": 0.46,
+   "c": 0.43,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080098.aspx"
   },
   {
-   "t": "Scott Galloway issues grim SpaceX stock price forecast",
+   "t": "Gap closed 350 stores and now has an Old Navy problem",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-issues-grim-spacex-173300856.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/gap-closed-350-stores-now-233354471.html"
   },
   {
    "t": "人力銀行報告：半導體操作技術維修職缺　今年6成不限科系",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080088.aspx"
   },
   {
-   "t": "Dell Stock Exploded Over 300% — Its 150% EPS Growth Could Send It Even Higher",
+   "t": "NVIDIA (NVDA)’s $20 Billion Groq Bet Goes Live This Year With New AI Racks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-exploded-over-300-173002921.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-20-billion-groq-190737433.html"
   },
   {
    "t": "日本第2季經濟成長優於預估　市場料日銀下週升息",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609080082.aspx"
   },
   {
-   "t": "NVIDIA (NVDA)’s $20 Billion Groq Bet Goes Live This Year With New AI Racks",
+   "t": "Trump’s Financial Disclosure Reveals a Personal Stake in Musk’s SpaceX (SPCX)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-20-billion-groq-190737433.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/trump-financial-disclosure-reveals-personal-191447311.html"
   },
   {
    "t": "大樂透中秋節加碼　9/15起加開70組百萬元獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080078.aspx"
   },
   {
-   "t": "Trump’s Financial Disclosure Reveals a Personal Stake in Musk’s SpaceX (SPCX)",
+   "t": "Big Institutions are Quietly Buying Into Blackstone (BX) and KKR’s Wealth Funds",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/trump-financial-disclosure-reveals-personal-191447311.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/big-institutions-quietly-buying-blackstone-192655710.html"
   },
   {
    "t": "韓國名目GDP增幅47年新高　人均GNI破4萬美元機率增",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080075.aspx"
   },
   {
-   "t": "Gap closed 350 stores and now has an Old Navy problem",
+   "t": "Loss of Costco deal helps push beverage brand into Chapter 11",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gap-closed-350-stores-now-233354471.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/loss-costco-deal-helps-push-150700837.html"
   }
  ],
  "inst": {
