@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 06:44（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 06:48（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,33 +289,33 @@
   },
   {
    "s": "BZ=F",
-   "p": 99.36,
-   "c": 3.2,
+   "p": 99.38,
+   "c": 3.22,
    "a50": 86.73,
    "a200": 84.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.73,
+   "a20": 91.74,
    "r": 66.8
   },
   {
    "s": "GC=F",
-   "p": 4398.4,
-   "c": -0.71,
+   "p": 4398.6,
+   "c": -0.7,
    "a50": 4245.38,
    "a200": 4522.15,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4468.98,
+   "a20": 4468.99,
    "r": 50.2
   },
   {
    "s": "HG=F",
-   "p": 6.77,
-   "c": 2.68,
+   "p": 6.78,
+   "c": 2.7,
    "a50": 6.44,
    "a200": 5.99,
-   "yh": 6.77,
+   "yh": 6.78,
    "yl": 4.49,
    "a20": 6.58,
    "r": 64.3
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609080344.aspx"
   },
   {
-   "t": "Carrier Global Stock: Is CARR Underperforming the Industrial Sector?",
+   "t": "AUD/USD, NZD/USD, and USD/JPY Short -Term Forecast for 09/07/2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/carrier-global-stock-carr-underperforming-141424245.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/aud-usd-nzd-usd-usd-143104299.html"
   },
   {
    "t": "今彩539第115218期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080339.aspx"
   },
   {
-   "t": "Is PG&E Corporation Stock Underperforming the Nasdaq?",
+   "t": "How Energy Security, Load Growth and Infrastructure Arbitrage Could Reshape America's Power Market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/pg-e-corporation-stock-underperforming-140648567.html"
+   "u": "https://finance.yahoo.com/energy/articles/energy-security-load-growth-infrastructure-142926906.html"
   },
   {
    "t": "大樂透頭獎2.5億元1注獨得　獎落台東縣大武鄉",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080338.aspx"
   },
   {
-   "t": "Nvidia’s (NVDA) Strong Results Reinforce Long Term Outlook",
+   "t": "American and African Crudes Soar as China's Oil Imports Rebound",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-strong-results-reinforce-140501713.html"
+   "u": "https://finance.yahoo.com/energy/articles/american-african-crudes-soar-chinas-143000950.html"
   },
   {
    "t": "美加貿易戰升溫加劇通膨疑慮　美股盤初道瓊一度跌逾1%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080335.aspx"
   },
   {
-   "t": "Is Air Products and Chemicals Stock Underperforming the S&P 500?",
+   "t": "Elizabeth Warren's 2026 bill threatens private equity execs with 6 years in prison over hospital patient deaths",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/air-products-chemicals-stock-underperforming-141758560.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/elizabeth-warrens-2026-bill-threatens-143000136.html"
   },
   {
    "t": "元山8月營收年增2.36%　液冷效能實驗室第3季底前啟用",
