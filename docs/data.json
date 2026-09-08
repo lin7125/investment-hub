@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 07:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 07:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 15.3,
-   "c": 5.3,
-   "a50": 16.14,
-   "a200": 18.21,
+   "p": 15.72,
+   "c": 2.75,
+   "a50": 16.1,
+   "a200": 18.16,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.09,
-   "r": 49.0
+   "a20": 15.11,
+   "r": 51.2
   },
   {
    "s": "BZ=F",
-   "p": 99.38,
-   "c": 3.22,
+   "p": 99.39,
+   "c": 3.23,
    "a50": 86.73,
    "a200": 84.02,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4397.2,
-   "c": -0.74,
-   "a50": 4245.35,
+   "p": 4396.0,
+   "c": -0.76,
+   "a50": 4245.33,
    "a200": 4522.14,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4468.92,
-   "r": 50.1
+   "a20": 4468.86,
+   "r": 50.0
   },
   {
    "s": "HG=F",
    "p": 6.78,
-   "c": 2.7,
+   "c": 2.74,
    "a50": 6.44,
    "a200": 5.99,
    "yh": 6.78,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 64.3
+   "r": 64.4
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609080344.aspx"
   },
   {
-   "t": "These 2 AI Power Stocks Jumped While the S&P 500 Fell",
+   "t": "Chevron Is Expanding Operations in Venezuela. How to Play CVX Stock Now.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/2-ai-power-stocks-jumped-150120214.html"
+   "u": "https://finance.yahoo.com/energy/articles/chevron-expanding-operations-venezuela-play-153002599.html"
   },
   {
    "t": "今彩539第115218期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080339.aspx"
   },
   {
-   "t": "Innovation Engine Drives SharkNinja’s (SN) Sustainable Advantage",
+   "t": "Is 3M Stock Underperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/innovation-engine-drives-sharkninja-sn-150041521.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3m-stock-underperforming-dow-153400965.html"
   },
   {
    "t": "大樂透頭獎2.5億元1注獨得　獎落台東縣大武鄉",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080338.aspx"
   },
   {
-   "t": "Can Iraq Really Replace Saudi Arabia As The Middle East’s Top Oil Producer?",
+   "t": "Entegris (ENTG) Positions to Benefit From Rebounding Wafer Starts and Memory Capex",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/iraq-really-replace-saudi-arabia-150000955.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/entegris-entg-positions-benefit-rebounding-153817721.html"
   },
   {
    "t": "美加貿易戰升溫加劇通膨疑慮　美股盤初道瓊一度跌逾1%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080335.aspx"
   },
   {
-   "t": "President Trump Bought BA Stock the Same Day Boeing Won an $880M U.S. Navy Contract",
+   "t": "These 2 AI Power Stocks Jumped While the S&P 500 Fell",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/president-trump-bought-ba-stock-150002890.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/2-ai-power-stocks-jumped-150120214.html"
   },
   {
    "t": "元山8月營收年增2.36%　液冷效能實驗室第3季底前啟用",
