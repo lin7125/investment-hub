@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08 17:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-08 17:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,36 +278,36 @@
   },
   {
    "s": "^VIX",
-   "p": 15.9,
-   "c": 3.92,
+   "p": 15.8,
+   "c": 3.27,
    "a50": 16.1,
    "a200": 18.16,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.12,
-   "r": 52.0
+   "r": 51.6
   },
   {
    "s": "BZ=F",
-   "p": 98.95,
-   "c": 2.77,
+   "p": 98.98,
+   "c": 2.8,
    "a50": 86.72,
    "a200": 84.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.71,
+   "a20": 91.72,
    "r": 66.3
   },
   {
    "s": "GC=F",
-   "p": 4439.4,
-   "c": 0.22,
-   "a50": 4246.2,
-   "a200": 4522.35,
+   "p": 4443.4,
+   "c": 0.31,
+   "a50": 4246.28,
+   "a200": 4522.37,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.03,
-   "r": 53.0
+   "a20": 4471.23,
+   "r": 53.2
   },
   {
    "s": "HG=F",
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03173596,
-   "c": 0.34,
+   "c": 0.36,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080168.aspx"
   },
   {
-   "t": "Solstice (SOLS) and Element Solutions (ESI) Call Off Their $14.5 Billion Combination",
+   "t": "Workday (WDAY)’s AI Push is Easing Investor Fears, but its Own Guidance Tells a More Cautious Story",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/solstice-sols-element-solutions-esi-230510085.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/workday-wday-ai-push-easing-231129347.html"
   },
   {
    "t": "台塑四寶8月營收1570億元年增4成　台塑化南亞年月雙增",
