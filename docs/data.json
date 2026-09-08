@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 02:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 02:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,41 +212,41 @@
   },
   {
    "s": "AAPL",
-   "p": 316.08,
-   "c": -1.21,
+   "p": 316.27,
+   "c": -1.16,
    "a50": 315.8,
    "a200": 284.11,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.53,
-   "r": 50.1
+   "a20": 313.54,
+   "r": 50.2
   },
   {
    "s": "NVDA",
-   "p": 225.93,
-   "c": -1.92,
-   "a50": 211.23,
+   "p": 225.98,
+   "c": -1.9,
+   "a50": 211.24,
    "a200": 196.9,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 220.5,
-   "r": 56.3
+   "r": 56.4
   },
   {
    "s": "TSLA",
-   "p": 365.97,
-   "c": 3.36,
-   "a50": 357.67,
+   "p": 366.35,
+   "c": 3.47,
+   "a50": 357.68,
    "a200": 399.38,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 350.19,
-   "r": 55.0
+   "a20": 350.21,
+   "r": 55.1
   },
   {
    "s": "META",
-   "p": 616.8,
-   "c": 0.0,
+   "p": 616.71,
+   "c": -0.01,
    "a50": 596.82,
    "a200": 622.39,
    "yh": 780.25,
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7693.25,
+   "p": 7693.12,
    "c": -0.33,
    "a50": 7598.49,
    "a200": 7147.14,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7705.71,
+   "a20": 7705.7,
    "r": 52.7
   },
   {
    "s": "^VIX",
-   "p": 15.26,
-   "c": -0.26,
+   "p": 15.28,
+   "c": -0.13,
    "a50": 16.09,
    "a200": 18.15,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.09,
-   "r": 48.8
+   "r": 48.9
   },
   {
    "s": "BZ=F",
-   "p": 97.06,
-   "c": 0.81,
-   "a50": 86.68,
+   "p": 97.25,
+   "c": 1.01,
+   "a50": 86.69,
    "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.62,
-   "r": 63.7
+   "a20": 91.63,
+   "r": 63.9
   },
   {
    "s": "GC=F",
-   "p": 4434.4,
-   "c": 0.1,
-   "a50": 4246.1,
-   "a200": 4522.33,
+   "p": 4428.7,
+   "c": -0.02,
+   "a50": 4245.98,
+   "a200": 4522.3,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4470.78,
-   "r": 52.6
+   "a20": 4470.5,
+   "r": 52.3
   },
   {
    "s": "HG=F",
-   "p": 6.83,
-   "c": 3.52,
+   "p": 6.82,
+   "c": 3.46,
    "a50": 6.44,
    "a200": 5.99,
-   "yh": 6.83,
+   "yh": 6.82,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 66.5
+   "r": 66.3
   },
   {
    "s": "TWDUSD",
    "p": 0.03173596,
-   "c": 0.36,
+   "c": 0.35,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609080344.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq fall as oil prices rise, US-Canada trade war escalates",
+   "t": "Is Aon Stock Underperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/aon-stock-underperforming-dow-090703575.html"
   },
   {
    "t": "今彩539第115218期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080339.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Dives, These Stocks Lose Key Level; Aerospace Play Up After Trump Attack (Live Coverage)",
+   "t": "Is Marathon Petroleum Stock Outperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-attacks-oil-prices-jump-brent-crude/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-stock-outperforming-p-090034990.html"
   },
   {
    "t": "大樂透頭獎2.5億元1注獨得　獎落台東縣大武鄉",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080338.aspx"
   },
   {
-   "t": "Behind the Ticker: Aristotle Pacific's Relative Value Bond Bet",
+   "t": "Baidu Just Gained Shanghai and Shenzhen Stock Connect Access. Is It Now a Better AI Bet Than Alibaba?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/behind-ticker-aristotle-pacifics-relative-173247214.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/baidu-just-gained-shanghai-shenzhen-090038693.html"
   },
   {
    "t": "美加貿易戰升溫加劇通膨疑慮　美股盤初道瓊一度跌逾1%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080335.aspx"
   },
   {
-   "t": "Copper just soared to new records — and could still have 'more left in the tank': Chart of the Day",
+   "t": "Ask an Advisor: Can I Use Roth Conversion Funds to Pay the Taxes on the Conversion?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/copper-just-soared-to-new-records--and-could-still-have-more-left-in-the-tank-chart-of-the-day-171432521.html"
+   "u": "https://finance.yahoo.com/news/ask-advisor-im-going-roth-100000968.html"
   },
   {
    "t": "元山8月營收年增2.36%　液冷效能實驗室第3季底前啟用",
