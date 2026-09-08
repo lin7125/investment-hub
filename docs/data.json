@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 03:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 03:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 315.85,
-   "c": -1.29,
-   "a50": 315.79,
+   "p": 316.15,
+   "c": -1.19,
+   "a50": 315.8,
    "a200": 284.11,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.52,
-   "r": 49.9
+   "a20": 313.53,
+   "r": 50.1
   },
   {
    "s": "NVDA",
-   "p": 225.76,
-   "c": -2.0,
+   "p": 225.69,
+   "c": -2.03,
    "a50": 211.23,
    "a200": 196.9,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 220.49,
-   "r": 56.2
+   "r": 56.1
   },
   {
    "s": "TSLA",
-   "p": 368.13,
-   "c": 3.97,
-   "a50": 357.72,
+   "p": 367.87,
+   "c": 3.89,
+   "a50": 357.71,
    "a200": 399.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 350.3,
-   "r": 55.7
+   "a20": 350.29,
+   "r": 55.6
   },
   {
    "s": "META",
-   "p": 614.42,
-   "c": -0.38,
-   "a50": 596.77,
-   "a200": 622.37,
+   "p": 614.69,
+   "c": -0.34,
+   "a50": 596.78,
+   "a200": 622.38,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 577.86,
-   "r": 61.3
+   "a20": 577.87,
+   "r": 61.4
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7684.75,
-   "c": -0.44,
-   "a50": 7598.32,
-   "a200": 7147.1,
+   "p": 7682.54,
+   "c": -0.47,
+   "a50": 7598.28,
+   "a200": 7147.09,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7705.28,
-   "r": 51.9
+   "a20": 7705.17,
+   "r": 51.7
   },
   {
    "s": "^VIX",
-   "p": 15.53,
-   "c": 1.5,
+   "p": 15.65,
+   "c": 2.29,
    "a50": 16.1,
    "a200": 18.16,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.1,
-   "r": 50.2
+   "a20": 15.11,
+   "r": 50.8
   },
   {
    "s": "BZ=F",
-   "p": 98.63,
-   "c": 2.44,
-   "a50": 86.71,
+   "p": 98.24,
+   "c": 2.04,
+   "a50": 86.7,
    "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.7,
-   "r": 65.9
+   "a20": 91.68,
+   "r": 65.3
   },
   {
    "s": "GC=F",
-   "p": 4413.4,
-   "c": -0.37,
-   "a50": 4245.68,
-   "a200": 4522.22,
+   "p": 4410.9,
+   "c": -0.43,
+   "a50": 4245.63,
+   "a200": 4522.21,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.73,
-   "r": 51.2
+   "a20": 4469.61,
+   "r": 51.0
   },
   {
    "s": "HG=F",
-   "p": 6.79,
-   "c": 2.96,
+   "p": 6.78,
+   "c": 2.79,
    "a50": 6.44,
    "a200": 5.99,
-   "yh": 6.79,
+   "yh": 6.78,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 65.0
+   "r": 64.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03172589,
-   "c": 0.33,
+   "p": 0.03173596,
+   "c": 0.34,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609080344.aspx"
   },
   {
-   "t": "Trump’s new Social Security tax rules favor high-income seniors — how Americans over 65 can maximize savings",
+   "t": "‘This is like Roth IRA-maxxing' — why everyone’s suddenly raving about 529 plans even when college isn’t on the table",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/trump-social-security-tax-rules-103000438.html"
+   "u": "https://finance.yahoo.com/small-business/articles/roth-ira-maxxing-why-everyone-103000294.html"
   },
   {
    "t": "今彩539第115218期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080339.aspx"
   },
   {
-   "t": "‘This is like Roth IRA-maxxing' — why everyone’s suddenly raving about 529 plans even when college isn’t on the table",
+   "t": "Trump’s new Social Security tax rules favor high-income seniors — how Americans over 65 can maximize savings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/roth-ira-maxxing-why-everyone-103000294.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/trump-social-security-tax-rules-103000438.html"
   },
   {
    "t": "大樂透頭獎2.5億元1注獨得　獎落台東縣大武鄉",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080338.aspx"
   },
   {
-   "t": "How Is Moderna's Stock Performance Compared to Other Healthcare Stocks",
+   "t": "India’s Crude Oil Benchmark Tops $100 as Middle East War Escalates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/modernas-stock-performance-compared-other-101308358.html"
+   "u": "https://finance.yahoo.com/energy/articles/india-crude-oil-benchmark-tops-110000096.html"
   },
   {
    "t": "美加貿易戰升溫加劇通膨疑慮　美股盤初道瓊一度跌逾1%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080335.aspx"
   },
   {
-   "t": "Dell and HPE Posted Record Revenue. Here’s Why the Market Rewarded 1 and Punished the Other.",
+   "t": "Trump wants your 401(k) in private equity — but 54% of the biggest 2025 bankruptcies were PE-backed companies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dell-hpe-posted-record-revenue-100214774.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/trump-wants-401-k-private-110000179.html"
   },
   {
    "t": "元山8月營收年增2.36%　液冷效能實驗室第3季底前啟用",
