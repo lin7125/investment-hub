@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 03:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 03:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 316.44,
-   "c": -1.1,
+   "p": 316.03,
+   "c": -1.23,
    "a50": 315.8,
-   "a200": 284.12,
+   "a200": 284.11,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.55,
-   "r": 50.4
+   "a20": 313.53,
+   "r": 50.0
   },
   {
    "s": "NVDA",
-   "p": 225.62,
-   "c": -2.06,
+   "p": 225.56,
+   "c": -2.08,
    "a50": 211.23,
    "a200": 196.9,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.49,
-   "r": 56.1
+   "a20": 220.48,
+   "r": 56.0
   },
   {
    "s": "TSLA",
-   "p": 367.3,
-   "c": 3.73,
-   "a50": 357.7,
+   "p": 366.85,
+   "c": 3.61,
+   "a50": 357.69,
    "a200": 399.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 350.26,
-   "r": 55.4
+   "a20": 350.24,
+   "r": 55.3
   },
   {
    "s": "META",
-   "p": 611.15,
-   "c": -0.91,
-   "a50": 596.71,
-   "a200": 622.36,
+   "p": 614.02,
+   "c": -0.45,
+   "a50": 596.77,
+   "a200": 622.37,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 577.69,
-   "r": 59.8
+   "a20": 577.84,
+   "r": 61.1
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7685.31,
-   "c": -0.43,
-   "a50": 7598.33,
+   "p": 7683.73,
+   "c": -0.45,
+   "a50": 7598.3,
    "a200": 7147.1,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7705.31,
-   "r": 52.0
+   "a20": 7705.23,
+   "r": 51.8
   },
   {
    "s": "^VIX",
-   "p": 15.49,
-   "c": 1.24,
-   "a50": 16.09,
+   "p": 15.55,
+   "c": 1.63,
+   "a50": 16.1,
    "a200": 18.16,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.1,
-   "r": 50.0
+   "a20": 15.11,
+   "r": 50.3
   },
   {
    "s": "BZ=F",
-   "p": 98.62,
-   "c": 2.43,
+   "p": 98.63,
+   "c": 2.44,
    "a50": 86.71,
    "a200": 84.01,
    "yh": 118.35,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4415.9,
-   "c": -0.31,
-   "a50": 4245.73,
+   "p": 4417.3,
+   "c": -0.28,
+   "a50": 4245.76,
    "a200": 4522.24,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.86,
+   "a20": 4469.93,
    "r": 51.4
   },
   {
    "s": "HG=F",
    "p": 6.8,
-   "c": 3.13,
+   "c": 3.12,
    "a50": 6.44,
    "a200": 5.99,
    "yh": 6.8,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03173596,
-   "c": 0.35,
+   "p": 0.03172589,
+   "c": 0.33,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609080344.aspx"
   },
   {
-   "t": "Best CD rates today, Monday, September 7, 2026: Lock in up to 4.35% APY",
+   "t": "How Is Moderna's Stock Performance Compared to Other Healthcare Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy-100000332.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/modernas-stock-performance-compared-other-101308358.html"
   },
   {
    "t": "今彩539第115218期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080339.aspx"
   },
   {
-   "t": "Mortgage and refinance interest rates today, Monday, September 7, 2026: Fixed purchase rates lower than refi rates",
+   "t": "Trump’s new Social Security tax rules favor high-income seniors — how Americans over 65 can maximize savings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-7-2026-fixed-purchase-rates-lower-than-refi-rates-100000677.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/trump-social-security-tax-rules-103000438.html"
   },
   {
    "t": "大樂透頭獎2.5億元1注獨得　獎落台東縣大武鄉",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080338.aspx"
   },
   {
-   "t": "She retired at 40 — and credits K-pop group BTS for making it happen. How fandom turned into financial freedom",
+   "t": "‘This is like Roth IRA-maxxing' — why everyone’s suddenly raving about 529 plans even when college isn’t on the table",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/she-retired-40-credits-k-100000786.html"
+   "u": "https://finance.yahoo.com/small-business/articles/roth-ira-maxxing-why-everyone-103000294.html"
   },
   {
    "t": "美加貿易戰升溫加劇通膨疑慮　美股盤初道瓊一度跌逾1%",
