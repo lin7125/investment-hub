@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08 15:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-08 15:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,20 +278,20 @@
   },
   {
    "s": "^VIX",
-   "p": 15.6,
-   "c": 1.96,
+   "p": 15.58,
+   "c": 1.83,
    "a50": 16.1,
    "a200": 18.16,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.11,
-   "r": 50.6
+   "r": 50.5
   },
   {
    "s": "BZ=F",
-   "p": 98.7,
-   "c": 2.51,
-   "a50": 86.71,
+   "p": 98.76,
+   "c": 2.58,
+   "a50": 86.72,
    "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4446.5,
-   "c": 0.38,
-   "a50": 4246.34,
-   "a200": 4522.39,
+   "p": 4441.8,
+   "c": 0.27,
+   "a50": 4246.25,
+   "a200": 4522.37,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.39,
-   "r": 53.4
+   "a20": 4471.15,
+   "r": 53.1
   },
   {
    "s": "HG=F",
    "p": 6.79,
-   "c": 2.9,
+   "c": 2.97,
    "a50": 6.44,
    "a200": 5.99,
    "yh": 6.79,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 64.9
+   "r": 65.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03175611,
-   "c": 0.42,
+   "p": 0.03174603,
+   "c": 0.4,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080130.aspx"
   },
   {
-   "t": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
+   "t": "McKesson Bets $2.25 Billion More on Oncology With Precision Medicine Buy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/mckesson-bets-2-25-billion-204339450.html"
   },
   {
    "t": "微風結束北車後拚轉型　評估赴澳洲設百貨",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080127.aspx"
   },
   {
-   "t": "Apple (AAPL)’s New Mac Mini and Studio Bet Big on On-Device AI",
+   "t": "Musk Moves Up SpaceX (SPCX)’s Orbital Data Center Timeline, Again",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-mac-mini-studio-201609665.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/musk-moves-spacex-spcx-orbital-204103387.html"
   },
   {
    "t": "台股終場跌220點收47105點　台積電收2470元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080123.aspx"
   },
   {
-   "t": "Paramount (PSKY)’s CEO Has Cleared 68 Countries for His Warner Bros (WBD) Deal. California Still Won’t Budge",
+   "t": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/paramount-psky-ceo-cleared-68-200541330.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html"
   },
   {
    "t": "經部公布浮動式離岸風電計畫草案　拚2027年第3季完成選商",
