@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08 15:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-08 16:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.71,
-   "c": 2.68,
+   "p": 15.74,
+   "c": 2.88,
    "a50": 16.1,
    "a200": 18.16,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.11,
-   "r": 51.1
+   "r": 51.3
   },
   {
    "s": "BZ=F",
-   "p": 98.75,
-   "c": 2.57,
+   "p": 98.98,
+   "c": 2.8,
    "a50": 86.72,
-   "a200": 84.01,
+   "a200": 84.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.7,
-   "r": 66.0
+   "a20": 91.72,
+   "r": 66.3
   },
   {
    "s": "GC=F",
-   "p": 4439.5,
-   "c": 0.22,
-   "a50": 4246.2,
-   "a200": 4522.35,
+   "p": 4436.8,
+   "c": 0.16,
+   "a50": 4246.15,
+   "a200": 4522.34,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.04,
-   "r": 53.0
+   "a20": 4470.9,
+   "r": 52.8
   },
   {
    "s": "HG=F",
    "p": 6.78,
-   "c": 2.83,
+   "c": 2.77,
    "a50": 6.44,
    "a200": 5.99,
    "yh": 6.78,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 64.7
+   "r": 64.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03174603,
-   "c": 0.39,
+   "p": 0.03173596,
+   "c": 0.36,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "9月台股期指跌482點",
+   "t": "ASML將與晶片大廠合作　以最新設備生產更大尺寸晶片",
    "pub": "中央社財經",
    "d": "2026-09-08",
-   "u": "https://www.cna.com.tw/news/afe/202609080131.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609080182.aspx"
   },
   {
    "t": "Gap closed 350 stores and now has an Old Navy problem",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/gap-closed-350-stores-now-233354471.html"
   },
   {
-   "t": "9月電子期跌　金融期漲",
+   "t": "記憶體成本飆升、消費疲軟　印度三星裁近百名主管",
    "pub": "中央社財經",
    "d": "2026-09-08",
-   "u": "https://www.cna.com.tw/news/afe/202609080130.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609080177.aspx"
   },
   {
    "t": "McKesson Bets $2.25 Billion More on Oncology With Precision Medicine Buy",
@@ -356,10 +356,22 @@
    "u": "https://finance.yahoo.com/healthcare/articles/mckesson-bets-2-25-billion-204339450.html"
   },
   {
-   "t": "微風結束北車後拚轉型　評估赴澳洲設百貨",
+   "t": "奇鋐越南5期廠啟動興建　土建與機電計投入77.8億元",
    "pub": "中央社財經",
    "d": "2026-09-08",
-   "u": "https://www.cna.com.tw/news/afe/202609080127.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609080176.aspx"
+  },
+  {
+   "t": "H.B. Fuller (FUL) Tells Ancora its $1.2 Billion Offer isn’t Enough",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/h-b-fuller-ful-tells-204640998.html"
+  },
+  {
+   "t": "國巨8月營收續創新高　AI應用帶動產能利用率",
+   "pub": "中央社財經",
+   "d": "2026-09-08",
+   "u": "https://www.cna.com.tw/news/afe/202609080169.aspx"
   },
   {
    "t": "Musk Moves Up SpaceX (SPCX)’s Orbital Data Center Timeline, Again",
@@ -368,10 +380,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/musk-moves-spacex-spcx-orbital-204103387.html"
   },
   {
-   "t": "台股終場跌220點收47105點　台積電收2470元",
+   "t": "雙鴻8月營收31.41億元年增67%　歷史第3高",
    "pub": "中央社財經",
    "d": "2026-09-08",
-   "u": "https://www.cna.com.tw/news/afe/202609080124.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609080168.aspx"
   },
   {
    "t": "How BlackRock (BLK) is Quietly Turning Bitcoin Whales Into Wall Street Clients",
@@ -380,22 +392,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/blackrock-blk-quietly-turning-bitcoin-203223849.html"
   },
   {
-   "t": "台股跌220.49點",
+   "t": "台塑四寶8月營收1570億元年增4成　台塑化南亞年月雙增",
    "pub": "中央社財經",
    "d": "2026-09-08",
-   "u": "https://www.cna.com.tw/news/afe/202609080123.aspx"
-  },
-  {
-   "t": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html"
-  },
-  {
-   "t": "經部公布浮動式離岸風電計畫草案　拚2027年第3季完成選商",
-   "pub": "中央社財經",
-   "d": "2026-09-08",
-   "u": "https://www.cna.com.tw/news/afe/202609080118.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609080167.aspx"
   },
   {
    "t": "Loss of Costco deal helps push beverage brand into Chapter 11",
