@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 01:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 02:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 316.03,
-   "c": -1.23,
+   "p": 316.08,
+   "c": -1.21,
    "a50": 315.8,
    "a200": 284.11,
    "yh": 340.08,
    "yl": 226.79,
    "a20": 313.53,
-   "r": 50.0
+   "r": 50.1
   },
   {
    "s": "NVDA",
-   "p": 225.82,
-   "c": -1.97,
+   "p": 225.93,
+   "c": -1.92,
    "a50": 211.23,
    "a200": 196.9,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 220.5,
-   "r": 56.2
+   "r": 56.3
   },
   {
    "s": "TSLA",
-   "p": 365.88,
-   "c": 3.33,
+   "p": 365.97,
+   "c": 3.36,
    "a50": 357.67,
    "a200": 399.38,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 617.19,
-   "c": 0.07,
-   "a50": 596.83,
+   "p": 616.8,
+   "c": 0.0,
+   "a50": 596.82,
    "a200": 622.39,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 577.99,
-   "r": 62.5
+   "a20": 577.97,
+   "r": 62.4
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7691.03,
-   "c": -0.36,
-   "a50": 7598.45,
-   "a200": 7147.13,
+   "p": 7693.25,
+   "c": -0.33,
+   "a50": 7598.49,
+   "a200": 7147.14,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7705.6,
-   "r": 52.5
+   "a20": 7705.71,
+   "r": 52.7
   },
   {
    "s": "^VIX",
-   "p": 15.34,
-   "c": 0.26,
+   "p": 15.26,
+   "c": -0.26,
    "a50": 16.09,
-   "a200": 18.16,
+   "a200": 18.15,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.09,
-   "r": 49.3
+   "r": 48.8
   },
   {
    "s": "BZ=F",
-   "p": 97.11,
-   "c": 0.86,
+   "p": 97.06,
+   "c": 0.81,
    "a50": 86.68,
    "a200": 84.01,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4431.9,
-   "c": 0.05,
-   "a50": 4246.05,
-   "a200": 4522.32,
+   "p": 4434.4,
+   "c": 0.1,
+   "a50": 4246.1,
+   "a200": 4522.33,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4470.66,
-   "r": 52.5
+   "a20": 4470.78,
+   "r": 52.6
   },
   {
    "s": "HG=F",
    "p": 6.83,
-   "c": 3.5,
+   "c": 3.52,
    "a50": 6.44,
    "a200": 5.99,
    "yh": 6.83,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 66.4
+   "r": 66.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03174603,
-   "c": 0.38,
+   "p": 0.03173596,
+   "c": 0.36,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080339.aspx"
   },
   {
-   "t": "Behind the Ticker: Aristotle Pacific's Relative Value Bond Bet",
+   "t": "Stock Market Today: Dow Dives, These Stocks Lose Key Level; Aerospace Play Up After Trump Attack (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/behind-ticker-aristotle-pacifics-relative-173247214.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-attacks-oil-prices-jump-brent-crude/?src=A00220&yptr=yahoo"
   },
   {
    "t": "大樂透頭獎2.5億元1注獨得　獎落台東縣大武鄉",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080338.aspx"
   },
   {
-   "t": "Copper just soared to new records — and could still have 'more left in the tank': Chart of the Day",
+   "t": "Behind the Ticker: Aristotle Pacific's Relative Value Bond Bet",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/copper-just-soared-to-new-records--and-could-still-have-more-left-in-the-tank-chart-of-the-day-171432521.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/behind-ticker-aristotle-pacifics-relative-173247214.html"
   },
   {
    "t": "美加貿易戰升溫加劇通膨疑慮　美股盤初道瓊一度跌逾1%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080335.aspx"
   },
   {
-   "t": "Capital One Venture welcome offer: 75,000 miles plus a $300 travel credit",
+   "t": "Copper just soared to new records — and could still have 'more left in the tank': Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-welcome-offer-75000-miles-plus-a-300-travel-credit-171812043.html"
+   "u": "https://finance.yahoo.com/markets/article/copper-just-soared-to-new-records--and-could-still-have-more-left-in-the-tank-chart-of-the-day-171432521.html"
   },
   {
    "t": "元山8月營收年增2.36%　液冷效能實驗室第3季底前啟用",
