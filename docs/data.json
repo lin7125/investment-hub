@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 02:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 03:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 315.56,
-   "c": -1.38,
-   "a50": 315.79,
+   "p": 315.43,
+   "c": -1.42,
+   "a50": 315.78,
    "a200": 284.11,
    "yh": 340.08,
    "yl": 226.79,
    "a20": 313.5,
-   "r": 49.6
+   "r": 49.5
   },
   {
    "s": "NVDA",
-   "p": 225.74,
-   "c": -2.01,
+   "p": 225.59,
+   "c": -2.07,
    "a50": 211.23,
    "a200": 196.9,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.49,
-   "r": 56.2
+   "a20": 220.48,
+   "r": 56.0
   },
   {
    "s": "TSLA",
-   "p": 366.27,
-   "c": 3.44,
-   "a50": 357.68,
-   "a200": 399.38,
+   "p": 366.98,
+   "c": 3.64,
+   "a50": 357.69,
+   "a200": 399.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 350.21,
-   "r": 55.1
+   "a20": 350.24,
+   "r": 55.3
   },
   {
    "s": "META",
-   "p": 614.92,
-   "c": -0.3,
-   "a50": 596.78,
-   "a200": 622.38,
+   "p": 621.42,
+   "c": 0.75,
+   "a50": 596.91,
+   "a200": 622.41,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 577.88,
-   "r": 61.5
+   "a20": 578.21,
+   "r": 63.7
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7682.91,
-   "c": -0.46,
-   "a50": 7598.29,
+   "p": 7681.53,
+   "c": -0.48,
+   "a50": 7598.26,
    "a200": 7147.09,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7705.19,
-   "r": 51.8
+   "a20": 7705.12,
+   "r": 51.6
   },
   {
    "s": "^VIX",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.67,
-   "c": 1.44,
-   "a50": 86.69,
+   "p": 98.27,
+   "c": 2.07,
+   "a50": 86.71,
    "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.65,
-   "r": 64.5
+   "a20": 91.68,
+   "r": 65.4
   },
   {
    "s": "GC=F",
-   "p": 4428.9,
-   "c": -0.02,
-   "a50": 4245.99,
-   "a200": 4522.3,
+   "p": 4412.8,
+   "c": -0.38,
+   "a50": 4245.67,
+   "a200": 4522.22,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4470.51,
-   "r": 52.3
+   "a20": 4469.7,
+   "r": 51.1
   },
   {
    "s": "HG=F",
-   "p": 6.82,
-   "c": 3.33,
+   "p": 6.8,
+   "c": 3.12,
    "a50": 6.44,
    "a200": 5.99,
-   "yh": 6.82,
+   "yh": 6.8,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 66.0
+   "r": 65.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03172589,
-   "c": 0.31,
+   "p": 0.03173596,
+   "c": 0.34,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609080344.aspx"
   },
   {
-   "t": "Walt Disney mortgaged his house and sold his car to fund Snow White — his wife said she 'never felt secure'",
+   "t": "Best CD rates today, Monday, September 7, 2026: Lock in up to 4.35% APY",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/walt-disney-mortgaged-house-sold-093000183.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy-100000332.html"
   },
   {
    "t": "今彩539第115218期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080339.aspx"
   },
   {
-   "t": "Best CD rates today, Monday, September 7, 2026: Lock in up to 4.35% APY",
+   "t": "She retired at 40 — and credits K-pop group BTS for making it happen. How fandom turned into financial freedom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy-100000332.html"
+   "u": "https://finance.yahoo.com/small-business/articles/she-retired-40-credits-k-100000786.html"
   },
   {
    "t": "大樂透頭獎2.5億元1注獨得　獎落台東縣大武鄉",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080335.aspx"
   },
   {
-   "t": "She retired at 40 — and credits K-pop group BTS for making it happen. How fandom turned into financial freedom",
+   "t": "Dell and HPE Posted Record Revenue. Here’s Why the Market Rewarded 1 and Punished the Other.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/she-retired-40-credits-k-100000786.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dell-hpe-posted-record-revenue-100214774.html"
   },
   {
    "t": "元山8月營收年增2.36%　液冷效能實驗室第3季底前啟用",
