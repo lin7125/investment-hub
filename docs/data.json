@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08 17:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-08 17:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.8,
-   "c": 3.27,
+   "p": 15.78,
+   "c": 3.14,
    "a50": 16.1,
    "a200": 18.16,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.12,
-   "r": 51.6
+   "r": 51.5
   },
   {
    "s": "BZ=F",
-   "p": 98.98,
-   "c": 2.8,
-   "a50": 86.72,
-   "a200": 84.02,
+   "p": 98.68,
+   "c": 2.49,
+   "a50": 86.71,
+   "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.72,
-   "r": 66.3
+   "a20": 91.7,
+   "r": 65.9
   },
   {
    "s": "GC=F",
-   "p": 4443.4,
-   "c": 0.31,
-   "a50": 4246.28,
-   "a200": 4522.37,
+   "p": 4438.4,
+   "c": 0.19,
+   "a50": 4246.18,
+   "a200": 4522.35,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.23,
-   "r": 53.2
+   "a20": 4470.98,
+   "r": 52.9
   },
   {
    "s": "HG=F",
-   "p": 6.77,
-   "c": 2.61,
+   "p": 6.78,
+   "c": 2.7,
    "a50": 6.44,
    "a200": 5.99,
-   "yh": 6.77,
+   "yh": 6.78,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 64.1
+   "r": 64.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03173596,
-   "c": 0.36,
+   "p": 0.03174603,
+   "c": 0.38,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609080177.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures slip amid rising oil prices",
+   "t": "The yen's sudden surge upsets the carry trade faithful",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/yens-sudden-surge-upsetting-carry-051942527.html"
   },
   {
    "t": "奇鋐越南5期廠啟動興建　土建與機電計投入77.8億元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080176.aspx"
   },
   {
-   "t": "BYD targets more than 2.5 million vehicle exports in 2027, brokerages say",
+   "t": "Over 200 US seniors hand over fortunes in $250M gold scheme — 40+ indicted after bullion melted down in Florida",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/byd-targets-more-2-5-085512407.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/over-200-us-seniors-hand-091500007.html"
   },
   {
    "t": "國巨8月營收續創新高　AI應用帶動產能利用率",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080169.aspx"
   },
   {
-   "t": "Germany Faces Winter Gas Shortage Risk as Storage Lags",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq futures slip amid rising oil prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/germany-faces-winter-gas-shortage-070000366.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html"
   },
   {
    "t": "雙鴻8月營收31.41億元年增67%　歷史第3高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080168.aspx"
   },
   {
-   "t": "Workday (WDAY)’s AI Push is Easing Investor Fears, but its Own Guidance Tells a More Cautious Story",
+   "t": "BYD targets more than 2.5 million vehicle exports in 2027, brokerages say",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/workday-wday-ai-push-easing-231129347.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/byd-targets-more-2-5-085512407.html"
   },
   {
    "t": "台塑四寶8月營收1570億元年增4成　台塑化南亞年月雙增",
