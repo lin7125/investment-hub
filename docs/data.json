@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08 15:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-08 15:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 47105.78,
-   "c": -0.47,
-   "a50": 44995.26,
-   "a200": 37436.84,
+   "p": 47326.27,
+   "c": 1.67,
+   "a50": 44953.14,
+   "a200": 37340.23,
    "yh": 47741.51,
    "yl": 24547.38,
-   "a20": 45877.39,
-   "r": 60.8
+   "a20": 45778.13,
+   "r": 62.7
   },
   {
    "s": "^GSPC",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.71,
-   "c": 2.52,
+   "p": 98.68,
+   "c": 2.49,
    "a50": 86.71,
    "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.7,
-   "r": 66.0
+   "r": 65.9
   },
   {
    "s": "GC=F",
-   "p": 4449.3,
-   "c": 0.44,
-   "a50": 4246.4,
-   "a200": 4522.4,
+   "p": 4451.8,
+   "c": 0.5,
+   "a50": 4246.45,
+   "a200": 4522.42,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.53,
-   "r": 53.6
+   "a20": 4471.65,
+   "r": 53.7
   },
   {
    "s": "HG=F",
    "p": 6.78,
-   "c": 2.71,
+   "c": 2.72,
    "a50": 6.44,
    "a200": 5.99,
    "yh": 6.78,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03173596,
-   "c": 0.35,
+   "p": 0.03174603,
+   "c": 0.39,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080124.aspx"
   },
   {
-   "t": "Apple (AAPL)’s New Mac Mini and Studio Bet Big on On-Device AI",
+   "t": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-mac-mini-studio-201609665.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html"
   },
   {
    "t": "台股跌220.49點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080123.aspx"
   },
   {
-   "t": "Okta Jumps 20% as AI-Driven Security Fears Fuel a Beat-and-Raise Quarter",
+   "t": "Apple (AAPL)’s New Mac Mini and Studio Bet Big on On-Device AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/okta-jumps-20-ai-driven-193519966.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-mac-mini-studio-201609665.html"
   },
   {
    "t": "經部公布浮動式離岸風電計畫草案　拚2027年第3季完成選商",
