@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 02:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 02:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,36 +212,36 @@
   },
   {
    "s": "AAPL",
-   "p": 316.27,
-   "c": -1.16,
-   "a50": 315.8,
-   "a200": 284.11,
+   "p": 316.49,
+   "c": -1.09,
+   "a50": 315.81,
+   "a200": 284.12,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.54,
-   "r": 50.2
+   "a20": 313.55,
+   "r": 50.4
   },
   {
    "s": "NVDA",
-   "p": 225.98,
-   "c": -1.9,
+   "p": 226.09,
+   "c": -1.85,
    "a50": 211.24,
    "a200": 196.9,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.5,
-   "r": 56.4
+   "a20": 220.51,
+   "r": 56.5
   },
   {
    "s": "TSLA",
-   "p": 366.35,
-   "c": 3.47,
-   "a50": 357.68,
+   "p": 365.5,
+   "c": 3.23,
+   "a50": 357.66,
    "a200": 399.38,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 350.21,
-   "r": 55.1
+   "a20": 350.17,
+   "r": 54.9
   },
   {
    "s": "META",
@@ -267,13 +267,13 @@
   },
   {
    "s": "^GSPC",
-   "p": 7693.12,
-   "c": -0.33,
-   "a50": 7598.49,
+   "p": 7692.61,
+   "c": -0.34,
+   "a50": 7598.48,
    "a200": 7147.14,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7705.7,
+   "a20": 7705.68,
    "r": 52.7
   },
   {
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.25,
-   "c": 1.01,
+   "p": 97.67,
+   "c": 1.44,
    "a50": 86.69,
    "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.63,
-   "r": 63.9
+   "a20": 91.65,
+   "r": 64.5
   },
   {
    "s": "GC=F",
-   "p": 4428.7,
-   "c": -0.02,
-   "a50": 4245.98,
-   "a200": 4522.3,
+   "p": 4430.5,
+   "c": 0.02,
+   "a50": 4246.02,
+   "a200": 4522.31,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4470.5,
-   "r": 52.3
+   "a20": 4470.59,
+   "r": 52.4
   },
   {
    "s": "HG=F",
    "p": 6.82,
-   "c": 3.46,
+   "c": 3.44,
    "a50": 6.44,
    "a200": 5.99,
    "yh": 6.82,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03173596,
-   "c": 0.35,
+   "c": 0.36,
    "a50": 0.03120125,
    "a200": 0.0315557,
    "yh": 0.033234,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080339.aspx"
   },
   {
-   "t": "Is Marathon Petroleum Stock Outperforming the S&P 500?",
+   "t": "Walt Disney mortgaged his house and sold his car to fund Snow White — his wife said she 'never felt secure'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-stock-outperforming-p-090034990.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/walt-disney-mortgaged-house-sold-093000183.html"
   },
   {
    "t": "大樂透頭獎2.5億元1注獨得　獎落台東縣大武鄉",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080335.aspx"
   },
   {
-   "t": "Ask an Advisor: Can I Use Roth Conversion Funds to Pay the Taxes on the Conversion?",
+   "t": "Is Marathon Petroleum Stock Outperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/ask-advisor-im-going-roth-100000968.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-stock-outperforming-p-090034990.html"
   },
   {
    "t": "元山8月營收年增2.36%　液冷效能實驗室第3季底前啟用",
