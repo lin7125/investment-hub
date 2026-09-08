@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08 07:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-08 08:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,44 +289,44 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.18,
-   "c": 0.93,
+   "p": 97.12,
+   "c": 0.87,
    "a50": 86.68,
    "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.63,
-   "r": 63.8
+   "a20": 91.62,
+   "r": 63.7
   },
   {
    "s": "GC=F",
-   "p": 4471.8,
-   "c": 0.95,
-   "a50": 4246.85,
-   "a200": 4522.52,
+   "p": 4468.1,
+   "c": 0.86,
+   "a50": 4246.77,
+   "a200": 4522.5,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.65,
-   "r": 54.9
+   "a20": 4472.47,
+   "r": 54.7
   },
   {
    "s": "HG=F",
    "p": 6.73,
-   "c": 2.07,
+   "c": 2.0,
    "a50": 6.43,
    "a200": 5.99,
    "yh": 6.73,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 62.5
+   "r": 62.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03162555,
-   "c": 0.23,
-   "a50": 0.03119152,
+   "p": 0.03174603,
+   "c": 0.37,
+   "a50": 0.03120125,
    "a200": 0.0315557,
-   "yh": 0.033278,
+   "yh": 0.033234,
    "yl": 0.030864
   }
  ],
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080002.aspx"
   },
   {
-   "t": "Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries — and pushing rates higher",
+   "t": "These AI numbers are getting crazy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/mohamed-el-erian-says-influx-153000281.html"
+   "u": "https://finance.yahoo.com/markets/article/these-ai-numbers-are-getting-crazy-123000121.html"
   },
   {
    "t": "傳Google台灣大裁員3至5成　官方澄清：完全背離事實",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070307.aspx"
   },
   {
-   "t": "South Korea Just Bet $20 Billion on SK hynix Stock",
+   "t": "IRS collected $3.5 billion less from audits in 2025 after losing 30% of its auditors to DOGE cuts, watchdog says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/south-korea-just-bet-20-153002546.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/irs-collected-3-5-billion-123000181.html"
   },
   {
    "t": "今彩539第115217期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609070303.aspx"
   },
   {
-   "t": "Stock Market Week Ahead: Week Of The Big Bond Scheme",
+   "t": "Fidelity says average 401(k) balances surged 11% to a record $155K in Q2 — why some savers are falling behind",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-week-of-the-big-bond-scheme/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/articles/fidelity-says-average-401-k-123000191.html"
   },
   {
    "t": "威力彩頭獎4.1億元1注獨得　獎落台中南屯",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609070302.aspx"
   },
   {
-   "t": "Bruker (BRKR) Wagers On Fusion Energy While Wall Street Waits",
+   "t": "SIGA Tech (SIGA): Profits Drop 65%, But Cash and Special Payouts Remain",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/bruker-brkr-wagers-fusion-energy-144830622.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/siga-tech-siga-profits-drop-124131686.html"
   },
   {
    "t": "網傳瑞幸咖啡將在台開幕　經部：已發函要求循投資管道申請",
