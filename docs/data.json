@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 07:29（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 07:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 99.39,
-   "c": 3.23,
+   "p": 99.42,
+   "c": 3.26,
    "a50": 86.73,
    "a200": 84.02,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 91.74,
-   "r": 66.8
+   "r": 66.9
   },
   {
    "s": "GC=F",
-   "p": 4396.0,
-   "c": -0.76,
-   "a50": 4245.33,
-   "a200": 4522.14,
+   "p": 4397.7,
+   "c": -0.72,
+   "a50": 4245.36,
+   "a200": 4522.15,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4468.86,
-   "r": 50.0
+   "a20": 4468.95,
+   "r": 50.1
   },
   {
    "s": "HG=F",
    "p": 6.78,
-   "c": 2.74,
+   "c": 2.71,
    "a50": 6.44,
    "a200": 5.99,
    "yh": 6.78,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "市場持續關注中東局勢　歐股多收高",
+   "t": "南非講堂邀台灣女性　分享創業再起",
    "pub": "中央社財經",
    "d": "2026-09-09",
-   "u": "https://www.cna.com.tw/news/afe/202609090003.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202609090014.aspx"
   },
   {
    "t": "Loss of Costco deal helps push beverage brand into Chapter 11",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/healthcare/articles/loss-costco-deal-helps-push-150700837.html"
   },
   {
-   "t": "共同社：日銀下週擬升息　將政策利率上調至1.25%",
+   "t": "中東局勢緊張壓抑投資人情緒　美股多收低費半獨強",
    "pub": "中央社財經",
-   "d": "2026-09-08",
-   "u": "https://www.cna.com.tw/news/aopl/202609080344.aspx"
+   "d": "2026-09-09",
+   "u": "https://www.cna.com.tw/news/afe/202609090009.aspx"
   },
   {
    "t": "Chevron Is Expanding Operations in Venezuela. How to Play CVX Stock Now.",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/energy/articles/chevron-expanding-operations-venezuela-play-153002599.html"
   },
   {
-   "t": "今彩539第115218期　頭獎槓龜",
+   "t": "中東能源設施遇襲　國際油價創7月底以來新高",
    "pub": "中央社財經",
-   "d": "2026-09-08",
-   "u": "https://www.cna.com.tw/news/ahel/202609080339.aspx"
+   "d": "2026-09-09",
+   "u": "https://www.cna.com.tw/news/afe/202609090008.aspx"
   },
   {
    "t": "Is 3M Stock Underperforming the Dow?",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/3m-stock-underperforming-dow-153400965.html"
   },
   {
-   "t": "大樂透頭獎2.5億元1注獨得　獎落台東縣大武鄉",
+   "t": "市場持續關注中東局勢　歐股多收高",
    "pub": "中央社財經",
-   "d": "2026-09-08",
-   "u": "https://www.cna.com.tw/news/ahel/202609080338.aspx"
+   "d": "2026-09-09",
+   "u": "https://www.cna.com.tw/news/afe/202609090003.aspx"
   },
   {
    "t": "Entegris (ENTG) Positions to Benefit From Rebounding Wafer Starts and Memory Capex",
@@ -380,22 +380,22 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/entegris-entg-positions-benefit-rebounding-153817721.html"
   },
   {
-   "t": "美加貿易戰升溫加劇通膨疑慮　美股盤初道瓊一度跌逾1%",
+   "t": "共同社：日銀下週擬升息　將政策利率上調至1.25%",
    "pub": "中央社財經",
    "d": "2026-09-08",
-   "u": "https://www.cna.com.tw/news/afe/202609080335.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609080344.aspx"
   },
   {
-   "t": "These 2 AI Power Stocks Jumped While the S&P 500 Fell",
+   "t": "Innovation Engine Drives SharkNinja’s (SN) Sustainable Advantage",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/2-ai-power-stocks-jumped-150120214.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/innovation-engine-drives-sharkninja-sn-150041521.html"
   },
   {
-   "t": "元山8月營收年增2.36%　液冷效能實驗室第3季底前啟用",
+   "t": "今彩539第115218期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-09-08",
-   "u": "https://www.cna.com.tw/news/afe/202609080331.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202609080339.aspx"
   },
   {
    "t": "EU regulators send early warning to Oracle ahead of earnings",
