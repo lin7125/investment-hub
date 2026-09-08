@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 01:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 01:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 316.07,
-   "c": -1.22,
+   "p": 316.11,
+   "c": -1.21,
    "a50": 315.8,
    "a200": 284.11,
    "yh": 340.08,
@@ -223,30 +223,30 @@
   },
   {
    "s": "NVDA",
-   "p": 226.02,
-   "c": -1.88,
+   "p": 226.11,
+   "c": -1.84,
    "a50": 211.24,
    "a200": 196.9,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 220.51,
-   "r": 56.4
+   "r": 56.5
   },
   {
    "s": "TSLA",
-   "p": 367.77,
-   "c": 3.87,
-   "a50": 357.71,
+   "p": 367.36,
+   "c": 3.75,
+   "a50": 357.7,
    "a200": 399.39,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 350.28,
-   "r": 55.6
+   "a20": 350.26,
+   "r": 55.5
   },
   {
    "s": "META",
-   "p": 618.09,
-   "c": 0.21,
+   "p": 618.12,
+   "c": 0.22,
    "a50": 596.85,
    "a200": 622.39,
    "yh": 780.25,
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7691.82,
+   "p": 7691.43,
    "c": -0.35,
    "a50": 7598.46,
    "a200": 7147.14,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7705.64,
+   "a20": 7705.62,
    "r": 52.6
   },
   {
    "s": "^VIX",
-   "p": 15.23,
-   "c": -0.46,
+   "p": 15.26,
+   "c": -0.26,
    "a50": 16.09,
    "a200": 18.15,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.09,
-   "r": 48.7
+   "r": 48.8
   },
   {
    "s": "BZ=F",
-   "p": 96.85,
-   "c": 0.59,
+   "p": 97.14,
+   "c": 0.89,
    "a50": 86.68,
    "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.61,
-   "r": 63.3
+   "a20": 91.62,
+   "r": 63.8
   },
   {
    "s": "GC=F",
-   "p": 4445.7,
-   "c": 0.36,
-   "a50": 4246.32,
-   "a200": 4522.39,
+   "p": 4443.0,
+   "c": 0.3,
+   "a50": 4246.27,
+   "a200": 4522.37,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.35,
-   "r": 53.4
+   "a20": 4471.21,
+   "r": 53.2
   },
   {
    "s": "HG=F",
    "p": 6.83,
-   "c": 3.54,
+   "c": 3.52,
    "a50": 6.44,
    "a200": 5.99,
    "yh": 6.83,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080338.aspx"
   },
   {
-   "t": "Bond yield worries persist as oil edges higher : AlphaCheck",
+   "t": "Qualcomm and Amazon ink deal for custom data center chips",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/bond-yield-worries-persist-as-oil-edges-higher--alphacheck-135158227.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/qualcomm-and-amazon-ink-deal-for-custom-data-center-chips-170048117.html"
   },
   {
    "t": "美加貿易戰升溫加劇通膨疑慮　美股盤初道瓊一度跌逾1%",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080335.aspx"
   },
   {
-   "t": "401(k) savers are setting records. How to catch up if you're behind.",
+   "t": "United Natural Foods, Inc. Q4 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/401k-savers-are-setting-records-how-to-catch-up-if-youre-behind-162009045.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/united-natural-foods-inc-q4-170039009.html"
   },
   {
    "t": "元山8月營收年增2.36%　液冷效能實驗室第3季底前啟用",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080331.aspx"
   },
   {
-   "t": "How To Take Advantage Of This Rising Stock With Reduced Risk",
+   "t": "Why Valaris (VAL) Surged on a Takeover Bid",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/robinhood-stock-hood-bullish-diagonal-spread-options/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-valaris-val-surged-takeover-165420282.html"
   },
   {
    "t": "盧秀燕憂中火增氣不拆煤　台電：10月拆除2部燃煤機組",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080330.aspx"
   },
   {
-   "t": "T-Pain buys private jet — just a few years after borrowing cash to get Burger King. Break your bad spending habits now",
+   "t": "Transocean (RIG) Is Betting Big on Offshore Drilling",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/t-pain-buys-private-jet-163000345.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/transocean-rig-betting-big-offshore-165410816.html"
   },
   {
    "t": "保險業TIS申報期限延後　上半年改9月底、年報隔年4月底",
