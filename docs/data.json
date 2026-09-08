@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 04:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 04:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,36 +278,36 @@
   },
   {
    "s": "^VIX",
-   "p": 15.68,
-   "c": 2.48,
+   "p": 15.77,
+   "c": 3.07,
    "a50": 16.1,
    "a200": 18.16,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.11,
-   "r": 51.0
+   "a20": 15.12,
+   "r": 51.4
   },
   {
    "s": "BZ=F",
-   "p": 98.89,
-   "c": 2.71,
+   "p": 99.1,
+   "c": 2.93,
    "a50": 86.72,
    "a200": 84.02,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.71,
-   "r": 66.2
+   "a20": 91.72,
+   "r": 66.5
   },
   {
    "s": "GC=F",
-   "p": 4405.4,
-   "c": -0.55,
-   "a50": 4245.52,
-   "a200": 4522.18,
+   "p": 4406.0,
+   "c": -0.54,
+   "a50": 4245.53,
+   "a200": 4522.19,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.33,
-   "r": 50.6
+   "a20": 4469.36,
+   "r": 50.7
   },
   {
    "s": "HG=F",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609080344.aspx"
   },
   {
-   "t": "ChargePoint (CHPT) Posts Strong Q2 Results, But Q3 Outlook Raises Concerns",
+   "t": "Apple’s New CEO Just Teed Up a ‘Phenomenal’ Launch on Sept. 9. Here’s What to Expect From Apple’s New Chapter.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chargepoint-chpt-posts-strong-q2-112224186.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-just-teed-phenomenal-113002032.html"
   },
   {
    "t": "今彩539第115218期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609080338.aspx"
   },
   {
-   "t": "Apple’s New CEO Just Teed Up a ‘Phenomenal’ Launch on Sept. 9. Here’s What to Expect From Apple’s New Chapter.",
+   "t": "Audi introduces new compact EV in bid to boost European sales",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-just-teed-phenomenal-113002032.html"
+   "u": "https://finance.yahoo.com/news/audi-introduces-compact-ev-bid-113825482.html"
   },
   {
    "t": "美加貿易戰升溫加劇通膨疑慮　美股盤初道瓊一度跌逾1%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080335.aspx"
   },
   {
-   "t": "Capital One Financial Stock: Is COF Underperforming the Financial Services Sector?",
+   "t": "ChargePoint (CHPT) Posts Strong Q2 Results, But Q3 Outlook Raises Concerns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/capital-one-financial-stock-cof-111138250.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chargepoint-chpt-posts-strong-q2-112224186.html"
   },
   {
    "t": "元山8月營收年增2.36%　液冷效能實驗室第3季底前啟用",
