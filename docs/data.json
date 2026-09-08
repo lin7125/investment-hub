@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08 08:29（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-08 08:39（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46551.13,
-   "c": 1.51,
-   "a50": 44898.05,
-   "a200": 37242.95,
+   "p": 47326.27,
+   "c": 1.67,
+   "a50": 44953.14,
+   "a200": 37340.23,
    "yh": 47741.51,
    "yl": 24547.38,
-   "a20": 45658.26,
-   "r": 58.5
+   "a20": 45778.13,
+   "r": 62.7
   },
   {
    "s": "^GSPC",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.18,
-   "c": 0.93,
+   "p": 96.97,
+   "c": 0.72,
    "a50": 86.68,
    "a200": 84.01,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 91.63,
-   "r": 63.8
+   "a20": 91.61,
+   "r": 63.5
   },
   {
    "s": "GC=F",
-   "p": 4475.0,
-   "c": 1.02,
-   "a50": 4246.91,
-   "a200": 4522.53,
+   "p": 4466.8,
+   "c": 0.84,
+   "a50": 4246.75,
+   "a200": 4522.49,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.81,
-   "r": 55.1
+   "a20": 4472.4,
+   "r": 54.6
   },
   {
    "s": "HG=F",
-   "p": 6.76,
-   "c": 2.46,
+   "p": 6.75,
+   "c": 2.31,
    "a50": 6.43,
    "a200": 5.99,
-   "yh": 6.76,
+   "yh": 6.75,
    "yl": 4.49,
    "a20": 6.58,
-   "r": 63.6
+   "r": 63.2
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609080002.aspx"
   },
   {
-   "t": "Voya Financial’s (VOYA) Earnings Fell While Its Retirement Business Boomed",
+   "t": "Are banks open on Labor Day? 12 federal holidays when your bank is closed.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/voya-financial-voya-earnings-fell-124948124.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/are-banks-open-today-221315751.html"
   },
   {
    "t": "傳Google台灣大裁員3至5成　官方澄清：完全背離事實",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609070307.aspx"
   },
   {
-   "t": "SIGA Tech (SIGA): Profits Drop 65%, But Cash and Special Payouts Remain",
+   "t": "Dell Stock Spiked After Earnings, But Is It Close to Fair Value? Shorting Puts and Calls Work Here",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/siga-tech-siga-profits-drop-124131686.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/dell-stock-spiked-earnings-close-130002194.html"
   },
   {
    "t": "今彩539第115217期　頭獎1注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609070303.aspx"
   },
   {
-   "t": "Protagonist (PTGX) Swings To A Profit As Two Drugs Near Blockbuster Status",
+   "t": "Apple Stock: September Surprise Could Be Bigger Than a New iPhone",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/protagonist-ptgx-swings-profit-two-125554207.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-september-surprise-could-130002154.html"
   },
   {
    "t": "威力彩頭獎4.1億元1注獨得　獎落台中南屯",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609070302.aspx"
   },
   {
-   "t": "These AI numbers are getting crazy",
+   "t": "Micron Stock More Than Tripled in 2026. Now Taiwan Strike Threat Could Shake the AI Boom.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/these-ai-numbers-are-getting-crazy-123000121.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-more-tripled-2026-130002463.html"
   },
   {
    "t": "網傳瑞幸咖啡將在台開幕　經部：已發函要求循投資管道申請",
