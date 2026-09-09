@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 15:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 15:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 15.62,
-   "c": -0.64,
+   "p": 15.59,
+   "c": -0.83,
    "a50": 16.08,
    "a200": 18.12,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.17,
-   "r": 50.6
+   "r": 50.5
   },
   {
    "s": "BZ=F",
-   "p": 100.02,
-   "c": 2.14,
-   "a50": 87.24,
+   "p": 99.65,
+   "c": 1.77,
+   "a50": 87.23,
    "a200": 84.19,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.22,
-   "r": 67.8
+   "a20": 92.2,
+   "r": 67.3
   },
   {
    "s": "GC=F",
-   "p": 4449.5,
-   "c": 1.27,
-   "a50": 4253.83,
-   "a200": 4523.99,
+   "p": 4452.9,
+   "c": 1.34,
+   "a50": 4253.9,
+   "a200": 4524.0,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.08,
-   "r": 53.5
+   "a20": 4472.25,
+   "r": 53.7
   },
   {
    "s": "HG=F",
    "p": 6.8,
-   "c": 0.91,
+   "c": 0.9,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.8,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03182686,
-   "c": 0.26,
+   "c": 0.27,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609090136.aspx"
   },
   {
-   "t": "GM, Ford Turn EV Battery Bust Into Energy Storage Bet",
+   "t": "Jim Cramer Says Buy Walmart (WMT) as Target’s (TGT) Turnaround Gains Momentum",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/gm-ford-turn-ev-battery-200000768.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-walmart-202439296.html"
   },
   {
    "t": "韓國核電輸美背後戰略盤算　築經貿保護傘兼解AI電荒",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090133.aspx"
   },
   {
-   "t": "Chevron’s Record Run Isn’t Over Yet, BMO Says",
+   "t": "Jim Cramer Discusses NVIDIA (NVDA) Acquiring Hugging Face",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/chevron-record-run-isn-t-201647397.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-discusses-nvidia-nvda-202249174.html"
   },
   {
    "t": "意騰：明年營收估增2位數　成本升與客戶討論漲價",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090123.aspx"
   },
   {
-   "t": "Jim Cramer Discusses NVIDIA (NVDA) Acquiring Hugging Face",
+   "t": "CIBC Turns Bullish on Enbridge (ENB) After KKR-Apollo Deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-discusses-nvidia-nvda-202249174.html"
+   "u": "https://finance.yahoo.com/energy/articles/cibc-turns-bullish-enbridge-enb-202622223.html"
   },
   {
    "t": "日月光投控擴大使用再生能源　拚2035年占比57%",
