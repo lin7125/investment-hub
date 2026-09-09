@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 07:23（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 07:28（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 102.05,
-   "c": 4.22,
+   "p": 102.09,
+   "c": 4.26,
    "a50": 87.28,
    "a200": 84.2,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4446.4,
-   "c": 1.19,
-   "a50": 4253.77,
-   "a200": 4523.97,
+   "p": 4443.4,
+   "c": 1.13,
+   "a50": 4253.71,
+   "a200": 4523.95,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.93,
-   "r": 53.3
+   "a20": 4471.78,
+   "r": 53.1
   },
   {
    "s": "HG=F",
    "p": 6.86,
-   "c": 1.79,
+   "c": 1.77,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.86,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 67.9
+   "r": 67.8
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609100003.aspx"
   },
   {
-   "t": "Sugar Prices Are Climbing Higher. How to Trade Them Here.",
+   "t": "Bank of America Is Bullish on SK hynix Stock as the Memory Chip Market Stays Tight",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/sugar-prices-climbing-higher-trade-153205875.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bullish-sk-hynix-153622945.html"
   },
   {
    "t": "美伊衝突再起　歐股收跌油價走高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100002.aspx"
   },
   {
-   "t": "Andrew Sather: “Most Investors Are Missing Why” Coca-Cola Is Outperforming",
+   "t": "Alvopetro expands Canadian drilling inventory by 75% with new Mannville acreage",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/andrew-sather-most-investors-missing-153234071.html"
+   "u": "https://finance.yahoo.com/video/alvopetro-expands-canadian-drilling-inventory-153615413.html"
   },
   {
    "t": "除權畸零股爭議　緯穎：開放小股東10元認購1股",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090339.aspx"
   },
   {
-   "t": "Middle East Hostilities Underpin Crude Oil Prices",
+   "t": "The Kroger Co. (KR) Shares Weighed by Inflation Pressure and Slowing Sales",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/middle-east-hostilities-underpin-crude-152954672.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kroger-co-kr-shares-weighed-153940365.html"
   },
   {
    "t": "今彩539第115219期　頭獎4注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090335.aspx"
   },
   {
-   "t": "An AI Stock Launched a Rack-Scale System 30x Faster Than Nvidia’s GPUs. Here’s Why It Is Still a Risky Buy.",
+   "t": "Sugar Prices Are Climbing Higher. How to Trade Them Here.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-launched-rack-scale-152605499.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/sugar-prices-climbing-higher-trade-153205875.html"
   },
   {
    "t": "核二廠外核安演練　實測多元警報與疏散機制",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090331.aspx"
   },
   {
-   "t": "Bank of America Is Bullish on SK hynix Stock as the Memory Chip Market Stays Tight",
+   "t": "Evaluating Bullish Potential in Regeneron Pharmaceuticals (REGN) Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bullish-sk-hynix-153622945.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/evaluating-bullish-potential-regeneron-pharmaceuticals-154140916.html"
   },
   {
    "t": "國科會率台灣智慧醫療團隊赴新加坡　加速拓展國際市場",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090326.aspx"
   },
   {
-   "t": "The Kroger Co. (KR) Shares Weighed by Inflation Pressure and Slowing Sales",
+   "t": "Middle East Hostilities Underpin Crude Oil Prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/kroger-co-kr-shares-weighed-153940365.html"
+   "u": "https://finance.yahoo.com/energy/articles/middle-east-hostilities-underpin-crude-152954672.html"
   }
  ],
  "inst": {
