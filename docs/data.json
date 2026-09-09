@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 03:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 03:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 315.18,
-   "c": -0.33,
-   "a50": 316.47,
+   "p": 315.73,
+   "c": -0.15,
+   "a50": 316.48,
    "a200": 284.35,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 314.05,
-   "r": 49.2
+   "a20": 314.08,
+   "r": 49.7
   },
   {
    "s": "NVDA",
-   "p": 223.77,
-   "c": -0.87,
+   "p": 223.74,
+   "c": -0.88,
    "a50": 211.81,
    "a200": 197.09,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 368.99,
-   "c": 0.23,
+   "p": 368.82,
+   "c": 0.18,
    "a50": 356.86,
    "a200": 399.22,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 352.11,
-   "r": 56.0
+   "a20": 352.1,
+   "r": 55.9
   },
   {
    "s": "META",
-   "p": 655.04,
-   "c": 6.77,
-   "a50": 598.6,
+   "p": 653.56,
+   "c": 6.53,
+   "a50": 598.58,
    "a200": 622.69,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 580.6,
-   "r": 70.7
+   "a20": 580.53,
+   "r": 70.4
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7644.18,
-   "c": -0.38,
-   "a50": 7602.17,
-   "a200": 7152.06,
+   "p": 7641.58,
+   "c": -0.42,
+   "a50": 7602.12,
+   "a200": 7152.04,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7700.52,
-   "r": 48.2
+   "a20": 7700.39,
+   "r": 48.0
   },
   {
    "s": "^VIX",
-   "p": 16.29,
-   "c": 3.63,
+   "p": 16.3,
+   "c": 3.69,
    "a50": 16.1,
    "a200": 18.12,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.2,
-   "r": 54.0
+   "r": 54.1
   },
   {
    "s": "BZ=F",
-   "p": 101.26,
-   "c": 3.41,
+   "p": 101.17,
+   "c": 3.32,
    "a50": 87.26,
    "a200": 84.2,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 92.28,
-   "r": 69.3
+   "r": 69.2
   },
   {
    "s": "GC=F",
-   "p": 4450.0,
-   "c": 1.28,
-   "a50": 4253.84,
-   "a200": 4523.99,
+   "p": 4443.4,
+   "c": 1.13,
+   "a50": 4253.71,
+   "a200": 4523.95,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.11,
-   "r": 53.6
+   "a20": 4471.78,
+   "r": 53.1
   },
   {
    "s": "HG=F",
    "p": 6.86,
-   "c": 1.85,
+   "c": 1.83,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.86,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.0317662,
-   "c": 0.09,
+   "p": 0.03177629,
+   "c": 0.11,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090335.aspx"
   },
   {
-   "t": "Pladis ramps up China ambitions with McVitie’s Flipz pretzels",
+   "t": "Walmart Has Gone Practically Nowhere, While Target Is Up 68%. But Only 1 of These Dividend Kings Is a Buy in September.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/pladis-ramps-china-ambitions-mcvitie-102742719.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-gone-practically-nowhere-while-103700584.html"
   },
   {
    "t": "核二廠外核安演練　實測多元警報與疏散機制",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090331.aspx"
   },
   {
-   "t": "Stock Index Futures Mixed as Oil Nears $100, U.S. Inflation Data Awaited",
+   "t": "Is GE Vernova Stock Outperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-mixed-oil-103035860.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-outperforming-dow-103304948.html"
   },
   {
    "t": "國科會率台灣智慧醫療團隊赴新加坡　加速拓展國際市場",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090326.aspx"
   },
   {
-   "t": "Is GE Vernova Stock Outperforming the Dow?",
+   "t": "Morning Bid: Yen at work",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-outperforming-dow-103304948.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/morning-bid-yen-103625104.html"
   },
   {
    "t": "董瑞斌遭冒名發送電子郵件　金融總會呼籲提高警覺",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090315.aspx"
   },
   {
-   "t": "Morning Bid: Yen at work",
+   "t": "Stock Index Futures Mixed as Oil Nears $100, U.S. Inflation Data Awaited",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/morning-bid-yen-103625104.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-mixed-oil-103035860.html"
   },
   {
    "t": "數發部AI風險檢核系統　協助各部會盤點法規調適",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090314.aspx"
   },
   {
-   "t": "Walmart Has Gone Practically Nowhere, While Target Is Up 68%. But Only 1 of These Dividend Kings Is a Buy in September.",
+   "t": "Nuvei pays $4.9M to settle FTC case",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-gone-practically-nowhere-while-103700584.html"
+   "u": "https://finance.yahoo.com/small-business/articles/nuvei-pays-4-9m-settle-103700938.html"
   }
  ],
  "inst": {
