@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 03:15（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 03:25（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 316.27,
-   "c": 0.02,
-   "a50": 316.49,
+   "p": 315.6,
+   "c": -0.2,
+   "a50": 316.48,
    "a200": 284.35,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 314.11,
-   "r": 50.2
+   "a20": 314.07,
+   "r": 49.6
   },
   {
    "s": "NVDA",
-   "p": 223.74,
-   "c": -0.88,
-   "a50": 211.81,
+   "p": 224.29,
+   "c": -0.64,
+   "a50": 211.82,
    "a200": 197.09,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.8,
-   "r": 54.4
+   "a20": 220.83,
+   "r": 54.9
   },
   {
    "s": "TSLA",
-   "p": 369.45,
-   "c": 0.35,
-   "a50": 356.87,
+   "p": 369.02,
+   "c": 0.23,
+   "a50": 356.86,
    "a200": 399.22,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 352.14,
-   "r": 56.1
+   "a20": 352.11,
+   "r": 56.0
   },
   {
    "s": "META",
-   "p": 655.02,
-   "c": 6.77,
-   "a50": 598.6,
-   "a200": 622.69,
+   "p": 655.55,
+   "c": 6.86,
+   "a50": 598.62,
+   "a200": 622.7,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 580.6,
-   "r": 70.7
+   "a20": 580.63,
+   "r": 70.8
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7644.53,
-   "c": -0.38,
-   "a50": 7602.18,
-   "a200": 7152.06,
+   "p": 7647.85,
+   "c": -0.33,
+   "a50": 7602.25,
+   "a200": 7152.07,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7700.54,
-   "r": 48.2
+   "a20": 7700.7,
+   "r": 48.5
   },
   {
    "s": "^VIX",
-   "p": 16.21,
-   "c": 3.12,
+   "p": 16.23,
+   "c": 3.24,
    "a50": 16.09,
    "a200": 18.12,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.2,
-   "r": 53.6
+   "r": 53.7
   },
   {
    "s": "BZ=F",
-   "p": 101.49,
-   "c": 3.65,
-   "a50": 87.27,
+   "p": 101.33,
+   "c": 3.48,
+   "a50": 87.26,
    "a200": 84.2,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.29,
-   "r": 69.6
+   "a20": 92.28,
+   "r": 69.4
   },
   {
    "s": "GC=F",
-   "p": 4443.0,
-   "c": 1.12,
-   "a50": 4253.7,
-   "a200": 4523.95,
+   "p": 4445.6,
+   "c": 1.18,
+   "a50": 4253.75,
+   "a200": 4523.97,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.76,
-   "r": 53.1
+   "a20": 4471.89,
+   "r": 53.3
   },
   {
    "s": "HG=F",
    "p": 6.86,
-   "c": 1.78,
+   "c": 1.83,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.86,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 67.9
+   "r": 68.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03177629,
-   "c": 0.1,
+   "p": 0.0317662,
+   "c": 0.09,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090335.aspx"
   },
   {
-   "t": "Vaxcyte Has $2.5 Billion in Cash and a $605 Million Half-Year Loss. Here's How to Read Its CFO's Latest Insider Filing",
+   "t": "U.S. Energy Stocks Rise Premarket as Brent Approaches $100",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/vaxcyte-2-5-billion-cash-101101147.html"
+   "u": "https://finance.yahoo.com/energy/articles/u-energy-stocks-rise-premarket-101216428.html"
   },
   {
    "t": "核二廠外核安演練　實測多元警報與疏散機制",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090331.aspx"
   },
   {
-   "t": "China’s Crude Buying Rebounds as Fuel Exports Jump 29%",
+   "t": "Stock Index Futures Mixed as Oil Nears $100, U.S. Inflation Data Awaited",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/china-crude-buying-rebounds-fuel-100000225.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-mixed-oil-103035860.html"
   },
   {
    "t": "國科會率台灣智慧醫療團隊赴新加坡　加速拓展國際市場",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090326.aspx"
   },
   {
-   "t": "Stock Index Futures Mixed as Oil Nears $100, U.S. Inflation Data Awaited",
+   "t": "Is GE Vernova Stock Outperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-mixed-oil-103035860.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-outperforming-dow-103304948.html"
   },
   {
    "t": "董瑞斌遭冒名發送電子郵件　金融總會呼籲提高警覺",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090316.aspx"
   },
   {
-   "t": "Is GE Vernova Stock Outperforming the Dow?",
+   "t": "What Were Markets Doing Early This Last Manic Tuesday?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-outperforming-dow-103304948.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/were-markets-doing-early-last-103526416.html"
   },
   {
    "t": "今彩539第115219期開獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090315.aspx"
   },
   {
-   "t": "What Were Markets Doing Early This Last Manic Tuesday?",
+   "t": "Morning Bid: Yen at work",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/were-markets-doing-early-last-103526416.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/morning-bid-yen-103625104.html"
   },
   {
    "t": "數發部AI風險檢核系統　協助各部會盤點法規調適",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090314.aspx"
   },
   {
-   "t": "Funding Circle H1 Earnings Call Highlights",
+   "t": "C.H. Robinson Shares Rise 1.5% Premarket Without New Company Announcement",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/funding-circle-h1-earnings-call-100204420.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/c-h-robinson-shares-rise-101532827.html"
   }
  ],
  "inst": {
