@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 01:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 02:03（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 313.1,
-   "c": -0.99,
+   "p": 313.45,
+   "c": -0.88,
    "a50": 316.43,
    "a200": 284.34,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.95,
-   "r": 47.3
+   "a20": 313.96,
+   "r": 47.6
   },
   {
    "s": "NVDA",
-   "p": 224.23,
-   "c": -0.67,
+   "p": 224.29,
+   "c": -0.64,
    "a50": 211.82,
    "a200": 197.09,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 220.83,
-   "r": 54.8
+   "r": 54.9
   },
   {
    "s": "TSLA",
-   "p": 368.85,
-   "c": 0.19,
+   "p": 368.77,
+   "c": 0.16,
    "a50": 356.86,
    "a200": 399.22,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 352.11,
+   "a20": 352.1,
    "r": 55.9
   },
   {
    "s": "META",
-   "p": 651.84,
-   "c": 6.25,
-   "a50": 598.54,
+   "p": 652.07,
+   "c": 6.29,
+   "a50": 598.55,
    "a200": 622.68,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 580.45,
+   "a20": 580.46,
    "r": 70.1
   },
   {
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7646.53,
-   "c": -0.35,
-   "a50": 7602.22,
-   "a200": 7152.07,
+   "p": 7645.47,
+   "c": -0.37,
+   "a50": 7602.2,
+   "a200": 7152.06,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7700.64,
-   "r": 48.4
+   "a20": 7700.58,
+   "r": 48.3
   },
   {
    "s": "^VIX",
-   "p": 16.3,
-   "c": 3.69,
-   "a50": 16.1,
+   "p": 16.22,
+   "c": 3.18,
+   "a50": 16.09,
    "a200": 18.12,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.2,
-   "r": 54.1
+   "r": 53.7
   },
   {
    "s": "BZ=F",
-   "p": 100.78,
-   "c": 2.92,
+   "p": 100.76,
+   "c": 2.9,
    "a50": 87.25,
    "a200": 84.2,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.26,
+   "a20": 92.25,
    "r": 68.7
   },
   {
    "s": "GC=F",
-   "p": 4460.3,
-   "c": 1.51,
-   "a50": 4254.05,
+   "p": 4461.0,
+   "c": 1.53,
+   "a50": 4254.06,
    "a200": 4524.04,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.62,
+   "a20": 4472.66,
    "r": 54.2
   },
   {
    "s": "HG=F",
    "p": 6.88,
-   "c": 2.12,
+   "c": 2.08,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.88,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 68.7
+   "r": 68.6
   },
   {
    "s": "TWDUSD",
    "p": 0.0317864,
-   "c": 0.13,
+   "c": 0.14,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090335.aspx"
   },
   {
-   "t": "SoFi Dips 3% Despite Reported Kraken Crypto Settlement Tie-Up; Affirm Drops 5%, Robinhood Holds Steady",
+   "t": "Is Netflix a Good Buy? After 10 Years of Covering NFLX, Here's My Honest Answer.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sofi-dips-3-despite-reported-173925414.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/netflix-good-buy-10-years-175000193.html"
   },
   {
    "t": "核二廠外核安演練　實測多元警報與疏散機制",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090331.aspx"
   },
   {
-   "t": "Apple Unveils iPhone 18 Handsets, Touts AI Capabilities",
+   "t": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/apple-stock-fall-2026-product-launch-event/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/news/brent-crude-rises-above-100-073722479.html"
   },
   {
    "t": "國科會率台灣智慧醫療團隊赴新加坡　加速拓展國際市場",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090326.aspx"
   },
   {
-   "t": "Jim Cramer Prefers CoreWeave (CRWV) Over IREN (IREN)",
+   "t": "Inditex Breaks Records and Still Gets Marked Down",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-coreweave-crwv-172351539.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/inditex-breaks-records-still-gets-173958249.html"
   },
   {
    "t": "董瑞斌遭冒名發送電子郵件　金融總會呼籲提高警覺",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090316.aspx"
   },
   {
-   "t": "Gasoline prices are 'highest ever for this time of year': Chart of the Day",
+   "t": "Core & Main, Inc. Q2 2027 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/gasoline-prices-are-highest-ever-for-this-time-of-year-chart-of-the-day-172249427.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/core-main-inc-q2-2027-173606411.html"
   },
   {
    "t": "今彩539第115219期開獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090315.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq sink as oil prices surpass $100, Treasury yields jump",
+   "t": "Apple Unveils iPhone 18 Handsets, Touts AI Capabilities",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-9-dow-sp-500-nasdaq-futures-080411279.html"
+   "u": "https://www.investors.com/news/technology/apple-stock-fall-2026-product-launch-event/?src=A00220&yptr=yahoo"
   },
   {
    "t": "數發部AI風險檢核系統　協助各部會盤點法規調適",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090314.aspx"
   },
   {
-   "t": "Jim Cramer on Alphabet (GOOGL): “I Don’t Care Where It Went, I Care Where It’s Going”",
+   "t": "Red Rock Resorts Chief Legal Officer Sells 9,000 Shares",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-alphabet-googl-don-171250820.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/red-rock-resorts-chief-legal-175001236.html"
   }
  ],
  "inst": {
