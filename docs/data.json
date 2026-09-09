@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 16:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 16:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 15.7,
-   "c": -0.13,
+   "p": 15.67,
+   "c": -0.32,
    "a50": 16.08,
    "a200": 18.12,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.17,
-   "r": 51.1
+   "r": 50.9
   },
   {
    "s": "BZ=F",
-   "p": 99.88,
-   "c": 2.0,
-   "a50": 87.23,
+   "p": 99.99,
+   "c": 2.11,
+   "a50": 87.24,
    "a200": 84.19,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.21,
-   "r": 67.6
+   "a20": 92.22,
+   "r": 67.8
   },
   {
    "s": "GC=F",
-   "p": 4453.1,
+   "p": 4453.4,
    "c": 1.35,
-   "a50": 4253.9,
+   "a50": 4253.91,
    "a200": 4524.0,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.26,
-   "r": 53.7
+   "a20": 4472.28,
+   "r": 53.8
   },
   {
    "s": "HG=F",
-   "p": 6.78,
-   "c": 0.65,
+   "p": 6.79,
+   "c": 0.74,
    "a50": 6.45,
    "a200": 6.0,
-   "yh": 6.78,
+   "yh": 6.79,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 64.8
+   "r": 65.1
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609090136.aspx"
   },
   {
-   "t": "Chevron’s Record Run Isn’t Over Yet, BMO Says",
+   "t": "Jim Cramer Discusses NVIDIA (NVDA) Acquiring Hugging Face",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/chevron-record-run-isn-t-201647397.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-discusses-nvidia-nvda-202249174.html"
   },
   {
    "t": "韓國核電輸美背後戰略盤算　築經貿保護傘兼解AI電荒",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090133.aspx"
   },
   {
-   "t": "SLB Bets $4.1 Billion on the AI Data Center Boom",
+   "t": "Jim Cramer Says Buy Walmart (WMT) as Target’s (TGT) Turnaround Gains Momentum",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/slb-bets-4-1-billion-202013359.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-walmart-202439296.html"
   },
   {
    "t": "意騰：明年營收估增2位數　成本升與客戶討論漲價",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090129.aspx"
   },
   {
-   "t": "Jim Cramer Discusses NVIDIA (NVDA) Acquiring Hugging Face",
+   "t": "SLB Bets $4.1 Billion on the AI Data Center Boom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-discusses-nvidia-nvda-202249174.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/slb-bets-4-1-billion-202013359.html"
   },
   {
    "t": "強化淨水藥劑管理　台水推NSF國際認證把關飲水安全",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090123.aspx"
   },
   {
-   "t": "Jim Cramer Says Buy Walmart (WMT) as Target’s (TGT) Turnaround Gains Momentum",
+   "t": "Chevron’s Record Run Isn’t Over Yet, BMO Says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-walmart-202439296.html"
+   "u": "https://finance.yahoo.com/energy/articles/chevron-record-run-isn-t-201647397.html"
   },
   {
    "t": "日月光投控擴大使用再生能源　拚2035年占比57%",
@@ -405,79 +405,79 @@
   }
  ],
  "inst": {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "byCode": {
-   "2330": {
-    "f": 5496,
-    "t": 1204,
-    "all": 6303
-   },
-   "6446": {
-    "f": 906,
-    "t": 51,
-    "all": 949
-   },
-   "2454": {
-    "f": 270,
-    "t": 187,
-    "all": 234
-   },
-   "6442": {
-    "f": 1,
-    "t": 207,
-    "all": 220
-   },
-   "6515": {
-    "f": 119,
-    "t": 93,
-    "all": 208
-   },
-   "6706": {
-    "f": 88,
-    "t": 0,
-    "all": 93
-   },
-   "6862": {
-    "f": -17,
-    "t": 0,
-    "all": -19
-   },
-   "3701": {
-    "f": -18,
-    "t": 0,
-    "all": -22
-   },
-   "4722": {
-    "f": -11,
-    "t": 0,
-    "all": -30
-   },
-   "2308": {
-    "f": -740,
-    "t": -516,
-    "all": -1283
-   },
-   "2305": {
-    "f": -1866,
-    "t": 0,
-    "all": -1756
-   },
-   "2327": {
-    "f": -1170,
-    "t": -901,
-    "all": -2144
+   "2317": {
+    "f": 3133,
+    "t": -35,
+    "all": 2584
    },
    "1802": {
-    "f": -3081,
-    "t": 44,
-    "all": -3293
+    "f": 2411,
+    "t": 49,
+    "all": 2584
    },
-   "2317": {
-    "f": -13290,
-    "t": -25,
-    "all": -14383
+   "2305": {
+    "f": 343,
+    "t": -4,
+    "all": 443
+   },
+   "2308": {
+    "f": 898,
+    "t": -433,
+    "all": 435
+   },
+   "3701": {
+    "f": 131,
+    "t": 0,
+    "all": 143
+   },
+   "4722": {
+    "f": 30,
+    "t": 28,
+    "all": 52
+   },
+   "6862": {
+    "f": 13,
+    "t": 0,
+    "all": 11
+   },
+   "6706": {
+    "f": -63,
+    "t": 0,
+    "all": -86
+   },
+   "6515": {
+    "f": -289,
+    "t": 136,
+    "all": -148
+   },
+   "6442": {
+    "f": -105,
+    "t": -111,
+    "all": -207
+   },
+   "2454": {
+    "f": -758,
+    "t": 172,
+    "all": -613
+   },
+   "6446": {
+    "f": -1343,
+    "t": -4,
+    "all": -1351
+   },
+   "2330": {
+    "f": -2559,
+    "t": -229,
+    "all": -2746
+   },
+   "2327": {
+    "f": -3386,
+    "t": -12,
+    "all": -3527
    }
   },
-  "totalNetE": -125.1
+  "totalNetE": 220.8
  }
 }
