@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 01:22（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 01:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 312.18,
-   "c": -1.28,
-   "a50": 316.41,
+   "p": 311.91,
+   "c": -1.36,
+   "a50": 316.4,
    "a200": 284.33,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.9,
-   "r": 46.5
+   "a20": 313.89,
+   "r": 46.3
   },
   {
    "s": "NVDA",
-   "p": 224.24,
-   "c": -0.66,
-   "a50": 211.82,
+   "p": 224.09,
+   "c": -0.73,
+   "a50": 211.81,
    "a200": 197.09,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.83,
-   "r": 54.8
+   "a20": 220.82,
+   "r": 54.7
   },
   {
    "s": "TSLA",
-   "p": 368.08,
-   "c": -0.02,
-   "a50": 356.84,
-   "a200": 399.21,
+   "p": 368.61,
+   "c": 0.12,
+   "a50": 356.85,
+   "a200": 399.22,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 352.07,
-   "r": 55.7
+   "a20": 352.09,
+   "r": 55.9
   },
   {
    "s": "META",
-   "p": 651.97,
-   "c": 6.27,
-   "a50": 598.54,
-   "a200": 622.68,
+   "p": 654.03,
+   "c": 6.61,
+   "a50": 598.58,
+   "a200": 622.69,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 580.45,
-   "r": 70.1
+   "a20": 580.55,
+   "r": 70.5
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7645.17,
-   "c": -0.37,
-   "a50": 7602.19,
-   "a200": 7152.06,
+   "p": 7641.81,
+   "c": -0.41,
+   "a50": 7602.13,
+   "a200": 7152.04,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7700.57,
-   "r": 48.3
+   "a20": 7700.4,
+   "r": 48.0
   },
   {
    "s": "^VIX",
-   "p": 16.29,
-   "c": 3.63,
-   "a50": 16.1,
+   "p": 16.24,
+   "c": 3.31,
+   "a50": 16.09,
    "a200": 18.12,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.2,
-   "r": 54.0
+   "r": 53.8
   },
   {
    "s": "BZ=F",
-   "p": 100.31,
-   "c": 2.44,
+   "p": 100.4,
+   "c": 2.53,
    "a50": 87.24,
-   "a200": 84.19,
+   "a200": 84.2,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.23,
-   "r": 68.2
+   "a20": 92.24,
+   "r": 68.3
   },
   {
    "s": "GC=F",
-   "p": 4462.0,
-   "c": 1.55,
-   "a50": 4254.08,
+   "p": 4462.7,
+   "c": 1.57,
+   "a50": 4254.1,
    "a200": 4524.05,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.71,
+   "a20": 4472.74,
    "r": 54.3
   },
   {
    "s": "HG=F",
    "p": 6.89,
-   "c": 2.26,
+   "c": 2.23,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.89,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 69.0
+   "r": 68.9
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090335.aspx"
   },
   {
-   "t": "SpaceX Falls More Than 4% as 319 Million Shares Unlock",
+   "t": "Why China’s rise needs to be taken with a pinch of salt",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-falls-more-4-319-170817245.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/why-china-rise-needs-taken-171510981.html"
   },
   {
    "t": "核二廠外核安演練　實測多元警報與疏散機制",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090331.aspx"
   },
   {
-   "t": "Cognyte Software Ltd. Q2 2027 Earnings Call Summary",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq sink as oil prices surpass $100, Treasury yields jump",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cognyte-software-ltd-q2-2027-165710202.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-9-dow-sp-500-nasdaq-futures-080411279.html"
   },
   {
    "t": "國科會率台灣智慧醫療團隊赴新加坡　加速拓展國際市場",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090326.aspx"
   },
   {
-   "t": "Mortgage rate predictions through the next five years: Will we reach 7%?",
+   "t": "Jim Cramer on Alphabet (GOOGL): “I Don’t Care Where It Went, I Care Where It’s Going”",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-through-the-next-five-years-will-we-reach-7-195826935.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-alphabet-googl-don-171250820.html"
   },
   {
    "t": "董瑞斌遭冒名發送電子郵件　金融總會呼籲提高警覺",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090316.aspx"
   },
   {
-   "t": "Chewy, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Stock Market Today: Dow Slumps As Oil Jumps; AI Stock Lumentum Tops Entry (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chewy-inc-q2-2026-earnings-165158054.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115219期開獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090315.aspx"
   },
   {
-   "t": "J.Jill, Inc. Q2 2026 Earnings Call Summary",
+   "t": "Jim Cramer Breaks Down Why Amazon (AMZN) Is a “Screaming Buy” on AI Potential",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/j-jill-inc-q2-2026-164728426.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-breaks-down-why-170601936.html"
   },
   {
    "t": "數發部AI風險檢核系統　協助各部會盤點法規調適",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090314.aspx"
   },
   {
-   "t": "DocuSign CFO Sells 45,000 Shares for $3.1 Million, Reducing Direct Holdings by a Whopping 36%",
+   "t": "Aave Nears $1B Milestone for V4 Deposits",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/docusign-cfo-sells-45-000-170529629.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/aave-nears-1b-milestone-v4-171102656.html"
   }
  ],
  "inst": {
