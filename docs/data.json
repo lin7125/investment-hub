@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 16:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 16:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.71,
-   "c": -0.06,
+   "p": 15.74,
+   "c": 0.13,
    "a50": 16.08,
    "a200": 18.12,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.17,
-   "r": 51.1
+   "r": 51.3
   },
   {
    "s": "BZ=F",
-   "p": 99.76,
-   "c": 1.88,
+   "p": 99.68,
+   "c": 1.8,
    "a50": 87.23,
    "a200": 84.19,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 92.2,
-   "r": 67.5
+   "r": 67.4
   },
   {
    "s": "GC=F",
-   "p": 4446.3,
-   "c": 1.19,
-   "a50": 4253.77,
-   "a200": 4523.97,
+   "p": 4444.4,
+   "c": 1.15,
+   "a50": 4253.73,
+   "a200": 4523.96,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.92,
-   "r": 53.3
+   "a20": 4471.83,
+   "r": 53.2
   },
   {
    "s": "HG=F",
    "p": 6.78,
-   "c": 0.59,
+   "c": 0.61,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.78,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 64.6
+   "r": 64.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.0317965,
-   "c": 0.16,
+   "p": 0.0317864,
+   "c": 0.13,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609090136.aspx"
   },
   {
-   "t": "Jim Cramer Wants Nvidia to Buy Back $500 Billion. Can Apple’s Playbook Work?",
+   "t": "Tesla Stock May Have A European Catalyst Investors Are Missing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wants-nvidia-buy-203415967.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-may-european-catalyst-204603106.html"
   },
   {
    "t": "韓國核電輸美背後戰略盤算　築經貿保護傘兼解AI電荒",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090133.aspx"
   },
   {
-   "t": "Jim Cramer Says Meta (META) is “At the Price” After Settlement Eases Major Legal Overhang",
+   "t": "Evercore Warns AI IPOs Could Pressure These Struggling Stocks. IBM and AppLovin Face Different Tests",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-meta-meta-203146510.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/evercore-warns-ai-ipos-could-204503562.html"
   },
   {
    "t": "意騰：明年營收估增2位數　成本升與客戶討論漲價",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090129.aspx"
   },
   {
-   "t": "Can Marathon Petroleum (MPC) Keep Rallying? Wells Fargo Says Yes",
+   "t": "Burry’s Palantir Warning Is Back. Accenture Shows What Investors Should Check",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-keep-rallying-203402101.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/burry-palantir-warning-back-accenture-204332089.html"
   },
   {
    "t": "強化淨水藥劑管理　台水推NSF國際認證把關飲水安全",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090123.aspx"
   },
   {
-   "t": "Michael Burry Remains Bullish on Veeva but Trimmed His Position. What This Means for VEEV Stock.",
+   "t": "DBS, Citi Complete First Weekend Cross-Border Payment",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-remains-bullish-veeva-203002582.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/dbs-citi-complete-first-weekend-205600114.html"
   },
   {
    "t": "日月光投控擴大使用再生能源　拚2035年占比57%",
