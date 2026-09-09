@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 18:00（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 19:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.0,
-   "c": 1.78,
-   "a50": 16.09,
+   "p": 16.29,
+   "c": 3.63,
+   "a50": 16.1,
    "a200": 18.12,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.19,
-   "r": 52.6
+   "a20": 15.2,
+   "r": 54.0
   },
   {
    "s": "BZ=F",
-   "p": 100.59,
-   "c": 2.73,
+   "p": 100.71,
+   "c": 2.85,
    "a50": 87.25,
    "a200": 84.2,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 92.25,
-   "r": 68.5
+   "r": 68.7
   },
   {
    "s": "GC=F",
-   "p": 4439.3,
-   "c": 1.03,
-   "a50": 4253.63,
-   "a200": 4523.93,
+   "p": 4451.8,
+   "c": 1.32,
+   "a50": 4253.88,
+   "a200": 4524.0,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.57,
-   "r": 52.9
+   "a20": 4472.2,
+   "r": 53.7
   },
   {
    "s": "HG=F",
    "p": 6.76,
-   "c": 0.3,
+   "c": 0.37,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.76,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 63.7
+   "r": 63.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03177629,
-   "c": 0.12,
+   "p": 0.0317965,
+   "c": 0.16,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -332,76 +332,76 @@
  ],
  "news": [
   {
-   "t": "台股漲77.58點",
+   "t": "台灣對美出超創高、對韓入超破紀錄　財政部：形成半導體鐵三角",
    "pub": "中央社財經",
    "d": "2026-09-09",
-   "u": "https://www.cna.com.tw/news/afe/202609090139.aspx"
-  },
-  {
-   "t": "EU regulators send early warning to Oracle ahead of earnings",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/eu-regulators-send-early-warning-000300590.html"
-  },
-  {
-   "t": "OpenAI瞄準產業AI市場　低價策略迎戰開源模型",
-   "pub": "中央社財經",
-   "d": "2026-09-09",
-   "u": "https://www.cna.com.tw/news/aopl/202609090136.aspx"
-  },
-  {
-   "t": "Is the stock market open on Labor Day?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-labor-day-210239142.html"
-  },
-  {
-   "t": "韓國核電輸美背後戰略盤算　築經貿保護傘兼解AI電荒",
-   "pub": "中央社財經",
-   "d": "2026-09-09",
-   "u": "https://www.cna.com.tw/news/afe/202609090133.aspx"
-  },
-  {
-   "t": "NextEra-Dominion Merger Wins Shareholder Backing: What’s Next?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/nextera-dominion-merger-wins-shareholder-233730229.html"
-  },
-  {
-   "t": "意騰：明年營收估增2位數　成本升與客戶討論漲價",
-   "pub": "中央社財經",
-   "d": "2026-09-09",
-   "u": "https://www.cna.com.tw/news/afe/202609090129.aspx"
-  },
-  {
-   "t": "Piper Sandles Sees ExxonMobil (XOM) Heading Toward New Highs",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/piper-sandles-sees-exxonmobil-xom-234156306.html"
-  },
-  {
-   "t": "強化淨水藥劑管理　台水推NSF國際認證把關飲水安全",
-   "pub": "中央社財經",
-   "d": "2026-09-09",
-   "u": "https://www.cna.com.tw/news/afe/202609090123.aspx"
-  },
-  {
-   "t": "Bloom Energy (BE) Joins S&P 500: Can Its AI Rally Continue?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-joins-p-500-233544037.html"
-  },
-  {
-   "t": "日月光投控擴大使用再生能源　拚2035年占比57%",
-   "pub": "中央社財經",
-   "d": "2026-09-09",
-   "u": "https://www.cna.com.tw/news/afe/202609090109.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609090265.aspx"
   },
   {
    "t": "102-year-old mall retailer quietly closes 25 stores",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/small-business/articles/102-old-mall-retailer-quietly-013700033.html"
+  },
+  {
+   "t": "日圓領漲亞幣　新台幣連4升續創逾3個月高點",
+   "pub": "中央社財經",
+   "d": "2026-09-09",
+   "u": "https://www.cna.com.tw/news/afe/202609090263.aspx"
+  },
+  {
+   "t": "Brent crude rises above $100 a barrel as Middle East conflict intensifies",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/news/brent-crude-rises-above-100-073722479.html"
+  },
+  {
+   "t": "文曄8月營收1983億元年增98%　創歷史次高",
+   "pub": "中央社財經",
+   "d": "2026-09-09",
+   "u": "https://www.cna.com.tw/news/afe/202609090262.aspx"
+  },
+  {
+   "t": "Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "財政部：下半年外銷有信心　第3、4季出口創高十拿九穩",
+   "pub": "中央社財經",
+   "d": "2026-09-09",
+   "u": "https://www.cna.com.tw/news/afe/202609090261.aspx"
+  },
+  {
+   "t": "Analysis-Fearless US stock market vulnerable to shocks as midterms loom",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/news/analysis-fearless-us-stock-market-110129401.html"
+  },
+  {
+   "t": "8月出口824億美元　連34紅追平史上最長上升週期",
+   "pub": "中央社財經",
+   "d": "2026-09-09",
+   "u": "https://www.cna.com.tw/news/afe/202609090257.aspx"
+  },
+  {
+   "t": "Chime Financial Signals Breakout On Strong Guidance, Stride Takeover",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/news/chime-financial-stocks-jumps-fintech-guidance-stride-takeover/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "聖暉、朋億8月營收創同期新高　銳澤衝歷史新高",
+   "pub": "中央社財經",
+   "d": "2026-09-09",
+   "u": "https://www.cna.com.tw/news/afe/202609090236.aspx"
+  },
+  {
+   "t": "EU regulators send early warning to Oracle ahead of earnings",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/eu-regulators-send-early-warning-000300590.html"
   }
  ],
  "inst": {
