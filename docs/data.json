@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 14:45（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 14:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 47.8,
-   "c": -3.53,
+   "p": 47.55,
+   "c": -4.04,
    "a50": 52.06,
    "a200": 44.68,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.51,
-   "r": 45.7
+   "a20": 49.5,
+   "r": 45.3
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 99.52,
-   "c": 1.63,
+   "p": 99.66,
+   "c": 1.78,
    "a50": 87.23,
    "a200": 84.19,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.19,
-   "r": 67.2
+   "a20": 92.2,
+   "r": 67.3
   },
   {
    "s": "GC=F",
-   "p": 4447.0,
-   "c": 1.21,
-   "a50": 4253.78,
-   "a200": 4523.97,
+   "p": 4442.7,
+   "c": 1.11,
+   "a50": 4253.7,
+   "a200": 4523.95,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.96,
-   "r": 53.4
+   "a20": 4471.74,
+   "r": 53.1
   },
   {
    "s": "HG=F",
    "p": 6.78,
-   "c": 0.68,
+   "c": 0.65,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.78,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 64.9
+   "r": 64.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03180662,
-   "c": 0.2,
+   "p": 0.0317965,
+   "c": 0.19,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609090136.aspx"
   },
   {
-   "t": "Sudan Could Become the Red Sea’s Next Energy Security Flashpoint",
+   "t": "Sirius XM (SIRI) Stock: Deutsche Bank Sees Big Upside, But Risks Remain",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/sudan-could-become-red-sea-190000402.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sirius-xm-siri-stock-deutsche-191154863.html"
   },
   {
    "t": "韓國核電輸美背後戰略盤算　築經貿保護傘兼解AI電荒",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090129.aspx"
   },
   {
-   "t": "CECO Environmental (CECO) Raises Guidance After Thermon Deal — Can the Momentum Last?",
+   "t": "Illumina and Everpure to Join S&P 500 in September Rebalancing: What it Means for Investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ceco-environmental-ceco-raises-guidance-185137151.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/illumina-everpure-join-p-500-191523204.html"
   },
   {
    "t": "強化淨水藥劑管理　台水推NSF國際認證把關飲水安全",
