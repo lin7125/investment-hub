@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 15:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 15:57（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.59,
-   "c": -0.83,
+   "p": 15.62,
+   "c": -0.64,
    "a50": 16.08,
    "a200": 18.12,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.17,
-   "r": 50.5
+   "r": 50.6
   },
   {
    "s": "BZ=F",
-   "p": 99.65,
-   "c": 1.77,
+   "p": 99.73,
+   "c": 1.85,
    "a50": 87.23,
    "a200": 84.19,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 92.2,
-   "r": 67.3
+   "r": 67.4
   },
   {
    "s": "GC=F",
-   "p": 4452.9,
-   "c": 1.34,
-   "a50": 4253.9,
-   "a200": 4524.0,
+   "p": 4454.6,
+   "c": 1.38,
+   "a50": 4253.93,
+   "a200": 4524.01,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.25,
-   "r": 53.7
+   "a20": 4472.34,
+   "r": 53.8
   },
   {
    "s": "HG=F",
-   "p": 6.8,
-   "c": 0.9,
+   "p": 6.79,
+   "c": 0.76,
    "a50": 6.45,
    "a200": 6.0,
-   "yh": 6.8,
+   "yh": 6.79,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 65.5
+   "r": 65.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03182686,
-   "c": 0.27,
+   "p": 0.0317965,
+   "c": 0.18,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609090136.aspx"
   },
   {
-   "t": "Jim Cramer Says Buy Walmart (WMT) as Target’s (TGT) Turnaround Gains Momentum",
+   "t": "Michael Burry Remains Bullish on Veeva but Trimmed His Position. What This Means for VEEV Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-walmart-202439296.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-remains-bullish-veeva-203002582.html"
   },
   {
    "t": "韓國核電輸美背後戰略盤算　築經貿保護傘兼解AI電荒",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090133.aspx"
   },
   {
-   "t": "Jim Cramer Discusses NVIDIA (NVDA) Acquiring Hugging Face",
+   "t": "CIBC Turns Bullish on Enbridge (ENB) After KKR-Apollo Deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-discusses-nvidia-nvda-202249174.html"
+   "u": "https://finance.yahoo.com/energy/articles/cibc-turns-bullish-enbridge-enb-202622223.html"
   },
   {
    "t": "意騰：明年營收估增2位數　成本升與客戶討論漲價",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090129.aspx"
   },
   {
-   "t": "SLB Bets $4.1 Billion on the AI Data Center Boom",
+   "t": "Jim Cramer Says Meta (META) is “At the Price” After Settlement Eases Major Legal Overhang",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/slb-bets-4-1-billion-202013359.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-meta-meta-203146510.html"
   },
   {
    "t": "強化淨水藥劑管理　台水推NSF國際認證把關飲水安全",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090123.aspx"
   },
   {
-   "t": "CIBC Turns Bullish on Enbridge (ENB) After KKR-Apollo Deal",
+   "t": "Jim Cramer Says Buy Walmart (WMT) as Target’s (TGT) Turnaround Gains Momentum",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/cibc-turns-bullish-enbridge-enb-202622223.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-walmart-202439296.html"
   },
   {
    "t": "日月光投控擴大使用再生能源　拚2035年占比57%",
