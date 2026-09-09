@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 04:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 04:59（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 101.57,
-   "c": 3.73,
+   "p": 101.59,
+   "c": 3.75,
    "a50": 87.27,
    "a200": 84.2,
    "yh": 118.35,
@@ -300,22 +300,22 @@
   },
   {
    "s": "GC=F",
-   "p": 4445.3,
-   "c": 1.17,
-   "a50": 4253.75,
+   "p": 4445.0,
+   "c": 1.16,
+   "a50": 4253.74,
    "a200": 4523.96,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.87,
-   "r": 53.3
+   "a20": 4471.86,
+   "r": 53.2
   },
   {
    "s": "HG=F",
-   "p": 6.85,
-   "c": 1.71,
+   "p": 6.86,
+   "c": 1.72,
    "a50": 6.45,
    "a200": 6.0,
-   "yh": 6.85,
+   "yh": 6.86,
    "yl": 4.5,
    "a20": 6.59,
    "r": 67.7
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03177629,
-   "c": 0.11,
+   "c": 0.12,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609100003.aspx"
   },
   {
-   "t": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Amgen, Baidu, Best Buy, Circle Internet, Corning, Intel, Lockheed Martin SpaceX, TeraWulf and More",
+   "t": "Wistron stock falls after $1.47 billion global share sale",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tuesday-top-wall-street-analyst-121528209.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wistron-stock-falls-1-47-122702929.html"
   },
   {
    "t": "美伊衝突再起　歐股收跌油價走高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100002.aspx"
   },
   {
-   "t": "Is Block Underperforming the Nasdaq?",
+   "t": "Is Sempra Stock Underperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/block-underperforming-nasdaq-121333253.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sempra-stock-underperforming-dow-123021118.html"
   },
   {
    "t": "除權畸零股爭議　緯穎：開放小股東10元認購1股",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090339.aspx"
   },
   {
-   "t": "Wheat Posting Tuesday AM Strength Following Lack of Peace Talks Progress",
+   "t": "How Is Ross Stores’ Stock Performance Compared to Other Retail Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/wheat-posting-tuesday-am-strength-122129723.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-stock-performance-compared-122555664.html"
   },
   {
    "t": "今彩539第115219期　頭獎4注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090335.aspx"
   },
   {
-   "t": "Soybeans Slipping Out of Labor Day Weekend",
+   "t": "AI Stocks: OpenAI Declares The 'AGI Era' Is Here Amid IPO Fervor",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-slipping-labor-day-weekend-122129379.html"
+   "u": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-sept82026/?src=A00220&yptr=yahoo"
   },
   {
    "t": "核二廠外核安演練　實測多元警報與疏散機制",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090331.aspx"
   },
   {
-   "t": "Tesla Sales In China Continue Negative Streak; Exports Reach Key Level",
+   "t": "Oil prices approach $100 as Middle East conflict flares, Goldman sees potential upside to $120",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/tesla-china-shanghai-byd-geely-leapmotor-xiaomi/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/article/oil-prices-approach-100-as-middle-east-conflict-flares-goldman-sees-potential-upside-to-120-122234220.html"
   },
   {
    "t": "國科會率台灣智慧醫療團隊赴新加坡　加速拓展國際市場",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090326.aspx"
   },
   {
-   "t": "Solana ETF Inflows Fell 96% in a Week, From $153.87 Million to $6.18 Million. What Changed?",
+   "t": "DexCom Stock: Is DXCM Underperforming the Healthcare Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/solana-etf-inflows-fell-96-121759524.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/dexcom-stock-dxcm-underperforming-healthcare-123657602.html"
   }
  ],
  "inst": {
