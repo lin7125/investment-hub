@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 02:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 02:13（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 313.45,
-   "c": -0.88,
-   "a50": 316.43,
-   "a200": 284.34,
+   "p": 311.17,
+   "c": -1.6,
+   "a50": 316.39,
+   "a200": 284.33,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.96,
-   "r": 47.6
+   "a20": 313.85,
+   "r": 45.7
   },
   {
    "s": "NVDA",
-   "p": 224.29,
-   "c": -0.64,
-   "a50": 211.82,
+   "p": 224.14,
+   "c": -0.7,
+   "a50": 211.81,
    "a200": 197.09,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.83,
-   "r": 54.9
+   "a20": 220.82,
+   "r": 54.7
   },
   {
    "s": "TSLA",
-   "p": 368.77,
-   "c": 0.16,
-   "a50": 356.86,
-   "a200": 399.22,
+   "p": 368.08,
+   "c": -0.02,
+   "a50": 356.84,
+   "a200": 399.21,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 352.1,
-   "r": 55.9
+   "a20": 352.07,
+   "r": 55.7
   },
   {
    "s": "META",
-   "p": 652.07,
-   "c": 6.29,
-   "a50": 598.55,
-   "a200": 622.68,
+   "p": 650.63,
+   "c": 6.06,
+   "a50": 598.52,
+   "a200": 622.67,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 580.46,
-   "r": 70.1
+   "a20": 580.38,
+   "r": 69.9
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7645.47,
-   "c": -0.37,
-   "a50": 7602.2,
-   "a200": 7152.06,
+   "p": 7640.2,
+   "c": -0.43,
+   "a50": 7602.09,
+   "a200": 7152.04,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7700.58,
-   "r": 48.3
+   "a20": 7700.32,
+   "r": 47.9
   },
   {
    "s": "^VIX",
-   "p": 16.22,
-   "c": 3.18,
+   "p": 16.17,
+   "c": 2.86,
    "a50": 16.09,
    "a200": 18.12,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.2,
-   "r": 53.7
+   "a20": 15.19,
+   "r": 53.4
   },
   {
    "s": "BZ=F",
-   "p": 100.76,
-   "c": 2.9,
-   "a50": 87.25,
+   "p": 101.11,
+   "c": 3.26,
+   "a50": 87.26,
    "a200": 84.2,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.25,
-   "r": 68.7
+   "a20": 92.27,
+   "r": 69.1
   },
   {
    "s": "GC=F",
-   "p": 4461.0,
-   "c": 1.53,
-   "a50": 4254.06,
-   "a200": 4524.04,
+   "p": 4462.9,
+   "c": 1.57,
+   "a50": 4254.1,
+   "a200": 4524.05,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.66,
-   "r": 54.2
+   "a20": 4472.75,
+   "r": 54.3
   },
   {
    "s": "HG=F",
-   "p": 6.88,
-   "c": 2.08,
+   "p": 6.89,
+   "c": 2.23,
    "a50": 6.45,
    "a200": 6.0,
-   "yh": 6.88,
+   "yh": 6.89,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 68.6
+   "r": 68.9
   },
   {
    "s": "TWDUSD",
    "p": 0.0317864,
-   "c": 0.14,
+   "c": 0.13,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090335.aspx"
   },
   {
-   "t": "Is Netflix a Good Buy? After 10 Years of Covering NFLX, Here's My Honest Answer.",
+   "t": "Is Edwards Lifesciences Stock Underperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/netflix-good-buy-10-years-175000193.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/edwards-lifesciences-stock-underperforming-dow-092007959.html"
   },
   {
    "t": "核二廠外核安演練　實測多元警報與疏散機制",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090331.aspx"
   },
   {
-   "t": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies",
+   "t": "Over 200 US seniors hand over fortunes in $250M gold scheme — 40+ indicted after bullion melted down in Florida",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/brent-crude-rises-above-100-073722479.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/over-200-us-seniors-hand-091500007.html"
   },
   {
    "t": "國科會率台灣智慧醫療團隊赴新加坡　加速拓展國際市場",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090326.aspx"
   },
   {
-   "t": "Inditex Breaks Records and Still Gets Marked Down",
+   "t": "Investing in Gold or the S&P 500: What's the Best Move for Investors in the Final Quarter of 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/inditex-breaks-records-still-gets-173958249.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/investing-gold-p-500-whats-092002620.html"
   },
   {
    "t": "董瑞斌遭冒名發送電子郵件　金融總會呼籲提高警覺",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090316.aspx"
   },
   {
-   "t": "Core & Main, Inc. Q2 2027 Earnings Call Summary",
+   "t": "The yen's sudden surge upsets the carry trade faithful",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/core-main-inc-q2-2027-173606411.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/yens-sudden-surge-upsetting-carry-051942527.html"
   },
   {
    "t": "今彩539第115219期開獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090315.aspx"
   },
   {
-   "t": "Apple Unveils iPhone 18 Handsets, Touts AI Capabilities",
+   "t": "I'm Retiring at 62. How Should I Structure My Investment Portfolio?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/apple-stock-fall-2026-product-launch-event/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/news/im-62-retiring-soon-structure-115059778.html"
   },
   {
    "t": "數發部AI風險檢核系統　協助各部會盤點法規調適",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090314.aspx"
   },
   {
-   "t": "Red Rock Resorts Chief Legal Officer Sells 9,000 Shares",
+   "t": "BYD targets more than 2.5 million vehicle exports in 2027, brokerages say",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/red-rock-resorts-chief-legal-175001236.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/byd-targets-more-2-5-085512407.html"
   }
  ],
  "inst": {
