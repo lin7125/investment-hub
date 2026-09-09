@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 02:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 02:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 311.17,
-   "c": -1.6,
-   "a50": 316.39,
-   "a200": 284.33,
+   "p": 313.14,
+   "c": -0.97,
+   "a50": 316.43,
+   "a200": 284.34,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 313.85,
-   "r": 45.7
+   "a20": 313.95,
+   "r": 47.3
   },
   {
    "s": "NVDA",
-   "p": 224.14,
-   "c": -0.7,
+   "p": 224.19,
+   "c": -0.68,
    "a50": 211.81,
    "a200": 197.09,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.82,
-   "r": 54.7
+   "a20": 220.83,
+   "r": 54.8
   },
   {
    "s": "TSLA",
-   "p": 368.08,
-   "c": -0.02,
-   "a50": 356.84,
-   "a200": 399.21,
+   "p": 369.33,
+   "c": 0.32,
+   "a50": 356.87,
+   "a200": 399.22,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 352.07,
-   "r": 55.7
+   "a20": 352.13,
+   "r": 56.1
   },
   {
    "s": "META",
-   "p": 650.63,
-   "c": 6.06,
-   "a50": 598.52,
-   "a200": 622.67,
+   "p": 651.54,
+   "c": 6.2,
+   "a50": 598.54,
+   "a200": 622.68,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 580.38,
-   "r": 69.9
+   "a20": 580.43,
+   "r": 70.0
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7640.2,
-   "c": -0.43,
-   "a50": 7602.09,
-   "a200": 7152.04,
+   "p": 7644.52,
+   "c": -0.38,
+   "a50": 7602.18,
+   "a200": 7152.06,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7700.32,
-   "r": 47.9
+   "a20": 7700.54,
+   "r": 48.2
   },
   {
    "s": "^VIX",
-   "p": 16.17,
-   "c": 2.86,
+   "p": 16.24,
+   "c": 3.31,
    "a50": 16.09,
    "a200": 18.12,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.19,
-   "r": 53.4
+   "a20": 15.2,
+   "r": 53.8
   },
   {
    "s": "BZ=F",
-   "p": 101.11,
-   "c": 3.26,
+   "p": 101.39,
+   "c": 3.54,
    "a50": 87.26,
    "a200": 84.2,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.27,
-   "r": 69.1
+   "a20": 92.29,
+   "r": 69.5
   },
   {
    "s": "GC=F",
-   "p": 4462.9,
-   "c": 1.57,
-   "a50": 4254.1,
-   "a200": 4524.05,
+   "p": 4466.2,
+   "c": 1.65,
+   "a50": 4254.17,
+   "a200": 4524.07,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.75,
-   "r": 54.3
+   "a20": 4472.92,
+   "r": 54.5
   },
   {
    "s": "HG=F",
-   "p": 6.89,
-   "c": 2.23,
+   "p": 6.88,
+   "c": 2.14,
    "a50": 6.45,
    "a200": 6.0,
-   "yh": 6.89,
+   "yh": 6.88,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 68.9
+   "r": 68.7
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090335.aspx"
   },
   {
-   "t": "Is Edwards Lifesciences Stock Underperforming the Dow?",
+   "t": "US Stocks Look Undervalued Given AI Potential, HSBC’s Sels Says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/edwards-lifesciences-stock-underperforming-dow-092007959.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/us-stocks-look-undervalued-given-093151502.html"
   },
   {
    "t": "核二廠外核安演練　實測多元警報與疏散機制",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090331.aspx"
   },
   {
-   "t": "Over 200 US seniors hand over fortunes in $250M gold scheme — 40+ indicted after bullion melted down in Florida",
+   "t": "Ray Dalio tripled his money at 12 on his first stock pick — then a bad call left him borrowing $4,000 from his dad",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/over-200-us-seniors-hand-091500007.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-tripled-money-12-093000962.html"
   },
   {
    "t": "國科會率台灣智慧醫療團隊赴新加坡　加速拓展國際市場",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090326.aspx"
   },
   {
-   "t": "Investing in Gold or the S&P 500: What's the Best Move for Investors in the Final Quarter of 2026?",
+   "t": "The yen's sudden surge upsets the carry trade faithful",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/investing-gold-p-500-whats-092002620.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/yens-sudden-surge-upsetting-carry-051942527.html"
   },
   {
    "t": "董瑞斌遭冒名發送電子郵件　金融總會呼籲提高警覺",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090316.aspx"
   },
   {
-   "t": "The yen's sudden surge upsets the carry trade faithful",
+   "t": "Is Edwards Lifesciences Stock Underperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/yens-sudden-surge-upsetting-carry-051942527.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/edwards-lifesciences-stock-underperforming-dow-092007959.html"
   },
   {
    "t": "今彩539第115219期開獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090315.aspx"
   },
   {
-   "t": "I'm Retiring at 62. How Should I Structure My Investment Portfolio?",
+   "t": "Over 200 US seniors hand over fortunes in $250M gold scheme — 40+ indicted after bullion melted down in Florida",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/im-62-retiring-soon-structure-115059778.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/over-200-us-seniors-hand-091500007.html"
   },
   {
    "t": "數發部AI風險檢核系統　協助各部會盤點法規調適",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090314.aspx"
   },
   {
-   "t": "BYD targets more than 2.5 million vehicle exports in 2027, brokerages say",
+   "t": "Mistral secures $3.5bn in Series D, reaching $24bn valuation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/byd-targets-more-2-5-085512407.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/mistral-secures-3-5bn-series-093109401.html"
   }
  ],
  "inst": {
