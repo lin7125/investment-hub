@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 06:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 06:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 102.03,
-   "c": 4.2,
-   "a50": 87.28,
+   "p": 101.93,
+   "c": 4.1,
+   "a50": 87.27,
    "a200": 84.2,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.32,
-   "r": 70.2
+   "a20": 92.31,
+   "r": 70.1
   },
   {
    "s": "GC=F",
-   "p": 4447.3,
-   "c": 1.22,
-   "a50": 4253.79,
+   "p": 4446.5,
+   "c": 1.2,
+   "a50": 4253.77,
    "a200": 4523.97,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.97,
-   "r": 53.4
+   "a20": 4471.93,
+   "r": 53.3
   },
   {
    "s": "HG=F",
    "p": 6.86,
-   "c": 1.77,
+   "c": 1.76,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.86,
@@ -322,7 +322,7 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03177629,
+   "p": 0.0317864,
    "c": 0.13,
    "a50": 0.03121099,
    "a200": 0.0315557,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609100003.aspx"
   },
   {
-   "t": "SK hynix Stock Just Surged 8% in Seoul. U.S. Investors May Get a Reality Check Tuesday.",
+   "t": "Tamarack Valley, Headwater Exploration agree $7.2bn all-stock merger",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stock-just-surged-141444727.html"
+   "u": "https://finance.yahoo.com/energy/articles/tamarack-valley-headwater-exploration-agree-143534074.html"
   },
   {
    "t": "美伊衝突再起　歐股收跌油價走高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100002.aspx"
   },
   {
-   "t": "Bitcoin Forms Bullish Golden Cross",
+   "t": "Dollar Weighed Down by a Stronger Yen",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-forms-bullish-golden-cross-142000774.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-weighed-down-stronger-yen-143433737.html"
   },
   {
    "t": "除權畸零股爭議　緯穎：開放小股東10元認購1股",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090339.aspx"
   },
   {
-   "t": "How Is AutoZone's Stock Performance Compared to Other Auto Parts Stocks",
+   "t": "Micron Technology (MU) Rose on Elevated Demand for High-Bandwidth Memory",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/autozones-stock-performance-compared-other-141628445.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-rose-elevated-143254887.html"
   },
   {
    "t": "今彩539第115219期　頭獎4注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090335.aspx"
   },
   {
-   "t": "This Energy Stock Is Trading at New All-Time Highs, But Barchart’s Technical Analysis Expert Warns It May Be Running Out of Gas",
+   "t": "AI-Optimized Processors Fuel Advanced Micro Devices (AMD) Stock Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/energy-stock-trading-time-highs-141502247.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ai-optimized-processors-fuel-advanced-143631312.html"
   },
   {
    "t": "核二廠外核安演練　實測多元警報與疏散機制",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090331.aspx"
   },
   {
-   "t": "SMCI Outworks Its Peers And Costs Less",
+   "t": "Dear ServiceTitan Stock Fans, Mark Your Calendars for September 8",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/smci-outworks-peers-costs-less-142029927.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-servicetitan-stock-fans-mark-142736341.html"
   },
   {
    "t": "國科會率台灣智慧醫療團隊赴新加坡　加速拓展國際市場",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090326.aspx"
   },
   {
-   "t": "Strategy Holds Off On Bitcoin Purchases As It Buys Preferred Stock",
+   "t": "Disappointing Clinical Trial Results Are Dragging Novartis, Amgen and the Dow Lower Tuesday",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/strategy-holds-off-bitcoin-purchases-142200654.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/disappointing-clinical-trial-results-dragging-143303080.html"
   }
  ],
  "inst": {
