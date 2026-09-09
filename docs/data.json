@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 02:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 03:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 318.61,
-   "c": 0.75,
-   "a50": 316.54,
-   "a200": 284.36,
+   "p": 316.13,
+   "c": -0.03,
+   "a50": 316.49,
+   "a200": 284.35,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 314.22,
-   "r": 52.4
+   "a20": 314.1,
+   "r": 50.1
   },
   {
    "s": "NVDA",
-   "p": 223.77,
-   "c": -0.87,
-   "a50": 211.81,
+   "p": 223.56,
+   "c": -0.96,
+   "a50": 211.8,
    "a200": 197.09,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.8,
-   "r": 54.4
+   "a20": 220.79,
+   "r": 54.2
   },
   {
    "s": "TSLA",
-   "p": 368.38,
-   "c": 0.06,
-   "a50": 356.85,
-   "a200": 399.21,
+   "p": 368.92,
+   "c": 0.21,
+   "a50": 356.86,
+   "a200": 399.22,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 352.08,
-   "r": 55.8
+   "a20": 352.11,
+   "r": 56.0
   },
   {
    "s": "META",
-   "p": 653.58,
-   "c": 6.54,
-   "a50": 598.58,
-   "a200": 622.69,
+   "p": 652.83,
+   "c": 6.41,
+   "a50": 598.56,
+   "a200": 622.68,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 580.53,
-   "r": 70.4
+   "a20": 580.49,
+   "r": 70.3
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7648.08,
-   "c": -0.33,
-   "a50": 7602.25,
-   "a200": 7152.08,
+   "p": 7641.58,
+   "c": -0.42,
+   "a50": 7602.12,
+   "a200": 7152.04,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7700.71,
-   "r": 48.6
+   "a20": 7700.39,
+   "r": 48.0
   },
   {
    "s": "^VIX",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 101.43,
-   "c": 3.58,
-   "a50": 87.26,
+   "p": 101.48,
+   "c": 3.64,
+   "a50": 87.27,
    "a200": 84.2,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 92.29,
-   "r": 69.5
+   "r": 69.6
   },
   {
    "s": "GC=F",
-   "p": 4454.7,
-   "c": 1.38,
-   "a50": 4253.94,
-   "a200": 4524.01,
+   "p": 4451.2,
+   "c": 1.3,
+   "a50": 4253.87,
+   "a200": 4523.99,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.34,
-   "r": 53.8
+   "a20": 4472.17,
+   "r": 53.6
   },
   {
    "s": "HG=F",
-   "p": 6.88,
-   "c": 2.05,
+   "p": 6.87,
+   "c": 1.97,
    "a50": 6.45,
    "a200": 6.0,
-   "yh": 6.88,
+   "yh": 6.87,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 68.5
+   "r": 68.3
   },
   {
    "s": "TWDUSD",
    "p": 0.03177629,
-   "c": 0.12,
+   "c": 0.1,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090335.aspx"
   },
   {
-   "t": "Philippines Central Bank Eyes 12-Month Freeze on New Payment Operator Licenses as Crypto Rules Tighten",
+   "t": "He Sold the Season-Ticket Rights He’d Held for 20 Years. Medicare Raised His Premium Two Years Later.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/philippines-central-bank-eyes-12-095214532.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/sold-season-ticket-rights-d-100420660.html"
   },
   {
    "t": "核二廠外核安演練　實測多元警報與疏散機制",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090331.aspx"
   },
   {
-   "t": "Ray Dalio tripled his money at 12 on his first stock pick — then a bad call left him borrowing $4,000 from his dad",
+   "t": "China’s Crude Buying Rebounds as Fuel Exports Jump 29%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-tripled-money-12-093000962.html"
+   "u": "https://finance.yahoo.com/energy/articles/china-crude-buying-rebounds-fuel-100000225.html"
   },
   {
    "t": "國科會率台灣智慧醫療團隊赴新加坡　加速拓展國際市場",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090326.aspx"
   },
   {
-   "t": "China’s Crude Buying Rebounds as Fuel Exports Jump 29%",
+   "t": "Is Edwards Lifesciences Stock Underperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/china-crude-buying-rebounds-fuel-100000225.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/edwards-lifesciences-stock-underperforming-dow-092007959.html"
   },
   {
    "t": "董瑞斌遭冒名發送電子郵件　金融總會呼籲提高警覺",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090316.aspx"
   },
   {
-   "t": "Over 200 US seniors hand over fortunes in $250M gold scheme — 40+ indicted after bullion melted down in Florida",
+   "t": "Ray Dalio tripled his money at 12 on his first stock pick — then a bad call left him borrowing $4,000 from his dad",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/over-200-us-seniors-hand-091500007.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-tripled-money-12-093000962.html"
   },
   {
    "t": "今彩539第115219期開獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090315.aspx"
   },
   {
-   "t": "Is Edwards Lifesciences Stock Underperforming the Dow?",
+   "t": "The yen's sudden surge upsets the carry trade faithful",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/edwards-lifesciences-stock-underperforming-dow-092007959.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/yens-sudden-surge-upsetting-carry-051942527.html"
   },
   {
    "t": "數發部AI風險檢核系統　協助各部會盤點法規調適",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090314.aspx"
   },
   {
-   "t": "Why Chime Financial Rallied in August",
+   "t": "Cone Denim to exit China production, shift focus to Mexico platform",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-chime-financial-rallied-august-095000572.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/cone-denim-exit-china-production-100259793.html"
   }
  ],
  "inst": {
