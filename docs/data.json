@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 04:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 04:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 16.48,
-   "c": 4.83,
+   "p": 16.46,
+   "c": 4.71,
    "a50": 16.1,
    "a200": 18.12,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.21,
-   "r": 54.9
+   "r": 54.8
   },
   {
    "s": "BZ=F",
-   "p": 101.63,
-   "c": 3.79,
+   "p": 101.68,
+   "c": 3.84,
    "a50": 87.27,
    "a200": 84.2,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 92.3,
-   "r": 69.7
+   "r": 69.8
   },
   {
    "s": "GC=F",
-   "p": 4441.4,
-   "c": 1.08,
-   "a50": 4253.67,
+   "p": 4439.9,
+   "c": 1.05,
+   "a50": 4253.64,
    "a200": 4523.94,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.68,
-   "r": 53.0
+   "a20": 4471.6,
+   "r": 52.9
   },
   {
    "s": "HG=F",
    "p": 6.85,
-   "c": 1.64,
+   "c": 1.65,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.85,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609100003.aspx"
   },
   {
-   "t": "Schroders and ttb wealth securities to build HNW offering in Thailand",
+   "t": "OpenAI, Anthropic Seek Investment-Grade Ratings Post Potential IPOs to Cut AI Borrowing Costs: Report",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/schroders-ttb-wealth-securities-build-115213353.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-seek-investment-grade-121024955.html"
   },
   {
    "t": "美伊衝突再起　歐股收跌油價走高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100002.aspx"
   },
   {
-   "t": "Is Copart Stock Underperforming the S&P 500?",
+   "t": "Is Block Underperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/copart-stock-underperforming-p-500-115215710.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/block-underperforming-nasdaq-121333253.html"
   },
   {
    "t": "除權畸零股爭議　緯穎：開放小股東10元認購1股",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090339.aspx"
   },
   {
-   "t": "How Is Aflac’s Stock Performance Compared to Other Insurance Stocks",
+   "t": "Tesla Sales In China Continue Negative Streak; Exports Reach Key Level",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/aflac-stock-performance-compared-other-115607145.html"
+   "u": "https://www.investors.com/news/tesla-china-shanghai-byd-geely-leapmotor-xiaomi/?src=A00220&yptr=yahoo"
   },
   {
    "t": "今彩539第115219期　頭獎4注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090335.aspx"
   },
   {
-   "t": "General Motors’ Stock: Is GM Outperforming the Consumer Discretionary Sector?",
+   "t": "Wheat Posting Tuesday AM Strength Following Lack of Peace Talks Progress",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/general-motors-stock-gm-outperforming-115948399.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/wheat-posting-tuesday-am-strength-122129723.html"
   },
   {
    "t": "核二廠外核安演練　實測多元警報與疏散機制",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090331.aspx"
   },
   {
-   "t": "Is Norfolk Southern Stock Underperforming the Nasdaq?",
+   "t": "Soybeans Slipping Out of Labor Day Weekend",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/norfolk-southern-stock-underperforming-nasdaq-114658327.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-slipping-labor-day-weekend-122129379.html"
   },
   {
    "t": "國科會率台灣智慧醫療團隊赴新加坡　加速拓展國際市場",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090326.aspx"
   },
   {
-   "t": "UST completes majority takeover of Italdesign from Audi",
+   "t": "United Natural Foods Guides for Sales to Rise This Fiscal Year",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/ust-completes-majority-takeover-italdesign-120018023.html"
+   "u": "https://www.wsj.com/business/earnings/united-natural-foods-guides-for-sales-to-rise-this-fiscal-year-b43fca4b?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
