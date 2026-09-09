@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 15:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 16:07（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.62,
-   "c": -0.64,
+   "p": 15.7,
+   "c": -0.13,
    "a50": 16.08,
    "a200": 18.12,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.17,
-   "r": 50.6
+   "r": 51.1
   },
   {
    "s": "BZ=F",
-   "p": 99.73,
-   "c": 1.85,
+   "p": 99.88,
+   "c": 2.0,
    "a50": 87.23,
    "a200": 84.19,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.2,
-   "r": 67.4
+   "a20": 92.21,
+   "r": 67.6
   },
   {
    "s": "GC=F",
-   "p": 4454.6,
-   "c": 1.38,
-   "a50": 4253.93,
-   "a200": 4524.01,
+   "p": 4453.1,
+   "c": 1.35,
+   "a50": 4253.9,
+   "a200": 4524.0,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.34,
-   "r": 53.8
+   "a20": 4472.26,
+   "r": 53.7
   },
   {
    "s": "HG=F",
-   "p": 6.79,
-   "c": 0.76,
+   "p": 6.78,
+   "c": 0.65,
    "a50": 6.45,
    "a200": 6.0,
-   "yh": 6.79,
+   "yh": 6.78,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 65.1
+   "r": 64.8
   },
   {
    "s": "TWDUSD",
    "p": 0.0317965,
-   "c": 0.18,
+   "c": 0.16,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609090136.aspx"
   },
   {
-   "t": "Michael Burry Remains Bullish on Veeva but Trimmed His Position. What This Means for VEEV Stock.",
+   "t": "Chevron’s Record Run Isn’t Over Yet, BMO Says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-remains-bullish-veeva-203002582.html"
+   "u": "https://finance.yahoo.com/energy/articles/chevron-record-run-isn-t-201647397.html"
   },
   {
    "t": "韓國核電輸美背後戰略盤算　築經貿保護傘兼解AI電荒",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090133.aspx"
   },
   {
-   "t": "CIBC Turns Bullish on Enbridge (ENB) After KKR-Apollo Deal",
+   "t": "SLB Bets $4.1 Billion on the AI Data Center Boom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/cibc-turns-bullish-enbridge-enb-202622223.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/slb-bets-4-1-billion-202013359.html"
   },
   {
    "t": "意騰：明年營收估增2位數　成本升與客戶討論漲價",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090129.aspx"
   },
   {
-   "t": "Jim Cramer Says Meta (META) is “At the Price” After Settlement Eases Major Legal Overhang",
+   "t": "Jim Cramer Discusses NVIDIA (NVDA) Acquiring Hugging Face",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-meta-meta-203146510.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-discusses-nvidia-nvda-202249174.html"
   },
   {
    "t": "強化淨水藥劑管理　台水推NSF國際認證把關飲水安全",
