@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 16:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 17:09（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 100.07,
-   "c": 2.2,
+   "p": 100.05,
+   "c": 2.18,
    "a50": 87.24,
    "a200": 84.19,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 92.22,
-   "r": 67.9
+   "r": 67.8
   },
   {
    "s": "GC=F",
-   "p": 4445.7,
-   "c": 1.18,
-   "a50": 4253.76,
-   "a200": 4523.97,
+   "p": 4445.4,
+   "c": 1.17,
+   "a50": 4253.75,
+   "a200": 4523.96,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.89,
+   "a20": 4471.88,
    "r": 53.3
   },
   {
    "s": "HG=F",
    "p": 6.77,
-   "c": 0.52,
+   "c": 0.51,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.77,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.0317965,
-   "c": 0.16,
+   "c": 0.18,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609090136.aspx"
   },
   {
-   "t": "Broadcom’s AI Forecast Suggests Hyperscalers Want More Than Just Nvidia GPUs",
+   "t": "Is the stock market open on Labor Day?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/broadcom-ai-forecast-suggests-hyperscalers-211102090.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-labor-day-210239142.html"
   },
   {
    "t": "韓國核電輸美背後戰略盤算　築經貿保護傘兼解AI電荒",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090133.aspx"
   },
   {
-   "t": "Rosneft Ships First Crude From $157 Billion Vostok Oil Project",
+   "t": "Eli Lilly vs. Novo Nordisk: One Has 39% Upside. I'm Picking the Other.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/rosneft-ships-first-crude-157-210000440.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/eli-lilly-vs-novo-nordisk-230002000.html"
   },
   {
    "t": "意騰：明年營收估增2位數　成本升與客戶討論漲價",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090129.aspx"
   },
   {
-   "t": "Crypto Investors Rotate From Bitcoin Into Altcoins as Rate Risks Rise",
+   "t": "Jefferies Sees Cameco (CCJ) and BWXT as Winners in the Nuclear Boom",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/crypto-investors-rotate-bitcoin-altcoins-205900028.html"
+   "u": "https://finance.yahoo.com/energy/articles/jefferies-sees-cameco-ccj-bwxt-222909210.html"
   },
   {
    "t": "強化淨水藥劑管理　台水推NSF國際認證把關飲水安全",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090123.aspx"
   },
   {
-   "t": "Oracle’s AI Earnings Story Is Improving, but the Cash Flow Test Remains",
+   "t": "Wells Fargo Just Raised its Bets on These 2 Refining Giants",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/oracle-ai-earnings-story-improving-205751191.html"
+   "u": "https://finance.yahoo.com/energy/articles/wells-fargo-just-raised-bets-222636997.html"
   },
   {
    "t": "日月光投控擴大使用再生能源　拚2035年占比57%",
