@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 07:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 07:23（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 101.99,
-   "c": 4.16,
+   "p": 102.05,
+   "c": 4.22,
    "a50": 87.28,
    "a200": 84.2,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 92.32,
-   "r": 70.1
+   "r": 70.2
   },
   {
    "s": "GC=F",
-   "p": 4446.3,
+   "p": 4446.4,
    "c": 1.19,
    "a50": 4253.77,
    "a200": 4523.97,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.92,
+   "a20": 4471.93,
    "r": 53.3
   },
   {
    "s": "HG=F",
    "p": 6.86,
-   "c": 1.76,
+   "c": 1.79,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.86,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 67.8
+   "r": 67.9
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609100003.aspx"
   },
   {
-   "t": "American Fusion Expands Patent Portfolio to 130 Applications as National Exchange Uplisting Plans Advance",
+   "t": "Sugar Prices Are Climbing Higher. How to Trade Them Here.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/american-fusion-expands-patent-portfolio-150440430.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/sugar-prices-climbing-higher-trade-153205875.html"
   },
   {
    "t": "美伊衝突再起　歐股收跌油價走高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100002.aspx"
   },
   {
-   "t": "Hewlett Packard Enterprise Company (HPE) Jumps on Surging AI Infrastructure Demand",
+   "t": "Andrew Sather: “Most Investors Are Missing Why” Coca-Cola Is Outperforming",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/hewlett-packard-enterprise-company-hpe-150418396.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/andrew-sather-most-investors-missing-153234071.html"
   },
   {
    "t": "除權畸零股爭議　緯穎：開放小股東10元認購1股",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090339.aspx"
   },
   {
-   "t": "Truist Financial Stock: Is TFC Outperforming the Financial Sector?",
+   "t": "Middle East Hostilities Underpin Crude Oil Prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/truist-financial-stock-tfc-outperforming-150054524.html"
+   "u": "https://finance.yahoo.com/energy/articles/middle-east-hostilities-underpin-crude-152954672.html"
   },
   {
    "t": "今彩539第115219期　頭獎4注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090335.aspx"
   },
   {
-   "t": "Rocket Lab Keeps Landing Defense Deals. Here’s Why Analysts Aren’t Getting More Bullish.",
+   "t": "An AI Stock Launched a Rack-Scale System 30x Faster Than Nvidia’s GPUs. Here’s Why It Is Still a Risky Buy.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-keeps-landing-defense-150203675.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-launched-rack-scale-152605499.html"
   },
   {
    "t": "核二廠外核安演練　實測多元警報與疏散機制",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090331.aspx"
   },
   {
-   "t": "‘Are you going to get money back to the American people?’ asks Senator Warren on tariff refund checks. Here’s the answer",
+   "t": "Bank of America Is Bullish on SK hynix Stock as the Memory Chip Market Stays Tight",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/going-money-back-american-people-150500819.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bullish-sk-hynix-153622945.html"
   },
   {
    "t": "國科會率台灣智慧醫療團隊赴新加坡　加速拓展國際市場",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090326.aspx"
   },
   {
-   "t": "American EcoFuels Appoints Three Independent Directors to Strengthen Board for Commercialization Strategy",
+   "t": "The Kroger Co. (KR) Shares Weighed by Inflation Pressure and Slowing Sales",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/american-ecofuels-appoints-three-independent-150541285.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kroger-co-kr-shares-weighed-153940365.html"
   }
  ],
  "inst": {
