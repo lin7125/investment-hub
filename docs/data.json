@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 14:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 14:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 47.8,
-   "c": -3.53,
+   "p": 47.75,
+   "c": -3.63,
    "a50": 52.06,
    "a200": 44.68,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 49.51,
-   "r": 45.7
+   "r": 45.6
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 59.1,
-   "c": -1.34,
-   "a50": 57.64,
+   "p": 59.9,
+   "c": 0.0,
+   "a50": 57.65,
    "a200": 57.82,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.14,
-   "r": 58.8
+   "a20": 56.18,
+   "r": 62.8
   },
   {
    "s": "AAPL",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.91,
-   "c": 1.01,
+   "p": 98.96,
+   "c": 1.06,
    "a50": 87.21,
    "a200": 84.19,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 92.16,
-   "r": 66.3
+   "r": 66.4
   },
   {
    "s": "GC=F",
-   "p": 4443.5,
-   "c": 1.13,
-   "a50": 4253.71,
-   "a200": 4523.96,
+   "p": 4447.3,
+   "c": 1.22,
+   "a50": 4253.79,
+   "a200": 4523.97,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.78,
-   "r": 53.2
+   "a20": 4471.97,
+   "r": 53.4
   },
   {
    "s": "HG=F",
-   "p": 6.77,
-   "c": 0.5,
+   "p": 6.78,
+   "c": 0.61,
    "a50": 6.45,
    "a200": 6.0,
-   "yh": 6.77,
+   "yh": 6.78,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 64.3
+   "r": 64.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03181674,
-   "c": 0.24,
+   "p": 0.03180662,
+   "c": 0.21,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609090136.aspx"
   },
   {
-   "t": "Novartis (NVS) Has a Potential $3 Billion MS Opportunity — But Investors Face Key Risks",
+   "t": "Arthur J. Gallagher Stock: Is AJG Underperforming the Financial Service Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/novartis-nvs-potential-3-billion-180349402.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/arthur-j-gallagher-stock-ajg-183458782.html"
   },
   {
    "t": "韓國核電輸美背後戰略盤算　築經貿保護傘兼解AI電荒",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090133.aspx"
   },
   {
-   "t": "Zcash Price Prediction: ZEC Bull Run May Still Be Early",
+   "t": "Lockheed Martin’s (LMT) Javelin JV Signs Co-Production MOU With Tata Advanced Systems",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-prediction-zec-bull-180122105.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-javelin-jv-182848367.html"
   },
   {
    "t": "意騰：明年營收估增2位數　成本升與客戶討論漲價",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090129.aspx"
   },
   {
-   "t": "Broadcom Inc. (AVGO)’s AI Opportunity Expands Across AI Infrastructure",
+   "t": "Howmet Aerospace Stock Is Sliding on SpaceX Fears. Here’s Why That Could Be a Buying Opportunity.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/broadcom-inc-avgo-ai-opportunity-181909723.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-stock-sliding-spacex-183002557.html"
   },
   {
    "t": "強化淨水藥劑管理　台水推NSF國際認證把關飲水安全",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090123.aspx"
   },
   {
-   "t": "Lockheed Martin’s (LMT) Javelin JV Signs Co-Production MOU With Tata Advanced Systems",
+   "t": "CECO Environmental (CECO) Raises Guidance After Thermon Deal — Can the Momentum Last?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-javelin-jv-182848367.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ceco-environmental-ceco-raises-guidance-185137151.html"
   },
   {
    "t": "日月光投控擴大使用再生能源　拚2035年占比57%",
