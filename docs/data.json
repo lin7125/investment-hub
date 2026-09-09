@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09 14:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-09 14:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,13 +179,13 @@
   },
   {
    "s": "3585.TWO",
-   "p": 47.8,
-   "c": -3.53,
+   "p": 47.85,
+   "c": -3.43,
    "a50": 52.06,
    "a200": 44.68,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.51,
+   "a20": 49.52,
    "r": 45.7
   },
   {
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 99.15,
-   "c": 1.26,
+   "p": 99.37,
+   "c": 1.48,
    "a50": 87.22,
    "a200": 84.19,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.17,
-   "r": 66.7
+   "a20": 92.19,
+   "r": 67.0
   },
   {
    "s": "GC=F",
-   "p": 4444.6,
-   "c": 1.15,
-   "a50": 4253.73,
-   "a200": 4523.96,
+   "p": 4442.2,
+   "c": 1.1,
+   "a50": 4253.69,
+   "a200": 4523.95,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.84,
-   "r": 53.2
+   "a20": 4471.72,
+   "r": 53.1
   },
   {
    "s": "HG=F",
-   "p": 6.79,
-   "c": 0.74,
+   "p": 6.78,
+   "c": 0.67,
    "a50": 6.45,
    "a200": 6.0,
-   "yh": 6.79,
+   "yh": 6.78,
    "yl": 4.5,
    "a20": 6.59,
-   "r": 65.1
+   "r": 64.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03180662,
-   "c": 0.2,
+   "p": 0.0317965,
+   "c": 0.18,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033212,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609090136.aspx"
   },
   {
-   "t": "Arthur J. Gallagher Stock: Is AJG Underperforming the Financial Service Sector?",
+   "t": "Sudan Could Become the Red Sea’s Next Energy Security Flashpoint",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/arthur-j-gallagher-stock-ajg-183458782.html"
+   "u": "https://finance.yahoo.com/energy/articles/sudan-could-become-red-sea-190000402.html"
   },
   {
    "t": "韓國核電輸美背後戰略盤算　築經貿保護傘兼解AI電荒",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090133.aspx"
   },
   {
-   "t": "Lockheed Martin’s (LMT) Javelin JV Signs Co-Production MOU With Tata Advanced Systems",
+   "t": "A Potential Maserati Partnership Puts Stellantis (STLA)’s Strategy Under the Spotlight",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-javelin-jv-182848367.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/potential-maserati-partnership-puts-stellantis-191107357.html"
   },
   {
    "t": "意騰：明年營收估增2位數　成本升與客戶討論漲價",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090129.aspx"
   },
   {
-   "t": "Howmet Aerospace Stock Is Sliding on SpaceX Fears. Here’s Why That Could Be a Buying Opportunity.",
+   "t": "CECO Environmental (CECO) Raises Guidance After Thermon Deal — Can the Momentum Last?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-stock-sliding-spacex-183002557.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ceco-environmental-ceco-raises-guidance-185137151.html"
   },
   {
    "t": "強化淨水藥劑管理　台水推NSF國際認證把關飲水安全",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090123.aspx"
   },
   {
-   "t": "CECO Environmental (CECO) Raises Guidance After Thermon Deal — Can the Momentum Last?",
+   "t": "Clean Harbors (CLH) Bets $470 Million on EnviroServe — Will the Synergies Pay Off?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ceco-environmental-ceco-raises-guidance-185137151.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/clean-harbors-clh-bets-470-190353778.html"
   },
   {
    "t": "日月光投控擴大使用再生能源　拚2035年占比57%",
