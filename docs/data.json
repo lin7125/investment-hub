@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 04:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 04:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 16.46,
-   "c": 4.71,
+   "p": 16.47,
+   "c": 4.77,
    "a50": 16.1,
    "a200": 18.12,
    "yh": 31.05,
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 101.58,
-   "c": 3.74,
+   "p": 101.66,
+   "c": 3.82,
    "a50": 87.27,
    "a200": 84.2,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 92.3,
-   "r": 69.7
+   "r": 69.8
   },
   {
    "s": "GC=F",
-   "p": 4442.4,
+   "p": 4442.2,
    "c": 1.1,
    "a50": 4253.69,
    "a200": 4523.95,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.73,
+   "a20": 4471.72,
    "r": 53.1
   },
   {
    "s": "HG=F",
    "p": 6.85,
-   "c": 1.67,
+   "c": 1.68,
    "a50": 6.45,
    "a200": 6.0,
    "yh": 6.85,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609100003.aspx"
   },
   {
-   "t": "JEPI Is an Income Machine—But These 3 Dividend Stocks Don’t Cap Your Upside",
+   "t": "Schroders and ttb wealth securities to build HNW offering in Thailand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jepi-income-machine-3-dividend-115013003.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/schroders-ttb-wealth-securities-build-115213353.html"
   },
   {
    "t": "美伊衝突再起　歐股收跌油價走高",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100002.aspx"
   },
   {
-   "t": "The stock market's hot streak hints at more good times ahead",
+   "t": "Is Copart Stock Underperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/the-stock-markets-hot-streak-hints-at-more-good-times-ahead-114050175.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/copart-stock-underperforming-p-500-115215710.html"
   },
   {
    "t": "除權畸零股爭議　緯穎：開放小股東10元認購1股",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090339.aspx"
   },
   {
-   "t": "Is Copart Stock Underperforming the S&P 500?",
+   "t": "How Is Aflac’s Stock Performance Compared to Other Insurance Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/copart-stock-underperforming-p-500-115215710.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/aflac-stock-performance-compared-other-115607145.html"
   },
   {
    "t": "今彩539第115219期　頭獎4注中獎",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609090335.aspx"
   },
   {
-   "t": "4 Stocks Whup The S&P 500 — And Yield More Than 30-Year Treasurys",
+   "t": "General Motors’ Stock: Is GM Outperforming the Consumer Discretionary Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-whup-the-market-and-yield-more-than-30-year-treasurys/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/general-motors-stock-gm-outperforming-115948399.html"
   },
   {
    "t": "核二廠外核安演練　實測多元警報與疏散機制",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609090326.aspx"
   },
   {
-   "t": "China Bought 20 Tons of Gold in August, Its Biggest Haul in Nearly Three Years",
+   "t": "UST completes majority takeover of Italdesign from Audi",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/china-bought-20-tons-gold-114524723.html"
+   "u": "https://finance.yahoo.com/technology/articles/ust-completes-majority-takeover-italdesign-120018023.html"
   }
  ],
  "inst": {
