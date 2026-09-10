@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 17:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 19:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.54,
-   "c": 0.49,
+   "p": 16.69,
+   "c": 1.4,
    "a50": 16.1,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.3,
-   "r": 55.2
+   "a20": 15.31,
+   "r": 55.9
   },
   {
    "s": "BZ=F",
-   "p": 102.28,
-   "c": 1.06,
-   "a50": 87.85,
+   "p": 102.13,
+   "c": 0.91,
+   "a50": 87.84,
    "a200": 84.39,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.94,
-   "r": 70.5
+   "a20": 92.93,
+   "r": 70.4
   },
   {
    "s": "GC=F",
-   "p": 4437.5,
-   "c": 0.49,
-   "a50": 4261.45,
-   "a200": 4525.72,
+   "p": 4429.7,
+   "c": 0.31,
+   "a50": 4261.3,
+   "a200": 4525.68,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.84,
-   "r": 52.9
+   "a20": 4471.45,
+   "r": 52.4
   },
   {
    "s": "HG=F",
-   "p": 6.82,
-   "c": 0.24,
+   "p": 6.59,
+   "c": -3.1,
    "a50": 6.46,
    "a200": 6.01,
-   "yh": 6.82,
+   "yh": 6.8,
    "yl": 4.54,
-   "a20": 6.6,
-   "r": 66.4
+   "a20": 6.59,
+   "r": 51.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03167564,
-   "c": -0.22,
+   "c": -0.23,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -332,76 +332,76 @@
  ],
  "news": [
   {
-   "t": "士電擴變壓器產能3成　因應AIDC和半導體業需求",
+   "t": "華航、長榮航8月營收寫歷史次高　暑期旺季助攻",
    "pub": "中央社財經",
    "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100215.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609100273.aspx"
   },
   {
-   "t": "Weekly survey of mortgage lenders with the lowest rates: Little relief since July",
+   "t": "This Dividend Stock Is Facing a Perfect Storm. It Could Be the Time to Press that “Sell” Button",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-september-8-170834159.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-facing-perfect-storm-233002371.html"
   },
   {
-   "t": "新台幣貶4.3分　收31.548元",
+   "t": "大同8月營收月增近2成　設澳洲子公司攻光儲商機",
    "pub": "中央社財經",
    "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100203.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609100269.aspx"
   },
   {
-   "t": "401(k) savers are setting records. How to catch up if you're behind.",
+   "t": "Tech stocks today: Apple kicks off new era Wednesday, Anthropic S1 watch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/401k-savers-are-setting-records-how-to-catch-up-if-youre-behind-162009045.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-kicks-off-new-era-wednesday-anthropic-s1-watch-125343211.html"
   },
   {
-   "t": "黃彥男接任創投公會理事長　3大方向強化產業競爭力",
+   "t": "和碩8月營收883億年增34%　通訊產品助攻",
    "pub": "中央社財經",
    "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100202.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609100265.aspx"
   },
   {
-   "t": "Capital One Venture welcome offer: 75,000 miles plus a $300 travel credit",
+   "t": "Planet Labs (PL) Reported 58% Revenue Growth. Can Backlog Conversion Sustain Profitability?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-welcome-offer-75000-miles-plus-a-300-travel-credit-171812043.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-reported-58-012242024.html"
   },
   {
-   "t": "綠色投融資規模逾5.4兆元　財長勉公股銀助企業轉型",
+   "t": "金融研訓院前進倫敦　推廣台灣亞洲資產管理中心",
    "pub": "中央社財經",
    "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100197.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609100264.aspx"
   },
   {
-   "t": "What is a step-up CD, and how does it work?",
+   "t": "Zscaler (ZS) Reported Revenue and ARR Growth While Planning Workforce Reduction",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/step-up-cd-181655102.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/zscaler-zs-reported-revenue-arr-012446981.html"
   },
   {
-   "t": "畸零股爭議　緯穎：小股東可10元認購1股　權利不得移轉",
+   "t": "油價飆漲引發通膨和升息疑慮　亞股多收黑",
    "pub": "中央社財經",
    "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100187.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609100261.aspx"
   },
   {
-   "t": "CrowdStrike vs. OKTA: What Revenue Trends Between These Cybersecurity Giants Tell Investors",
+   "t": "Here's How Many Shares of Chevron You'd Need for $5,000 in Annual Passive Income",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-vs-okta-revenue-trends-215226676.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/heres-many-shares-chevron-youd-232500144.html"
   },
   {
-   "t": "核二有望啟動安檢？經長：若部分燃料棒移出能確保安全",
+   "t": "旺季商機助攻　統一企業、超商雙雄8月營收創同期高",
    "pub": "中央社財經",
    "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100186.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609100259.aspx"
   },
   {
-   "t": "Here's what to do if your bank account application was denied",
+   "t": "Capital Southwest (CSWC) Expanded its Revolver to $595M and Cut the Spread to 2%. Will Cheaper Capacity Outweigh Credit Risk?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/denied-bank-account-204942472.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/capital-southwest-cswc-expanded-revolver-013715295.html"
   }
  ],
  "inst": {
