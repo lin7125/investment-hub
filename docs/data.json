@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 14:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 14:13（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 46.7,
-   "c": -1.79,
+   "p": 46.9,
+   "c": -1.37,
    "a50": 51.55,
    "a200": 44.84,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.33,
-   "r": 44.0
+   "a20": 49.34,
+   "r": 44.3
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 58.4,
-   "c": -2.18,
-   "a50": 57.5,
-   "a200": 57.91,
+   "p": 57.3,
+   "c": -4.02,
+   "a50": 57.48,
+   "a200": 57.9,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.2,
-   "r": 55.4
+   "a20": 56.15,
+   "r": 50.9
   },
   {
    "s": "AAPL",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 100.66,
-   "c": -0.54,
+   "p": 100.41,
+   "c": -0.79,
    "a50": 87.81,
    "a200": 84.39,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.86,
-   "r": 67.7
+   "a20": 92.85,
+   "r": 67.1
   },
   {
    "s": "GC=F",
-   "p": 4469.6,
-   "c": 1.21,
-   "a50": 4262.1,
-   "a200": 4525.88,
+   "p": 4472.0,
+   "c": 1.27,
+   "a50": 4262.14,
+   "a200": 4525.9,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4473.44,
-   "r": 55.0
+   "a20": 4473.56,
+   "r": 55.1
   },
   {
    "s": "HG=F",
    "p": 6.86,
-   "c": 0.87,
+   "c": 0.89,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.86,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03172589,
-   "c": -0.07,
+   "p": 0.03171583,
+   "c": -0.11,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100061.aspx"
   },
   {
-   "t": "The Simple Reason I'm Not Worried About Nvidia's Hugging Face Acquisition",
+   "t": "Stocks Slip as Oil Pares Gains",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/simple-reason-im-not-worried-180501810.html"
+   "u": "https://www.wsj.com/finance/commodities-futures/u-s-stock-futures-treasurys-weaken-as-brent-nears-100-c29efc2f?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "電子傳產弱　台股盤中挫逾600點回測10日線",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100057.aspx"
   },
   {
-   "t": "Apple Scraps Plans for 2 MacBook Models. What This Actually Means for AAPL Stock Investors.",
+   "t": "What is a step-up CD, and how does it work?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-scraps-plans-2-macbook-181756571.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/step-up-cd-181655102.html"
   },
   {
    "t": "紐時：輝達結盟Groq　美司法部查是否規避反壟斷",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609100050.aspx"
   },
   {
-   "t": "Why AMC CEO Adam Aron Dislikes Robinhood’s New Tokenized Assets",
+   "t": "Apple Scraps Plans for 2 MacBook Models. What This Actually Means for AAPL Stock Investors.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/why-amc-ceo-adam-aron-183828841.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-scraps-plans-2-macbook-181756571.html"
   },
   {
    "t": "台積電下跌25元　台股早盤下滑逾400點跌破47000點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100037.aspx"
   },
   {
-   "t": "What is a step-up CD, and how does it work?",
+   "t": "Why B. Riley Just Issued a $23 Price Target on Infleqtion Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/step-up-cd-181655102.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-b-riley-just-issued-185248996.html"
   },
   {
    "t": "新台幣開盤貶2.5分　為31.53元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100035.aspx"
   },
   {
-   "t": "Why B. Riley Just Issued a $23 Price Target on Infleqtion Stock",
+   "t": "Why AMC CEO Adam Aron Dislikes Robinhood’s New Tokenized Assets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-b-riley-just-issued-185248996.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/why-amc-ceo-adam-aron-183828841.html"
   },
   {
    "t": "台股開盤跌52.4點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100034.aspx"
   },
   {
-   "t": "James Fisher and Sons H1 Earnings Call Highlights",
+   "t": "Why ServiceNow Stock Popped 33% Last Month",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/james-fisher-sons-h1-earnings-180247019.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-servicenow-stock-popped-33-181200742.html"
   }
  ],
  "inst": {
