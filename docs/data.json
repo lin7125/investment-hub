@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 15:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 15:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 101.41,
-   "c": 0.2,
+   "p": 101.24,
+   "c": 0.03,
    "a50": 87.83,
    "a200": 84.39,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.9,
-   "r": 69.5
+   "a20": 92.89,
+   "r": 69.3
   },
   {
    "s": "GC=F",
-   "p": 4449.8,
-   "c": 0.77,
-   "a50": 4261.7,
-   "a200": 4525.78,
+   "p": 4453.4,
+   "c": 0.85,
+   "a50": 4261.77,
+   "a200": 4525.8,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.45,
-   "r": 53.7
+   "a20": 4472.63,
+   "r": 53.9
   },
   {
    "s": "HG=F",
    "p": 6.85,
-   "c": 0.74,
+   "c": 0.68,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.85,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 67.8
+   "r": 67.6
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100175.aspx"
   },
   {
-   "t": "Here's what to do if your bank account application was denied",
+   "t": "Ink Business Premier Credit Card review: Generous welcome bonus and free employee cards",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/denied-bank-account-204942472.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/ink-business-premier-credit-card-review-223741901.html"
   },
   {
    "t": "三大法人賣超台股503.11億元",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100168.aspx"
   },
   {
-   "t": "Ink Business Premier Credit Card review: Generous welcome bonus and free employee cards",
+   "t": "Capital One launches new Venture Business card with limited-time 150,000-mile welcome bonus (expired)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/ink-business-premier-credit-card-review-223741901.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-business-card-193020902.html"
   },
   {
    "t": "市場對油價日圓態度審慎　日股收高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100167.aspx"
   },
   {
-   "t": "Capital One launches new Venture Business card with limited-time 150,000-mile welcome bonus (expired)",
+   "t": "SpaceX Shares to Get a Boost If Nasdaq 100 Increases Weighting",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-business-card-193020902.html"
+   "u": "https://finance.yahoo.com/video/spacex-shares-boost-nasdaq-100-194802021.html"
   },
   {
    "t": "台機械出口連19個月成長　公會：今年出口產值拚新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100160.aspx"
   },
   {
-   "t": "ILMN Stock Keeps Climbing. Should You Climb On?",
+   "t": "Labor Day Gasoline Just Hit a Record. Here’s What Comes Next",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ilmn-stock-keeps-climbing-climb-193724343.html"
+   "u": "https://finance.yahoo.com/energy/articles/labor-day-gasoline-just-hit-200000363.html"
   },
   {
    "t": "iPhone 18 Pro預約　電信業迎高階換機潮摺疊機動能",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100156.aspx"
   },
   {
-   "t": "Dear Nvidia Stock Fans, Mark Your Calendars for September 10",
+   "t": "Stock market today: Dow drops 600 points, S&P 500 and Nasdaq retreat as oil nears $100",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-nvidia-stock-fans-mark-194239279.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html"
   },
   {
    "t": "iPhone新舊機全面漲價　記憶體狂飆醞釀AI通膨",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100151.aspx"
   },
   {
-   "t": "Travere Therapeutics' Outlook Brightens As Turnaround Looms",
+   "t": "Here's what to do if your bank account application was denied",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/biotech-travere-therapeutics-tvtx-stock/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/denied-bank-account-204942472.html"
   }
  ],
  "inst": {
