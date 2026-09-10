@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 13:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 14:03（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 47.15,
-   "c": -0.84,
-   "a50": 51.56,
-   "a200": 44.85,
+   "p": 46.7,
+   "c": -1.79,
+   "a50": 51.55,
+   "a200": 44.84,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.35,
-   "r": 44.6
+   "a20": 49.33,
+   "r": 44.0
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 59.0,
-   "c": -1.17,
-   "a50": 57.51,
+   "p": 58.4,
+   "c": -2.18,
+   "a50": 57.5,
    "a200": 57.91,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.23,
-   "r": 58.1
+   "a20": 56.2,
+   "r": 55.4
   },
   {
    "s": "AAPL",
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 46936.04,
-   "c": -0.52,
-   "a50": 45014.75,
-   "a200": 37628.18,
+   "p": 46940.49,
+   "c": -0.51,
+   "a50": 45014.83,
+   "a200": 37628.2,
    "yh": 47741.51,
    "yl": 25192.59,
-   "a20": 46006.38,
+   "a20": 46006.6,
    "r": 59.0
   },
   {
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 100.56,
-   "c": -0.64,
+   "p": 100.44,
+   "c": -0.76,
    "a50": 87.81,
-   "a200": 84.39,
+   "a200": 84.38,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.86,
-   "r": 67.5
+   "a20": 92.85,
+   "r": 67.2
   },
   {
    "s": "GC=F",
-   "p": 4471.9,
-   "c": 1.27,
-   "a50": 4262.14,
+   "p": 4471.0,
+   "c": 1.25,
+   "a50": 4262.12,
    "a200": 4525.89,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4473.56,
-   "r": 55.1
+   "a20": 4473.51,
+   "r": 55.0
   },
   {
    "s": "HG=F",
    "p": 6.87,
-   "c": 0.98,
+   "c": 0.93,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.87,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 68.4
+   "r": 68.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03173596,
-   "c": -0.02,
+   "p": 0.03174603,
+   "c": -0.0,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100061.aspx"
   },
   {
-   "t": "Iran War Weighs on Stocks. Tariffs Only Complicate the Outlook.",
+   "t": "Does Michael Burry Have It Wrong? Nvidia Chips Retain Value, Data Shows",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/livecoverage/stock-market-news-today-090826/card/iran-war-weighs-on-stocks-tariffs-only-complicate-the-outlook--0dVWdjyvfQmEZ5xGkgn8?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/does-michael-burry-wrong-nvidia-174957539.html"
   },
   {
    "t": "電子傳產弱　台股盤中挫逾600點回測10日線",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100034.aspx"
   },
   {
-   "t": "Does Michael Burry Have It Wrong? Nvidia Chips Retain Value, Data Shows",
+   "t": "Morgan Stanley Eyes Good Things Ahead for Meta After $18 Billion Legal Settlement",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/does-michael-burry-wrong-nvidia-174957539.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-eyes-good-things-175000651.html"
   }
  ],
  "inst": {
