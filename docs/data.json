@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 16:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 16:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.33,
-   "c": -0.79,
+   "p": 16.34,
+   "c": -0.73,
    "a50": 16.09,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.29,
-   "r": 54.0
+   "r": 54.1
   },
   {
    "s": "BZ=F",
-   "p": 101.32,
-   "c": 0.11,
+   "p": 101.51,
+   "c": 0.3,
    "a50": 87.83,
    "a200": 84.39,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.89,
-   "r": 69.4
+   "a20": 92.9,
+   "r": 69.6
   },
   {
    "s": "GC=F",
-   "p": 4455.0,
-   "c": 0.88,
-   "a50": 4261.8,
-   "a200": 4525.81,
+   "p": 4450.9,
+   "c": 0.79,
+   "a50": 4261.72,
+   "a200": 4525.79,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.71,
-   "r": 54.0
+   "a20": 4472.51,
+   "r": 53.8
   },
   {
    "s": "HG=F",
-   "p": 6.85,
-   "c": 0.65,
+   "p": 6.84,
+   "c": 0.49,
    "a50": 6.46,
    "a200": 6.01,
-   "yh": 6.85,
+   "yh": 6.84,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 67.6
+   "r": 67.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03170577,
-   "c": -0.12,
+   "c": -0.14,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100175.aspx"
   },
   {
-   "t": "It’s Fourth Down. Will Stocks Go for the Win or a Tie?",
+   "t": "T-Mobile makes a significant change to where customers get help",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/stocks-oil-midterm-elections-earnings-fed-rates-bond-yields-a9cd1d66?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/articles/t-mobile-continues-significant-store-200700402.html"
   },
   {
    "t": "三大法人賣超台股503.11億元",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100168.aspx"
   },
   {
-   "t": "Labor Day Gasoline Just Hit a Record. Here’s What Comes Next",
+   "t": "9 ways your employer can help you save money",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/labor-day-gasoline-just-hit-200000363.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/ways-your-employer-can-help-you-save-money-210135355.html"
   },
   {
    "t": "市場對油價日圓態度審慎　日股收高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100167.aspx"
   },
   {
-   "t": "Stock market today: Dow drops 600 points, S&P 500 and Nasdaq retreat as oil nears $100",
+   "t": "GE Aerospace To Buy Key Industry Castings Supplier CPP For Nearly $12 Billion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html"
+   "u": "https://www.investors.com/news/ge-aerospace-acquisition-precision-products-castings-capacity-deal-ge-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台機械出口連19個月成長　公會：今年出口產值拚新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100160.aspx"
   },
   {
-   "t": "Capital One launches new Venture Business card with limited-time 150,000-mile welcome bonus (expired)",
+   "t": "Robinhood Lands Crypto.com Deal, Underwriting Job For Oura. Goldman Hikes Target.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-business-card-193020902.html"
+   "u": "https://www.investors.com/news/robinhood-crypto-com-minority-stake-prediction-markets-oura-underwriter-reports-hood-stock-price-target/?src=A00220&yptr=yahoo"
   },
   {
    "t": "iPhone 18 Pro預約　電信業迎高階換機潮摺疊機動能",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100156.aspx"
   },
   {
-   "t": "Robinhood Lands Crypto.com Deal, Underwriting Job For Oura. Goldman Hikes Target.",
+   "t": "Arm Extends AI Reach From Data Centers To Edge Devices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/robinhood-crypto-com-minority-stake-prediction-markets-oura-underwriter-reports-hood-stock-price-target/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/arm-stock-arm-extends-reach-to-physical-ai/?src=A00220&yptr=yahoo"
   },
   {
    "t": "iPhone新舊機全面漲價　記憶體狂飆醞釀AI通膨",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202609100151.aspx"
   },
   {
-   "t": "Anthropic Walks Away From Decart as $6 Billion AI Deal Unravels",
+   "t": "Exclusive: Snap names Ronan Harris chief commercial officer",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-walks-away-decart-6-195737557.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/exclusive-snap-names-ronan-harris-201004345.html"
   }
  ],
  "inst": {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "byCode": {
-   "2317": {
-    "f": 3133,
-    "t": -35,
-    "all": 2584
-   },
-   "1802": {
-    "f": 2411,
-    "t": 49,
-    "all": 2584
+   "2454": {
+    "f": 1717,
+    "t": 55,
+    "all": 1781
    },
    "2305": {
-    "f": 343,
-    "t": -4,
-    "all": 443
-   },
-   "2308": {
-    "f": 898,
-    "t": -433,
-    "all": 435
-   },
-   "3701": {
-    "f": 131,
+    "f": 1585,
     "t": 0,
-    "all": 143
+    "all": 1736
    },
-   "4722": {
-    "f": 30,
-    "t": 28,
-    "all": 52
-   },
-   "6862": {
-    "f": 13,
-    "t": 0,
-    "all": 11
-   },
-   "6706": {
-    "f": -63,
-    "t": 0,
-    "all": -86
-   },
-   "6515": {
-    "f": -289,
-    "t": 136,
-    "all": -148
+   "1802": {
+    "f": 718,
+    "t": 35,
+    "all": 790
    },
    "6442": {
-    "f": -105,
-    "t": -111,
-    "all": -207
+    "f": 92,
+    "t": 164,
+    "all": 279
    },
-   "2454": {
-    "f": -758,
-    "t": 177,
-    "all": -608
+   "6706": {
+    "f": 230,
+    "t": 0,
+    "all": 267
+   },
+   "4722": {
+    "f": 80,
+    "t": -5,
+    "all": 57
+   },
+   "6862": {
+    "f": 6,
+    "t": 0,
+    "all": 5
+   },
+   "6515": {
+    "f": -65,
+    "t": 16,
+    "all": -51
+   },
+   "3701": {
+    "f": -193,
+    "t": 0,
+    "all": -194
    },
    "6446": {
-    "f": -1343,
-    "t": -4,
-    "all": -1351
-   },
-   "2330": {
-    "f": -2559,
-    "t": -204,
-    "all": -2721
+    "f": -213,
+    "t": 5,
+    "all": -230
    },
    "2327": {
-    "f": -3386,
-    "t": -12,
-    "all": -3527
+    "f": -1949,
+    "t": -217,
+    "all": -1649
+   },
+   "2330": {
+    "f": -1945,
+    "t": -493,
+    "all": -2535
+   },
+   "2317": {
+    "f": -3395,
+    "t": 1011,
+    "all": -4576
+   },
+   "2308": {
+    "f": -8708,
+    "t": -1323,
+    "all": -10964
    }
   },
-  "totalNetE": 211.3
+  "totalNetE": -503.1
  }
 }
