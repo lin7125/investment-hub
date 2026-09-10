@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 01:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 02:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 325.15,
-   "c": 3.11,
-   "a50": 317.19,
+   "p": 324.18,
+   "c": 2.8,
+   "a50": 317.17,
    "a200": 284.64,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 315.2,
-   "r": 57.9
+   "a20": 315.16,
+   "r": 57.2
   },
   {
    "s": "NVDA",
-   "p": 218.55,
-   "c": -2.29,
+   "p": 218.28,
+   "c": -2.41,
    "a50": 212.17,
    "a200": 197.28,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.52,
-   "r": 50.0
+   "a20": 220.51,
+   "r": 49.7
   },
   {
    "s": "TSLA",
-   "p": 366.25,
-   "c": -0.42,
-   "a50": 355.75,
-   "a200": 399.07,
+   "p": 365.47,
+   "c": -0.64,
+   "a50": 355.73,
+   "a200": 399.06,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 353.99,
-   "r": 54.9
+   "a20": 353.95,
+   "r": 54.5
   },
   {
    "s": "META",
-   "p": 648.08,
-   "c": -0.86,
-   "a50": 600.27,
+   "p": 648.49,
+   "c": -0.8,
+   "a50": 600.28,
    "a200": 622.98,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 584.0,
-   "r": 67.9
+   "a20": 584.02,
+   "r": 68.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7596.93,
-   "c": -0.52,
-   "a50": 7603.97,
-   "a200": 7157.31,
+   "p": 7592.83,
+   "c": -0.57,
+   "a50": 7603.89,
+   "a200": 7157.29,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7692.55,
-   "r": 44.2
+   "a20": 7692.35,
+   "r": 43.9
   },
   {
    "s": "^VIX",
-   "p": 17.49,
-   "c": 6.26,
+   "p": 17.52,
+   "c": 6.44,
    "a50": 16.12,
    "a200": 18.11,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.35,
-   "r": 59.3
+   "r": 59.4
   },
   {
    "s": "BZ=F",
-   "p": 107.27,
-   "c": 5.99,
+   "p": 107.32,
+   "c": 6.04,
    "a50": 87.95,
    "a200": 84.42,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 93.19,
-   "r": 75.3
+   "r": 75.4
   },
   {
    "s": "GC=F",
-   "p": 4400.3,
-   "c": -0.36,
-   "a50": 4260.71,
+   "p": 4401.3,
+   "c": -0.33,
+   "a50": 4260.73,
    "a200": 4525.54,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.98,
-   "r": 50.2
+   "a20": 4470.03,
+   "r": 50.3
   },
   {
    "s": "HG=F",
    "p": 6.52,
-   "c": -4.14,
+   "c": -4.12,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 47.9
+   "r": 48.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03162555,
-   "c": -0.38,
+   "p": 0.03161555,
+   "c": -0.4,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "What is a mortgage interest rate buydown, and should you get one?",
+   "t": "Kalshi launches gold and silver perpetual futures with CFTC approval",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/buy-down-interest-rate-172228613.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/kalshi-launches-gold-silver-perpetual-175449558.html"
   },
   {
    "t": "今彩539第115220期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
   },
   {
-   "t": "Prominent seafood chain continues closing restaurants after bankruptcy",
+   "t": "Brady Corp (BRC) Forecast $6.25 to $6.75 Adjusted EPS. Can Lower-Margin IPS Deliver Accretion?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/prominent-seafood-chain-continues-closing-173300811.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/brady-corp-brc-forecast-6-174350138.html"
   },
   {
    "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
   },
   {
-   "t": "Palo Alto (PANW) Reports 63% NGS ARR Growth but a $282M GAAP Net Loss. Can Platform Expansion Absorb Acquisition Costs?",
+   "t": "What is a mortgage interest rate buydown, and should you get one?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-panw-reports-63-173118350.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/buy-down-interest-rate-172228613.html"
   },
   {
    "t": "證基會首拓義大利合作　與米蘭證交所培訓學院簽MOU",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100361.aspx"
   },
   {
-   "t": "'Clean' Energy And Tech Spending Slides 17%. New Report Blames China, But Doesn't Tell The Whole Story.",
+   "t": "Arcosa Shareholders Approve $8.5B CRH Deal. Does the Vote De-Risk a First-Quarter 2027 Closing?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/clean-energy-stocks-clean-investment-slides-17-percent-blames-china/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/arcosa-shareholders-approve-8-5b-174008590.html"
   },
   {
    "t": "國泰人壽響應揮汗有禮　健康促進平台加碼任務值",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100360.aspx"
   },
   {
-   "t": "Celanese Corporation (CE) is Selling Another 19% of Nutrinova for $152 Million. Is Deleveraging Worth Reducing Its Stake to 11%?",
+   "t": "Stanley Black & Decker (SWK) Agreed to Sell Excel Industries. Will a Narrower Portfolio Improve Returns?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/celanese-corporation-ce-selling-another-172639666.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stanley-black-decker-swk-agreed-173523381.html"
   },
   {
    "t": "美國8月PPI數據提高升息預期　華爾街股市開低",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100359.aspx"
   },
   {
-   "t": "Apple, IBD Stock Of The Day, Rebounds Bullishly After iPhone Duo Debut",
+   "t": "Boeing vs. GE Aerospace: Which Industrials Stock Is a Better Buy in 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/apple-stock-rises-after-iphone-duo-debut/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/boeing-vs-ge-aerospace-industrials-175129227.html"
   }
  ],
  "inst": {
