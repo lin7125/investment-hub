@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 17:39（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 17:49（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.44,
-   "c": -0.12,
+   "p": 16.55,
+   "c": 0.55,
    "a50": 16.1,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.3,
-   "r": 54.7
+   "r": 55.2
   },
   {
    "s": "BZ=F",
-   "p": 102.38,
-   "c": 1.16,
+   "p": 102.58,
+   "c": 1.35,
    "a50": 87.85,
-   "a200": 84.39,
+   "a200": 84.4,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.95,
-   "r": 70.6
+   "a20": 92.96,
+   "r": 70.9
   },
   {
    "s": "GC=F",
-   "p": 4435.4,
-   "c": 0.44,
-   "a50": 4261.41,
+   "p": 4434.6,
+   "c": 0.42,
+   "a50": 4261.4,
    "a200": 4525.71,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.73,
+   "a20": 4471.69,
    "r": 52.7
   },
   {
    "s": "HG=F",
-   "p": 6.82,
-   "c": 0.18,
+   "p": 6.81,
+   "c": 0.08,
    "a50": 6.46,
    "a200": 6.01,
-   "yh": 6.82,
+   "yh": 6.81,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 66.2
+   "r": 65.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03167564,
-   "c": -0.22,
+   "c": -0.23,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100197.aspx"
   },
   {
-   "t": "Social Security benefits in 2027: See what's really changing",
+   "t": "What is a step-up CD, and how does it work?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/social-security-benefits-in-2027-see-whats-really-changing-144723278.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/step-up-cd-181655102.html"
   },
   {
    "t": "畸零股爭議　緯穎：小股東可10元認購1股　權利不得移轉",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100187.aspx"
   },
   {
-   "t": "What is a step-up CD, and how does it work?",
+   "t": "Billionaire makes bold prediction about the future of IPOs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/step-up-cd-181655102.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/billionaire-makes-bold-prediction-future-214500879.html"
   },
   {
    "t": "核二有望啟動安檢？經長：若部分燃料棒移出能確保安全",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100186.aspx"
   },
   {
-   "t": "Elastic's 2026 Outlook: AI Search Integration Fuels Enterprise Customer Retention",
+   "t": "Capital One Venture vs. Capital One VentureOne: Is an annual fee worth it?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/elastics-2026-outlook-ai-search-212701938.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/comparison/capital-one-venture-vs-ventureone-231224237.html"
   }
  ],
  "inst": {
