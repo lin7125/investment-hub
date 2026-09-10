@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 16:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 16:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,9 +278,9 @@
   },
   {
    "s": "^VIX",
-   "p": 16.37,
-   "c": -0.55,
-   "a50": 16.09,
+   "p": 16.38,
+   "c": -0.49,
+   "a50": 16.1,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 101.66,
-   "c": 0.44,
+   "p": 101.64,
+   "c": 0.42,
    "a50": 87.83,
    "a200": 84.39,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4449.5,
-   "c": 0.76,
-   "a50": 4261.69,
+   "p": 4449.0,
+   "c": 0.75,
+   "a50": 4261.68,
    "a200": 4525.78,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.44,
-   "r": 53.7
+   "a20": 4472.41,
+   "r": 53.6
   },
   {
    "s": "HG=F",
-   "p": 6.83,
-   "c": 0.42,
+   "p": 6.84,
+   "c": 0.53,
    "a50": 6.46,
    "a200": 6.01,
-   "yh": 6.83,
+   "yh": 6.84,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 66.9
+   "r": 67.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03169572,
-   "c": -0.15,
+   "p": 0.03170577,
+   "c": -0.12,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100175.aspx"
   },
   {
-   "t": "2 Beaten-Down Stocks to Buy and Hold for the Next 10 Years",
+   "t": "9 ways your employer can help you save money",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/2-beaten-down-stocks-buy-202001715.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/ways-your-employer-can-help-you-save-money-210135355.html"
   },
   {
    "t": "三大法人賣超台股503.11億元",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100168.aspx"
   },
   {
-   "t": "Arm Extends AI Reach From Data Centers To Edge Devices",
+   "t": "Pura Vida Miami Names Donnie Upshaw Chief People and Culture Officer",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/arm-stock-arm-extends-reach-to-physical-ai/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/small-business/articles/pura-vida-miami-names-donnie-203458278.html"
   },
   {
    "t": "市場對油價日圓態度審慎　日股收高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100167.aspx"
   },
   {
-   "t": "Boston Scientific Slammed After Cyberattack Hamstrings Sales, Profit",
+   "t": "Stocks Settle Lower on Middle East Jitters",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/boston-scientific-cybersecurity-attack-guidance/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-middle-east-203222129.html"
   },
   {
    "t": "台機械出口連19個月成長　公會：今年出口產值拚新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100160.aspx"
   },
   {
-   "t": "9 ways your employer can help you save money",
+   "t": "XRP Price Prediction: Bullish Flag Puts $2.10 in Focus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/ways-your-employer-can-help-you-save-money-210135355.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-bullish-flag-203330290.html"
   },
   {
    "t": "iPhone 18 Pro預約　電信業迎高階換機潮摺疊機動能",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100156.aspx"
   },
   {
-   "t": "Uber Stock Falls As Wall Street Sizes Up Tesla's Cybercab Rollout",
+   "t": "Stock Market Today: Dow Dives, Qualcomm Clears Key Level On Amazon Deal; Fertilizer Leader Rises (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/uber-stock-tesla-cybercab-austin-rollout/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-attacks-oil-prices-jump-brent-crude/?src=A00220&yptr=yahoo"
   },
   {
    "t": "iPhone新舊機全面漲價　記憶體狂飆醞釀AI通膨",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100151.aspx"
   },
   {
-   "t": "Copper Scales New Heights on U.S. Tariff Fears, Supply Challenges",
+   "t": "Home insurance rates are up 47% nationwide. See the states where rates rose the most.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/finance/commodities-futures/copper-reaches-new-highs-on-u-s-tariff-fears-supply-challenges-93a99fb0?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/insurance/article/home-insurance-rates-are-up-47-nationwide-see-the-states-where-rates-rose-the-most-205039646.html"
   }
  ],
  "inst": {
