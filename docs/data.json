@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 06:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 06:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 109.08,
-   "c": 7.78,
+   "p": 109.05,
+   "c": 7.75,
    "a50": 87.98,
    "a200": 84.43,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 93.29,
-   "r": 76.8
+   "a20": 93.28,
+   "r": 76.7
   },
   {
    "s": "GC=F",
-   "p": 4357.1,
-   "c": -1.33,
-   "a50": 4259.85,
-   "a200": 4525.32,
+   "p": 4358.0,
+   "c": -1.31,
+   "a50": 4259.86,
+   "a200": 4525.33,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4467.82,
+   "a20": 4467.86,
    "r": 47.3
   },
   {
    "s": "HG=F",
    "p": 6.52,
-   "c": -4.23,
+   "c": -4.16,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 47.7
+   "r": 47.9
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110011.aspx"
   },
   {
-   "t": "Top 5 Stocks Poised to Profit From the CHIPS Quantum Incentive Wave",
+   "t": "This Seemingly Smart Credit Card Practice Can Cost You Points -- But There's an Easy Fix",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/top-5-stocks-poised-profit-150513070.html"
+   "u": "https://finance.yahoo.com/markets/articles/seemingly-smart-credit-card-practice-151016186.html"
   },
   {
    "t": "受油價飆漲拖累　美股收黑",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110009.aspx"
   },
   {
-   "t": "Do you need to be a millionaire to retire? Experts weigh in on the 15% rule.",
+   "t": "Victrex Finds Its High-Performance Groove Again",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/do-you-need-to-be-a-millionaire-to-retire-experts-weigh-in-on-the-15-rule-150323141.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/victrex-finds-high-performance-groove-151203545.html"
   },
   {
    "t": "中東衝突推高油價　英美國債殖利率升至數十年高點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110008.aspx"
   },
   {
-   "t": "Adult film studio says a Meta exec torrented nearly 20K files on his home internet — wants it folded into a $446M case",
+   "t": "Do you need to be a millionaire to retire? Experts weigh in on the 15% rule.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/adult-film-studio-says-meta-150000902.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/do-you-need-to-be-a-millionaire-to-retire-experts-weigh-in-on-the-15-rule-150323141.html"
   },
   {
    "t": "油輪遇襲案增加　國際油價漲逾6%升破每桶100美元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110007.aspx"
   },
   {
-   "t": "Is Humana Stock Outperforming the Dow?",
+   "t": "Adult film studio says a Meta exec torrented nearly 20K files on his home internet — wants it folded into a $446M case",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/humana-stock-outperforming-dow-145554446.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/adult-film-studio-says-meta-150000902.html"
   },
   {
    "t": "利空出籠　歐股收黑",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110002.aspx"
   },
   {
-   "t": "CoreWeave struggling to keep up with demand for Nvidia chips, CEO says",
+   "t": "Is Humana Stock Outperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/coreweave-struggling-to-keep-up-with-demand-for-nvidia-chips-ceo-says-145336930.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/humana-stock-outperforming-dow-145554446.html"
   },
   {
    "t": "台馬新創優勢互補　AIoT合作開拓東協新藍海",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "Here’s Why The Fund Sold Regeneron Pharmaceuticals (REGN)",
+   "t": "4 Proven Ways To Grow Lasting Money in the Stock Market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-fund-sold-regeneron-pharmaceuticals-145138128.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/4-proven-ways-grow-lasting-151046983.html"
   }
  ],
  "inst": {
