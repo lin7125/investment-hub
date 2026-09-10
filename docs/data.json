@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 04:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 04:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 18.06,
-   "c": 9.72,
-   "a50": 16.13,
+   "p": 17.86,
+   "c": 8.51,
+   "a50": 16.12,
    "a200": 18.11,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.38,
-   "r": 61.4
+   "a20": 15.37,
+   "r": 60.7
   },
   {
    "s": "BZ=F",
-   "p": 108.2,
-   "c": 6.91,
+   "p": 108.23,
+   "c": 6.94,
    "a50": 87.97,
    "a200": 84.42,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4363.6,
-   "c": -1.19,
+   "p": 4363.9,
+   "c": -1.18,
    "a50": 4259.98,
    "a200": 4525.35,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4468.14,
+   "a20": 4468.16,
    "r": 47.7
   },
   {
    "s": "HG=F",
    "p": 6.52,
-   "c": -4.14,
+   "c": -4.1,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 47.9
+   "r": 48.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03160556,
-   "c": -0.45,
+   "c": -0.43,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -332,10 +332,22 @@
  ],
  "news": [
   {
-   "t": "台馬新創優勢互補　AIoT合作開拓東協新藍海",
+   "t": "油輪遇襲案增加　國際油價漲逾6%升破每桶100美元",
    "pub": "中央社財經",
-   "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
+   "d": "2026-09-11",
+   "u": "https://www.cna.com.tw/news/afe/202609110007.aspx"
+  },
+  {
+   "t": "XRP, Bitcoin, Ethereum and Solana Are All Up More Than 20% in a Month and Still Down for the Year. Which Recovers First?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/xrp-bitcoin-ethereum-solana-more-120014287.html"
+  },
+  {
+   "t": "利空出籠　歐股收黑",
+   "pub": "中央社財經",
+   "d": "2026-09-11",
+   "u": "https://www.cna.com.tw/news/afe/202609110002.aspx"
   },
   {
    "t": "Is Keurig Dr Pepper Stock Underperforming the S&P 500?",
@@ -344,22 +356,22 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-stock-underperforming-115740038.html"
   },
   {
+   "t": "台馬新創優勢互補　AIoT合作開拓東協新藍海",
+   "pub": "中央社財經",
+   "d": "2026-09-10",
+   "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
+  },
+  {
+   "t": "I Inherited a $400,000 IRA. Not Following the 10-Year Rule Could Cost Me Over $120,000 in Taxes.",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/currencies/articles/inherited-400-000-ira-not-120000887.html"
+  },
+  {
    "t": "今彩539第115220期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-09-10",
    "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
-  },
-  {
-   "t": "Golden Royalties Have This Gem Polishing A Breakout As These Trends Sparkle",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://www.investors.com/research/breakout-stocks-technical-analysis/royal-gold-eyes-new-buy-point-as-ai-data-centers-fuel-demand/?src=A00220&yptr=yahoo"
-  },
-  {
-   "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
-   "pub": "中央社財經",
-   "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
   },
   {
    "t": "IPO Stock LB Pharma Has Tripled In Under A Year. Is It A Takeover Target?",
@@ -368,40 +380,28 @@
    "u": "https://www.investors.com/news/technology/ipo-stock-lb-pharmaceuticals-schizophrenia-treatment/?src=A00220&yptr=yahoo"
   },
   {
+   "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
+   "pub": "中央社財經",
+   "d": "2026-09-10",
+   "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
+  },
+  {
+   "t": "Golden Royalties Have This Gem Polishing A Breakout As These Trends Sparkle",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/research/breakout-stocks-technical-analysis/royal-gold-eyes-new-buy-point-as-ai-data-centers-fuel-demand/?src=A00220&yptr=yahoo"
+  },
+  {
    "t": "證基會首拓義大利合作　與米蘭證交所培訓學院簽MOU",
    "pub": "中央社財經",
    "d": "2026-09-10",
    "u": "https://www.cna.com.tw/news/afe/202609100361.aspx"
   },
   {
-   "t": "Zeta Global Near All-Time High on Platform Growth, Strong Earnings",
+   "t": "Ross Gerber Recommends Tesla Owners Let TSLA ‘Take The Risk’ In Elon Musk’s Airbnb-Like Robotaxi Program",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/zeta-global-near-time-high-114622227.html"
-  },
-  {
-   "t": "國泰人壽響應揮汗有禮　健康促進平台加碼任務值",
-   "pub": "中央社財經",
-   "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100360.aspx"
-  },
-  {
-   "t": "Goldman Sachs, IG Wealth tie up on Canadian wealth portfolios",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-ig-wealth-tie-115637376.html"
-  },
-  {
-   "t": "美國8月PPI數據提高升息預期　華爾街股市開低",
-   "pub": "中央社財經",
-   "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100359.aspx"
-  },
-  {
-   "t": "Is Paychex Stock Underperforming the S&P 500?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/paychex-stock-underperforming-p-500-114724110.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-recommends-tesla-owners-120023047.html"
   }
  ],
  "inst": {
