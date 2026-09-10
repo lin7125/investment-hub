@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 03:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 04:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 326.27,
-   "c": 3.47,
-   "a50": 317.21,
+   "p": 326.57,
+   "c": 3.56,
+   "a50": 317.22,
    "a200": 284.65,
    "yh": 340.08,
-   "yl": 226.79,
-   "a20": 315.26,
-   "r": 58.7
+   "yl": 230.03,
+   "a20": 315.28,
+   "r": 58.9
   },
   {
    "s": "NVDA",
-   "p": 218.43,
-   "c": -2.34,
+   "p": 218.36,
+   "c": -2.37,
    "a50": 212.17,
    "a200": 197.28,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.52,
-   "r": 49.9
+   "a20": 220.51,
+   "r": 49.8
   },
   {
    "s": "TSLA",
-   "p": 363.23,
-   "c": -1.25,
-   "a50": 355.69,
+   "p": 363.56,
+   "c": -1.16,
+   "a50": 355.7,
    "a200": 399.05,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 353.84,
-   "r": 53.6
+   "a20": 353.86,
+   "r": 53.7
   },
   {
    "s": "META",
-   "p": 644.52,
-   "c": -1.4,
+   "p": 644.38,
+   "c": -1.42,
    "a50": 600.2,
    "a200": 622.96,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 583.82,
+   "a20": 583.81,
    "r": 66.4
   },
   {
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7591.61,
-   "c": -0.59,
+   "p": 7591.7,
+   "c": -0.58,
    "a50": 7603.86,
    "a200": 7157.28,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7692.28,
+   "a20": 7692.29,
    "r": 43.8
   },
   {
    "s": "^VIX",
-   "p": 17.84,
-   "c": 8.38,
-   "a50": 16.12,
+   "p": 17.97,
+   "c": 9.17,
+   "a50": 16.13,
    "a200": 18.11,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.37,
-   "r": 60.6
+   "a20": 15.38,
+   "r": 61.1
   },
   {
    "s": "BZ=F",
-   "p": 108.12,
-   "c": 6.83,
+   "p": 107.91,
+   "c": 6.62,
    "a50": 87.96,
    "a200": 84.42,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 93.23,
-   "r": 76.0
+   "a20": 93.22,
+   "r": 75.8
   },
   {
    "s": "GC=F",
-   "p": 4365.4,
-   "c": -1.15,
-   "a50": 4260.01,
+   "p": 4364.0,
+   "c": -1.18,
+   "a50": 4259.98,
    "a200": 4525.36,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4468.23,
-   "r": 47.8
+   "a20": 4468.16,
+   "r": 47.7
   },
   {
    "s": "HG=F",
    "p": 6.52,
-   "c": -4.17,
+   "c": -4.11,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 47.9
+   "r": 48.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03160556,
-   "c": -0.44,
+   "p": 0.03161555,
+   "c": -0.42,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "Bitcoin ETF News: Stablecoin Growth Sets the Backdrop for TRXS ETF Launch",
+   "t": "Jersey Mike’s Logs Higher Revenue on Growing Customer Base",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-news-stablecoin-growth-095900758.html"
+   "u": "https://www.wsj.com/business/earnings/jersey-mikes-logs-higher-revenue-on-growing-customer-base-2a836012?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "今彩539第115220期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
   },
   {
-   "t": "Mortgage & refinance rates today, Wednesday, September 9, 2026: Fixed rates inch upward, 5/1 ARM breaks past 7% as oil prices rise",
+   "t": "Zeta Global Near All-Time High on Platform Growth, Strong Earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage--refinance-rates-today-wednesday-september-9-2026-fixed-rates-inch-upward-51-arm-breaks-past-7-as-oil-prices-rise-100000700.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/zeta-global-near-time-high-114622227.html"
   },
   {
    "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
   },
   {
-   "t": "AI infrastructure bets drive venture debt toward record levels",
+   "t": "Is Paychex Stock Underperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-bets-drive-venture-101428462.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/paychex-stock-underperforming-p-500-114724110.html"
   },
   {
    "t": "證基會首拓義大利合作　與米蘭證交所培訓學院簽MOU",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100361.aspx"
   },
   {
-   "t": "Apple’s (AAPL) “Surprise and Shine” Event Tests Its Foldable iPhone Against Huawei and Xiaomi",
+   "t": "Okta Earnings, AI Offerings Drive Shares Up 94% YTD",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/apple-aapl-surprise-shine-event-101521233.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/okta-earnings-ai-offerings-drive-114128456.html"
   },
   {
    "t": "國泰人壽響應揮汗有禮　健康促進平台加碼任務值",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100360.aspx"
   },
   {
-   "t": "S&P Futures Slip as Bond Yields Climb After Oil Tops $100",
+   "t": "Golden Royalties Have This Gem Polishing A Breakout As These Trends Sparkle",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/p-futures-slip-bond-yields-101422647.html"
+   "u": "https://www.investors.com/research/breakout-stocks-technical-analysis/royal-gold-eyes-new-buy-point-as-ai-data-centers-fuel-demand/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美國8月PPI數據提高升息預期　華爾街股市開低",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100359.aspx"
   },
   {
-   "t": "U.S. Debt Looks Increasingly Unsustainable",
+   "t": "Albertsons Names Former HP, eBay CEO Meg Whitman as Executive Chair to Help Spur Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/livecoverage/stock-market-news-today-090926/card/u-s-debt-looks-increasingly-unsustainable-rOn6eDeRa0DhHDapE4nS?siteid=yhoof2&yptr=yahoo"
+   "u": "https://www.wsj.com/business/retail/albertsons-names-former-hp-ebay-ceo-meg-whitman-as-executive-chair-to-help-spur-growth-cd3b4d15?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
