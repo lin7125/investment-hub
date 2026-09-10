@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 17:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 17:59（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 16.55,
-   "c": 0.55,
+   "p": 16.54,
+   "c": 0.49,
    "a50": 16.1,
    "a200": 18.1,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 102.58,
-   "c": 1.35,
+   "p": 102.28,
+   "c": 1.06,
    "a50": 87.85,
-   "a200": 84.4,
+   "a200": 84.39,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.96,
-   "r": 70.9
+   "a20": 92.94,
+   "r": 70.5
   },
   {
    "s": "GC=F",
-   "p": 4434.6,
-   "c": 0.42,
-   "a50": 4261.4,
-   "a200": 4525.71,
+   "p": 4437.5,
+   "c": 0.49,
+   "a50": 4261.45,
+   "a200": 4525.72,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.69,
-   "r": 52.7
+   "a20": 4471.84,
+   "r": 52.9
   },
   {
    "s": "HG=F",
-   "p": 6.81,
-   "c": 0.08,
+   "p": 6.82,
+   "c": 0.24,
    "a50": 6.46,
    "a200": 6.01,
-   "yh": 6.81,
+   "yh": 6.82,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 65.9
+   "r": 66.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03167564,
-   "c": -0.23,
+   "c": -0.22,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100187.aspx"
   },
   {
-   "t": "Billionaire makes bold prediction about the future of IPOs",
+   "t": "CrowdStrike vs. OKTA: What Revenue Trends Between These Cybersecurity Giants Tell Investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/billionaire-makes-bold-prediction-future-214500879.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-vs-okta-revenue-trends-215226676.html"
   },
   {
    "t": "核二有望啟動安檢？經長：若部分燃料棒移出能確保安全",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100186.aspx"
   },
   {
-   "t": "Capital One Venture vs. Capital One VentureOne: Is an annual fee worth it?",
+   "t": "Here's what to do if your bank account application was denied",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/comparison/capital-one-venture-vs-ventureone-231224237.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/denied-bank-account-204942472.html"
   }
  ],
  "inst": {
