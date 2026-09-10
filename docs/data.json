@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 03:47（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 03:57（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 325.33,
-   "c": 3.17,
-   "a50": 317.19,
-   "a200": 284.64,
+   "p": 326.27,
+   "c": 3.47,
+   "a50": 317.21,
+   "a200": 284.65,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 315.21,
-   "r": 58.1
+   "a20": 315.26,
+   "r": 58.7
   },
   {
    "s": "NVDA",
-   "p": 218.59,
-   "c": -2.27,
+   "p": 218.43,
+   "c": -2.34,
    "a50": 212.17,
    "a200": 197.28,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 220.52,
-   "r": 50.0
+   "r": 49.9
   },
   {
    "s": "TSLA",
-   "p": 363.63,
-   "c": -1.14,
-   "a50": 355.7,
+   "p": 363.23,
+   "c": -1.25,
+   "a50": 355.69,
    "a200": 399.05,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 353.86,
-   "r": 53.8
+   "a20": 353.84,
+   "r": 53.6
   },
   {
    "s": "META",
-   "p": 643.66,
-   "c": -1.53,
-   "a50": 600.19,
+   "p": 644.52,
+   "c": -1.4,
+   "a50": 600.2,
    "a200": 622.96,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 583.78,
-   "r": 66.1
+   "a20": 583.82,
+   "r": 66.4
   },
   {
    "s": "^TWII",
@@ -267,47 +267,47 @@
   },
   {
    "s": "^GSPC",
-   "p": 7592.22,
-   "c": -0.58,
-   "a50": 7603.87,
+   "p": 7591.61,
+   "c": -0.59,
+   "a50": 7603.86,
    "a200": 7157.28,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7692.31,
+   "a20": 7692.28,
    "r": 43.8
   },
   {
    "s": "^VIX",
-   "p": 17.98,
-   "c": 9.23,
-   "a50": 16.13,
+   "p": 17.84,
+   "c": 8.38,
+   "a50": 16.12,
    "a200": 18.11,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.38,
-   "r": 61.1
+   "a20": 15.37,
+   "r": 60.6
   },
   {
    "s": "BZ=F",
-   "p": 107.85,
-   "c": 6.56,
+   "p": 108.12,
+   "c": 6.83,
    "a50": 87.96,
    "a200": 84.42,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 93.22,
-   "r": 75.8
+   "a20": 93.23,
+   "r": 76.0
   },
   {
    "s": "GC=F",
-   "p": 4368.9,
-   "c": -1.07,
-   "a50": 4260.08,
-   "a200": 4525.38,
+   "p": 4365.4,
+   "c": -1.15,
+   "a50": 4260.01,
+   "a200": 4525.36,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4468.41,
-   "r": 48.0
+   "a20": 4468.23,
+   "r": 47.8
   },
   {
    "s": "HG=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03161555,
-   "c": -0.42,
+   "p": 0.03160556,
+   "c": -0.44,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "Brent approaches $100 as Middle East attacks add to oil supply concerns",
+   "t": "Bitcoin ETF News: Stablecoin Growth Sets the Backdrop for TRXS ETF Launch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/brent-approaches-100-middle-east-093202055.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-news-stablecoin-growth-095900758.html"
   },
   {
    "t": "今彩539第115220期　頭獎槓龜",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
   },
   {
-   "t": "Chevron Stock Just Got a New Street-High Price Target. How to Play CVX Here.",
+   "t": "AI infrastructure bets drive venture debt toward record levels",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-just-got-street-110002106.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-bets-drive-venture-101428462.html"
   },
   {
    "t": "證基會首拓義大利合作　與米蘭證交所培訓學院簽MOU",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100361.aspx"
   },
   {
-   "t": "Is Prudential Financial Stock Underperforming the Nasdaq?",
+   "t": "Apple’s (AAPL) “Surprise and Shine” Event Tests Its Foldable iPhone Against Huawei and Xiaomi",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/prudential-financial-stock-underperforming-nasdaq-110004400.html"
+   "u": "https://finance.yahoo.com/technology/articles/apple-aapl-surprise-shine-event-101521233.html"
   },
   {
    "t": "國泰人壽響應揮汗有禮　健康促進平台加碼任務值",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100360.aspx"
   },
   {
-   "t": "Options Flow Alert: Institutional Money Piles Into AMD Stock",
+   "t": "S&P Futures Slip as Bond Yields Climb After Oil Tops $100",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/options-flow-alert-institutional-money-110002890.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/p-futures-slip-bond-yields-101422647.html"
   },
   {
    "t": "美國8月PPI數據提高升息預期　華爾街股市開低",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100359.aspx"
   },
   {
-   "t": "This Unstoppable Vanguard ETF Is Beating the S&P 500 and the Nasdaq-100 in 2026, but It Could Face a Reckoning Next Week",
+   "t": "U.S. Debt Looks Increasingly Unsustainable",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/unstoppable-vanguard-etf-beating-p-093700350.html"
+   "u": "https://www.barrons.com/livecoverage/stock-market-news-today-090926/card/u-s-debt-looks-increasingly-unsustainable-rOn6eDeRa0DhHDapE4nS?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
