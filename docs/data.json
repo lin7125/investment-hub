@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 02:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 02:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,21 +212,21 @@
   },
   {
    "s": "AAPL",
-   "p": 324.18,
-   "c": 2.8,
-   "a50": 317.17,
+   "p": 323.78,
+   "c": 2.68,
+   "a50": 317.16,
    "a200": 284.64,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 315.16,
-   "r": 57.2
+   "a20": 315.14,
+   "r": 56.9
   },
   {
    "s": "NVDA",
-   "p": 218.28,
-   "c": -2.41,
+   "p": 218.22,
+   "c": -2.44,
    "a50": 212.17,
-   "a200": 197.28,
+   "a200": 197.27,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 220.51,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 365.47,
-   "c": -0.64,
-   "a50": 355.73,
+   "p": 365.71,
+   "c": -0.57,
+   "a50": 355.74,
    "a200": 399.06,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 353.95,
-   "r": 54.5
+   "a20": 353.96,
+   "r": 54.6
   },
   {
    "s": "META",
-   "p": 648.49,
-   "c": -0.8,
-   "a50": 600.28,
+   "p": 647.27,
+   "c": -0.98,
+   "a50": 600.26,
    "a200": 622.98,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 584.02,
-   "r": 68.1
+   "a20": 583.96,
+   "r": 67.6
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7592.83,
-   "c": -0.57,
-   "a50": 7603.89,
-   "a200": 7157.29,
+   "p": 7591.05,
+   "c": -0.59,
+   "a50": 7603.85,
+   "a200": 7157.28,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7692.35,
-   "r": 43.9
+   "a20": 7692.26,
+   "r": 43.7
   },
   {
    "s": "^VIX",
-   "p": 17.52,
-   "c": 6.44,
+   "p": 17.48,
+   "c": 6.2,
    "a50": 16.12,
    "a200": 18.11,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.35,
-   "r": 59.4
+   "r": 59.3
   },
   {
    "s": "BZ=F",
-   "p": 107.32,
-   "c": 6.04,
+   "p": 107.51,
+   "c": 6.22,
    "a50": 87.95,
    "a200": 84.42,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 93.19,
-   "r": 75.4
+   "a20": 93.2,
+   "r": 75.5
   },
   {
    "s": "GC=F",
-   "p": 4401.3,
-   "c": -0.33,
-   "a50": 4260.73,
-   "a200": 4525.54,
+   "p": 4392.4,
+   "c": -0.53,
+   "a50": 4260.55,
+   "a200": 4525.5,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4470.03,
-   "r": 50.3
+   "a20": 4469.58,
+   "r": 49.7
   },
   {
    "s": "HG=F",
    "p": 6.52,
-   "c": -4.12,
+   "c": -4.14,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 48.0
+   "r": 47.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03161555,
-   "c": -0.4,
+   "c": -0.42,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "Kalshi launches gold and silver perpetual futures with CFTC approval",
+   "t": "Should You Buy Intel Stock After a Nearly Fourfold Year?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/kalshi-launches-gold-silver-perpetual-175449558.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/buy-intel-stock-nearly-fourfold-080701731.html"
   },
   {
    "t": "今彩539第115220期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
   },
   {
-   "t": "Brady Corp (BRC) Forecast $6.25 to $6.75 Adjusted EPS. Can Lower-Margin IPS Deliver Accretion?",
+   "t": "Rising Oil Prices Threaten China’s Independent Refiners",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/brady-corp-brc-forecast-6-174350138.html"
+   "u": "https://finance.yahoo.com/energy/articles/rising-oil-prices-threaten-china-070500918.html"
   },
   {
    "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
   },
   {
-   "t": "What is a mortgage interest rate buydown, and should you get one?",
+   "t": "Google to invest $15 billion AI infrastructure in Finland",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/buy-down-interest-rate-172228613.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/google-invest-15-billion-ai-070119247.html"
   },
   {
    "t": "證基會首拓義大利合作　與米蘭證交所培訓學院簽MOU",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100361.aspx"
   },
   {
-   "t": "Arcosa Shareholders Approve $8.5B CRH Deal. Does the Vote De-Risk a First-Quarter 2027 Closing?",
+   "t": "We'll Earn More Than $300,000 This Year. Can a Backdoor Roth Help Reduce Our Taxes?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/arcosa-shareholders-approve-8-5b-174008590.html"
+   "u": "https://finance.yahoo.com/news/over-300-000-combined-backdoor-120000651.html"
   },
   {
    "t": "國泰人壽響應揮汗有禮　健康促進平台加碼任務值",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100360.aspx"
   },
   {
-   "t": "Stanley Black & Decker (SWK) Agreed to Sell Excel Industries. Will a Narrower Portfolio Improve Returns?",
+   "t": "Kraft Heinz Stock: Is KHC Underperforming the Consumer Defensive Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stanley-black-decker-swk-agreed-173523381.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-stock-khc-underperforming-065059691.html"
   },
   {
    "t": "美國8月PPI數據提高升息預期　華爾街股市開低",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100359.aspx"
   },
   {
-   "t": "Boeing vs. GE Aerospace: Which Industrials Stock Is a Better Buy in 2026?",
+   "t": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/boeing-vs-ge-aerospace-industrials-175129227.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/broadcoms-artificial-intelligence-ai-chip-080500812.html"
   }
  ],
  "inst": {
