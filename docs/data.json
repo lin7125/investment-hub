@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 15:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 15:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.46,
-   "c": 4.71,
-   "a50": 16.1,
-   "a200": 18.12,
+   "p": 16.3,
+   "c": -0.97,
+   "a50": 16.09,
+   "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.21,
-   "r": 54.8
+   "a20": 15.29,
+   "r": 53.9
   },
   {
    "s": "BZ=F",
-   "p": 100.83,
-   "c": -0.38,
+   "p": 101.0,
+   "c": -0.21,
    "a50": 87.82,
    "a200": 84.39,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.87,
-   "r": 68.2
+   "a20": 92.88,
+   "r": 68.7
   },
   {
    "s": "GC=F",
-   "p": 4458.4,
-   "c": 0.96,
-   "a50": 4261.87,
-   "a200": 4525.83,
+   "p": 4453.9,
+   "c": 0.86,
+   "a50": 4261.78,
+   "a200": 4525.8,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.88,
-   "r": 54.3
+   "a20": 4472.66,
+   "r": 54.0
   },
   {
    "s": "HG=F",
    "p": 6.86,
-   "c": 0.9,
+   "c": 0.86,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.86,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 68.3
+   "r": 68.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03173596,
-   "c": -0.04,
+   "c": -0.02,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -332,22 +332,10 @@
  ],
  "news": [
   {
-   "t": "三星、海力士擴大股東回饋　考驗韓國企業改革成效",
+   "t": "瑞幸咖啡傳進軍台灣　經長：代理商模式恐有規避審查疑慮",
    "pub": "中央社財經",
    "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100061.aspx"
-  },
-  {
-   "t": "Circle stock slips despite new acquisition news",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/circle-stock-slips-despite-acquisition-192212005.html"
-  },
-  {
-   "t": "電子傳產弱　台股盤中挫逾600點回測10日線",
-   "pub": "中央社財經",
-   "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100057.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609100175.aspx"
   },
   {
    "t": "Here's what to do if your bank account application was denied",
@@ -356,22 +344,10 @@
    "u": "https://finance.yahoo.com/personal-finance/banking/article/denied-bank-account-204942472.html"
   },
   {
-   "t": "紐時：輝達結盟Groq　美司法部查是否規避反壟斷",
+   "t": "三大法人賣超台股503.11億元",
    "pub": "中央社財經",
    "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/aopl/202609100050.aspx"
-  },
-  {
-   "t": "Nike shareholders reject climate proposal backed by Norway wealth fund",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nike-shareholders-reject-climate-proposal-192359253.html"
-  },
-  {
-   "t": "台積電下跌25元　台股早盤下滑逾400點跌破47000點",
-   "pub": "中央社財經",
-   "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100037.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609100168.aspx"
   },
   {
    "t": "Ink Business Premier Credit Card review: Generous welcome bonus and free employee cards",
@@ -380,10 +356,22 @@
    "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/ink-business-premier-credit-card-review-223741901.html"
   },
   {
-   "t": "新台幣開盤貶2.5分　為31.53元",
+   "t": "市場對油價日圓態度審慎　日股收高",
    "pub": "中央社財經",
    "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100035.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609100167.aspx"
+  },
+  {
+   "t": "Google Cloud Boss Makes Bold Claim About AI Chip Business",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/news/technology/google-stock-cloud-kurian-ai-chip-business/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "台機械出口連19個月成長　公會：今年出口產值拚新高",
+   "pub": "中央社財經",
+   "d": "2026-09-10",
+   "u": "https://www.cna.com.tw/news/afe/202609100160.aspx"
   },
   {
    "t": "$604M CH Robinson Verdict Still Isn’t Final Yet",
@@ -392,16 +380,28 @@
    "u": "https://finance.yahoo.com/small-business/articles/604m-ch-robinson-verdict-still-192955477.html"
   },
   {
-   "t": "台股開盤跌52.4點",
+   "t": "iPhone 18 Pro預約　電信業迎高階換機潮摺疊機動能",
    "pub": "中央社財經",
    "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100034.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609100156.aspx"
   },
   {
-   "t": "NextEra Just Secured Up to $1.9 Billion to Restart Iowa's Only Nuclear Plant. Here's The Real Reason Why.",
+   "t": "Solana Is Up 36% in a Month, ETH Is Up 29%, XRP Is Up 35% and Bitcoin Is Up Only 20%. Which Gain Actually Holds?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/nextera-just-secured-1-9-192501684.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/solana-36-month-eth-29-193015811.html"
+  },
+  {
+   "t": "iPhone新舊機全面漲價　記憶體狂飆醞釀AI通膨",
+   "pub": "中央社財經",
+   "d": "2026-09-10",
+   "u": "https://www.cna.com.tw/news/afe/202609100151.aspx"
+  },
+  {
+   "t": "Dollar Slips on Japanese Yen Strength",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-slips-japanese-yen-strength-193230187.html"
   }
  ],
  "inst": {
