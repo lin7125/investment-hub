@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 02:56（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 03:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 325.29,
-   "c": 3.16,
-   "a50": 317.19,
+   "p": 324.98,
+   "c": 3.06,
+   "a50": 317.18,
    "a200": 284.64,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 315.21,
-   "r": 58.0
+   "a20": 315.2,
+   "r": 57.8
   },
   {
    "s": "NVDA",
-   "p": 218.22,
-   "c": -2.44,
-   "a50": 212.17,
+   "p": 217.9,
+   "c": -2.58,
+   "a50": 212.16,
    "a200": 197.27,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.51,
-   "r": 49.7
+   "a20": 220.49,
+   "r": 49.5
   },
   {
    "s": "TSLA",
-   "p": 366.46,
-   "c": -0.37,
-   "a50": 355.75,
-   "a200": 399.07,
+   "p": 365.51,
+   "c": -0.62,
+   "a50": 355.73,
+   "a200": 399.06,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 354.0,
-   "r": 55.0
+   "a20": 353.95,
+   "r": 54.6
   },
   {
    "s": "META",
-   "p": 646.25,
-   "c": -1.14,
-   "a50": 600.24,
-   "a200": 622.97,
+   "p": 644.71,
+   "c": -1.37,
+   "a50": 600.21,
+   "a200": 622.96,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 583.91,
-   "r": 67.2
+   "a20": 583.83,
+   "r": 66.5
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7592.91,
-   "c": -0.57,
-   "a50": 7603.89,
-   "a200": 7157.29,
+   "p": 7587.36,
+   "c": -0.64,
+   "a50": 7603.78,
+   "a200": 7157.26,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7692.35,
-   "r": 43.9
+   "a20": 7692.07,
+   "r": 43.5
   },
   {
    "s": "^VIX",
-   "p": 17.81,
-   "c": 8.2,
+   "p": 17.8,
+   "c": 8.14,
    "a50": 16.12,
    "a200": 18.11,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 107.21,
-   "c": 5.93,
-   "a50": 87.95,
+   "p": 106.86,
+   "c": 5.58,
+   "a50": 87.94,
    "a200": 84.42,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 93.19,
-   "r": 75.3
+   "a20": 93.17,
+   "r": 75.0
   },
   {
    "s": "GC=F",
-   "p": 4374.5,
-   "c": -0.94,
-   "a50": 4260.19,
-   "a200": 4525.41,
+   "p": 4377.5,
+   "c": -0.87,
+   "a50": 4260.25,
+   "a200": 4525.42,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4468.69,
-   "r": 48.4
+   "a20": 4468.84,
+   "r": 48.6
   },
   {
    "s": "HG=F",
    "p": 6.52,
-   "c": -4.22,
+   "c": -4.12,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 47.7
+   "r": 48.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03162555,
-   "c": -0.39,
+   "p": 0.03160556,
+   "c": -0.44,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "SoftBank to Repay $40 Billion Bridge Loan for OpenAI Stake",
+   "t": "Ask an Advisor: I'm 67 With $218k in an IRA. Should I Withdraw Money Now to Reduce Future RMD Taxes?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/softbank-repay-40-billion-bridge-084641012.html"
+   "u": "https://finance.yahoo.com/news/ask-advisor-im-67-218k-103000740.html"
   },
   {
    "t": "今彩539第115220期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
   },
   {
-   "t": "Ask an Advisor: I'm 67 With $218k in an IRA. Should I Withdraw Money Now to Reduce Future RMD Taxes?",
+   "t": "Platinum surplus masks persistent supply challenge for PGM miners",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/ask-advisor-im-67-218k-103000740.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/platinum-surplus-masks-persistent-supply-090000518.html"
   },
   {
    "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100359.aspx"
   },
   {
-   "t": "Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers",
+   "t": "S&P Futures Slip as Bond Yields Climb After Oil Tops $100",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/p-futures-slip-bond-yields-101422647.html"
   }
  ],
  "inst": {
