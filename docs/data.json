@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 15:15（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 15:25（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 47183.36,
-   "c": 0.16,
-   "a50": 45016.4,
-   "a200": 37533.02,
+   "p": 46940.49,
+   "c": -0.51,
+   "a50": 45014.83,
+   "a200": 37628.2,
    "yh": 47741.51,
    "yl": 25192.59,
-   "a20": 45960.65,
-   "r": 61.3
+   "a20": 46006.6,
+   "r": 59.0
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 100.84,
-   "c": -0.37,
+   "p": 100.83,
+   "c": -0.38,
    "a50": 87.82,
    "a200": 84.39,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4458.6,
+   "p": 4458.4,
    "c": 0.96,
-   "a50": 4261.88,
+   "a50": 4261.87,
    "a200": 4525.83,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.89,
+   "a20": 4472.88,
    "r": 54.3
   },
   {
    "s": "HG=F",
-   "p": 6.87,
-   "c": 0.98,
+   "p": 6.86,
+   "c": 0.9,
    "a50": 6.46,
    "a200": 6.01,
-   "yh": 6.87,
+   "yh": 6.86,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 68.4
+   "r": 68.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03168568,
-   "c": -0.19,
+   "p": 0.03173596,
+   "c": -0.04,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100061.aspx"
   },
   {
-   "t": "What is a step-up CD, and how does it work?",
+   "t": "Circle stock slips despite new acquisition news",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/step-up-cd-181655102.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/circle-stock-slips-despite-acquisition-192212005.html"
   },
   {
    "t": "電子傳產弱　台股盤中挫逾600點回測10日線",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100057.aspx"
   },
   {
-   "t": "Abundant US Nat-Gas Supplies Pressure Prices",
+   "t": "Here's what to do if your bank account application was denied",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/abundant-us-nat-gas-supplies-191222842.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/denied-bank-account-204942472.html"
   },
   {
    "t": "紐時：輝達結盟Groq　美司法部查是否規避反壟斷",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609100050.aspx"
   },
   {
-   "t": "What to Know About Anthropic’s Planned IPO",
+   "t": "Nike shareholders reject climate proposal backed by Norway wealth fund",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-planned-ipo-c2f58908?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nike-shareholders-reject-climate-proposal-192359253.html"
   },
   {
    "t": "台積電下跌25元　台股早盤下滑逾400點跌破47000點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100037.aspx"
   },
   {
-   "t": "Crude Oil Prices Rise as Global Supplies Tighten",
+   "t": "Ink Business Premier Credit Card review: Generous welcome bonus and free employee cards",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-rise-global-191316492.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/ink-business-premier-credit-card-review-223741901.html"
   },
   {
    "t": "新台幣開盤貶2.5分　為31.53元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100035.aspx"
   },
   {
-   "t": "Morgan Stanley Just Downgraded Peloton Stock. Here's Why.",
+   "t": "$604M CH Robinson Verdict Still Isn’t Final Yet",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-downgraded-peloton-191501646.html"
+   "u": "https://finance.yahoo.com/small-business/articles/604m-ch-robinson-verdict-still-192955477.html"
   },
   {
    "t": "台股開盤跌52.4點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100034.aspx"
   },
   {
-   "t": "Here's what to do if your bank account application was denied",
+   "t": "NextEra Just Secured Up to $1.9 Billion to Restart Iowa's Only Nuclear Plant. Here's The Real Reason Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/denied-bank-account-204942472.html"
+   "u": "https://finance.yahoo.com/energy/articles/nextera-just-secured-1-9-192501684.html"
   }
  ],
  "inst": {
