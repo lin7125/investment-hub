@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 16:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 16:27（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.34,
-   "c": -0.73,
+   "p": 16.37,
+   "c": -0.55,
    "a50": 16.09,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.29,
-   "r": 54.1
+   "a20": 15.3,
+   "r": 54.3
   },
   {
    "s": "BZ=F",
-   "p": 101.51,
-   "c": 0.3,
+   "p": 101.66,
+   "c": 0.44,
    "a50": 87.83,
    "a200": 84.39,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.9,
-   "r": 69.6
+   "a20": 92.91,
+   "r": 69.8
   },
   {
    "s": "GC=F",
-   "p": 4450.9,
-   "c": 0.79,
-   "a50": 4261.72,
-   "a200": 4525.79,
+   "p": 4449.5,
+   "c": 0.76,
+   "a50": 4261.69,
+   "a200": 4525.78,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.51,
-   "r": 53.8
+   "a20": 4472.44,
+   "r": 53.7
   },
   {
    "s": "HG=F",
-   "p": 6.84,
-   "c": 0.49,
+   "p": 6.83,
+   "c": 0.42,
    "a50": 6.46,
    "a200": 6.01,
-   "yh": 6.84,
+   "yh": 6.83,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 67.1
+   "r": 66.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03170577,
-   "c": -0.14,
+   "p": 0.03169572,
+   "c": -0.15,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100175.aspx"
   },
   {
-   "t": "T-Mobile makes a significant change to where customers get help",
+   "t": "2 Beaten-Down Stocks to Buy and Hold for the Next 10 Years",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/t-mobile-continues-significant-store-200700402.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/2-beaten-down-stocks-buy-202001715.html"
   },
   {
    "t": "三大法人賣超台股503.11億元",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100168.aspx"
   },
   {
-   "t": "9 ways your employer can help you save money",
+   "t": "Arm Extends AI Reach From Data Centers To Edge Devices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/ways-your-employer-can-help-you-save-money-210135355.html"
+   "u": "https://www.investors.com/news/technology/arm-stock-arm-extends-reach-to-physical-ai/?src=A00220&yptr=yahoo"
   },
   {
    "t": "市場對油價日圓態度審慎　日股收高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100167.aspx"
   },
   {
-   "t": "GE Aerospace To Buy Key Industry Castings Supplier CPP For Nearly $12 Billion",
+   "t": "Boston Scientific Slammed After Cyberattack Hamstrings Sales, Profit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/ge-aerospace-acquisition-precision-products-castings-capacity-deal-ge-stock/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/boston-scientific-cybersecurity-attack-guidance/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台機械出口連19個月成長　公會：今年出口產值拚新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100160.aspx"
   },
   {
-   "t": "Robinhood Lands Crypto.com Deal, Underwriting Job For Oura. Goldman Hikes Target.",
+   "t": "9 ways your employer can help you save money",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/robinhood-crypto-com-minority-stake-prediction-markets-oura-underwriter-reports-hood-stock-price-target/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/ways-your-employer-can-help-you-save-money-210135355.html"
   },
   {
    "t": "iPhone 18 Pro預約　電信業迎高階換機潮摺疊機動能",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100156.aspx"
   },
   {
-   "t": "Arm Extends AI Reach From Data Centers To Edge Devices",
+   "t": "Uber Stock Falls As Wall Street Sizes Up Tesla's Cybercab Rollout",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/arm-stock-arm-extends-reach-to-physical-ai/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/uber-stock-tesla-cybercab-austin-rollout/?src=A00220&yptr=yahoo"
   },
   {
    "t": "iPhone新舊機全面漲價　記憶體狂飆醞釀AI通膨",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100151.aspx"
   },
   {
-   "t": "Exclusive: Snap names Ronan Harris chief commercial officer",
+   "t": "Copper Scales New Heights on U.S. Tariff Fears, Supply Challenges",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/exclusive-snap-names-ronan-harris-201004345.html"
+   "u": "https://www.wsj.com/finance/commodities-futures/copper-reaches-new-highs-on-u-s-tariff-fears-supply-challenges-93a99fb0?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
