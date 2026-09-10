@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 14:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 14:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 100.44,
-   "c": -0.76,
+   "p": 100.66,
+   "c": -0.54,
    "a50": 87.81,
-   "a200": 84.38,
+   "a200": 84.39,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.85,
-   "r": 67.2
+   "a20": 92.86,
+   "r": 67.7
   },
   {
    "s": "GC=F",
-   "p": 4471.0,
-   "c": 1.25,
-   "a50": 4262.12,
-   "a200": 4525.89,
+   "p": 4469.6,
+   "c": 1.21,
+   "a50": 4262.1,
+   "a200": 4525.88,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4473.51,
+   "a20": 4473.44,
    "r": 55.0
   },
   {
    "s": "HG=F",
-   "p": 6.87,
-   "c": 0.93,
+   "p": 6.86,
+   "c": 0.87,
    "a50": 6.46,
    "a200": 6.01,
-   "yh": 6.87,
+   "yh": 6.86,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 68.3
+   "r": 68.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03174603,
-   "c": -0.0,
+   "p": 0.03172589,
+   "c": -0.07,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100061.aspx"
   },
   {
-   "t": "Does Michael Burry Have It Wrong? Nvidia Chips Retain Value, Data Shows",
+   "t": "The Simple Reason I'm Not Worried About Nvidia's Hugging Face Acquisition",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/does-michael-burry-wrong-nvidia-174957539.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/simple-reason-im-not-worried-180501810.html"
   },
   {
    "t": "電子傳產弱　台股盤中挫逾600點回測10日線",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100034.aspx"
   },
   {
-   "t": "Morgan Stanley Eyes Good Things Ahead for Meta After $18 Billion Legal Settlement",
+   "t": "James Fisher and Sons H1 Earnings Call Highlights",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-eyes-good-things-175000651.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/james-fisher-sons-h1-earnings-180247019.html"
   }
  ],
  "inst": {
