@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 15:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 15:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 59.0,
-   "c": -1.17,
+   "p": 58.9,
+   "c": -1.34,
    "a50": 57.51,
    "a200": 57.91,
    "yh": 74.3,
    "yl": 37.6,
    "a20": 56.23,
-   "r": 58.1
+   "r": 57.7
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46940.49,
-   "c": -0.51,
-   "a50": 45014.83,
-   "a200": 37628.2,
+   "p": 47183.36,
+   "c": 0.16,
+   "a50": 45016.4,
+   "a200": 37533.02,
    "yh": 47741.51,
    "yl": 25192.59,
-   "a20": 46006.6,
-   "r": 59.0
+   "a20": 45960.65,
+   "r": 61.3
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 100.72,
-   "c": -0.48,
+   "p": 100.84,
+   "c": -0.37,
    "a50": 87.82,
    "a200": 84.39,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.86,
-   "r": 67.9
+   "a20": 92.87,
+   "r": 68.2
   },
   {
    "s": "GC=F",
-   "p": 4468.5,
-   "c": 1.19,
-   "a50": 4262.07,
-   "a200": 4525.88,
+   "p": 4458.6,
+   "c": 0.96,
+   "a50": 4261.88,
+   "a200": 4525.83,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4473.39,
-   "r": 54.9
+   "a20": 4472.89,
+   "r": 54.3
   },
   {
    "s": "HG=F",
-   "p": 6.88,
-   "c": 1.08,
+   "p": 6.87,
+   "c": 0.98,
    "a50": 6.46,
    "a200": 6.01,
-   "yh": 6.88,
+   "yh": 6.87,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 68.7
+   "r": 68.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03172589,
-   "c": -0.05,
+   "p": 0.03168568,
+   "c": -0.19,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100057.aspx"
   },
   {
-   "t": "1 No-Brainer ETF I'm Loading Up on in 2026 and Beyond",
+   "t": "Abundant US Nat-Gas Supplies Pressure Prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/1-no-brainer-etf-im-185700184.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/abundant-us-nat-gas-supplies-191222842.html"
   },
   {
    "t": "紐時：輝達結盟Groq　美司法部查是否規避反壟斷",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609100050.aspx"
   },
   {
-   "t": "Will Corn’s Bullish Trend Continue",
+   "t": "What to Know About Anthropic’s Planned IPO",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-bullish-trend-continue-190002710.html"
+   "u": "https://www.wsj.com/finance/stocks/what-to-know-about-anthropics-planned-ipo-c2f58908?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "台積電下跌25元　台股早盤下滑逾400點跌破47000點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100037.aspx"
   },
   {
-   "t": "China Adds 650,000 Ounces of Gold in Biggest Monthly Buy Since 2023",
+   "t": "Crude Oil Prices Rise as Global Supplies Tighten",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/china-adds-650-000-ounces-190000241.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-rise-global-191316492.html"
   },
   {
    "t": "新台幣開盤貶2.5分　為31.53元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100035.aspx"
   },
   {
-   "t": "Is Qualcomm on a Tear? Inside QCOM's 2026 Comeback — and the ETFs That Hold the Most",
+   "t": "Morgan Stanley Just Downgraded Peloton Stock. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-tear-inside-qcoms-2026-193608652.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-downgraded-peloton-191501646.html"
   },
   {
    "t": "台股開盤跌52.4點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100034.aspx"
   },
   {
-   "t": "Capital One launches new Venture Business card with limited-time 150,000-mile welcome bonus (expired)",
+   "t": "Here's what to do if your bank account application was denied",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-business-card-193020902.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/denied-bank-account-204942472.html"
   }
  ],
  "inst": {
