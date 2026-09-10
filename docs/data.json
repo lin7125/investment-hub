@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 04:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 04:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 18.0,
-   "c": 9.36,
+   "p": 18.06,
+   "c": 9.72,
    "a50": 16.13,
    "a200": 18.11,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.38,
-   "r": 61.2
+   "r": 61.4
   },
   {
    "s": "BZ=F",
-   "p": 107.95,
-   "c": 6.66,
-   "a50": 87.96,
+   "p": 108.2,
+   "c": 6.91,
+   "a50": 87.97,
    "a200": 84.42,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 93.23,
-   "r": 75.9
+   "a20": 93.24,
+   "r": 76.1
   },
   {
    "s": "GC=F",
-   "p": 4365.0,
-   "c": -1.15,
-   "a50": 4260.0,
-   "a200": 4525.36,
+   "p": 4363.6,
+   "c": -1.19,
+   "a50": 4259.98,
+   "a200": 4525.35,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4468.21,
-   "r": 47.8
+   "a20": 4468.14,
+   "r": 47.7
   },
   {
    "s": "HG=F",
    "p": 6.52,
-   "c": -4.1,
+   "c": -4.14,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 48.1
+   "r": 47.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03161555,
-   "c": -0.42,
+   "p": 0.03160556,
+   "c": -0.45,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "Jersey Mike’s Logs Higher Revenue on Growing Customer Base",
+   "t": "Is Keurig Dr Pepper Stock Underperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/business/earnings/jersey-mikes-logs-higher-revenue-on-growing-customer-base-2a836012?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-stock-underperforming-115740038.html"
   },
   {
    "t": "今彩539第115220期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
   },
   {
-   "t": "Zeta Global Near All-Time High on Platform Growth, Strong Earnings",
+   "t": "Golden Royalties Have This Gem Polishing A Breakout As These Trends Sparkle",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/zeta-global-near-time-high-114622227.html"
+   "u": "https://www.investors.com/research/breakout-stocks-technical-analysis/royal-gold-eyes-new-buy-point-as-ai-data-centers-fuel-demand/?src=A00220&yptr=yahoo"
   },
   {
    "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
   },
   {
-   "t": "Is Paychex Stock Underperforming the S&P 500?",
+   "t": "IPO Stock LB Pharma Has Tripled In Under A Year. Is It A Takeover Target?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/paychex-stock-underperforming-p-500-114724110.html"
+   "u": "https://www.investors.com/news/technology/ipo-stock-lb-pharmaceuticals-schizophrenia-treatment/?src=A00220&yptr=yahoo"
   },
   {
    "t": "證基會首拓義大利合作　與米蘭證交所培訓學院簽MOU",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100361.aspx"
   },
   {
-   "t": "Okta Earnings, AI Offerings Drive Shares Up 94% YTD",
+   "t": "Zeta Global Near All-Time High on Platform Growth, Strong Earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/okta-earnings-ai-offerings-drive-114128456.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/zeta-global-near-time-high-114622227.html"
   },
   {
    "t": "國泰人壽響應揮汗有禮　健康促進平台加碼任務值",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100360.aspx"
   },
   {
-   "t": "Golden Royalties Have This Gem Polishing A Breakout As These Trends Sparkle",
+   "t": "Goldman Sachs, IG Wealth tie up on Canadian wealth portfolios",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/breakout-stocks-technical-analysis/royal-gold-eyes-new-buy-point-as-ai-data-centers-fuel-demand/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-ig-wealth-tie-115637376.html"
   },
   {
    "t": "美國8月PPI數據提高升息預期　華爾街股市開低",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100359.aspx"
   },
   {
-   "t": "Albertsons Names Former HP, eBay CEO Meg Whitman as Executive Chair to Help Spur Growth",
+   "t": "Is Paychex Stock Underperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/business/retail/albertsons-names-former-hp-ebay-ceo-meg-whitman-as-executive-chair-to-help-spur-growth-cd3b4d15?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/paychex-stock-underperforming-p-500-114724110.html"
   }
  ],
  "inst": {
