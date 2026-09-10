@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 15:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 15:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.3,
-   "c": -0.97,
-   "a50": 16.09,
+   "p": 16.38,
+   "c": -0.49,
+   "a50": 16.1,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.29,
-   "r": 53.9
+   "a20": 15.3,
+   "r": 54.3
   },
   {
    "s": "BZ=F",
-   "p": 101.0,
-   "c": -0.21,
-   "a50": 87.82,
+   "p": 101.41,
+   "c": 0.2,
+   "a50": 87.83,
    "a200": 84.39,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.88,
-   "r": 68.7
+   "a20": 92.9,
+   "r": 69.5
   },
   {
    "s": "GC=F",
-   "p": 4453.9,
-   "c": 0.86,
-   "a50": 4261.78,
-   "a200": 4525.8,
+   "p": 4449.8,
+   "c": 0.77,
+   "a50": 4261.7,
+   "a200": 4525.78,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.66,
-   "r": 54.0
+   "a20": 4472.45,
+   "r": 53.7
   },
   {
    "s": "HG=F",
-   "p": 6.86,
-   "c": 0.86,
+   "p": 6.85,
+   "c": 0.74,
    "a50": 6.46,
    "a200": 6.01,
-   "yh": 6.86,
+   "yh": 6.85,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 68.1
+   "r": 67.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03173596,
-   "c": -0.02,
+   "p": 0.03172589,
+   "c": -0.08,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100167.aspx"
   },
   {
-   "t": "Google Cloud Boss Makes Bold Claim About AI Chip Business",
+   "t": "Capital One launches new Venture Business card with limited-time 150,000-mile welcome bonus (expired)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/google-stock-cloud-kurian-ai-chip-business/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-business-card-193020902.html"
   },
   {
    "t": "台機械出口連19個月成長　公會：今年出口產值拚新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100160.aspx"
   },
   {
-   "t": "$604M CH Robinson Verdict Still Isn’t Final Yet",
+   "t": "ILMN Stock Keeps Climbing. Should You Climb On?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/604m-ch-robinson-verdict-still-192955477.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ilmn-stock-keeps-climbing-climb-193724343.html"
   },
   {
    "t": "iPhone 18 Pro預約　電信業迎高階換機潮摺疊機動能",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100156.aspx"
   },
   {
-   "t": "Solana Is Up 36% in a Month, ETH Is Up 29%, XRP Is Up 35% and Bitcoin Is Up Only 20%. Which Gain Actually Holds?",
+   "t": "Dear Nvidia Stock Fans, Mark Your Calendars for September 10",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/solana-36-month-eth-29-193015811.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-nvidia-stock-fans-mark-194239279.html"
   },
   {
    "t": "iPhone新舊機全面漲價　記憶體狂飆醞釀AI通膨",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100151.aspx"
   },
   {
-   "t": "Dollar Slips on Japanese Yen Strength",
+   "t": "Travere Therapeutics' Outlook Brightens As Turnaround Looms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-slips-japanese-yen-strength-193230187.html"
+   "u": "https://www.investors.com/research/biotech-travere-therapeutics-tvtx-stock/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
