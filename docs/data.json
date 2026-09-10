@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 06:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 06:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 109.31,
-   "c": 8.0,
+   "p": 109.21,
+   "c": 7.9,
    "a50": 87.99,
    "a200": 84.43,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 93.29,
-   "r": 76.9
+   "r": 76.8
   },
   {
    "s": "GC=F",
-   "p": 4364.7,
-   "c": -1.16,
-   "a50": 4260.0,
-   "a200": 4525.36,
+   "p": 4362.3,
+   "c": -1.22,
+   "a50": 4259.95,
+   "a200": 4525.35,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4468.2,
-   "r": 47.8
+   "a20": 4468.08,
+   "r": 47.6
   },
   {
    "s": "HG=F",
    "p": 6.53,
-   "c": -3.96,
+   "c": -4.07,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.59,
-   "r": 48.5
+   "r": 48.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03162555,
-   "c": -0.4,
+   "p": 0.03163556,
+   "c": -0.36,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110007.aspx"
   },
   {
-   "t": "Morrisons partners with Instaleap to streamline online order fulfilment",
+   "t": "Power and Digital Strengths Drive Brookfield Corp.’s (BN) AI Edge",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/morrisons-partners-instaleap-streamline-online-143113145.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/power-digital-strengths-drive-brookfield-144436907.html"
   },
   {
    "t": "利空出籠　歐股收黑",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110002.aspx"
   },
   {
-   "t": "Analyzing Amazon’s (AMZN) Reinvestment Flywheel in the AI Era",
+   "t": "Here's Exactly What Drove BYD's 30% Spike in Profits -- Is It Still a Smart Buy?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/analyzing-amazon-amzn-reinvestment-flywheel-142925704.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/heres-exactly-drove-byds-30-144300465.html"
   },
   {
    "t": "台馬新創優勢互補　AIoT合作開拓東協新藍海",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "Alphabet (GOOG) Surges Over 20% Revenue Growth, Cloud Strength",
+   "t": "Is Vertiv Stock Outperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-surges-over-20-142626204.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/vertiv-stock-outperforming-nasdaq-144302424.html"
   },
   {
    "t": "今彩539第115220期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
   },
   {
-   "t": "Is Autodesk Stock Underperforming the Dow?",
+   "t": "Dollar Slips Before the Treasury’s Buyback Operation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/autodesk-stock-underperforming-dow-142853467.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-slips-treasury-buyback-operation-144104464.html"
   },
   {
    "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
   },
   {
-   "t": "Dear Illumina Stock Fans, Mark Your Calendars for September 21",
+   "t": "Is Super Micro Stock Underperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-illumina-stock-fans-mark-143216645.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-underperforming-nasdaq-144056576.html"
   },
   {
    "t": "證基會首拓義大利合作　與米蘭證交所培訓學院簽MOU",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100361.aspx"
   },
   {
-   "t": "Circle to buy Tazapay for $400M",
+   "t": "Crown Castle Stock: Is CCI Underperforming the Real Estate Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/circle-buy-tazapay-400m-143043573.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/crown-castle-stock-cci-underperforming-143453276.html"
   }
  ],
  "inst": {
