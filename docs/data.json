@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 01:23（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 01:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 323.83,
-   "c": 2.69,
-   "a50": 317.16,
+   "p": 325.5,
+   "c": 3.22,
+   "a50": 317.2,
    "a200": 284.64,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 315.14,
-   "r": 56.9
+   "a20": 315.22,
+   "r": 58.2
   },
   {
    "s": "NVDA",
-   "p": 218.65,
-   "c": -2.25,
-   "a50": 212.18,
+   "p": 218.54,
+   "c": -2.29,
+   "a50": 212.17,
    "a200": 197.28,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.53,
-   "r": 50.0
+   "a20": 220.52,
+   "r": 49.9
   },
   {
    "s": "TSLA",
-   "p": 366.3,
-   "c": -0.41,
-   "a50": 355.75,
+   "p": 367.28,
+   "c": -0.14,
+   "a50": 355.77,
    "a200": 399.07,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 353.99,
-   "r": 54.9
+   "a20": 354.04,
+   "r": 55.3
   },
   {
    "s": "META",
-   "p": 649.0,
-   "c": -0.72,
+   "p": 648.77,
+   "c": -0.75,
    "a50": 600.29,
-   "a200": 622.99,
+   "a200": 622.98,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 584.04,
-   "r": 68.3
+   "a20": 584.03,
+   "r": 68.2
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7601.28,
-   "c": -0.46,
-   "a50": 7604.06,
-   "a200": 7157.33,
+   "p": 7598.17,
+   "c": -0.5,
+   "a50": 7603.99,
+   "a200": 7157.31,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7692.77,
-   "r": 44.5
+   "a20": 7692.61,
+   "r": 44.3
   },
   {
    "s": "^VIX",
-   "p": 17.31,
-   "c": 5.16,
+   "p": 17.32,
+   "c": 5.22,
    "a50": 16.11,
    "a200": 18.11,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 107.13,
-   "c": 5.85,
-   "a50": 87.94,
+   "p": 107.22,
+   "c": 5.94,
+   "a50": 87.95,
    "a200": 84.42,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 93.18,
-   "r": 75.2
+   "a20": 93.19,
+   "r": 75.3
   },
   {
    "s": "GC=F",
-   "p": 4405.3,
-   "c": -0.24,
-   "a50": 4260.81,
+   "p": 4405.0,
+   "c": -0.25,
+   "a50": 4260.8,
    "a200": 4525.56,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4470.23,
+   "a20": 4470.21,
    "r": 50.6
   },
   {
    "s": "HG=F",
-   "p": 6.54,
-   "c": -3.92,
+   "p": 6.53,
+   "c": -4.06,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.59,
-   "r": 48.6
+   "r": 48.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03162555,
-   "c": -0.39,
+   "p": 0.03160556,
+   "c": -0.45,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "Lyft Stock Pullback Could Be Short-Lived Says Signal",
+   "t": "Dell (DELL) Reports $60.9B of AI Server Orders and a $95B Backlog. Can the Demand Surge Produce Durable Cash Flow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lyft-stock-pullback-could-short-171316715.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/dell-dell-reports-60-9b-172135958.html"
   },
   {
    "t": "今彩539第115220期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
   },
   {
-   "t": "SpaceX stock price hinges on one massive engineering bet",
+   "t": "Roblox Chief Legal Officer Sells 5,773 Shares in Planned Equity Liquidity",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-price-hinges-one-170700526.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/roblox-chief-legal-officer-sells-172002674.html"
   },
   {
    "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq extend losses as bond yields jump, oil holds above $100",
+   "t": "Lyft Stock Pullback Could Be Short-Lived Says Signal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-083717303.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lyft-stock-pullback-could-short-171316715.html"
   },
   {
    "t": "證基會首拓義大利合作　與米蘭證交所培訓學院簽MOU",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100361.aspx"
   },
   {
-   "t": "The Lovesac Company Q2 2027 Earnings Call Summary",
+   "t": "Macy's, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lovesac-company-q2-2027-earnings-170439984.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/macys-inc-q2-2026-earnings-170816602.html"
   },
   {
    "t": "國泰人壽響應揮汗有禮　健康促進平台加碼任務值",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100360.aspx"
   },
   {
-   "t": "Vince Holding Corp. Q2 2026 Earnings Call Summary",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq extend losses as bond yields jump, oil holds above $100",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/vince-holding-corp-q2-2026-170215484.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-083717303.html"
   },
   {
    "t": "美國8月PPI數據提高升息預期　華爾街股市開低",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100359.aspx"
   },
   {
-   "t": "Comstock (CRK) Signs a $1.65B SOCAR Letter of Intent and a $450M Drilling Venture. Does Deleveraging Outweigh the Economics It Gives Up?",
+   "t": "The Lovesac Company Q2 2027 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/comstock-crk-signs-1-65b-170000933.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lovesac-company-q2-2027-earnings-170439984.html"
   }
  ],
  "inst": {
