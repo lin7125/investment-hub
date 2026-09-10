@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 17:18（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 17:28（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,36 +278,36 @@
   },
   {
    "s": "^VIX",
-   "p": 16.45,
-   "c": -0.06,
+   "p": 16.46,
+   "c": 0.0,
    "a50": 16.1,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.3,
-   "r": 54.7
+   "r": 54.8
   },
   {
    "s": "BZ=F",
-   "p": 102.05,
-   "c": 0.83,
+   "p": 102.12,
+   "c": 0.9,
    "a50": 87.84,
    "a200": 84.39,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 92.93,
-   "r": 70.3
+   "r": 70.4
   },
   {
    "s": "GC=F",
-   "p": 4436.8,
-   "c": 0.47,
-   "a50": 4261.44,
-   "a200": 4525.72,
+   "p": 4438.1,
+   "c": 0.5,
+   "a50": 4261.47,
+   "a200": 4525.73,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.8,
-   "r": 52.8
+   "a20": 4471.87,
+   "r": 52.9
   },
   {
    "s": "HG=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03170577,
-   "c": -0.13,
+   "p": 0.03168568,
+   "c": -0.2,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100187.aspx"
   },
   {
-   "t": "Why Lucid Stock Tumbled 34% in August",
+   "t": "Holtec Launches One of the Largest Nuclear IPOs Yet",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-lucid-stock-tumbled-34-210800984.html"
+   "u": "https://www.barrons.com/articles/holtec-nuclear-ipo-stock-hnuc-74f49c0f?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "核二有望啟動安檢？經長：若部分燃料棒移出能確保安全",
