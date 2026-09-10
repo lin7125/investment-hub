@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 06:39（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 06:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,9 +289,9 @@
   },
   {
    "s": "BZ=F",
-   "p": 109.19,
-   "c": 7.88,
-   "a50": 87.99,
+   "p": 109.08,
+   "c": 7.78,
+   "a50": 87.98,
    "a200": 84.43,
    "yh": 118.35,
    "yl": 58.92,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4360.1,
-   "c": -1.27,
-   "a50": 4259.91,
-   "a200": 4525.34,
+   "p": 4357.1,
+   "c": -1.33,
+   "a50": 4259.85,
+   "a200": 4525.32,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4467.97,
-   "r": 47.5
+   "a20": 4467.82,
+   "r": 47.3
   },
   {
    "s": "HG=F",
    "p": 6.52,
-   "c": -4.19,
+   "c": -4.23,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 47.8
+   "r": 47.7
   },
   {
    "s": "TWDUSD",
@@ -332,16 +332,52 @@
  ],
  "news": [
   {
+   "t": "美財政部搶救債市　10年期國債殖利率仍狂升",
+   "pub": "中央社財經",
+   "d": "2026-09-11",
+   "u": "https://www.cna.com.tw/news/afe/202609110011.aspx"
+  },
+  {
+   "t": "Top 5 Stocks Poised to Profit From the CHIPS Quantum Incentive Wave",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/top-5-stocks-poised-profit-150513070.html"
+  },
+  {
+   "t": "受油價飆漲拖累　美股收黑",
+   "pub": "中央社財經",
+   "d": "2026-09-11",
+   "u": "https://www.cna.com.tw/news/afe/202609110009.aspx"
+  },
+  {
+   "t": "Do you need to be a millionaire to retire? Experts weigh in on the 15% rule.",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/do-you-need-to-be-a-millionaire-to-retire-experts-weigh-in-on-the-15-rule-150323141.html"
+  },
+  {
+   "t": "中東衝突推高油價　英美國債殖利率升至數十年高點",
+   "pub": "中央社財經",
+   "d": "2026-09-11",
+   "u": "https://www.cna.com.tw/news/aopl/202609110008.aspx"
+  },
+  {
+   "t": "Adult film studio says a Meta exec torrented nearly 20K files on his home internet — wants it folded into a $446M case",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/media-advertising/articles/adult-film-studio-says-meta-150000902.html"
+  },
+  {
    "t": "油輪遇襲案增加　國際油價漲逾6%升破每桶100美元",
    "pub": "中央社財經",
    "d": "2026-09-11",
    "u": "https://www.cna.com.tw/news/afe/202609110007.aspx"
   },
   {
-   "t": "Signet Jewelers Stock Jumps 20%",
+   "t": "Is Humana Stock Outperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/signet-jewelers-stock-jumps-20-144942586.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/humana-stock-outperforming-dow-145554446.html"
   },
   {
    "t": "利空出籠　歐股收黑",
@@ -350,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110002.aspx"
   },
   {
-   "t": "Here’s Why The Fund Sold Regeneron Pharmaceuticals (REGN)",
+   "t": "CoreWeave struggling to keep up with demand for Nvidia chips, CEO says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-fund-sold-regeneron-pharmaceuticals-145138128.html"
+   "u": "https://finance.yahoo.com/markets/article/coreweave-struggling-to-keep-up-with-demand-for-nvidia-chips-ceo-says-145336930.html"
   },
   {
    "t": "台馬新創優勢互補　AIoT合作開拓東協新藍海",
@@ -362,46 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "Is Vertiv Stock Outperforming the Nasdaq?",
+   "t": "Here’s Why The Fund Sold Regeneron Pharmaceuticals (REGN)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/vertiv-stock-outperforming-nasdaq-144302424.html"
-  },
-  {
-   "t": "今彩539第115220期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
-  },
-  {
-   "t": "Power and Digital Strengths Drive Brookfield Corp.’s (BN) AI Edge",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/power-digital-strengths-drive-brookfield-144436907.html"
-  },
-  {
-   "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
-   "pub": "中央社財經",
-   "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
-  },
-  {
-   "t": "Is Super Micro Stock Underperforming the Nasdaq?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-underperforming-nasdaq-144056576.html"
-  },
-  {
-   "t": "證基會首拓義大利合作　與米蘭證交所培訓學院簽MOU",
-   "pub": "中央社財經",
-   "d": "2026-09-10",
-   "u": "https://www.cna.com.tw/news/afe/202609100361.aspx"
-  },
-  {
-   "t": "FormFactor Director Sells 2,100 Shares",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/formfactor-director-sells-2-100-145001178.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-fund-sold-regeneron-pharmaceuticals-145138128.html"
   }
  ],
  "inst": {
