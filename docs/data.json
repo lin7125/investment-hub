@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 14:44（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 14:54（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 100.38,
-   "c": -0.82,
+   "p": 100.39,
+   "c": -0.81,
    "a50": 87.81,
    "a200": 84.38,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4458.9,
-   "c": 0.97,
-   "a50": 4261.88,
-   "a200": 4525.83,
+   "p": 4469.7,
+   "c": 1.22,
+   "a50": 4262.1,
+   "a200": 4525.88,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.91,
-   "r": 54.3
+   "a20": 4473.45,
+   "r": 55.0
   },
   {
    "s": "HG=F",
-   "p": 6.87,
-   "c": 1.04,
+   "p": 6.88,
+   "c": 1.17,
    "a50": 6.46,
    "a200": 6.01,
-   "yh": 6.87,
+   "yh": 6.88,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 68.6
+   "r": 68.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03171583,
-   "c": -0.09,
+   "p": 0.03172589,
+   "c": -0.07,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100061.aspx"
   },
   {
-   "t": "Different Use Cases For Different Tokenization: Krupetsky",
+   "t": "The Market Marked AMZN Stock Down. The Numbers Push Back",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/video/different-cases-different-tokenization-krupetsky-183622045.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/market-marked-amzn-stock-down-184639226.html"
   },
   {
    "t": "電子傳產弱　台股盤中挫逾600點回測10日線",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100057.aspx"
   },
   {
-   "t": "Why AMC CEO Adam Aron Dislikes Robinhood’s New Tokenized Assets",
+   "t": "What is a step-up CD, and how does it work?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/why-amc-ceo-adam-aron-183828841.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/step-up-cd-181655102.html"
   },
   {
    "t": "紐時：輝達結盟Groq　美司法部查是否規避反壟斷",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609100050.aspx"
   },
   {
-   "t": "Abundant US Nat-Gas Supplies Pressure Prices",
+   "t": "Why B. Riley Just Issued a $23 Price Target on Infleqtion Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/abundant-us-nat-gas-supplies-191222842.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-b-riley-just-issued-185248996.html"
   },
   {
    "t": "台積電下跌25元　台股早盤下滑逾400點跌破47000點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100037.aspx"
   },
   {
-   "t": "Crude Oil Prices Rise as Global Supplies Tighten",
+   "t": "Google Cloud Boss Makes Bold Claim About AI Chip Business",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-rise-global-191316492.html"
+   "u": "https://www.investors.com/news/technology/google-stock-cloud-kurian-ai-chip-business/?src=A00220&yptr=yahoo"
   },
   {
    "t": "新台幣開盤貶2.5分　為31.53元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100035.aspx"
   },
   {
-   "t": "Morgan Stanley Just Downgraded Peloton Stock. Here's Why.",
+   "t": "Ink Business Premier Credit Card review: Generous welcome bonus and free employee cards",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-downgraded-peloton-191501646.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/ink-business-premier-credit-card-review-223741901.html"
   },
   {
    "t": "台股開盤跌52.4點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100034.aspx"
   },
   {
-   "t": "Boston Scientific ‘Unlikely to Meet’ Earnings Guidance After Cyberattack. Stock Falls.",
+   "t": "Is the iShares Pharmaceuticals ETF or iShares Healthcare ETF the Better Fund for 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/boston-scientific-stock-earnings-guidance-cyberattack-bd0e8c0b?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/healthcare/articles/ishares-pharmaceuticals-etf-ishares-healthcare-185001855.html"
   }
  ],
  "inst": {
