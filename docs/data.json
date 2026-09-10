@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 07:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 07:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 108.85,
-   "c": 7.55,
+   "p": 108.9,
+   "c": 7.6,
    "a50": 87.98,
    "a200": 84.43,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 93.27,
-   "r": 76.5
+   "r": 76.6
   },
   {
    "s": "GC=F",
-   "p": 4359.0,
-   "c": -1.29,
+   "p": 4358.8,
+   "c": -1.3,
    "a50": 4259.88,
    "a200": 4525.33,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4467.91,
+   "a20": 4467.9,
    "r": 47.4
   },
   {
    "s": "HG=F",
-   "p": 6.52,
-   "c": -4.12,
+   "p": 6.53,
+   "c": -4.09,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
-   "a20": 6.58,
-   "r": 48.0
+   "a20": 6.59,
+   "r": 48.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03164557,
-   "c": -0.44,
+   "p": 0.03163556,
+   "c": -0.47,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110011.aspx"
   },
   {
-   "t": "US Treasury Triples Long-Dated Debt Buyback to $6 Billion",
+   "t": "VERAXA Biotech Designates Raju Willener as CFO",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/us-treasury-triples-long-dated-151747086.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/veraxa-biotech-designates-raju-willener-154625631.html"
   },
   {
    "t": "受油價飆漲拖累　美股收黑",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110009.aspx"
   },
   {
-   "t": "Live Cattle Prices Are Moving Up and Just Hit a 2-Week High",
+   "t": "Purepoint Uranium CEO says utility contracting set to drive next Uranium market surge",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/live-cattle-prices-moving-just-152026043.html"
+   "u": "https://finance.yahoo.com/video/purepoint-uranium-ceo-says-utility-154840211.html"
   },
   {
    "t": "中東衝突推高油價　英美國債殖利率升至數十年高點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110008.aspx"
   },
   {
-   "t": "Jersey Mike’s Profit Falls a Third in First Public Quarter, But It’s Not All Bad",
+   "t": "A Long-Term Bullish Trade Might Be The Ticket For This Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jersey-mike-profit-falls-third-152150828.html"
+   "u": "https://www.investors.com/research/options/vertiv-stock-vrt-bull-put-spread-options/?src=A00220&yptr=yahoo"
   },
   {
    "t": "油輪遇襲案增加　國際油價漲逾6%升破每桶100美元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110007.aspx"
   },
   {
-   "t": "How long should you wait between credit card applications?",
+   "t": "Dear Trade Desk Stock Fans, Mark Your Calendars for September 21",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-long-should-you-wait-between-credit-card-applications-152057924.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-trade-desk-stock-fans-154907443.html"
   },
   {
    "t": "利空出籠　歐股收黑",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110002.aspx"
   },
   {
-   "t": "Stocks and Bonds Fall as Crude Oil Surges",
+   "t": "What Makes Broadcom (AVGO) a Lucrative Bet?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-bonds-fall-crude-oil-151630911.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/makes-broadcom-avgo-lucrative-bet-154758859.html"
   },
   {
    "t": "台馬新創優勢互補　AIoT合作開拓東協新藍海",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "She Bought an Annuity at 68 for the Guaranteed $2,000 a Month. It Made 85% of Her Social Security Taxable, Then Made Every Roth Conversion After It Cost More",
+   "t": "Jewelry Stock Surges After Years Of Mostly Sideways Action",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/she-bought-annuity-68-guaranteed-152101053.html"
+   "u": "https://www.investors.com/news/signet-jewelers-stock-earnings-guidance/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
