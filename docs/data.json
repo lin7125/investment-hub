@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 03:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 03:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 324.98,
-   "c": 3.06,
-   "a50": 317.18,
-   "a200": 284.64,
+   "p": 325.88,
+   "c": 3.34,
+   "a50": 317.2,
+   "a200": 284.65,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 315.2,
-   "r": 57.8
+   "a20": 315.24,
+   "r": 58.5
   },
   {
    "s": "NVDA",
-   "p": 217.9,
-   "c": -2.58,
+   "p": 218.05,
+   "c": -2.51,
    "a50": 212.16,
    "a200": 197.27,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.49,
-   "r": 49.5
+   "a20": 220.5,
+   "r": 49.6
   },
   {
    "s": "TSLA",
-   "p": 365.51,
-   "c": -0.62,
+   "p": 365.27,
+   "c": -0.69,
    "a50": 355.73,
    "a200": 399.06,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 353.95,
-   "r": 54.6
+   "a20": 353.94,
+   "r": 54.5
   },
   {
    "s": "META",
-   "p": 644.71,
-   "c": -1.37,
-   "a50": 600.21,
-   "a200": 622.96,
+   "p": 645.4,
+   "c": -1.27,
+   "a50": 600.22,
+   "a200": 622.97,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 583.83,
-   "r": 66.5
+   "a20": 583.86,
+   "r": 66.8
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7587.36,
-   "c": -0.64,
-   "a50": 7603.78,
-   "a200": 7157.26,
+   "p": 7590.04,
+   "c": -0.61,
+   "a50": 7603.83,
+   "a200": 7157.27,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7692.07,
-   "r": 43.5
+   "a20": 7692.21,
+   "r": 43.7
   },
   {
    "s": "^VIX",
-   "p": 17.8,
-   "c": 8.14,
-   "a50": 16.12,
+   "p": 17.91,
+   "c": 8.81,
+   "a50": 16.13,
    "a200": 18.11,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.37,
-   "r": 60.5
+   "r": 60.9
   },
   {
    "s": "BZ=F",
-   "p": 106.86,
-   "c": 5.58,
-   "a50": 87.94,
+   "p": 107.37,
+   "c": 6.09,
+   "a50": 87.95,
    "a200": 84.42,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 93.17,
-   "r": 75.0
+   "a20": 93.2,
+   "r": 75.4
   },
   {
    "s": "GC=F",
-   "p": 4377.5,
-   "c": -0.87,
-   "a50": 4260.25,
-   "a200": 4525.42,
+   "p": 4360.3,
+   "c": -1.26,
+   "a50": 4259.91,
+   "a200": 4525.34,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4468.84,
-   "r": 48.6
+   "a20": 4467.98,
+   "r": 47.5
   },
   {
    "s": "HG=F",
    "p": 6.52,
-   "c": -4.12,
+   "c": -4.22,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 48.0
+   "r": 47.7
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "Ask an Advisor: I'm 67 With $218k in an IRA. Should I Withdraw Money Now to Reduce Future RMD Taxes?",
+   "t": "How Apple stock usually reacts to big iPhone reveal events",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/ask-advisor-im-67-218k-103000740.html"
+   "u": "https://finance.yahoo.com/technology/article/how-apple-stock-usually-reacts-to-big-iphone-reveal-events-152915777.html"
   },
   {
    "t": "今彩539第115220期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
   },
   {
-   "t": "Platinum surplus masks persistent supply challenge for PGM miners",
+   "t": "Is Fortinet Stock Outperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/platinum-surplus-masks-persistent-supply-090000518.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fortinet-stock-outperforming-p-500-090336137.html"
   },
   {
    "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
   },
   {
-   "t": "Is Fortinet Stock Outperforming the S&P 500?",
+   "t": "Asiamet jumps 12% as KSK sale brings $93m shareholder payout",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fortinet-stock-outperforming-p-500-090336137.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/asiamet-jumps-12-ksk-sale-091000203.html"
   },
   {
    "t": "證基會首拓義大利合作　與米蘭證交所培訓學院簽MOU",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100361.aspx"
   },
   {
-   "t": "How Apple stock usually reacts to big iPhone reveal events",
+   "t": "Ask an Advisor: I'm 67 With $218k in an IRA. Should I Withdraw Money Now to Reduce Future RMD Taxes?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/how-apple-stock-usually-reacts-to-big-iphone-reveal-events-152915777.html"
+   "u": "https://finance.yahoo.com/news/ask-advisor-im-67-218k-103000740.html"
   },
   {
    "t": "國泰人壽響應揮汗有禮　健康促進平台加碼任務值",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100360.aspx"
   },
   {
-   "t": "Mortgage & refinance rates today, Wednesday, September 9, 2026: Fixed rates inch upward, 5/1 ARM breaks past 7% as oil prices rise",
+   "t": "Argentina's corn exports set for record, as war in Ukraine, European heat wave reshape trade",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage--refinance-rates-today-wednesday-september-9-2026-fixed-rates-inch-upward-51-arm-breaks-past-7-as-oil-prices-rise-100000700.html"
+   "u": "https://finance.yahoo.com/news/argentinas-corn-exports-set-record-101814752.html"
   },
   {
    "t": "美國8月PPI數據提高升息預期　華爾街股市開低",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100359.aspx"
   },
   {
-   "t": "S&P Futures Slip as Bond Yields Climb After Oil Tops $100",
+   "t": "AI infrastructure bets drive venture debt toward record levels",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/p-futures-slip-bond-yields-101422647.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-bets-drive-venture-101428462.html"
   }
  ],
  "inst": {
