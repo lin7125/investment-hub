@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 06:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 06:39（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 109.09,
-   "c": 7.79,
-   "a50": 87.98,
+   "p": 109.19,
+   "c": 7.88,
+   "a50": 87.99,
    "a200": 84.43,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 93.28,
-   "r": 76.7
+   "a20": 93.29,
+   "r": 76.8
   },
   {
    "s": "GC=F",
-   "p": 4361.6,
-   "c": -1.23,
-   "a50": 4259.94,
+   "p": 4360.1,
+   "c": -1.27,
+   "a50": 4259.91,
    "a200": 4525.34,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4468.04,
-   "r": 47.6
+   "a20": 4467.97,
+   "r": 47.5
   },
   {
    "s": "HG=F",
-   "p": 6.53,
-   "c": -4.09,
+   "p": 6.52,
+   "c": -4.19,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
-   "a20": 6.59,
-   "r": 48.1
+   "a20": 6.58,
+   "r": 47.8
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110007.aspx"
   },
   {
-   "t": "Power and Digital Strengths Drive Brookfield Corp.’s (BN) AI Edge",
+   "t": "Signet Jewelers Stock Jumps 20%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/power-digital-strengths-drive-brookfield-144436907.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/signet-jewelers-stock-jumps-20-144942586.html"
   },
   {
    "t": "利空出籠　歐股收黑",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110002.aspx"
   },
   {
-   "t": "Here's Exactly What Drove BYD's 30% Spike in Profits -- Is It Still a Smart Buy?",
+   "t": "Here’s Why The Fund Sold Regeneron Pharmaceuticals (REGN)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/heres-exactly-drove-byds-30-144300465.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-fund-sold-regeneron-pharmaceuticals-145138128.html"
   },
   {
    "t": "台馬新創優勢互補　AIoT合作開拓東協新藍海",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
   },
   {
-   "t": "Dollar Slips Before the Treasury’s Buyback Operation",
+   "t": "Power and Digital Strengths Drive Brookfield Corp.’s (BN) AI Edge",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-slips-treasury-buyback-operation-144104464.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/power-digital-strengths-drive-brookfield-144436907.html"
   },
   {
    "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100361.aspx"
   },
   {
-   "t": "Crown Castle Stock: Is CCI Underperforming the Real Estate Sector?",
+   "t": "FormFactor Director Sells 2,100 Shares",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/crown-castle-stock-cci-underperforming-143453276.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/formfactor-director-sells-2-100-145001178.html"
   }
  ],
  "inst": {
