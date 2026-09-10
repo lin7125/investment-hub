@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 02:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 02:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 323.96,
-   "c": 2.74,
-   "a50": 317.16,
+   "p": 324.32,
+   "c": 2.85,
+   "a50": 317.17,
    "a200": 284.64,
    "yh": 340.08,
    "yl": 226.79,
-   "a20": 315.15,
-   "r": 57.1
+   "a20": 315.16,
+   "r": 57.3
   },
   {
    "s": "NVDA",
-   "p": 217.9,
-   "c": -2.58,
+   "p": 217.93,
+   "c": -2.57,
    "a50": 212.16,
    "a200": 197.27,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 220.49,
-   "r": 49.4
+   "r": 49.5
   },
   {
    "s": "TSLA",
-   "p": 365.65,
-   "c": -0.59,
+   "p": 365.95,
+   "c": -0.5,
    "a50": 355.74,
-   "a200": 399.06,
+   "a200": 399.07,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 353.96,
-   "r": 54.6
+   "a20": 353.98,
+   "r": 54.8
   },
   {
    "s": "META",
-   "p": 646.64,
-   "c": -1.08,
-   "a50": 600.24,
+   "p": 646.0,
+   "c": -1.18,
+   "a50": 600.23,
    "a200": 622.97,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 583.93,
-   "r": 67.3
+   "a20": 583.89,
+   "r": 67.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7589.29,
-   "c": -0.62,
+   "p": 7589.67,
+   "c": -0.61,
    "a50": 7603.82,
    "a200": 7157.27,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7692.17,
+   "a20": 7692.19,
    "r": 43.6
   },
   {
    "s": "^VIX",
-   "p": 17.75,
-   "c": 7.84,
+   "p": 17.82,
+   "c": 8.26,
    "a50": 16.12,
    "a200": 18.11,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.37,
-   "r": 60.3
+   "r": 60.5
   },
   {
    "s": "BZ=F",
-   "p": 107.85,
-   "c": 6.56,
-   "a50": 87.96,
+   "p": 107.32,
+   "c": 6.04,
+   "a50": 87.95,
    "a200": 84.42,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 93.22,
-   "r": 75.8
+   "a20": 93.19,
+   "r": 75.4
   },
   {
    "s": "GC=F",
-   "p": 4385.5,
-   "c": -0.69,
-   "a50": 4260.41,
-   "a200": 4525.46,
+   "p": 4376.6,
+   "c": -0.89,
+   "a50": 4260.24,
+   "a200": 4525.42,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.24,
-   "r": 49.2
+   "a20": 4468.79,
+   "r": 48.6
   },
   {
    "s": "HG=F",
-   "p": 6.52,
-   "c": -4.23,
-   "a50": 6.46,
+   "p": 6.51,
+   "c": -4.27,
+   "a50": 6.45,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 47.6
+   "r": 47.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03161555,
-   "c": -0.42,
+   "c": -0.4,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "Dollar Falls on Declining Treasury Yields, Strong Yen",
+   "t": "Apple’s Rally Pressures New CEO to Deliver on Foldable iPhone",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/livecoverage/stock-market-news-today-090926/card/dollar-falls-on-declining-treasury-yields-strong-yen-xl3me9CxpC35pdxgvnWn?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-rally-pressures-ceo-deliver-084339758.html"
   },
   {
    "t": "今彩539第115220期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100359.aspx"
   },
   {
-   "t": "Processor pays $12M to settle ‘sham’ merchant case",
+   "t": "Nordic Energy Company Fortum Shares Jump on Google Nuclear Power Agreement",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/processor-pays-12m-settle-sham-083138217.html"
+   "u": "https://www.wsj.com/business/energy-oil/nordic-energy-company-fortum-shares-jump-on-google-nuclear-power-agreement-cc3d2893?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
