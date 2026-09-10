@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 03:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 03:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 325.43,
-   "c": 3.2,
+   "p": 325.41,
+   "c": 3.19,
    "a50": 317.19,
    "a200": 284.64,
    "yh": 340.08,
@@ -223,20 +223,20 @@
   },
   {
    "s": "NVDA",
-   "p": 218.37,
-   "c": -2.37,
+   "p": 218.62,
+   "c": -2.26,
    "a50": 212.17,
    "a200": 197.28,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.51,
-   "r": 49.8
+   "a20": 220.53,
+   "r": 50.0
   },
   {
    "s": "TSLA",
-   "p": 364.05,
-   "c": -1.02,
-   "a50": 355.71,
+   "p": 363.99,
+   "c": -1.04,
+   "a50": 355.7,
    "a200": 399.06,
    "yh": 489.88,
    "yl": 298.32,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 643.32,
-   "c": -1.59,
-   "a50": 600.18,
+   "p": 644.42,
+   "c": -1.42,
+   "a50": 600.2,
    "a200": 622.96,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 583.76,
-   "r": 65.9
+   "a20": 583.82,
+   "r": 66.4
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7591.76,
-   "c": -0.58,
-   "a50": 7603.87,
-   "a200": 7157.28,
+   "p": 7594.57,
+   "c": -0.55,
+   "a50": 7603.92,
+   "a200": 7157.3,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7692.29,
-   "r": 43.8
+   "a20": 7692.43,
+   "r": 44.0
   },
   {
    "s": "^VIX",
-   "p": 18.15,
-   "c": 10.27,
+   "p": 18.01,
+   "c": 9.42,
    "a50": 16.13,
    "a200": 18.11,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.38,
-   "r": 61.7
+   "r": 61.2
   },
   {
    "s": "BZ=F",
-   "p": 107.74,
-   "c": 6.45,
+   "p": 107.98,
+   "c": 6.69,
    "a50": 87.96,
    "a200": 84.42,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 93.22,
-   "r": 75.7
+   "a20": 93.23,
+   "r": 75.9
   },
   {
    "s": "GC=F",
-   "p": 4371.2,
-   "c": -1.01,
-   "a50": 4260.13,
-   "a200": 4525.39,
+   "p": 4368.3,
+   "c": -1.08,
+   "a50": 4260.07,
+   "a200": 4525.38,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4468.52,
-   "r": 48.2
+   "a20": 4468.38,
+   "r": 48.0
   },
   {
    "s": "HG=F",
    "p": 6.52,
-   "c": -4.15,
+   "c": -4.17,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03160556,
-   "c": -0.44,
+   "c": -0.43,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "Oil reaches $100 as markets assess Middle East conflict, rates and US-Canada trade tensions: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+   "t": "Brent approaches $100 as Middle East attacks add to oil supply concerns",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/oil-reaches-100-markets-assess-092602684.html"
+   "u": "https://finance.yahoo.com/energy/articles/brent-approaches-100-middle-east-093202055.html"
   },
   {
    "t": "今彩539第115220期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
   },
   {
-   "t": "‘Humanity is dying out’: Elon Musk warns America needs more babies — and a major Social Security risk emerges beneath it",
+   "t": "Mortgage & refinance rates today, Wednesday, September 9, 2026: Fixed rates inch upward, 5/1 ARM breaks past 7% as oil prices rise",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/humanity-dying-elon-musk-warns-104500835.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage--refinance-rates-today-wednesday-september-9-2026-fixed-rates-inch-upward-51-arm-breaks-past-7-as-oil-prices-rise-100000700.html"
   },
   {
    "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
   },
   {
-   "t": "Social Security's coffers are so low even Republicans are talking about raising taxes — even if they 'get smeared'",
+   "t": "Chevron Stock Just Got a New Street-High Price Target. How to Play CVX Here.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/social-securitys-coffers-low-even-110000637.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chevron-stock-just-got-street-110002106.html"
   },
   {
    "t": "證基會首拓義大利合作　與米蘭證交所培訓學院簽MOU",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100360.aspx"
   },
   {
-   "t": "Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers",
+   "t": "Options Flow Alert: Institutional Money Piles Into AMD Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/options-flow-alert-institutional-money-110002890.html"
   },
   {
    "t": "美國8月PPI數據提高升息預期　華爾街股市開低",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100359.aspx"
   },
   {
-   "t": "Gold returns above $4,400 as dollar weakens ahead of US inflation data",
+   "t": "This Unstoppable Vanguard ETF Is Beating the S&P 500 and the Nasdaq-100 in 2026, but It Could Face a Reckoning Next Week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/gold-returns-above-4-400-092817089.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/unstoppable-vanguard-etf-beating-p-093700350.html"
   }
  ],
  "inst": {
