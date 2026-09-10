@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 05:00（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 05:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 108.93,
-   "c": 7.63,
+   "p": 108.95,
+   "c": 7.65,
    "a50": 87.98,
    "a200": 84.43,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 93.27,
+   "a20": 93.28,
    "r": 76.6
   },
   {
    "s": "GC=F",
-   "p": 4356.7,
-   "c": -1.34,
-   "a50": 4259.84,
-   "a200": 4525.32,
+   "p": 4358.5,
+   "c": -1.3,
+   "a50": 4259.87,
+   "a200": 4525.33,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4467.8,
-   "r": 47.3
+   "a20": 4467.89,
+   "r": 47.4
   },
   {
    "s": "HG=F",
    "p": 6.53,
-   "c": -4.06,
+   "c": -4.08,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.59,
-   "r": 48.2
+   "r": 48.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03165559,
-   "c": -0.29,
+   "p": 0.03162555,
+   "c": -0.37,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110007.aspx"
   },
   {
-   "t": "Daktronics (DAKT) Q1 2027 Earnings Call Transcript",
+   "t": "How Is Digital Realty Trust's Stock Performance Compared to Other Real Estate Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/daktronics-dakt-q1-2027-earnings-122756319.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/digital-realty-trusts-stock-performance-123515121.html"
   },
   {
    "t": "利空出籠　歐股收黑",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110002.aspx"
   },
   {
-   "t": "Casey's General Stores, Inc. Q1 2027 Earnings Call Summary",
+   "t": "VW Group plans more ‘rugged vehicles’ for US amid sweeping restructure",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/caseys-general-stores-inc-q1-123000889.html"
+   "u": "https://finance.yahoo.com/technology/articles/vw-group-plans-more-rugged-123300274.html"
   },
   {
    "t": "台馬新創優勢互補　AIoT合作開拓東協新藍海",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "Braze, Inc. Q2 2027 Earnings Call Summary",
+   "t": "Is TE Connectivity Stock Underperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/braze-inc-q2-2027-earnings-123000929.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/te-connectivity-stock-underperforming-dow-122936808.html"
   },
   {
    "t": "今彩539第115220期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
   },
   {
-   "t": "Chewy, Inc. Q2 2027 Earnings Call Summary",
+   "t": "Constellation Brands Stock: Is STZ Underperforming the Consumer Defensive Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chewy-inc-q2-2027-earnings-123000635.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/constellation-brands-stock-stz-underperforming-123740031.html"
   },
   {
    "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
   },
   {
-   "t": "ServiceTitan, Inc. Q2 2027 Earnings Call Summary",
+   "t": "J.Jill, Inc. Q2 2027 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/servicetitan-inc-q2-2027-earnings-123000022.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/j-jill-inc-q2-2027-123000156.html"
   },
   {
    "t": "證基會首拓義大利合作　與米蘭證交所培訓學院簽MOU",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100361.aspx"
   },
   {
-   "t": "Salesforce is Nearly Fully Priced: Why Bulls Say This is Just the Beginning",
+   "t": "Casey's General Stores, Inc. Q1 2027 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/salesforce-nearly-fully-priced-why-122839852.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/caseys-general-stores-inc-q1-123000889.html"
   }
  ],
  "inst": {
