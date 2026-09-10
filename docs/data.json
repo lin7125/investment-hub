@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 14:34（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 14:44（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 58.9,
-   "c": -1.34,
-   "a50": 57.51,
+   "p": 59.1,
+   "c": -1.01,
+   "a50": 57.52,
    "a200": 57.91,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.23,
-   "r": 57.7
+   "a20": 56.24,
+   "r": 58.6
   },
   {
    "s": "AAPL",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 100.39,
-   "c": -0.81,
+   "p": 100.38,
+   "c": -0.82,
    "a50": 87.81,
    "a200": 84.38,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4457.6,
-   "c": 0.94,
-   "a50": 4261.86,
-   "a200": 4525.82,
+   "p": 4458.9,
+   "c": 0.97,
+   "a50": 4261.88,
+   "a200": 4525.83,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4472.84,
-   "r": 54.2
+   "a20": 4472.91,
+   "r": 54.3
   },
   {
    "s": "HG=F",
-   "p": 6.88,
-   "c": 1.05,
+   "p": 6.87,
+   "c": 1.04,
    "a50": 6.46,
    "a200": 6.01,
-   "yh": 6.88,
+   "yh": 6.87,
    "yl": 4.54,
    "a20": 6.6,
    "r": 68.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03169572,
-   "c": -0.16,
+   "p": 0.03171583,
+   "c": -0.09,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100061.aspx"
   },
   {
-   "t": "Adobe's Next Earnings Report on Sept. 10 Could Send the Stock Plunging. Here's Why.",
+   "t": "Different Use Cases For Different Tokenization: Krupetsky",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/adobes-next-earnings-report-sept-182723075.html"
+   "u": "https://finance.yahoo.com/video/different-cases-different-tokenization-krupetsky-183622045.html"
   },
   {
    "t": "電子傳產弱　台股盤中挫逾600點回測10日線",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100037.aspx"
   },
   {
-   "t": "China Adds 650,000 Ounces of Gold in Biggest Monthly Buy Since 2023",
+   "t": "Crude Oil Prices Rise as Global Supplies Tighten",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/china-adds-650-000-ounces-190000241.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-rise-global-191316492.html"
   },
   {
    "t": "新台幣開盤貶2.5分　為31.53元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100035.aspx"
   },
   {
-   "t": "Will Corn’s Bullish Trend Continue",
+   "t": "Morgan Stanley Just Downgraded Peloton Stock. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-bullish-trend-continue-190002710.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-downgraded-peloton-191501646.html"
   },
   {
    "t": "台股開盤跌52.4點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100034.aspx"
   },
   {
-   "t": "Why SSR Mining Stock Surged 45% in August",
+   "t": "Boston Scientific ‘Unlikely to Meet’ Earnings Guidance After Cyberattack. Stock Falls.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-ssr-mining-stock-surged-182755156.html"
+   "u": "https://www.barrons.com/articles/boston-scientific-stock-earnings-guidance-cyberattack-bd0e8c0b?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
