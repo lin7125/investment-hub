@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 17:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 17:39（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.46,
-   "c": 0.0,
+   "p": 16.44,
+   "c": -0.12,
    "a50": 16.1,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.3,
-   "r": 54.8
+   "r": 54.7
   },
   {
    "s": "BZ=F",
-   "p": 102.12,
-   "c": 0.9,
-   "a50": 87.84,
+   "p": 102.38,
+   "c": 1.16,
+   "a50": 87.85,
    "a200": 84.39,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 92.93,
-   "r": 70.4
+   "a20": 92.95,
+   "r": 70.6
   },
   {
    "s": "GC=F",
-   "p": 4438.1,
-   "c": 0.5,
-   "a50": 4261.47,
-   "a200": 4525.73,
+   "p": 4435.4,
+   "c": 0.44,
+   "a50": 4261.41,
+   "a200": 4525.71,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4471.87,
-   "r": 52.9
+   "a20": 4471.73,
+   "r": 52.7
   },
   {
    "s": "HG=F",
    "p": 6.82,
-   "c": 0.24,
+   "c": 0.18,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.82,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 66.4
+   "r": 66.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03168568,
-   "c": -0.2,
+   "p": 0.03167564,
+   "c": -0.22,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100202.aspx"
   },
   {
-   "t": "Social Security benefits in 2027: See what's really changing",
+   "t": "Capital One Venture welcome offer: 75,000 miles plus a $300 travel credit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/social-security-benefits-in-2027-see-whats-really-changing-144723278.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-welcome-offer-75000-miles-plus-a-300-travel-credit-171812043.html"
   },
   {
    "t": "綠色投融資規模逾5.4兆元　財長勉公股銀助企業轉型",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100197.aspx"
   },
   {
-   "t": "Capital One Venture welcome offer: 75,000 miles plus a $300 travel credit",
+   "t": "Social Security benefits in 2027: See what's really changing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/capital-one-venture-welcome-offer-75000-miles-plus-a-300-travel-credit-171812043.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/social-security-benefits-in-2027-see-whats-really-changing-144723278.html"
   },
   {
    "t": "畸零股爭議　緯穎：小股東可10元認購1股　權利不得移轉",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100187.aspx"
   },
   {
-   "t": "Holtec Launches One of the Largest Nuclear IPOs Yet",
+   "t": "What is a step-up CD, and how does it work?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/holtec-nuclear-ipo-stock-hnuc-74f49c0f?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/step-up-cd-181655102.html"
   },
   {
    "t": "核二有望啟動安檢？經長：若部分燃料棒移出能確保安全",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100186.aspx"
   },
   {
-   "t": "Capital One Venture vs. Capital One VentureOne: Is an annual fee worth it?",
+   "t": "Elastic's 2026 Outlook: AI Search Integration Fuels Enterprise Customer Retention",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/comparison/capital-one-venture-vs-ventureone-231224237.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/elastics-2026-outlook-ai-search-212701938.html"
   }
  ],
  "inst": {
