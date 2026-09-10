@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 06:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 06:11（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 108.95,
-   "c": 7.65,
-   "a50": 87.98,
+   "p": 109.31,
+   "c": 8.0,
+   "a50": 87.99,
    "a200": 84.43,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 93.28,
-   "r": 76.6
+   "a20": 93.29,
+   "r": 76.9
   },
   {
    "s": "GC=F",
-   "p": 4358.5,
-   "c": -1.3,
-   "a50": 4259.87,
-   "a200": 4525.33,
+   "p": 4364.7,
+   "c": -1.16,
+   "a50": 4260.0,
+   "a200": 4525.36,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4467.89,
-   "r": 47.4
+   "a20": 4468.2,
+   "r": 47.8
   },
   {
    "s": "HG=F",
    "p": 6.53,
-   "c": -4.08,
+   "c": -3.96,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.59,
-   "r": 48.1
+   "r": 48.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03162555,
-   "c": -0.38,
+   "c": -0.4,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110007.aspx"
   },
   {
-   "t": "Newly minted tech millionaires are now clamoring for financial advice",
+   "t": "Morrisons partners with Instaleap to streamline online order fulfilment",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/newly-minted-tech-millionaires-are-now-clamoring-for-financial-advice-135732903.html"
+   "u": "https://finance.yahoo.com/small-business/articles/morrisons-partners-instaleap-streamline-online-143113145.html"
   },
   {
    "t": "利空出籠　歐股收黑",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110002.aspx"
   },
   {
-   "t": "CIMA backs UK’s corporate reporting consultation",
+   "t": "Analyzing Amazon’s (AMZN) Reinvestment Flywheel in the AI Era",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/cima-backs-uk-corporate-reporting-140045315.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/analyzing-amazon-amzn-reinvestment-flywheel-142925704.html"
   },
   {
    "t": "台馬新創優勢互補　AIoT合作開拓東協新藍海",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100367.aspx"
   },
   {
-   "t": "Flattened Premiums Undermine Arch Capital Group Ltd.’s (ACGL) Consistent Gains",
+   "t": "Alphabet (GOOG) Surges Over 20% Revenue Growth, Cloud Strength",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/flattened-premiums-undermine-arch-capital-135907556.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-surges-over-20-142626204.html"
   },
   {
    "t": "今彩539第115220期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100364.aspx"
   },
   {
-   "t": "What It Means for MSFT Stock Investors as Microsoft Switches to 2 Business Segments",
+   "t": "Is Autodesk Stock Underperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/means-msft-stock-investors-microsoft-140002489.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/autodesk-stock-underperforming-dow-142853467.html"
   },
   {
    "t": "威力彩頭獎2億元1注獨得　獎落台北市萬華區",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609100362.aspx"
   },
   {
-   "t": "Ethereum Price Prediction: ETH Eyes $2,800 on Bullish Setup",
+   "t": "Dear Illumina Stock Fans, Mark Your Calendars for September 21",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-eth-eyes-140215873.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-illumina-stock-fans-mark-143216645.html"
   },
   {
    "t": "證基會首拓義大利合作　與米蘭證交所培訓學院簽MOU",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100361.aspx"
   },
   {
-   "t": "Dear Chewy Stock Fans, Mark Your Calendars for September 9",
+   "t": "Circle to buy Tazapay for $400M",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-chewy-stock-fans-mark-135850239.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/circle-buy-tazapay-400m-143043573.html"
   }
  ],
  "inst": {
