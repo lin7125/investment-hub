@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10 14:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-10 14:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 57.3,
-   "c": -4.02,
-   "a50": 57.48,
-   "a200": 57.9,
+   "p": 58.9,
+   "c": -1.34,
+   "a50": 57.51,
+   "a200": 57.91,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.15,
-   "r": 50.9
+   "a20": 56.23,
+   "r": 57.7
   },
   {
    "s": "AAPL",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 100.41,
-   "c": -0.79,
+   "p": 100.44,
+   "c": -0.76,
    "a50": 87.81,
-   "a200": 84.39,
+   "a200": 84.38,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 92.85,
-   "r": 67.1
+   "r": 67.2
   },
   {
    "s": "GC=F",
-   "p": 4472.0,
-   "c": 1.27,
-   "a50": 4262.14,
-   "a200": 4525.9,
+   "p": 4461.3,
+   "c": 1.03,
+   "a50": 4261.93,
+   "a200": 4525.84,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4473.56,
-   "r": 55.1
+   "a20": 4473.03,
+   "r": 54.4
   },
   {
    "s": "HG=F",
    "p": 6.86,
-   "c": 0.89,
+   "c": 0.78,
    "a50": 6.46,
    "a200": 6.01,
    "yh": 6.86,
    "yl": 4.54,
    "a20": 6.6,
-   "r": 68.2
+   "r": 67.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03171583,
-   "c": -0.11,
+   "p": 0.03172589,
+   "c": -0.07,
    "a50": 0.03121099,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100061.aspx"
   },
   {
-   "t": "Stocks Slip as Oil Pares Gains",
+   "t": "Apple Scraps Plans for 2 MacBook Models. What This Actually Means for AAPL Stock Investors.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/finance/commodities-futures/u-s-stock-futures-treasurys-weaken-as-brent-nears-100-c29efc2f?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-scraps-plans-2-macbook-181756571.html"
   },
   {
    "t": "電子傳產弱　台股盤中挫逾600點回測10日線",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100057.aspx"
   },
   {
-   "t": "What is a step-up CD, and how does it work?",
+   "t": "EverBank, WaFd say merger would address each firm's issues",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/step-up-cd-181655102.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/everbank-wafd-merger-address-firms-181818960.html"
   },
   {
    "t": "紐時：輝達結盟Groq　美司法部查是否規避反壟斷",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609100050.aspx"
   },
   {
-   "t": "Apple Scraps Plans for 2 MacBook Models. What This Actually Means for AAPL Stock Investors.",
+   "t": "China Adds 650,000 Ounces of Gold in Biggest Monthly Buy Since 2023",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-scraps-plans-2-macbook-181756571.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/china-adds-650-000-ounces-190000241.html"
   },
   {
    "t": "台積電下跌25元　台股早盤下滑逾400點跌破47000點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100037.aspx"
   },
   {
-   "t": "Why B. Riley Just Issued a $23 Price Target on Infleqtion Stock",
+   "t": "Will Corn’s Bullish Trend Continue",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-b-riley-just-issued-185248996.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-bullish-trend-continue-190002710.html"
   },
   {
    "t": "新台幣開盤貶2.5分　為31.53元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100035.aspx"
   },
   {
-   "t": "Why AMC CEO Adam Aron Dislikes Robinhood’s New Tokenized Assets",
+   "t": "Why B. Riley Just Issued a $23 Price Target on Infleqtion Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/why-amc-ceo-adam-aron-183828841.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-b-riley-just-issued-185248996.html"
   },
   {
    "t": "台股開盤跌52.4點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609100034.aspx"
   },
   {
-   "t": "Why ServiceNow Stock Popped 33% Last Month",
+   "t": "What is a step-up CD, and how does it work?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-servicenow-stock-popped-33-181200742.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/step-up-cd-181655102.html"
   }
  ],
  "inst": {
