@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 14:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 14:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 47.0,
-   "c": 0.32,
+   "p": 46.95,
+   "c": 0.21,
    "a50": 51.02,
    "a200": 45.01,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 49.22,
-   "r": 44.5
+   "r": 44.4
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 106.13,
-   "c": -1.39,
-   "a50": 88.65,
+   "p": 105.79,
+   "c": -1.71,
+   "a50": 88.64,
    "a200": 84.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 94.16,
-   "r": 71.9
+   "a20": 94.15,
+   "r": 71.1
   },
   {
    "s": "GC=F",
-   "p": 4395.8,
-   "c": 0.72,
-   "a50": 4266.54,
-   "a200": 4526.95,
+   "p": 4392.8,
+   "c": 0.65,
+   "a50": 4266.48,
+   "a200": 4526.94,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.8,
-   "r": 50.1
+   "a20": 4469.65,
+   "r": 49.9
   },
   {
    "s": "HG=F",
-   "p": 6.59,
-   "c": 1.85,
+   "p": 6.58,
+   "c": 1.76,
    "a50": 6.46,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 51.3
+   "r": 51.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03163556,
-   "c": -0.45,
+   "p": 0.03161555,
+   "c": -0.51,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -332,76 +332,76 @@
  ],
  "news": [
   {
-   "t": "台股盤中跌逾900點　失守月線及46000點關卡",
+   "t": "9月電子期跌　金融期漲",
    "pub": "中央社財經",
    "d": "2026-09-11",
-   "u": "https://www.cna.com.tw/news/afe/202609110066.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609110133.aspx"
   },
   {
-   "t": "Tesla Cybercab Strength Comes with Weakness in China: A Tale of Two Growth Stories",
+   "t": "Direct lending activity improves from Q2 lows, but still lags Q1 – PC Monitor",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tesla-cybercab-strength-comes-weakness-182213666.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/direct-lending-activity-improves-q2-184730143.html"
   },
   {
-   "t": "賴總統公布遺贈稅法修正　財部釋4大重點將加強宣導",
+   "t": "9月台股期指跌651點",
    "pub": "中央社財經",
    "d": "2026-09-11",
-   "u": "https://www.cna.com.tw/news/afe/202609110064.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609110132.aspx"
   },
   {
-   "t": "Ahead of Aerovironment Earnings, Here's What Barchart Data Says Comes Next for AVAV Stock",
+   "t": "Adobe Is Inviting Figma Users to Test a New AI Design Tool. Should Investors Worry?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-aerovironment-earnings-heres-barchart-182539431.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/adobe-inviting-figma-users-test-184723278.html"
   },
   {
-   "t": "中華車拚2035年再生能源占比35%　重申2050淨零",
+   "t": "伊雲谷布局企業級AI新版圖　3大支柱搶攻商機",
    "pub": "中央社財經",
    "d": "2026-09-11",
-   "u": "https://www.cna.com.tw/news/afe/202609110048.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609110131.aspx"
   },
   {
-   "t": "United Microelectronics Sales Jump 30% in August. UMC Stock Has More Room to Run.",
+   "t": "Broadcom (AVGO) Faces Google Chip Risks, But Macquarie Sees a $40 Billion Anthropic Opportunity",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/united-microelectronics-sales-jump-30-182116964.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-faces-google-chip-184606814.html"
   },
   {
-   "t": "AI需求緩解對燒錢疑慮　甲骨文財報優於預期",
+   "t": "台股收跌755點　力守月線之上",
    "pub": "中央社財經",
    "d": "2026-09-11",
-   "u": "https://www.cna.com.tw/news/aopl/202609110044.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609110130.aspx"
   },
   {
-   "t": "Etsy Stock Pullback Could Be a Buying Opportunity",
+   "t": "Gold Futures Edge Up Despite Higher U.S. Yields",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/etsy-stock-pullback-could-buying-181941712.html"
+   "u": "https://www.wsj.com/finance/commodities-futures/gold-slips-traders-eye-inflation-data-a5ad1d66?siteid=yhoof2&yptr=yahoo"
   },
   {
-   "t": "美光員工獎酬出爐　台灣初階工程師平均薪酬340萬元",
+   "t": "台股跌755.64點",
    "pub": "中央社財經",
    "d": "2026-09-11",
-   "u": "https://www.cna.com.tw/news/afe/202609110037.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609110129.aspx"
   },
   {
-   "t": "TRM Labs Hits $2 Billion Valuation With AI Crime Bet",
+   "t": "Campbell’s (CPB) Turnaround Bid Faces a Tough Test as Costs and Weak Demand Persist",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/trm-labs-hits-2-billion-183000122.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/campbell-cpb-turnaround-bid-faces-185255460.html"
   },
   {
-   "t": "日經指數盤中重挫3%　油價飆升通膨憂慮加劇",
+   "t": "Cybercab上路首選德州奧斯汀　凸顯科技聚落實力",
    "pub": "中央社財經",
    "d": "2026-09-11",
-   "u": "https://www.cna.com.tw/news/afe/202609110035.aspx"
+   "u": "https://www.cna.com.tw/news/ait/202609110105.aspx"
   },
   {
-   "t": "Caterpillar (CAT)’s FieldAI Partnership Strengthens Its AI Autonomy Opportunity",
+   "t": "VersaBank (VBNK) Surpasses $7 Billion in Total Assets, Targets More US Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/caterpillar-cat-fieldai-partnership-strengthens-183455992.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/versabank-vbnk-surpasses-7-billion-190009980.html"
   }
  ],
  "inst": {
