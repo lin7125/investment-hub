@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 16:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 16:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.68,
-   "c": -0.9,
+   "p": 17.59,
+   "c": -1.4,
    "a50": 16.15,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.54,
-   "r": 59.7
+   "r": 59.1
   },
   {
    "s": "BZ=F",
-   "p": 105.8,
-   "c": -1.7,
-   "a50": 88.64,
-   "a200": 84.64,
+   "p": 105.31,
+   "c": -2.16,
+   "a50": 88.63,
+   "a200": 84.63,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 94.15,
-   "r": 71.1
+   "a20": 94.12,
+   "r": 70.0
   },
   {
    "s": "GC=F",
-   "p": 4389.1,
-   "c": 0.56,
-   "a50": 4266.41,
-   "a200": 4526.92,
+   "p": 4393.4,
+   "c": 0.66,
+   "a50": 4266.5,
+   "a200": 4526.94,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.46,
-   "r": 49.6
+   "a20": 4469.68,
+   "r": 49.9
   },
   {
    "s": "HG=F",
    "p": 6.55,
-   "c": 1.27,
+   "c": 1.29,
    "a50": 6.46,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 49.6
+   "r": 49.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03161555,
-   "c": -0.53,
+   "p": 0.03160556,
+   "c": -0.55,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110178.aspx"
   },
   {
-   "t": "AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor",
+   "t": "Optical Cable Corporation Q3 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/amd-stock-regains-investor-favor/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/optical-cable-corporation-q3-2026-205928880.html"
   },
   {
    "t": "馬來西亞工業4.0智慧製造  台灣科技業擴大布局",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110168.aspx"
   },
   {
-   "t": "Cathie Wood Is Loading Up on Ionis Pharmaceuticals (IONS) Stock. Here's the Bet She's Making.",
+   "t": "Is AbbVie (ABBV)’s $10.9 Billion Apogee Therapeutics (APGE) Deal the Next Catalyst for Growth?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-loading-ionis-pharmaceuticals-205000535.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/abbvie-abbv-10-9-billion-205830126.html"
   },
   {
    "t": "三大法人賣超台股1123.72億元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110160.aspx"
   },
   {
-   "t": "Korn Ferry Q1 2027 Earnings Call Summary",
+   "t": "Stock Market Today: Dow Falls 400 Points; Sellers Whack This AI Software Firm",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/korn-ferry-q1-2027-earnings-204653575.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/?src=A00220&yptr=yahoo"
   },
   {
    "t": "油價與公債殖利率攀升　科技股領跌日股收黑",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110159.aspx"
   },
   {
-   "t": "Time to Buy: Wall Street Says Dell Stock Could Climb 38% in a Year",
+   "t": "ETF League Tables: VanEck Gains",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/time-buy-wall-street-says-204446870.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-vaneck-gains-210004965.html"
   },
   {
    "t": "微軟擬擴充資料中心容量　2032年前增至3倍達38GW",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110154.aspx"
   },
   {
-   "t": "Jim Cramer Explains Why He Picks Apple (AAPL) as His Ultimate Portfolio “Quarterback”",
+   "t": "Daily ETF Flows: JPST Edges Into Top 10",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-picks-205100782.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-jpst-edges-210004272.html"
   },
   {
    "t": "台電公開海域生態數據　逾30年資料明年上架TBIA平台",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110152.aspx"
   },
   {
-   "t": "Could Apple (AAPL) Stock Win as Intel Corporation (INTC) Fades from the Mac Ecosystem?",
+   "t": "Morgan Stanley Just Upped Its Price Target on 'Top Pick' Dell Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/could-apple-aapl-stock-win-205116718.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-upped-price-205342496.html"
   }
  ],
  "inst": {
