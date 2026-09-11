@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-12 02:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-12 02:26（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 332.74,
-   "c": 1.89,
+   "p": 332.8,
+   "c": 1.91,
    "a50": 317.98,
    "a200": 284.96,
    "yh": 340.08,
@@ -223,19 +223,19 @@
   },
   {
    "s": "NVDA",
-   "p": 219.16,
-   "c": 0.37,
-   "a50": 212.6,
+   "p": 219.37,
+   "c": 0.46,
+   "a50": 212.61,
    "a200": 197.48,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.21,
-   "r": 50.5
+   "a20": 220.22,
+   "r": 50.6
   },
   {
    "s": "TSLA",
-   "p": 365.13,
-   "c": 0.43,
+   "p": 364.99,
+   "c": 0.39,
    "a50": 354.49,
    "a200": 398.92,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 648.67,
-   "c": 0.67,
-   "a50": 600.91,
-   "a200": 623.23,
+   "p": 648.93,
+   "c": 0.71,
+   "a50": 600.92,
+   "a200": 623.24,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 586.5,
-   "r": 67.3
+   "a20": 586.51,
+   "r": 67.4
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7668.92,
-   "c": 1.02,
-   "a50": 7607.58,
-   "a200": 7162.61,
+   "p": 7666.96,
+   "c": 0.99,
+   "a50": 7607.54,
+   "a200": 7162.6,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7685.79,
-   "r": 51.0
+   "a20": 7685.69,
+   "r": 50.8
   },
   {
    "s": "^VIX",
-   "p": 15.61,
-   "c": -12.5,
+   "p": 15.62,
+   "c": -12.44,
    "a50": 16.11,
    "a200": 18.09,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 104.34,
-   "c": -3.06,
+   "p": 104.54,
+   "c": -2.87,
    "a50": 88.61,
    "a200": 84.63,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 94.07,
-   "r": 67.9
+   "a20": 94.08,
+   "r": 68.3
   },
   {
    "s": "GC=F",
-   "p": 4400.1,
-   "c": 0.82,
-   "a50": 4266.63,
-   "a200": 4526.97,
+   "p": 4390.7,
+   "c": 0.6,
+   "a50": 4266.44,
+   "a200": 4526.93,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4470.01,
-   "r": 50.4
+   "a20": 4469.54,
+   "r": 49.7
   },
   {
    "s": "HG=F",
    "p": 6.55,
-   "c": 1.28,
+   "c": 1.24,
    "a50": 6.46,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 49.6
+   "r": 49.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03164557,
-   "c": -0.43,
+   "p": 0.03163556,
+   "c": -0.45,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110340.aspx"
   },
   {
-   "t": "Global Clean Investment Falls 17% as China Pullback Takes Its Toll",
+   "t": "US Dollar Price Forecast: DXY Stays Weak as ECB Hike Looms and Inflation Risks Rise; EUR/USD and GBP/USD in Focus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/global-clean-investment-falls-17-081500341.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dxy-081617966.html"
   },
   {
    "t": "法國下修2026經濟成長預測　表現遜於鄰國",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110336.aspx"
   },
   {
-   "t": "US Dollar Price Forecast: DXY Stays Weak as ECB Hike Looms and Inflation Risks Rise; EUR/USD and GBP/USD in Focus",
+   "t": "Global Clean Investment Falls 17% as China Pullback Takes Its Toll",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dxy-081617966.html"
+   "u": "https://finance.yahoo.com/energy/articles/global-clean-investment-falls-17-081500341.html"
   },
   {
    "t": "通膨壓力增  日媒：日銀擬升息至1.25%創31年新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110332.aspx"
   },
   {
-   "t": "India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country",
+   "t": "Should I Take a $400,000 Pension Lump Sum or $2,000 in Monthly Payments?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/indias-serious-fraud-office-recommends-074520065.html"
+   "u": "https://finance.yahoo.com/news/400-000-lump-sum-2-110000526.html"
   },
   {
    "t": "iPhone 18 Pro掀熱潮　電信業預約2分鐘額滿",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110331.aspx"
   },
   {
-   "t": "Should I Take a $400,000 Pension Lump Sum or $2,000 in Monthly Payments?",
+   "t": "India's Serious Fraud Office recommends 'detailed' probe into Xiaomi's business in country",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/400-000-lump-sum-2-110000526.html"
+   "u": "https://finance.yahoo.com/technology/articles/indias-serious-fraud-office-recommends-074520065.html"
   },
   {
    "t": "美股3大指數盤初漲逾1%　投資人評估美最新通膨數據",
