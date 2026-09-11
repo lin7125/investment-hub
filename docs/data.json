@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 13:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 14:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 46.5,
-   "c": -0.75,
-   "a50": 51.01,
+   "p": 46.95,
+   "c": 0.21,
+   "a50": 51.02,
    "a200": 45.01,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.19,
-   "r": 43.6
+   "a20": 49.22,
+   "r": 44.4
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 56.8,
-   "c": -3.89,
-   "a50": 57.33,
-   "a200": 57.99,
+   "p": 58.3,
+   "c": -1.35,
+   "a50": 57.36,
+   "a200": 58.0,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.24,
-   "r": 48.5
+   "a20": 56.31,
+   "r": 54.7
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46251.98,
-   "c": -1.47,
-   "a50": 45004.99,
-   "a200": 37722.48,
+   "p": 46184.85,
+   "c": -1.61,
+   "a50": 45003.65,
+   "a200": 37722.14,
    "yh": 47741.51,
    "yl": 25215.71,
-   "a20": 46028.65,
-   "r": 53.1
+   "a20": 46025.29,
+   "r": 52.6
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 105.7,
-   "c": -1.79,
-   "a50": 88.64,
-   "a200": 84.64,
+   "p": 105.32,
+   "c": -2.15,
+   "a50": 88.63,
+   "a200": 84.63,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 94.14,
-   "r": 70.9
+   "a20": 94.12,
+   "r": 70.0
   },
   {
    "s": "GC=F",
-   "p": 4375.9,
-   "c": 0.26,
-   "a50": 4266.15,
-   "a200": 4526.85,
+   "p": 4384.8,
+   "c": 0.47,
+   "a50": 4266.32,
+   "a200": 4526.9,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4468.8,
-   "r": 48.6
+   "a20": 4469.25,
+   "r": 49.3
   },
   {
    "s": "HG=F",
    "p": 6.56,
-   "c": 1.39,
+   "c": 1.45,
    "a50": 6.46,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 50.0
+   "r": 50.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03165559,
-   "c": -0.39,
+   "p": 0.03156566,
+   "c": -0.69,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110066.aspx"
   },
   {
-   "t": "Why ServiceTitan Stock Is Crashing Today",
+   "t": "Casey’s General Stores Earnings Beat Estimates. Why the Stock Is Falling.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-servicetitan-stock-crashing-today-175035401.html"
+   "u": "https://www.barrons.com/articles/caseys-general-earnings-stock-price-2c2bdf66?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "賴總統公布遺贈稅法修正　財部釋4大重點將加強宣導",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110064.aspx"
   },
   {
-   "t": "Hyperliquid Price Prediction: HYPE Eyes $100 as Risks Rise",
+   "t": "Robinhood (HOOD) Chain’s Early Revenue Is Explosive. But Can It Last?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-price-prediction-hype-eyes-174644331.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/robinhood-hood-chain-early-revenue-181532415.html"
   },
   {
    "t": "中華車拚2035年再生能源占比35%　重申2050淨零",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110048.aspx"
   },
   {
-   "t": "AI Boom Could Worsen Stock Sell-Off, Analysts Warn. These Are The Risks They See.",
+   "t": "How to Research Any ETF in Five Minutes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/bear-market-ai-stocks-artificial-intelligence-fitch/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/options/articles/research-etf-five-minutes-181253053.html"
   },
   {
    "t": "AI需求緩解對燒錢疑慮　甲骨文財報優於預期",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110044.aspx"
   },
   {
-   "t": "Grab Netflix Stock Now With Both Hands",
+   "t": "Crypto ETFs in 2026: Bitcoin, Ethereum and the Altcoin Wave Explained",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/grab-netflix-stock-now-both-173709841.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/crypto-etfs-2026-bitcoin-ethereum-181003287.html"
   },
   {
    "t": "美光員工獎酬出爐　台灣初階工程師平均薪酬340萬元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110037.aspx"
   },
   {
-   "t": "Core & Main, Inc. Q2 2027 Earnings Call Summary",
+   "t": "United Microelectronics Sales Jump 30% in August. UMC Stock Has More Room to Run.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/core-main-inc-q2-2027-173606411.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/united-microelectronics-sales-jump-30-182116964.html"
   },
   {
    "t": "日經指數盤中重挫3%　油價飆升通膨憂慮加劇",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110035.aspx"
   },
   {
-   "t": "Cramer: GE Aerospace’s $12 Billion Acquisition Is ‘Going to Send This Stock Up’",
+   "t": "Cigna Group Executive Neville Everett Sells 617 Shares for $175,000",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cramer-ge-aerospace-12-billion-174741620.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cigna-group-executive-neville-everett-181001343.html"
   }
  ],
  "inst": {
