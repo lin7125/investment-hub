@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 15:23（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 15:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 17.84,
-   "c": 8.38,
-   "a50": 16.12,
-   "a200": 18.11,
+   "p": 17.51,
+   "c": -1.85,
+   "a50": 16.15,
+   "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.37,
-   "r": 60.6
+   "a20": 15.53,
+   "r": 58.7
   },
   {
    "s": "BZ=F",
-   "p": 105.14,
-   "c": -2.31,
+   "p": 105.4,
+   "c": -2.07,
    "a50": 88.63,
    "a200": 84.63,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 94.11,
-   "r": 69.6
+   "a20": 94.13,
+   "r": 70.2
   },
   {
    "s": "GC=F",
-   "p": 4394.8,
-   "c": 0.69,
-   "a50": 4266.52,
-   "a200": 4526.95,
+   "p": 4391.1,
+   "c": 0.61,
+   "a50": 4266.45,
+   "a200": 4526.93,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.75,
-   "r": 50.0
+   "a20": 4469.56,
+   "r": 49.7
   },
   {
    "s": "HG=F",
    "p": 6.57,
-   "c": 1.66,
+   "c": 1.65,
    "a50": 6.46,
    "a200": 6.02,
    "yh": 6.8,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03162555,
-   "c": -0.49,
+   "c": -0.5,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110133.aspx"
   },
   {
-   "t": "Jim Cramer Picks J&J (JNJ) Over Eli Lilly (LLY) and Pfizer (PFE) Among These Healthcare Stocks",
+   "t": "Why Comcast Stock Is One of the Worst Performers in the S&P 500 Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/jim-cramer-picks-j-j-191240795.html"
+   "u": "https://www.barrons.com/articles/comcast-stock-charter-communications-s-p-500-48ede73b?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "9月台股期指跌651點",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110132.aspx"
   },
   {
-   "t": "Stanley Druckenmiller triples stake in airline giant",
+   "t": "What is the average personal loan rate for September 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-triples-stake-airline-191300112.html"
+   "u": "https://finance.yahoo.com/markets/articles/average-personal-loan-interest-rate-005856676.html"
   },
   {
    "t": "伊雲谷布局企業級AI新版圖　3大支柱搶攻商機",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110131.aspx"
   },
   {
-   "t": "$6 Billion Treasury Buyback Fails To Calm 'Fever' As Oil Prices Jump",
+   "t": "Ahead of Oracle Earnings, Here's What Barchart Data Says Comes Next for ORCL Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/treasury-yields-bessent-buyback-sp-500-gold-oil-prices/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-oracle-earnings-heres-barchart-193333317.html"
   },
   {
    "t": "台股收跌755點　力守月線之上",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110130.aspx"
   },
   {
-   "t": "Apple Unveils Its First Foldable iPhone Today: The ETFs That Will Feel It Most",
+   "t": "Dollar Recovers on Smaller Treasury Buyback and Higher T-Note Yields",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/apple-unveils-first-foldable-iphone-191530683.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-recovers-smaller-treasury-buyback-194038439.html"
   },
   {
    "t": "台股跌755.64點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110129.aspx"
   },
   {
-   "t": "Nat-Gas Prices Sink on the Outlook for Weaker US Demand",
+   "t": "Credo (CRDO) Has Nearly 38% Upside to Rosenblatt’s Target—What’s Holding It Back?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-sink-outlook-191741208.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/credo-crdo-nearly-38-upside-194241514.html"
   },
   {
    "t": "Cybercab上路首選德州奧斯汀　凸顯科技聚落實力",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ait/202609110105.aspx"
   },
   {
-   "t": "Crude Oil Prices Surge as No End in Sight to US-Iran Conflict",
+   "t": "What Comes Next for NetApp (NTAP) After Enhanced Product Strategy and Record Earnings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-surge-no-191904947.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/comes-next-netapp-ntap-enhanced-194855844.html"
   }
  ],
  "inst": {
