@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-12 04:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-12 04:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,14 +300,14 @@
   },
   {
    "s": "GC=F",
-   "p": 4392.3,
-   "c": 0.64,
-   "a50": 4266.47,
-   "a200": 4526.94,
+   "p": 4390.2,
+   "c": 0.59,
+   "a50": 4266.43,
+   "a200": 4526.93,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.62,
-   "r": 49.8
+   "a20": 4469.52,
+   "r": 49.7
   },
   {
    "s": "HG=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03163556,
-   "c": -0.47,
+   "p": 0.03161555,
+   "c": -0.53,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110340.aspx"
   },
   {
-   "t": "Birkenstock Proves Premium Still Sells, Even as the Rest of Retail Struggles",
+   "t": "Morning Bid: Forever war?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/birkenstock-proves-premium-still-sells-103631645.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/morning-bid-forever-war-104203691.html"
   },
   {
    "t": "法國下修2026經濟成長預測　表現遜於鄰國",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110336.aspx"
   },
   {
-   "t": "Should you draw down your 401(k) to delay Social Security? The answer is simple — but only if you know this number",
+   "t": "Gold price today, Thursday, September 10, 2026: Gold prices steady ahead of inflation data and the Fed",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/draw-down-401-k-delay-104500181.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-september-10-2026-gold-prices-steady-ahead-of-inflation-data-and-the-fed-105217035.html"
   },
   {
    "t": "通膨壓力增  日媒：日銀擬升息至1.25%創31年新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110332.aspx"
   },
   {
-   "t": "Morning Bid: Forever war?",
+   "t": "Should you draw down your 401(k) to delay Social Security? The answer is simple — but only if you know this number",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/morning-bid-forever-war-104203691.html"
+   "u": "https://finance.yahoo.com/markets/articles/draw-down-401-k-delay-104500181.html"
   },
   {
    "t": "iPhone 18 Pro掀熱潮　電信業預約2分鐘額滿",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110331.aspx"
   },
   {
-   "t": "Gold price today, Thursday, September 10, 2026: Gold prices steady ahead of inflation data and the Fed",
+   "t": "FBI issues warning to US homeowners with 100% paid-off mortgages — new update reveals major risk. Is your house exposed?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-september-10-2026-gold-prices-steady-ahead-of-inflation-data-and-the-fed-105217035.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/fbi-issues-warning-us-homeowners-105500748.html"
   },
   {
    "t": "美股3大指數盤初漲逾1%　投資人評估美最新通膨數據",
