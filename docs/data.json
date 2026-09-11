@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-12 03:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-12 03:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 332.81,
-   "c": 1.91,
+   "p": 332.55,
+   "c": 1.83,
    "a50": 317.98,
-   "a200": 284.96,
+   "a200": 284.95,
    "yh": 340.08,
    "yl": 230.03,
-   "a20": 316.65,
-   "r": 63.1
+   "a20": 316.64,
+   "r": 63.0
   },
   {
    "s": "NVDA",
-   "p": 218.49,
-   "c": 0.06,
+   "p": 218.73,
+   "c": 0.17,
    "a50": 212.59,
    "a200": 197.47,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.17,
-   "r": 49.9
+   "a20": 220.18,
+   "r": 50.1
   },
   {
    "s": "TSLA",
-   "p": 364.89,
-   "c": 0.37,
-   "a50": 354.49,
-   "a200": 398.92,
+   "p": 366.03,
+   "c": 0.68,
+   "a50": 354.51,
+   "a200": 398.93,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.1,
-   "r": 54.2
+   "a20": 355.16,
+   "r": 54.7
   },
   {
    "s": "META",
-   "p": 649.48,
-   "c": 0.79,
-   "a50": 600.93,
-   "a200": 623.24,
+   "p": 648.49,
+   "c": 0.64,
+   "a50": 600.91,
+   "a200": 623.23,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 586.54,
-   "r": 67.5
+   "a20": 586.49,
+   "r": 67.3
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7663.29,
-   "c": 0.94,
-   "a50": 7607.47,
+   "p": 7661.85,
+   "c": 0.92,
+   "a50": 7607.44,
    "a200": 7162.58,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7685.5,
-   "r": 50.5
+   "a20": 7685.43,
+   "r": 50.4
   },
   {
    "s": "^VIX",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 104.91,
-   "c": -2.53,
+   "p": 104.81,
+   "c": -2.62,
    "a50": 88.62,
    "a200": 84.63,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 94.1,
-   "r": 69.1
+   "r": 68.9
   },
   {
    "s": "GC=F",
-   "p": 4392.2,
-   "c": 0.63,
-   "a50": 4266.47,
-   "a200": 4526.94,
+   "p": 4389.5,
+   "c": 0.57,
+   "a50": 4266.42,
+   "a200": 4526.92,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.62,
-   "r": 49.8
+   "a20": 4469.48,
+   "r": 49.6
   },
   {
    "s": "HG=F",
    "p": 6.55,
-   "c": 1.31,
+   "c": 1.22,
    "a50": 6.46,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 49.7
+   "r": 49.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03164557,
-   "c": -0.45,
+   "p": 0.03163556,
+   "c": -0.47,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110340.aspx"
   },
   {
-   "t": "Peter Schiff says the 7.76 cents of metal inside every nickel makes it a better bet than U.S. Treasuries",
+   "t": "Best CD rates today, Thursday, September 10, 2026: Lock in up to 4.35% APY with an 18-month CD",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/peter-schiff-says-7-76-093000403.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-september-10-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000213.html"
   },
   {
    "t": "法國下修2026經濟成長預測　表現遜於鄰國",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110336.aspx"
   },
   {
-   "t": "India Calls for Bigger Biofuel Push as Oil Prices Soar",
+   "t": "Wipro's AI push frees capacity equivalent to 20,000 workers, CTO says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/india-calls-bigger-biofuel-push-093000849.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/wipros-ai-push-frees-capacity-093712974.html"
   },
   {
    "t": "通膨壓力增  日媒：日銀擬升息至1.25%創31年新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110332.aspx"
   },
   {
-   "t": "Wipro's AI push frees capacity equivalent to 20,000 workers, CTO says",
+   "t": "Capital One and JPMorgan bet that fighting Trump may be safer than settling",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/wipros-ai-push-frees-capacity-093712974.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/capital-one-jpmorgan-bet-fighting-100910725.html"
   },
   {
    "t": "iPhone 18 Pro掀熱潮　電信業預約2分鐘額滿",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110331.aspx"
   },
   {
-   "t": "Dow Stock: Is DOW Outperforming the Materials Sector?",
+   "t": "Retirees watch out: 5 ‘hidden’ retirement misfires millions of American seniors overlook. Which ones did you miss?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dow-stock-dow-outperforming-materials-093128357.html"
+   "u": "https://finance.yahoo.com/markets/articles/retirees-watch-5-hidden-retirement-101500772.html"
   },
   {
    "t": "美股3大指數盤初漲逾1%　投資人評估美最新通膨數據",
