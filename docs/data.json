@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-12 01:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-12 01:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 334.38,
-   "c": 2.39,
+   "p": 334.49,
+   "c": 2.43,
    "a50": 318.02,
    "a200": 284.96,
    "yh": 340.08,
    "yl": 230.03,
-   "a20": 316.73,
-   "r": 64.0
+   "a20": 316.74,
+   "r": 64.1
   },
   {
    "s": "NVDA",
-   "p": 219.04,
-   "c": 0.31,
+   "p": 219.1,
+   "c": 0.34,
    "a50": 212.6,
    "a200": 197.48,
    "yh": 235.74,
@@ -234,24 +234,24 @@
   },
   {
    "s": "TSLA",
-   "p": 364.78,
-   "c": 0.34,
-   "a50": 354.48,
+   "p": 364.97,
+   "c": 0.39,
+   "a50": 354.49,
    "a200": 398.92,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.1,
-   "r": 54.2
+   "a20": 355.11,
+   "r": 54.3
   },
   {
    "s": "META",
-   "p": 648.47,
-   "c": 0.63,
-   "a50": 600.91,
+   "p": 648.7,
+   "c": 0.67,
+   "a50": 600.92,
    "a200": 623.23,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 586.49,
+   "a20": 586.5,
    "r": 67.3
   },
   {
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7669.26,
-   "c": 1.02,
-   "a50": 7607.58,
-   "a200": 7162.61,
+   "p": 7670.34,
+   "c": 1.04,
+   "a50": 7607.61,
+   "a200": 7162.62,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7685.8,
-   "r": 51.0
+   "a20": 7685.86,
+   "r": 51.1
   },
   {
    "s": "^VIX",
-   "p": 15.72,
-   "c": -11.88,
+   "p": 15.74,
+   "c": -11.77,
    "a50": 16.12,
    "a200": 18.09,
    "yh": 31.05,
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 105.01,
-   "c": -2.43,
+   "p": 105.11,
+   "c": -2.34,
    "a50": 88.62,
    "a200": 84.63,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 94.11,
-   "r": 69.3
+   "r": 69.5
   },
   {
    "s": "GC=F",
-   "p": 4402.5,
+   "p": 4402.6,
    "c": 0.87,
    "a50": 4266.68,
    "a200": 4526.99,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4470.13,
+   "a20": 4470.14,
    "r": 50.5
   },
   {
    "s": "HG=F",
-   "p": 6.55,
-   "c": 1.21,
+   "p": 6.54,
+   "c": 1.2,
    "a50": 6.46,
    "a200": 6.02,
    "yh": 6.8,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03164557,
-   "c": -0.44,
+   "p": 0.03163556,
+   "c": -0.45,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110336.aspx"
   },
   {
-   "t": "The complete list of credit card perks that reset each calendar year (2026)",
+   "t": "This Oil Stock Sails Near Entry, Profits Soar 452% As Strait of Hormuz Crisis Flares Up",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-card-perks-calendar-year-214541060.html"
+   "u": "https://www.investors.com/stock-lists/stock-spotlight/oil-stock-torm-trmd-profit-growth-strait-of-hormuz-crisis-markets/?src=A00220&yptr=yahoo"
   },
   {
    "t": "通膨壓力增  日媒：日銀擬升息至1.25%創31年新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110332.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as CPI remains sticky, Fed rate-hike bets jump",
+   "t": "Wall St bounces as oil cools, inflation risks keeps Fed in focus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-recover-oil-095547409.html"
   },
   {
    "t": "iPhone 18 Pro掀熱潮　電信業預約2分鐘額滿",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110331.aspx"
   },
   {
-   "t": "This Oil Stock Sails Near Entry, Profits Soar 452% As Strait of Hormuz Crisis Flares Up",
+   "t": "GameStop Finds A Bulk Buyer For Its Stock — Its Own CEO",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/stock-lists/stock-spotlight/oil-stock-torm-trmd-profit-growth-strait-of-hormuz-crisis-markets/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/gamestop-ceo-ryan-cohen-ebay-merger-meme-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "美股3大指數盤初漲逾1%　投資人評估美最新通膨數據",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110327.aspx"
   },
   {
-   "t": "Wall St bounces as oil cools, inflation risks keeps Fed in focus",
+   "t": "High-Grade Monthly: Summer sprint continues post-Labor Day as rates soar",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-recover-oil-095547409.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/high-grade-monthly-summer-sprint-160721899.html"
   },
   {
    "t": "今彩539第115221期　頭獎2注中獎",
