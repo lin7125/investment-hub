@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 15:33（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 15:44（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.51,
-   "c": -1.85,
+   "p": 17.54,
+   "c": -1.68,
    "a50": 16.15,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.53,
-   "r": 58.7
+   "r": 58.8
   },
   {
    "s": "BZ=F",
-   "p": 105.4,
-   "c": -2.07,
-   "a50": 88.63,
-   "a200": 84.63,
+   "p": 105.69,
+   "c": -1.8,
+   "a50": 88.64,
+   "a200": 84.64,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 94.13,
-   "r": 70.2
+   "a20": 94.14,
+   "r": 70.8
   },
   {
    "s": "GC=F",
-   "p": 4391.1,
-   "c": 0.61,
-   "a50": 4266.45,
-   "a200": 4526.93,
+   "p": 4386.6,
+   "c": 0.51,
+   "a50": 4266.36,
+   "a200": 4526.91,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.56,
-   "r": 49.7
+   "a20": 4469.34,
+   "r": 49.4
   },
   {
    "s": "HG=F",
    "p": 6.57,
-   "c": 1.65,
+   "c": 1.53,
    "a50": 6.46,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 50.7
+   "r": 50.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03162555,
-   "c": -0.5,
+   "c": -0.49,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110133.aspx"
   },
   {
-   "t": "Why Comcast Stock Is One of the Worst Performers in the S&P 500 Today",
+   "t": "What is the average personal loan rate for September 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/comcast-stock-charter-communications-s-p-500-48ede73b?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/articles/average-personal-loan-interest-rate-005856676.html"
   },
   {
    "t": "9月台股期指跌651點",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110132.aspx"
   },
   {
-   "t": "What is the average personal loan rate for September 2026?",
+   "t": "Why Is The Bancorp Stock Down 21% Today?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/average-personal-loan-interest-rate-005856676.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-bancorp-stock-down-21-193249121.html"
   },
   {
    "t": "伊雲谷布局企業級AI新版圖　3大支柱搶攻商機",
