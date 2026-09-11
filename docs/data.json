@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-12 01:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-12 02:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 332.99,
-   "c": 1.97,
+   "p": 333.07,
+   "c": 1.99,
    "a50": 317.99,
    "a200": 284.96,
    "yh": 340.08,
    "yl": 230.03,
-   "a20": 316.66,
-   "r": 63.2
+   "a20": 316.67,
+   "r": 63.3
   },
   {
    "s": "NVDA",
-   "p": 219.27,
-   "c": 0.42,
+   "p": 219.1,
+   "c": 0.34,
    "a50": 212.6,
    "a200": 197.48,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.21,
-   "r": 50.6
+   "a20": 220.2,
+   "r": 50.4
   },
   {
    "s": "TSLA",
-   "p": 364.98,
-   "c": 0.39,
+   "p": 365.03,
+   "c": 0.4,
    "a50": 354.49,
    "a200": 398.92,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 649.0,
-   "c": 0.72,
-   "a50": 600.92,
+   "p": 649.71,
+   "c": 0.83,
+   "a50": 600.94,
    "a200": 623.24,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 586.52,
-   "r": 67.4
+   "a20": 586.55,
+   "r": 67.5
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7671.95,
-   "c": 1.06,
-   "a50": 7607.64,
-   "a200": 7162.63,
+   "p": 7671.15,
+   "c": 1.05,
+   "a50": 7607.62,
+   "a200": 7162.62,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7685.94,
+   "a20": 7685.9,
    "r": 51.2
   },
   {
    "s": "^VIX",
-   "p": 15.64,
-   "c": -12.33,
+   "p": 15.66,
+   "c": -12.22,
    "a50": 16.11,
    "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.44,
-   "r": 49.6
+   "r": 49.7
   },
   {
    "s": "BZ=F",
-   "p": 104.65,
-   "c": -2.77,
-   "a50": 88.62,
+   "p": 104.47,
+   "c": -2.94,
+   "a50": 88.61,
    "a200": 84.63,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 94.09,
-   "r": 68.5
+   "a20": 94.08,
+   "r": 68.1
   },
   {
    "s": "GC=F",
-   "p": 4403.4,
-   "c": 0.89,
-   "a50": 4266.7,
-   "a200": 4526.99,
+   "p": 4404.7,
+   "c": 0.92,
+   "a50": 4266.72,
+   "a200": 4527.0,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4470.18,
-   "r": 50.6
+   "a20": 4470.24,
+   "r": 50.7
   },
   {
    "s": "HG=F",
    "p": 6.55,
-   "c": 1.27,
+   "c": 1.3,
    "a50": 6.46,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 49.6
+   "r": 49.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03164557,
-   "c": -0.43,
+   "c": -0.42,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110340.aspx"
   },
   {
-   "t": "Is gold really a hedge against inflation?",
+   "t": "Why Treasury’s $6 billion bond buyback didn’t lower mortgage rates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/is-gold-a-hedge-against-inflation-174122603.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/why-treasurys-6-billion-bond-buyback-didnt-lower-mortgage-rates-174923069.html"
   },
   {
    "t": "法國下修2026經濟成長預測　表現遜於鄰國",
@@ -362,7 +362,7 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110336.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as CPI remains sticky, Fed rate-hike bets jump",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as CPI fuels Fed rate-hike bets, oil prices fall",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110332.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Rallies On Surprise Inflation Data; Analog Devices Retakes Key Level (Live Coverage)",
+   "t": "US consumer prices accelerate in August, push Fed closer to rate hike",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-report-oracle-stock-orcl/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/policy/articles/us-consumer-inflation-picks-august-123741290.html"
   },
   {
    "t": "iPhone 18 Pro掀熱潮　電信業預約2分鐘額滿",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110331.aspx"
   },
   {
-   "t": "MoneyHero Limited Class A Ordinary Shares Q3 2026 Earnings Call Summary",
+   "t": "Is gold really a hedge against inflation?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/moneyhero-limited-class-ordinary-shares-170537009.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/is-gold-a-hedge-against-inflation-174122603.html"
   },
   {
    "t": "美股3大指數盤初漲逾1%　投資人評估美最新通膨數據",
