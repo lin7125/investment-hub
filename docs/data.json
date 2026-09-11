@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-12 04:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-12 04:11（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,51 +278,51 @@
   },
   {
    "s": "^VIX",
-   "p": 15.87,
-   "c": -11.04,
+   "p": 15.83,
+   "c": -11.27,
    "a50": 16.12,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.45,
-   "r": 50.6
+   "r": 50.4
   },
   {
    "s": "BZ=F",
-   "p": 104.93,
-   "c": -2.51,
+   "p": 104.99,
+   "c": -2.45,
    "a50": 88.62,
    "a200": 84.63,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 94.1,
-   "r": 69.1
+   "a20": 94.11,
+   "r": 69.3
   },
   {
    "s": "GC=F",
-   "p": 4390.7,
-   "c": 0.6,
-   "a50": 4266.44,
-   "a200": 4526.93,
+   "p": 4392.4,
+   "c": 0.64,
+   "a50": 4266.48,
+   "a200": 4526.94,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.54,
-   "r": 49.7
+   "a20": 4469.63,
+   "r": 49.8
   },
   {
    "s": "HG=F",
    "p": 6.55,
-   "c": 1.25,
+   "c": 1.24,
    "a50": 6.46,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 49.6
+   "r": 49.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03164557,
+   "p": 0.03163556,
    "c": -0.45,
    "a50": 0.03122073,
    "a200": 0.0315557,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110340.aspx"
   },
   {
-   "t": "Jamie Dimon says Gen Z faces 'complex' career paths — but lists the timeless principles that still drive success",
+   "t": "Retirees watch out: 5 ‘hidden’ retirement misfires millions of American seniors overlook. Which ones did you miss?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/jamie-dimon-says-gen-z-103000236.html"
+   "u": "https://finance.yahoo.com/markets/articles/retirees-watch-5-hidden-retirement-101500772.html"
   },
   {
    "t": "法國下修2026經濟成長預測　表現遜於鄰國",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609110336.aspx"
   },
   {
-   "t": "U.S. Stock Futures Slip as Oil Extends Gains, PPI Data and Oracle Earnings on Tap",
+   "t": "Jamie Dimon says Gen Z faces 'complex' career paths — but lists the timeless principles that still drive success",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-slip-oil-103033801.html"
+   "u": "https://finance.yahoo.com/small-business/articles/jamie-dimon-says-gen-z-103000236.html"
   },
   {
    "t": "通膨壓力增  日媒：日銀擬升息至1.25%創31年新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110332.aspx"
   },
   {
-   "t": "Birkenstock Proves Premium Still Sells, Even as the Rest of Retail Struggles",
+   "t": "U.S. Stock Futures Slip as Oil Extends Gains, PPI Data and Oracle Earnings on Tap",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/birkenstock-proves-premium-still-sells-103631645.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-slip-oil-103033801.html"
   },
   {
    "t": "iPhone 18 Pro掀熱潮　電信業預約2分鐘額滿",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110331.aspx"
   },
   {
-   "t": "Morning Bid: Forever war?",
+   "t": "Capital One and JPMorgan bet that fighting Trump may be safer than settling",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/morning-bid-forever-war-104203691.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/capital-one-jpmorgan-bet-fighting-100910725.html"
   },
   {
    "t": "美股3大指數盤初漲逾1%　投資人評估美最新通膨數據",
