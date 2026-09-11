@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-12 01:34（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-12 01:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 333.83,
-   "c": 2.22,
-   "a50": 318.01,
+   "p": 333.25,
+   "c": 2.04,
+   "a50": 317.99,
    "a200": 284.96,
    "yh": 340.08,
    "yl": 230.03,
-   "a20": 316.7,
-   "r": 63.7
+   "a20": 316.67,
+   "r": 63.4
   },
   {
    "s": "NVDA",
-   "p": 219.26,
-   "c": 0.41,
+   "p": 219.27,
+   "c": 0.42,
    "a50": 212.6,
    "a200": 197.48,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 366.4,
-   "c": 0.78,
-   "a50": 354.52,
+   "p": 365.39,
+   "c": 0.5,
+   "a50": 354.5,
    "a200": 398.93,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.18,
-   "r": 54.8
+   "a20": 355.13,
+   "r": 54.4
   },
   {
    "s": "META",
-   "p": 650.53,
-   "c": 0.95,
-   "a50": 600.95,
+   "p": 649.16,
+   "c": 0.74,
+   "a50": 600.92,
    "a200": 623.24,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 586.59,
-   "r": 67.7
+   "a20": 586.52,
+   "r": 67.4
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7674.23,
-   "c": 1.09,
-   "a50": 7607.68,
-   "a200": 7162.64,
+   "p": 7671.79,
+   "c": 1.05,
+   "a50": 7607.64,
+   "a200": 7162.63,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7686.05,
-   "r": 51.4
+   "a20": 7685.93,
+   "r": 51.2
   },
   {
    "s": "^VIX",
-   "p": 15.68,
-   "c": -12.11,
+   "p": 15.67,
+   "c": -12.16,
    "a50": 16.11,
    "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.44,
-   "r": 49.8
+   "r": 49.7
   },
   {
    "s": "BZ=F",
-   "p": 104.3,
-   "c": -3.09,
+   "p": 104.26,
+   "c": -3.13,
    "a50": 88.61,
    "a200": 84.63,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 94.07,
-   "r": 67.8
+   "r": 67.7
   },
   {
    "s": "GC=F",
-   "p": 4410.9,
-   "c": 1.06,
-   "a50": 4266.85,
+   "p": 4411.5,
+   "c": 1.08,
+   "a50": 4266.86,
    "a200": 4527.03,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4470.55,
+   "a20": 4470.58,
    "r": 51.1
   },
   {
    "s": "HG=F",
-   "p": 6.55,
-   "c": 1.35,
+   "p": 6.56,
+   "c": 1.41,
    "a50": 6.46,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 49.8
+   "r": 50.0
   },
   {
    "s": "TWDUSD",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "美國8月通膨率停留在高點　聯準會升息機率增",
+   "t": "美通膨數據符合預期　歐股跌深反彈",
    "pub": "中央社財經",
-   "d": "2026-09-11",
-   "u": "https://www.cna.com.tw/news/aopl/202609110340.aspx"
+   "d": "2026-09-12",
+   "u": "https://www.cna.com.tw/news/afe/202609120002.aspx"
   },
   {
    "t": "Popular women's clothing chain closes 177 stores",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/popular-womens-clothing-chain-closes-231700943.html"
   },
   {
-   "t": "法國下修2026經濟成長預測　表現遜於鄰國",
+   "t": "美國8月通膨率停留在高點　聯準會升息機率增",
    "pub": "中央社財經",
    "d": "2026-09-11",
-   "u": "https://www.cna.com.tw/news/aopl/202609110336.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609110340.aspx"
   },
   {
    "t": "Stock market today: Dow, S&P 500, Nasdaq rise as CPI remains sticky, Fed rate-hike bets jump",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"
   },
   {
-   "t": "通膨壓力增  日媒：日銀擬升息至1.25%創31年新高",
+   "t": "法國下修2026經濟成長預測　表現遜於鄰國",
    "pub": "中央社財經",
    "d": "2026-09-11",
-   "u": "https://www.cna.com.tw/news/afe/202609110332.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609110336.aspx"
   },
   {
    "t": "Stock Market Today: Dow Rallies On Surprise Inflation Data; Analog Devices Retakes Key Level (Live Coverage)",
@@ -368,10 +368,10 @@
    "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-report-oracle-stock-orcl/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "iPhone 18 Pro掀熱潮　電信業預約2分鐘額滿",
+   "t": "通膨壓力增  日媒：日銀擬升息至1.25%創31年新高",
    "pub": "中央社財經",
    "d": "2026-09-11",
-   "u": "https://www.cna.com.tw/news/afe/202609110331.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609110332.aspx"
   },
   {
    "t": "MoneyHero Limited Class A Ordinary Shares Q3 2026 Earnings Call Summary",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/moneyhero-limited-class-ordinary-shares-170537009.html"
   },
   {
-   "t": "美股3大指數盤初漲逾1%　投資人評估美最新通膨數據",
+   "t": "iPhone 18 Pro掀熱潮　電信業預約2分鐘額滿",
    "pub": "中央社財經",
    "d": "2026-09-11",
-   "u": "https://www.cna.com.tw/news/afe/202609110327.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609110331.aspx"
   },
   {
    "t": "SpaceX just revealed an important timeline for launching data centers in space",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/article/spacex-just-revealed-an-important-timeline-for-launching-data-centers-in-space-170346515.html"
   },
   {
-   "t": "今彩539第115221期　頭獎2注中獎",
+   "t": "美股3大指數盤初漲逾1%　投資人評估美最新通膨數據",
    "pub": "中央社財經",
    "d": "2026-09-11",
-   "u": "https://www.cna.com.tw/news/ahel/202609110326.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609110327.aspx"
   },
   {
    "t": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
