@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11 15:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-11 16:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.61,
-   "c": -1.29,
-   "a50": 16.15,
+   "p": 17.71,
+   "c": -0.73,
+   "a50": 16.16,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.54,
-   "r": 59.3
+   "r": 59.8
   },
   {
    "s": "BZ=F",
-   "p": 105.99,
-   "c": -1.52,
+   "p": 106.08,
+   "c": -1.44,
    "a50": 88.64,
    "a200": 84.64,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 94.16,
-   "r": 71.5
+   "r": 71.8
   },
   {
    "s": "GC=F",
-   "p": 4386.5,
-   "c": 0.5,
-   "a50": 4266.36,
-   "a200": 4526.91,
+   "p": 4383.8,
+   "c": 0.44,
+   "a50": 4266.3,
+   "a200": 4526.89,
    "yh": 5318.4,
    "yl": 3636.9,
-   "a20": 4469.33,
-   "r": 49.4
+   "a20": 4469.2,
+   "r": 49.2
   },
   {
    "s": "HG=F",
-   "p": 6.56,
-   "c": 1.4,
+   "p": 6.55,
+   "c": 1.31,
    "a50": 6.46,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.58,
-   "r": 50.0
+   "r": 49.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03162555,
-   "c": -0.49,
+   "p": 0.03161555,
+   "c": -0.52,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033091,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110133.aspx"
   },
   {
-   "t": "What is the average personal loan rate for September 2026?",
+   "t": "Zcash Is Up More Than 2,000% in a Year While XRP, Solana and Cardano Are All Down. What Zcash Has That They Do Not.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/average-personal-loan-interest-rate-005856676.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/zcash-more-2-000-while-195426068.html"
   },
   {
    "t": "9月台股期指跌651點",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110132.aspx"
   },
   {
-   "t": "Why Is The Bancorp Stock Down 21% Today?",
+   "t": "Netskope (NTSK) Rides AI Security Wave to 29% Topline Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-bancorp-stock-down-21-193249121.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/netskope-ntsk-rides-ai-security-195838867.html"
   },
   {
    "t": "伊雲谷布局企業級AI新版圖　3大支柱搶攻商機",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110131.aspx"
   },
   {
-   "t": "Ahead of Oracle Earnings, Here's What Barchart Data Says Comes Next for ORCL Stock",
+   "t": "U.S. Administration Eyes Venezuela’s Critical Minerals",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ahead-oracle-earnings-heres-barchart-193333317.html"
+   "u": "https://finance.yahoo.com/energy/articles/u-administration-eyes-venezuela-critical-200000849.html"
   },
   {
    "t": "台股收跌755點　力守月線之上",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110130.aspx"
   },
   {
-   "t": "Dollar Recovers on Smaller Treasury Buyback and Higher T-Note Yields",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields climb, oil tops $100",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-recovers-smaller-treasury-buyback-194038439.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-9-dow-sp-500-nasdaq-futures-080411279.html"
   },
   {
    "t": "台股跌755.64點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609110129.aspx"
   },
   {
-   "t": "Credo (CRDO) Has Nearly 38% Upside to Rosenblatt’s Target—What’s Holding It Back?",
+   "t": "Ollie’s (OLLI) Earnings Jump 43% Despite Falling Comparable Sales—Can Store Growth Keep It Going?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/credo-crdo-nearly-38-upside-194241514.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ollie-olli-earnings-jump-43-200426675.html"
   },
   {
    "t": "Cybercab上路首選德州奧斯汀　凸顯科技聚落實力",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ait/202609110105.aspx"
   },
   {
-   "t": "What Comes Next for NetApp (NTAP) After Enhanced Product Strategy and Record Earnings",
+   "t": "Can Microsoft Stock Keep Earning Like This?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/comes-next-netapp-ntap-enhanced-194855844.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-keep-earning-195439759.html"
   }
  ],
  "inst": {
