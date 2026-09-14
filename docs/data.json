@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 06:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 07:03（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 106.24,
-   "c": 1.56,
+   "p": 106.3,
+   "c": 1.62,
    "a50": 89.3,
-   "a200": 84.84,
+   "a200": 84.85,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 94.97,
+   "a20": 94.98,
    "r": 70.1
   },
   {
    "s": "GC=F",
-   "p": 4336.2,
-   "c": -1.65,
-   "a50": 4271.28,
-   "a200": 4528.24,
+   "p": 4334.8,
+   "c": -1.68,
+   "a50": 4271.25,
+   "a200": 4528.23,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4468.24,
-   "r": 46.0
+   "a20": 4468.17,
+   "r": 45.9
   },
   {
    "s": "HG=F",
    "p": 6.4,
-   "c": -1.04,
+   "c": -1.06,
    "a50": 6.47,
    "a200": 6.02,
    "yh": 6.8,
@@ -322,20 +322,20 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03153579,
-   "c": -0.22,
-   "a50": 0.03122073,
+   "p": 0.0315557,
+   "c": -0.06,
+   "a50": 0.03123048,
    "a200": 0.0315557,
-   "yh": 0.033036,
+   "yh": 0.032938,
    "yl": 0.030864
   }
  ],
  "news": [
   {
-   "t": "中東戰事推升油價 美10年期公債殖利率破5%",
+   "t": "美10年期公債殖利率升破5%關卡　市場關注Fed動向",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/aopl/202609150004.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609150014.aspx"
   },
   {
    "t": "Another coffeehouse files for Chapter 11 as costs, prices rise",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html"
   },
   {
-   "t": "國際油價攀升、AI交易受挫　歐股大多收跌",
+   "t": "科技巨擘籲放緩發展AI　美股收跌費半指數挫近6%",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/afe/202609150003.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609150012.aspx"
   },
   {
    "t": "AI agents to start spending your money with Visa, Mastercard",
@@ -356,10 +356,22 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html"
   },
   {
-   "t": "非必要性醫療可能遭拒賠　金管會要求保險業加強資訊揭露",
+   "t": "沙烏地關閉重要油管帶來供應風險　國際油價續升",
    "pub": "中央社財經",
-   "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140287.aspx"
+   "d": "2026-09-15",
+   "u": "https://www.cna.com.tw/news/afe/202609150011.aspx"
+  },
+  {
+   "t": "Amgen (AMGN) Fell 5% on a Drug That Isn’t Even Its Own. Here’s the Lp(a) Bet Now in Question.",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html"
+  },
+  {
+   "t": "中東戰事推升油價 美10年期公債殖利率破5%",
+   "pub": "中央社財經",
+   "d": "2026-09-15",
+   "u": "https://www.cna.com.tw/news/aopl/202609150004.aspx"
   },
   {
    "t": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
@@ -368,10 +380,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html"
   },
   {
-   "t": "韓股盤後交易新制生效　小型股價格劇烈波動",
+   "t": "國際油價攀升、AI交易受挫　歐股大多收跌",
    "pub": "中央社財經",
-   "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140284.aspx"
+   "d": "2026-09-15",
+   "u": "https://www.cna.com.tw/news/afe/202609150003.aspx"
   },
   {
    "t": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
@@ -380,28 +392,16 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html"
   },
   {
-   "t": "今彩539第115223期　頭獎2注中獎",
+   "t": "非必要性醫療可能遭拒賠　金管會要求保險業加強資訊揭露",
    "pub": "中央社財經",
    "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/ahel/202609140283.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609140287.aspx"
   },
   {
    "t": "Is ConocoPhillips Stock Worth Buying Here? - Shorting COP Puts and Credit Spreads are Better Plays",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-worth-buying-shorting-140002756.html"
-  },
-  {
-   "t": "威力彩第115074期　頭獎槓龜",
-   "pub": "中央社財經",
-   "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/ahel/202609140282.aspx"
-  },
-  {
-   "t": "Amgen (AMGN) Fell 5% on a Drug That Isn’t Even Its Own. Here’s the Lp(a) Bet Now in Question.",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html"
   }
  ],
  "inst": {
