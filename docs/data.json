@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14 15:33（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-14 15:44（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.52,
-   "c": 10.61,
+   "p": 17.59,
+   "c": 11.05,
    "a50": 16.16,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.57,
-   "r": 57.0
+   "r": 57.2
   },
   {
    "s": "BZ=F",
-   "p": 107.39,
-   "c": 2.66,
+   "p": 107.6,
+   "c": 2.86,
    "a50": 89.33,
    "a200": 84.85,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.03,
-   "r": 71.2
+   "a20": 95.04,
+   "r": 71.3
   },
   {
    "s": "GC=F",
-   "p": 4362.0,
-   "c": -0.1,
-   "a50": 4270.94,
-   "a200": 4528.16,
+   "p": 4357.3,
+   "c": -0.2,
+   "a50": 4270.84,
+   "a200": 4528.13,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4467.4,
-   "r": 47.6
+   "a20": 4467.16,
+   "r": 47.2
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": 0.23,
+   "c": 0.17,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.57,
-   "r": 46.5
+   "r": 46.3
   },
   {
    "s": "TWDUSD",
    "p": 0.03149606,
-   "c": -0.37,
+   "c": -0.38,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033036,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140120.aspx"
   },
   {
-   "t": "Dear Nike Stock Fans, Mark Your Calendars for September 21",
+   "t": "Palo Alto Networks (PANW)’s AI Growth Faces a Higher Valuation Bar",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-nike-stock-fans-mark-193002692.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ai-215116717.html"
   },
   {
    "t": "9月電子期跌　金融期漲",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140117.aspx"
   },
   {
-   "t": "Palo Alto Networks (PANW)’s AI Growth Faces a Higher Valuation Bar",
+   "t": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ai-215116717.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html"
   },
   {
    "t": "9月台股期指跌407點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140116.aspx"
   },
   {
-   "t": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
+   "t": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html"
   },
   {
    "t": "台股量縮下跌322點　失守46000點和月線",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140113.aspx"
   },
   {
-   "t": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
+   "t": "ACV Auctions (ACVA) Was This Week’s Top Stock — Here’s What Drove Gains",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-week-top-220605819.html"
   },
   {
    "t": "台股跌322.33點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140112.aspx"
   },
   {
-   "t": "Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?",
+   "t": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/toast-stock-buy-record-9-195000742.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/openai-sam-altman-says-ill-201916714.html"
   }
  ],
  "inst": {
