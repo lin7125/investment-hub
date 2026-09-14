@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 02:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 02:57（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,29 +212,29 @@
   },
   {
    "s": "AAPL",
-   "p": 334.52,
-   "c": 0.68,
+   "p": 334.38,
+   "c": 0.64,
    "a50": 318.49,
    "a200": 285.25,
    "yh": 340.08,
    "yl": 236.7,
-   "a20": 318.06,
-   "r": 64.2
+   "a20": 318.05,
+   "r": 64.1
   },
   {
    "s": "NVDA",
-   "p": 212.37,
-   "c": -2.71,
-   "a50": 212.93,
+   "p": 212.4,
+   "c": -2.7,
+   "a50": 212.94,
    "a200": 197.62,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 219.52,
-   "r": 44.9
+   "r": 45.0
   },
   {
    "s": "TSLA",
-   "p": 360.88,
+   "p": 360.86,
    "c": -1.25,
    "a50": 353.85,
    "a200": 398.64,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 666.14,
-   "c": 2.79,
-   "a50": 602.57,
-   "a200": 623.5,
+   "p": 665.48,
+   "c": 2.69,
+   "a50": 602.55,
+   "a200": 623.49,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 590.28,
-   "r": 70.9
+   "a20": 590.25,
+   "r": 70.7
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7636.15,
-   "c": -0.27,
-   "a50": 7610.4,
+   "p": 7636.81,
+   "c": -0.26,
+   "a50": 7610.41,
    "a200": 7167.21,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7677.71,
+   "a20": 7677.74,
    "r": 48.2
   },
   {
    "s": "^VIX",
-   "p": 16.76,
-   "c": 5.81,
+   "p": 16.71,
+   "c": 5.49,
    "a50": 16.14,
    "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.53,
-   "r": 54.3
+   "a20": 15.52,
+   "r": 54.1
   },
   {
    "s": "BZ=F",
-   "p": 105.06,
-   "c": 0.43,
+   "p": 105.22,
+   "c": 0.58,
    "a50": 89.28,
    "a200": 84.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 94.91,
-   "r": 68.9
+   "a20": 94.92,
+   "r": 69.1
   },
   {
    "s": "GC=F",
-   "p": 4352.2,
-   "c": -1.29,
-   "a50": 4271.6,
-   "a200": 4528.32,
+   "p": 4348.0,
+   "c": -1.38,
+   "a50": 4271.51,
+   "a200": 4528.3,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4469.04,
-   "r": 47.0
+   "a20": 4468.83,
+   "r": 46.7
   },
   {
    "s": "HG=F",
-   "p": 6.42,
-   "c": -0.83,
+   "p": 6.41,
+   "c": -0.84,
    "a50": 6.47,
    "a200": 6.02,
    "yh": 6.8,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03150599,
-   "c": -0.34,
+   "p": 0.03149606,
+   "c": -0.35,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033036,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150003.aspx"
   },
   {
-   "t": "Roivant Sciences Ltd. (ROIV)’s Pulmonary Hypertension Breakthrough Could Transform Its Growth Story",
+   "t": "Mortgage and refinance interest rates today, Sunday, September 13, 2026: Mortgage rates surged higher in the last week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/roivant-sciences-ltd-roiv-pulmonary-094515386.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-13-2026-mortgage-rates-surged-higher-in-the-last-week-100000138.html"
   },
   {
    "t": "非必要性醫療可能遭拒賠　金管會要求保險業加強資訊揭露",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140287.aspx"
   },
   {
-   "t": "Campbell’s (CPB) Slashes Its Dividend To Fund A Brutal Reset",
+   "t": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/campbell-cpb-slashes-dividend-fund-094655845.html"
+   "u": "https://finance.yahoo.com/markets/article/a-highly-anticipated-fed-meeting-war-worries-and-an-unblinking-stock-market-what-to-watch-this-week-100000843.html"
   },
   {
    "t": "韓股盤後交易新制生效　小型股價格劇烈波動",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140284.aspx"
   },
   {
-   "t": "Diversified Energy’s (DEC) $1.8B Bet On Permian Scale",
+   "t": "Best CD rates today, Sunday, September 13, 2026: Lock in up to 4.35% APY",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/diversified-energy-dec-1-8b-093840663.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-13-2026-lock-in-up-to-435-apy-100000271.html"
   },
   {
    "t": "今彩539第115223期　頭獎2注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609140283.aspx"
   },
   {
-   "t": "Robinhood (HOOD) Expands Prediction Markets With Crypto.com Partnership",
+   "t": "Argan’s (AGX) Power Boom Comes With A Margin Catch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/robinhood-hood-expands-prediction-markets-094928525.html"
+   "u": "https://finance.yahoo.com/energy/articles/argan-agx-power-boom-comes-100043772.html"
   },
   {
    "t": "威力彩第115074期　頭獎槓龜",
