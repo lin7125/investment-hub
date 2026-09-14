@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14 16:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-14 16:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,29 +278,29 @@
   },
   {
    "s": "^VIX",
-   "p": 17.63,
-   "c": 11.3,
+   "p": 17.75,
+   "c": 12.06,
    "a50": 16.16,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.57,
-   "r": 57.4
+   "a20": 15.58,
+   "r": 57.7
   },
   {
    "s": "BZ=F",
-   "p": 107.78,
-   "c": 3.03,
-   "a50": 89.33,
-   "a200": 84.85,
+   "p": 108.44,
+   "c": 3.66,
+   "a50": 89.35,
+   "a200": 84.86,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.05,
-   "r": 71.5
+   "a20": 95.08,
+   "r": 72.1
   },
   {
    "s": "GC=F",
-   "p": 4353.3,
+   "p": 4353.2,
    "c": -0.3,
    "a50": 4270.76,
    "a200": 4528.11,
@@ -312,18 +312,18 @@
   {
    "s": "HG=F",
    "p": 6.45,
-   "c": -0.25,
+   "c": -0.32,
    "a50": 6.47,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.57,
-   "r": 44.9
+   "r": 44.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03147624,
-   "c": -0.43,
+   "p": 0.03148615,
+   "c": -0.4,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033036,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "金融勁揚不敵電子弱勢　台股量縮下跌322點失守月線",
+   "t": "研調：AI吃掉產能　NOR Flash下半年供需續失衡",
    "pub": "中央社財經",
    "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140126.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609140167.aspx"
   },
   {
    "t": "Jewelry chain closes 53 stores after shutting down 2 brands",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html"
   },
   {
-   "t": "324家台企參加法蘭克福汽配展　促成1.47億美元商機",
+   "t": "新台幣貶5分　收31.688元",
    "pub": "中央社財經",
    "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140120.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609140165.aspx"
   },
   {
    "t": "Palo Alto Networks (PANW)’s AI Growth Faces a Higher Valuation Bar",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ai-215116717.html"
   },
   {
-   "t": "9月電子期跌　金融期漲",
+   "t": "台灣三井商場營業額拚500億元　進軍物流桃園推首案",
    "pub": "中央社財經",
    "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140117.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609140153.aspx"
   },
   {
    "t": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
@@ -368,22 +368,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html"
   },
   {
-   "t": "9月台股期指跌407點",
+   "t": "董瑞斌：面對永續轉型資金缺口　借鏡國際混合金融經驗",
    "pub": "中央社財經",
    "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140116.aspx"
-  },
-  {
-   "t": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html"
-  },
-  {
-   "t": "台股量縮下跌322點　失守46000點和月線",
-   "pub": "中央社財經",
-   "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140113.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609140150.aspx"
   },
   {
    "t": "ACV Auctions (ACVA) Was This Week’s Top Stock — Here’s What Drove Gains",
@@ -392,16 +380,28 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-week-top-220605819.html"
   },
   {
-   "t": "台股跌322.33點",
+   "t": "科技股領跌　日經指數收黑",
    "pub": "中央社財經",
    "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140112.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609140149.aspx"
   },
   {
-   "t": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
+   "t": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-amd-elon-musk-212000632.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html"
+  },
+  {
+   "t": "科技巨頭籲放緩技術發展　亞洲AI概念股齊挫",
+   "pub": "中央社財經",
+   "d": "2026-09-14",
+   "u": "https://www.cna.com.tw/news/afe/202609140146.aspx"
+  },
+  {
+   "t": "10-Year Treasury Nears 5%, Raising CRE Financing Risk",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/real-estate/articles/10-treasury-nears-5-raising-213714187.html"
   }
  ],
  "inst": {
