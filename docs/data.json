@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14 15:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-14 15:13（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.25,
-   "c": -3.62,
+   "p": 44.95,
+   "c": -4.26,
    "a50": 50.5,
    "a200": 45.17,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 48.91,
-   "r": 41.6
+   "a20": 48.89,
+   "r": 41.1
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 107.35,
-   "c": 2.62,
+   "p": 107.56,
+   "c": 2.82,
    "a50": 89.33,
    "a200": 84.85,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.03,
-   "r": 71.1
+   "a20": 95.04,
+   "r": 71.3
   },
   {
    "s": "GC=F",
-   "p": 4364.7,
-   "c": -0.03,
-   "a50": 4270.99,
-   "a200": 4528.17,
+   "p": 4358.5,
+   "c": -0.18,
+   "a50": 4270.87,
+   "a200": 4528.14,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4467.54,
-   "r": 47.8
+   "a20": 4467.23,
+   "r": 47.3
   },
   {
    "s": "HG=F",
    "p": 6.47,
-   "c": 0.01,
+   "c": 0.05,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.57,
-   "r": 45.7
+   "r": 45.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03148615,
-   "c": -0.39,
+   "c": -0.4,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033036,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "富強鑫跨足半導體先進封裝　代理中科先峰玻璃基板設備",
+   "t": "金融勁揚不敵電子弱勢　台股量縮下跌322點失守月線",
    "pub": "中央社財經",
    "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140106.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609140126.aspx"
   },
   {
    "t": "Jewelry chain closes 53 stores after shutting down 2 brands",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html"
   },
   {
-   "t": "貨機墜邁阿密釀5死　亞馬遜暫停與21航空合作",
+   "t": "324家台企參加法蘭克福汽配展　促成1.47億美元商機",
    "pub": "中央社財經",
    "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140103.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609140120.aspx"
   },
   {
    "t": "Dear Nike Stock Fans, Mark Your Calendars for September 21",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/dear-nike-stock-fans-mark-193002692.html"
   },
   {
-   "t": "新台幣午盤貶7.9分　暫收31.717元",
+   "t": "9月電子期跌　金融期漲",
    "pub": "中央社財經",
    "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140081.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609140117.aspx"
   },
   {
    "t": "Palo Alto Networks (PANW)’s AI Growth Faces a Higher Valuation Bar",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ai-215116717.html"
   },
   {
-   "t": "動物大搬家40週年　檔案局開箱老照片重現圍觀盛況",
+   "t": "9月台股期指跌407點",
    "pub": "中央社財經",
    "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/ahel/202609140063.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609140116.aspx"
   },
   {
    "t": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html"
   },
   {
-   "t": "賴建信參加APEC部長會議　台美推AI與能源任務小組",
+   "t": "台股量縮下跌322點　失守46000點和月線",
    "pub": "中央社財經",
    "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140049.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609140113.aspx"
   },
   {
    "t": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
@@ -392,16 +392,16 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html"
   },
   {
-   "t": "金研院首辦海外金融實戰培訓　盼人才接軌全球市場",
+   "t": "台股跌322.33點",
    "pub": "中央社財經",
    "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140048.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609140112.aspx"
   },
   {
-   "t": "1 Magnificent Growth Stock Down 55% to Buy Right Now, According to Wall Street",
+   "t": "Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/1-magnificent-growth-stock-down-193500413.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/toast-stock-buy-record-9-195000742.html"
   }
  ],
  "inst": {
