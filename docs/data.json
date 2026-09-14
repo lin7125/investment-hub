@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 05:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 06:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -323,10 +323,10 @@
   {
    "s": "TWDUSD",
    "p": 0.03156566,
-   "c": -0.15,
-   "a50": 0.03122073,
+   "c": -0.02,
+   "a50": 0.03123048,
    "a200": 0.0315557,
-   "yh": 0.033036,
+   "yh": 0.032938,
    "yl": 0.030864
   }
  ],
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150003.aspx"
   },
   {
-   "t": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.",
+   "t": "LightPath’s (LPTH) Defense Pivot Just Showed Up In The Numbers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-expands-ai-capabilities-autonomous-130002831.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lightpath-lpth-defense-pivot-just-131404572.html"
   },
   {
    "t": "非必要性醫療可能遭拒賠　金管會要求保險業加強資訊揭露",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140287.aspx"
   },
   {
-   "t": "GF Securities Says NAND Prices May Stabilize Later This Year. What This Means for Sandisk Stock.",
+   "t": "Copart (CPRT) Bets On Digital Dealers As Core Volumes Shrink",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gf-securities-says-nand-prices-130002701.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-bets-digital-dealers-130853110.html"
   },
   {
    "t": "韓股盤後交易新制生效　小型股價格劇烈波動",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140284.aspx"
   },
   {
-   "t": "Lovesac’s (LOVE) Premium Sofas Shine While Entry-Level Buyers Stay Away",
+   "t": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lovesac-love-premium-sofas-shine-125527184.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-expands-ai-capabilities-autonomous-130002831.html"
   },
   {
    "t": "今彩539第115223期　頭獎2注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609140283.aspx"
   },
   {
-   "t": "Copart (CPRT) Bets On Digital Dealers As Core Volumes Shrink",
+   "t": "GF Securities Says NAND Prices May Stabilize Later This Year. What This Means for Sandisk Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-bets-digital-dealers-130853110.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/gf-securities-says-nand-prices-130002701.html"
   },
   {
    "t": "威力彩第115074期　頭獎槓龜",
@@ -405,79 +405,79 @@
   }
  ],
  "inst": {
-  "date": "2026-09-14",
+  "date": "2026-09-11",
   "byCode": {
-   "2327": {
-    "f": 3710,
-    "t": 740,
-    "all": 4048
-   },
-   "2317": {
-    "f": 179,
-    "t": 799,
-    "all": 1078
-   },
-   "2454": {
-    "f": 734,
-    "t": 106,
-    "all": 852
+   "6706": {
+    "f": 950,
+    "t": 0,
+    "all": 1039
    },
    "2305": {
-    "f": 582,
+    "f": 909,
     "t": 0,
-    "all": 747
-   },
-   "1802": {
-    "f": 694,
-    "t": 60,
-    "all": 634
-   },
-   "6446": {
-    "f": 519,
-    "t": 2,
-    "all": 525
-   },
-   "2308": {
-    "f": 308,
-    "t": -79,
-    "all": 349
-   },
-   "6706": {
-    "f": -231,
-    "t": 0,
-    "all": 215
-   },
-   "3701": {
-    "f": 19,
-    "t": 0,
-    "all": 19
+    "all": 928
    },
    "6862": {
-    "f": -2,
+    "f": 3,
     "t": 0,
-    "all": 0
+    "all": -6
    },
    "6515": {
-    "f": 57,
-    "t": -68,
-    "all": -9
+    "f": -29,
+    "t": 10,
+    "all": -15
+   },
+   "3701": {
+    "f": -5,
+    "t": 0,
+    "all": -18
    },
    "4722": {
-    "f": -15,
+    "f": -62,
     "t": 0,
-    "all": -21
+    "all": -50
+   },
+   "6446": {
+    "f": -254,
+    "t": 0,
+    "all": -260
    },
    "6442": {
-    "f": -105,
-    "t": 12,
-    "all": -155
+    "f": -248,
+    "t": -1,
+    "all": -300
+   },
+   "2454": {
+    "f": -743,
+    "t": 108,
+    "all": -656
+   },
+   "1802": {
+    "f": -381,
+    "t": 21,
+    "all": -686
+   },
+   "2317": {
+    "f": -3751,
+    "t": 410,
+    "all": -3386
+   },
+   "2308": {
+    "f": -3573,
+    "t": -536,
+    "all": -3805
+   },
+   "2327": {
+    "f": -5587,
+    "t": 565,
+    "all": -5560
    },
    "2330": {
-    "f": -11192,
-    "t": 532,
-    "all": -10463
+    "f": -8252,
+    "t": -181,
+    "all": -8833
    }
   },
-  "totalNetE": -483.6
+  "totalNetE": -1112.6
  }
 }
