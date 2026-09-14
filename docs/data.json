@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 06:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 06:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,44 +289,44 @@
   },
   {
    "s": "BZ=F",
-   "p": 106.15,
-   "c": 1.47,
+   "p": 106.29,
+   "c": 1.61,
    "a50": 89.3,
-   "a200": 84.84,
+   "a200": 84.85,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 94.97,
-   "r": 70.0
+   "a20": 94.98,
+   "r": 70.1
   },
   {
    "s": "GC=F",
-   "p": 4340.0,
+   "p": 4340.2,
    "c": -1.56,
-   "a50": 4271.35,
+   "a50": 4271.36,
    "a200": 4528.26,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4468.43,
+   "a20": 4468.44,
    "r": 46.2
   },
   {
    "s": "HG=F",
    "p": 6.4,
-   "c": -1.11,
+   "c": -1.04,
    "a50": 6.47,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.57,
-   "r": 42.4
+   "r": 42.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03156566,
-   "c": -0.02,
-   "a50": 0.03123048,
+   "c": -0.14,
+   "a50": 0.03122073,
    "a200": 0.0315557,
-   "yh": 0.032938,
+   "yh": 0.033036,
    "yl": 0.030864
   }
  ],
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150003.aspx"
   },
   {
-   "t": "LightPath’s (LPTH) Defense Pivot Just Showed Up In The Numbers",
+   "t": "AI agents to start spending your money with Visa, Mastercard",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lightpath-lpth-defense-pivot-just-131404572.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html"
   },
   {
    "t": "非必要性醫療可能遭拒賠　金管會要求保險業加強資訊揭露",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140287.aspx"
   },
   {
-   "t": "Copart (CPRT) Bets On Digital Dealers As Core Volumes Shrink",
+   "t": "Red Violet (RDVT) Turns Record Growth Into Real Profit Gains",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-bets-digital-dealers-130853110.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/red-violet-rdvt-turns-record-133658483.html"
   },
   {
    "t": "韓股盤後交易新制生效　小型股價格劇烈波動",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140284.aspx"
   },
   {
-   "t": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.",
+   "t": "PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-expands-ai-capabilities-autonomous-130002831.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-turns-lab-promises-133324594.html"
   },
   {
    "t": "今彩539第115223期　頭獎2注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609140283.aspx"
   },
   {
-   "t": "GF Securities Says NAND Prices May Stabilize Later This Year. What This Means for Sandisk Stock.",
+   "t": "Snowflake’s Blowout Quarter Adds to a Software Sector Already Rallying on AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gf-securities-says-nand-prices-130002701.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/snowflake-blowout-quarter-adds-software-133832576.html"
   },
   {
    "t": "威力彩第115074期　頭獎槓龜",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/ahel/202609140282.aspx"
   },
   {
-   "t": "AI agents to start spending your money with Visa, Mastercard",
+   "t": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/clear-channel-outdoor-cco-grows-132626831.html"
   }
  ],
  "inst": {
-  "date": "2026-09-11",
+  "date": "2026-09-14",
   "byCode": {
-   "6706": {
-    "f": 950,
-    "t": 0,
-    "all": 1039
-   },
-   "2305": {
-    "f": 909,
-    "t": 0,
-    "all": 928
-   },
-   "6862": {
-    "f": 3,
-    "t": 0,
-    "all": -6
-   },
-   "6515": {
-    "f": -29,
-    "t": 10,
-    "all": -15
-   },
-   "3701": {
-    "f": -5,
-    "t": 0,
-    "all": -18
-   },
-   "4722": {
-    "f": -62,
-    "t": 0,
-    "all": -50
-   },
-   "6446": {
-    "f": -254,
-    "t": 0,
-    "all": -260
-   },
-   "6442": {
-    "f": -248,
-    "t": -1,
-    "all": -300
-   },
-   "2454": {
-    "f": -743,
-    "t": 108,
-    "all": -656
-   },
-   "1802": {
-    "f": -381,
-    "t": 21,
-    "all": -686
+   "2327": {
+    "f": 3710,
+    "t": 740,
+    "all": 4048
    },
    "2317": {
-    "f": -3751,
-    "t": 410,
-    "all": -3386
+    "f": 179,
+    "t": 799,
+    "all": 1078
+   },
+   "2454": {
+    "f": 734,
+    "t": 106,
+    "all": 852
+   },
+   "2305": {
+    "f": 582,
+    "t": 0,
+    "all": 747
+   },
+   "1802": {
+    "f": 694,
+    "t": 60,
+    "all": 634
+   },
+   "6446": {
+    "f": 519,
+    "t": 2,
+    "all": 525
    },
    "2308": {
-    "f": -3573,
-    "t": -536,
-    "all": -3805
+    "f": 308,
+    "t": -79,
+    "all": 349
    },
-   "2327": {
-    "f": -5587,
-    "t": 565,
-    "all": -5560
+   "6706": {
+    "f": -231,
+    "t": 0,
+    "all": 215
+   },
+   "3701": {
+    "f": 19,
+    "t": 0,
+    "all": 19
+   },
+   "6862": {
+    "f": -2,
+    "t": 0,
+    "all": 0
+   },
+   "6515": {
+    "f": 57,
+    "t": -68,
+    "all": -9
+   },
+   "4722": {
+    "f": -15,
+    "t": 0,
+    "all": -21
+   },
+   "6442": {
+    "f": -105,
+    "t": 12,
+    "all": -155
    },
    "2330": {
-    "f": -8252,
-    "t": -181,
-    "all": -8833
+    "f": -11192,
+    "t": 532,
+    "all": -10463
    }
   },
-  "totalNetE": -1112.6
+  "totalNetE": -483.6
  }
 }
