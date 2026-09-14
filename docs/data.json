@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 06:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 06:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 106.29,
-   "c": 1.61,
-   "a50": 89.3,
+   "p": 106.41,
+   "c": 1.72,
+   "a50": 89.31,
    "a200": 84.85,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 94.98,
-   "r": 70.1
+   "r": 70.3
   },
   {
    "s": "GC=F",
-   "p": 4340.2,
-   "c": -1.56,
-   "a50": 4271.36,
-   "a200": 4528.26,
+   "p": 4337.7,
+   "c": -1.61,
+   "a50": 4271.31,
+   "a200": 4528.25,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4468.44,
-   "r": 46.2
+   "a20": 4468.32,
+   "r": 46.1
   },
   {
    "s": "HG=F",
    "p": 6.4,
-   "c": -1.04,
+   "c": -1.07,
    "a50": 6.47,
    "a200": 6.02,
    "yh": 6.8,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140287.aspx"
   },
   {
-   "t": "Red Violet (RDVT) Turns Record Growth Into Real Profit Gains",
+   "t": "Snowflake’s Blowout Quarter Adds to a Software Sector Already Rallying on AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/red-violet-rdvt-turns-record-133658483.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/snowflake-blowout-quarter-adds-software-133832576.html"
   },
   {
    "t": "韓股盤後交易新制生效　小型股價格劇烈波動",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140284.aspx"
   },
   {
-   "t": "PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality",
+   "t": "Red Violet (RDVT) Turns Record Growth Into Real Profit Gains",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-turns-lab-promises-133324594.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/red-violet-rdvt-turns-record-133658483.html"
   },
   {
    "t": "今彩539第115223期　頭獎2注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609140283.aspx"
   },
   {
-   "t": "Snowflake’s Blowout Quarter Adds to a Software Sector Already Rallying on AI",
+   "t": "The RealReal (REAL) Posts Record Sales, But The Losses Keep Growing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/snowflake-blowout-quarter-adds-software-133832576.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-posts-record-sales-134612583.html"
   },
   {
    "t": "威力彩第115074期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609140282.aspx"
   },
   {
-   "t": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
+   "t": "PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/clear-channel-outdoor-cco-grows-132626831.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-turns-lab-promises-133324594.html"
   }
  ],
  "inst": {
