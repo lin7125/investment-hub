@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14 16:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-14 17:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.77,
-   "c": 12.18,
-   "a50": 16.16,
+   "p": 17.93,
+   "c": 13.19,
+   "a50": 16.17,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.58,
-   "r": 57.8
+   "a20": 15.59,
+   "r": 58.3
   },
   {
    "s": "BZ=F",
-   "p": 107.95,
-   "c": 3.19,
+   "p": 108.17,
+   "c": 3.4,
    "a50": 89.34,
    "a200": 84.85,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.06,
-   "r": 71.6
+   "a20": 95.07,
+   "r": 71.8
   },
   {
    "s": "GC=F",
-   "p": 4352.2,
-   "c": -0.32,
-   "a50": 4270.74,
-   "a200": 4528.11,
+   "p": 4345.7,
+   "c": -0.47,
+   "a50": 4270.61,
+   "a200": 4528.07,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4466.91,
-   "r": 46.8
+   "a20": 4466.59,
+   "r": 46.4
   },
   {
    "s": "HG=F",
    "p": 6.45,
-   "c": -0.27,
+   "c": -0.32,
    "a50": 6.47,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.57,
-   "r": 44.8
+   "r": 44.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03150599,
-   "c": -0.34,
+   "p": 0.03151592,
+   "c": -0.28,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033036,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140165.aspx"
   },
   {
-   "t": "Palo Alto Networks (PANW)’s AI Growth Faces a Higher Valuation Bar",
+   "t": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ai-215116717.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html"
   },
   {
    "t": "台灣三井商場營業額拚500億元　進軍物流桃園推首案",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140153.aspx"
   },
   {
-   "t": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
+   "t": "ACV Auctions (ACVA) Was This Week’s Top Stock — Here’s What Drove Gains",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-week-top-220605819.html"
   },
   {
    "t": "董瑞斌：面對永續轉型資金缺口　借鏡國際混合金融經驗",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140149.aspx"
   },
   {
-   "t": "ACV Auctions (ACVA) Was This Week’s Top Stock — Here’s What Drove Gains",
+   "t": "Block, Inc (XYZ)’s Bank Charter Push Signals Bigger Ambitions in Digital Assets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-week-top-220605819.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/block-inc-xyz-bank-charter-220930244.html"
   },
   {
    "t": "科技巨頭籲放緩技術發展　亞洲AI概念股齊挫",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140146.aspx"
   },
   {
-   "t": "Bank Multifamily Delinquencies Dip as Credit Losses Rise",
+   "t": "Premium Offices Pull Ahead as Owners Rethink Workplaces",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/bank-multifamily-delinquencies-dip-credit-214756192.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/premium-offices-pull-ahead-owners-215949686.html"
   }
  ],
  "inst": {
