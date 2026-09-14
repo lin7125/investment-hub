@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 03:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 03:48（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 334.47,
-   "c": 0.66,
-   "a50": 318.49,
-   "a200": 285.25,
+   "p": 334.05,
+   "c": 0.53,
+   "a50": 318.48,
+   "a200": 285.24,
    "yh": 340.08,
    "yl": 236.7,
-   "a20": 318.05,
-   "r": 64.2
+   "a20": 318.03,
+   "r": 63.9
   },
   {
    "s": "NVDA",
-   "p": 211.8,
-   "c": -2.97,
-   "a50": 212.92,
+   "p": 212.09,
+   "c": -2.84,
+   "a50": 212.93,
    "a200": 197.62,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.49,
-   "r": 44.5
+   "a20": 219.51,
+   "r": 44.7
   },
   {
    "s": "TSLA",
-   "p": 360.33,
-   "c": -1.4,
-   "a50": 353.84,
+   "p": 360.2,
+   "c": -1.43,
+   "a50": 353.83,
    "a200": 398.64,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 356.03,
-   "r": 52.1
+   "r": 52.0
   },
   {
    "s": "META",
-   "p": 666.75,
-   "c": 2.89,
-   "a50": 602.58,
+   "p": 666.45,
+   "c": 2.84,
+   "a50": 602.57,
    "a200": 623.5,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 590.31,
-   "r": 71.0
+   "a20": 590.3,
+   "r": 70.9
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7629.0,
-   "c": -0.37,
-   "a50": 7610.25,
+   "p": 7629.63,
+   "c": -0.36,
+   "a50": 7610.27,
    "a200": 7167.17,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7677.35,
+   "a20": 7677.38,
    "r": 47.6
   },
   {
    "s": "^VIX",
-   "p": 16.86,
-   "c": 6.44,
+   "p": 16.84,
+   "c": 6.31,
    "a50": 16.14,
    "a200": 18.09,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 105.65,
-   "c": 0.99,
-   "a50": 89.29,
+   "p": 105.84,
+   "c": 1.18,
+   "a50": 89.3,
    "a200": 84.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 94.94,
-   "r": 69.5
+   "a20": 94.95,
+   "r": 69.7
   },
   {
    "s": "GC=F",
-   "p": 4338.5,
-   "c": -1.6,
-   "a50": 4271.32,
-   "a200": 4528.25,
+   "p": 4334.2,
+   "c": -1.69,
+   "a50": 4271.24,
+   "a200": 4528.23,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4468.36,
-   "r": 46.1
+   "a20": 4468.14,
+   "r": 45.9
   },
   {
    "s": "HG=F",
-   "p": 6.41,
-   "c": -0.95,
+   "p": 6.4,
+   "c": -1.0,
    "a50": 6.47,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.57,
-   "r": 42.9
+   "r": 42.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03149606,
-   "c": -0.37,
+   "p": 0.03147624,
+   "c": -0.44,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033036,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150003.aspx"
   },
   {
-   "t": "C3.ai (AI) Just Posted Its Most Promising Quarter In Years",
+   "t": "SpaceX Says a Mystery AI Customer Adds $1.11 Billion a Month. Google Shows How Fast Compute Is Growing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/c3-ai-ai-just-posted-102417897.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/spacex-says-mystery-ai-customer-104230984.html"
   },
   {
    "t": "非必要性醫療可能遭拒賠　金管會要求保險業加強資訊揭露",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140287.aspx"
   },
   {
-   "t": "Snowflake (SNOW) Is Growing Faster Now Than It Was A Year Ago",
+   "t": "REX American Resources (REX) Notches A Record Quarter, Then Doubts Creep In",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-growing-faster-now-102813308.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rex-american-resources-rex-notches-103748951.html"
   },
   {
    "t": "韓股盤後交易新制生效　小型股價格劇烈波動",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140284.aspx"
   },
   {
-   "t": "Retiree, 70, lost over $2,000 in an Amazon impersonation scam. How fraudsters got him ‘hook, line and sinker’",
+   "t": "How Bold Was Cotton's Move?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/retiree-70-lost-over-2-101500668.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/bold-cottons-move-104604438.html"
   },
   {
    "t": "今彩539第115223期　頭獎2注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609140283.aspx"
   },
   {
-   "t": "Gold.com (GOLD): On A Gold Rush With Cracks Underneath",
+   "t": "This 1 Costco item has skyrocketed 125% in price over just 2 years. And the retail behemoth is limiting member purchases",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gold-com-gold-gold-rush-101442314.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/1-costco-item-skyrocketed-125-104500067.html"
   },
   {
    "t": "威力彩第115074期　頭獎槓龜",
