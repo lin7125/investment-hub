@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14 14:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-14 14:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 106.76,
-   "c": 2.06,
+   "p": 106.81,
+   "c": 2.1,
    "a50": 89.31,
    "a200": 84.85,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4369.2,
-   "c": 0.07,
-   "a50": 4271.08,
-   "a200": 4528.19,
+   "p": 4371.7,
+   "c": 0.13,
+   "a50": 4271.13,
+   "a200": 4528.2,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4467.76,
-   "r": 48.1
+   "a20": 4467.89,
+   "r": 48.3
   },
   {
    "s": "HG=F",
    "p": 6.47,
-   "c": -0.05,
+   "c": -0.02,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.57,
-   "r": 45.5
+   "r": 45.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03151592,
-   "c": -0.29,
+   "p": 0.03150599,
+   "c": -0.34,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033036,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140103.aspx"
   },
   {
-   "t": "Google Just Dropped a Bombshell on AI Spending — Alphabet’s $200 Billion AI Bet Is Starting to Pay Off Big",
+   "t": "Dear Nike Stock Fans, Mark Your Calendars for September 21",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/google-just-dropped-bombshell-ai-185617741.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-nike-stock-fans-mark-193002692.html"
   },
   {
    "t": "新台幣午盤貶7.9分　暫收31.717元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140081.aspx"
   },
   {
-   "t": "Dear Nike Stock Fans, Mark Your Calendars for September 21",
+   "t": "Google Just Dropped a Bombshell on AI Spending — Alphabet’s $200 Billion AI Bet Is Starting to Pay Off Big",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-nike-stock-fans-mark-193002692.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/google-just-dropped-bombshell-ai-185617741.html"
   },
   {
    "t": "動物大搬家40週年　檔案局開箱老照片重現圍觀盛況",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609140063.aspx"
   },
   {
-   "t": "Dear UnitedHealth Stock Fans, Mark Your Calendars for October 1",
+   "t": "Palo Alto Networks (PANW)’s AI Growth Faces a Higher Valuation Bar",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/dear-unitedhealth-stock-fans-mark-183002378.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ai-215116717.html"
   },
   {
    "t": "賴建信參加APEC部長會議　台美推AI與能源任務小組",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140049.aspx"
   },
   {
-   "t": "Palo Alto Networks (PANW)’s AI Growth Faces a Higher Valuation Bar",
+   "t": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ai-215116717.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html"
   },
   {
    "t": "金研院首辦海外金融實戰培訓　盼人才接軌全球市場",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140048.aspx"
   },
   {
-   "t": "Zscaler CEO Highlights AI Security Surge, Zero-Trust Momentum at Citi Conference",
+   "t": "How Much Do You Really Need Invested in Bristol Myers Squibb to Collect $10,000 a Year?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/zscaler-ceo-highlights-ai-security-190159120.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/much-really-invested-bristol-myers-191537674.html"
   }
  ],
  "inst": {
