@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14 16:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-14 16:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,29 +278,29 @@
   },
   {
    "s": "^VIX",
-   "p": 17.75,
-   "c": 12.06,
+   "p": 17.86,
+   "c": 12.75,
    "a50": 16.16,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.58,
-   "r": 57.7
+   "r": 58.1
   },
   {
    "s": "BZ=F",
-   "p": 108.44,
-   "c": 3.66,
-   "a50": 89.35,
-   "a200": 84.86,
+   "p": 108.11,
+   "c": 3.35,
+   "a50": 89.34,
+   "a200": 84.85,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.08,
-   "r": 72.1
+   "a20": 95.07,
+   "r": 71.8
   },
   {
    "s": "GC=F",
-   "p": 4353.2,
+   "p": 4353.1,
    "c": -0.3,
    "a50": 4270.76,
    "a200": 4528.11,
@@ -312,7 +312,7 @@
   {
    "s": "HG=F",
    "p": 6.45,
-   "c": -0.32,
+   "c": -0.31,
    "a50": 6.47,
    "a200": 6.02,
    "yh": 6.8,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03148615,
-   "c": -0.4,
+   "p": 0.03149606,
+   "c": -0.38,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033036,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140150.aspx"
   },
   {
-   "t": "ACV Auctions (ACVA) Was This Week’s Top Stock — Here’s What Drove Gains",
+   "t": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-week-top-220605819.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html"
   },
   {
    "t": "科技股領跌　日經指數收黑",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140149.aspx"
   },
   {
-   "t": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
+   "t": "ACV Auctions (ACVA) Was This Week’s Top Stock — Here’s What Drove Gains",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-week-top-220605819.html"
   },
   {
    "t": "科技巨頭籲放緩技術發展　亞洲AI概念股齊挫",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609140146.aspx"
   },
   {
-   "t": "10-Year Treasury Nears 5%, Raising CRE Financing Risk",
+   "t": "Apartment Construction Times Ease but Stay Elevated",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/10-treasury-nears-5-raising-213714187.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/apartment-construction-times-ease-stay-214134340.html"
   }
  ],
  "inst": {
