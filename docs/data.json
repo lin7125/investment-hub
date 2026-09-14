@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14 21:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 02:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.4,
-   "c": -3.3,
+   "p": 45.45,
+   "c": -3.19,
    "a50": 50.51,
    "a200": 45.17,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 48.92,
-   "r": 41.8
+   "r": 41.9
   },
   {
    "s": "6223.TWO",
@@ -212,118 +212,118 @@
   },
   {
    "s": "AAPL",
-   "p": 332.27,
-   "c": 1.75,
-   "a50": 317.97,
-   "a200": 284.95,
+   "p": 334.46,
+   "c": 0.66,
+   "a50": 318.49,
+   "a200": 285.25,
    "yh": 340.08,
-   "yl": 234.07,
-   "a20": 316.63,
-   "r": 62.8
+   "yl": 236.7,
+   "a20": 318.05,
+   "r": 64.2
   },
   {
    "s": "NVDA",
-   "p": 218.29,
-   "c": -0.03,
-   "a50": 212.58,
-   "a200": 197.47,
+   "p": 212.37,
+   "c": -2.71,
+   "a50": 212.93,
+   "a200": 197.62,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.16,
-   "r": 49.8
+   "a20": 219.52,
+   "r": 44.9
   },
   {
    "s": "TSLA",
-   "p": 365.44,
-   "c": 0.52,
-   "a50": 354.5,
-   "a200": 398.93,
+   "p": 360.8,
+   "c": -1.27,
+   "a50": 353.85,
+   "a200": 398.64,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 355.13,
-   "r": 54.5
+   "a20": 356.06,
+   "r": 52.3
   },
   {
    "s": "META",
-   "p": 648.03,
-   "c": 0.57,
-   "a50": 600.9,
-   "a200": 623.23,
+   "p": 666.68,
+   "c": 2.88,
+   "a50": 602.58,
+   "a200": 623.5,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 586.47,
-   "r": 67.2
+   "a20": 590.31,
+   "r": 71.0
   },
   {
    "s": "^TWII",
-   "p": 45862.52,
-   "c": -0.7,
-   "a50": 44985.29,
-   "a200": 37814.22,
+   "p": 46184.85,
+   "c": -1.61,
+   "a50": 45003.65,
+   "a200": 37722.14,
    "yh": 47741.51,
    "yl": 25357.16,
-   "a20": 46025.55,
-   "r": 50.1
+   "a20": 46025.29,
+   "r": 52.6
   },
   {
    "s": "^GSPC",
-   "p": 7656.98,
-   "c": 0.86,
-   "a50": 7607.34,
-   "a200": 7162.55,
+   "p": 7636.03,
+   "c": -0.27,
+   "a50": 7610.4,
+   "a200": 7167.21,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7685.19,
-   "r": 50.0
+   "a20": 7677.7,
+   "r": 48.2
   },
   {
    "s": "^VIX",
-   "p": 17.73,
-   "c": 11.93,
-   "a50": 16.16,
-   "a200": 18.1,
+   "p": 16.74,
+   "c": 5.68,
+   "a50": 16.14,
+   "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.58,
-   "r": 57.7
+   "a20": 15.53,
+   "r": 54.2
   },
   {
    "s": "BZ=F",
-   "p": 109.02,
-   "c": 4.22,
-   "a50": 89.36,
-   "a200": 84.86,
+   "p": 105.43,
+   "c": 0.78,
+   "a50": 89.29,
+   "a200": 84.84,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.11,
-   "r": 72.5
+   "a20": 94.93,
+   "r": 69.3
   },
   {
    "s": "GC=F",
-   "p": 4310.6,
-   "c": -1.27,
-   "a50": 4269.91,
-   "a200": 4527.9,
+   "p": 4349.2,
+   "c": -1.35,
+   "a50": 4271.54,
+   "a200": 4528.31,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4464.83,
-   "r": 44.0
+   "a20": 4468.89,
+   "r": 46.8
   },
   {
    "s": "HG=F",
-   "p": 6.38,
-   "c": -1.32,
+   "p": 6.41,
+   "c": -0.9,
    "a50": 6.47,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.57,
-   "r": 41.9
+   "r": 43.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": -0.59,
+   "p": 0.03152585,
+   "c": -0.28,
    "a50": 0.03122073,
    "a200": 0.0315557,
    "yh": 0.033036,
@@ -332,76 +332,76 @@
  ],
  "news": [
   {
-   "t": "8月房地合一稅雙北、台中創高　桃園年減逾3成",
+   "t": "中東戰事推升油價 美10年期公債殖利率破5%",
+   "pub": "中央社財經",
+   "d": "2026-09-15",
+   "u": "https://www.cna.com.tw/news/aopl/202609150004.aspx"
+  },
+  {
+   "t": "Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls on rising oil, AI tensions",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html"
+  },
+  {
+   "t": "國際油價攀升、AI交易受挫　歐股大多收跌",
+   "pub": "中央社財經",
+   "d": "2026-09-15",
+   "u": "https://www.cna.com.tw/news/afe/202609150003.aspx"
+  },
+  {
+   "t": "Roivant Sciences Ltd. (ROIV)’s Pulmonary Hypertension Breakthrough Could Transform Its Growth Story",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/healthcare/articles/roivant-sciences-ltd-roiv-pulmonary-094515386.html"
+  },
+  {
+   "t": "非必要性醫療可能遭拒賠　金管會要求保險業加強資訊揭露",
    "pub": "中央社財經",
    "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140254.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609140287.aspx"
+  },
+  {
+   "t": "Campbell’s (CPB) Slashes Its Dividend To Fund A Brutal Reset",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/campbell-cpb-slashes-dividend-fund-094655845.html"
+  },
+  {
+   "t": "韓股盤後交易新制生效　小型股價格劇烈波動",
+   "pub": "中央社財經",
+   "d": "2026-09-14",
+   "u": "https://www.cna.com.tw/news/afe/202609140284.aspx"
+  },
+  {
+   "t": "Diversified Energy’s (DEC) $1.8B Bet On Permian Scale",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/energy/articles/diversified-energy-dec-1-8b-093840663.html"
+  },
+  {
+   "t": "今彩539第115223期　頭獎2注中獎",
+   "pub": "中央社財經",
+   "d": "2026-09-14",
+   "u": "https://www.cna.com.tw/news/ahel/202609140283.aspx"
+  },
+  {
+   "t": "Robinhood (HOOD) Expands Prediction Markets With Crypto.com Partnership",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/options/articles/robinhood-hood-expands-prediction-markets-094928525.html"
+  },
+  {
+   "t": "威力彩第115074期　頭獎槓龜",
+   "pub": "中央社財經",
+   "d": "2026-09-14",
+   "u": "https://www.cna.com.tw/news/ahel/202609140282.aspx"
   },
   {
    "t": "Another coffeehouse files for Chapter 11 as costs, prices rise",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html"
-  },
-  {
-   "t": "環球晶：義大利諾瓦拉廠部分復工　申請理賠中",
-   "pub": "中央社財經",
-   "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140247.aspx"
-  },
-  {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html"
-  },
-  {
-   "t": "信驊與日月光簽訂2年採購合約　確保產能供應穩定",
-   "pub": "中央社財經",
-   "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140246.aspx"
-  },
-  {
-   "t": "Chase Home Loans' mortgage rate sale returns for a 3-week run",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-loans-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html"
-  },
-  {
-   "t": "台灣助攻馬來西亞智慧農業　融合AI機械提升效率",
-   "pub": "中央社財經",
-   "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140244.aspx"
-  },
-  {
-   "t": "Stock Market Today: Dow Falls On Surging Oil; Nvidia Sells Off On AI Warning (Live Coverage)",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo"
-  },
-  {
-   "t": "達運與美奧克拉荷馬州採購團簽約　拓無人載具市場",
-   "pub": "中央社財經",
-   "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140242.aspx"
-  },
-  {
-   "t": "10-year treasury yield rises as oil prices jump",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-rises-as-oil-prices-jump-123457398.html"
-  },
-  {
-   "t": "韓股盤後交易新制上路　延至晚間8時改採即時買賣",
-   "pub": "中央社財經",
-   "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/aopl/202609140241.aspx"
-  },
-  {
-   "t": "Japan’s Umios invests in Thailand’s Pataya Food Industries",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/japan-umios-invests-thailand-pataya-130230508.html"
   }
  ],
  "inst": {
