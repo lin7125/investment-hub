@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 06:51（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 07:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 108.32,
-   "c": 2.5,
+   "p": 108.36,
+   "c": 2.54,
    "a50": 90.02,
    "a200": 85.07,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 95.82,
-   "r": 72.1
+   "r": 72.2
   },
   {
    "s": "GC=F",
-   "p": 4336.5,
-   "c": -0.35,
-   "a50": 4308.69,
-   "a200": 4550.78,
+   "p": 4334.4,
+   "c": -0.4,
+   "a50": 4308.65,
+   "a200": 4550.77,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4508.53,
-   "r": 42.7
+   "a20": 4508.43,
+   "r": 42.6
   },
   {
    "s": "HG=F",
@@ -322,11 +322,11 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03145643,
-   "c": -0.36,
-   "a50": 0.03123048,
-   "a200": 0.0315557,
-   "yh": 0.032938,
+   "p": 0.0314169,
+   "c": -0.34,
+   "a50": 0.03124024,
+   "a200": 0.03154574,
+   "yh": 0.032873,
    "yl": 0.030864
   }
  ],
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160005.aspx"
   },
   {
-   "t": "The EV Bubble Has Burst. How to Play Rivian Stock Now.",
+   "t": "The Cooper Companies (COO) Faces Near-Term Pressure from Slowing Contact Lens Demand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ev-bubble-burst-play-rivian-143418979.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/cooper-companies-coo-faces-near-145526217.html"
   },
   {
    "t": "市場靜待Fed利率決策　歐股三大指數收低",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160003.aspx"
   },
   {
-   "t": "Dollar Climbs as Stocks Sink and Crude Oil Surges",
+   "t": "Coffee Prices Fall as Production Spikes and Consumption Chills",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-climbs-stocks-sink-crude-143325158.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/coffee-prices-fall-production-spikes-145910581.html"
   },
   {
    "t": "可程式化晶片商Altera在美申請IPO 募資上看20億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150361.aspx"
   },
   {
-   "t": "5 habits rich retirees lean on to protect their wealth in retirement",
+   "t": "Enbridge (ENB) Expands its U.S. Oil Footprint with Tallgrass Acquisition",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/5-habits-rich-retirees-lean-143000557.html"
+   "u": "https://finance.yahoo.com/energy/articles/enbridge-enb-expands-u-oil-145324207.html"
   },
   {
    "t": "Meta One訂閱服務在台登場　拓展廣告外穩定經常性營收",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150358.aspx"
   },
   {
-   "t": "Dow Rethinks its $20 Billion Saudi Chemicals Bet",
+   "t": "Half of Gen X expects to outlive their savings — 5 toxic habits that could quietly wreck your retirement",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dow-rethinks-20-billion-saudi-144104986.html"
+   "u": "https://finance.yahoo.com/markets/articles/half-gen-x-expects-outlive-150000293.html"
   }
  ],
  "inst": {
