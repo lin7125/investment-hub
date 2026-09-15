@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 03:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 03:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,46 +212,46 @@
   },
   {
    "s": "AAPL",
-   "p": 330.35,
-   "c": -0.82,
-   "a50": 318.82,
+   "p": 331.6,
+   "c": -0.44,
+   "a50": 318.84,
    "a200": 285.51,
    "yh": 340.08,
    "yl": 236.7,
-   "a20": 319.22,
-   "r": 60.2
+   "a20": 319.28,
+   "r": 61.6
   },
   {
    "s": "NVDA",
-   "p": 211.92,
-   "c": 0.46,
-   "a50": 213.23,
+   "p": 212.25,
+   "c": 0.61,
+   "a50": 213.24,
    "a200": 197.79,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.8,
-   "r": 44.8
+   "a20": 218.81,
+   "r": 45.1
   },
   {
    "s": "TSLA",
-   "p": 355.13,
-   "c": -1.07,
-   "a50": 352.52,
-   "a200": 398.31,
+   "p": 356.33,
+   "c": -0.74,
+   "a50": 352.54,
+   "a200": 398.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 356.76,
-   "r": 49.8
+   "a20": 356.82,
+   "r": 50.3
   },
   {
    "s": "META",
-   "p": 669.73,
-   "c": 0.62,
+   "p": 669.95,
+   "c": 0.65,
    "a50": 603.95,
    "a200": 623.66,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 595.29,
+   "a20": 595.3,
    "r": 71.6
   },
   {
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7578.41,
-   "c": -0.55,
-   "a50": 7610.89,
-   "a200": 7171.19,
+   "p": 7581.27,
+   "c": -0.51,
+   "a50": 7610.95,
+   "a200": 7171.2,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.57,
-   "r": 43.5
+   "a20": 7668.71,
+   "r": 43.7
   },
   {
    "s": "^VIX",
-   "p": 17.49,
-   "c": 2.28,
+   "p": 17.52,
+   "c": 2.46,
    "a50": 16.18,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.63,
-   "r": 57.0
+   "r": 57.1
   },
   {
    "s": "BZ=F",
-   "p": 108.5,
-   "c": 2.67,
-   "a50": 90.02,
+   "p": 108.64,
+   "c": 2.8,
+   "a50": 90.03,
    "a200": 85.07,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 95.83,
-   "r": 72.3
+   "r": 72.4
   },
   {
    "s": "GC=F",
-   "p": 4339.1,
-   "c": -0.29,
-   "a50": 4308.75,
-   "a200": 4550.8,
+   "p": 4336.5,
+   "c": -0.35,
+   "a50": 4308.69,
+   "a200": 4550.78,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4508.66,
-   "r": 42.9
+   "a20": 4508.53,
+   "r": 42.7
   },
   {
    "s": "HG=F",
-   "p": 6.46,
-   "c": 1.99,
+   "p": 6.45,
+   "c": 1.96,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
-   "a20": 6.56,
-   "r": 46.5
+   "a20": 6.55,
+   "r": 46.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": -0.49,
+   "p": 0.03140704,
+   "c": -0.51,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150358.aspx"
   },
   {
-   "t": "Nasdaq Futures Plunge as Chipmakers Sink on AI Slowdown Concerns, Fed Meeting Awaited",
+   "t": "I owe $13,000 on my car, but it suddenly needs a new $9,000 engine — I can’t afford that. What am I supposed to do now?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-plunge-chipmakers-sink-103222035.html"
+   "u": "https://finance.yahoo.com/markets/articles/owe-13-000-car-suddenly-104500487.html"
   },
   {
    "t": "加密貨幣市場不振衝擊小型交易所　CoinEx宣布停業",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150355.aspx"
   },
   {
-   "t": "Morning Bid: Go slow AI",
+   "t": "Electra Therapeutics targets $977.6 million valuation in US IPO",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/morning-bid-slow-ai-103901753.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/electra-therapeutics-targets-977-6-110028846.html"
   },
   {
    "t": "引進中國就被偷光　美漿果品牌布局藍莓巿場陷殘酷廝殺",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150353.aspx"
   },
   {
-   "t": "I owe $13,000 on my car, but it suddenly needs a new $9,000 engine — I can’t afford that. What am I supposed to do now?",
+   "t": "Morning Bid: Go slow AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/owe-13-000-car-suddenly-104500487.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/morning-bid-slow-ai-103901753.html"
   },
   {
    "t": "今彩539第115224期　頭獎1注中獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609150349.aspx"
   },
   {
-   "t": "My husband insisted we split our bills 50/50, even though he made more money. Now I do, and he's refusing the same deal",
+   "t": "Long-Term Bull Put Spread Provides Opportunities for Amazon Bulls",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/husband-insisted-split-bills-50-103000362.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/long-term-bull-put-spread-110002601.html"
   }
  ],
  "inst": {
