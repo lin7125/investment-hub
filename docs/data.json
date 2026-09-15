@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 08:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 08:56（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 106.97,
-   "c": 2.26,
+   "p": 106.98,
+   "c": 2.27,
    "a50": 89.32,
    "a200": 84.85,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4326.7,
-   "c": -1.86,
-   "a50": 4271.09,
-   "a200": 4528.19,
+   "p": 4333.1,
+   "c": -1.72,
+   "a50": 4271.21,
+   "a200": 4528.22,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4467.77,
-   "r": 45.4
+   "a20": 4468.09,
+   "r": 45.8
   },
   {
    "s": "HG=F",
    "p": 6.39,
-   "c": -1.29,
+   "c": -1.22,
    "a50": 6.47,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.57,
-   "r": 42.0
+   "r": 42.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
-   "c": -0.08,
+   "p": 0.03148615,
+   "c": -0.26,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150017.aspx"
   },
   {
-   "t": "Copart (CPRT) Bets On Digital Dealers As Core Volumes Shrink",
+   "t": "LightPath’s (LPTH) Defense Pivot Just Showed Up In The Numbers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-bets-digital-dealers-130853110.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lightpath-lpth-defense-pivot-just-131404572.html"
   },
   {
    "t": "美10年期公債殖利率升破5%關卡　市場關注Fed動向",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150014.aspx"
   },
   {
-   "t": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.",
+   "t": "Adobe’s (ADBE) AI Bet Is Finally Showing Up In Revenue",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-expands-ai-capabilities-autonomous-130002831.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-ai-bet-finally-132237575.html"
   },
   {
    "t": "科技巨擘籲放緩發展AI　美股收跌費半指數挫近6%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150012.aspx"
   },
   {
-   "t": "GF Securities Says NAND Prices May Stabilize Later This Year. What This Means for Sandisk Stock.",
+   "t": "Copart (CPRT) Bets On Digital Dealers As Core Volumes Shrink",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gf-securities-says-nand-prices-130002701.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-bets-digital-dealers-130853110.html"
   },
   {
    "t": "沙烏地關閉重要油管帶來供應風險　國際油價續升",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150011.aspx"
   },
   {
-   "t": "LightPath’s (LPTH) Defense Pivot Just Showed Up In The Numbers",
+   "t": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lightpath-lpth-defense-pivot-just-131404572.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/clear-channel-outdoor-cco-grows-132626831.html"
   },
   {
    "t": "中東戰事推升油價 美10年期公債殖利率破5%",
