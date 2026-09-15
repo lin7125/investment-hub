@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 03:15（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 03:25（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,10 +212,10 @@
   },
   {
    "s": "AAPL",
-   "p": 330.1,
-   "c": -0.89,
+   "p": 330.15,
+   "c": -0.88,
    "a50": 318.81,
-   "a200": 285.5,
+   "a200": 285.51,
    "yh": 340.08,
    "yl": 236.7,
    "a20": 319.21,
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 211.99,
-   "c": 0.49,
+   "p": 212.06,
+   "c": 0.52,
    "a50": 213.24,
    "a200": 197.79,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.8,
-   "r": 44.9
+   "a20": 218.81,
+   "r": 45.0
   },
   {
    "s": "TSLA",
-   "p": 356.24,
-   "c": -0.76,
-   "a50": 352.54,
-   "a200": 398.32,
+   "p": 355.99,
+   "c": -0.83,
+   "a50": 352.53,
+   "a200": 398.31,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 356.81,
-   "r": 50.3
+   "a20": 356.8,
+   "r": 50.2
   },
   {
    "s": "META",
-   "p": 672.06,
-   "c": 0.97,
+   "p": 671.9,
+   "c": 0.95,
    "a50": 603.99,
    "a200": 623.67,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 595.41,
-   "r": 72.0
+   "a20": 595.4,
+   "r": 71.9
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7582.75,
-   "c": -0.49,
-   "a50": 7610.98,
-   "a200": 7171.21,
+   "p": 7581.02,
+   "c": -0.51,
+   "a50": 7610.95,
+   "a200": 7171.2,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.78,
-   "r": 43.8
+   "a20": 7668.7,
+   "r": 43.7
   },
   {
    "s": "^VIX",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 108.26,
-   "c": 2.44,
+   "p": 108.5,
+   "c": 2.67,
    "a50": 90.02,
    "a200": 85.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.81,
-   "r": 72.1
+   "a20": 95.83,
+   "r": 72.3
   },
   {
    "s": "GC=F",
-   "p": 4343.9,
-   "c": -0.18,
-   "a50": 4308.84,
-   "a200": 4550.82,
+   "p": 4339.4,
+   "c": -0.29,
+   "a50": 4308.75,
+   "a200": 4550.8,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4508.9,
-   "r": 43.2
+   "a20": 4508.68,
+   "r": 42.9
   },
   {
    "s": "HG=F",
-   "p": 6.47,
-   "c": 2.19,
+   "p": 6.46,
+   "c": 2.11,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 47.1
+   "r": 46.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": -0.51,
+   "p": 0.0314169,
+   "c": -0.5,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150358.aspx"
   },
   {
-   "t": "Bitcoin Price Analysis: BTC Risks Drop to $71K if This Rounded Top Confirms",
+   "t": "‘Black Swan’ investor backs Michael Burry’s AI warning: ‘Euphoric rally’ comes before historic crash. Protect your money",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-analysis-btc-risks-095428942.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/black-swan-investor-backs-michael-101500434.html"
   },
   {
    "t": "加密貨幣市場不振衝擊小型交易所　CoinEx宣布停業",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150355.aspx"
   },
   {
-   "t": "A couple earning $310,000 a year faces a $100,000 debt divide that's putting their marriage plans on hold",
+   "t": "Hewlett Packard Enterprise (HPE) Surges 19% in a Week — What to Watch For Next?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/couple-earning-310-000-faces-094500308.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-surges-102301377.html"
   },
   {
    "t": "引進中國就被偷光　美漿果品牌布局藍莓巿場陷殘酷廝殺",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150353.aspx"
   },
   {
-   "t": "Jim Cramer Tries To Predict NVIDIA Corporation (NASDAQ:NVDA) Share Price Movement Following Anthropic CEO’s Remarks",
+   "t": "My husband insisted we split our bills 50/50, even though he made more money. Now I do, and he's refusing the same deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tries-predict-nvidia-095728531.html"
+   "u": "https://finance.yahoo.com/small-business/articles/husband-insisted-split-bills-50-103000362.html"
   },
   {
    "t": "今彩539第115224期　頭獎1注中獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609150349.aspx"
   },
   {
-   "t": "Best CD rates today, Monday, September 14, 2026: Lock in up to 4.35% APY",
+   "t": "Asian Refiners Seek Answers After Saudi Pipeline Shutdown",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html"
+   "u": "https://finance.yahoo.com/energy/articles/asian-refiners-seek-answers-saudi-103000239.html"
   }
  ],
  "inst": {
