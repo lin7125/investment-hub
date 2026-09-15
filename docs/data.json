@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 09:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 09:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 106.89,
-   "c": 2.18,
-   "a50": 89.32,
+   "p": 106.67,
+   "c": 1.97,
+   "a50": 89.31,
    "a200": 84.85,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.01,
-   "r": 70.7
+   "a20": 94.99,
+   "r": 70.5
   },
   {
    "s": "GC=F",
-   "p": 4334.5,
-   "c": -1.69,
-   "a50": 4271.24,
+   "p": 4333.9,
+   "c": -1.7,
+   "a50": 4271.23,
    "a200": 4528.23,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4468.16,
-   "r": 45.9
+   "a20": 4468.13,
+   "r": 45.8
   },
   {
    "s": "HG=F",
-   "p": 6.39,
-   "c": -1.24,
+   "p": 6.38,
+   "c": -1.42,
    "a50": 6.47,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
-   "a20": 6.57,
-   "r": 42.1
+   "a20": 6.56,
+   "r": 41.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03151592,
-   "c": -0.17,
+   "p": 0.03154574,
+   "c": -0.06,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150017.aspx"
   },
   {
-   "t": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
+   "t": "Adobe’s (ADBE) AI Bet Is Finally Showing Up In Revenue",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/clear-channel-outdoor-cco-grows-132626831.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-ai-bet-finally-132237575.html"
   },
   {
    "t": "美10年期公債殖利率升破5%關卡　市場關注Fed動向",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150014.aspx"
   },
   {
-   "t": "Adobe’s (ADBE) AI Bet Is Finally Showing Up In Revenue",
+   "t": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-ai-bet-finally-132237575.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/clear-channel-outdoor-cco-grows-132626831.html"
   },
   {
    "t": "科技巨擘籲放緩發展AI　美股收跌費半指數挫近6%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150012.aspx"
   },
   {
-   "t": "PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality",
+   "t": "LightPath’s (LPTH) Defense Pivot Just Showed Up In The Numbers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-turns-lab-promises-133324594.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/lightpath-lpth-defense-pivot-just-131404572.html"
   },
   {
    "t": "沙烏地關閉重要油管帶來供應風險　國際油價續升",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150011.aspx"
   },
   {
-   "t": "Red Violet (RDVT) Turns Record Growth Into Real Profit Gains",
+   "t": "PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/red-violet-rdvt-turns-record-133658483.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-turns-lab-promises-133324594.html"
   },
   {
    "t": "中東戰事推升油價 美10年期公債殖利率破5%",
