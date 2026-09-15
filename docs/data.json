@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 06:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 06:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 108.5,
-   "c": 2.67,
+   "p": 108.35,
+   "c": 2.53,
    "a50": 90.02,
    "a200": 85.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.83,
-   "r": 72.3
+   "a20": 95.82,
+   "r": 72.2
   },
   {
    "s": "GC=F",
-   "p": 4335.3,
-   "c": -0.38,
-   "a50": 4308.67,
-   "a200": 4550.78,
+   "p": 4334.4,
+   "c": -0.4,
+   "a50": 4308.65,
+   "a200": 4550.77,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4508.47,
+   "a20": 4508.43,
    "r": 42.6
   },
   {
    "s": "HG=F",
    "p": 6.47,
-   "c": 2.14,
+   "c": 2.24,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 46.9
+   "r": 47.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03145643,
-   "c": -0.37,
+   "c": -0.36,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160005.aspx"
   },
   {
-   "t": "'Dario is Right': What Elon Musk and More Top Executives Are Saying About an AI Slowdown",
+   "t": "Bitmine Purchases Another $68 Million Of Ethereum",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/dario-elon-musk-more-top-135024610.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-another-68-million-140500872.html"
   },
   {
    "t": "市場靜待Fed利率決策　歐股三大指數收低",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160003.aspx"
   },
   {
-   "t": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
+   "t": "Kalshi To Offer U.S. Stock And Commodities Trading",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/kalshi-offer-u-stock-commodities-140300562.html"
   },
   {
    "t": "可程式化晶片商Altera在美申請IPO 募資上看20億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150361.aspx"
   },
   {
-   "t": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
+   "t": "Is Mettler-Toledo Stock Underperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mettler-toledo-stock-underperforming-nasdaq-140221943.html"
   },
   {
    "t": "Meta One訂閱服務在台登場　拓展廣告外穩定經常性營收",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150358.aspx"
   },
   {
-   "t": "Is CDW Corporation Stock Underperforming the S&P 500?",
+   "t": "Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cdw-corporation-stock-underperforming-p-134157757.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-ai-slowdown-fears-141007739.html"
   }
  ],
  "inst": {
