@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 08:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 08:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 106.68,
-   "c": 1.98,
-   "a50": 89.31,
+   "p": 106.89,
+   "c": 2.18,
+   "a50": 89.32,
    "a200": 84.85,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 94.99,
-   "r": 70.5
+   "a20": 95.01,
+   "r": 70.7
   },
   {
    "s": "GC=F",
-   "p": 4327.9,
-   "c": -1.84,
-   "a50": 4271.11,
+   "p": 4328.4,
+   "c": -1.83,
+   "a50": 4271.12,
    "a200": 4528.2,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4467.83,
+   "a20": 4467.85,
    "r": 45.5
   },
   {
    "s": "HG=F",
    "p": 6.39,
-   "c": -1.27,
+   "c": -1.26,
    "a50": 6.47,
    "a200": 6.02,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.57,
-   "r": 42.0
+   "r": 42.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
-   "c": -0.08,
+   "p": 0.03152585,
+   "c": -0.13,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -332,16 +332,40 @@
  ],
  "news": [
   {
-   "t": "美10年期公債殖利率升破5%關卡　市場關注Fed動向",
+   "t": "費半挫近6%、台積電ADR跌3.52%　台股估震盪",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/aopl/202609150014.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609150021.aspx"
   },
   {
    "t": "Another coffeehouse files for Chapter 11 as costs, prices rise",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html"
+  },
+  {
+   "t": "台積電德國廠封頂儀式　擇吉日、滿鏟土融入台灣習俗",
+   "pub": "中央社財經",
+   "d": "2026-09-15",
+   "u": "https://www.cna.com.tw/news/afe/202609150017.aspx"
+  },
+  {
+   "t": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-expands-ai-capabilities-autonomous-130002831.html"
+  },
+  {
+   "t": "美10年期公債殖利率升破5%關卡　市場關注Fed動向",
+   "pub": "中央社財經",
+   "d": "2026-09-15",
+   "u": "https://www.cna.com.tw/news/aopl/202609150014.aspx"
+  },
+  {
+   "t": "GF Securities Says NAND Prices May Stabilize Later This Year. What This Means for Sandisk Stock.",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/gf-securities-says-nand-prices-130002701.html"
   },
   {
    "t": "科技巨擘籲放緩發展AI　美股收跌費半指數挫近6%",
@@ -362,40 +386,16 @@
    "u": "https://www.cna.com.tw/news/afe/202609150011.aspx"
   },
   {
-   "t": "Walmart Just Declared War on DoorDash and Uber Eats, But Winning Won't Be Easy for 1 Simple Reason",
+   "t": "Copart (CPRT) Bets On Digital Dealers As Core Volumes Shrink",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/walmart-just-declared-war-doordash-123023266.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-bets-digital-dealers-130853110.html"
   },
   {
    "t": "中東戰事推升油價 美10年期公債殖利率破5%",
    "pub": "中央社財經",
    "d": "2026-09-15",
    "u": "https://www.cna.com.tw/news/aopl/202609150004.aspx"
-  },
-  {
-   "t": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-expands-ai-capabilities-autonomous-130002831.html"
-  },
-  {
-   "t": "國際油價攀升、AI交易受挫　歐股大多收跌",
-   "pub": "中央社財經",
-   "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/afe/202609150003.aspx"
-  },
-  {
-   "t": "GF Securities Says NAND Prices May Stabilize Later This Year. What This Means for Sandisk Stock.",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gf-securities-says-nand-prices-130002701.html"
-  },
-  {
-   "t": "非必要性醫療可能遭拒賠　金管會要求保險業加強資訊揭露",
-   "pub": "中央社財經",
-   "d": "2026-09-14",
-   "u": "https://www.cna.com.tw/news/afe/202609140287.aspx"
   },
   {
    "t": "AI agents to start spending your money with Visa, Mastercard",
