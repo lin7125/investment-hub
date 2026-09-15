@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 02:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 03:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 330.24,
-   "c": -0.85,
-   "a50": 318.81,
+   "p": 330.35,
+   "c": -0.82,
+   "a50": 318.82,
    "a200": 285.51,
    "yh": 340.08,
    "yl": 236.7,
    "a20": 319.22,
-   "r": 60.1
+   "r": 60.2
   },
   {
    "s": "NVDA",
-   "p": 212.09,
-   "c": 0.53,
-   "a50": 213.24,
+   "p": 211.96,
+   "c": 0.47,
+   "a50": 213.23,
    "a200": 197.79,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.81,
-   "r": 45.0
+   "a20": 218.8,
+   "r": 44.9
   },
   {
    "s": "TSLA",
-   "p": 356.87,
-   "c": -0.58,
+   "p": 356.98,
+   "c": -0.55,
    "a50": 352.55,
    "a200": 398.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 356.84,
-   "r": 50.5
+   "a20": 356.85,
+   "r": 50.6
   },
   {
    "s": "META",
-   "p": 669.57,
-   "c": 0.6,
-   "a50": 603.94,
-   "a200": 623.66,
+   "p": 671.57,
+   "c": 0.9,
+   "a50": 603.98,
+   "a200": 623.67,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 595.28,
-   "r": 71.5
+   "a20": 595.38,
+   "r": 71.9
   },
   {
    "s": "^TWII",
@@ -267,31 +267,31 @@
   },
   {
    "s": "^GSPC",
-   "p": 7582.53,
-   "c": -0.49,
-   "a50": 7610.98,
-   "a200": 7171.21,
+   "p": 7585.08,
+   "c": -0.46,
+   "a50": 7611.03,
+   "a200": 7171.22,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.77,
-   "r": 43.8
+   "a20": 7668.9,
+   "r": 44.0
   },
   {
    "s": "^VIX",
-   "p": 17.48,
-   "c": 2.22,
+   "p": 17.58,
+   "c": 2.81,
    "a50": 16.18,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.63,
-   "r": 56.9
+   "r": 57.3
   },
   {
    "s": "BZ=F",
-   "p": 108.64,
-   "c": 2.8,
-   "a50": 90.03,
+   "p": 108.61,
+   "c": 2.77,
+   "a50": 90.02,
    "a200": 85.07,
    "yh": 118.35,
    "yl": 58.92,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4345.4,
-   "c": -0.15,
-   "a50": 4308.87,
-   "a200": 4550.83,
+   "p": 4348.6,
+   "c": -0.08,
+   "a50": 4308.94,
+   "a200": 4550.84,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4508.98,
-   "r": 43.3
+   "a20": 4509.14,
+   "r": 43.5
   },
   {
    "s": "HG=F",
-   "p": 6.46,
-   "c": 2.09,
+   "p": 6.47,
+   "c": 2.15,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 46.8
+   "r": 47.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": -0.5,
+   "p": 0.0314169,
+   "c": -0.47,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150358.aspx"
   },
   {
-   "t": "50% of Americans wildly overestimate how much income $100,000 in retirement savings can produce, NIRS finds",
+   "t": "Bitcoin Price Analysis: BTC Risks Drop to $71K if This Rounded Top Confirms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/50-americans-wildly-overestimate-much-093000280.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-analysis-btc-risks-095428942.html"
   },
   {
    "t": "加密貨幣市場不振衝擊小型交易所　CoinEx宣布停業",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150355.aspx"
   },
   {
-   "t": "China urges more FX hedging as strong yuan hits exporters, sources say",
+   "t": "Jim Cramer Tries To Predict NVIDIA Corporation (NASDAQ:NVDA) Share Price Movement Following Anthropic CEO’s Remarks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/china-urges-more-fx-hedging-094330539.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tries-predict-nvidia-095728531.html"
   },
   {
    "t": "引進中國就被偷光　美漿果品牌布局藍莓巿場陷殘酷廝殺",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609150349.aspx"
   },
   {
-   "t": "Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles",
+   "t": "China urges more FX hedging as strong yuan hits exporters, sources say",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/middle-east-oil-routes-under-091500205.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/china-urges-more-fx-hedging-094330539.html"
   }
  ],
  "inst": {
