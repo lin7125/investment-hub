@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 16:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 16:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.71,
-   "c": 3.57,
+   "p": 17.94,
+   "c": 4.91,
    "a50": 16.18,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.64,
-   "r": 57.8
+   "a20": 15.65,
+   "r": 58.6
   },
   {
    "s": "BZ=F",
-   "p": 102.83,
-   "c": -2.7,
+   "p": 102.87,
+   "c": -2.66,
    "a50": 89.91,
    "a200": 85.04,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 95.54,
-   "r": 63.2
+   "r": 63.3
   },
   {
    "s": "GC=F",
-   "p": 4310.4,
-   "c": -0.95,
-   "a50": 4274.7,
-   "a200": 4529.17,
+   "p": 4307.7,
+   "c": -1.02,
+   "a50": 4274.64,
+   "a200": 4529.16,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4463.66,
-   "r": 44.3
+   "a20": 4463.52,
+   "r": 44.1
   },
   {
    "s": "HG=F",
-   "p": 6.35,
-   "c": 0.28,
+   "p": 6.36,
+   "c": 0.46,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 40.8
+   "r": 41.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": -0.52,
+   "p": 0.03142678,
+   "c": -0.44,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150150.aspx"
   },
   {
-   "t": "Oil Is $100, The 10-Year Is Near 5%. Why Doesn’t The Stock Market Care?",
+   "t": "Further Oil Price Spikes Could Rekindle Recession Fears",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/oil-100-10-near-5-203326495.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/further-oil-price-spikes-could-210000970.html"
   },
   {
    "t": "9月電子期漲　金融期跌",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150146.aspx"
   },
   {
-   "t": "Further Oil Price Spikes Could Rekindle Recession Fears",
+   "t": "Oil Is $100, The 10-Year Is Near 5%. Why Doesn’t The Stock Market Care?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/further-oil-price-spikes-could-210000970.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/oil-100-10-near-5-203326495.html"
   }
  ],
  "inst": {
