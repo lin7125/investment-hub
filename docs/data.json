@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 17:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 18:07（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.69,
-   "c": 3.45,
+   "p": 17.52,
+   "c": 2.46,
    "a50": 16.18,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.64,
-   "r": 57.7
+   "a20": 15.63,
+   "r": 57.1
   },
   {
    "s": "BZ=F",
-   "p": 102.82,
-   "c": -2.71,
-   "a50": 89.91,
+   "p": 102.62,
+   "c": -2.9,
+   "a50": 89.9,
    "a200": 85.04,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.54,
-   "r": 63.2
+   "a20": 95.53,
+   "r": 62.8
   },
   {
    "s": "GC=F",
-   "p": 4310.2,
-   "c": -0.96,
-   "a50": 4274.69,
+   "p": 4309.3,
+   "c": -0.98,
+   "a50": 4274.67,
    "a200": 4529.17,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4463.65,
+   "a20": 4463.6,
    "r": 44.2
   },
   {
    "s": "HG=F",
-   "p": 6.38,
-   "c": 0.85,
+   "p": 6.39,
+   "c": 1.01,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 42.8
+   "r": 43.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03143666,
-   "c": -0.41,
+   "p": 0.03144654,
+   "c": -0.4,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150203.aspx"
   },
   {
-   "t": "Ameresco’s (AMRC) Data Center Boom Masks A Cash Flow Problem",
+   "t": "Herbalife (HLF) Bets $250M On Its Own Battered Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/ameresco-amrc-data-center-boom-093716882.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/herbalife-hlf-bets-250m-own-095141003.html"
   },
   {
    "t": "台灣巴西商會成立　打造雙邊經貿合作新平台",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150199.aspx"
   },
   {
-   "t": "Jim Cramer Says Lululemon (LULU) is in “No Man’s Land” After Another Brutal Quarter",
+   "t": "Anthropic Expects a Second Straight Quarter of Adjusted Operating Profit. Amazon and Alphabet Investors Should Read the Fine Print",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-lululemon-lulu-093702668.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/anthropic-expects-second-straight-quarter-094740403.html"
   }
  ],
  "inst": {
