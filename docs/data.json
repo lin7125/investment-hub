@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 15:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 15:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.49,
-   "c": 2.28,
+   "p": 17.54,
+   "c": 2.57,
    "a50": 16.18,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.63,
-   "r": 57.0
+   "r": 57.2
   },
   {
    "s": "BZ=F",
-   "p": 102.3,
-   "c": -3.2,
+   "p": 102.6,
+   "c": -2.91,
    "a50": 89.9,
    "a200": 85.04,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.52,
-   "r": 62.2
+   "a20": 95.53,
+   "r": 62.8
   },
   {
    "s": "GC=F",
-   "p": 4331.8,
-   "c": -0.46,
-   "a50": 4275.12,
-   "a200": 4529.28,
+   "p": 4321.7,
+   "c": -0.69,
+   "a50": 4274.92,
+   "a200": 4529.23,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4464.73,
-   "r": 45.6
+   "a20": 4464.23,
+   "r": 45.0
   },
   {
    "s": "HG=F",
-   "p": 6.39,
-   "c": 0.9,
+   "p": 6.37,
+   "c": 0.63,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 43.0
+   "r": 42.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03143666,
-   "c": -0.41,
+   "p": 0.03144654,
+   "c": -0.4,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150146.aspx"
   },
   {
-   "t": "Is Chewy’s (CHWY) Margin Story Losing Steam, or Is a 48% Drop the Opportunity?",
+   "t": "Further Oil Price Spikes Could Rekindle Recession Fears",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chewy-chwy-margin-story-losing-195717174.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/further-oil-price-spikes-could-210000970.html"
   }
  ],
  "inst": {
