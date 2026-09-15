@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 07:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 07:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,14 +300,14 @@
   },
   {
    "s": "GC=F",
-   "p": 4325.5,
-   "c": -0.61,
-   "a50": 4308.47,
-   "a200": 4550.73,
+   "p": 4324.7,
+   "c": -0.63,
+   "a50": 4308.46,
+   "a200": 4550.72,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4507.98,
-   "r": 42.0
+   "a20": 4507.94,
+   "r": 41.9
   },
   {
    "s": "HG=F",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03147624,
-   "c": -0.17,
+   "p": 0.0314169,
+   "c": -0.36,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160005.aspx"
   },
   {
-   "t": "How Is Tractor Supply's Stock Performance Compared to Other Specialty Retail Stocks?",
+   "t": "Crude Prices Surge as Saudi Arabia Closes its East-West Pipeline",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tractor-supplys-stock-performance-compared-152555841.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-prices-surge-saudi-arabia-153150265.html"
   },
   {
    "t": "市場靜待Fed利率決策　歐股三大指數收低",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160003.aspx"
   },
   {
-   "t": "When is the Fed's next meeting? See the full schedule for 2026.",
+   "t": "The Flood of AI Debt Is Poised to Crush Small-Caps. Here’s Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/when-is-the-next-fed-meeting-full-schedule-150709698.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/flood-ai-debt-poised-crush-153142223.html"
   },
   {
    "t": "可程式化晶片商Altera在美申請IPO 募資上看20億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150361.aspx"
   },
   {
-   "t": "How Cloud Infrastructure Strategy Can Keep Taking Oracle Stock Even Higher",
+   "t": "How Is Tractor Supply's Stock Performance Compared to Other Specialty Retail Stocks?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cloud-infrastructure-strategy-keep-taking-152133820.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/tractor-supplys-stock-performance-compared-152555841.html"
   },
   {
    "t": "Meta One訂閱服務在台登場　拓展廣告外穩定經常性營收",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150358.aspx"
   },
   {
-   "t": "The Flood of AI Debt Is Poised to Crush Small-Caps. Here’s Why.",
+   "t": "YPF Lines Up Buyers for $24 Billion Vaca Muerta LNG Project",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/flood-ai-debt-poised-crush-153142223.html"
+   "u": "https://finance.yahoo.com/energy/articles/ypf-lines-buyers-24-billion-154703112.html"
   }
  ],
  "inst": {
