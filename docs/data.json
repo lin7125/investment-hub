@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 15:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 15:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,8 +179,8 @@
   },
   {
    "s": "3585.TWO",
-   "p": 44.9,
-   "c": -1.21,
+   "p": 44.95,
+   "c": -1.1,
    "a50": 50.04,
    "a200": 45.33,
    "yh": 165.0,
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45862.52,
-   "c": -0.7,
-   "a50": 44985.29,
-   "a200": 37814.22,
+   "p": 45511.49,
+   "c": -0.77,
+   "a50": 44964.39,
+   "a200": 37907.99,
    "yh": 47741.51,
    "yl": 25357.16,
-   "a20": 46025.55,
-   "r": 50.1
+   "a20": 46035.7,
+   "r": 47.4
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 107.71,
-   "c": 1.92,
+   "p": 107.83,
+   "c": 2.03,
    "a50": 90.01,
    "a200": 85.07,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 95.79,
-   "r": 71.6
+   "r": 71.7
   },
   {
    "s": "GC=F",
-   "p": 4333.1,
-   "c": -0.43,
-   "a50": 4275.15,
-   "a200": 4529.29,
+   "p": 4328.2,
+   "c": -0.54,
+   "a50": 4275.05,
+   "a200": 4529.26,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4464.79,
-   "r": 45.7
+   "a20": 4464.55,
+   "r": 45.4
   },
   {
    "s": "HG=F",
    "p": 6.38,
-   "c": 0.74,
+   "c": 0.77,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 42.5
+   "r": 42.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03139717,
-   "c": -0.54,
+   "p": 0.0314169,
+   "c": -0.48,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "明年最低工資月薪有望破3萬　經長：助中小微企業責無旁貸",
+   "t": "三大法人賣超台股791.24億元",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/afe/202609150133.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609150170.aspx"
   },
   {
    "t": "Another coffeehouse files for Chapter 11 as costs, prices rise",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html"
   },
   {
-   "t": "大馬油棕靈芝病難防　台灣植物診療專家跨海問診",
+   "t": "國研院深海高流量eDNA採樣模組　開啟生態探勘新途徑",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/ahel/202609150115.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609150169.aspx"
   },
   {
    "t": "Costco rations Kirkland motor oil, raises price to $57.99",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html"
   },
   {
-   "t": "美債殖利率破5%後回落　市場靜待聯準會決策",
+   "t": "葉俊顯：今年經濟成長率有望觸碰12%　CPI略高於2%可接受",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/aopl/202609150109.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609150162.aspx"
   },
   {
    "t": "AI agents to start spending your money with Visa, Mastercard",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html"
   },
   {
-   "t": "川習會前中國擴大對美採購　簽20年LNG長約",
+   "t": "強化食用沙拉油穩供　經部責成台糖每月增產500噸",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/acn/202609150106.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609150154.aspx"
   },
   {
    "t": "38-year-old beloved steakhouse chain closing over 40 locations",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/38-old-beloved-steakhouse-chain-020300119.html"
   },
   {
-   "t": "蔡宗翰談國泰金數位轉型　未來拚2大業務發展",
+   "t": "基富通：TISA基金累計逾24萬戶　資產規模210億",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/afe/202609150098.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609150150.aspx"
   },
   {
    "t": "Is Chewy’s (CHWY) Margin Story Losing Steam, or Is a 48% Drop the Opportunity?",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/chewy-chwy-margin-story-losing-195717174.html"
   },
   {
-   "t": "街口支付首次連3個月獲利　朝全年損平邁進",
+   "t": "9月電子期漲　金融期跌",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/afe/202609150094.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609150146.aspx"
   },
   {
    "t": "DraftKings and Flutter Jump After Court Rules Prediction Markets Are Gambling, Not Federally Regulated Trading",
