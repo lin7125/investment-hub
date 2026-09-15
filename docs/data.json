@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 05:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 06:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03144654,
-   "c": -0.38,
+   "p": 0.03145643,
+   "c": -0.37,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160005.aspx"
   },
   {
-   "t": "How Is Dollar General's Stock Performance Compared to Other Consumer Defensive Stocks",
+   "t": "Dominion, NextEra propose $1 billion-a-year Virginia supplier program",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dollar-generals-stock-performance-compared-132555848.html"
+   "u": "https://finance.yahoo.com/news/dominion-nextera-propose-1-billion-133808617.html"
   },
   {
    "t": "市場靜待Fed利率決策　歐股三大指數收低",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160003.aspx"
   },
   {
-   "t": "Tesla, Microsoft and Amazon Forecast: Tech Stocks Diverge",
+   "t": "Xcel Energy Stock: Is XEL Outperforming the Utility Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tesla-microsoft-amazon-forecast-tech-131133844.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/xcel-energy-stock-xel-outperforming-133754654.html"
   },
   {
    "t": "可程式化晶片商Altera在美申請IPO 募資上看20億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150361.aspx"
   },
   {
-   "t": "ResMed Stock: Is RMD Underperforming the Healthcare Sector?",
+   "t": "US Pentagon triggers alarm for 150M+ American drivers after massive ID breach — is your identity exposed? Do this now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/resmed-stock-rmd-underperforming-healthcare-130726425.html"
+   "u": "https://finance.yahoo.com/technology/articles/us-pentagon-triggers-alarm-150m-133500969.html"
   },
   {
    "t": "Meta One訂閱服務在台登場　拓展廣告外穩定經常性營收",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150358.aspx"
   },
   {
-   "t": "LX Pantos Sets Its Sights on Global Logistics Leadership",
+   "t": "Kenco opens new innovation lab for warehouse automation testing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/lx-pantos-sets-sights-global-130000075.html"
+   "u": "https://finance.yahoo.com/technology/articles/kenco-opens-innovation-lab-warehouse-134139757.html"
   }
  ],
  "inst": {
