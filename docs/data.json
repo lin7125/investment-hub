@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 17:15（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 17:26（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,35 +278,35 @@
   },
   {
    "s": "^VIX",
-   "p": 17.82,
-   "c": 4.21,
+   "p": 17.88,
+   "c": 4.56,
    "a50": 16.18,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.64,
-   "r": 58.1
+   "a20": 15.65,
+   "r": 58.4
   },
   {
    "s": "BZ=F",
-   "p": 102.56,
-   "c": -2.95,
-   "a50": 89.9,
+   "p": 102.71,
+   "c": -2.81,
+   "a50": 89.91,
    "a200": 85.04,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.53,
-   "r": 62.7
+   "a20": 95.54,
+   "r": 63.0
   },
   {
    "s": "GC=F",
-   "p": 4306.5,
+   "p": 4306.8,
    "c": -1.04,
    "a50": 4274.62,
    "a200": 4529.16,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4463.46,
+   "a20": 4463.48,
    "r": 44.0
   },
   {
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": -0.52,
+   "p": 0.03137747,
+   "c": -0.61,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150203.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures retreat ahead of Fed meeting amid AI safety fears",
+   "t": "Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html"
+   "u": "https://finance.yahoo.com/news/exclusive-indian-consumer-regulator-escalates-091004769.html"
   },
   {
    "t": "台灣巴西商會成立　打造雙邊經貿合作新平台",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150199.aspx"
   },
   {
-   "t": "Saudi Oil Pipeline Repairs Could Take Weeks After Drone Attack",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq futures retreat ahead of Fed meeting amid AI safety fears",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/saudi-oil-pipeline-repairs-could-071500280.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html"
   }
  ],
  "inst": {
