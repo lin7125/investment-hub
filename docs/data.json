@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 04:27（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 04:37（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.22,
-   "c": 0.7,
+   "p": 17.2,
+   "c": 0.58,
    "a50": 16.17,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.61,
-   "r": 56.0
+   "r": 55.9
   },
   {
    "s": "BZ=F",
-   "p": 108.75,
-   "c": 2.9,
-   "a50": 90.03,
+   "p": 108.61,
+   "c": 2.77,
+   "a50": 90.02,
    "a200": 85.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.84,
-   "r": 72.5
+   "a20": 95.83,
+   "r": 72.4
   },
   {
    "s": "GC=F",
-   "p": 4335.3,
-   "c": -0.38,
-   "a50": 4308.67,
-   "a200": 4550.78,
+   "p": 4334.5,
+   "c": -0.4,
+   "a50": 4308.65,
+   "a200": 4550.77,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4508.47,
+   "a20": 4508.43,
    "r": 42.6
   },
   {
    "s": "HG=F",
-   "p": 6.46,
-   "c": 1.98,
+   "p": 6.45,
+   "c": 1.97,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 46.5
+   "r": 46.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03140704,
-   "c": -0.51,
+   "c": -0.52,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150358.aspx"
   },
   {
-   "t": "Westinghouse Air Brake Technologies Stock: Is WAB Outperforming the Industrials Sector?",
+   "t": "Is VICI Properties Stock Underperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-technologies-stock-113433040.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/vici-properties-stock-underperforming-dow-114738553.html"
   },
   {
    "t": "加密貨幣市場不振衝擊小型交易所　CoinEx宣布停業",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150355.aspx"
   },
   {
-   "t": "Europe Gas Prices Jump 6% as Saudi Pipeline Shutdown Rattles Markets",
+   "t": "Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/europe-gas-prices-jump-6-113000754.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html"
   },
   {
    "t": "引進中國就被偷光　美漿果品牌布局藍莓巿場陷殘酷廝殺",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150353.aspx"
   },
   {
-   "t": "How Is Edison International’s Stock Performance Compared to Other Regulated Utilities Stocks",
+   "t": "Westinghouse Air Brake Technologies Stock: Is WAB Outperforming the Industrials Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/edison-international-stock-performance-compared-112721880.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-technologies-stock-113433040.html"
   },
   {
    "t": "今彩539第115224期　頭獎1注中獎",
