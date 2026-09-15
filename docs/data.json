@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 04:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 05:09（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 108.49,
-   "c": 2.66,
+   "p": 108.48,
+   "c": 2.65,
    "a50": 90.02,
    "a200": 85.07,
    "yh": 118.35,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4332.6,
-   "c": -0.44,
-   "a50": 4308.62,
-   "a200": 4550.76,
+   "p": 4333.5,
+   "c": -0.42,
+   "a50": 4308.63,
+   "a200": 4550.77,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4508.34,
-   "r": 42.4
+   "a20": 4508.38,
+   "r": 42.5
   },
   {
    "s": "HG=F",
    "p": 6.46,
-   "c": 2.0,
+   "c": 2.01,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03143666,
-   "c": -0.43,
+   "p": 0.03144654,
+   "c": -0.39,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150358.aspx"
   },
   {
-   "t": "Etihad Airways sees strong demand, higher passenger capacity despite Iran war, CEO says",
+   "t": "Garmin Stock: Is GRMN Underperforming the Technology Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/etihad-airways-sees-strong-demand-121621387.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/garmin-stock-grmn-underperforming-technology-124945758.html"
   },
   {
    "t": "加密貨幣市場不振衝擊小型交易所　CoinEx宣布停業",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150355.aspx"
   },
   {
-   "t": "Dow Jones Futures Fall, Techs Tumble As Oil Prices Rise, Anthropic Leads AI Slowdown Call",
+   "t": "Soybeans Holding Steady on Monday Morning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-holding-steady-monday-morning-123634476.html"
   },
   {
    "t": "引進中國就被偷光　美漿果品牌布局藍莓巿場陷殘酷廝殺",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150353.aspx"
   },
   {
-   "t": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
+   "t": "Corn Slipping Back Early on Monday",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/ai-warnings-by-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-could-hammer-this-momentum-stock-101518585.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-slipping-back-early-monday-123634575.html"
   },
   {
    "t": "今彩539第115224期　頭獎1注中獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609150349.aspx"
   },
   {
-   "t": "Ethereum Price Prediction: Clarity Act Could Trigger ETH Breakout",
+   "t": "Wheat Showing Mixed Early Trade on Monday",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-clarity-act-121745525.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/wheat-showing-mixed-early-trade-123634313.html"
   }
  ],
  "inst": {
