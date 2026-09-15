@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 15:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 15:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 44.85,
-   "c": -1.32,
+   "p": 44.9,
+   "c": -1.21,
    "a50": 50.04,
    "a200": 45.33,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 48.7,
-   "r": 40.9
+   "a20": 48.71,
+   "r": 41.0
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 57.2,
-   "c": -1.04,
-   "a50": 57.04,
+   "p": 57.1,
+   "c": -1.21,
+   "a50": 57.03,
    "a200": 58.2,
    "yh": 74.3,
    "yl": 37.6,
    "a20": 56.57,
-   "r": 49.4
+   "r": 48.9
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45511.49,
-   "c": -0.77,
-   "a50": 44964.39,
-   "a200": 37907.99,
+   "p": 45862.52,
+   "c": -0.7,
+   "a50": 44985.29,
+   "a200": 37814.22,
    "yh": 47741.51,
    "yl": 25357.16,
-   "a20": 46035.7,
-   "r": 47.4
+   "a20": 46025.55,
+   "r": 50.1
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 107.37,
-   "c": 1.6,
-   "a50": 90.0,
+   "p": 107.71,
+   "c": 1.92,
+   "a50": 90.01,
    "a200": 85.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.77,
-   "r": 71.3
+   "a20": 95.79,
+   "r": 71.6
   },
   {
    "s": "GC=F",
-   "p": 4332.8,
-   "c": -0.44,
-   "a50": 4275.14,
+   "p": 4333.1,
+   "c": -0.43,
+   "a50": 4275.15,
    "a200": 4529.29,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4464.78,
+   "a20": 4464.79,
    "r": 45.7
   },
   {
    "s": "HG=F",
    "p": 6.38,
-   "c": 0.83,
+   "c": 0.74,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 42.8
+   "r": 42.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": -0.44,
+   "p": 0.03139717,
+   "c": -0.54,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150098.aspx"
   },
   {
-   "t": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
+   "t": "Is Chewy’s (CHWY) Margin Story Losing Steam, or Is a 48% Drop the Opportunity?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chewy-chwy-margin-story-losing-195717174.html"
   },
   {
    "t": "街口支付首次連3個月獲利　朝全年損平邁進",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150094.aspx"
   },
   {
-   "t": "Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test",
+   "t": "DraftKings and Flutter Jump After Court Rules Prediction Markets Are Gambling, Not Federally Regulated Trading",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/draftkings-flutter-jump-court-rules-194622553.html"
   }
  ],
  "inst": {
