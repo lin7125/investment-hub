@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 01:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 02:03（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 330.38,
-   "c": -0.81,
+   "p": 330.54,
+   "c": -0.76,
    "a50": 318.82,
    "a200": 285.51,
    "yh": 340.08,
    "yl": 236.7,
-   "a20": 319.22,
-   "r": 60.3
+   "a20": 319.23,
+   "r": 60.4
   },
   {
    "s": "NVDA",
-   "p": 211.87,
-   "c": 0.43,
+   "p": 211.95,
+   "c": 0.47,
    "a50": 213.23,
-   "a200": 197.78,
+   "a200": 197.79,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 218.8,
-   "r": 44.8
+   "r": 44.9
   },
   {
    "s": "TSLA",
-   "p": 357.03,
-   "c": -0.54,
-   "a50": 352.55,
+   "p": 357.49,
+   "c": -0.41,
+   "a50": 352.56,
    "a200": 398.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 356.85,
-   "r": 50.6
+   "a20": 356.87,
+   "r": 50.8
   },
   {
    "s": "META",
-   "p": 666.14,
-   "c": 0.08,
-   "a50": 603.87,
-   "a200": 623.64,
+   "p": 668.19,
+   "c": 0.39,
+   "a50": 603.91,
+   "a200": 623.65,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 595.11,
-   "r": 70.9
+   "a20": 595.22,
+   "r": 71.3
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7582.67,
-   "c": -0.49,
-   "a50": 7610.98,
-   "a200": 7171.21,
+   "p": 7585.64,
+   "c": -0.45,
+   "a50": 7611.04,
+   "a200": 7171.22,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.78,
-   "r": 43.8
+   "a20": 7668.93,
+   "r": 44.1
   },
   {
    "s": "^VIX",
-   "p": 17.6,
-   "c": 2.92,
+   "p": 17.61,
+   "c": 2.98,
    "a50": 16.18,
    "a200": 18.1,
    "yh": 31.05,
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 109.24,
-   "c": 3.37,
+   "p": 109.34,
+   "c": 3.46,
    "a50": 90.04,
    "a200": 85.08,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.86,
-   "r": 72.9
+   "a20": 95.87,
+   "r": 73.0
   },
   {
    "s": "GC=F",
-   "p": 4333.2,
-   "c": -0.43,
-   "a50": 4308.63,
-   "a200": 4550.77,
+   "p": 4335.5,
+   "c": -0.38,
+   "a50": 4308.67,
+   "a200": 4550.78,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4508.37,
-   "r": 42.5
+   "a20": 4508.48,
+   "r": 42.6
   },
   {
    "s": "HG=F",
-   "p": 6.44,
-   "c": 1.77,
+   "p": 6.45,
+   "c": 1.89,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 45.8
+   "r": 46.2
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150358.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq fall after 10-year Treasury yield rises",
+   "t": "Can you have two of the same credit card?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-have-two-of-the-same-credit-card-175008954.html"
   },
   {
    "t": "加密貨幣市場不振衝擊小型交易所　CoinEx宣布停業",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150355.aspx"
   },
   {
-   "t": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years",
+   "t": "Trustpilot Gets a One-Star Review From Investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/trustpilot-gets-one-star-review-173946110.html"
   },
   {
    "t": "引進中國就被偷光　美漿果品牌布局藍莓巿場陷殘酷廝殺",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150353.aspx"
   },
   {
-   "t": "Oil jumps more than $3 as Saudi loadings halt, Libya outages stoke supply fears",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq fall after 10-year Treasury yield rises",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html"
   },
   {
    "t": "今彩539第115224期　頭獎1注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609150349.aspx"
   },
   {
-   "t": "Cloudflare Hits Highs Amid Agentic AI Boom; Nears Pivot",
+   "t": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/cloudflare-net-stock-ai-agents-2/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html"
   },
   {
    "t": "大樂透第115088期　頭獎槓龜",
