@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15 16:44（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-15 16:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.85,
-   "c": 4.39,
+   "p": 17.81,
+   "c": 4.15,
    "a50": 16.18,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.65,
-   "r": 58.3
+   "a20": 15.64,
+   "r": 58.1
   },
   {
    "s": "BZ=F",
-   "p": 102.76,
-   "c": -2.76,
+   "p": 102.87,
+   "c": -2.66,
    "a50": 89.91,
    "a200": 85.04,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 95.54,
-   "r": 63.1
+   "r": 63.3
   },
   {
    "s": "GC=F",
-   "p": 4314.4,
-   "c": -0.86,
-   "a50": 4274.78,
-   "a200": 4529.19,
+   "p": 4307.9,
+   "c": -1.01,
+   "a50": 4274.65,
+   "a200": 4529.16,
    "yh": 5318.4,
    "yl": 3643.7,
-   "a20": 4463.86,
-   "r": 44.5
+   "a20": 4463.53,
+   "r": 44.1
   },
   {
    "s": "HG=F",
    "p": 6.37,
-   "c": 0.68,
+   "c": 0.7,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 42.3
+   "r": 42.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": -0.47,
+   "p": 0.03140704,
+   "c": -0.53,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "三大法人賣超台股791.24億元",
+   "t": "經濟部表揚優質公共工程　18項建設獲殊榮",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/afe/202609150170.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609150219.aspx"
   },
   {
    "t": "Another coffeehouse files for Chapter 11 as costs, prices rise",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html"
   },
   {
-   "t": "國研院深海高流量eDNA採樣模組　開啟生態探勘新途徑",
+   "t": "台北塑橡膠工業展登場　貿協：已吸引4000名買主預登",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/afe/202609150169.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609150218.aspx"
   },
   {
    "t": "Costco rations Kirkland motor oil, raises price to $57.99",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html"
   },
   {
-   "t": "葉俊顯：今年經濟成長率有望觸碰12%　CPI略高於2%可接受",
+   "t": "中國投資者增持海外資產  瑞士百達基金規模突破50億美元",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/afe/202609150162.aspx"
+   "u": "https://www.cna.com.tw/news/acn/202609150215.aspx"
   },
   {
    "t": "AI agents to start spending your money with Visa, Mastercard",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html"
   },
   {
-   "t": "強化食用沙拉油穩供　經部責成台糖每月增產500噸",
+   "t": "新台幣重貶1.6角　收31.848元",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/afe/202609150154.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609150209.aspx"
   },
   {
    "t": "38-year-old beloved steakhouse chain closing over 40 locations",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/38-old-beloved-steakhouse-chain-020300119.html"
   },
   {
-   "t": "基富通：TISA基金累計逾24萬戶　資產規模210億",
+   "t": "米玉傑：A14等先進製程有太多未知　AI無法幫忙做到",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/afe/202609150150.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609150203.aspx"
   },
   {
    "t": "Further Oil Price Spikes Could Rekindle Recession Fears",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/economy/policy/articles/further-oil-price-spikes-could-210000970.html"
   },
   {
-   "t": "9月電子期漲　金融期跌",
+   "t": "台灣巴西商會成立　打造雙邊經貿合作新平台",
    "pub": "中央社財經",
    "d": "2026-09-15",
-   "u": "https://www.cna.com.tw/news/afe/202609150146.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609150199.aspx"
   },
   {
    "t": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
