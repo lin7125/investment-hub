@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 04:48（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 04:58（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 108.34,
-   "c": 2.52,
+   "p": 108.49,
+   "c": 2.66,
    "a50": 90.02,
    "a200": 85.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 95.82,
-   "r": 72.1
+   "a20": 95.83,
+   "r": 72.3
   },
   {
    "s": "GC=F",
-   "p": 4332.5,
-   "c": -0.45,
-   "a50": 4308.61,
+   "p": 4332.6,
+   "c": -0.44,
+   "a50": 4308.62,
    "a200": 4550.76,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4508.33,
+   "a20": 4508.34,
    "r": 42.4
   },
   {
    "s": "HG=F",
-   "p": 6.45,
-   "c": 1.94,
+   "p": 6.46,
+   "c": 2.0,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
    "yl": 4.54,
-   "a20": 6.55,
-   "r": 46.3
+   "a20": 6.56,
+   "r": 46.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": -0.51,
+   "p": 0.03143666,
+   "c": -0.43,
    "a50": 0.03123048,
    "a200": 0.0315557,
    "yh": 0.032938,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150358.aspx"
   },
   {
-   "t": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
+   "t": "Etihad Airways sees strong demand, higher passenger capacity despite Iran war, CEO says",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/ai-warnings-by-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-could-hammer-this-momentum-stock-101518585.html"
+   "u": "https://finance.yahoo.com/news/etihad-airways-sees-strong-demand-121621387.html"
   },
   {
    "t": "加密貨幣市場不振衝擊小型交易所　CoinEx宣布停業",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150353.aspx"
   },
   {
-   "t": "Etihad Airways sees strong demand, higher passenger capacity despite Iran war, CEO says",
+   "t": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/etihad-airways-sees-strong-demand-121621387.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/ai-warnings-by-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-could-hammer-this-momentum-stock-101518585.html"
   },
   {
    "t": "今彩539第115224期　頭獎1注中獎",
