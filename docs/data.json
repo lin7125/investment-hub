@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 07:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 07:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 105.61,
-   "c": -2.89,
+   "p": 105.58,
+   "c": -2.91,
    "a50": 90.66,
    "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 96.57,
-   "r": 65.5
+   "r": 65.4
   },
   {
    "s": "GC=F",
-   "p": 4302.0,
-   "c": -0.71,
-   "a50": 4311.51,
-   "a200": 4551.45,
+   "p": 4306.7,
+   "c": -0.6,
+   "a50": 4311.61,
+   "a200": 4551.47,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4502.42,
-   "r": 40.4
+   "a20": 4502.65,
+   "r": 40.7
   },
   {
    "s": "HG=F",
-   "p": 6.44,
-   "c": 1.19,
+   "p": 6.45,
+   "c": 1.22,
    "a50": 6.47,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 46.2
+   "r": 46.3
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170008.aspx"
   },
   {
-   "t": "Is Dollar Tree Stock Outperforming the S&P 500?",
+   "t": "Jensen Huang Says Nvidia Can Grow 70% Next Year. Here’s Why He May Be Right.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-stock-outperforming-p-152158824.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-nvidia-grow-153609078.html"
   },
   {
    "t": "聯準會升息1碼　2023年以來首度調升利率",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170006.aspx"
   },
   {
-   "t": "Seagate Technology (STX): The Primary Beneficiary of the AI Driven HDD Demand",
+   "t": "How Allison Transmission Holdings (ALSN) is Capturing New Markets Beyond Commercial Vehicles",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-stx-primary-beneficiary-152345430.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-holdings-alsn-capturing-153216137.html"
   },
   {
    "t": "市場靜待聯準會利率決策　歐股收高油價跌",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170003.aspx"
   },
   {
-   "t": "Western Digital (WDC): The Fund’s Top Relative Contributor",
+   "t": "Marathon Petroleum Stock Just Hit New Highs, But Oil Price Risks Remain",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-fund-top-151936638.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-stock-just-hit-153003138.html"
   }
  ],
  "inst": {
