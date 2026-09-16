@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 04:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 04:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 17.56,
-   "c": 2.09,
-   "a50": 16.18,
+   "p": 17.71,
+   "c": 2.97,
+   "a50": 16.19,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.75,
-   "r": 57.3
+   "r": 57.9
   },
   {
    "s": "BZ=F",
-   "p": 105.77,
-   "c": -2.74,
-   "a50": 90.66,
+   "p": 105.5,
+   "c": -2.99,
+   "a50": 90.65,
    "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.58,
-   "r": 65.8
+   "a20": 96.56,
+   "r": 65.3
   },
   {
    "s": "GC=F",
-   "p": 4310.9,
-   "c": -0.51,
-   "a50": 4311.69,
-   "a200": 4551.49,
+   "p": 4304.6,
+   "c": -0.65,
+   "a50": 4311.56,
+   "a200": 4551.46,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4502.86,
-   "r": 41.0
+   "a20": 4502.55,
+   "r": 40.6
   },
   {
    "s": "HG=F",
    "p": 6.44,
-   "c": 1.12,
+   "c": 1.16,
    "a50": 6.47,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 46.0
+   "r": 46.1
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160376.aspx"
   },
   {
-   "t": "Ramit Sethi's first scholarship was $2K and he put it in the stock market. Here's the simple lesson he learned",
+   "t": "AI Stock Among Those That Funds Are Buying Despite Misgivings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ramit-sethis-first-scholarship-2k-114500607.html"
+   "u": "https://www.investors.com/research/ai-stock-funds-hpe-stock-trv-well/?src=A00220&yptr=yahoo"
   },
   {
    "t": "油價居高不下　美國8月零售銷售月增1.2%超預期",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160373.aspx"
   },
   {
-   "t": "Ray Dalio says the US faces a debt crisis ‘in three years, give or take two.’ 5 things Americans can do now",
+   "t": "Kiyosaki warns Americans about nightmare robbery ‘you didn’t know happened’ — and it’s draining your wallet monthly",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/ray-dalio-says-us-faces-114500355.html"
+   "u": "https://finance.yahoo.com/economy/articles/kiyosaki-warns-americans-nightmare-robbery-120500228.html"
   },
   {
    "t": "今彩539第115225期　頭獎槓龜",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609160370.aspx"
   },
   {
-   "t": "What is debt settlement? How it works and what it costs you.",
+   "t": "A Trump Science Advisor Says Elon Musk And Sam Altman Won’t End Up With AI’s Money: ‘There Will Be A Billionaire That Will Emerge That Has Zero Net Worth Today’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/personal-loans/article/what-is-debt-settlement-185327526.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/trump-science-advisor-says-elon-114510280.html"
   }
  ],
  "inst": {
