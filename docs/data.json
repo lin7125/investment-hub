@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 07:46（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 07:50（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,7 +300,7 @@
   },
   {
    "s": "GC=F",
-   "p": 4309.0,
+   "p": 4309.1,
    "c": -0.55,
    "a50": 4311.65,
    "a200": 4551.48,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170008.aspx"
   },
   {
-   "t": "Gates Industrial (GTES) Benefits From AI Growth Without Being an AI Stock",
+   "t": "How Caterpillar (CAT) Drives Sector-Leading Performance Beyond AI Models",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gates-industrial-gtes-benefits-ai-154615331.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-drives-sector-leading-155623250.html"
   },
   {
    "t": "聯準會升息1碼　2023年以來首度調升利率",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170003.aspx"
   },
   {
-   "t": "How Caterpillar (CAT) Drives Sector-Leading Performance Beyond AI Models",
+   "t": "Nvidia CEO Jensen Huang Just Dropped Huge News for This Cybersecurity Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-drives-sector-leading-155623250.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-just-155646174.html"
   }
  ],
  "inst": {
