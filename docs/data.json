@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 02:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 02:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 334.47,
-   "c": 0.94,
+   "p": 334.26,
+   "c": 0.88,
    "a50": 319.31,
-   "a200": 285.8,
+   "a200": 285.79,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 320.49,
-   "r": 63.5
+   "a20": 320.48,
+   "r": 63.4
   },
   {
    "s": "NVDA",
-   "p": 215.19,
-   "c": 1.42,
+   "p": 215.11,
+   "c": 1.39,
    "a50": 213.6,
    "a200": 197.96,
    "yh": 235.74,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 360.05,
-   "c": 0.97,
-   "a50": 351.69,
+   "p": 359.44,
+   "c": 0.8,
+   "a50": 351.68,
    "a200": 397.98,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 357.99,
-   "r": 52.0
+   "a20": 357.96,
+   "r": 51.7
   },
   {
    "s": "META",
-   "p": 677.45,
-   "c": 1.08,
-   "a50": 605.19,
-   "a200": 623.88,
+   "p": 681.78,
+   "c": 1.72,
+   "a50": 605.28,
+   "a200": 623.9,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 602.01,
-   "r": 73.0
+   "a20": 602.22,
+   "r": 73.8
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7599.8,
-   "c": 0.19,
-   "a50": 7612.96,
-   "a200": 7175.16,
+   "p": 7598.5,
+   "c": 0.17,
+   "a50": 7612.93,
+   "a200": 7175.15,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7664.33,
-   "r": 45.5
+   "a20": 7664.27,
+   "r": 45.4
   },
   {
    "s": "^VIX",
-   "p": 16.71,
-   "c": -2.85,
+   "p": 16.8,
+   "c": -2.33,
    "a50": 16.17,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.7,
-   "r": 53.5
+   "a20": 15.71,
+   "r": 53.9
   },
   {
    "s": "BZ=F",
-   "p": 105.47,
-   "c": -3.02,
-   "a50": 90.65,
+   "p": 105.88,
+   "c": -2.64,
+   "a50": 90.66,
    "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.56,
-   "r": 65.2
+   "a20": 96.58,
+   "r": 66.0
   },
   {
    "s": "GC=F",
-   "p": 4364.2,
-   "c": 0.72,
-   "a50": 4312.76,
-   "a200": 4551.76,
+   "p": 4347.4,
+   "c": 0.34,
+   "a50": 4312.42,
+   "a200": 4551.68,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4505.53,
-   "r": 45.3
+   "a20": 4504.69,
+   "r": 43.8
   },
   {
    "s": "HG=F",
-   "p": 6.5,
-   "c": 2.12,
+   "p": 6.48,
+   "c": 1.8,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 49.1
+   "r": 48.1
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160373.aspx"
   },
   {
-   "t": "Ameresco’s (AMRC) Data Center Boom Masks A Cash Flow Problem",
+   "t": "Acquisitions Are Doing More of the Work in Core & Main’s (CNM) Growth Story",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/ameresco-amrc-data-center-boom-093716882.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/acquisitions-doing-more-core-main-094332099.html"
   },
   {
    "t": "今彩539第115225期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609160370.aspx"
   },
   {
-   "t": "Solana Price Forecast: SOL May Rise 50% Amid Rising Memecoin Activity",
+   "t": "Jim Cramer Says Lululemon (LULU) is in “No Man’s Land” After Another Brutal Quarter",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/solana-price-forecast-sol-may-094010702.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-lululemon-lulu-093702668.html"
   },
   {
    "t": "AI資料中心進駐曼谷市區  居民憂慮環境影響與安全",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160364.aspx"
   },
   {
-   "t": "Jim Cramer Says Lululemon (LULU) is in “No Man’s Land” After Another Brutal Quarter",
+   "t": "Solana Price Forecast: SOL May Rise 50% Amid Rising Memecoin Activity",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-lululemon-lulu-093702668.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/solana-price-forecast-sol-may-094010702.html"
   },
   {
    "t": "華邦電斥資353.9億　取得英飛凌NOR Flash與F-RAM事業100％股權",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160361.aspx"
   },
   {
-   "t": "UK Oil and Gas Group Says Earlier Tax Shift Could Raise £14.9 Billion",
+   "t": "ORIC (ORIC) Doubles Down On Prostate Cancer With Phase 3 Launch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/uk-oil-gas-group-says-093000677.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/oric-oric-doubles-down-prostate-094627485.html"
   }
  ],
  "inst": {
