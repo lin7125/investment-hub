@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 07:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 08:03（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 331.34,
-   "c": -0.52,
-   "a50": 318.84,
-   "a200": 285.51,
+   "p": 333.08,
+   "c": 0.24,
+   "a50": 318.46,
+   "a200": 285.24,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 319.27,
-   "r": 61.3
+   "a20": 317.98,
+   "r": 63.3
   },
   {
    "s": "NVDA",
-   "p": 212.17,
-   "c": 0.57,
-   "a50": 213.24,
-   "a200": 197.79,
+   "p": 210.96,
+   "c": -3.36,
+   "a50": 212.91,
+   "a200": 197.61,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.81,
-   "r": 45.1
+   "a20": 219.45,
+   "r": 43.9
   },
   {
    "s": "TSLA",
-   "p": 356.58,
-   "c": -0.67,
-   "a50": 352.54,
-   "a200": 398.32,
+   "p": 358.97,
+   "c": -1.77,
+   "a50": 353.81,
+   "a200": 398.63,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 356.83,
-   "r": 50.4
+   "a20": 355.96,
+   "r": 51.5
   },
   {
    "s": "META",
-   "p": 670.24,
-   "c": 0.7,
-   "a50": 603.96,
-   "a200": 623.66,
+   "p": 665.6,
+   "c": 2.71,
+   "a50": 602.56,
+   "a200": 623.49,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 595.32,
-   "r": 71.6
+   "a20": 590.25,
+   "r": 70.8
   },
   {
    "s": "^TWII",
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4324.7,
+   "p": 4324.5,
    "c": -0.63,
-   "a50": 4308.46,
+   "a50": 4308.45,
    "a200": 4550.72,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4507.94,
+   "a20": 4507.93,
    "r": 41.9
   },
   {
    "s": "HG=F",
    "p": 6.46,
-   "c": 2.06,
+   "c": 2.07,
    "a50": 6.47,
    "a200": 6.03,
    "yh": 6.8,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.0314169,
-   "c": -0.36,
+   "c": -0.35,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160005.aspx"
   },
   {
-   "t": "Crude Prices Surge as Saudi Arabia Closes its East-West Pipeline",
+   "t": "YPF Lines Up Buyers for $24 Billion Vaca Muerta LNG Project",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/crude-prices-surge-saudi-arabia-153150265.html"
+   "u": "https://finance.yahoo.com/energy/articles/ypf-lines-buyers-24-billion-154703112.html"
   },
   {
    "t": "市場靜待Fed利率決策　歐股三大指數收低",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160003.aspx"
   },
   {
-   "t": "The Flood of AI Debt Is Poised to Crush Small-Caps. Here’s Why.",
+   "t": "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/flood-ai-debt-poised-crush-153142223.html"
+   "u": "https://finance.yahoo.com/markets/article/stocks-could-have-a-tough-road-ahead-if-the-fed-hikes-rates-chart-of-the-day-155218683.html"
   },
   {
    "t": "可程式化晶片商Altera在美申請IPO 募資上看20億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609150361.aspx"
   },
   {
-   "t": "How Is Tractor Supply's Stock Performance Compared to Other Specialty Retail Stocks?",
+   "t": "Producer Of Strategic Metal Soars 43% On Pentagon Deals",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/tractor-supplys-stock-performance-compared-152555841.html"
+   "u": "https://www.investors.com/news/pentagon-department-of-war-elmet-group-elmt-stock-tungsten/?src=A00220&yptr=yahoo"
   },
   {
    "t": "Meta One訂閱服務在台登場　拓展廣告外穩定經常性營收",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609150358.aspx"
   },
   {
-   "t": "YPF Lines Up Buyers for $24 Billion Vaca Muerta LNG Project",
+   "t": "A $90 Billion Reason to Buy Oracle Stock Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/ypf-lines-buyers-24-billion-154703112.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/90-billion-reason-buy-oracle-155458851.html"
   }
  ],
  "inst": {
