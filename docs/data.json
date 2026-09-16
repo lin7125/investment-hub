@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 02:41（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 02:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 334.26,
-   "c": 0.88,
-   "a50": 319.31,
+   "p": 333.54,
+   "c": 0.66,
+   "a50": 319.29,
    "a200": 285.79,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 320.48,
-   "r": 63.4
+   "a20": 320.45,
+   "r": 62.9
   },
   {
    "s": "NVDA",
-   "p": 215.11,
-   "c": 1.39,
+   "p": 214.8,
+   "c": 1.24,
    "a50": 213.6,
    "a200": 197.96,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.58,
-   "r": 47.9
+   "a20": 218.56,
+   "r": 47.6
   },
   {
    "s": "TSLA",
-   "p": 359.44,
-   "c": 0.8,
-   "a50": 351.68,
+   "p": 358.77,
+   "c": 0.61,
+   "a50": 351.66,
    "a200": 397.98,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 357.96,
-   "r": 51.7
+   "a20": 357.92,
+   "r": 51.4
   },
   {
    "s": "META",
-   "p": 681.78,
-   "c": 1.72,
-   "a50": 605.28,
-   "a200": 623.9,
+   "p": 682.34,
+   "c": 1.81,
+   "a50": 605.29,
+   "a200": 623.91,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 602.22,
-   "r": 73.8
+   "a20": 602.25,
+   "r": 73.9
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7598.5,
-   "c": 0.17,
-   "a50": 7612.93,
-   "a200": 7175.15,
+   "p": 7583.36,
+   "c": -0.03,
+   "a50": 7612.63,
+   "a200": 7175.08,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7664.27,
-   "r": 45.4
+   "a20": 7663.51,
+   "r": 43.9
   },
   {
    "s": "^VIX",
-   "p": 16.8,
-   "c": -2.33,
-   "a50": 16.17,
+   "p": 17.41,
+   "c": 1.22,
+   "a50": 16.18,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.71,
-   "r": 53.9
+   "a20": 15.74,
+   "r": 56.7
   },
   {
    "s": "BZ=F",
-   "p": 105.88,
-   "c": -2.64,
+   "p": 105.7,
+   "c": -2.8,
    "a50": 90.66,
    "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.58,
-   "r": 66.0
+   "a20": 96.57,
+   "r": 65.7
   },
   {
    "s": "GC=F",
-   "p": 4347.4,
-   "c": 0.34,
-   "a50": 4312.42,
-   "a200": 4551.68,
+   "p": 4332.4,
+   "c": -0.01,
+   "a50": 4312.12,
+   "a200": 4551.6,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4504.69,
-   "r": 43.8
+   "a20": 4503.94,
+   "r": 42.4
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": 1.8,
+   "c": 1.74,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 48.1
+   "r": 47.9
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160373.aspx"
   },
   {
-   "t": "Acquisitions Are Doing More of the Work in Core & Main’s (CNM) Growth Story",
+   "t": "Texas and Cape Town Are Tightening the Data-Center Gate. Digital Realty and Equinix Could Still Benefit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/acquisitions-doing-more-core-main-094332099.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/texas-cape-town-tightening-data-095248616.html"
   },
   {
    "t": "今彩539第115225期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609160370.aspx"
   },
   {
-   "t": "Jim Cramer Says Lululemon (LULU) is in “No Man’s Land” After Another Brutal Quarter",
+   "t": "AI Stocks Fell, but Workday and Adobe Jumped. A Favorite AI Disruption Trade Just Flinched",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-lululemon-lulu-093702668.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-fell-workday-adobe-095614361.html"
   },
   {
    "t": "AI資料中心進駐曼谷市區  居民憂慮環境影響與安全",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160364.aspx"
   },
   {
-   "t": "Solana Price Forecast: SOL May Rise 50% Amid Rising Memecoin Activity",
+   "t": "Herbalife (HLF) Bets $250M On Its Own Battered Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/solana-price-forecast-sol-may-094010702.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/herbalife-hlf-bets-250m-own-095141003.html"
   },
   {
    "t": "華邦電斥資353.9億　取得英飛凌NOR Flash與F-RAM事業100％股權",
