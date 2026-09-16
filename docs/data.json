@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 03:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 03:22（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 330.86,
-   "c": -0.14,
-   "a50": 319.24,
+   "p": 331.16,
+   "c": -0.05,
+   "a50": 319.25,
    "a200": 285.78,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 320.31,
-   "r": 60.7
+   "a20": 320.33,
+   "r": 61.1
   },
   {
    "s": "NVDA",
-   "p": 213.01,
-   "c": 0.4,
+   "p": 212.75,
+   "c": 0.27,
    "a50": 213.56,
    "a200": 197.95,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.47,
-   "r": 45.9
+   "a20": 218.46,
+   "r": 45.6
   },
   {
    "s": "TSLA",
-   "p": 356.01,
-   "c": -0.16,
-   "a50": 351.61,
+   "p": 355.73,
+   "c": -0.24,
+   "a50": 351.6,
    "a200": 397.96,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 357.79,
-   "r": 50.1
+   "a20": 357.77,
+   "r": 50.0
   },
   {
    "s": "META",
-   "p": 676.27,
-   "c": 0.9,
-   "a50": 605.17,
-   "a200": 623.88,
+   "p": 673.17,
+   "c": 0.44,
+   "a50": 605.11,
+   "a200": 623.86,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 601.95,
-   "r": 72.8
+   "a20": 601.79,
+   "r": 72.2
   },
   {
    "s": "^TWII",
@@ -267,30 +267,30 @@
   },
   {
    "s": "^GSPC",
-   "p": 7529.39,
-   "c": -0.74,
-   "a50": 7611.55,
-   "a200": 7174.81,
+   "p": 7514.12,
+   "c": -0.94,
+   "a50": 7611.25,
+   "a200": 7174.73,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7660.81,
-   "r": 39.9
+   "a20": 7660.05,
+   "r": 38.9
   },
   {
    "s": "^VIX",
-   "p": 17.69,
-   "c": 2.85,
-   "a50": 16.19,
+   "p": 17.64,
+   "c": 2.56,
+   "a50": 16.18,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.75,
-   "r": 57.8
+   "r": 57.6
   },
   {
    "s": "BZ=F",
-   "p": 105.9,
-   "c": -2.62,
+   "p": 105.89,
+   "c": -2.63,
    "a50": 90.66,
    "a200": 85.29,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4315.1,
-   "c": -0.41,
-   "a50": 4311.77,
-   "a200": 4551.51,
+   "p": 4280.1,
+   "c": -1.22,
+   "a50": 4311.07,
+   "a200": 4551.34,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4503.07,
-   "r": 41.3
+   "a20": 4501.32,
+   "r": 39.1
   },
   {
    "s": "HG=F",
-   "p": 6.46,
-   "c": 1.38,
+   "p": 6.43,
+   "c": 1.02,
    "a50": 6.47,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 46.8
+   "r": 45.7
   },
   {
    "s": "TWDUSD",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "市場靜待聯準會利率決策　歐股收高油價跌",
+   "t": "聯準會打通膨　市場預期升息至明年中",
    "pub": "中央社財經",
    "d": "2026-09-17",
-   "u": "https://www.cna.com.tw/news/afe/202609170003.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609170008.aspx"
   },
   {
    "t": "How a Costco partner's bankruptcy could benefit its biggest rival",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html"
   },
   {
-   "t": "市場預估聯準會將升息　美股早盤漲跌互見",
+   "t": "聯準會升息1碼　2023年以來首度調升利率",
    "pub": "中央社財經",
-   "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160376.aspx"
+   "d": "2026-09-17",
+   "u": "https://www.cna.com.tw/news/aopl/202609170006.aspx"
   },
   {
    "t": "Rich Dad Poor Dad author warns biggest crash in history has started",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html"
   },
   {
-   "t": "油價居高不下　美國8月零售銷售月增1.2%超預期",
+   "t": "市場靜待聯準會利率決策　歐股收高油價跌",
    "pub": "中央社財經",
-   "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/aopl/202609160373.aspx"
+   "d": "2026-09-17",
+   "u": "https://www.cna.com.tw/news/afe/202609170003.aspx"
   },
   {
    "t": "Edgewell’s (EPC) Margins Slip Even As North America Rebounds",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/edgewell-epc-margins-slip-even-100001418.html"
   },
   {
-   "t": "今彩539第115225期　頭獎槓龜",
+   "t": "市場預估聯準會將升息　美股早盤漲跌互見",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/ahel/202609160370.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609160376.aspx"
   },
   {
    "t": "Trump offers $500 ACA rebate to 1 million Americans — critics pounce on how he ‘gutted’ healthcare in the first place",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/healthcare/articles/trump-offers-500-aca-rebate-100000294.html"
   },
   {
-   "t": "AI資料中心進駐曼谷市區  居民憂慮環境影響與安全",
+   "t": "油價居高不下　美國8月零售銷售月增1.2%超預期",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/aopl/202609160364.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609160373.aspx"
   },
   {
    "t": "AI's safety slowdown spooks the market, delays IPOs, and hands incumbents more room to run",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/ais-safety-slowdown-spooks-market-100000111.html"
   },
   {
-   "t": "華邦電斥資353.9億　取得英飛凌NOR Flash與F-RAM事業100％股權",
+   "t": "今彩539第115225期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160361.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202609160370.aspx"
   },
   {
    "t": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
