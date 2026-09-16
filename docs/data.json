@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 01:40（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 01:50（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 333.2,
-   "c": 0.56,
-   "a50": 319.29,
+   "p": 333.06,
+   "c": 0.52,
+   "a50": 319.28,
    "a200": 285.79,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 320.43,
-   "r": 62.7
+   "a20": 320.42,
+   "r": 62.6
   },
   {
    "s": "NVDA",
-   "p": 215.03,
-   "c": 1.35,
+   "p": 214.9,
+   "c": 1.29,
    "a50": 213.6,
    "a200": 197.96,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.58,
-   "r": 47.8
+   "a20": 218.57,
+   "r": 47.7
   },
   {
    "s": "TSLA",
-   "p": 360.67,
-   "c": 1.15,
+   "p": 360.54,
+   "c": 1.11,
    "a50": 351.7,
    "a200": 397.99,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 358.02,
-   "r": 52.3
+   "a20": 358.01,
+   "r": 52.2
   },
   {
    "s": "META",
-   "p": 675.98,
-   "c": 0.86,
-   "a50": 605.16,
-   "a200": 623.88,
+   "p": 674.78,
+   "c": 0.68,
+   "a50": 605.14,
+   "a200": 623.87,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 601.93,
-   "r": 72.7
+   "a20": 601.87,
+   "r": 72.5
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7606.62,
-   "c": 0.28,
-   "a50": 7613.1,
-   "a200": 7175.2,
+   "p": 7605.99,
+   "c": 0.27,
+   "a50": 7613.08,
+   "a200": 7175.19,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7664.68,
-   "r": 46.2
+   "a20": 7664.64,
+   "r": 46.1
   },
   {
    "s": "^VIX",
-   "p": 16.83,
-   "c": -2.15,
+   "p": 16.81,
+   "c": -2.27,
    "a50": 16.17,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.71,
-   "r": 54.0
+   "r": 53.9
   },
   {
    "s": "BZ=F",
-   "p": 105.67,
-   "c": -2.83,
+   "p": 105.7,
+   "c": -2.8,
    "a50": 90.66,
    "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 96.57,
-   "r": 65.6
+   "r": 65.7
   },
   {
    "s": "GC=F",
-   "p": 4388.7,
-   "c": 1.29,
-   "a50": 4313.25,
-   "a200": 4551.88,
+   "p": 4385.7,
+   "c": 1.22,
+   "a50": 4313.19,
+   "a200": 4551.87,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4506.75,
-   "r": 47.3
+   "a20": 4506.6,
+   "r": 47.0
   },
   {
    "s": "HG=F",
-   "p": 6.51,
-   "c": 2.18,
+   "p": 6.5,
+   "c": 2.1,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 49.3
+   "r": 49.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03147624,
-   "c": -0.17,
+   "c": -0.16,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160376.aspx"
   },
   {
-   "t": "Tech stocks today: OpenAI raising funds at $1.2 trillion valuation,  SK Hynix and Intel moves",
+   "t": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-openai-raising-funds-at-12-trillion-valuation-sk-hynix-and-intel-moves-140134624.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html"
   },
   {
    "t": "油價居高不下　美國8月零售銷售月增1.2%超預期",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609160370.aspx"
   },
   {
-   "t": "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Jam (Live Coverage)",
+   "t": "US DFC approves $500 million in guarantees to boost US exports to emerging markets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/policy/articles/us-dfc-approves-500-million-173355620.html"
   },
   {
    "t": "AI資料中心進駐曼谷市區  居民憂慮環境影響與安全",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160364.aspx"
   },
   {
-   "t": "Wall Street bets on a rate hike, but the Fed decision could be a close call",
+   "t": "Mortgage and refinance interest rates today, Wednesday, September 16, 2026: Rates ease somewhat ahead of the Fed's rate decision",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/article/wall-street-bets-on-a-rate-hike-but-the-fed-decision-could-be-a-close-call-171212149.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-september-16-2026-rates-ease-somewhat-ahead-of-the-feds-rate-decision-100000213.html"
   },
   {
    "t": "華邦電斥資353.9億　取得英飛凌NOR Flash與F-RAM事業100％股權",
