@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 06:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 06:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 105.58,
-   "c": -2.91,
-   "a50": 90.66,
+   "p": 105.52,
+   "c": -2.97,
+   "a50": 90.65,
    "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.57,
-   "r": 65.4
+   "a20": 96.56,
+   "r": 65.3
   },
   {
    "s": "GC=F",
-   "p": 4294.8,
-   "c": -0.88,
-   "a50": 4311.37,
-   "a200": 4551.41,
+   "p": 4299.4,
+   "c": -0.77,
+   "a50": 4311.46,
+   "a200": 4551.44,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4502.06,
-   "r": 40.0
+   "a20": 4502.29,
+   "r": 40.3
   },
   {
    "s": "HG=F",
-   "p": 6.44,
-   "c": 1.19,
+   "p": 6.45,
+   "c": 1.25,
    "a50": 6.47,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 46.2
+   "r": 46.4
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170003.aspx"
   },
   {
-   "t": "Oracle Adds $700 Million to the Cost of its AI Transformation",
+   "t": "ASML Eyes 110+ EUV Tools in 2028 as AI Chip Demand Accelerates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/oracle-adds-700-million-cost-143021878.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/asml-eyes-110-euv-tools-143406050.html"
   },
   {
    "t": "市場預估聯準會將升息　美股早盤漲跌互見",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160376.aspx"
   },
   {
-   "t": "How Is Global Payments' Stock Performance Compared to Other Industrial Stocks?",
+   "t": "Why Rentokil Initial’s (RTO) Discount to Rollins Could Narrow",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/global-payments-stock-performance-compared-143107523.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-rentokil-initial-rto-discount-143339625.html"
   },
   {
    "t": "油價居高不下　美國8月零售銷售月增1.2%超預期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160373.aspx"
   },
   {
-   "t": "Nvidia’s Anthropic Investment: Securing AI Demand Amid Rising Competition",
+   "t": "Fed, Bessent Fight For Credibility As 10-Year Treasury Yield Tops 5%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-anthropic-investment-securing-ai-142836122.html"
+   "u": "https://www.investors.com/news/10-year-treasury-yield-federal-reserve-bessent-testimony/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
