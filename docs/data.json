@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 16:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 17:07（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.11,
-   "c": -0.52,
+   "p": 17.06,
+   "c": -0.81,
    "a50": 16.17,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.72,
-   "r": 55.4
+   "r": 55.2
   },
   {
    "s": "BZ=F",
-   "p": 107.88,
-   "c": -0.8,
+   "p": 107.97,
+   "c": -0.72,
    "a50": 90.7,
    "a200": 85.3,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.68,
-   "r": 70.4
+   "a20": 96.69,
+   "r": 70.6
   },
   {
    "s": "GC=F",
-   "p": 4368.8,
-   "c": 0.83,
-   "a50": 4312.85,
-   "a200": 4551.78,
+   "p": 4372.0,
+   "c": 0.9,
+   "a50": 4312.91,
+   "a200": 4551.8,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4505.76,
-   "r": 45.6
+   "a20": 4505.92,
+   "r": 45.9
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": 1.77,
+   "c": 1.82,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 48.1
+   "r": 48.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03146633,
-   "c": -0.21,
+   "c": -0.19,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160216.aspx"
   },
   {
-   "t": "Adobe (ADBE): A Billion Users, But Wall Street Wants Proof It Pays",
+   "t": "CrowdStrike and Palo Alto Rallied While AI Stocks Sank. Wall Street Is Pricing a Different AI Trade",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-billion-users-wall-205947269.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-palo-alto-rallied-while-211451001.html"
   },
   {
    "t": "新台幣貶4分　收31.888元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160214.aspx"
   },
   {
-   "t": "GEV Stock Sinks on New 'Sell' Rating. What to Know.",
+   "t": "Goldman Sachs Expects Fed Chair Kevin Warsh to Raise Rates This Week — But Not Because of Oil Prices.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gev-stock-sinks-sell-rating-205515859.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/goldman-sachs-expects-fed-chair-211711296.html"
   },
   {
    "t": "瑞銀正向看待台股　估2027年企業獲利成長31%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160206.aspx"
   },
   {
-   "t": "Coda Octopus Group, Inc. Q3 2026 Earnings Call Summary",
+   "t": "Adobe (ADBE): A Billion Users, But Wall Street Wants Proof It Pays",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/coda-octopus-group-inc-q3-205121286.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-billion-users-wall-205947269.html"
   },
   {
    "t": "財政部預告修正CRS規範　增列電支申報義務",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160199.aspx"
   },
   {
-   "t": "The Hain Celestial Group, Inc. Q1 2027 Earnings Call Summary",
+   "t": "Carney, locked in US trade war, pitches Canada to global investment titans",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/hain-celestial-group-inc-q1-205014153.html"
+   "u": "https://finance.yahoo.com/news/carney-locked-us-trade-war-100319218.html"
   },
   {
    "t": "全球金融中心排行台灣第42名　2年躍升31名次",
