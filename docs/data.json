@@ -1,329 +1,329 @@
 {
- "generatedAt": "2026-09-16 19:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 01:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2380.0,
-   "c": -0.21,
-   "a50": 2389.0,
-   "a200": 2052.72,
+   "p": 2385.0,
+   "c": 0.21,
+   "a50": 2390.7,
+   "a200": 2048.1,
    "yh": 2510.0,
    "yl": 1265.0,
-   "a20": 2411.75,
-   "r": 46.2
-  },
-  {
-   "s": "2317.TW",
-   "p": 248.0,
-   "c": 0.61,
-   "a50": 249.17,
-   "a200": 236.16,
-   "yh": 309.0,
-   "yl": 187.5,
-   "a20": 249.6,
+   "a20": 2410.25,
    "r": 46.9
   },
   {
+   "s": "2317.TW",
+   "p": 246.5,
+   "c": -0.8,
+   "a50": 248.96,
+   "a200": 236.1,
+   "yh": 309.0,
+   "yl": 187.5,
+   "a20": 249.45,
+   "r": 45.1
+  },
+  {
    "s": "2308.TW",
-   "p": 1710.0,
-   "c": 2.4,
-   "a50": 1760.2,
-   "a200": 1611.54,
+   "p": 1670.0,
+   "c": 3.09,
+   "a50": 1763.7,
+   "a200": 1607.76,
    "yh": 2520.0,
    "yl": 836.0,
-   "a20": 1752.75,
-   "r": 46.4
+   "a20": 1755.5,
+   "r": 42.8
   },
   {
    "s": "2454.TW",
-   "p": 4530.0,
-   "c": 2.26,
-   "a50": 3966.9,
-   "a200": 2785.15,
+   "p": 4430.0,
+   "c": -2.85,
+   "a50": 3956.2,
+   "a200": 2768.42,
    "yh": 4760.0,
    "yl": 1145.0,
-   "a20": 4248.75,
-   "r": 58.9
+   "a20": 4214.5,
+   "r": 56.2
   },
   {
    "s": "2327.TW",
-   "p": 536.0,
-   "c": -0.19,
-   "a50": 607.69,
-   "a200": 466.22,
+   "p": 537.0,
+   "c": -1.47,
+   "a50": 614.79,
+   "a200": 464.7,
    "yh": 1140.0,
    "yl": 149.5,
-   "a20": 554.05,
-   "r": 43.2
+   "a20": 556.05,
+   "r": 43.4
   },
   {
    "s": "1802.TW",
-   "p": 58.5,
-   "c": 4.46,
-   "a50": 56.75,
-   "a200": 55.57,
+   "p": 56.0,
+   "c": -3.11,
+   "a50": 56.9,
+   "a200": 55.45,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 59.07,
-   "r": 50.4
+   "a20": 59.0,
+   "r": 42.1
   },
   {
    "s": "6862.TW",
-   "p": 131.5,
-   "c": 1.15,
-   "a50": 143.35,
-   "a200": 172.44,
+   "p": 130.0,
+   "c": -1.52,
+   "a50": 144.31,
+   "a200": 172.63,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 137.35,
-   "r": 36.3
+   "a20": 137.65,
+   "r": 33.0
   },
   {
    "s": "3701.TW",
-   "p": 40.0,
-   "c": 3.09,
-   "a50": 40.28,
-   "a200": 49.55,
+   "p": 38.8,
+   "c": -2.51,
+   "a50": 40.33,
+   "a200": 49.5,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.83,
-   "r": 47.2
+   "a20": 40.8,
+   "r": 42.4
   },
   {
    "s": "4722.TW",
-   "p": 187.0,
-   "c": 1.08,
-   "a50": 209.48,
-   "a200": 202.24,
+   "p": 185.0,
+   "c": -2.63,
+   "a50": 210.93,
+   "a200": 202.11,
    "yh": 306.5,
    "yl": 129.5,
-   "a20": 199.38,
-   "r": 39.6
+   "a20": 200.18,
+   "r": 37.8
   },
   {
    "s": "6706.TW",
-   "p": 147.0,
-   "c": 2.44,
-   "a50": 119.51,
-   "a200": 132.21,
+   "p": 143.5,
+   "c": -4.97,
+   "a50": 119.41,
+   "a200": 131.88,
    "yh": 216.5,
    "yl": 66.1,
-   "a20": 127.0,
-   "r": 65.9
+   "a20": 125.42,
+   "r": 64.0
   },
   {
    "s": "2305.TW",
-   "p": 49.4,
-   "c": 9.9,
-   "a50": 32.08,
-   "a200": 21.07,
-   "yh": 49.4,
+   "p": 44.95,
+   "c": -0.44,
+   "a50": 31.8,
+   "a200": 20.87,
+   "yh": 45.15,
    "yl": 10.25,
-   "a20": 33.41,
-   "r": 82.7
+   "a20": 32.28,
+   "r": 78.8
   },
   {
    "s": "6442.TW",
-   "p": 1575.0,
-   "c": 4.3,
-   "a50": 1481.2,
-   "a200": 1668.05,
+   "p": 1510.0,
+   "c": -5.03,
+   "a50": 1479.4,
+   "a200": 1665.7,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1639.5,
-   "r": 48.1
+   "a20": 1637.25,
+   "r": 43.7
   },
   {
    "s": "6515.TW",
-   "p": 6210.0,
-   "c": -1.58,
-   "a50": 6619.4,
-   "a200": 6481.5,
+   "p": 6310.0,
+   "c": -4.39,
+   "a50": 6649.3,
+   "a200": 6462.2,
    "yh": 10795.0,
    "yl": 1705.0,
-   "a20": 6653.25,
-   "r": 41.1
+   "a20": 6661.25,
+   "r": 42.4
   },
   {
    "s": "6446.TW",
    "p": 1205.0,
-   "c": 0.0,
-   "a50": 1301.8,
-   "a200": 812.95,
+   "c": 1.26,
+   "a50": 1305.29,
+   "a200": 809.07,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1368.75,
+   "a20": 1378.5,
    "r": 40.1
   },
   {
    "s": "3324.TWO",
-   "p": 1360.0,
-   "c": 7.94,
-   "a50": 1068.14,
-   "a200": 1022.1,
+   "p": 1260.0,
+   "c": -3.45,
+   "a50": 1059.44,
+   "a200": 1019.98,
    "yh": 1485.0,
    "yl": 815.0,
-   "a20": 1255.1,
-   "r": 58.6
+   "a20": 1236.55,
+   "r": 52.9
   },
   {
    "s": "3491.TWO",
-   "p": 1440.0,
-   "c": 6.27,
-   "a50": 1294.04,
-   "a200": 1298.98,
+   "p": 1355.0,
+   "c": -2.52,
+   "a50": 1290.64,
+   "a200": 1294.09,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1401.5,
-   "r": 54.2
+   "a20": 1390.75,
+   "r": 48.6
   },
   {
    "s": "3585.TWO",
-   "p": 45.15,
-   "c": 0.56,
-   "a50": 49.62,
-   "a200": 45.5,
+   "p": 44.9,
+   "c": -1.21,
+   "a50": 50.04,
+   "a200": 45.33,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 48.56,
-   "r": 41.6
+   "a20": 48.71,
+   "r": 41.0
   },
   {
    "s": "6223.TWO",
-   "p": 5600.0,
-   "c": 2.94,
-   "a50": 5746.5,
-   "a200": 4421.38,
+   "p": 5440.0,
+   "c": -2.77,
+   "a50": 5763.7,
+   "a200": 4402.92,
    "yh": 7380.0,
    "yl": 1495.0,
-   "a20": 5412.25,
-   "r": 50.7
+   "a20": 5395.0,
+   "r": 47.3
   },
   {
    "s": "6750.TWO",
-   "p": 57.4,
-   "c": 0.35,
-   "a50": 56.88,
-   "a200": 58.29,
+   "p": 57.2,
+   "c": -1.04,
+   "a50": 57.04,
+   "a200": 58.2,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.69,
-   "r": 50.3
+   "a20": 56.57,
+   "r": 49.4
   },
   {
    "s": "AAPL",
-   "p": 331.34,
-   "c": -0.52,
-   "a50": 318.84,
-   "a200": 285.51,
+   "p": 333.24,
+   "c": 0.57,
+   "a50": 319.29,
+   "a200": 285.79,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 319.27,
-   "r": 61.3
+   "a20": 320.43,
+   "r": 62.7
   },
   {
    "s": "NVDA",
-   "p": 212.17,
-   "c": 0.57,
-   "a50": 213.24,
-   "a200": 197.79,
+   "p": 215.24,
+   "c": 1.45,
+   "a50": 213.61,
+   "a200": 197.96,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.81,
-   "r": 45.1
+   "a20": 218.59,
+   "r": 48.0
   },
   {
    "s": "TSLA",
-   "p": 356.58,
-   "c": -0.67,
-   "a50": 352.54,
-   "a200": 398.32,
+   "p": 360.9,
+   "c": 1.21,
+   "a50": 351.7,
+   "a200": 397.99,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 356.83,
-   "r": 50.4
+   "a20": 358.03,
+   "r": 52.4
   },
   {
    "s": "META",
-   "p": 670.24,
-   "c": 0.7,
-   "a50": 603.96,
-   "a200": 623.66,
+   "p": 675.95,
+   "c": 0.85,
+   "a50": 605.16,
+   "a200": 623.88,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 595.32,
-   "r": 71.6
+   "a20": 601.93,
+   "r": 72.7
   },
   {
    "s": "^TWII",
-   "p": 45848.9,
-   "c": 0.74,
-   "a50": 44971.78,
-   "a200": 38004.34,
+   "p": 45511.49,
+   "c": -0.77,
+   "a50": 44964.39,
+   "a200": 37907.99,
    "yh": 47741.51,
    "yl": 25438.25,
-   "a20": 46092.17,
-   "r": 50.2
+   "a20": 46035.7,
+   "r": 47.4
   },
   {
    "s": "^GSPC",
-   "p": 7585.73,
-   "c": -0.45,
-   "a50": 7611.04,
-   "a200": 7171.23,
+   "p": 7608.85,
+   "c": 0.3,
+   "a50": 7613.14,
+   "a200": 7175.21,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7668.93,
-   "r": 44.1
+   "a20": 7664.79,
+   "r": 46.4
   },
   {
    "s": "^VIX",
-   "p": 16.84,
-   "c": -2.09,
+   "p": 16.83,
+   "c": -2.15,
    "a50": 16.17,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.71,
-   "r": 54.1
+   "r": 54.0
   },
   {
    "s": "BZ=F",
-   "p": 107.31,
-   "c": -1.32,
-   "a50": 90.69,
+   "p": 105.87,
+   "c": -2.65,
+   "a50": 90.66,
    "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.65,
-   "r": 69.1
+   "a20": 96.58,
+   "r": 66.0
   },
   {
    "s": "GC=F",
-   "p": 4391.1,
-   "c": 1.35,
-   "a50": 4313.29,
-   "a200": 4551.89,
+   "p": 4387.7,
+   "c": 1.27,
+   "a50": 4313.23,
+   "a200": 4551.88,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4506.87,
-   "r": 47.4
+   "a20": 4506.7,
+   "r": 47.2
   },
   {
    "s": "HG=F",
-   "p": 6.52,
-   "c": 2.36,
+   "p": 6.51,
+   "c": 2.17,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 49.8
+   "r": 49.2
   },
   {
    "s": "TWDUSD",
    "p": 0.03148615,
-   "c": -0.15,
+   "c": -0.14,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "研調：AI支出今年估增49.5%　2027年達3.63兆美元",
+   "t": "市場靜待聯準會利率決策　歐股收高油價跌",
    "pub": "中央社財經",
-   "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160290.aspx"
+   "d": "2026-09-17",
+   "u": "https://www.cna.com.tw/news/afe/202609170003.aspx"
   },
   {
    "t": "How a Costco partner's bankruptcy could benefit its biggest rival",
@@ -344,58 +344,58 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html"
   },
   {
-   "t": "外資匯出　新台幣震盪翻貶收31.888元",
+   "t": "市場預估聯準會將升息　美股早盤漲跌互見",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160289.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609160376.aspx"
   },
   {
-   "t": "Co-investment and directs to eclipse primary funds, buyers say",
+   "t": "Tech stocks today: OpenAI raising funds at $1.2 trillion valuation,  SK Hynix and Intel moves",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/co-investment-directs-eclipse-primary-112810718.html"
+   "u": "https://finance.yahoo.com/technology/live/tech-stocks-today-openai-raising-funds-at-12-trillion-valuation-sk-hynix-and-intel-moves-140134624.html"
   },
   {
-   "t": "裕日車：明年銷售估持平　電動車市況續看佳",
+   "t": "油價居高不下　美國8月零售銷售月增1.2%超預期",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160287.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609160373.aspx"
   },
   {
-   "t": "Bitcoin and ethereum prices today, Wednesday, September 16, 2026: Crypto prices tank after CLARITY Act fails and ahead of Fed decision",
+   "t": "Fed meeting live updates: Fed interest rate decision looms, with traders anticipating first hike in 3 years",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-16-2026-crypto-prices-tank-after-clarity-act-fails-and-ahead-of-fed-decision-112517152.html"
+   "u": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html"
   },
   {
-   "t": "財部：外國營利事業認列境外成本費用　免經駐外館處驗證",
+   "t": "今彩539第115225期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160285.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202609160370.aspx"
   },
   {
-   "t": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Cloudflare Hits Buy Point",
+   "t": "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Jam (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "00919和00929指數定期審核結果　成分股維持不變",
+   "t": "AI資料中心進駐曼谷市區  居民憂慮環境影響與安全",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160282.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609160364.aspx"
   },
   {
-   "t": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; Will Market Bid Bond Voyage After Fed Rate Hike?",
+   "t": "Wall Street bets on a rate hike, but the Fed decision could be a close call",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/policy/article/wall-street-bets-on-a-rate-hike-but-the-fed-decision-could-be-a-close-call-171212149.html"
   },
   {
-   "t": "看好海外旅遊熱潮　中信銀聯名卡拚發卡量上看20萬張",
+   "t": "華邦電斥資353.9億　取得英飛凌NOR Flash與F-RAM事業100％股權",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160278.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609160361.aspx"
   },
   {
    "t": "Rich Dad Poor Dad author warns biggest crash in history has started",
