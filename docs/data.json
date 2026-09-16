@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 17:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 17:28（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,14 +289,14 @@
   },
   {
    "s": "BZ=F",
-   "p": 108.36,
-   "c": -0.36,
+   "p": 108.35,
+   "c": -0.37,
    "a50": 90.71,
    "a200": 85.3,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 96.71,
-   "r": 71.6
+   "r": 71.5
   },
   {
    "s": "GC=F",
@@ -311,19 +311,19 @@
   },
   {
    "s": "HG=F",
-   "p": 6.49,
-   "c": 1.92,
+   "p": 6.48,
+   "c": 1.77,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 48.5
+   "r": 48.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03146633,
-   "c": -0.19,
+   "p": 0.03145643,
+   "c": -0.22,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160199.aspx"
   },
   {
-   "t": "How a Fed rate hike would affect your bank accounts, loans, credit cards, and investments",
+   "t": "Carney, locked in US trade war, pitches Canada to global investment titans",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-a-fed-rate-hike-would-affect-your-bank-accounts-loans-credit-cards-and-investments-220526102.html"
+   "u": "https://finance.yahoo.com/news/carney-locked-us-trade-war-100319218.html"
   },
   {
    "t": "全球金融中心排行台灣第42名　2年躍升31名次",
