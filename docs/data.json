@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 05:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 05:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.0314169,
-   "c": -0.35,
+   "c": -0.36,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170003.aspx"
   },
   {
-   "t": "Hong Kong Crypto Exchange CoinEx To Shutdown",
+   "t": "China’s Yuan Crude Oil Futures Jump to Record High",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/hong-kong-crypto-exchange-coinex-132900721.html"
+   "u": "https://finance.yahoo.com/energy/articles/china-yuan-crude-oil-futures-133000430.html"
   },
   {
    "t": "市場預估聯準會將升息　美股早盤漲跌互見",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160376.aspx"
   },
   {
-   "t": "Robinhood To Offer Share Redemptions And Voting Rights On Tokenized Stocks",
+   "t": "10-Year Yield Surges to 19-Year High: Here’s What Traders Need to Know Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/robinhood-offer-share-redemptions-voting-132500081.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/10-yield-surges-19-high-133525534.html"
   },
   {
    "t": "油價居高不下　美國8月零售銷售月增1.2%超預期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160373.aspx"
   },
   {
-   "t": "China’s Yuan Crude Oil Futures Jump to Record High",
+   "t": "Hong Kong Crypto Exchange CoinEx To Shutdown",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/china-yuan-crude-oil-futures-133000430.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/hong-kong-crypto-exchange-coinex-132900721.html"
   }
  ],
  "inst": {
