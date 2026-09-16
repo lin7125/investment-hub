@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 13:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 13:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,102 +14,102 @@
   },
   {
    "s": "2317.TW",
-   "p": 246.5,
-   "c": 0.0,
-   "a50": 249.14,
-   "a200": 236.15,
+   "p": 247.0,
+   "c": 0.2,
+   "a50": 249.15,
+   "a200": 236.16,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 249.52,
-   "r": 45.1
+   "a20": 249.55,
+   "r": 45.7
   },
   {
    "s": "2308.TW",
-   "p": 1700.0,
-   "c": 1.8,
-   "a50": 1760.0,
-   "a200": 1611.49,
+   "p": 1705.0,
+   "c": 2.1,
+   "a50": 1760.1,
+   "a200": 1611.52,
    "yh": 2520.0,
    "yl": 836.0,
-   "a20": 1752.25,
-   "r": 45.5
+   "a20": 1752.5,
+   "r": 46.0
   },
   {
    "s": "2454.TW",
-   "p": 4540.0,
-   "c": 2.48,
-   "a50": 3967.1,
-   "a200": 2785.2,
+   "p": 4545.0,
+   "c": 2.6,
+   "a50": 3967.2,
+   "a200": 2785.22,
    "yh": 4760.0,
    "yl": 1145.0,
-   "a20": 4249.25,
-   "r": 59.1
+   "a20": 4249.5,
+   "r": 59.3
   },
   {
    "s": "2327.TW",
-   "p": 531.0,
-   "c": -1.12,
-   "a50": 607.59,
-   "a200": 466.2,
+   "p": 534.0,
+   "c": -0.56,
+   "a50": 607.65,
+   "a200": 466.21,
    "yh": 1140.0,
    "yl": 149.5,
-   "a20": 553.8,
-   "r": 42.5
+   "a20": 553.95,
+   "r": 42.9
   },
   {
    "s": "1802.TW",
-   "p": 58.0,
-   "c": 3.57,
-   "a50": 56.74,
+   "p": 58.3,
+   "c": 4.11,
+   "a50": 56.75,
    "a200": 55.57,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 59.04,
-   "r": 48.9
+   "a20": 59.06,
+   "r": 49.8
   },
   {
    "s": "6862.TW",
-   "p": 132.0,
-   "c": 1.54,
-   "a50": 143.36,
-   "a200": 172.44,
+   "p": 131.0,
+   "c": 0.77,
+   "a50": 143.34,
+   "a200": 172.43,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 137.38,
-   "r": 37.4
+   "a20": 137.32,
+   "r": 35.3
   },
   {
    "s": "3701.TW",
-   "p": 40.25,
-   "c": 3.74,
+   "p": 40.4,
+   "c": 4.12,
    "a50": 40.29,
    "a200": 49.55,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.85,
-   "r": 48.1
+   "r": 48.7
   },
   {
    "s": "4722.TW",
-   "p": 187.0,
-   "c": 1.08,
-   "a50": 209.48,
+   "p": 187.5,
+   "c": 1.35,
+   "a50": 209.49,
    "a200": 202.24,
    "yh": 306.5,
    "yl": 129.5,
-   "a20": 199.38,
-   "r": 39.6
+   "a20": 199.4,
+   "r": 40.0
   },
   {
    "s": "6706.TW",
-   "p": 145.5,
-   "c": 1.39,
-   "a50": 119.48,
-   "a200": 132.2,
+   "p": 147.0,
+   "c": 2.44,
+   "a50": 119.51,
+   "a200": 132.21,
    "yh": 216.5,
    "yl": 66.1,
-   "a20": 126.92,
-   "r": 65.1
+   "a20": 127.0,
+   "r": 65.9
   },
   {
    "s": "2305.TW",
@@ -124,25 +124,25 @@
   },
   {
    "s": "6442.TW",
-   "p": 1570.0,
-   "c": 3.97,
-   "a50": 1481.1,
-   "a200": 1668.02,
+   "p": 1575.0,
+   "c": 4.3,
+   "a50": 1481.2,
+   "a200": 1668.05,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1639.25,
-   "r": 47.7
+   "a20": 1639.5,
+   "r": 48.1
   },
   {
    "s": "6515.TW",
-   "p": 6205.0,
-   "c": -1.66,
-   "a50": 6619.3,
-   "a200": 6481.48,
+   "p": 6240.0,
+   "c": -1.11,
+   "a50": 6620.0,
+   "a200": 6481.65,
    "yh": 10795.0,
    "yl": 1705.0,
-   "a20": 6653.0,
-   "r": 41.0
+   "a20": 6654.75,
+   "r": 41.5
   },
   {
    "s": "6446.TW",
@@ -157,14 +157,14 @@
   },
   {
    "s": "3324.TWO",
-   "p": 1345.0,
-   "c": 6.75,
-   "a50": 1067.84,
-   "a200": 1022.03,
+   "p": 1360.0,
+   "c": 7.94,
+   "a50": 1068.14,
+   "a200": 1022.1,
    "yh": 1485.0,
    "yl": 815.0,
-   "a20": 1254.35,
-   "r": 57.9
+   "a20": 1255.1,
+   "r": 58.6
   },
   {
    "s": "3491.TWO",
@@ -179,25 +179,25 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.25,
-   "c": 0.78,
+   "p": 45.15,
+   "c": 0.56,
    "a50": 49.62,
    "a200": 45.5,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 48.56,
-   "r": 41.8
+   "r": 41.6
   },
   {
    "s": "6223.TWO",
-   "p": 5605.0,
-   "c": 3.03,
-   "a50": 5746.6,
-   "a200": 4421.4,
+   "p": 5600.0,
+   "c": 2.94,
+   "a50": 5746.5,
+   "a200": 4421.38,
    "yh": 7380.0,
    "yl": 1495.0,
-   "a20": 5412.5,
-   "r": 50.8
+   "a20": 5412.25,
+   "r": 50.7
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45717.98,
-   "c": 0.45,
-   "a50": 44969.17,
-   "a200": 38003.68,
+   "p": 45773.47,
+   "c": 0.58,
+   "a50": 44970.28,
+   "a200": 38003.96,
    "yh": 47741.51,
    "yl": 25438.25,
-   "a20": 46085.63,
-   "r": 49.1
+   "a20": 46088.4,
+   "r": 49.6
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 108.13,
-   "c": -0.57,
+   "p": 108.07,
+   "c": -0.63,
    "a50": 90.71,
    "a200": 85.3,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 96.69,
-   "r": 71.0
+   "r": 70.9
   },
   {
    "s": "GC=F",
-   "p": 4362.3,
-   "c": 0.68,
-   "a50": 4312.72,
-   "a200": 4551.75,
+   "p": 4365.2,
+   "c": 0.75,
+   "a50": 4312.78,
+   "a200": 4551.77,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4505.43,
-   "r": 45.1
+   "a20": 4505.58,
+   "r": 45.3
   },
   {
    "s": "HG=F",
-   "p": 6.48,
-   "c": 1.81,
+   "p": 6.49,
+   "c": 1.88,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 48.2
+   "r": 48.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03150599,
-   "c": -0.06,
+   "p": 0.03151592,
+   "c": -0.04,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160084.aspx"
   },
   {
-   "t": "SpaceX Stock Is Positioned for Robust ARR Growth and EBITDA Margin Expansion",
+   "t": "Unusually High Volume in Deep Out-of-the-Money Vertiv Call Options Shows Investors Bullish on VRT",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-positioned-robust-arr-172347013.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/unusually-high-volume-deep-money-173002945.html"
   },
   {
    "t": "114年員工人均總報酬88.3萬　非經常性薪資比重創高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160070.aspx"
   },
   {
-   "t": "Cotton Falling Back on Monday",
+   "t": "Chili's Stays Hot. Its Owner Is IBD's Stock Of The Day.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/cotton-falling-back-monday-172312417.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/eat-stock-analysis-brinker-international-chilis/?src=A00220&yptr=yahoo"
   },
   {
    "t": "床的世界掛牌上櫃　股價漲近5%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160068.aspx"
   },
   {
-   "t": "Corn Trading with Midday Gains",
+   "t": "SpaceX Stock Is Positioned for Robust ARR Growth and EBITDA Margin Expansion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-trading-midday-gains-172312312.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-positioned-robust-arr-172347013.html"
   },
   {
    "t": "台積電填息效應　台股盤中漲逾300點攻45800點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160062.aspx"
   },
   {
-   "t": "Soybean Bulls Pushing Back at Midday",
+   "t": "Dell Stock Is Up 331% Over the Past Year and Still Could Run Higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/soybean-bulls-pushing-back-midday-172312242.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-331-over-past-174502244.html"
   },
   {
    "t": "漢測公開申購逾3萬筆不合格　中籤率提升至0.29%",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160057.aspx"
   },
   {
-   "t": "BofA CEO Sees Trading Revenue ‘Relatively Flat’ in Third Quarter",
+   "t": "Is Verizon Stock Counting On Money That Has Not Arrived Yet?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bofa-ceo-sees-trading-revenue-172202690.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/verizon-stock-counting-money-not-173613567.html"
   }
  ],
  "inst": {
