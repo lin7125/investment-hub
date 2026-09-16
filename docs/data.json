@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 15:45（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 15:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,25 +278,25 @@
   },
   {
    "s": "^VIX",
-   "p": 16.92,
-   "c": -1.63,
+   "p": 16.94,
+   "c": -1.51,
    "a50": 16.17,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.71,
-   "r": 54.5
+   "a20": 15.72,
+   "r": 54.6
   },
   {
    "s": "BZ=F",
-   "p": 107.49,
-   "c": -1.16,
+   "p": 107.53,
+   "c": -1.12,
    "a50": 90.69,
    "a200": 85.3,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 96.66,
-   "r": 69.5
+   "r": 69.6
   },
   {
    "s": "GC=F",
@@ -311,19 +311,19 @@
   },
   {
    "s": "HG=F",
-   "p": 6.5,
-   "c": 2.1,
+   "p": 6.49,
+   "c": 1.88,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 49.0
+   "r": 48.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03148615,
-   "c": -0.14,
+   "p": 0.03147624,
+   "c": -0.17,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160156.aspx"
   },
   {
-   "t": "How a Fed rate hike would affect your bank accounts, loans, credit cards, and investments",
+   "t": "Looking Inside Sunbelt Rentals’ (SUNB) Record Revenues, Debt Discipline, and Uneven Segment Margins",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-a-fed-rate-hike-would-affect-your-bank-accounts-loans-credit-cards-and-investments-220526102.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/looking-inside-sunbelt-rentals-sunb-202755113.html"
   },
   {
    "t": "9月台股期指漲167點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160153.aspx"
   },
   {
-   "t": "Acquisition Momentum Offset by Profitability Headwinds for Mission Produce (AVO)",
+   "t": "Bank of America leads financial services stocks lower on weak Wall Street fee forecast",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/acquisition-momentum-offset-profitability-headwinds-201205075.html"
+   "u": "https://finance.yahoo.com/markets/article/bank-of-america-leads-financial-services-stocks-lower-on-weak-wall-street-fee-forecast-202601947.html"
   },
   {
    "t": "iPhone 18 Pro將開賣　德誼：高階換機潮估增逾1成",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160150.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq slip as chip stocks fall on AI warning",
+   "t": "Stocks Settle Lower as AI Slowdown Fears Weigh on Chipmakers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-ai-slowdown-203505818.html"
   },
   {
    "t": "台股漲337.41點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160146.aspx"
   },
   {
-   "t": "Bank of America leads financial services stocks lower on weak Wall Street fee forecast",
+   "t": "Stock Market Today: Dow Falls, Cyber Plays Soar Amid AI Fears; Bessent Makes This Move On Iran (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/bank-of-america-leads-financial-services-stocks-lower-on-weak-wall-street-fee-forecast-202601947.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股終場漲337點收45848點　台積電收2380元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160143.aspx"
   },
   {
-   "t": "Making Sense of the Shock from a 5% Treasury Yield",
+   "t": "A Parent Is Ready to Hand Her Daughter $6,300 to Pay Off Her Car — Then Wonders If the ‘Gift’ Could Backfire",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/treasury-yield-5-shock-perspective-71a7360c?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/articles/parent-ready-hand-her-daughter-203008660.html"
   }
  ],
  "inst": {
