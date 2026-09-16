@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 02:00（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 02:11（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 333.37,
-   "c": 0.61,
-   "a50": 319.29,
+   "p": 334.18,
+   "c": 0.86,
+   "a50": 319.31,
    "a200": 285.79,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 320.44,
-   "r": 62.8
+   "a20": 320.48,
+   "r": 63.4
   },
   {
    "s": "NVDA",
-   "p": 215.46,
-   "c": 1.55,
+   "p": 215.69,
+   "c": 1.66,
    "a50": 213.61,
    "a200": 197.96,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.6,
-   "r": 48.2
+   "a20": 218.61,
+   "r": 48.4
   },
   {
    "s": "TSLA",
-   "p": 360.92,
-   "c": 1.22,
-   "a50": 351.71,
+   "p": 362.07,
+   "c": 1.54,
+   "a50": 351.73,
    "a200": 397.99,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 358.03,
-   "r": 52.4
+   "a20": 358.09,
+   "r": 52.9
   },
   {
    "s": "META",
-   "p": 676.66,
-   "c": 0.96,
-   "a50": 605.18,
-   "a200": 623.88,
+   "p": 680.07,
+   "c": 1.47,
+   "a50": 605.24,
+   "a200": 623.9,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 601.97,
-   "r": 72.9
+   "a20": 602.14,
+   "r": 73.5
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7612.3,
-   "c": 0.35,
-   "a50": 7613.21,
-   "a200": 7175.22,
+   "p": 7614.77,
+   "c": 0.38,
+   "a50": 7613.26,
+   "a200": 7175.24,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7664.96,
-   "r": 46.7
+   "a20": 7665.08,
+   "r": 46.9
   },
   {
    "s": "^VIX",
-   "p": 16.88,
-   "c": -1.86,
+   "p": 16.87,
+   "c": -1.92,
    "a50": 16.17,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.71,
-   "r": 54.3
+   "r": 54.2
   },
   {
    "s": "BZ=F",
-   "p": 105.7,
-   "c": -2.8,
-   "a50": 90.66,
+   "p": 105.46,
+   "c": -3.03,
+   "a50": 90.65,
    "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.57,
-   "r": 65.7
+   "a20": 96.56,
+   "r": 65.2
   },
   {
    "s": "GC=F",
-   "p": 4386.4,
-   "c": 1.24,
-   "a50": 4313.2,
-   "a200": 4551.87,
+   "p": 4379.5,
+   "c": 1.08,
+   "a50": 4313.06,
+   "a200": 4551.84,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4506.64,
-   "r": 47.1
+   "a20": 4506.29,
+   "r": 46.5
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": 2.06,
+   "c": 2.07,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160376.aspx"
   },
   {
-   "t": "Fed meeting live updates: Fed interest rate decision looms, with traders anticipating first hike in 3 years",
+   "t": "Rich Dad Poor Dad author warns biggest crash in history has started",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html"
   },
   {
    "t": "油價居高不下　美國8月零售銷售月增1.2%超預期",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160373.aspx"
   },
   {
-   "t": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
+   "t": "Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html"
+   "u": "https://finance.yahoo.com/news/exclusive-indian-consumer-regulator-escalates-091004769.html"
   },
   {
    "t": "今彩539第115225期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609160370.aspx"
   },
   {
-   "t": "US DFC approves $500 million in guarantees to boost US exports to emerging markets",
+   "t": "Ask an Advisor: I've Already Claimed Social Security. Will a Pay Raise Increase My Benefit?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/us-dfc-approves-500-million-173355620.html"
+   "u": "https://finance.yahoo.com/news/ask-advisor-kept-working-claiming-100000593.html"
   },
   {
    "t": "AI資料中心進駐曼谷市區  居民憂慮環境影響與安全",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160364.aspx"
   },
   {
-   "t": "Mortgage and refinance interest rates today, Wednesday, September 16, 2026: Rates ease somewhat ahead of the Fed's rate decision",
+   "t": "You've saved $2 million for retirement — but these 5 traps could be quietly devouring your nest egg",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-september-16-2026-rates-ease-somewhat-ahead-of-the-feds-rate-decision-100000213.html"
+   "u": "https://finance.yahoo.com/markets/articles/youve-saved-2-million-retirement-090000432.html"
   },
   {
    "t": "華邦電斥資353.9億　取得英飛凌NOR Flash與F-RAM事業100％股權",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160361.aspx"
   },
   {
-   "t": "Rich Dad Poor Dad author warns biggest crash in history has started",
+   "t": "LNG Demand in China and India Could Surge When Prices Normalize",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html"
+   "u": "https://finance.yahoo.com/energy/articles/lng-demand-china-india-could-083000371.html"
   }
  ],
  "inst": {
