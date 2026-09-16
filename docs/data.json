@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-09-16 13:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 13:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2380.0,
-   "c": -0.21,
-   "a50": 2389.0,
-   "a200": 2052.72,
+   "p": 2375.0,
+   "c": -0.42,
+   "a50": 2388.9,
+   "a200": 2052.7,
    "yh": 2510.0,
    "yl": 1265.0,
-   "a20": 2411.75,
-   "r": 46.2
+   "a20": 2411.5,
+   "r": 45.5
   },
   {
    "s": "2317.TW",
-   "p": 247.0,
-   "c": 0.2,
-   "a50": 249.15,
+   "p": 247.5,
+   "c": 0.41,
+   "a50": 249.16,
    "a200": 236.16,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 249.55,
-   "r": 45.7
+   "a20": 249.58,
+   "r": 46.3
   },
   {
    "s": "2308.TW",
@@ -36,58 +36,58 @@
   },
   {
    "s": "2454.TW",
-   "p": 4545.0,
-   "c": 2.6,
-   "a50": 3967.2,
-   "a200": 2785.22,
+   "p": 4550.0,
+   "c": 2.71,
+   "a50": 3967.3,
+   "a200": 2785.25,
    "yh": 4760.0,
    "yl": 1145.0,
-   "a20": 4249.5,
-   "r": 59.3
+   "a20": 4249.75,
+   "r": 59.4
   },
   {
    "s": "2327.TW",
-   "p": 534.0,
-   "c": -0.56,
-   "a50": 607.65,
-   "a200": 466.21,
+   "p": 535.0,
+   "c": -0.37,
+   "a50": 607.67,
+   "a200": 466.22,
    "yh": 1140.0,
    "yl": 149.5,
-   "a20": 553.95,
-   "r": 42.9
+   "a20": 554.0,
+   "r": 43.1
   },
   {
    "s": "1802.TW",
-   "p": 58.3,
-   "c": 4.11,
+   "p": 58.5,
+   "c": 4.46,
    "a50": 56.75,
    "a200": 55.57,
    "yh": 76.6,
    "yl": 25.65,
-   "a20": 59.06,
-   "r": 49.8
+   "a20": 59.07,
+   "r": 50.4
   },
   {
    "s": "6862.TW",
-   "p": 131.0,
-   "c": 0.77,
-   "a50": 143.34,
-   "a200": 172.43,
+   "p": 131.5,
+   "c": 1.15,
+   "a50": 143.35,
+   "a200": 172.44,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 137.32,
-   "r": 35.3
+   "a20": 137.35,
+   "r": 36.3
   },
   {
    "s": "3701.TW",
-   "p": 40.4,
-   "c": 4.12,
+   "p": 40.3,
+   "c": 3.87,
    "a50": 40.29,
    "a200": 49.55,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.85,
-   "r": 48.7
+   "r": 48.3
   },
   {
    "s": "4722.TW",
@@ -146,25 +146,25 @@
   },
   {
    "s": "6446.TW",
-   "p": 1195.0,
-   "c": -0.83,
-   "a50": 1301.6,
-   "a200": 812.9,
+   "p": 1205.0,
+   "c": 0.0,
+   "a50": 1301.8,
+   "a200": 812.95,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1368.25,
-   "r": 39.5
+   "a20": 1368.75,
+   "r": 40.1
   },
   {
    "s": "3324.TWO",
-   "p": 1360.0,
-   "c": 7.94,
-   "a50": 1068.14,
-   "a200": 1022.1,
+   "p": 1355.0,
+   "c": 7.54,
+   "a50": 1068.04,
+   "a200": 1022.08,
    "yh": 1485.0,
    "yl": 815.0,
-   "a20": 1255.1,
-   "r": 58.6
+   "a20": 1254.85,
+   "r": 58.4
   },
   {
    "s": "3491.TWO",
@@ -179,25 +179,25 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.15,
-   "c": 0.56,
+   "p": 45.1,
+   "c": 0.45,
    "a50": 49.62,
    "a200": 45.5,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 48.56,
-   "r": 41.6
+   "r": 41.5
   },
   {
    "s": "6223.TWO",
-   "p": 5600.0,
-   "c": 2.94,
-   "a50": 5746.5,
-   "a200": 4421.38,
+   "p": 5590.0,
+   "c": 2.76,
+   "a50": 5746.3,
+   "a200": 4421.32,
    "yh": 7380.0,
    "yl": 1495.0,
-   "a20": 5412.25,
-   "r": 50.7
+   "a20": 5411.75,
+   "r": 50.5
   },
   {
    "s": "6750.TWO",
@@ -256,13 +256,13 @@
   },
   {
    "s": "^TWII",
-   "p": 45773.47,
-   "c": 0.58,
-   "a50": 44970.28,
+   "p": 45772.56,
+   "c": 0.57,
+   "a50": 44970.26,
    "a200": 38003.96,
    "yh": 47741.51,
    "yl": 25438.25,
-   "a20": 46088.4,
+   "a20": 46088.36,
    "r": 49.6
   },
   {
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 108.07,
-   "c": -0.63,
+   "p": 108.12,
+   "c": -0.58,
    "a50": 90.71,
    "a200": 85.3,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 96.69,
-   "r": 70.9
+   "r": 71.0
   },
   {
    "s": "GC=F",
-   "p": 4365.2,
-   "c": 0.75,
-   "a50": 4312.78,
-   "a200": 4551.77,
+   "p": 4367.6,
+   "c": 0.8,
+   "a50": 4312.82,
+   "a200": 4551.78,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4505.58,
-   "r": 45.3
+   "a20": 4505.7,
+   "r": 45.5
   },
   {
    "s": "HG=F",
-   "p": 6.49,
-   "c": 1.88,
+   "p": 6.48,
+   "c": 1.75,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 48.4
+   "r": 48.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03151592,
-   "c": -0.04,
+   "c": -0.05,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "緯創跨國布局衝AI產能　高雄首場大型徵才會9/19登場",
+   "t": "夏普攜手鴻海供應鏈　進軍AI伺服器市場",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160085.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609160109.aspx"
   },
   {
    "t": "How a Costco partner's bankruptcy could benefit its biggest rival",
@@ -344,46 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html"
   },
   {
-   "t": "WTO籲改革貿易規則　警告貿易碎片化恐重創全球經濟",
+   "t": "AI帶動產能供不應求　欣興、金居積極擴產",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/aopl/202609160084.aspx"
-  },
-  {
-   "t": "Unusually High Volume in Deep Out-of-the-Money Vertiv Call Options Shows Investors Bullish on VRT",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/unusually-high-volume-deep-money-173002945.html"
-  },
-  {
-   "t": "114年員工人均總報酬88.3萬　非經常性薪資比重創高",
-   "pub": "中央社財經",
-   "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160070.aspx"
-  },
-  {
-   "t": "Chili's Stays Hot. Its Owner Is IBD's Stock Of The Day.",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://www.investors.com/research/ibd-stock-of-the-day/eat-stock-analysis-brinker-international-chilis/?src=A00220&yptr=yahoo"
-  },
-  {
-   "t": "床的世界掛牌上櫃　股價漲近5%",
-   "pub": "中央社財經",
-   "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160068.aspx"
-  },
-  {
-   "t": "SpaceX Stock Is Positioned for Robust ARR Growth and EBITDA Margin Expansion",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-positioned-robust-arr-172347013.html"
-  },
-  {
-   "t": "台積電填息效應　台股盤中漲逾300點攻45800點",
-   "pub": "中央社財經",
-   "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160062.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609160105.aspx"
   },
   {
    "t": "Dell Stock Is Up 331% Over the Past Year and Still Could Run Higher",
@@ -392,16 +356,52 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-331-over-past-174502244.html"
   },
   {
-   "t": "漢測公開申購逾3萬筆不合格　中籤率提升至0.29%",
+   "t": "新台幣午盤升5.8分　暫收31.79元",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160057.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609160099.aspx"
   },
   {
-   "t": "Is Verizon Stock Counting On Money That Has Not Arrived Yet?",
+   "t": "Chili's Stays Hot. Its Owner Is IBD's Stock Of The Day.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/verizon-stock-counting-money-not-173613567.html"
+   "u": "https://www.investors.com/research/ibd-stock-of-the-day/eat-stock-analysis-brinker-international-chilis/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "KPMG：今年央行降息空間可能不大　國銀可望維持成長",
+   "pub": "中央社財經",
+   "d": "2026-09-16",
+   "u": "https://www.cna.com.tw/news/afe/202609160097.aspx"
+  },
+  {
+   "t": "Block Stock Flashing Bullish Signal After Pullback",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/block-stock-flashing-bullish-signal-175151456.html"
+  },
+  {
+   "t": "保險業迎3大制度改變　彭金隆：不只賣保險更管理風險",
+   "pub": "中央社財經",
+   "d": "2026-09-16",
+   "u": "https://www.cna.com.tw/news/afe/202609160094.aspx"
+  },
+  {
+   "t": "Is DoorDash Stock Underperforming the S&P 500?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/doordash-stock-underperforming-p-500-175459917.html"
+  },
+  {
+   "t": "緯創跨國布局衝AI產能　高雄首場大型徵才會9/19登場",
+   "pub": "中央社財經",
+   "d": "2026-09-16",
+   "u": "https://www.cna.com.tw/news/afe/202609160085.aspx"
+  },
+  {
+   "t": "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/media-advertising/articles/netflix-climbs-4-alphabet-ticks-174552626.html"
   }
  ],
  "inst": {
