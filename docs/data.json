@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 16:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 16:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 17.01,
-   "c": -1.1,
+   "p": 16.99,
+   "c": -1.22,
    "a50": 16.17,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.72,
-   "r": 54.9
+   "r": 54.8
   },
   {
    "s": "BZ=F",
-   "p": 107.85,
-   "c": -0.83,
-   "a50": 90.7,
+   "p": 108.26,
+   "c": -0.45,
+   "a50": 90.71,
    "a200": 85.3,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.68,
-   "r": 70.3
+   "a20": 96.7,
+   "r": 71.3
   },
   {
    "s": "GC=F",
-   "p": 4373.7,
-   "c": 0.94,
-   "a50": 4312.95,
-   "a200": 4551.81,
+   "p": 4367.0,
+   "c": 0.79,
+   "a50": 4312.81,
+   "a200": 4551.77,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4506.0,
-   "r": 46.1
+   "a20": 4505.67,
+   "r": 45.5
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": 1.81,
+   "c": 1.68,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 48.2
+   "r": 47.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03147624,
-   "c": -0.16,
+   "p": 0.03145643,
+   "c": -0.22,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160216.aspx"
   },
   {
-   "t": "Behind the Ticker: The Billionaire's CLUB",
+   "t": "Adobe (ADBE): A Billion Users, But Wall Street Wants Proof It Pays",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/behind-ticker-billionaires-club-204916747.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-billion-users-wall-205947269.html"
   },
   {
    "t": "新台幣貶4分　收31.888元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160214.aspx"
   },
   {
-   "t": "The Hain Celestial Group, Inc. Q1 2027 Earnings Call Summary",
+   "t": "GEV Stock Sinks on New 'Sell' Rating. What to Know.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/hain-celestial-group-inc-q1-205014153.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/gev-stock-sinks-sell-rating-205515859.html"
   },
   {
    "t": "瑞銀正向看待台股　估2027年企業獲利成長31%",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160199.aspx"
   },
   {
-   "t": "Oracle (ORCL): Oracle Has the Backlog. Wall Street Wants the Cash",
+   "t": "Behind the Ticker: The Billionaire's CLUB",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-oracle-backlog-wall-203907436.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/behind-ticker-billionaires-club-204916747.html"
   },
   {
    "t": "全球金融中心排行台灣第42名　2年躍升31名次",
