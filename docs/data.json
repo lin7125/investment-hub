@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 17:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 19:54（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.97,
-   "c": -1.34,
+   "p": 16.84,
+   "c": -2.09,
    "a50": 16.17,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.72,
-   "r": 54.7
+   "a20": 15.71,
+   "r": 54.1
   },
   {
    "s": "BZ=F",
-   "p": 107.8,
-   "c": -0.87,
-   "a50": 90.7,
-   "a200": 85.3,
+   "p": 107.31,
+   "c": -1.32,
+   "a50": 90.69,
+   "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.68,
-   "r": 70.2
+   "a20": 96.65,
+   "r": 69.1
   },
   {
    "s": "GC=F",
-   "p": 4373.6,
-   "c": 0.94,
-   "a50": 4312.94,
-   "a200": 4551.81,
+   "p": 4391.1,
+   "c": 1.35,
+   "a50": 4313.29,
+   "a200": 4551.89,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4506.0,
-   "r": 46.0
+   "a20": 4506.87,
+   "r": 47.4
   },
   {
    "s": "HG=F",
-   "p": 6.48,
-   "c": 1.77,
+   "p": 6.52,
+   "c": 2.36,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 48.1
+   "r": 49.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03146633,
-   "c": -0.19,
+   "p": 0.03148615,
+   "c": -0.15,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "能率集團投資告捷　Agility推新一代機器人",
+   "t": "研調：AI支出今年估增49.5%　2027年達3.63兆美元",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160217.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609160290.aspx"
   },
   {
    "t": "How a Costco partner's bankruptcy could benefit its biggest rival",
@@ -344,58 +344,58 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html"
   },
   {
-   "t": "瑞銀：AI算力仍短缺　硬體供應鏈旺到2027年",
+   "t": "外資匯出　新台幣震盪翻貶收31.888元",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160216.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609160289.aspx"
   },
   {
-   "t": "When is the Fed's next meeting? See the full schedule for 2026.",
+   "t": "Co-investment and directs to eclipse primary funds, buyers say",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/when-is-the-next-fed-meeting-full-schedule-150709698.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/co-investment-directs-eclipse-primary-112810718.html"
   },
   {
-   "t": "新台幣貶4分　收31.888元",
+   "t": "裕日車：明年銷售估持平　電動車市況續看佳",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160214.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609160287.aspx"
   },
   {
-   "t": "How gold IRAs fit into a diversified retirement portfolio",
+   "t": "Bitcoin and ethereum prices today, Wednesday, September 16, 2026: Crypto prices tank after CLARITY Act fails and ahead of Fed decision",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-gold-iras-fit-into-a-diversified-retirement-portfolio-162815731.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-16-2026-crypto-prices-tank-after-clarity-act-fails-and-ahead-of-fed-decision-112517152.html"
   },
   {
-   "t": "瑞銀正向看待台股　估2027年企業獲利成長31%",
+   "t": "財部：外國營利事業認列境外成本費用　免經駐外館處驗證",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160206.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609160285.aspx"
   },
   {
-   "t": "Corporate Tax Payments Plunge 25% Even as Profits Boom",
+   "t": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Cloudflare Hits Buy Point",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/corporate-tax-payments-plunge-25-234056105.html"
+   "u": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "財政部預告修正CRS規範　增列電支申報義務",
+   "t": "00919和00929指數定期審核結果　成分股維持不變",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160199.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609160282.aspx"
   },
   {
-   "t": "1 ‘Strong Buy’ Dividend Stock Offering a 6.3% Yield Right Now",
+   "t": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; Will Market Bid Bond Voyage After Fed Rate Hike?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/1-strong-buy-dividend-stock-233002620.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "全球金融中心排行台灣第42名　2年躍升31名次",
+   "t": "看好海外旅遊熱潮　中信銀聯名卡拚發卡量上看20萬張",
    "pub": "中央社財經",
    "d": "2026-09-16",
-   "u": "https://www.cna.com.tw/news/afe/202609160185.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609160278.aspx"
   },
   {
    "t": "Rich Dad Poor Dad author warns biggest crash in history has started",
@@ -419,8 +419,8 @@
    },
    "2454": {
     "f": 997,
-    "t": -458,
-    "all": 754
+    "t": -484,
+    "all": 729
    },
    "6442": {
     "f": 214,
@@ -454,8 +454,8 @@
    },
    "2308": {
     "f": -845,
-    "t": 546,
-    "all": -572
+    "t": 551,
+    "all": -567
    },
    "6706": {
     "f": -1415,
@@ -469,8 +469,8 @@
    },
    "2327": {
     "f": -6397,
-    "t": 357,
-    "all": -6392
+    "t": 678,
+    "all": -6071
    },
    "2330": {
     "f": -8745,
@@ -478,6 +478,6 @@
     "all": -7816
    }
   },
-  "totalNetE": -213.8
+  "totalNetE": -203.1
  }
 }
