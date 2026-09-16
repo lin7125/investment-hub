@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 07:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 07:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 105.53,
-   "c": -2.96,
-   "a50": 90.65,
+   "p": 105.61,
+   "c": -2.89,
+   "a50": 90.66,
    "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.56,
-   "r": 65.3
+   "a20": 96.57,
+   "r": 65.5
   },
   {
    "s": "GC=F",
-   "p": 4307.9,
-   "c": -0.57,
-   "a50": 4311.63,
-   "a200": 4551.48,
+   "p": 4302.0,
+   "c": -0.71,
+   "a50": 4311.51,
+   "a200": 4551.45,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4502.71,
-   "r": 40.8
+   "a20": 4502.42,
+   "r": 40.4
   },
   {
    "s": "HG=F",
-   "p": 6.45,
-   "c": 1.21,
+   "p": 6.44,
+   "c": 1.19,
    "a50": 6.47,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 46.3
+   "r": 46.2
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170008.aspx"
   },
   {
-   "t": "How to Play GME Stock as GameStop CEO Ryan Cohen Buys $20.3 Million in Shares",
+   "t": "Is Dollar Tree Stock Outperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/play-gme-stock-gamestop-ceo-151549763.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-stock-outperforming-p-152158824.html"
   },
   {
    "t": "聯準會升息1碼　2023年以來首度調升利率",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170006.aspx"
   },
   {
-   "t": "Is First Citizens BancShares (FCNCA) an Undervalued Opportunity?",
+   "t": "Seagate Technology (STX): The Primary Beneficiary of the AI Driven HDD Demand",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/first-citizens-bancshares-fcnca-undervalued-151353136.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-stx-primary-beneficiary-152345430.html"
   },
   {
    "t": "市場靜待聯準會利率決策　歐股收高油價跌",
