@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 02:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 02:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 334.18,
-   "c": 0.86,
+   "p": 334.26,
+   "c": 0.88,
    "a50": 319.31,
    "a200": 285.79,
    "yh": 340.08,
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 215.69,
-   "c": 1.66,
-   "a50": 213.61,
+   "p": 215.8,
+   "c": 1.71,
+   "a50": 213.62,
    "a200": 197.96,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 218.61,
-   "r": 48.4
+   "r": 48.5
   },
   {
    "s": "TSLA",
-   "p": 362.07,
-   "c": 1.54,
-   "a50": 351.73,
+   "p": 360.7,
+   "c": 1.16,
+   "a50": 351.7,
    "a200": 397.99,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 358.09,
-   "r": 52.9
+   "a20": 358.02,
+   "r": 52.3
   },
   {
    "s": "META",
-   "p": 680.07,
-   "c": 1.47,
+   "p": 679.62,
+   "c": 1.4,
    "a50": 605.24,
-   "a200": 623.9,
+   "a200": 623.89,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 602.14,
-   "r": 73.5
+   "a20": 602.12,
+   "r": 73.4
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7614.77,
-   "c": 0.38,
-   "a50": 7613.26,
-   "a200": 7175.24,
+   "p": 7610.56,
+   "c": 0.33,
+   "a50": 7613.17,
+   "a200": 7175.21,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7665.08,
-   "r": 46.9
+   "a20": 7664.87,
+   "r": 46.5
   },
   {
    "s": "^VIX",
-   "p": 16.87,
-   "c": -1.92,
-   "a50": 16.17,
+   "p": 16.62,
+   "c": -3.37,
+   "a50": 16.16,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.71,
-   "r": 54.2
+   "a20": 15.7,
+   "r": 53.0
   },
   {
    "s": "BZ=F",
-   "p": 105.46,
-   "c": -3.03,
-   "a50": 90.65,
+   "p": 105.77,
+   "c": -2.74,
+   "a50": 90.66,
    "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.56,
-   "r": 65.2
+   "a20": 96.58,
+   "r": 65.8
   },
   {
    "s": "GC=F",
-   "p": 4379.5,
-   "c": 1.08,
-   "a50": 4313.06,
-   "a200": 4551.84,
+   "p": 4366.9,
+   "c": 0.79,
+   "a50": 4312.81,
+   "a200": 4551.77,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4506.29,
-   "r": 46.5
+   "a20": 4505.66,
+   "r": 45.5
   },
   {
    "s": "HG=F",
    "p": 6.5,
-   "c": 2.07,
+   "c": 2.05,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03146633,
-   "c": -0.21,
+   "p": 0.03142678,
+   "c": -0.33,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160373.aspx"
   },
   {
-   "t": "Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms",
+   "t": "Dole’s (DOLE) Revenue Climbs While Fruit Costs Squeeze Profits",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/exclusive-indian-consumer-regulator-escalates-091004769.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dole-dole-revenue-climbs-while-092810806.html"
   },
   {
    "t": "今彩539第115225期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609160370.aspx"
   },
   {
-   "t": "Ask an Advisor: I've Already Claimed Social Security. Will a Pay Raise Increase My Benefit?",
+   "t": "Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/ask-advisor-kept-working-claiming-100000593.html"
+   "u": "https://finance.yahoo.com/news/exclusive-indian-consumer-regulator-escalates-091004769.html"
   },
   {
    "t": "AI資料中心進駐曼谷市區  居民憂慮環境影響與安全",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160364.aspx"
   },
   {
-   "t": "You've saved $2 million for retirement — but these 5 traps could be quietly devouring your nest egg",
+   "t": "Ask an Advisor: I've Already Claimed Social Security. Will a Pay Raise Increase My Benefit?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/youve-saved-2-million-retirement-090000432.html"
+   "u": "https://finance.yahoo.com/news/ask-advisor-kept-working-claiming-100000593.html"
   },
   {
    "t": "華邦電斥資353.9億　取得英飛凌NOR Flash與F-RAM事業100％股權",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160361.aspx"
   },
   {
-   "t": "LNG Demand in China and India Could Surge When Prices Normalize",
+   "t": "You've saved $2 million for retirement — but these 5 traps could be quietly devouring your nest egg",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/lng-demand-china-india-could-083000371.html"
+   "u": "https://finance.yahoo.com/markets/articles/youve-saved-2-million-retirement-090000432.html"
   }
  ],
  "inst": {
