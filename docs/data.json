@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 03:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 03:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 332.06,
-   "c": 0.22,
-   "a50": 319.26,
+   "p": 330.86,
+   "c": -0.14,
+   "a50": 319.24,
    "a200": 285.78,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 320.37,
-   "r": 61.8
+   "a20": 320.31,
+   "r": 60.7
   },
   {
    "s": "NVDA",
-   "p": 214.15,
-   "c": 0.93,
-   "a50": 213.58,
-   "a200": 197.96,
+   "p": 213.01,
+   "c": 0.4,
+   "a50": 213.56,
+   "a200": 197.95,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.53,
-   "r": 47.0
+   "a20": 218.47,
+   "r": 45.9
   },
   {
    "s": "TSLA",
-   "p": 356.92,
-   "c": 0.09,
-   "a50": 351.63,
-   "a200": 397.97,
+   "p": 356.01,
+   "c": -0.16,
+   "a50": 351.61,
+   "a200": 397.96,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 357.83,
-   "r": 50.6
+   "a20": 357.79,
+   "r": 50.1
   },
   {
    "s": "META",
-   "p": 678.77,
-   "c": 1.27,
-   "a50": 605.22,
-   "a200": 623.89,
+   "p": 676.27,
+   "c": 0.9,
+   "a50": 605.17,
+   "a200": 623.88,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 602.07,
-   "r": 73.2
+   "a20": 601.95,
+   "r": 72.8
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7553.49,
-   "c": -0.43,
-   "a50": 7612.03,
-   "a200": 7174.93,
+   "p": 7529.39,
+   "c": -0.74,
+   "a50": 7611.55,
+   "a200": 7174.81,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7662.02,
-   "r": 41.6
+   "a20": 7660.81,
+   "r": 39.9
   },
   {
    "s": "^VIX",
-   "p": 16.74,
-   "c": -2.67,
-   "a50": 16.17,
+   "p": 17.69,
+   "c": 2.85,
+   "a50": 16.19,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.71,
-   "r": 53.6
+   "a20": 15.75,
+   "r": 57.8
   },
   {
    "s": "BZ=F",
-   "p": 105.53,
-   "c": -2.96,
-   "a50": 90.65,
+   "p": 105.9,
+   "c": -2.62,
+   "a50": 90.66,
    "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.56,
-   "r": 65.3
+   "a20": 96.58,
+   "r": 66.1
   },
   {
    "s": "GC=F",
-   "p": 4319.6,
-   "c": -0.3,
-   "a50": 4311.86,
-   "a200": 4551.54,
+   "p": 4315.1,
+   "c": -0.41,
+   "a50": 4311.77,
+   "a200": 4551.51,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4503.3,
-   "r": 41.6
+   "a20": 4503.07,
+   "r": 41.3
   },
   {
    "s": "HG=F",
    "p": 6.46,
-   "c": 1.4,
+   "c": 1.38,
    "a50": 6.47,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 46.9
+   "r": 46.8
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609160370.aspx"
   },
   {
-   "t": "AI's safety slowdown spooks the market, delays IPOs, and hands incumbents more room to run",
+   "t": "Trump offers $500 ACA rebate to 1 million Americans — critics pounce on how he ‘gutted’ healthcare in the first place",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ais-safety-slowdown-spooks-market-100000111.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/trump-offers-500-aca-rebate-100000294.html"
   },
   {
    "t": "AI資料中心進駐曼谷市區  居民憂慮環境影響與安全",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160364.aspx"
   },
   {
-   "t": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
+   "t": "AI's safety slowdown spooks the market, delays IPOs, and hands incumbents more room to run",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/wall-street-pushes-back-on-anthropics-warning-as-ai-spending-expected-to-roll-on-chart-of-the-day-100000270.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ais-safety-slowdown-spooks-market-100000111.html"
   },
   {
    "t": "華邦電斥資353.9億　取得英飛凌NOR Flash與F-RAM事業100％股權",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160361.aspx"
   },
   {
-   "t": "Trump offers $500 ACA rebate to 1 million Americans — critics pounce on how he ‘gutted’ healthcare in the first place",
+   "t": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/trump-offers-500-aca-rebate-100000294.html"
+   "u": "https://finance.yahoo.com/markets/article/wall-street-pushes-back-on-anthropics-warning-as-ai-spending-expected-to-roll-on-chart-of-the-day-100000270.html"
   }
  ],
  "inst": {
