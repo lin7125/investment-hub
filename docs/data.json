@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 14:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 14:23（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.15,
-   "c": 0.56,
+   "p": 45.1,
+   "c": 0.45,
    "a50": 49.62,
    "a200": 45.5,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 48.56,
-   "r": 41.6
+   "r": 41.5
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 108.26,
-   "c": -0.45,
+   "p": 108.08,
+   "c": -0.62,
    "a50": 90.71,
    "a200": 85.3,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.7,
-   "r": 71.3
+   "a20": 96.69,
+   "r": 70.9
   },
   {
    "s": "GC=F",
-   "p": 4367.1,
-   "c": 0.79,
-   "a50": 4312.81,
+   "p": 4366.2,
+   "c": 0.77,
+   "a50": 4312.8,
    "a200": 4551.77,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4505.67,
-   "r": 45.5
+   "a20": 4505.63,
+   "r": 45.4
   },
   {
    "s": "HG=F",
    "p": 6.48,
-   "c": 1.78,
+   "c": 1.71,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 48.1
+   "r": 47.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03137747,
-   "c": -0.49,
+   "p": 0.03138732,
+   "c": -0.46,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160105.aspx"
   },
   {
-   "t": "Alphyn Capital on Its Special-Situation Investment: AnaptysBio (ANAB)",
+   "t": "Michael Burry Is Pushing Back on AI-Slowdown Calls. CoreWeave and Nebius Are the Stress Test",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/alphyn-capital-special-situation-investment-143413266.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/michael-burry-pushing-back-ai-185234642.html"
   },
   {
    "t": "新台幣午盤升5.8分　暫收31.79元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160099.aspx"
   },
   {
-   "t": "Should you open a CD account before the Fed's next meeting?",
+   "t": "Jim Cramer on Ondas (ONDS): “It’s Not Great, Not Bad”",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/open-cd-before-next-fed-meeting-231620040.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ondas-onds-not-184508361.html"
   },
   {
    "t": "KPMG：今年央行降息空間可能不大　國銀可望維持成長",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160097.aspx"
   },
   {
-   "t": "These 4 Horsemen Are Threatening the Current Bull Market: How to Prepare and Manage Risk",
+   "t": "Intel Stock Just Got a Stark Warning From Wall Street",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/4-horsemen-threatening-current-bull-183522380.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-just-got-stark-184159869.html"
   },
   {
    "t": "保險業迎3大制度改變　彭金隆：不只賣保險更管理風險",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160094.aspx"
   },
   {
-   "t": "S&P 500: Q4 Strength or Election Risk?",
+   "t": "Alliance Entertainment (AENT) Rises After Fiscal 2026 Results: What Investors Should Know",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/p-500-q4-strength-election-183224128.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/alliance-entertainment-aent-rises-fiscal-184825041.html"
   },
   {
    "t": "緯創跨國布局衝AI產能　高雄首場大型徵才會9/19登場",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160085.aspx"
   },
   {
-   "t": "Wonder debuts its robotic bowl maker",
+   "t": "Sit out or buy now? The signal Ken Mahoney wants before jumping in",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/wonder-debuts-robotic-bowl-maker-184036632.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sit-buy-now-signal-ken-184641355.html"
   }
  ],
  "inst": {
