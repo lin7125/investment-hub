@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16 16:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-16 16:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 16.96,
-   "c": -1.4,
+   "p": 16.99,
+   "c": -1.22,
    "a50": 16.17,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.72,
-   "r": 54.7
+   "r": 54.8
   },
   {
    "s": "BZ=F",
-   "p": 107.69,
-   "c": -0.97,
-   "a50": 90.7,
+   "p": 108.08,
+   "c": -0.62,
+   "a50": 90.71,
    "a200": 85.3,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.67,
-   "r": 70.0
+   "a20": 96.69,
+   "r": 70.9
   },
   {
    "s": "GC=F",
-   "p": 4369.2,
-   "c": 0.84,
-   "a50": 4312.86,
-   "a200": 4551.79,
+   "p": 4365.0,
+   "c": 0.74,
+   "a50": 4312.77,
+   "a200": 4551.76,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4505.78,
-   "r": 45.7
+   "a20": 4505.57,
+   "r": 45.3
   },
   {
    "s": "HG=F",
    "p": 6.49,
-   "c": 1.86,
+   "c": 1.83,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 48.3
+   "r": 48.2
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160156.aspx"
   },
   {
-   "t": "Oracle (ORCL): Oracle Has the Backlog. Wall Street Wants the Cash",
+   "t": "Bank of America leads financial services stocks lower on weak Wall Street fee forecast",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-oracle-backlog-wall-203907436.html"
+   "u": "https://finance.yahoo.com/markets/article/bank-of-america-leads-financial-services-stocks-lower-on-weak-wall-street-fee-forecast-202601947.html"
   },
   {
    "t": "9月台股期指漲167點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160153.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Falls, Cyber Plays Soar Amid AI Fears; Bessent Makes This Move On Iran (Live Coverage)",
+   "t": "Acquisition Momentum Offset by Profitability Headwinds for Mission Produce (AVO)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/acquisition-momentum-offset-profitability-headwinds-201205075.html"
   },
   {
    "t": "iPhone 18 Pro將開賣　德誼：高階換機潮估增逾1成",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160150.aspx"
   },
   {
-   "t": "Stocks Settle Lower as AI Slowdown Fears Weigh on Chipmakers",
+   "t": "How a Fed rate hike would affect your bank accounts, loans, credit cards, and investments",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-ai-slowdown-203505818.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-a-fed-rate-hike-would-affect-your-bank-accounts-loans-credit-cards-and-investments-220526102.html"
   },
   {
    "t": "台股漲337.41點",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202609160143.aspx"
   },
   {
-   "t": "Flatbread sandwich specialist Così to license its brand as a virtual catering menu",
+   "t": "UnitedHealth CFO delivers blunt verdict on the company's big reset",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/flatbread-sandwich-specialist-cos-license-204055849.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/unitedhealth-cfo-delivers-blunt-verdict-202300779.html"
   }
  ],
  "inst": {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "byCode": {
-   "2308": {
-    "f": 1846,
-    "t": -965,
-    "all": 1130
-   },
-   "6442": {
-    "f": 592,
-    "t": -245,
-    "all": 316
-   },
-   "6446": {
-    "f": 153,
-    "t": -4,
-    "all": 154
-   },
-   "6862": {
-    "f": -7,
-    "t": 0,
-    "all": -9
-   },
-   "6515": {
-    "f": 4,
-    "t": -67,
-    "all": -64
-   },
-   "3701": {
-    "f": -129,
-    "t": 0,
-    "all": -129
-   },
-   "4722": {
-    "f": -243,
-    "t": -16,
-    "all": -259
-   },
-   "2327": {
-    "f": -687,
-    "t": 197,
-    "all": -474
-   },
-   "6706": {
-    "f": -454,
-    "t": 0,
-    "all": -574
-   },
-   "2454": {
-    "f": -1000,
-    "t": -20,
-    "all": -984
-   },
    "2305": {
-    "f": -1323,
+    "f": 4869,
     "t": 0,
-    "all": -1469
-   },
-   "2317": {
-    "f": -2394,
-    "t": -92,
-    "all": -2167
+    "all": 4865
    },
    "1802": {
-    "f": -3212,
-    "t": 4,
-    "all": -3688
+    "f": 1384,
+    "t": 21,
+    "all": 2656
+   },
+   "2454": {
+    "f": 997,
+    "t": -458,
+    "all": 754
+   },
+   "6442": {
+    "f": 214,
+    "t": 0,
+    "all": 237
+   },
+   "3701": {
+    "f": 192,
+    "t": 0,
+    "all": 194
+   },
+   "4722": {
+    "f": 68,
+    "t": 7,
+    "all": 77
+   },
+   "6862": {
+    "f": 27,
+    "t": 0,
+    "all": 27
+   },
+   "6515": {
+    "f": -44,
+    "t": -34,
+    "all": -72
+   },
+   "6446": {
+    "f": -115,
+    "t": -85,
+    "all": -198
+   },
+   "2308": {
+    "f": -845,
+    "t": 546,
+    "all": -572
+   },
+   "6706": {
+    "f": -1415,
+    "t": 0,
+    "all": -1160
+   },
+   "2317": {
+    "f": -1689,
+    "t": 1281,
+    "all": -2590
+   },
+   "2327": {
+    "f": -6397,
+    "t": 357,
+    "all": -6392
    },
    "2330": {
-    "f": -4227,
-    "t": -14,
-    "all": -3891
+    "f": -8745,
+    "t": 166,
+    "all": -7816
    }
   },
-  "totalNetE": -789.0
+  "totalNetE": -213.8
  }
 }
