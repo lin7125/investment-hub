@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 04:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 04:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 105.5,
-   "c": -2.99,
+   "p": 105.48,
+   "c": -3.01,
    "a50": 90.65,
    "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 96.56,
-   "r": 65.3
+   "r": 65.2
   },
   {
    "s": "GC=F",
-   "p": 4304.6,
-   "c": -0.65,
-   "a50": 4311.56,
-   "a200": 4551.46,
+   "p": 4301.5,
+   "c": -0.72,
+   "a50": 4311.5,
+   "a200": 4551.45,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4502.55,
-   "r": 40.6
+   "a20": 4502.39,
+   "r": 40.4
   },
   {
    "s": "HG=F",
    "p": 6.44,
-   "c": 1.16,
+   "c": 1.09,
    "a50": 6.47,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 46.1
+   "r": 45.9
   },
   {
    "s": "TWDUSD",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609160370.aspx"
   },
   {
-   "t": "A Trump Science Advisor Says Elon Musk And Sam Altman Won’t End Up With AI’s Money: ‘There Will Be A Billionaire That Will Emerge That Has Zero Net Worth Today’",
+   "t": "Ray Dalio says the US faces a debt crisis ‘in three years, give or take two.’ 5 things Americans can do now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/trump-science-advisor-says-elon-114510280.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/ray-dalio-says-us-faces-114500355.html"
   }
  ],
  "inst": {
