@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 06:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 06:28（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 105.67,
-   "c": -2.83,
+   "p": 105.58,
+   "c": -2.91,
    "a50": 90.66,
    "a200": 85.29,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 96.57,
-   "r": 65.6
+   "r": 65.4
   },
   {
    "s": "GC=F",
-   "p": 4298.5,
-   "c": -0.79,
-   "a50": 4311.44,
-   "a200": 4551.43,
+   "p": 4294.8,
+   "c": -0.88,
+   "a50": 4311.37,
+   "a200": 4551.41,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4502.24,
-   "r": 40.2
+   "a20": 4502.06,
+   "r": 40.0
   },
   {
    "s": "HG=F",
    "p": 6.44,
-   "c": 1.17,
+   "c": 1.19,
    "a50": 6.47,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 46.1
+   "r": 46.2
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170003.aspx"
   },
   {
-   "t": "Make This 1 Trade Now as the 10-Year Yield Surges and a Fed Rate Hike Looms",
+   "t": "Oracle Adds $700 Million to the Cost of its AI Transformation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/1-trade-now-10-yield-141440168.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/oracle-adds-700-million-cost-143021878.html"
   },
   {
    "t": "市場預估聯準會將升息　美股早盤漲跌互見",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609160376.aspx"
   },
   {
-   "t": "Stocks Pressured as the 10-Year T-Note Yield Climbs to a 19-Year High",
+   "t": "How Is Global Payments' Stock Performance Compared to Other Industrial Stocks?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-10-t-note-141307255.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/global-payments-stock-performance-compared-143107523.html"
   },
   {
    "t": "油價居高不下　美國8月零售銷售月增1.2%超預期",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609160373.aspx"
   },
   {
-   "t": "Broyhill Maintains Confidence in ServiceNow (NOW). Here’s Why",
+   "t": "Nvidia’s Anthropic Investment: Securing AI Demand Amid Rising Competition",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/broyhill-maintains-confidence-servicenow-now-141314686.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-anthropic-investment-securing-ai-142836122.html"
   }
  ],
  "inst": {
