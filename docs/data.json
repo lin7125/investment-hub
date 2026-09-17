@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 07:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 07:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4383.1,
+   "p": 4382.9,
    "c": -0.1,
-   "a50": 4319.24,
+   "a50": 4319.23,
    "a200": 4552.52,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4498.58,
+   "a20": 4498.57,
    "r": 46.8
   },
   {
    "s": "HG=F",
    "p": 6.62,
-   "c": 2.92,
+   "c": 2.93,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 54.4
+   "r": 54.5
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170249.aspx"
   },
   {
-   "t": "CareTrust REIT’s (CTRE) $400M Bet Extends A Record Year",
+   "t": "Diesel Price Predictions: How Much Higher Prices Can Go as Diesel Prices Top Record $6 Per Gallon",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/caretrust-reit-ctre-400m-bet-160209188.html"
+   "u": "https://finance.yahoo.com/energy/articles/diesel-price-predictions-much-higher-161226017.html"
   },
   {
    "t": "聯準會升息新加坡銀行資本受矚  分析指體質穩風險可控",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170247.aspx"
   },
   {
-   "t": "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
+   "t": "Salesforce Stock Dips Ahead Of Investor Briefing Amid System Outage",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitget-publishes-45th-consecutive-monthly-160021181.html"
+   "u": "https://www.investors.com/news/technology/salesforce-stock-dips-ahead-of-investor-briefing-amid-system-outage/?src=A00220&yptr=yahoo"
   },
   {
    "t": "央行決議利率連10凍　自然人第2戶房貸成數上限放寬至7成",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170242.aspx"
   },
   {
-   "t": "Is Broadridge Financial Stock Underperforming the S&P 500?",
+   "t": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-stock-underperforming-p-155958681.html"
+   "u": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo"
   },
   {
    "t": "菲律賓台灣形象展登場  黃志芳：台企加速布局智慧產業",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170219.aspx"
   },
   {
-   "t": "Aptiv (APTV) Turns Chip Partnerships Into A Physical AI Bet",
+   "t": "CareTrust REIT’s (CTRE) $400M Bet Extends A Record Year",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/aptiv-aptv-turns-chip-partnerships-155643163.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/caretrust-reit-ctre-400m-bet-160209188.html"
   },
   {
    "t": "算力電力雙引擎　宏致估明年AI營收再倍增",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170215.aspx"
   },
   {
-   "t": "American Airlines Sees Strong Demand, but Fuel Spike Threatens Profit Outlook",
+   "t": "Uno Minda plans new aluminium casting plant",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-sees-strong-demand-160226689.html"
+   "u": "https://finance.yahoo.com/technology/articles/uno-minda-plans-aluminium-casting-161141641.html"
   }
  ],
  "inst": {
