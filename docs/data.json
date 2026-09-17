@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 07:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 07:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4383.0,
+   "p": 4383.3,
    "c": -0.1,
-   "a50": 4319.23,
+   "a50": 4319.24,
    "a200": 4552.52,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4498.58,
+   "a20": 4498.59,
    "r": 46.8
   },
   {
    "s": "HG=F",
-   "p": 6.61,
-   "c": 2.85,
+   "p": 6.62,
+   "c": 2.95,
    "a50": 6.49,
-   "a200": 6.04,
+   "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 54.3
+   "r": 54.5
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170249.aspx"
   },
   {
-   "t": "Stocks Hold Gains After Fed Hikes Key Rate",
+   "t": "Elastic (ESTC) Bets Big On AI Search With New Database",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-hold-gains-fed-hikes-151838478.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/elastic-estc-bets-big-ai-154753742.html"
   },
   {
    "t": "聯準會升息新加坡銀行資本受矚  分析指體質穩風險可控",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170247.aspx"
   },
   {
-   "t": "Bitcoin Price Prediction: Failed Clarity Act Vote Will Put BTC’s Rally to the Test",
+   "t": "Michael Dell Just Made a $7.7 Billion Bet on This Insurance Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-failed-clarity-151045217.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/michael-dell-just-made-7-153914458.html"
   },
   {
    "t": "央行決議利率連10凍　自然人第2戶房貸成數上限放寬至7成",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170242.aspx"
   },
   {
-   "t": "Impulse Space's Series D round grows to $808 million as backlog expands",
+   "t": "Crude Oil Prices Retreat as Supply Fears Ease",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/impulse-spaces-series-d-round-150705626.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-retreat-supply-153920479.html"
   },
   {
    "t": "菲律賓台灣形象展登場  黃志芳：台企加速布局智慧產業",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170219.aspx"
   },
   {
-   "t": "Alluvium Raised Its McKesson (MCK) Stake as Long-Term Growth Expectations Remain Strong",
+   "t": "Westlake’s (WLK) Second Quarter Turned Two Straight Losses Into Profit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/alluvium-raised-mckesson-mck-stake-150454748.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/westlake-wlk-second-quarter-turned-153826527.html"
   },
   {
    "t": "算力電力雙引擎　宏致估明年AI營收再倍增",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170215.aspx"
   },
   {
-   "t": "Papa John’s on a Quality Quest as its Shares Stall",
+   "t": "Despite Robust Growth, CoreWeave Remains Unattractive on Leveraging and Margin Contraction",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/papa-john-s-on-a-quality-quest-as-its-shares-stall-nBtQ5Vw8WJ9QHEbqDSgN?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/ai/articles/despite-robust-growth-coreweave-remains-155408176.html"
   }
  ],
  "inst": {
