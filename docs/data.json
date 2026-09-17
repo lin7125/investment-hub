@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 07:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 08:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 332.41,
-   "c": 0.32,
-   "a50": 319.27,
-   "a200": 285.79,
+   "p": 331.34,
+   "c": -0.52,
+   "a50": 318.84,
+   "a200": 285.51,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 320.39,
-   "r": 62.1
+   "a20": 319.27,
+   "r": 61.3
   },
   {
    "s": "NVDA",
-   "p": 213.9,
-   "c": 0.82,
-   "a50": 213.58,
-   "a200": 197.95,
+   "p": 212.17,
+   "c": 0.57,
+   "a50": 213.24,
+   "a200": 197.79,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.52,
-   "r": 46.7
+   "a20": 218.81,
+   "r": 45.1
   },
   {
    "s": "TSLA",
-   "p": 358.08,
-   "c": 0.42,
-   "a50": 351.65,
-   "a200": 397.97,
+   "p": 356.58,
+   "c": -0.67,
+   "a50": 352.54,
+   "a200": 398.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 357.89,
-   "r": 51.1
+   "a20": 356.83,
+   "r": 50.4
   },
   {
    "s": "META",
-   "p": 673.31,
-   "c": 0.46,
-   "a50": 605.11,
-   "a200": 623.86,
+   "p": 670.24,
+   "c": 0.7,
+   "a50": 603.96,
+   "a200": 623.66,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 601.8,
-   "r": 72.2
+   "a20": 595.32,
+   "r": 71.6
   },
   {
    "s": "^TWII",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 105.51,
-   "c": -2.98,
+   "p": 105.2,
+   "c": -3.26,
    "a50": 90.65,
-   "a200": 85.29,
+   "a200": 85.28,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 96.56,
-   "r": 65.3
+   "a20": 96.55,
+   "r": 64.7
   },
   {
    "s": "GC=F",
-   "p": 4309.1,
-   "c": -0.55,
-   "a50": 4311.65,
-   "a200": 4551.48,
+   "p": 4313.1,
+   "c": -0.45,
+   "a50": 4311.73,
+   "a200": 4551.5,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4502.77,
-   "r": 40.9
+   "a20": 4502.97,
+   "r": 41.1
   },
   {
    "s": "HG=F",
-   "p": 6.45,
-   "c": 1.3,
+   "p": 6.46,
+   "c": 1.43,
    "a50": 6.47,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 46.6
+   "r": 47.0
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170008.aspx"
   },
   {
-   "t": "How Caterpillar (CAT) Drives Sector-Leading Performance Beyond AI Models",
+   "t": "How UnitedHealth (UNH) Leads the AI Revolution in the Insurance Industry",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-drives-sector-leading-155623250.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-leads-ai-revolution-161312650.html"
   },
   {
    "t": "聯準會升息1碼　2023年以來首度調升利率",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170006.aspx"
   },
   {
-   "t": "The Oil Crisis Has Reached Costco’s Motor Oil Aisle",
+   "t": "Why Kroger Co. (KR) Could Be a Consumer Staples Comeback Story",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/oil-crisis-reached-costco-motor-155626578.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-kroger-co-kr-could-160335573.html"
   },
   {
    "t": "市場靜待聯準會利率決策　歐股收高油價跌",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170003.aspx"
   },
   {
-   "t": "Nvidia CEO Jensen Huang Just Dropped Huge News for This Cybersecurity Stock",
+   "t": "Is Fifth Third Bancorp Stock Outperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-just-155646174.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-bancorp-stock-outperforming-155954803.html"
   }
  ],
  "inst": {
