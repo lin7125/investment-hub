@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 02:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 02:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 335.83,
-   "c": 1.03,
-   "a50": 319.72,
+   "p": 336.05,
+   "c": 1.1,
+   "a50": 319.73,
    "a200": 286.07,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 321.34,
-   "r": 64.6
+   "a20": 321.35,
+   "r": 64.8
   },
   {
    "s": "NVDA",
-   "p": 219.57,
-   "c": 2.65,
-   "a50": 213.89,
+   "p": 219.42,
+   "c": 2.58,
+   "a50": 213.88,
    "a200": 198.17,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.62,
-   "r": 51.9
+   "a20": 218.61,
+   "r": 51.8
   },
   {
    "s": "TSLA",
-   "p": 366.57,
-   "c": 2.37,
-   "a50": 351.1,
-   "a200": 397.66,
+   "p": 365.86,
+   "c": 2.17,
+   "a50": 351.08,
+   "a200": 397.65,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 358.66,
-   "r": 55.0
+   "a20": 358.63,
+   "r": 54.7
   },
   {
    "s": "META",
-   "p": 677.71,
-   "c": 0.65,
-   "a50": 606.6,
+   "p": 676.72,
+   "c": 0.51,
+   "a50": 606.58,
    "a200": 624.01,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 608.38,
-   "r": 73.1
+   "a20": 608.33,
+   "r": 72.9
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7637.88,
-   "c": 1.14,
-   "a50": 7615.1,
-   "a200": 7178.87,
+   "p": 7634.97,
+   "c": 1.1,
+   "a50": 7615.04,
+   "a200": 7178.85,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7658.43,
-   "r": 49.6
+   "a20": 7658.28,
+   "r": 49.4
   },
   {
    "s": "^VIX",
-   "p": 15.53,
-   "c": -12.31,
+   "p": 15.54,
+   "c": -12.25,
    "a50": 16.18,
    "a200": 18.1,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 104.9,
-   "c": -0.88,
+   "p": 104.97,
+   "c": -0.81,
    "a50": 91.2,
    "a200": 85.5,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.24,
-   "r": 63.9
+   "a20": 97.25,
+   "r": 64.1
   },
   {
    "s": "GC=F",
-   "p": 4398.4,
-   "c": 0.25,
-   "a50": 4319.54,
-   "a200": 4552.59,
+   "p": 4393.6,
+   "c": 0.14,
+   "a50": 4319.45,
+   "a200": 4552.57,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4499.35,
-   "r": 48.1
+   "a20": 4499.11,
+   "r": 47.7
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 3.18,
+   "p": 6.63,
+   "c": 3.06,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 55.1
+   "r": 54.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03136763,
-   "c": -0.33,
+   "c": -0.32,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170219.aspx"
   },
   {
-   "t": "Is Western Digital Stock Underperforming the Nasdaq?",
+   "t": "Suze Orman has 'one crucial piece of advice' when a partner dies: Do nothing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/western-digital-stock-underperforming-nasdaq-070959373.html"
+   "u": "https://finance.yahoo.com/small-business/articles/suze-orman-one-crucial-piece-092500811.html"
   },
   {
    "t": "算力電力雙引擎　宏致估明年AI營收再倍增",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170215.aspx"
   },
   {
-   "t": "Suze Orman has 'one crucial piece of advice' when a partner dies: Do nothing",
+   "t": "Hugo Boss Names Frasers’ Michael Murray as Supervisory Board Chairman",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/suze-orman-one-crucial-piece-092500811.html"
+   "u": "https://www.wsj.com/business/retail/hugo-boss-names-frasers-michael-murray-as-supervisory-board-chairman-ce363e98?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
