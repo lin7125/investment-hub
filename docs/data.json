@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 14:43（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 14:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 44.55,
-   "c": -1.22,
-   "a50": 49.22,
+   "p": 44.4,
+   "c": -1.55,
+   "a50": 49.21,
    "a200": 45.66,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 48.28,
-   "r": 40.4
+   "a20": 48.27,
+   "r": 40.2
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 56.1,
-   "c": -2.26,
-   "a50": 56.73,
-   "a200": 58.38,
+   "p": 56.8,
+   "c": -1.05,
+   "a50": 56.74,
+   "a200": 58.39,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.76,
-   "r": 44.5
+   "a20": 56.79,
+   "r": 47.5
   },
   {
    "s": "AAPL",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 103.76,
-   "c": -1.96,
-   "a50": 91.18,
+   "p": 104.23,
+   "c": -1.51,
+   "a50": 91.19,
    "a200": 85.49,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.19,
-   "r": 61.7
+   "a20": 97.21,
+   "r": 62.6
   },
   {
    "s": "GC=F",
-   "p": 4352.2,
-   "c": -0.8,
-   "a50": 4318.62,
-   "a200": 4552.36,
+   "p": 4347.2,
+   "c": -0.92,
+   "a50": 4318.52,
+   "a200": 4552.34,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4497.04,
-   "r": 44.6
+   "a20": 4496.79,
+   "r": 44.3
   },
   {
    "s": "HG=F",
    "p": 6.54,
-   "c": 1.62,
+   "c": 1.67,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 50.9
+   "r": 51.0
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170028.aspx"
   },
   {
-   "t": "Chipmaker Pulls Back to Key Supportive Trendline",
+   "t": "U.S. Steel and Materials Stocks Swing as U.S.-Canada Trade War Escalates With 50% Tariffs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chipmaker-pulls-back-key-supportive-183731911.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/u-steel-materials-stocks-swing-193008928.html"
   },
   {
    "t": "聯準會升息美股收黑　法人：台股留意美債殖利率",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170024.aspx"
   },
   {
-   "t": "Why UBS Just Turned Bearish on NuScale Power Stock",
+   "t": "Why Jefferies Is Bullish on Formula One Stock Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-ubs-just-turned-bearish-184337599.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-jefferies-bullish-formula-one-192604818.html"
   },
   {
    "t": "聯準會升息一碼符合預期　五大重點一次掌握",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170023.aspx"
   },
   {
-   "t": "This Utility ETF Says the AI Trade Is Over",
+   "t": "Oil prices tick up as conflict widens, disruptions grow in Middle East",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/utility-etf-says-ai-trade-191906797.html"
+   "u": "https://finance.yahoo.com/markets/commodities/article/oil-prices-tick-up-as-conflict-widens-disruptions-grow-in-middle-east-161121550.html"
   },
   {
    "t": "中東供應中斷緩解　國際油價回落",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170014.aspx"
   },
   {
-   "t": "Jim Cramer Says “Target’s Doing Better than Walmart Right Now”",
+   "t": "Is the Dollar Index Heading for New Lows in 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-target-doing-192102989.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-index-heading-lows-2026-190002894.html"
   },
   {
    "t": "聯準會3年多以來首度升息　美股收低道瓊跌逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170013.aspx"
   },
   {
-   "t": "Wells Fargo CFO Says the Bar for Bank Mergers Remains High",
+   "t": "Chip Stocks Recovered Today and the Major Indexes Fell Anyway",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/wells-fargo-cfo-bank-mergers-491878b5?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-recovered-today-major-184652387.html"
   }
  ],
  "inst": {
