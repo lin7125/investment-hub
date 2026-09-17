@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 17:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 17:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.08,
-   "c": -9.2,
+   "p": 16.04,
+   "c": -9.43,
    "a50": 16.19,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.76,
-   "r": 50.1
+   "r": 49.9
   },
   {
    "s": "BZ=F",
-   "p": 104.98,
-   "c": -0.8,
-   "a50": 91.2,
-   "a200": 85.5,
+   "p": 100.28,
+   "c": -5.24,
+   "a50": 91.11,
+   "a200": 85.47,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.25,
-   "r": 64.1
+   "a20": 97.01,
+   "r": 55.6
   },
   {
    "s": "GC=F",
-   "p": 4347.9,
-   "c": -0.9,
-   "a50": 4318.53,
+   "p": 4347.1,
+   "c": -0.92,
+   "a50": 4318.52,
    "a200": 4552.34,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4496.82,
+   "a20": 4496.78,
    "r": 44.3
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 2.52,
-   "a50": 6.49,
+   "c": 2.42,
+   "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 53.4
+   "r": 53.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03136763,
-   "c": -0.32,
+   "c": -0.34,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170023.aspx"
   },
   {
-   "t": "Ubiquiti Just Posted 23.5% Revenue Growth and a Dividend. What Could Derail the Momentum?",
+   "t": "Jim Cramer Likes McDonald’s (MCD) but Sees Jersey Mike’s (JMKE) as the Lower-Risk Bet",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ubiquiti-just-posted-23-5-213926267.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-likes-mcdonald-mcd-214316046.html"
   },
   {
    "t": "中東供應中斷緩解　國際油價回落",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170014.aspx"
   },
   {
-   "t": "Gold and the U.S. dollar: Why they often move in opposite directions",
+   "t": "As Infleqtion Teams Up With Cisco, Here’s How You Should Play INFQ Stock Now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-us-dollar-relationship-204112404.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/infleqtion-teams-cisco-play-infq-214331803.html"
   },
   {
    "t": "聯準會3年多以來首度升息　美股收低道瓊跌逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170013.aspx"
   },
   {
-   "t": "Nvidia Bought Hugging Face for $12.9 Billion. This Software Acquisition Changes Everything.",
+   "t": "TSMC’s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-bought-hugging-face-12-213200678.html"
+   "u": "https://finance.yahoo.com/technology/articles/tsmc-2nm-era-accelerating-mediatek-214827953.html"
   }
  ],
  "inst": {
