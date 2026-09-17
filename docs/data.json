@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 15:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 15:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 45848.9,
-   "c": 0.74,
-   "a50": 44971.78,
-   "a200": 38004.34,
+   "p": 46288.0,
+   "c": 0.96,
+   "a50": 44982.86,
+   "a200": 38098.65,
    "yh": 47741.51,
    "yl": 25438.25,
-   "a20": 46092.17,
-   "r": 50.2
+   "a20": 46159.89,
+   "r": 53.5
   },
   {
    "s": "^GSPC",
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 17.71,
-   "c": 2.97,
+   "p": 15.99,
+   "c": -9.71,
    "a50": 16.19,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.75,
-   "r": 57.9
+   "r": 49.7
   },
   {
    "s": "BZ=F",
-   "p": 103.88,
-   "c": -1.84,
+   "p": 104.01,
+   "c": -1.72,
    "a50": 91.18,
    "a200": 85.49,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.19,
-   "r": 61.9
+   "a20": 97.2,
+   "r": 62.2
   },
   {
    "s": "GC=F",
-   "p": 4359.2,
-   "c": -0.65,
-   "a50": 4318.76,
-   "a200": 4552.4,
+   "p": 4362.2,
+   "c": -0.58,
+   "a50": 4318.82,
+   "a200": 4552.41,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4497.39,
-   "r": 45.1
+   "a20": 4497.54,
+   "r": 45.3
   },
   {
    "s": "HG=F",
    "p": 6.54,
-   "c": 1.69,
+   "c": 1.71,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03138732,
-   "c": -0.27,
+   "c": -0.28,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170028.aspx"
   },
   {
-   "t": "Bitcoin tumbles 4% to $75,000 as hopes of CLARITY Act passage this year fade",
+   "t": "U.S. Steel and Materials Stocks Swing as U.S.-Canada Trade War Escalates With 50% Tariffs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/bitcoin-tumbles-4-to-75000-as-hopes-of-clarity-act-passage-this-year-fade-153127154.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/u-steel-materials-stocks-swing-193008928.html"
   },
   {
    "t": "聯準會升息美股收黑　法人：台股留意美債殖利率",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170024.aspx"
   },
   {
-   "t": "Trump’s Surgeon General Pick Loves These 3 Tobacco Stocks",
+   "t": "A $1 Billion Reason Why AXON Stock Is Down Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/trump-surgeon-general-pick-loves-191035742.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/1-billion-reason-why-axon-193446212.html"
   },
   {
    "t": "聯準會升息一碼符合預期　五大重點一次掌握",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170023.aspx"
   },
   {
-   "t": "The Outlook for Stronger Demand Lifts Nat-Gas Prices",
+   "t": "Oil settles $3 higher on Yanbu disruption, Saudi cargo cancellations",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/outlook-stronger-demand-lifts-nat-191457136.html"
+   "u": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html"
   },
   {
    "t": "中東供應中斷緩解　國際油價回落",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170014.aspx"
   },
   {
-   "t": "Crude Prices Surge on Global Supply Risks",
+   "t": "Dollar Rises on Surging Crude Prices and T-Note Yields",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/crude-prices-surge-global-supply-191609324.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-rises-surging-crude-prices-193655740.html"
   },
   {
    "t": "聯準會3年多以來首度升息　美股收低道瓊跌逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170013.aspx"
   },
   {
-   "t": "Fed Chair Kevin Warsh Just Said the Quiet Part Out Loud About Inflation -- and History Says Investors Should Listen",
+   "t": "Columbia Threadneedle, Hamilton Lane Partner on Public/Private Products",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-just-190700222.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/columbia-threadneedle-hamilton-lane-partner-193258019.html"
   }
  ],
  "inst": {
