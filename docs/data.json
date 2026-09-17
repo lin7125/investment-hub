@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 14:12（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 14:13（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 104.83,
-   "c": -0.94,
+   "p": 104.8,
+   "c": -0.97,
    "a50": 91.2,
    "a200": 85.5,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 97.24,
-   "r": 63.8
+   "r": 63.7
   },
   {
    "s": "GC=F",
-   "p": 4343.2,
-   "c": -1.01,
-   "a50": 4318.44,
+   "p": 4343.9,
+   "c": -0.99,
+   "a50": 4318.45,
    "a200": 4552.32,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4496.59,
-   "r": 44.0
+   "a20": 4496.62,
+   "r": 44.1
   },
   {
    "s": "HG=F",
    "p": 6.53,
-   "c": 1.47,
+   "c": 1.52,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 50.4
+   "r": 50.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03135779,
-   "c": -0.36,
+   "p": 0.03136763,
+   "c": -0.32,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170028.aspx"
   },
   {
-   "t": "Hold Your Horses: Palantir-Nebius Deal Doesn’t Solve Either Stock’s Biggest Problem",
+   "t": "Salesforce Stock Looks Poised To Strengthen. Here's A Cheap Way To Profit.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/hold-horses-palantir-nebius-deal-181024200.html"
+   "u": "https://www.investors.com/research/options/salesforce-stock-crm-software-tech-options-trade-income-investing-markets/?src=A00220&yptr=yahoo"
   },
   {
    "t": "聯準會升息美股收黑　法人：台股留意美債殖利率",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170024.aspx"
   },
   {
-   "t": "Why UBS Just Turned Bearish on NuScale Power Stock",
+   "t": "Signal Says 'Buy the Dip' After Nvidia Stock Pullback",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-ubs-just-turned-bearish-184337599.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/signal-says-buy-dip-nvidia-180357847.html"
   },
   {
    "t": "聯準會升息一碼符合預期　五大重點一次掌握",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170023.aspx"
   },
   {
-   "t": "Sunoco Stock Breaks Out; Oil Prices Rise With No Clear End To Hormuz Closure",
+   "t": "Hold Your Horses: Palantir-Nebius Deal Doesn’t Solve Either Stock’s Biggest Problem",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/sunoco-oil-prices-stocks-iran-war-hormuz/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hold-horses-palantir-nebius-deal-181024200.html"
   },
   {
    "t": "中東供應中斷緩解　國際油價回落",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170014.aspx"
   },
   {
-   "t": "Chipmaker Pulls Back to Key Supportive Trendline",
+   "t": "Can you have two of the same credit card?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chipmaker-pulls-back-key-supportive-183731911.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-have-two-of-the-same-credit-card-175008954.html"
   },
   {
    "t": "聯準會3年多以來首度升息　美股收低道瓊跌逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170013.aspx"
   },
   {
-   "t": "Warren Buffett’s Famous Rule Says Interest Rates Are ‘Gravity’ for Stock Prices. Here’s What That Means as Treasury Yields Hit 5%",
+   "t": "The Space Race Is Heating Up — and One Analyst Says Buy These 2 Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-famous-rule-says-180644136.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/space-race-heating-one-analyst-180500708.html"
   }
  ],
  "inst": {
