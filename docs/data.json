@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 15:44（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 15:54（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.93,
-   "c": -10.05,
+   "p": 15.99,
+   "c": -9.71,
    "a50": 16.19,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.75,
-   "r": 49.5
+   "r": 49.7
   },
   {
    "s": "BZ=F",
-   "p": 104.05,
-   "c": -1.68,
-   "a50": 91.18,
+   "p": 104.55,
+   "c": -1.21,
+   "a50": 91.19,
    "a200": 85.49,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.2,
-   "r": 62.2
+   "a20": 97.23,
+   "r": 63.2
   },
   {
    "s": "GC=F",
-   "p": 4372.9,
-   "c": -0.33,
-   "a50": 4319.03,
-   "a200": 4552.47,
+   "p": 4369.5,
+   "c": -0.41,
+   "a50": 4318.96,
+   "a200": 4552.45,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4498.07,
-   "r": 46.1
+   "a20": 4497.9,
+   "r": 45.8
   },
   {
    "s": "HG=F",
-   "p": 6.55,
-   "c": 1.91,
+   "p": 6.56,
+   "c": 1.95,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 51.7
+   "r": 51.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03136763,
-   "c": -0.33,
+   "p": 0.03135779,
+   "c": -0.36,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170028.aspx"
   },
   {
-   "t": "Boeing (BA) and RTX (RTX) Gain From Pentagon Missile Buildup, But Is the Upside Priced In?",
+   "t": "Clarity Act cloture vote fails: What it means for your crypto holdings",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-rtx-rtx-gain-193701338.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/clarity-act-cloture-vote-fails-what-it-means-for-your-crypto-holdings-153849029.html"
   },
   {
    "t": "聯準會升息美股收黑　法人：台股留意美債殖利率",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170024.aspx"
   },
   {
-   "t": "Dollar Rises on Surging Crude Prices and T-Note Yields",
+   "t": "Credit card application denied? Here’s what to do next",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-rises-surging-crude-prices-193655740.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-card-application-denied-194416584.html"
   },
   {
    "t": "聯準會升息一碼符合預期　五大重點一次掌握",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170023.aspx"
   },
   {
-   "t": "Clarity Act cloture vote fails: What it means for your crypto holdings",
+   "t": "Biogen (BIIB) and AbbVie (ABBV) Get Wolfe Upgrades—Which Pharma Stock Has More Upside?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/clarity-act-cloture-vote-fails-what-it-means-for-your-crypto-holdings-153849029.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/biogen-biib-abbvie-abbv-wolfe-194730680.html"
   },
   {
    "t": "中東供應中斷緩解　國際油價回落",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170014.aspx"
   },
   {
-   "t": "Credit card application denied? Here’s what to do next",
+   "t": "Jim Cramer Likes Seneca Foods (SENEA) But is Hoping For a Pullback",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-card-application-denied-194416584.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-likes-seneca-foods-195130934.html"
   },
   {
    "t": "聯準會3年多以來首度升息　美股收低道瓊跌逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170013.aspx"
   },
   {
-   "t": "Europe Bets Big on Small Modular Reactors. Here's How NuScale Power and Oklo Will Benefit.",
+   "t": "Treasury Yields At Multi-Year Highs Ahead of Expected Fed Hike",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/europe-bets-big-small-modular-193800592.html"
+   "u": "https://www.wsj.com/finance/long-term-jgb-yield-rises-amid-concerns-about-higher-energy-prices-7e91225e?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
