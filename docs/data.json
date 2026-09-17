@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 06:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 06:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 104.09,
-   "c": -1.64,
+   "p": 104.01,
+   "c": -1.72,
    "a50": 91.18,
    "a200": 85.49,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 97.2,
-   "r": 62.3
+   "r": 62.2
   },
   {
    "s": "GC=F",
-   "p": 4380.6,
-   "c": -0.16,
-   "a50": 4319.19,
+   "p": 4381.5,
+   "c": -0.14,
+   "a50": 4319.2,
    "a200": 4552.51,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4498.46,
-   "r": 46.6
+   "a20": 4498.5,
+   "r": 46.7
   },
   {
    "s": "HG=F",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170249.aspx"
   },
   {
-   "t": "Charter Communications (CHTR): Cox Merger and Wireless Growth Signal Stronger Future Ahead",
+   "t": "Revolution Medicines’ (RVMD) Promising Clinical Results Signal Potential Paradigm Shift",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/charter-communications-chtr-cox-merger-134918958.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-rvmd-promising-clinical-143313578.html"
   },
   {
    "t": "聯準會升息新加坡銀行資本受矚  分析指體質穩風險可控",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170247.aspx"
   },
   {
-   "t": "NVR Stock: Is NVR Underperforming the Consumer Cyclical Sector?",
+   "t": "Dollar Posts Modest Gains Ahead of Expected Fed Rate Hike",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvr-stock-nvr-underperforming-consumer-133902769.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-posts-modest-gains-ahead-143354252.html"
   },
   {
    "t": "央行決議利率連10凍　自然人第2戶房貸成數上限放寬至7成",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170242.aspx"
   },
   {
-   "t": "Bitcoin ETFs See $450 Million In Outflows After Clarity Act Vote",
+   "t": "1 Trade to Make Now as the Weakness in Cotton Prices Continues",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-see-450-million-135000092.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/1-trade-now-weakness-cotton-142626135.html"
   },
   {
    "t": "菲律賓台灣形象展登場  黃志芳：台企加速布局智慧產業",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170219.aspx"
   },
   {
-   "t": "Jim Cramer Says Brinker (EAT) “Never Fails to Wow Me”",
+   "t": "Is PulteGroup Stock Underperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-brinker-eat-134344027.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/pultegroup-stock-underperforming-p-500-142502646.html"
   },
   {
    "t": "算力電力雙引擎　宏致估明年AI營收再倍增",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170215.aspx"
   },
   {
-   "t": "Ciena Climbs 4% as $10B Backlog Outlook Outweighs Month-Long Slide; Arista and Cisco Edge Higher",
+   "t": "SpaceX Rises 5% as Starship’s First Orbital Attempt Gets Launch Date; Rocket Lab and AST SpaceMobile Hold Steady",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ciena-climbs-4-10b-backlog-134518479.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-rises-5-starship-first-143618850.html"
   }
  ],
  "inst": {
