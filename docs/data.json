@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 03:44（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 03:54（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 337.41,
-   "c": 1.5,
-   "a50": 319.75,
+   "p": 338.02,
+   "c": 1.69,
+   "a50": 319.76,
    "a200": 286.08,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 321.42,
-   "r": 65.7
+   "a20": 321.45,
+   "r": 66.0
   },
   {
    "s": "NVDA",
-   "p": 219.44,
-   "c": 2.59,
-   "a50": 213.88,
+   "p": 219.8,
+   "c": 2.76,
+   "a50": 213.89,
    "a200": 198.17,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.61,
-   "r": 51.8
+   "a20": 218.63,
+   "r": 52.1
   },
   {
    "s": "TSLA",
-   "p": 366.61,
-   "c": 2.38,
-   "a50": 351.1,
+   "p": 367.12,
+   "c": 2.53,
+   "a50": 351.11,
    "a200": 397.66,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 358.66,
-   "r": 55.0
+   "a20": 358.69,
+   "r": 55.2
   },
   {
    "s": "META",
-   "p": 679.67,
-   "c": 0.95,
-   "a50": 606.64,
-   "a200": 624.02,
+   "p": 680.94,
+   "c": 1.13,
+   "a50": 606.67,
+   "a200": 624.03,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 608.48,
-   "r": 73.5
+   "a20": 608.55,
+   "r": 73.7
   },
   {
    "s": "^TWII",
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7641.23,
-   "c": 1.18,
-   "a50": 7615.17,
-   "a200": 7178.88,
+   "p": 7645.95,
+   "c": 1.25,
+   "a50": 7615.26,
+   "a200": 7178.91,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7658.6,
-   "r": 49.9
+   "a20": 7658.83,
+   "r": 50.3
   },
   {
    "s": "^VIX",
-   "p": 15.49,
-   "c": -12.54,
+   "p": 15.46,
+   "c": -12.7,
    "a50": 16.18,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.73,
-   "r": 47.7
+   "r": 47.6
   },
   {
    "s": "BZ=F",
-   "p": 104.11,
-   "c": -1.63,
+   "p": 104.04,
+   "c": -1.69,
    "a50": 91.18,
    "a200": 85.49,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 97.2,
-   "r": 62.3
+   "r": 62.2
   },
   {
    "s": "GC=F",
-   "p": 4383.4,
-   "c": -0.09,
-   "a50": 4319.24,
+   "p": 4384.5,
+   "c": -0.07,
+   "a50": 4319.26,
    "a200": 4552.52,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4498.6,
+   "a20": 4498.65,
    "r": 46.9
   },
   {
    "s": "HG=F",
    "p": 6.61,
-   "c": 2.71,
+   "c": 2.77,
    "a50": 6.49,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 53.9
+   "r": 54.0
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170249.aspx"
   },
   {
-   "t": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown",
+   "t": "Former NFL star who was mentored by Warren Buffett shares the 2 investment lessons he learned from the Oracle of Omaha",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/japanese-refiners-rush-oman-crude-093000428.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/former-nfl-star-mentored-warren-095500247.html"
   },
   {
    "t": "聯準會升息新加坡銀行資本受矚  分析指體質穩風險可控",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170247.aspx"
   },
   {
-   "t": "Is International Flavors & Fragrances Stock Outperforming the Dow?",
+   "t": "Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/international-flavors-fragrances-stock-outperforming-093049933.html"
+   "u": "https://finance.yahoo.com/markets/article/death-of-software-greatly-overstated-as-sector-flips-the-script-on-chip-stocks-chart-of-the-day-100000695.html"
   },
   {
    "t": "央行決議利率連10凍　自然人第2戶房貸成數上限放寬至7成",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170242.aspx"
   },
   {
-   "t": "Suze Orman has 'one crucial piece of advice' when a partner dies: Do nothing",
+   "t": "How Is Cardinal Health's Stock Performance Compared to Other Health Care Services Stocks?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/suze-orman-one-crucial-piece-092500811.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cardinal-healths-stock-performance-compared-100143179.html"
   },
   {
    "t": "菲律賓台灣形象展登場  黃志芳：台企加速布局智慧產業",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170219.aspx"
   },
   {
-   "t": "Former NFL star who was mentored by Warren Buffett shares the 2 investment lessons he learned from the Oracle of Omaha",
+   "t": "Ethereum Signals 10% Drop Against Bitcoin Amid CLARITY Act Setback",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/former-nfl-star-mentored-warren-095500247.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/ethereum-signals-10-drop-against-100314853.html"
   },
   {
    "t": "算力電力雙引擎　宏致估明年AI營收再倍增",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170215.aspx"
   },
   {
-   "t": "70% of Gen Z healthcare workers say they’re going to quit within the next year",
+   "t": "OpenAI Rules Out 2026 IPO as Sam Altman Says Going Public Now Would Be ‘Ill-Advised’ Amid AI Safety Fears",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/70-gen-z-healthcare-workers-093323668.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/openai-rules-2026-ipo-sam-094508015.html"
   }
  ],
  "inst": {
