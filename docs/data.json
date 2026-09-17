@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 16:56（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 17:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 16.15,
-   "c": -8.81,
+   "p": 16.14,
+   "c": -8.87,
    "a50": 16.19,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.76,
-   "r": 50.4
+   "r": 50.3
   },
   {
    "s": "BZ=F",
-   "p": 104.4,
-   "c": -1.35,
-   "a50": 91.19,
+   "p": 103.99,
+   "c": -1.74,
+   "a50": 91.18,
    "a200": 85.49,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.22,
-   "r": 62.9
+   "a20": 97.2,
+   "r": 62.1
   },
   {
    "s": "GC=F",
-   "p": 4350.1,
-   "c": -0.85,
-   "a50": 4318.58,
-   "a200": 4552.35,
+   "p": 4351.5,
+   "c": -0.82,
+   "a50": 4318.6,
+   "a200": 4552.36,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4496.93,
-   "r": 44.5
+   "a20": 4497.0,
+   "r": 44.6
   },
   {
    "s": "HG=F",
    "p": 6.56,
-   "c": 1.97,
+   "c": 1.99,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170028.aspx"
   },
   {
-   "t": "Will the housing market crash this year?",
+   "t": "What time is this week's Fed meeting?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-this-year-170038540.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-time-is-this-weeks-fed-meeting-120032072.html"
   },
   {
    "t": "聯準會升息美股收黑　法人：台股留意美債殖利率",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170024.aspx"
   },
   {
-   "t": "Palantir and Nvidia Emerge as Key Players in Government AI Modernization",
+   "t": "Can you have two of the same credit card?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-emerge-key-players-204205272.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-have-two-of-the-same-credit-card-175008954.html"
   },
   {
    "t": "聯準會升息一碼符合預期　五大重點一次掌握",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170023.aspx"
   },
   {
-   "t": "Waystar Surges As Medical Software Maker Reportedly Mulls A Sale",
+   "t": "Gold and the U.S. dollar: Why they often move in opposite directions",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/waystar-stock-strategic-alternatives-sale/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-us-dollar-relationship-204112404.html"
   },
   {
    "t": "中東供應中斷緩解　國際油價回落",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170014.aspx"
   },
   {
-   "t": "Gold and the U.S. dollar: Why they often move in opposite directions",
+   "t": "Roblox (RBLX) Gets Higher Price Targets, But Analysts Stay Mixed",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-us-dollar-relationship-204112404.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-gets-higher-price-210444594.html"
   },
   {
    "t": "聯準會3年多以來首度升息　美股收低道瓊跌逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170013.aspx"
   },
   {
-   "t": "Microsoft Pays Out More in Dividends Than It Spends Buying Back Stock. Here's What That Does for Investors.",
+   "t": "Health Care Roundup: Market Talk",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/microsoft-pays-more-dividends-spends-204301245.html"
+   "u": "https://www.wsj.com/business/health-care-roundup-market-talk-2906f60d?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
