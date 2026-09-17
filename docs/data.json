@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 08:00（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 08:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 105.2,
-   "c": -3.26,
+   "p": 105.23,
+   "c": -3.24,
    "a50": 90.65,
    "a200": 85.28,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4313.1,
-   "c": -0.45,
-   "a50": 4311.73,
-   "a200": 4551.5,
+   "p": 4308.7,
+   "c": -0.56,
+   "a50": 4311.65,
+   "a200": 4551.48,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4502.97,
-   "r": 41.1
+   "a20": 4502.75,
+   "r": 40.9
   },
   {
    "s": "HG=F",
    "p": 6.46,
-   "c": 1.43,
+   "c": 1.47,
    "a50": 6.47,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 47.0
+   "r": 47.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": -0.18,
+   "p": 0.03138732,
+   "c": -0.27,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170014.aspx"
   },
   {
-   "t": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
+   "t": "How a Costco partner's bankruptcy could benefit its biggest rival",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html"
   },
   {
    "t": "聯準會3年多以來首度升息  美股收低道瓊跌逾600點",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170013.aspx"
   },
   {
-   "t": "How a Costco partner's bankruptcy could benefit its biggest rival",
+   "t": "Rich Dad Poor Dad author warns biggest crash in history has started",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html"
   },
   {
    "t": "聯準會2023年以來首升息　華許：物價穩定是首要之務",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170009.aspx"
   },
   {
-   "t": "Rich Dad Poor Dad author warns biggest crash in history has started",
+   "t": "What is debt settlement? How it works and what it costs you.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html"
+   "u": "https://finance.yahoo.com/personal-finance/personal-loans/article/what-is-debt-settlement-185327526.html"
   },
   {
    "t": "聯準會打通膨　市場預期升息至明年中",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170008.aspx"
   },
   {
-   "t": "How UnitedHealth (UNH) Leads the AI Revolution in the Insurance Industry",
+   "t": "Dave & Buster's Entertainment, Inc. Q2 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-leads-ai-revolution-161312650.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dave-busters-entertainment-inc-q2-123000667.html"
   },
   {
    "t": "聯準會升息1碼　2023年以來首度調升利率",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170006.aspx"
   },
   {
-   "t": "Why Kroger Co. (KR) Could Be a Consumer Staples Comeback Story",
+   "t": "MindWalk Holdings Corp. Q1 2027 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-kroger-co-kr-could-160335573.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mindwalk-holdings-corp-q1-2027-123000284.html"
   },
   {
    "t": "市場靜待聯準會利率決策　歐股收高油價跌",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170003.aspx"
   },
   {
-   "t": "Is Fifth Third Bancorp Stock Outperforming the Nasdaq?",
+   "t": "Bioceres Crop Solutions Corp. Q4 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-bancorp-stock-outperforming-155954803.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bioceres-crop-solutions-corp-q4-123000503.html"
   }
  ],
  "inst": {
