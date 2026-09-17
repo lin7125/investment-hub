@@ -1,27 +1,27 @@
 {
- "generatedAt": "2026-09-17 13:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 13:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2425.0,
-   "c": 1.89,
-   "a50": 2389.2,
-   "a200": 2057.93,
+   "p": 2420.0,
+   "c": 1.68,
+   "a50": 2389.1,
+   "a200": 2057.9,
    "yh": 2510.0,
    "yl": 1265.0,
-   "a20": 2414.25,
-   "r": 52.9
+   "a20": 2414.0,
+   "r": 52.2
   },
   {
    "s": "2317.TW",
-   "p": 251.5,
-   "c": 1.41,
-   "a50": 249.45,
+   "p": 251.0,
+   "c": 1.21,
+   "a50": 249.44,
    "a200": 236.29,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 249.85,
-   "r": 51.1
+   "a20": 249.82,
+   "r": 50.5
   },
   {
    "s": "2308.TW",
@@ -36,80 +36,80 @@
   },
   {
    "s": "2454.TW",
-   "p": 4545.0,
-   "c": 0.33,
-   "a50": 3979.3,
-   "a200": 2802.15,
+   "p": 4525.0,
+   "c": -0.11,
+   "a50": 3978.9,
+   "a200": 2802.05,
    "yh": 4760.0,
    "yl": 1145.0,
-   "a20": 4291.0,
-   "r": 59.3
+   "a20": 4290.0,
+   "r": 58.7
   },
   {
    "s": "2327.TW",
-   "p": 533.0,
-   "c": -0.56,
-   "a50": 600.35,
-   "a200": 467.74,
+   "p": 530.0,
+   "c": -1.12,
+   "a50": 600.29,
+   "a200": 467.73,
    "yh": 1140.0,
    "yl": 156.0,
-   "a20": 552.6,
-   "r": 42.8
+   "a20": 552.45,
+   "r": 42.3
   },
   {
    "s": "1802.TW",
-   "p": 58.4,
-   "c": -0.17,
+   "p": 58.5,
+   "c": 0.0,
    "a50": 56.62,
    "a200": 55.7,
    "yh": 76.6,
    "yl": 25.85,
-   "a20": 59.1,
-   "r": 50.1
+   "a20": 59.11,
+   "r": 50.4
   },
   {
    "s": "6862.TW",
-   "p": 131.0,
-   "c": -0.38,
-   "a50": 142.34,
-   "a200": 172.28,
+   "p": 130.5,
+   "c": -0.76,
+   "a50": 142.33,
+   "a200": 172.27,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 137.05,
-   "r": 35.7
+   "a20": 137.02,
+   "r": 35.1
   },
   {
    "s": "3701.TW",
-   "p": 41.25,
-   "c": 3.12,
+   "p": 41.35,
+   "c": 3.37,
    "a50": 40.28,
    "a200": 49.61,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 40.89,
-   "r": 51.8
+   "r": 52.1
   },
   {
    "s": "4722.TW",
-   "p": 185.0,
-   "c": -1.07,
-   "a50": 208.05,
-   "a200": 202.42,
+   "p": 184.0,
+   "c": -1.6,
+   "a50": 208.03,
+   "a200": 202.41,
    "yh": 306.5,
    "yl": 129.5,
-   "a20": 198.38,
-   "r": 38.4
+   "a20": 198.32,
+   "r": 37.8
   },
   {
    "s": "6706.TW",
-   "p": 142.0,
-   "c": -3.4,
-   "a50": 119.57,
+   "p": 141.0,
+   "c": -4.08,
+   "a50": 119.55,
    "a200": 132.54,
    "yh": 216.5,
    "yl": 66.1,
-   "a20": 128.25,
-   "r": 60.9
+   "a20": 128.2,
+   "r": 60.0
   },
   {
    "s": "2305.TW",
@@ -124,91 +124,91 @@
   },
   {
    "s": "6442.TW",
-   "p": 1505.0,
-   "c": -4.44,
-   "a50": 1481.7,
-   "a200": 1669.98,
+   "p": 1495.0,
+   "c": -5.08,
+   "a50": 1481.5,
+   "a200": 1669.92,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1637.0,
-   "r": 44.1
+   "a20": 1636.5,
+   "r": 43.6
   },
   {
    "s": "6515.TW",
-   "p": 6205.0,
-   "c": -0.08,
-   "a50": 6588.2,
-   "a200": 6500.98,
+   "p": 6150.0,
+   "c": -0.97,
+   "a50": 6587.1,
+   "a200": 6500.7,
    "yh": 10795.0,
    "yl": 1705.0,
-   "a20": 6644.5,
-   "r": 41.0
+   "a20": 6641.75,
+   "r": 40.3
   },
   {
    "s": "6446.TW",
-   "p": 1205.0,
-   "c": 0.0,
-   "a50": 1300.2,
-   "a200": 816.87,
+   "p": 1200.0,
+   "c": -0.41,
+   "a50": 1300.1,
+   "a200": 816.84,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1360.25,
-   "r": 40.1
+   "a20": 1360.0,
+   "r": 39.8
   },
   {
    "s": "3324.TWO",
-   "p": 1390.0,
-   "c": 2.21,
-   "a50": 1077.54,
-   "a200": 1024.65,
+   "p": 1375.0,
+   "c": 1.1,
+   "a50": 1077.24,
+   "a200": 1024.58,
    "yh": 1485.0,
    "yl": 815.0,
-   "a20": 1274.95,
-   "r": 60.2
+   "a20": 1274.2,
+   "r": 59.4
   },
   {
    "s": "3491.TWO",
-   "p": 1485.0,
-   "c": 3.12,
-   "a50": 1298.34,
-   "a200": 1304.16,
+   "p": 1475.0,
+   "c": 2.43,
+   "a50": 1298.14,
+   "a200": 1304.12,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1411.5,
-   "r": 56.8
+   "a20": 1411.0,
+   "r": 56.3
   },
   {
    "s": "3585.TWO",
-   "p": 44.2,
-   "c": -2.0,
+   "p": 44.1,
+   "c": -2.22,
    "a50": 49.21,
    "a200": 45.65,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 48.26,
-   "r": 39.8
+   "r": 39.6
   },
   {
    "s": "6223.TWO",
-   "p": 5570.0,
-   "c": -0.54,
-   "a50": 5716.3,
-   "a200": 4440.02,
+   "p": 5500.0,
+   "c": -1.79,
+   "a50": 5714.9,
+   "a200": 4439.68,
    "yh": 7380.0,
    "yl": 1495.0,
-   "a20": 5408.25,
-   "r": 50.1
+   "a20": 5404.75,
+   "r": 48.6
   },
   {
    "s": "6750.TWO",
-   "p": 57.1,
-   "c": -0.52,
-   "a50": 56.75,
+   "p": 56.8,
+   "c": -1.05,
+   "a50": 56.74,
    "a200": 58.39,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.81,
-   "r": 48.9
+   "a20": 56.79,
+   "r": 47.5
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46351.09,
-   "c": 1.1,
-   "a50": 44984.12,
-   "a200": 38098.96,
+   "p": 46282.75,
+   "c": 0.95,
+   "a50": 44982.75,
+   "a200": 38098.62,
    "yh": 47741.51,
    "yl": 25438.25,
-   "a20": 46163.04,
-   "r": 54.0
+   "a20": 46159.62,
+   "r": 53.5
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 105.77,
-   "c": -0.06,
-   "a50": 91.22,
+   "p": 105.62,
+   "c": -0.2,
+   "a50": 91.21,
    "a200": 85.5,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.29,
-   "r": 65.8
+   "a20": 97.28,
+   "r": 65.5
   },
   {
    "s": "GC=F",
-   "p": 4325.1,
-   "c": -1.42,
-   "a50": 4318.08,
-   "a200": 4552.23,
+   "p": 4329.0,
+   "c": -1.33,
+   "a50": 4318.15,
+   "a200": 4552.25,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4495.68,
-   "r": 42.9
+   "a20": 4495.88,
+   "r": 43.1
   },
   {
    "s": "HG=F",
-   "p": 6.53,
-   "c": 1.52,
+   "p": 6.52,
+   "c": 1.38,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 50.6
+   "r": 50.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03137747,
-   "c": -0.3,
+   "c": -0.32,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170028.aspx"
   },
   {
-   "t": "CrowdStrike, Other Cybersecurity Stocks Surge as AI Debate Takes Center Stage",
+   "t": "Dear Corteva Stock Fans, Mark Your Calendars for September 15",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-other-cybersecurity-stocks-surge-173149357.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-corteva-stock-fans-mark-174213249.html"
   },
   {
    "t": "聯準會升息美股收黑　法人：台股留意美債殖利率",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170024.aspx"
   },
   {
-   "t": "Unusual Out-of-the-Money Put Option Volume in Amazon Shows Investors Bullish on AMZN",
+   "t": "Can you have two of the same credit card?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/unusual-money-put-option-volume-173003261.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-have-two-of-the-same-credit-card-175008954.html"
   },
   {
    "t": "聯準會升息一碼符合預期　五大重點一次掌握",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170023.aspx"
   },
   {
-   "t": "Dear Corteva Stock Fans, Mark Your Calendars for September 15",
+   "t": "Salesforce CEO Benioff Touts AI Strategy In Dreamforce Keynote",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-corteva-stock-fans-mark-174213249.html"
+   "u": "https://www.investors.com/news/technology/saleforce-stock-dreamforce-ai-strategy/?src=A00220&yptr=yahoo"
   },
   {
    "t": "中東供應中斷緩解　國際油價回落",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170014.aspx"
   },
   {
-   "t": "Can you have two of the same credit card?",
+   "t": "Salesforce Stock Looks Poised To Strengthen. Here's A Cheap Way To Profit.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-have-two-of-the-same-credit-card-175008954.html"
+   "u": "https://www.investors.com/research/options/salesforce-stock-crm-software-tech-options-trade-income-investing-markets/?src=A00220&yptr=yahoo"
   },
   {
    "t": "聯準會3年多以來首度升息　美股收低道瓊跌逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170013.aspx"
   },
   {
-   "t": "Hines And Rialto Close Office Credit Fund At $1.1B",
+   "t": "3 Absurdly Cheap Growth Stocks to Buy Before the End of 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/hines-rialto-close-office-credit-173421182.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3-absurdly-cheap-growth-stocks-174400688.html"
   }
  ],
  "inst": {
