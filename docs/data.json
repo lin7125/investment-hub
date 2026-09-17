@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 02:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 02:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,19 +212,19 @@
   },
   {
    "s": "AAPL",
-   "p": 335.57,
-   "c": 0.95,
+   "p": 335.83,
+   "c": 1.03,
    "a50": 319.72,
    "a200": 286.07,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 321.33,
-   "r": 64.4
+   "a20": 321.34,
+   "r": 64.6
   },
   {
    "s": "NVDA",
-   "p": 219.6,
-   "c": 2.66,
+   "p": 219.57,
+   "c": 2.65,
    "a50": 213.89,
    "a200": 198.17,
    "yh": 235.74,
@@ -234,24 +234,24 @@
   },
   {
    "s": "TSLA",
-   "p": 366.97,
-   "c": 2.48,
-   "a50": 351.11,
+   "p": 366.57,
+   "c": 2.37,
+   "a50": 351.1,
    "a200": 397.66,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 358.68,
-   "r": 55.1
+   "a20": 358.66,
+   "r": 55.0
   },
   {
    "s": "META",
-   "p": 677.73,
-   "c": 0.66,
+   "p": 677.71,
+   "c": 0.65,
    "a50": 606.6,
    "a200": 624.01,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 608.39,
+   "a20": 608.38,
    "r": 73.1
   },
   {
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7638.91,
-   "c": 1.15,
-   "a50": 7615.12,
+   "p": 7637.88,
+   "c": 1.14,
+   "a50": 7615.1,
    "a200": 7178.87,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7658.48,
-   "r": 49.7
+   "a20": 7658.43,
+   "r": 49.6
   },
   {
    "s": "^VIX",
-   "p": 15.55,
-   "c": -12.2,
+   "p": 15.53,
+   "c": -12.31,
    "a50": 16.18,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.73,
-   "r": 48.0
+   "r": 47.9
   },
   {
    "s": "BZ=F",
-   "p": 104.64,
-   "c": -1.12,
-   "a50": 91.19,
-   "a200": 85.49,
+   "p": 104.9,
+   "c": -0.88,
+   "a50": 91.2,
+   "a200": 85.5,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.23,
-   "r": 63.4
+   "a20": 97.24,
+   "r": 63.9
   },
   {
    "s": "GC=F",
-   "p": 4403.3,
-   "c": 0.36,
-   "a50": 4319.64,
-   "a200": 4552.62,
+   "p": 4398.4,
+   "c": 0.25,
+   "a50": 4319.54,
+   "a200": 4552.59,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4499.59,
-   "r": 48.5
+   "a20": 4499.35,
+   "r": 48.1
   },
   {
    "s": "HG=F",
    "p": 6.64,
-   "c": 3.3,
+   "c": 3.18,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 55.4
+   "r": 55.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03136763,
-   "c": -0.34,
+   "c": -0.33,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170247.aspx"
   },
   {
-   "t": "Is Western Digital Stock Underperforming the Nasdaq?",
+   "t": "I'm 62 With $1.5 Million in an IRA. Should I Convert $150,000 a Year to a Roth to Reduce Future RMDs?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/western-digital-stock-underperforming-nasdaq-070959373.html"
+   "u": "https://finance.yahoo.com/news/im-62-1-5-million-120000270.html"
   },
   {
    "t": "央行決議利率連10凍　自然人第2戶房貸成數上限放寬至7成",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170242.aspx"
   },
   {
-   "t": "Ask an Advisor: I'm 70 With $1.4 Million in IRAs. Should I Convert $160k a Year to a Roth to Reduce Future RMDs?",
+   "t": "My husband is 3 years away from retirement but I’m worried he’ll get fired before then — how do I protect my finances?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/ask-advisor-im-70-1-120000815.html"
+   "u": "https://finance.yahoo.com/small-business/articles/husband-3-years-away-retirement-090000553.html"
   },
   {
    "t": "菲律賓台灣形象展登場  黃志芳：台企加速布局智慧產業",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170219.aspx"
   },
   {
-   "t": "I'm 62 With $1.5 Million in an IRA. Should I Convert $150,000 a Year to a Roth to Reduce Future RMDs?",
+   "t": "Is Western Digital Stock Underperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/im-62-1-5-million-120000270.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/western-digital-stock-underperforming-nasdaq-070959373.html"
   },
   {
    "t": "算力電力雙引擎　宏致估明年AI營收再倍增",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170215.aspx"
   },
   {
-   "t": "Self Storage Data Shows Independents Leading Recovery",
+   "t": "Suze Orman has 'one crucial piece of advice' when a partner dies: Do nothing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/self-storage-data-shows-independents-080322328.html"
+   "u": "https://finance.yahoo.com/small-business/articles/suze-orman-one-crucial-piece-092500811.html"
   }
  ],
  "inst": {
