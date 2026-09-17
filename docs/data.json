@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 14:33（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 14:43（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 104.37,
-   "c": -1.38,
-   "a50": 91.19,
+   "p": 103.76,
+   "c": -1.96,
+   "a50": 91.18,
    "a200": 85.49,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.22,
-   "r": 62.9
+   "a20": 97.19,
+   "r": 61.7
   },
   {
    "s": "GC=F",
-   "p": 4346.3,
-   "c": -0.94,
-   "a50": 4318.5,
-   "a200": 4552.33,
+   "p": 4352.2,
+   "c": -0.8,
+   "a50": 4318.62,
+   "a200": 4552.36,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4496.74,
-   "r": 44.2
+   "a20": 4497.04,
+   "r": 44.6
   },
   {
    "s": "HG=F",
-   "p": 6.53,
-   "c": 1.58,
+   "p": 6.54,
+   "c": 1.62,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 50.7
+   "r": 50.9
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170028.aspx"
   },
   {
-   "t": "Intel Has 4 Major Tailwinds According to This Wall Street Analyst, Yet 1 Red Flag Caused a Price Target Cut",
+   "t": "Chipmaker Pulls Back to Key Supportive Trendline",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/intel-4-major-tailwinds-according-182657781.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/chipmaker-pulls-back-key-supportive-183731911.html"
   },
   {
    "t": "聯準會升息美股收黑　法人：台股留意美債殖利率",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170024.aspx"
   },
   {
-   "t": "Trump’s Surgeon General Pick Loves These 3 Tobacco Stocks",
+   "t": "Why UBS Just Turned Bearish on NuScale Power Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/trump-surgeon-general-pick-loves-191035742.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-ubs-just-turned-bearish-184337599.html"
   },
   {
    "t": "聯準會升息一碼符合預期　五大重點一次掌握",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170023.aspx"
   },
   {
-   "t": "Bitcoin tumbles 4% to $75,000 as hopes of CLARITY Act passage this year fade",
+   "t": "This Utility ETF Says the AI Trade Is Over",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/bitcoin-tumbles-4-to-75000-as-hopes-of-clarity-act-passage-this-year-fade-153127154.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/utility-etf-says-ai-trade-191906797.html"
   },
   {
    "t": "中東供應中斷緩解　國際油價回落",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170014.aspx"
   },
   {
-   "t": "Chipmaker Pulls Back to Key Supportive Trendline",
+   "t": "Jim Cramer Says “Target’s Doing Better than Walmart Right Now”",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/chipmaker-pulls-back-key-supportive-183731911.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-target-doing-192102989.html"
   },
   {
    "t": "聯準會3年多以來首度升息　美股收低道瓊跌逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170013.aspx"
   },
   {
-   "t": "HIVE’s BUZZ HPC strengthens board with capital markets veteran Hubert Marleau",
+   "t": "Wells Fargo CFO Says the Bar for Bank Mergers Remains High",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/video/hive-buzz-hpc-strengthens-board-182753911.html"
+   "u": "https://www.barrons.com/articles/wells-fargo-cfo-bank-mergers-491878b5?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
