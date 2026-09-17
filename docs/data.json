@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17 16:25（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-17 16:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.13,
-   "c": -8.92,
+   "p": 16.27,
+   "c": -8.13,
    "a50": 16.19,
    "a200": 18.1,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.76,
-   "r": 50.3
+   "a20": 15.77,
+   "r": 50.9
   },
   {
    "s": "BZ=F",
-   "p": 104.82,
-   "c": -0.95,
+   "p": 104.77,
+   "c": -1.0,
    "a50": 91.2,
-   "a200": 85.5,
+   "a200": 85.49,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 97.24,
-   "r": 63.8
+   "r": 63.7
   },
   {
    "s": "GC=F",
-   "p": 4359.2,
-   "c": -0.65,
-   "a50": 4318.76,
-   "a200": 4552.4,
+   "p": 4355.6,
+   "c": -0.73,
+   "a50": 4318.69,
+   "a200": 4552.38,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4497.39,
-   "r": 45.1
+   "a20": 4497.21,
+   "r": 44.9
   },
   {
    "s": "HG=F",
-   "p": 6.55,
-   "c": 1.84,
+   "p": 6.56,
+   "c": 1.97,
    "a50": 6.48,
    "a200": 6.04,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.55,
-   "r": 51.5
+   "r": 51.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03131851,
-   "c": -0.49,
+   "p": 0.03133814,
+   "c": -0.42,
    "a50": 0.03124024,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170028.aspx"
   },
   {
-   "t": "Jim Cramer Says Adobe (ADBE) Could Be a Short-Squeeze Candidate",
+   "t": "Fed predictions for 2026: Will a rate hike happen by the end of the year?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-adobe-adbe-202744226.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/fed-rate-predictions-2026-154647304.html"
   },
   {
    "t": "聯準會升息美股收黑　法人：台股留意美債殖利率",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170024.aspx"
   },
   {
-   "t": "Cathie Wood Dumps $60 Million In Crypto Stock Ahead Of Clarity Act Vote",
+   "t": "Jim Cramer Believes Apple (AAPL) Could See “Off The Charts” Demand For Its New Foldable",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/cathie-wood-ark-invest-crypto-stocks-coinbase-bullish-circle-bitcoin-etf-clarity-act-vote/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-apple-aapl-203105978.html"
   },
   {
    "t": "聯準會升息一碼符合預期　五大重點一次掌握",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609170023.aspx"
   },
   {
-   "t": "Jim Cramer on Salesforce (CRM): “It’s Been Very Strong of Late”",
+   "t": "Jim Cramer Says Adobe (ADBE) Could Be a Short-Squeeze Candidate",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-salesforce-crm-very-202539714.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-adobe-adbe-202744226.html"
   },
   {
    "t": "中東供應中斷緩解　國際油價回落",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170014.aspx"
   },
   {
-   "t": "Jim Cramer Says SoFi is a Long-Term Buy, But Highlights High Valuation",
+   "t": "Pentagon Adds $13.4 Billion to Boeing (BA) Contract. That Isn’t an Immediate Financial Windfall",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-sofi-long-201840803.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/pentagon-adds-13-4-billion-203602021.html"
   },
   {
    "t": "聯準會3年多以來首度升息　美股收低道瓊跌逾600點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609170013.aspx"
   },
   {
-   "t": "Dow clinches its worst September start since 2008 as history repeats itself",
+   "t": "Arbitration Panel Orders Schwab to Pay $1.3 Million for Failing to Spot Elder Fraud in Crypto Scam",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dow-clinches-worst-september-start-202000354.html"
+   "u": "https://www.barrons.com/advisor/articles/schwab-finra-elder-fraud-crypto-86e173d0?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
