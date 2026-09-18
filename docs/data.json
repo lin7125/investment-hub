@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 15:30（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 15:41（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 15.07,
-   "c": -2.4,
+   "p": 15.06,
+   "c": -2.46,
    "a50": 16.18,
    "a200": 18.09,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 102.26,
-   "c": -2.44,
-   "a50": 91.72,
-   "a200": 85.69,
+   "p": 97.97,
+   "c": -6.54,
+   "a50": 91.63,
+   "a200": 85.67,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.66,
-   "r": 58.6
+   "a20": 97.45,
+   "r": 51.5
   },
   {
    "s": "GC=F",
-   "p": 4433.2,
-   "c": 0.76,
-   "a50": 4325.42,
-   "a200": 4553.39,
+   "p": 4435.3,
+   "c": 0.81,
+   "a50": 4325.46,
+   "a200": 4553.4,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4492.5,
-   "r": 51.0
+   "a20": 4492.61,
+   "r": 51.1
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 1.02,
+   "p": 6.67,
+   "c": 1.26,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 56.0
+   "r": 56.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03143666,
-   "c": 0.16,
+   "p": 0.03142678,
+   "c": 0.14,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180106.aspx"
   },
   {
-   "t": "Two Low-Profile AI Data-Center Innovators That Investors Should Watch",
+   "t": "Instant View: Stocks pull back after Fed raises rates, points to another hike this year",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/ai-data-centers-neocloud-oracle-microsoft-joulent-crusoe/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/economy/policy/articles/markets-steady-fed-raises-rates-182216095.html"
   },
   {
    "t": "央行：黃金代幣年底可望上路　現貨提領時間縮短為3天",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180104.aspx"
   },
   {
-   "t": "Does Fidelity or iShares Have the Better Healthcare ETF For Investors Seeking Broad Exposure?",
+   "t": "How Today’s Rate Hike Hits Credit-Card Debt, Savings Accounts",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/does-fidelity-ishares-better-healthcare-192301040.html"
+   "u": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/how-today-s-rate-hike-hits-credit-card-debt-home-loans-savings-accounts-7YWSBnfOJKChDHHlB3JR?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "電信業今年手機收入拚創高　遠傳5G用戶已黃金交叉",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180097.aspx"
   },
   {
-   "t": "What is the average personal loan rate for September 2026?",
+   "t": "The Fed's Hawkish Pivot Didn't Fix The 10-Year Yield; S&P 500 Slides",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/average-personal-loan-interest-rate-005856676.html"
+   "u": "https://www.investors.com/news/federal-reserve-meeting-sept-warsh-10-year-treasury-yield-sp-500/?src=A00220&yptr=yahoo"
   },
   {
    "t": "iPhone 18 Pro開賣　電信業：漲價難擋果粉換機潮",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180090.aspx"
   },
   {
-   "t": "How Highway Sees Fraud, Risk and Carrier Vetting",
+   "t": "FBI opens probe of Jon Venetos’ Lurin Capital",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/highway-sees-fraud-risk-carrier-192844408.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/fbi-opens-probe-jon-venetos-194004197.html"
   },
   {
    "t": "新台幣午盤強升1.16角　暫收31.765元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180087.aspx"
   },
   {
-   "t": "Mortgage rates jump, approach 7%",
+   "t": "Dollar Soars as Fed Hikes Rates and Signals More to Come",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/mortgage-rates-jump-approach-7-193000830.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-soars-fed-hikes-rates-193939474.html"
   },
   {
    "t": "日本今年第2度升息　因應油價與日圓貶值、調整速度創最短間隔",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180080.aspx"
   },
   {
-   "t": "Amazon Business Hits $60B: What Shippers Should Notice",
+   "t": "Circle Agrees to Buy Tazapay. Can Over $25B in Annualized Payment Volume Improve USDC Monetization?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/amazon-business-hits-60b-shippers-193055376.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/circle-agrees-buy-tazapay-over-194202296.html"
   }
  ],
  "inst": {
