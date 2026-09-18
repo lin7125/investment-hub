@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 16:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 16:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 15.06,
-   "c": -2.46,
+   "p": 15.16,
+   "c": -1.81,
    "a50": 16.18,
    "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.72,
-   "r": 46.1
+   "a20": 15.73,
+   "r": 46.5
   },
   {
    "s": "BZ=F",
-   "p": 98.38,
-   "c": -6.14,
+   "p": 98.4,
+   "c": -6.12,
    "a50": 91.64,
    "a200": 85.67,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4435.5,
-   "c": 0.81,
-   "a50": 4325.46,
-   "a200": 4553.4,
+   "p": 4431.7,
+   "c": 0.73,
+   "a50": 4325.39,
+   "a200": 4553.39,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4492.62,
-   "r": 51.2
+   "a20": 4492.43,
+   "r": 50.9
   },
   {
    "s": "HG=F",
    "p": 6.68,
-   "c": 1.34,
+   "c": 1.4,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 56.8
+   "r": 56.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03143666,
-   "c": 0.16,
+   "p": 0.03145643,
+   "c": 0.21,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180106.aspx"
   },
   {
-   "t": "Fed Signals Limited Tightening Ahead Despite Stubborn Inflation",
+   "t": "Stocks Tumble as Fed Hikes Interest Rates and Signals More to Come",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/fed-interest-rates-inflation-warsh-rate-increases-8ca2e6ef?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-tumble-fed-hikes-interest-205250060.html"
   },
   {
    "t": "央行：黃金代幣年底可望上路　現貨提領時間縮短為3天",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180104.aspx"
   },
   {
-   "t": "This Analyst Just Downgraded Expedia Stock. Here's Why.",
+   "t": "Anthropic IPO Date: What Investors Need to Know Before It Prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-downgraded-expedia-stock-204426639.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-date-investors-know-205000356.html"
   },
   {
    "t": "電信業今年手機收入拚創高　遠傳5G用戶已黃金交叉",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180097.aspx"
   },
   {
-   "t": "Cathie Wood Projects $10 Trillion In SpaceX Starship Revenue By 2030",
+   "t": "Bitcoin Fades, Cipher Leads Miners Higher After Fed, Energy News",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/cathie-wood-ark-spacex-starship-revenue-estimate-elon-msuk/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/bitcoin-price-cryptocurrency-federal-reserve-interest-rate-cipher-digital-cifr-stock/?src=A00220&yptr=yahoo"
   },
   {
    "t": "iPhone 18 Pro開賣　電信業：漲價難擋果粉換機潮",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180090.aspx"
   },
   {
-   "t": "Boeing Stock Skids As CEO Warns Of Further 737 Production Delays",
+   "t": "Ispire Technology Inc. Q4 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/boeing-stock-jets-planes-aerospace-kelly-ortberg-737-max/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ispire-technology-inc-q4-2026-204637854.html"
   },
   {
    "t": "新台幣午盤強升1.16角　暫收31.765元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180087.aspx"
   },
   {
-   "t": "JBHT Stock Plummets as J.B. Hunt Warns Investors About Q3 Earnings",
+   "t": "This Analyst Just Downgraded Expedia Stock. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jbht-stock-plummets-j-b-203326100.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-downgraded-expedia-stock-204426639.html"
   },
   {
    "t": "日本今年第2度升息　因應油價與日圓貶值、調整速度創最短間隔",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202609180080.aspx"
   },
   {
-   "t": "Man sentenced in $35 million Ponzi scheme that defrauded Travis Kelce: I ‘did this out of greed’",
+   "t": "Granite Construction (GVA) Wins $23.7 Million Road Contract. Can Repeat Work Lift Margins?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/man-sentenced-35-million-ponzi-204402443.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/granite-construction-gva-wins-23-205822584.html"
   }
  ],
  "inst": {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "byCode": {
-   "2317": {
-    "f": 8880,
-    "t": 109,
-    "all": 9815
-   },
    "2330": {
-    "f": 4794,
-    "t": -60,
-    "all": 5243
-   },
-   "2305": {
-    "f": 1514,
-    "t": 0,
-    "all": 1547
-   },
-   "2454": {
-    "f": 300,
-    "t": 37,
-    "all": 419
-   },
-   "1802": {
-    "f": -106,
-    "t": 47,
-    "all": 387
-   },
-   "3701": {
-    "f": -41,
-    "t": 0,
-    "all": 35
-   },
-   "4722": {
-    "f": 35,
-    "t": 0,
-    "all": 27
-   },
-   "6862": {
-    "f": 21,
-    "t": 0,
-    "all": 18
-   },
-   "6515": {
-    "f": -78,
-    "t": -42,
-    "all": -118
-   },
-   "2308": {
-    "f": -663,
-    "t": 253,
-    "all": -156
-   },
-   "6446": {
-    "f": -530,
-    "t": 2,
-    "all": -510
-   },
-   "6442": {
-    "f": -431,
-    "t": -175,
-    "all": -652
-   },
-   "6706": {
-    "f": -823,
-    "t": 0,
-    "all": -935
+    "f": 6039,
+    "t": -274,
+    "all": 7127
    },
    "2327": {
-    "f": -2053,
-    "t": 156,
-    "all": -1768
+    "f": 2423,
+    "t": 254,
+    "all": 3681
+   },
+   "2308": {
+    "f": 2830,
+    "t": -21,
+    "all": 3150
+   },
+   "2454": {
+    "f": 2886,
+    "t": -120,
+    "all": 3057
+   },
+   "2305": {
+    "f": 2428,
+    "t": 0,
+    "all": 2478
+   },
+   "6706": {
+    "f": 123,
+    "t": 0,
+    "all": 268
+   },
+   "4722": {
+    "f": 177,
+    "t": 0,
+    "all": 177
+   },
+   "6442": {
+    "f": 205,
+    "t": -147,
+    "all": 94
+   },
+   "3701": {
+    "f": 73,
+    "t": 0,
+    "all": 77
+   },
+   "6862": {
+    "f": 11,
+    "t": 0,
+    "all": 11
+   },
+   "6515": {
+    "f": 15,
+    "t": -13,
+    "all": 7
+   },
+   "6446": {
+    "f": -9222,
+    "t": 8555,
+    "all": -639
+   },
+   "1802": {
+    "f": -6342,
+    "t": 123,
+    "all": -5877
+   },
+   "2317": {
+    "f": -6698,
+    "t": -545,
+    "all": -6029
    }
   },
-  "totalNetE": 254.7
+  "totalNetE": 1165.9
  }
 }
