@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 16:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 16:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 15.23,
-   "c": -1.36,
+   "p": 15.26,
+   "c": -1.17,
    "a50": 16.18,
    "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.73,
-   "r": 46.7
+   "r": 46.8
   },
   {
    "s": "BZ=F",
-   "p": 98.88,
-   "c": -5.67,
+   "p": 98.92,
+   "c": -5.63,
    "a50": 91.65,
    "a200": 85.67,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.49,
-   "r": 52.8
+   "a20": 97.5,
+   "r": 52.9
   },
   {
    "s": "GC=F",
-   "p": 4426.2,
-   "c": 0.6,
-   "a50": 4325.28,
-   "a200": 4553.36,
+   "p": 4425.6,
+   "c": 0.59,
+   "a50": 4325.26,
+   "a200": 4553.35,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4492.15,
+   "a20": 4492.12,
    "r": 50.4
   },
   {
    "s": "HG=F",
    "p": 6.66,
-   "c": 1.12,
+   "c": 1.13,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03144654,
-   "c": 0.19,
+   "p": 0.03145643,
+   "c": 0.22,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180184.aspx"
   },
   {
-   "t": "Health Care Roundup: Market Talk",
+   "t": "American Express Stock Is Up This Week. Here’s Why the Platinum Refresh Keeps Paying Off",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/health/healthcare/health-care-roundup-market-talk-13e9a88b?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/american-express-stock-week-why-211915058.html"
   },
   {
    "t": "市調：台積電CoWoS-L具良率優勢　居主流至2028年",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180182.aspx"
   },
   {
-   "t": "Major US banks raise prime rate after first Fed rate hike since 2023",
+   "t": "Fed policymakers forecast one more rate hike this year",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/keycorp-raises-prime-rate-fed-192441357.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/fed-forecasts-see-latest-hike-180631717.html"
   },
   {
    "t": "蕭副總統：生技拚護體神山　政府助國際合作研發",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180181.aspx"
   },
   {
-   "t": "ETF League Tables: Inflows of $285M For JMorgan ETFs",
+   "t": "Stock Market Today: Nasdaq Ends Flat After Rate Hike; AI Play SpaceX Eyes Early Entry",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-inflows-285m-210033559.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo"
   },
   {
    "t": "新台幣升7.3分　收31.808元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180177.aspx"
   },
   {
-   "t": "Fed meeting live updates: Fed hikes interest rates by 25 basis points as Warsh vows 'timelier return' to 2% inflation",
+   "t": "Hawaiian Electric (HE): Does a $1 Billion Bank IPO Valuation Matter?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-25-basis-point-interest-rate-hike-chairman-kevin-warsh-143452661.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hawaiian-electric-does-1-billion-212245205.html"
   },
   {
    "t": "中龍鋼鐵178億升級智慧高爐、建再生水廠　投資台灣添3案",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180169.aspx"
   },
   {
-   "t": "Corn Bounces of Session Lows into Wednesday’s Close",
+   "t": "Major US banks raise prime rate after first Fed rate hike since 2023",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-bounces-session-lows-wednesday-210138991.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/keycorp-raises-prime-rate-fed-192441357.html"
   },
   {
    "t": "AI通膨來襲？央行：短期可控、長期生產力提升將降壓",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180167.aspx"
   },
   {
-   "t": "Chevron’s CEO Warns Oil Price Buffers Are “Played Out.” Here’s What That Means",
+   "t": "Corn Bounces of Session Lows into Wednesday’s Close",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/chevron-ceo-warns-oil-price-210939705.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-bounces-session-lows-wednesday-210138991.html"
   }
  ],
  "inst": {
