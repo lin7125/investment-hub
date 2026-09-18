@@ -1,115 +1,115 @@
 {
- "generatedAt": "2026-09-18 13:48（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 13:58（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2455.0,
-   "c": 1.24,
-   "a50": 2390.0,
-   "a200": 2063.32,
+   "p": 2460.0,
+   "c": 1.44,
+   "a50": 2390.1,
+   "a200": 2063.35,
    "yh": 2510.0,
    "yl": 1265.0,
-   "a20": 2416.5,
-   "r": 56.7
+   "a20": 2416.75,
+   "r": 57.3
   },
   {
    "s": "2317.TW",
-   "p": 252.0,
-   "c": 0.6,
-   "a50": 249.72,
-   "a200": 236.45,
+   "p": 250.5,
+   "c": 0.0,
+   "a50": 249.69,
+   "a200": 236.44,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 250.12,
-   "r": 51.7
+   "a20": 250.05,
+   "r": 50.0
   },
   {
    "s": "2308.TW",
-   "p": 1745.0,
-   "c": 3.56,
-   "a50": 1753.6,
-   "a200": 1619.75,
+   "p": 1735.0,
+   "c": 2.97,
+   "a50": 1753.4,
+   "a200": 1619.7,
    "yh": 2520.0,
    "yl": 848.0,
-   "a20": 1749.5,
-   "r": 49.8
+   "a20": 1749.0,
+   "r": 49.0
   },
   {
    "s": "2454.TW",
-   "p": 4730.0,
-   "c": 5.11,
-   "a50": 3994.5,
-   "a200": 2819.82,
+   "p": 4710.0,
+   "c": 4.67,
+   "a50": 3994.1,
+   "a200": 2819.72,
    "yh": 4760.0,
    "yl": 1145.0,
-   "a20": 4335.75,
-   "r": 63.6
+   "a20": 4334.75,
+   "r": 63.2
   },
   {
    "s": "2327.TW",
-   "p": 548.0,
-   "c": 3.59,
-   "a50": 593.23,
-   "a200": 469.3,
+   "p": 550.0,
+   "c": 3.97,
+   "a50": 593.27,
+   "a200": 469.31,
    "yh": 1140.0,
    "yl": 158.0,
-   "a20": 552.1,
-   "r": 46.1
+   "a20": 552.2,
+   "r": 46.5
   },
   {
    "s": "1802.TW",
-   "p": 59.0,
-   "c": 0.85,
+   "p": 58.8,
+   "c": 0.51,
    "a50": 56.5,
    "a200": 55.83,
    "yh": 76.6,
    "yl": 25.85,
-   "a20": 59.18,
-   "r": 52.0
+   "a20": 59.17,
+   "r": 51.4
   },
   {
    "s": "6862.TW",
-   "p": 131.5,
-   "c": 1.15,
-   "a50": 141.32,
+   "p": 131.0,
+   "c": 0.77,
+   "a50": 141.31,
    "a200": 172.13,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 136.72,
-   "r": 37.9
+   "a20": 136.7,
+   "r": 36.8
   },
   {
    "s": "3701.TW",
-   "p": 41.4,
-   "c": 0.36,
-   "a50": 40.27,
+   "p": 41.1,
+   "c": -0.36,
+   "a50": 40.26,
    "a200": 49.67,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.92,
-   "r": 52.3
+   "a20": 40.9,
+   "r": 51.2
   },
   {
    "s": "4722.TW",
-   "p": 184.0,
-   "c": 0.55,
-   "a50": 206.56,
-   "a200": 202.58,
+   "p": 189.5,
+   "c": 3.55,
+   "a50": 206.67,
+   "a200": 202.61,
    "yh": 306.5,
    "yl": 138.5,
-   "a20": 197.18,
-   "r": 38.2
+   "a20": 197.45,
+   "r": 43.1
   },
   {
    "s": "6706.TW",
-   "p": 150.0,
-   "c": 3.45,
-   "a50": 119.85,
-   "a200": 132.91,
+   "p": 149.5,
+   "c": 3.1,
+   "a50": 119.84,
+   "a200": 132.9,
    "yh": 216.5,
    "yl": 66.1,
-   "a20": 130.07,
-   "r": 66.7
+   "a20": 130.05,
+   "r": 66.4
   },
   {
    "s": "2305.TW",
@@ -124,58 +124,58 @@
   },
   {
    "s": "6442.TW",
-   "p": 1555.0,
-   "c": 2.98,
-   "a50": 1483.3,
-   "a200": 1671.62,
+   "p": 1575.0,
+   "c": 4.3,
+   "a50": 1483.7,
+   "a200": 1671.72,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1638.75,
-   "r": 47.4
+   "a20": 1639.75,
+   "r": 48.6
   },
   {
    "s": "6515.TW",
-   "p": 6465.0,
-   "c": 5.64,
-   "a50": 6560.5,
-   "a200": 6520.5,
+   "p": 6435.0,
+   "c": 5.15,
+   "a50": 6559.9,
+   "a200": 6520.35,
    "yh": 10795.0,
    "yl": 1845.0,
-   "a20": 6643.5,
-   "r": 46.4
+   "a20": 6642.0,
+   "r": 45.9
   },
   {
    "s": "6446.TW",
-   "p": 1190.0,
-   "c": -0.42,
-   "a50": 1298.1,
-   "a200": 820.57,
+   "p": 1180.0,
+   "c": -1.26,
+   "a50": 1297.9,
+   "a200": 820.52,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1349.25,
-   "r": 39.1
+   "a20": 1348.75,
+   "r": 38.4
   },
   {
    "s": "3324.TWO",
-   "p": 1475.0,
-   "c": 6.5,
-   "a50": 1088.54,
-   "a200": 1027.54,
+   "p": 1480.0,
+   "c": 6.86,
+   "a50": 1088.64,
+   "a200": 1027.56,
    "yh": 1485.0,
    "yl": 815.0,
-   "a20": 1300.0,
-   "r": 64.3
+   "a20": 1300.25,
+   "r": 64.6
   },
   {
    "s": "3491.TWO",
-   "p": 1525.0,
-   "c": 2.69,
-   "a50": 1303.44,
-   "a200": 1309.43,
+   "p": 1565.0,
+   "c": 5.39,
+   "a50": 1304.24,
+   "a200": 1309.63,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1423.75,
-   "r": 59.1
+   "a20": 1425.75,
+   "r": 61.1
   },
   {
    "s": "3585.TWO",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5775.0,
-   "c": 5.0,
-   "a50": 5688.8,
-   "a200": 4458.88,
+   "p": 5800.0,
+   "c": 5.45,
+   "a50": 5689.3,
+   "a200": 4459.0,
    "yh": 7380.0,
    "yl": 1555.0,
-   "a20": 5420.25,
-   "r": 54.2
+   "a20": 5421.5,
+   "r": 54.7
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 47122.18,
-   "c": 1.8,
-   "a50": 45018.21,
-   "a200": 38202.08,
+   "p": 47180.75,
+   "c": 1.93,
+   "a50": 45019.38,
+   "a200": 38202.38,
    "yh": 47741.51,
    "yl": 25578.37,
-   "a20": 46254.78,
-   "r": 59.2
+   "a20": 46257.71,
+   "r": 59.6
   },
   {
    "s": "^GSPC",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 103.41,
-   "c": -1.35,
+   "p": 103.6,
+   "c": -1.16,
    "a50": 91.74,
    "a200": 85.7,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.72,
-   "r": 60.8
+   "a20": 97.73,
+   "r": 61.2
   },
   {
    "s": "GC=F",
-   "p": 4408.4,
-   "c": 0.2,
-   "a50": 4324.92,
-   "a200": 4553.27,
+   "p": 4414.3,
+   "c": 0.33,
+   "a50": 4325.04,
+   "a200": 4553.3,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4491.26,
-   "r": 48.9
+   "a20": 4491.56,
+   "r": 49.4
   },
   {
    "s": "HG=F",
    "p": 6.64,
-   "c": 0.84,
+   "c": 0.74,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 55.5
+   "r": 55.2
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180106.aspx"
   },
   {
-   "t": "Holiday Shopping Is Almost Here—And Target May Be Ready to Win Big",
+   "t": "First Rate Hike Since 2023 Lands Atop 5% Treasury Yield, Ratcheting Up Capital Pressure",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/holiday-shopping-almost-target-may-175500636.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/fed-raises-benchmark-rate-intensifying-180550568.html"
   },
   {
    "t": "央行：黃金代幣年底可望上路　現貨提領時間縮短為3天",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180104.aspx"
   },
   {
-   "t": "Here Is How to Play Corning Stock After Its Dilution Scare",
+   "t": "What a Fed rate hike means for your bank accounts, loans, credit cards, and investments",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/play-corning-stock-dilution-scare-174734596.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-a-fed-rate-hike-means-for-your-bank-accounts-loans-credit-cards-and-investments-220526102.html"
   },
   {
    "t": "電信業今年手機收入拚創高　遠傳5G用戶已黃金交叉",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180097.aspx"
   },
   {
-   "t": "What a Fed rate hike means for your bank accounts, loans, credit cards, and investments",
+   "t": "How the Federal Reserve's rate hike impacts student loan interest rates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-a-fed-rate-hike-means-for-your-bank-accounts-loans-credit-cards-and-investments-220526102.html"
+   "u": "https://finance.yahoo.com/personal-finance/student-loans/article/federal-reserve-student-loan-rates-223344566.html"
   },
   {
    "t": "iPhone 18 Pro開賣　電信業：漲價難擋果粉換機潮",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180090.aspx"
   },
   {
-   "t": "How the Federal Reserve's rate hike impacts student loan interest rates",
+   "t": "The best credit cards for Airbnb rentals (2026): Earn points and cash back for your stay",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/student-loans/article/federal-reserve-student-loan-rates-223344566.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-for-airbnb-rentals-183212147.html"
   },
   {
    "t": "新台幣午盤強升1.16角　暫收31.765元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180080.aspx"
   },
   {
-   "t": "Apple Is Considering Something It Hasn't Done in 15 Years. Here's What Investors Need to Know.",
+   "t": "Treasury Yields Hold Declines After Fed Raises Rates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/apple-considering-something-hasnt-done-175950025.html"
+   "u": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/treasury-yields-hold-declines-after-fed-raises-rates-spdrLTzaZf0leCiUSoD9?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
