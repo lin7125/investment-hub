@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 15:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 15:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46288.0,
-   "c": 0.96,
-   "a50": 44982.86,
-   "a200": 38098.65,
+   "p": 47180.75,
+   "c": 1.93,
+   "a50": 45019.38,
+   "a200": 38202.38,
    "yh": 47741.51,
    "yl": 25578.37,
-   "a20": 46159.89,
-   "r": 53.5
+   "a20": 46257.71,
+   "r": 59.6
   },
   {
    "s": "^GSPC",
@@ -278,31 +278,31 @@
   },
   {
    "s": "^VIX",
-   "p": 15.44,
-   "c": -12.82,
+   "p": 15.07,
+   "c": -2.4,
    "a50": 16.18,
-   "a200": 18.1,
+   "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.72,
-   "r": 47.6
+   "r": 46.1
   },
   {
    "s": "BZ=F",
-   "p": 102.85,
-   "c": -1.88,
-   "a50": 91.73,
+   "p": 102.26,
+   "c": -2.44,
+   "a50": 91.72,
    "a200": 85.69,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.69,
-   "r": 59.7
+   "a20": 97.66,
+   "r": 58.6
   },
   {
    "s": "GC=F",
-   "p": 4433.1,
+   "p": 4433.2,
    "c": 0.76,
-   "a50": 4325.41,
+   "a50": 4325.42,
    "a200": 4553.39,
    "yh": 5318.4,
    "yl": 3678.3,
@@ -311,8 +311,8 @@
   },
   {
    "s": "HG=F",
-   "p": 6.66,
-   "c": 1.04,
+   "p": 6.65,
+   "c": 1.02,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03144654,
-   "c": 0.17,
+   "p": 0.03143666,
+   "c": 0.16,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180106.aspx"
   },
   {
-   "t": "Warsh Sheds No New Light on the Bond Rout",
+   "t": "Two Low-Profile AI Data-Center Innovators That Investors Should Watch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/livecoverage/fed-meeting-rate-decision-september-warsh/card/warsh-sheds-no-new-light-on-the-bond-rout-DbgZ0jSyF9LqIGDZ194s?siteid=yhoof2&yptr=yahoo"
+   "u": "https://www.investors.com/news/ai-data-centers-neocloud-oracle-microsoft-joulent-crusoe/?src=A00220&yptr=yahoo"
   },
   {
    "t": "央行：黃金代幣年底可望上路　現貨提領時間縮短為3天",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180104.aspx"
   },
   {
-   "t": "Crude Oil Prices Sharply Lower as Middle East Disruptions Ease",
+   "t": "Does Fidelity or iShares Have the Better Healthcare ETF For Investors Seeking Broad Exposure?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-sharply-lower-191614521.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/does-fidelity-ishares-better-healthcare-192301040.html"
   },
   {
    "t": "電信業今年手機收入拚創高　遠傳5G用戶已黃金交叉",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180097.aspx"
   },
   {
-   "t": "Nat-Gas Prices Slip as European Gas Prices Retreat",
+   "t": "What is the average personal loan rate for September 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-slip-european-191503600.html"
+   "u": "https://finance.yahoo.com/markets/articles/average-personal-loan-interest-rate-005856676.html"
   },
   {
    "t": "iPhone 18 Pro開賣　電信業：漲價難擋果粉換機潮",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180090.aspx"
   },
   {
-   "t": "A look at the federal funds rate over the past 50 years: How has it changed?",
+   "t": "How Highway Sees Fraud, Risk and Carrier Vetting",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/historical-fed-interest-rates-200947944.html"
+   "u": "https://finance.yahoo.com/small-business/articles/highway-sees-fraud-risk-carrier-192844408.html"
   },
   {
    "t": "新台幣午盤強升1.16角　暫收31.765元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180087.aspx"
   },
   {
-   "t": "Two Low-Profile AI Data-Center Innovators That Investors Should Watch",
+   "t": "Mortgage rates jump, approach 7%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/ai-data-centers-neocloud-oracle-microsoft-joulent-crusoe/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/real-estate/articles/mortgage-rates-jump-approach-7-193000830.html"
   },
   {
    "t": "日本今年第2度升息　因應油價與日圓貶值、調整速度創最短間隔",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180080.aspx"
   },
   {
-   "t": "Should You Judge JNJ Stock Without STELARA?",
+   "t": "Amazon Business Hits $60B: What Shippers Should Notice",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/judge-jnj-stock-without-stelara-191202423.html"
+   "u": "https://finance.yahoo.com/small-business/articles/amazon-business-hits-60b-shippers-193055376.html"
   }
  ],
  "inst": {
