@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 13:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 14:02（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.0,
-   "c": 1.01,
+   "p": 45.15,
+   "c": 1.35,
    "a50": 48.82,
    "a200": 45.82,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 48.03,
-   "r": 41.7
+   "a20": 48.04,
+   "r": 42.1
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 103.6,
-   "c": -1.16,
+   "p": 103.49,
+   "c": -1.27,
    "a50": 91.74,
    "a200": 85.7,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.73,
-   "r": 61.2
+   "a20": 97.72,
+   "r": 61.0
   },
   {
    "s": "GC=F",
-   "p": 4414.3,
-   "c": 0.33,
-   "a50": 4325.04,
-   "a200": 4553.3,
+   "p": 4413.1,
+   "c": 0.3,
+   "a50": 4325.01,
+   "a200": 4553.29,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4491.56,
-   "r": 49.4
+   "a20": 4491.5,
+   "r": 49.3
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 0.74,
+   "p": 6.63,
+   "c": 0.68,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 55.2
+   "r": 55.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03145643,
-   "c": 0.21,
+   "c": 0.23,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180106.aspx"
   },
   {
-   "t": "First Rate Hike Since 2023 Lands Atop 5% Treasury Yield, Ratcheting Up Capital Pressure",
+   "t": "Federal Reserve hikes interest rates for first time since 2023 amid stubborn inflation",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fed-raises-benchmark-rate-intensifying-180550568.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/federal-hikes-interest-rates-first-180052520.html"
   },
   {
    "t": "央行：黃金代幣年底可望上路　現貨提領時間縮短為3天",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180090.aspx"
   },
   {
-   "t": "The best credit cards for Airbnb rentals (2026): Earn points and cash back for your stay",
+   "t": "Here Is How to Play Corning Stock After Its Dilution Scare",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-for-airbnb-rentals-183212147.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/play-corning-stock-dilution-scare-174734596.html"
   },
   {
    "t": "新台幣午盤強升1.16角　暫收31.765元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180080.aspx"
   },
   {
-   "t": "Treasury Yields Hold Declines After Fed Raises Rates",
+   "t": "Fed Raises Interest Rates for the First Time in More Than 3 Years",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/treasury-yields-hold-declines-after-fed-raises-rates-spdrLTzaZf0leCiUSoD9?siteid=yhoof2&yptr=yahoo"
+   "u": "https://www.barrons.com/livecoverage/fed-meeting-rate-decision-september-warsh/card/fed-raises-interest-rates-for-the-first-time-in-more-than-3-years-9NUwRukBbTLUQsmSQEPW?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
