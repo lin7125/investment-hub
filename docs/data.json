@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 15:10（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 15:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.15,
-   "c": 1.35,
+   "p": 45.1,
+   "c": 1.23,
    "a50": 48.82,
    "a200": 45.82,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 48.04,
-   "r": 42.1
+   "r": 42.0
   },
   {
    "s": "6223.TWO",
@@ -289,14 +289,14 @@
   },
   {
    "s": "BZ=F",
-   "p": 102.78,
-   "c": -1.95,
+   "p": 102.85,
+   "c": -1.88,
    "a50": 91.73,
    "a200": 85.69,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 97.69,
-   "r": 59.5
+   "r": 59.7
   },
   {
    "s": "GC=F",
@@ -311,19 +311,19 @@
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 0.77,
+   "p": 6.66,
+   "c": 1.04,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 55.3
+   "r": 56.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03144654,
-   "c": 0.19,
+   "c": 0.17,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180106.aspx"
   },
   {
-   "t": "Former Waymo CFO jumps to self-driving startup Wayve",
+   "t": "Warsh Sheds No New Light on the Bond Rout",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/former-waymo-cfo-jumps-self-190249214.html"
+   "u": "https://www.barrons.com/livecoverage/fed-meeting-rate-decision-september-warsh/card/warsh-sheds-no-new-light-on-the-bond-rout-DbgZ0jSyF9LqIGDZ194s?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "央行：黃金代幣年底可望上路　現貨提領時間縮短為3天",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180104.aspx"
   },
   {
-   "t": "A look at the federal funds rate over the past 50 years: How has it changed?",
+   "t": "Crude Oil Prices Sharply Lower as Middle East Disruptions Ease",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/historical-fed-interest-rates-200947944.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-sharply-lower-191614521.html"
   },
   {
    "t": "電信業今年手機收入拚創高　遠傳5G用戶已黃金交叉",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180097.aspx"
   },
   {
-   "t": "Container shipping fuel prices remain elevated as supply fears ease",
+   "t": "Nat-Gas Prices Slip as European Gas Prices Retreat",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/container-shipping-fuel-prices-remain-190952235.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-slip-european-191503600.html"
   },
   {
    "t": "iPhone 18 Pro開賣　電信業：漲價難擋果粉換機潮",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180090.aspx"
   },
   {
-   "t": "Nat-Gas Prices Slip as European Gas Prices Retreat",
+   "t": "A look at the federal funds rate over the past 50 years: How has it changed?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-slip-european-191503600.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/historical-fed-interest-rates-200947944.html"
   },
   {
    "t": "新台幣午盤強升1.16角　暫收31.765元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180087.aspx"
   },
   {
-   "t": "Crude Oil Prices Sharply Lower as Middle East Disruptions Ease",
+   "t": "Two Low-Profile AI Data-Center Innovators That Investors Should Watch",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-sharply-lower-191614521.html"
+   "u": "https://www.investors.com/news/ai-data-centers-neocloud-oracle-microsoft-joulent-crusoe/?src=A00220&yptr=yahoo"
   },
   {
    "t": "日本今年第2度升息　因應油價與日圓貶值、調整速度創最短間隔",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180080.aspx"
   },
   {
-   "t": "Lululemon Just Dropped 18% in a Month. Is It Time to Sell?",
+   "t": "Should You Judge JNJ Stock Without STELARA?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/lululemon-just-dropped-18-month-190217893.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/judge-jnj-stock-without-stelara-191202423.html"
   }
  ],
  "inst": {
