@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 335.88,
-   "c": -0.33,
+   "p": 335.86,
+   "c": -0.34,
    "a50": 320.14,
    "a200": 286.34,
    "yh": 340.08,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 362.25,
-   "c": -1.08,
-   "a50": 350.21,
-   "a200": 397.32,
+   "p": 362.14,
+   "c": -1.11,
+   "a50": 350.2,
+   "a200": 397.31,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.5,
+   "a20": 359.49,
    "r": 52.7
   },
   {
    "s": "META",
-   "p": 669.07,
-   "c": -1.94,
-   "a50": 607.45,
-   "a200": 624.18,
+   "p": 668.8,
+   "c": -1.98,
+   "a50": 607.44,
+   "a200": 624.17,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 614.78,
-   "r": 67.3
+   "a20": 614.76,
+   "r": 67.2
   },
   {
    "s": "^TWII",
@@ -267,13 +267,13 @@
   },
   {
    "s": "^GSPC",
-   "p": 7641.19,
+   "p": 7640.78,
    "c": 0.04,
-   "a50": 7617.05,
+   "a50": 7617.04,
    "a200": 7183.01,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7658.43,
+   "a20": 7658.41,
    "r": 49.9
   },
   {
@@ -300,13 +300,13 @@
   },
   {
    "s": "GC=F",
-   "p": 4418.6,
+   "p": 4418.7,
    "c": 0.43,
-   "a50": 4325.12,
+   "a50": 4325.13,
    "a200": 4553.32,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4491.77,
+   "a20": 4491.78,
    "r": 49.8
   },
   {
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609190004.aspx"
   },
   {
-   "t": "46% of American workers are skipping retirement savings to cover bills — here's the long-term cost",
+   "t": "Hub Group anticipates operating loss for H1 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/46-american-workers-skipping-retirement-093000061.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hub-group-anticipates-operating-loss-094900447.html"
   },
   {
    "t": "美日歐央行升息因應高通膨　歐股收黑",
@@ -350,10 +350,34 @@
    "u": "https://www.cna.com.tw/news/afe/202609190003.aspx"
   },
   {
-   "t": "Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens",
+   "t": "Is Bank of New York Mellon Stock Outperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/goldman-sachs-sees-more-upside-093000655.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-york-mellon-stock-outperforming-094830405.html"
+  },
+  {
+   "t": "富采取得友達7.3萬張持股　深化策略結盟綜效",
+   "pub": "中央社財經",
+   "d": "2026-09-19",
+   "u": "https://www.cna.com.tw/news/afe/202609190004.aspx"
+  },
+  {
+   "t": "Is Genuine Parts Underperforming the Nasdaq?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/genuine-parts-underperforming-nasdaq-094824193.html"
+  },
+  {
+   "t": "美日歐央行升息因應高通膨　歐股收黑",
+   "pub": "中央社財經",
+   "d": "2026-09-19",
+   "u": "https://www.cna.com.tw/news/afe/202609190003.aspx"
+  },
+  {
+   "t": "South Bow (SOBO): Pipeline Operator Cashes In On Global Crude Chaos",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/energy/articles/south-bow-sobo-pipeline-operator-094656675.html"
   },
   {
    "t": "富采取得友達7.3萬張持股　深化策略結盟綜效",
@@ -362,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180307.aspx"
   },
   {
-   "t": "Saudi Arabia Has Another Option to Get Its Oil Out",
+   "t": "Silicon Labs (SLAB) Swung to a Non-GAAP Profit, but Wall Street Hesitates",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/world/middle-east/saudi-arabia-has-another-option-to-get-its-oil-out-7ef2a9da?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/silicon-labs-slab-swung-non-095036143.html"
   },
   {
    "t": "今彩539第115227期　頭獎槓龜",
@@ -374,34 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609180305.aspx"
   },
   {
-   "t": "AXIS Capital (AXS) Adds A High-Performing Excess Liability Book",
+   "t": "Bitcoin Looks Resilient After 2 Blows, The On-Chain Data Disagrees",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/axis-capital-axs-adds-high-093627741.html"
-  },
-  {
-   "t": "大樂透頭獎連3槓　下期獎金上看1.2億元",
-   "pub": "中央社財經",
-   "d": "2026-09-18",
-   "u": "https://www.cna.com.tw/news/ahel/202609180304.aspx"
-  },
-  {
-   "t": "Builders FirstSource Stock: Is BLDR Underperforming the Industrials Sector?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/builders-firstsource-stock-bldr-underperforming-093740455.html"
-  },
-  {
-   "t": "消息人士：美考慮放行多數中國藥物授權交易",
-   "pub": "中央社財經",
-   "d": "2026-09-18",
-   "u": "https://www.cna.com.tw/news/aopl/202609180300.aspx"
-  },
-  {
-   "t": "Is Leidos Stock Underperforming the Dow?",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/leidos-stock-underperforming-dow-094411865.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-looks-resilient-2-blows-095120319.html"
   }
  ],
  "inst": {
