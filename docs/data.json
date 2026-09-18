@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19 03:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-19 03:31（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,9 +212,9 @@
   },
   {
    "s": "AAPL",
-   "p": 336.25,
+   "p": 336.27,
    "c": -0.22,
-   "a50": 320.14,
+   "a50": 320.15,
    "a200": 286.34,
    "yh": 340.08,
    "yl": 237.88,
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 219.8,
-   "c": 0.21,
+   "p": 219.55,
+   "c": 0.1,
    "a50": 214.22,
-   "a200": 198.37,
+   "a200": 198.36,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.75,
-   "r": 52.1
+   "a20": 218.74,
+   "r": 51.9
   },
   {
    "s": "TSLA",
-   "p": 364.56,
-   "c": -0.45,
-   "a50": 350.25,
-   "a200": 397.33,
+   "p": 363.36,
+   "c": -0.78,
+   "a50": 350.23,
+   "a200": 397.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.61,
-   "r": 53.9
+   "a20": 359.55,
+   "r": 53.3
   },
   {
    "s": "META",
-   "p": 671.74,
-   "c": -1.55,
-   "a50": 607.5,
-   "a200": 624.19,
+   "p": 670.06,
+   "c": -1.8,
+   "a50": 607.47,
+   "a200": 624.18,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 614.91,
-   "r": 68.6
+   "a20": 614.83,
+   "r": 67.8
   },
   {
    "s": "^TWII",
@@ -267,47 +267,47 @@
   },
   {
    "s": "^GSPC",
-   "p": 7642.24,
-   "c": 0.06,
-   "a50": 7617.07,
-   "a200": 7183.01,
+   "p": 7637.48,
+   "c": -0.0,
+   "a50": 7616.98,
+   "a200": 7182.99,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7658.48,
-   "r": 50.0
+   "a20": 7658.24,
+   "r": 49.6
   },
   {
    "s": "^VIX",
-   "p": 14.92,
-   "c": -3.37,
+   "p": 14.98,
+   "c": -2.98,
    "a50": 16.18,
    "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.71,
-   "r": 45.6
+   "a20": 15.72,
+   "r": 45.8
   },
   {
    "s": "BZ=F",
-   "p": 98.7,
-   "c": -5.84,
+   "p": 98.68,
+   "c": -5.86,
    "a50": 91.64,
    "a200": 85.67,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.49,
-   "r": 52.6
+   "a20": 97.48,
+   "r": 52.5
   },
   {
    "s": "GC=F",
-   "p": 4422.6,
-   "c": 0.52,
-   "a50": 4325.2,
-   "a200": 4553.34,
+   "p": 4421.1,
+   "c": 0.49,
+   "a50": 4325.17,
+   "a200": 4553.33,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4491.97,
-   "r": 50.1
+   "a20": 4491.9,
+   "r": 50.0
   },
   {
    "s": "HG=F",
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03148615,
-   "c": 0.32,
+   "c": 0.31,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180307.aspx"
   },
   {
-   "t": "The Crypto Bear Market Is Ending. I Predict These 3 Coins Will Be Worth Buying and Holding for at Least 3 Years",
+   "t": "46% of American workers are skipping retirement savings to cover bills — here's the long-term cost",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/crypto-bear-market-ending-predict-092900431.html"
+   "u": "https://finance.yahoo.com/markets/articles/46-american-workers-skipping-retirement-093000061.html"
   },
   {
    "t": "今彩539第115227期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609180305.aspx"
   },
   {
-   "t": "Figure (FIGR) Bets AI Agents Can Rescue Trillions in Stalled Home Loans",
+   "t": "Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/figure-figr-bets-ai-agents-092850874.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/goldman-sachs-sees-more-upside-093000655.html"
   },
   {
    "t": "大樂透頭獎連3槓　下期獎金上看1.2億元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609180304.aspx"
   },
   {
-   "t": "Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens",
+   "t": "Saudi Arabia Has Another Option to Get Its Oil Out",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/goldman-sachs-sees-more-upside-093000655.html"
+   "u": "https://www.wsj.com/world/middle-east/saudi-arabia-has-another-option-to-get-its-oil-out-7ef2a9da?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "消息人士：美考慮放行多數中國藥物授權交易",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609180300.aspx"
   },
   {
-   "t": "46% of American workers are skipping retirement savings to cover bills — here's the long-term cost",
+   "t": "AXIS Capital (AXS) Adds A High-Performing Excess Liability Book",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/46-american-workers-skipping-retirement-093000061.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/axis-capital-axs-adds-high-093627741.html"
   },
   {
    "t": "96歲巴菲特致信波克夏股東　宣布卸任董事長",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609180298.aspx"
   },
   {
-   "t": "Is Invitation Homes Stock Underperforming the S&P 500?",
+   "t": "Builders FirstSource Stock: Is BLDR Underperforming the Industrials Sector?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/invitation-homes-stock-underperforming-p-092714807.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/builders-firstsource-stock-bldr-underperforming-093740455.html"
   },
   {
    "t": "iPhone 18 Pro首賣日熱　電信業銷量年增約5至6成",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180294.aspx"
   },
   {
-   "t": "Luxembourg court halts Ardagh move to sell metal packaging unit",
+   "t": "Is Leidos Stock Underperforming the Dow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/luxembourg-court-halts-ardagh-move-092612084.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/leidos-stock-underperforming-dow-094411865.html"
   }
  ],
  "inst": {
