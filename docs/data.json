@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19 01:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-19 01:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 335.27,
-   "c": -0.51,
+   "p": 335.58,
+   "c": -0.42,
    "a50": 320.13,
    "a200": 286.34,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 322.6,
-   "r": 63.2
+   "a20": 322.61,
+   "r": 63.6
   },
   {
    "s": "NVDA",
-   "p": 220.07,
-   "c": 0.34,
-   "a50": 214.23,
+   "p": 219.82,
+   "c": 0.22,
+   "a50": 214.22,
    "a200": 198.37,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.77,
-   "r": 52.4
+   "a20": 218.76,
+   "r": 52.1
   },
   {
    "s": "TSLA",
-   "p": 362.98,
-   "c": -0.88,
-   "a50": 350.22,
+   "p": 362.42,
+   "c": -1.03,
+   "a50": 350.21,
    "a200": 397.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.54,
-   "r": 53.1
+   "a20": 359.51,
+   "r": 52.8
   },
   {
    "s": "META",
-   "p": 670.66,
-   "c": -1.71,
+   "p": 670.57,
+   "c": -1.72,
    "a50": 607.48,
    "a200": 624.18,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 614.86,
-   "r": 68.1
+   "a20": 614.85,
+   "r": 68.0
   },
   {
    "s": "^TWII",
@@ -267,52 +267,52 @@
   },
   {
    "s": "^GSPC",
-   "p": 7625.84,
-   "c": -0.16,
-   "a50": 7616.74,
-   "a200": 7182.93,
+   "p": 7626.8,
+   "c": -0.14,
+   "a50": 7616.76,
+   "a200": 7182.94,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7657.66,
-   "r": 48.6
+   "a20": 7657.71,
+   "r": 48.7
   },
   {
    "s": "^VIX",
-   "p": 15.43,
-   "c": -0.06,
+   "p": 15.4,
+   "c": -0.26,
    "a50": 16.19,
    "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.74,
-   "r": 47.5
+   "r": 47.4
   },
   {
    "s": "BZ=F",
-   "p": 98.76,
-   "c": -5.78,
+   "p": 98.86,
+   "c": -5.69,
    "a50": 91.65,
    "a200": 85.67,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 97.49,
-   "r": 52.7
+   "r": 52.8
   },
   {
    "s": "GC=F",
-   "p": 4427.1,
-   "c": 0.62,
-   "a50": 4325.29,
-   "a200": 4553.36,
+   "p": 4423.5,
+   "c": 0.54,
+   "a50": 4325.22,
+   "a200": 4553.34,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4492.2,
-   "r": 50.5
+   "a20": 4492.02,
+   "r": 50.2
   },
   {
    "s": "HG=F",
    "p": 6.7,
-   "c": 1.72,
+   "c": 1.71,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03148615,
-   "c": 0.32,
+   "c": 0.31,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180307.aspx"
   },
   {
-   "t": "Jim Cramer Says Selling Arm Holdings (ARM) Early Was a “Big Mistake”",
+   "t": "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-selling-arm-171014392.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/biotech-stock-too-cheap-ignore-172000522.html"
   },
   {
    "t": "今彩539第115227期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609180305.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+   "t": "Jim Cramer Says AI Could Make Okta’s Security Software More Essential",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-says-ai-could-171508518.html"
   },
   {
    "t": "大樂透頭獎連3槓　下期獎金上看1.2億元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609180304.aspx"
   },
   {
-   "t": "Cerity Partners Enters Iowa with $2B Gilbert & Cook",
+   "t": "Time to Build Better Corporate Governance at BETR",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cerity-partners-enters-iowa-2b-170801980.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/time-build-better-corporate-governance-171105878.html"
   },
   {
    "t": "消息人士：美考慮放行多數中國藥物授權交易",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609180300.aspx"
   },
   {
-   "t": "DoorDash’s $300 Million Grubhub Deal Opens a New Venue-Commerce Opportunity",
+   "t": "Jim Cramer Says Selling Arm Holdings (ARM) Early Was a “Big Mistake”",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/doordash-300-million-grubhub-deal-170248558.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-selling-arm-171014392.html"
   },
   {
    "t": "96歲巴菲特致信波克夏股東　宣布卸任董事長",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609180298.aspx"
   },
   {
-   "t": "Coca-Cola Bets $10 Billion on U.S. Infrastructure to Drive Growth",
+   "t": "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/coca-cola-bets-10-billion-170127971.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo"
   },
   {
    "t": "iPhone 18 Pro首賣日熱　電信業銷量年增約5至6成",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180294.aspx"
   },
   {
-   "t": "General Motors (GM) Bets on Software to Strengthen its Pickup Truck Franchise",
+   "t": "The Fed Just Raised Rates for the First Time in Three Years. History Says This Is What Comes Next.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-bets-software-170012082.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/fed-just-raised-rates-first-171202240.html"
   }
  ],
  "inst": {
