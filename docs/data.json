@@ -1,269 +1,269 @@
 {
- "generatedAt": "2026-09-18 08:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 13:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2425.0,
-   "c": 1.89,
-   "a50": 2389.2,
-   "a200": 2057.93,
+   "p": 2450.0,
+   "c": 1.03,
+   "a50": 2389.9,
+   "a200": 2063.3,
    "yh": 2510.0,
    "yl": 1265.0,
-   "a20": 2414.25,
-   "r": 52.9
+   "a20": 2416.25,
+   "r": 56.1
   },
   {
    "s": "2317.TW",
-   "p": 250.5,
-   "c": 1.01,
-   "a50": 249.43,
-   "a200": 236.29,
+   "p": 251.5,
+   "c": 0.4,
+   "a50": 249.71,
+   "a200": 236.44,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 249.8,
-   "r": 50.0
+   "a20": 250.1,
+   "r": 51.2
   },
   {
    "s": "2308.TW",
-   "p": 1685.0,
-   "c": -1.46,
-   "a50": 1756.3,
-   "a200": 1615.49,
+   "p": 1735.0,
+   "c": 2.97,
+   "a50": 1753.4,
+   "a200": 1619.7,
    "yh": 2520.0,
-   "yl": 836.0,
-   "a20": 1749.75,
-   "r": 44.5
+   "yl": 848.0,
+   "a20": 1749.0,
+   "r": 49.0
   },
   {
    "s": "2454.TW",
-   "p": 4500.0,
-   "c": -0.66,
-   "a50": 3978.4,
-   "a200": 2801.92,
+   "p": 4720.0,
+   "c": 4.89,
+   "a50": 3994.3,
+   "a200": 2819.78,
    "yh": 4760.0,
    "yl": 1145.0,
-   "a20": 4288.75,
-   "r": 57.7
+   "a20": 4335.25,
+   "r": 63.4
   },
   {
    "s": "2327.TW",
-   "p": 529.0,
-   "c": -1.31,
-   "a50": 600.27,
-   "a200": 467.72,
+   "p": 546.0,
+   "c": 3.21,
+   "a50": 593.19,
+   "a200": 469.29,
    "yh": 1140.0,
-   "yl": 156.0,
-   "a20": 552.4,
-   "r": 42.2
+   "yl": 158.0,
+   "a20": 552.0,
+   "r": 45.7
   },
   {
    "s": "1802.TW",
-   "p": 58.5,
-   "c": 0.0,
-   "a50": 56.62,
-   "a200": 55.7,
+   "p": 58.6,
+   "c": 0.17,
+   "a50": 56.49,
+   "a200": 55.83,
    "yh": 76.6,
    "yl": 25.85,
-   "a20": 59.11,
-   "r": 50.4
+   "a20": 59.16,
+   "r": 50.7
   },
   {
    "s": "6862.TW",
-   "p": 130.0,
-   "c": -1.14,
-   "a50": 142.32,
-   "a200": 172.27,
+   "p": 132.0,
+   "c": 1.54,
+   "a50": 141.33,
+   "a200": 172.13,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 137.0,
-   "r": 34.5
+   "a20": 136.75,
+   "r": 39.0
   },
   {
    "s": "3701.TW",
-   "p": 41.25,
-   "c": 3.12,
-   "a50": 40.28,
-   "a200": 49.61,
+   "p": 41.3,
+   "c": 0.12,
+   "a50": 40.27,
+   "a200": 49.67,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.89,
-   "r": 51.8
+   "a20": 40.91,
+   "r": 52.0
   },
   {
    "s": "4722.TW",
-   "p": 183.0,
-   "c": -2.14,
-   "a50": 208.01,
-   "a200": 202.41,
+   "p": 183.5,
+   "c": 0.27,
+   "a50": 206.55,
+   "a200": 202.58,
    "yh": 306.5,
-   "yl": 129.5,
-   "a20": 198.28,
-   "r": 37.3
+   "yl": 138.5,
+   "a20": 197.15,
+   "r": 37.8
   },
   {
    "s": "6706.TW",
-   "p": 145.0,
-   "c": -1.36,
-   "a50": 119.63,
-   "a200": 132.56,
+   "p": 148.0,
+   "c": 2.07,
+   "a50": 119.81,
+   "a200": 132.9,
    "yh": 216.5,
    "yl": 66.1,
-   "a20": 128.4,
-   "r": 63.8
+   "a20": 129.98,
+   "r": 65.6
   },
   {
    "s": "2305.TW",
-   "p": 54.3,
-   "c": 9.92,
-   "a50": 32.45,
-   "a200": 21.29,
-   "yh": 54.3,
+   "p": 58.0,
+   "c": 6.81,
+   "a50": 32.89,
+   "a200": 21.52,
+   "yh": 58.0,
    "yl": 10.25,
-   "a20": 34.79,
-   "r": 85.8
+   "a20": 36.39,
+   "r": 87.6
   },
   {
    "s": "6442.TW",
-   "p": 1510.0,
-   "c": -4.13,
-   "a50": 1481.8,
-   "a200": 1670.0,
+   "p": 1535.0,
+   "c": 1.66,
+   "a50": 1482.9,
+   "a200": 1671.52,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1637.25,
-   "r": 44.3
+   "a20": 1637.75,
+   "r": 46.1
   },
   {
    "s": "6515.TW",
-   "p": 6120.0,
-   "c": -1.45,
-   "a50": 6586.5,
-   "a200": 6500.55,
+   "p": 6360.0,
+   "c": 3.92,
+   "a50": 6558.4,
+   "a200": 6519.98,
    "yh": 10795.0,
-   "yl": 1705.0,
-   "a20": 6640.25,
-   "r": 39.9
+   "yl": 1845.0,
+   "a20": 6638.25,
+   "r": 44.6
   },
   {
    "s": "6446.TW",
-   "p": 1195.0,
-   "c": -0.83,
-   "a50": 1300.0,
-   "a200": 816.82,
+   "p": 1190.0,
+   "c": -0.42,
+   "a50": 1298.1,
+   "a200": 820.57,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1359.75,
-   "r": 39.4
+   "a20": 1349.25,
+   "r": 39.1
   },
   {
    "s": "3324.TWO",
-   "p": 1385.0,
-   "c": 1.84,
-   "a50": 1077.44,
-   "a200": 1024.62,
+   "p": 1455.0,
+   "c": 5.05,
+   "a50": 1088.14,
+   "a200": 1027.44,
    "yh": 1485.0,
    "yl": 815.0,
-   "a20": 1274.7,
-   "r": 60.0
+   "a20": 1299.0,
+   "r": 63.4
   },
   {
    "s": "3491.TWO",
-   "p": 1485.0,
-   "c": 3.12,
-   "a50": 1298.34,
-   "a200": 1304.16,
+   "p": 1505.0,
+   "c": 1.35,
+   "a50": 1303.04,
+   "a200": 1309.33,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1411.5,
-   "r": 56.8
+   "a20": 1422.75,
+   "r": 58.0
   },
   {
    "s": "3585.TWO",
-   "p": 44.55,
-   "c": -1.22,
-   "a50": 49.22,
-   "a200": 45.66,
+   "p": 45.1,
+   "c": 1.23,
+   "a50": 48.82,
+   "a200": 45.82,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 48.28,
-   "r": 40.4
+   "a20": 48.04,
+   "r": 42.0
   },
   {
    "s": "6223.TWO",
-   "p": 5500.0,
-   "c": -1.79,
-   "a50": 5714.9,
-   "a200": 4439.68,
+   "p": 5745.0,
+   "c": 4.45,
+   "a50": 5688.2,
+   "a200": 4458.73,
    "yh": 7380.0,
-   "yl": 1495.0,
-   "a20": 5404.75,
-   "r": 48.6
+   "yl": 1555.0,
+   "a20": 5418.75,
+   "r": 53.7
   },
   {
    "s": "6750.TWO",
-   "p": 56.8,
-   "c": -1.05,
-   "a50": 56.74,
-   "a200": 58.39,
+   "p": 57.1,
+   "c": 0.53,
+   "a50": 56.61,
+   "a200": 58.48,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.79,
-   "r": 47.5
+   "a20": 56.94,
+   "r": 49.0
   },
   {
    "s": "AAPL",
-   "p": 332.41,
-   "c": 0.32,
-   "a50": 319.27,
-   "a200": 285.79,
+   "p": 337.0,
+   "c": 1.38,
+   "a50": 319.74,
+   "a200": 286.08,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 320.39,
-   "r": 62.1
+   "a20": 321.4,
+   "r": 65.4
   },
   {
    "s": "NVDA",
-   "p": 213.9,
-   "c": 0.82,
-   "a50": 213.58,
-   "a200": 197.95,
+   "p": 219.34,
+   "c": 2.54,
+   "a50": 213.88,
+   "a200": 198.17,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.52,
-   "r": 46.7
+   "a20": 218.61,
+   "r": 51.7
   },
   {
    "s": "TSLA",
-   "p": 358.08,
-   "c": 0.42,
-   "a50": 351.65,
-   "a200": 397.97,
+   "p": 366.2,
+   "c": 2.27,
+   "a50": 351.09,
+   "a200": 397.65,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 357.89,
-   "r": 51.1
+   "a20": 358.64,
+   "r": 54.8
   },
   {
    "s": "META",
-   "p": 673.31,
-   "c": 0.46,
-   "a50": 605.11,
-   "a200": 623.86,
+   "p": 682.31,
+   "c": 1.34,
+   "a50": 606.69,
+   "a200": 624.03,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 601.8,
-   "r": 72.2
+   "a20": 608.61,
+   "r": 74.0
   },
   {
    "s": "^TWII",
-   "p": 45848.9,
-   "c": 0.74,
-   "a50": 44971.78,
-   "a200": 38004.34,
+   "p": 47031.8,
+   "c": 1.61,
+   "a50": 45016.4,
+   "a200": 38201.63,
    "yh": 47741.51,
-   "yl": 25438.25,
-   "a20": 46092.17,
-   "r": 50.2
+   "yl": 25578.37,
+   "a20": 46250.26,
+   "r": 58.7
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 103.91,
-   "c": -1.81,
-   "a50": 91.18,
-   "a200": 85.49,
+   "p": 103.65,
+   "c": -1.12,
+   "a50": 91.74,
+   "a200": 85.7,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.19,
-   "r": 62.0
+   "a20": 97.73,
+   "r": 61.3
   },
   {
    "s": "GC=F",
-   "p": 4382.4,
-   "c": -0.12,
-   "a50": 4319.22,
-   "a200": 4552.51,
+   "p": 4405.1,
+   "c": 0.12,
+   "a50": 4324.85,
+   "a200": 4553.25,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4498.55,
-   "r": 46.8
+   "a20": 4491.1,
+   "r": 48.7
   },
   {
    "s": "HG=F",
-   "p": 6.62,
-   "c": 3.01,
+   "p": 6.63,
+   "c": 0.67,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 54.7
+   "r": 55.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03138732,
-   "c": 0.0,
+   "p": 0.03146633,
+   "c": 0.24,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -332,76 +332,76 @@
  ],
  "news": [
   {
-   "t": "聯準會升息展現抗通膨決心　亞股多收高",
+   "t": "日本今年第2度升息　因應油價與日圓貶值、調整速度創最短間隔",
    "pub": "中央社財經",
-   "d": "2026-09-17",
-   "u": "https://www.cna.com.tw/news/afe/202609170255.aspx"
+   "d": "2026-09-18",
+   "u": "https://www.cna.com.tw/news/afe/202609180080.aspx"
   },
   {
-   "t": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
+   "t": "The Fed Has a Chance to Help the Long Treasury Market. Will it Deliver?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html"
+   "u": "https://www.barrons.com/livecoverage/stock-market-news-today-091626/card/the-fed-has-a-chance-to-help-the-long-treasury-market-will-it-deliver--SUkLMLbbmBkzvVd8sBJX?siteid=yhoof2&yptr=yahoo"
   },
   {
-   "t": "自然人第2戶購屋貸款最高可貸7成　18日起上路",
+   "t": "精拓科9月部分產品漲價　因應晶圓代工封裝成本升高",
    "pub": "中央社財經",
-   "d": "2026-09-17",
-   "u": "https://www.cna.com.tw/news/afe/202609170249.aspx"
+   "d": "2026-09-18",
+   "u": "https://www.cna.com.tw/news/afe/202609180069.aspx"
   },
   {
-   "t": "6 signs you might be a good fit for debt settlement",
+   "t": "US DFC approves $500 million in guarantees to boost US exports to emerging markets",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/personal-loans/article/signs-you-might-be-a-good-fit-for-debt-settlement-102500610.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/us-dfc-approves-500-million-173355620.html"
   },
   {
-   "t": "聯準會升息新加坡銀行資本受矚  分析指體質穩風險可控",
+   "t": "日本升息未必立即澆熄房市買氣　房仲估3至6個月後反映",
    "pub": "中央社財經",
-   "d": "2026-09-17",
-   "u": "https://www.cna.com.tw/news/aopl/202609170247.aspx"
+   "d": "2026-09-18",
+   "u": "https://www.cna.com.tw/news/aopl/202609180064.aspx"
   },
   {
-   "t": "Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?",
+   "t": "Corn Falling Lower on Wednesday",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-falling-lower-wednesday-172852782.html"
   },
   {
-   "t": "央行決議利率連10凍　自然人第2戶房貸成數上限放寬至7成",
+   "t": "日銀升息1碼至1.25%　政策利率創31年新高",
    "pub": "中央社財經",
-   "d": "2026-09-17",
-   "u": "https://www.cna.com.tw/news/afe/202609170242.aspx"
+   "d": "2026-09-18",
+   "u": "https://www.cna.com.tw/news/aopl/202609180060.aspx"
   },
   {
-   "t": "Alluvium Bought More Ryanair (RYAAY) on Weakness — Then Trimmed After the Rebound",
+   "t": "Soybean Pulling Back on Wednesday",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/alluvium-bought-more-ryanair-ryaay-121120647.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/soybean-pulling-back-wednesday-172852392.html"
   },
   {
-   "t": "菲律賓台灣形象展登場  黃志芳：台企加速布局智慧產業",
+   "t": "黃仁勳：輝達明年晶片銷售量將翻倍",
    "pub": "中央社財經",
-   "d": "2026-09-17",
-   "u": "https://www.cna.com.tw/news/afe/202609170219.aspx"
+   "d": "2026-09-18",
+   "u": "https://www.cna.com.tw/news/afe/202609180055.aspx"
   },
   {
-   "t": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
+   "t": "Large, Unusual Volume in Long-Dated Apple Put Options Shows Investors Bullish in AAPL",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/bond-market-woes-likely-factor-100656182.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/large-unusual-volume-long-dated-173002343.html"
   },
   {
-   "t": "算力電力雙引擎　宏致估明年AI營收再倍增",
+   "t": "台股開高大漲逾700點後漲幅收斂　站回所有均線",
    "pub": "中央社財經",
-   "d": "2026-09-17",
-   "u": "https://www.cna.com.tw/news/afe/202609170215.aspx"
+   "d": "2026-09-18",
+   "u": "https://www.cna.com.tw/news/afe/202609180053.aspx"
   },
   {
-   "t": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Airbnb, Booking Holdings, Credicorp, Dutch Bros, Expedia, Hartford Financial Services, Group, Meritage Homes, Patchex, Yum! Brands, and More",
+   "t": "Cerebras Stock Has Been Cut in Half. It Still Costs About 145 Times Next Year's Estimated Earnings.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/wednesday-top-wall-street-analyst-120735558.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cerebras-stock-cut-half-still-172801447.html"
   }
  ],
  "inst": {
