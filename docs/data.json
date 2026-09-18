@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19 01:08（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-19 01:18（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,10 +212,10 @@
   },
   {
    "s": "AAPL",
-   "p": 334.92,
-   "c": -0.62,
+   "p": 334.86,
+   "c": -0.64,
    "a50": 320.12,
-   "a200": 286.34,
+   "a200": 286.33,
    "yh": 340.08,
    "yl": 237.88,
    "a20": 322.58,
@@ -223,36 +223,36 @@
   },
   {
    "s": "NVDA",
-   "p": 219.68,
-   "c": 0.16,
-   "a50": 214.22,
+   "p": 220.23,
+   "c": 0.41,
+   "a50": 214.23,
    "a200": 198.37,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.75,
-   "r": 52.0
+   "a20": 218.78,
+   "r": 52.5
   },
   {
    "s": "TSLA",
-   "p": 362.44,
-   "c": -1.03,
-   "a50": 350.21,
+   "p": 362.77,
+   "c": -0.94,
+   "a50": 350.22,
    "a200": 397.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.51,
-   "r": 52.8
+   "a20": 359.53,
+   "r": 53.0
   },
   {
    "s": "META",
-   "p": 670.47,
-   "c": -1.73,
-   "a50": 607.47,
-   "a200": 624.18,
+   "p": 671.26,
+   "c": -1.62,
+   "a50": 607.49,
+   "a200": 624.19,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 614.85,
-   "r": 68.0
+   "a20": 614.89,
+   "r": 68.3
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7625.03,
-   "c": -0.17,
+   "p": 7625.18,
+   "c": -0.16,
    "a50": 7616.73,
    "a200": 7182.93,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7657.62,
+   "a20": 7657.63,
    "r": 48.5
   },
   {
    "s": "^VIX",
-   "p": 15.41,
-   "c": -0.19,
+   "p": 15.39,
+   "c": -0.32,
    "a50": 16.19,
    "a200": 18.09,
    "yh": 31.05,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 99.05,
-   "c": -5.5,
+   "p": 99.03,
+   "c": -5.52,
    "a50": 91.65,
    "a200": 85.67,
    "yh": 118.35,
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4420.5,
-   "c": 0.47,
-   "a50": 4325.16,
-   "a200": 4553.33,
+   "p": 4425.0,
+   "c": 0.58,
+   "a50": 4325.25,
+   "a200": 4553.35,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4491.87,
-   "r": 50.0
+   "a20": 4492.09,
+   "r": 50.3
   },
   {
    "s": "HG=F",
    "p": 6.7,
-   "c": 1.65,
+   "c": 1.71,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
-   "a20": 6.56,
-   "r": 57.5
+   "a20": 6.57,
+   "r": 57.7
   },
   {
    "s": "TWDUSD",
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180307.aspx"
   },
   {
-   "t": "Oil Retreat Slows on Saudi Supply Concerns",
+   "t": "DoorDash’s $300 Million Grubhub Deal Opens a New Venue-Commerce Opportunity",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/business/energy-oil/oil-prices-fall-for-third-day-as-wti-slips-below-100-e533d2fe?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/doordash-300-million-grubhub-deal-170248558.html"
   },
   {
    "t": "今彩539第115227期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609180305.aspx"
   },
   {
-   "t": "Gilead Strengthens HIV Growth Platform with Expanded Latin America Access",
+   "t": "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/gilead-strengthens-hiv-growth-platform-165122348.html"
+   "u": "https://finance.yahoo.com/energy/articles/enphase-energy-drops-5-solar-170151130.html"
   },
   {
    "t": "大樂透頭獎連3槓　下期獎金上看1.2億元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609180304.aspx"
   },
   {
-   "t": "Truist Reshapes Lending Strategy with $5.5B Auto-Loan Sale",
+   "t": "Coca-Cola Bets $10 Billion on U.S. Infrastructure to Drive Growth",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/truist-reshapes-lending-strategy-5-164856583.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/coca-cola-bets-10-billion-170127971.html"
   },
   {
    "t": "消息人士：美考慮放行多數中國藥物授權交易",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609180300.aspx"
   },
   {
-   "t": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
+   "t": "General Motors (GM) Bets on Software to Strengthen its Pickup Truck Franchise",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sees-investment-banking-trading-164740809.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-bets-software-170012082.html"
   },
   {
    "t": "96歲巴菲特致信波克夏股東　宣布卸任董事長",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609180298.aspx"
   },
   {
-   "t": "AbbVie’s Dividend Growth Remains Solid Despite a Moderate Yield",
+   "t": "Carter’s (CRI) Rebrands for Younger Parents as Sales Momentum Builds",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/abbvie-dividend-growth-remains-solid-164620099.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/carter-cri-rebrands-younger-parents-165846295.html"
   },
   {
    "t": "iPhone 18 Pro首賣日熱　電信業銷量年增約5至6成",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180294.aspx"
   },
   {
-   "t": "Target rolls out another generous deal to win back customers",
+   "t": "Say What? This AI Stock Gets Support, Eyes New Entry As Earnings Surge 66%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/target-rolls-another-generous-deal-164700546.html"
+   "u": "https://www.investors.com/stock-lists/stock-spotlight/ai-stock-netapp-ntap-support-entry-earnings-surge/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
