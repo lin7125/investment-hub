@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 14:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 14:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 103.5,
-   "c": -1.26,
+   "p": 103.56,
+   "c": -1.2,
    "a50": 91.74,
    "a200": 85.7,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 97.73,
-   "r": 61.0
+   "r": 61.1
   },
   {
    "s": "GC=F",
-   "p": 4426.3,
-   "c": 0.6,
-   "a50": 4325.28,
-   "a200": 4553.36,
+   "p": 4423.8,
+   "c": 0.55,
+   "a50": 4325.23,
+   "a200": 4553.35,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4492.16,
-   "r": 50.4
+   "a20": 4492.03,
+   "r": 50.2
   },
   {
    "s": "HG=F",
    "p": 6.63,
-   "c": 0.65,
+   "c": 0.66,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03146633,
-   "c": 0.25,
+   "p": 0.03145643,
+   "c": 0.22,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180106.aspx"
   },
   {
-   "t": "Lumentum Stock Leads the S&P 500 While Corning Can’t Keep Up",
+   "t": "How to Build $8,700 a Month in Dividend Income Without Selling a Single Share",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/lumentum-corning-stock-networking-112f9a13?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/build-8-700-month-dividend-182718179.html"
   },
   {
    "t": "央行：黃金代幣年底可望上路　現貨提領時間縮短為3天",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180104.aspx"
   },
   {
-   "t": "This Dividend Stock Is Staging a Turnaround in 2026 and Pays More Than 2.4%",
+   "t": "How the Federal Reserve rate hike shapes consumer loans",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-staging-turnaround-2026-182206216.html"
+   "u": "https://finance.yahoo.com/personal-finance/personal-loans/article/federal-reserve-loan-rates-190719060.html"
   },
   {
    "t": "電信業今年手機收入拚創高　遠傳5G用戶已黃金交叉",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180097.aspx"
   },
   {
-   "t": "How the Federal Reserve rate hike shapes consumer loans",
+   "t": "Saudi Oil Crisis Is About to Hit Europe",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/personal-loans/article/federal-reserve-loan-rates-190719060.html"
+   "u": "https://finance.yahoo.com/energy/articles/saudi-oil-crisis-hit-europe-183200571.html"
   },
   {
    "t": "iPhone 18 Pro開賣　電信業：漲價難擋果粉換機潮",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180090.aspx"
   },
   {
-   "t": "Understanding the Fed's rate decisions: Do we want high or low interest rates​?",
+   "t": "Why It’s Time to Load Up on Nvidia Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/do-we-want-high-or-low-interest-rates-223031516.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-time-load-nvidia-stock-183025364.html"
   },
   {
    "t": "新台幣午盤強升1.16角　暫收31.765元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180087.aspx"
   },
   {
-   "t": "Saudi Oil Crisis Is About to Hit Europe",
+   "t": "Understanding the Fed's rate decisions: Do we want high or low interest rates​?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/saudi-oil-crisis-hit-europe-183200571.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/do-we-want-high-or-low-interest-rates-223031516.html"
   },
   {
    "t": "日本今年第2度升息　因應油價與日圓貶值、調整速度創最短間隔",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180080.aspx"
   },
   {
-   "t": "Paramount, Atty. Gen. Bonta ordered to meet for merger settlement talks",
+   "t": "The Year Dad Went Into Care, She Sold $200,000 of the Stock He’d Held Since 1995. The Nursing-Home Bills Erased the Entire Gain",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/paramount-atty-gen-bonta-ordered-182155586.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dad-went-care-she-sold-182626383.html"
   }
  ],
  "inst": {
