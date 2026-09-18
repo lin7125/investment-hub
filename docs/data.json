@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 17:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 19:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.3,
-   "c": -0.91,
-   "a50": 16.18,
+   "p": 15.43,
+   "c": -0.06,
+   "a50": 16.19,
    "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.73,
-   "r": 47.0
+   "a20": 15.74,
+   "r": 47.5
   },
   {
    "s": "BZ=F",
-   "p": 98.91,
-   "c": -5.64,
-   "a50": 91.65,
+   "p": 98.68,
+   "c": -5.86,
+   "a50": 91.64,
    "a200": 85.67,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.5,
-   "r": 52.9
+   "a20": 97.48,
+   "r": 52.5
   },
   {
    "s": "GC=F",
-   "p": 4419.5,
-   "c": 0.45,
-   "a50": 4325.14,
-   "a200": 4553.32,
+   "p": 4421.3,
+   "c": 0.49,
+   "a50": 4325.18,
+   "a200": 4553.33,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4491.82,
-   "r": 49.9
+   "a20": 4491.91,
+   "r": 50.0
   },
   {
    "s": "HG=F",
-   "p": 6.65,
-   "c": 0.96,
+   "p": 6.66,
+   "c": 1.12,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 55.8
+   "r": 56.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03144654,
-   "c": 0.19,
+   "p": 0.03143666,
+   "c": 0.14,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -332,70 +332,70 @@
  ],
  "news": [
   {
-   "t": "全家特殊商場增至29座　口湖休息站續約6年",
+   "t": "佳世達攜手丁丁藥局無人機跨海送藥　流程縮至20分鐘",
    "pub": "中央社財經",
    "d": "2026-09-18",
-   "u": "https://www.cna.com.tw/news/afe/202609180184.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609180268.aspx"
   },
   {
-   "t": "What a Fed rate hike means for your bank accounts, loans, credit cards, and investments",
+   "t": "What is the Federal Reserve?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-a-fed-rate-hike-means-for-your-bank-accounts-loans-credit-cards-and-investments-220526102.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/what-is-the-federal-reserve-205012702.html"
   },
   {
-   "t": "市調：台積電CoWoS-L具良率優勢　居主流至2028年",
+   "t": "上緯：機器人推進實體AI應用　面向終端客戶服務",
    "pub": "中央社財經",
    "d": "2026-09-18",
-   "u": "https://www.cna.com.tw/news/afe/202609180182.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609180267.aspx"
   },
   {
-   "t": "How the Federal Reserve's rate hike impacts student loan interest rates",
+   "t": "XOM Keeps Climbing. Should You Climb On?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/student-loans/article/federal-reserve-student-loan-rates-223344566.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/xom-keeps-climbing-climb-232922566.html"
   },
   {
-   "t": "蕭副總統：生技拚護體神山　政府助國際合作研發",
+   "t": "中華電斥資近14億完成台馬第四海纜　建構三路由備援",
    "pub": "中央社財經",
    "d": "2026-09-18",
-   "u": "https://www.cna.com.tw/news/afe/202609180181.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609180263.aspx"
   },
   {
-   "t": "The best credit cards for Airbnb rentals (2026): Earn points and cash back for your stay",
+   "t": "This High-Yield Tech Stock Just Raised Its Dividend by Nearly 8%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-for-airbnb-rentals-183212147.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/high-yield-tech-stock-just-233002292.html"
   },
   {
-   "t": "新台幣升7.3分　收31.808元",
+   "t": "緯創AI訂單旺　林憲銘提醒居安思危：想好煞車怎麼踩",
    "pub": "中央社財經",
    "d": "2026-09-18",
-   "u": "https://www.cna.com.tw/news/afe/202609180177.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609180262.aspx"
   },
   {
-   "t": "How the Federal Reserve rate hike shapes consumer loans",
+   "t": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/personal-loans/article/federal-reserve-loan-rates-190719060.html"
+   "u": "https://finance.yahoo.com/energy/articles/stanchart-sees-higher-oil-floor-000000512.html"
   },
   {
-   "t": "中龍鋼鐵178億升級智慧高爐、建再生水廠　投資台灣添3案",
+   "t": "工業富聯股份回購實施完畢　斥資人民幣10億元",
    "pub": "中央社財經",
    "d": "2026-09-18",
-   "u": "https://www.cna.com.tw/news/afe/202609180169.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609180261.aspx"
   },
   {
-   "t": "Understanding the Fed's rate decisions: Do we want high or low interest rates​?",
+   "t": "A look at the federal funds rate over the past 50 years: How has it changed?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/do-we-want-high-or-low-interest-rates-223031516.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/historical-fed-interest-rates-200947944.html"
   },
   {
-   "t": "AI通膨來襲？央行：短期可控、長期生產力提升將降壓",
+   "t": "熱錢回流股匯齊揚　新台幣盤中飆逾1.5角連2升",
    "pub": "中央社財經",
    "d": "2026-09-18",
-   "u": "https://www.cna.com.tw/news/afe/202609180167.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609180251.aspx"
   },
   {
    "t": "Mortgage rate predictions for the next five years: A new data-powered forecast through 2031",
