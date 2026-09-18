@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 14:29（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 14:39（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 103.56,
-   "c": -1.2,
-   "a50": 91.74,
-   "a200": 85.7,
+   "p": 102.95,
+   "c": -1.78,
+   "a50": 91.73,
+   "a200": 85.69,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.73,
-   "r": 61.1
+   "a20": 97.7,
+   "r": 59.9
   },
   {
    "s": "GC=F",
-   "p": 4423.8,
-   "c": 0.55,
-   "a50": 4325.23,
-   "a200": 4553.35,
+   "p": 4432.2,
+   "c": 0.74,
+   "a50": 4325.4,
+   "a200": 4553.39,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4492.03,
-   "r": 50.2
+   "a20": 4492.45,
+   "r": 50.9
   },
   {
    "s": "HG=F",
    "p": 6.63,
-   "c": 0.66,
+   "c": 0.61,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.56,
-   "r": 55.0
+   "r": 54.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03145643,
-   "c": 0.22,
+   "p": 0.03147624,
+   "c": 0.29,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180106.aspx"
   },
   {
-   "t": "How to Build $8,700 a Month in Dividend Income Without Selling a Single Share",
+   "t": "What Fed Rate Increase Means for Your Money",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/build-8-700-month-dividend-182718179.html"
+   "u": "https://www.wsj.com/finance/investing/what-fed-rate-increase-means-for-your-money-cf527fcd?siteid=yhoof2&yptr=yahoo"
   },
   {
    "t": "央行：黃金代幣年底可望上路　現貨提領時間縮短為3天",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180104.aspx"
   },
   {
-   "t": "How the Federal Reserve rate hike shapes consumer loans",
+   "t": "Fed officials' forecasts project one more rate hike to come in 2026",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/personal-loans/article/federal-reserve-loan-rates-190719060.html"
+   "u": "https://finance.yahoo.com/economy/policy/article/fed-officials-forecasts-project-one-more-rate-hike-to-come-in-2026-183856618.html"
   },
   {
    "t": "電信業今年手機收入拚創高　遠傳5G用戶已黃金交叉",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180097.aspx"
   },
   {
-   "t": "Saudi Oil Crisis Is About to Hit Europe",
+   "t": "Mortgage rate predictions for the next five years: A new data-powered forecast through 2031",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/saudi-oil-crisis-hit-europe-183200571.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-for-the-next-five-years-a-new-data-powered-forecast-through-2031-195826935.html"
   },
   {
    "t": "iPhone 18 Pro開賣　電信業：漲價難擋果粉換機潮",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180090.aspx"
   },
   {
-   "t": "Why It’s Time to Load Up on Nvidia Stock",
+   "t": "Robust US retail sales underscore economy's resilience, inflation pressures building",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-time-load-nvidia-stock-183025364.html"
+   "u": "https://finance.yahoo.com/economy/articles/us-retail-sales-rebound-sharply-123724094.html"
   },
   {
    "t": "新台幣午盤強升1.16角　暫收31.765元",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180080.aspx"
   },
   {
-   "t": "The Year Dad Went Into Care, She Sold $200,000 of the Stock He’d Held Since 1995. The Nursing-Home Bills Erased the Entire Gain",
+   "t": "Futures Traders Betting On 12% Drop In Energy Stocks Over Next Month",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dad-went-care-she-sold-182626383.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/futures-traders-betting-12-drop-183614132.html"
   }
  ],
  "inst": {
