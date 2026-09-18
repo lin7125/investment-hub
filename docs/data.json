@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19 04:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-19 04:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.88,
-   "c": -3.63,
-   "a50": 16.18,
+   "p": 14.86,
+   "c": -3.76,
+   "a50": 16.17,
    "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.71,
-   "r": 45.4
+   "r": 45.3
   },
   {
    "s": "BZ=F",
-   "p": 98.87,
-   "c": -5.68,
-   "a50": 91.65,
+   "p": 98.62,
+   "c": -5.91,
+   "a50": 91.64,
    "a200": 85.67,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.49,
-   "r": 52.8
+   "a20": 97.48,
+   "r": 52.4
   },
   {
    "s": "GC=F",
-   "p": 4415.5,
-   "c": 0.36,
-   "a50": 4325.06,
-   "a200": 4553.3,
+   "p": 4419.9,
+   "c": 0.46,
+   "a50": 4325.15,
+   "a200": 4553.33,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4491.62,
-   "r": 49.5
+   "a20": 4491.84,
+   "r": 49.9
   },
   {
    "s": "HG=F",
    "p": 6.72,
-   "c": 1.97,
-   "a50": 6.49,
+   "c": 2.06,
+   "a50": 6.5,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
    "a20": 6.57,
-   "r": 58.3
+   "r": 58.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03148615,
-   "c": 0.32,
+   "c": 0.3,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609190004.aspx"
   },
   {
-   "t": "How Is Seagate Technology Stock Performance Compared to Other AI Infrastructure Stocks",
+   "t": "U.S. Stock Futures Rally as Bond Yields Fall on Fed’s Inflation Resolve",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-stock-performance-compared-101749842.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rally-bond-103249165.html"
   },
   {
    "t": "美日歐央行升息因應高通膨　歐股收黑",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609190003.aspx"
   },
   {
-   "t": "Brookfield to Invest Up to $600 Million in ACME’s Green Fuels Projects in India and Oman",
+   "t": "Federal Reserve interest rate hike may trigger another brutal move for US Treasury yields",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/brookfield-invest-600-million-acme-102004798.html"
+   "u": "https://finance.yahoo.com/economy/article/federal-reserve-interest-rate-hike-may-trigger-another-brutal-move-for-us-treasury-yields-103135302.html"
   },
   {
    "t": "富采取得友達7.3萬張持股　深化策略結盟綜效",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180307.aspx"
   },
   {
-   "t": "'Stay working, girlfriend': Suze Orman says the final few years on the job are worth far more than most people realize",
+   "t": "Dangote IPO tests Nigeria's fintech infrastructure as investor demand overwhelms platforms",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/stay-working-girlfriend-suze-orman-102000906.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dangote-ipo-tests-nigerias-fintech-103122716.html"
   },
   {
    "t": "今彩539第115227期　頭獎槓龜",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609180305.aspx"
   },
   {
-   "t": "Warning to US boomers: You are now at serious fraud risk once you pay off your home. Do this now to protect yourself",
+   "t": "Morning Bid: A timely hike",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/warning-us-boomers-now-serious-101500316.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/morning-bid-timely-hike-103542140.html"
   },
   {
    "t": "大樂透頭獎連3槓　下期獎金上看1.2億元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609180304.aspx"
   },
   {
-   "t": "Alberta Plans New Royalty Incentives to Spur Oil Production",
+   "t": "FleetCor enters $100M settlement",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/alberta-plans-royalty-incentives-spur-103000022.html"
+   "u": "https://finance.yahoo.com/small-business/articles/fleetcor-enters-100m-settlement-103400627.html"
   },
   {
    "t": "消息人士：美考慮放行多數中國藥物授權交易",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609180300.aspx"
   },
   {
-   "t": "Dangote IPO tests Nigeria's fintech infrastructure as investor demand overwhelms platforms",
+   "t": "Worried $200K won’t last through retirement? Here’s why you may never run out of cash — if you make this move now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dangote-ipo-tests-nigerias-fintech-103122716.html"
+   "u": "https://finance.yahoo.com/markets/articles/worried-200k-won-t-last-103500964.html"
   }
  ],
  "inst": {
