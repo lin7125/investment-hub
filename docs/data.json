@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19 02:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-19 03:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 336.2,
-   "c": -0.24,
-   "a50": 320.14,
+   "p": 335.76,
+   "c": -0.37,
+   "a50": 320.13,
    "a200": 286.34,
    "yh": 340.08,
    "yl": 237.88,
-   "a20": 322.64,
-   "r": 64.3
+   "a20": 322.62,
+   "r": 63.8
   },
   {
    "s": "NVDA",
-   "p": 219.62,
-   "c": 0.13,
+   "p": 219.59,
+   "c": 0.11,
    "a50": 214.22,
    "a200": 198.36,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.75,
-   "r": 52.0
+   "a20": 218.74,
+   "r": 51.9
   },
   {
    "s": "TSLA",
-   "p": 363.39,
-   "c": -0.77,
-   "a50": 350.23,
+   "p": 363.76,
+   "c": -0.67,
+   "a50": 350.24,
    "a200": 397.32,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.56,
-   "r": 53.3
+   "a20": 359.58,
+   "r": 53.5
   },
   {
    "s": "META",
-   "p": 673.49,
-   "c": -1.29,
-   "a50": 607.53,
-   "a200": 624.2,
+   "p": 672.79,
+   "c": -1.4,
+   "a50": 607.52,
+   "a200": 624.19,
    "yh": 780.25,
    "yl": 525.72,
-   "a20": 615.0,
-   "r": 69.4
+   "a20": 614.96,
+   "r": 69.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7642.93,
+   "p": 7643.09,
    "c": 0.07,
    "a50": 7617.09,
    "a200": 7183.02,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7658.51,
+   "a20": 7658.52,
    "r": 50.1
   },
   {
    "s": "^VIX",
-   "p": 15.1,
-   "c": -2.2,
+   "p": 15.0,
+   "c": -2.85,
    "a50": 16.18,
    "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.72,
-   "r": 46.2
+   "r": 45.9
   },
   {
    "s": "BZ=F",
-   "p": 98.91,
-   "c": -5.64,
+   "p": 98.79,
+   "c": -5.75,
    "a50": 91.65,
    "a200": 85.67,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.5,
-   "r": 52.9
+   "a20": 97.49,
+   "r": 52.7
   },
   {
    "s": "GC=F",
-   "p": 4423.7,
-   "c": 0.55,
-   "a50": 4325.23,
-   "a200": 4553.35,
+   "p": 4421.8,
+   "c": 0.5,
+   "a50": 4325.19,
+   "a200": 4553.34,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4492.03,
-   "r": 50.2
+   "a20": 4491.93,
+   "r": 50.1
   },
   {
    "s": "HG=F",
    "p": 6.7,
-   "c": 1.67,
+   "c": 1.72,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
    "yl": 4.54,
-   "a20": 6.56,
-   "r": 57.6
+   "a20": 6.57,
+   "r": 57.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03147624,
-   "c": 0.27,
+   "p": 0.03148615,
+   "c": 0.3,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180307.aspx"
   },
   {
-   "t": "GAC to acquire stake in an FAW (Toyota) joint venture",
+   "t": "Vineyard Wind, GE Vernova end legal conflict over Massachusetts wind farm",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/gac-acquire-stake-faw-toyota-083843217.html"
+   "u": "https://finance.yahoo.com/energy/articles/vineyard-wind-ge-vernova-end-090030111.html"
   },
   {
    "t": "今彩539第115227期　頭獎槓龜",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609180305.aspx"
   },
   {
-   "t": "Zcash Price Forecast: Bull Flag Breakout Targets $1,865",
+   "t": "I'm 65 and a High Earner. Is Using My Roth IRA for Home Renovations a Mistake?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-forecast-bull-flag-082115127.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/im-65-high-earner-dont-135927460.html"
   },
   {
    "t": "大樂透頭獎連3槓　下期獎金上看1.2億元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609180304.aspx"
   },
   {
-   "t": "US Dollar Price Forecast: Dollar Strengthens as Fed-BoE Policy Divergence Widens; Key Levels for EUR/USD and GBP/USD",
+   "t": "Is Axon Stock Underperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/us-dollar-price-forecast-dollar-081747889.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/axon-stock-underperforming-nasdaq-085804557.html"
   },
   {
    "t": "消息人士：美考慮放行多數中國藥物授權交易",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609180300.aspx"
   },
   {
-   "t": "Is Axon Stock Underperforming the Nasdaq?",
+   "t": "JPMorgan CEO Jamie Dimon: 'It's not clear to me we've slayed inflation'",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/axon-stock-underperforming-nasdaq-085804557.html"
+   "u": "https://finance.yahoo.com/markets/article/jpmorgan-ceo-jamie-dimon-its-not-clear-to-me-weve-slayed-inflation-210823303.html"
   },
   {
    "t": "96歲巴菲特致信波克夏股東　宣布卸任董事長",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609180298.aspx"
   },
   {
-   "t": "I'm 65 and a High Earner. Is Using My Roth IRA for Home Renovations a Mistake?",
+   "t": "How Is Live Nation Entertainment’s Stock Performance Compared to Other Entertainment Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/im-65-high-earner-dont-135927460.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/live-nation-entertainment-stock-performance-090619228.html"
   },
   {
    "t": "iPhone 18 Pro首賣日熱　電信業銷量年增約5至6成",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180294.aspx"
   },
   {
-   "t": "CAE (CAE) Expands Into Drone Training With New Poland Alliance",
+   "t": "Nvidia, AWS and Salesforce Say Yes to Snap's Glasses. Wall Street Says Hold",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cae-cae-expands-drone-training-081046500.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-aws-salesforce-yes-snaps-090014526.html"
   }
  ],
  "inst": {
