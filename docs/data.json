@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18 17:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-18 17:13（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 15.23,
-   "c": -1.36,
+   "p": 15.21,
+   "c": -1.49,
    "a50": 16.18,
    "a200": 18.09,
    "yh": 31.05,
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.54,
-   "c": -5.99,
+   "p": 98.42,
+   "c": -6.11,
    "a50": 91.64,
    "a200": 85.67,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.48,
-   "r": 52.3
+   "a20": 97.47,
+   "r": 52.2
   },
   {
    "s": "GC=F",
-   "p": 4429.1,
-   "c": 0.67,
-   "a50": 4325.33,
-   "a200": 4553.37,
+   "p": 4433.2,
+   "c": 0.76,
+   "a50": 4325.42,
+   "a200": 4553.39,
    "yh": 5318.4,
    "yl": 3678.3,
-   "a20": 4492.3,
-   "r": 50.7
+   "a20": 4492.5,
+   "r": 51.0
   },
   {
    "s": "HG=F",
-   "p": 6.66,
-   "c": 1.18,
+   "p": 6.67,
+   "c": 1.2,
    "a50": 6.49,
    "a200": 6.05,
    "yh": 6.8,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03143666,
-   "c": 0.14,
+   "p": 0.03146633,
+   "c": 0.23,
    "a50": 0.03125,
    "a200": 0.03154574,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180184.aspx"
   },
   {
-   "t": "What a Fed rate hike means for your bank accounts, loans, credit cards, and investments",
+   "t": "AeroVironment (AVAV) Has $1.5 Billion in Funded Backlog. Can Conversion Support Guidance?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-a-fed-rate-hike-means-for-your-bank-accounts-loans-credit-cards-and-investments-220526102.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-1-5-billion-213431378.html"
   },
   {
    "t": "市調：台積電CoWoS-L具良率優勢　居主流至2028年",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180182.aspx"
   },
   {
-   "t": "How the Federal Reserve's rate hike impacts student loan interest rates",
+   "t": "Noise wants to help everyday people  become paid content creators",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/student-loans/article/federal-reserve-student-loan-rates-223344566.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/noise-wants-help-everyday-people-213500409.html"
   },
   {
    "t": "蕭副總統：生技拚護體神山　政府助國際合作研發",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180181.aspx"
   },
   {
-   "t": "5 things you need to know about Mission Lane credit cards",
+   "t": "When the Fed hikes rates, here's how it affects retirees and their money",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/review/mission-lane-credit-cards-202259595.html"
+   "u": "https://finance.yahoo.com/economy/article/when-the-fed-hikes-rates-heres-how-it-affects-retirees-and-their-money-212953419.html"
   },
   {
    "t": "新台幣升7.3分　收31.808元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180177.aspx"
   },
   {
-   "t": "The best credit cards for Airbnb rentals (2026): Earn points and cash back for your stay",
+   "t": "GEV Stock Jumps After GE Vernova CEO Touts This Milestone",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-for-airbnb-rentals-183212147.html"
+   "u": "https://www.investors.com/news/gev-stock-ge-vernova-expects-200-billion-backlog-very-soon/?src=A00220&yptr=yahoo"
   },
   {
    "t": "中龍鋼鐵178億升級智慧高爐、建再生水廠　投資台灣添3案",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180169.aspx"
   },
   {
-   "t": "How the Federal Reserve rate hike shapes consumer loans",
+   "t": "US DFC approves €85 million loan to Ukraine's DTEK",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/personal-loans/article/federal-reserve-loan-rates-190719060.html"
+   "u": "https://finance.yahoo.com/news/us-dfc-approves-85-million-203238203.html"
   },
   {
    "t": "AI通膨來襲？央行：短期可控、長期生產力提升將降壓",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609180167.aspx"
   },
   {
-   "t": "Understanding the Fed's rate decisions: Do we want high or low interest rates​?",
+   "t": "Hawaiian Electric (HE): Does a $1 Billion Bank IPO Valuation Matter?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/do-we-want-high-or-low-interest-rates-223031516.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/hawaiian-electric-does-1-billion-212245205.html"
   }
  ],
  "inst": {
