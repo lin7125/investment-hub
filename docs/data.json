@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21 21:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-22 02:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -201,129 +201,129 @@
   },
   {
    "s": "6750.TWO",
-   "p": 57.2,
-   "c": 0.18,
+   "p": 57.1,
+   "c": 0.0,
    "a50": 56.48,
    "a200": 58.56,
    "yh": 74.3,
    "yl": 37.6,
    "a20": 57.05,
-   "r": 49.6
+   "r": 49.0
   },
   {
    "s": "AAPL",
-   "p": 336.13,
-   "c": -0.26,
-   "a50": 320.14,
-   "a200": 286.34,
+   "p": 338.99,
+   "c": 0.85,
+   "a50": 320.62,
+   "a200": 286.61,
    "yh": 340.08,
    "yl": 245.27,
-   "a20": 322.64,
-   "r": 64.3
+   "a20": 324.12,
+   "r": 66.3
   },
   {
    "s": "NVDA",
-   "p": 222.27,
-   "c": 1.34,
-   "a50": 214.27,
-   "a200": 198.38,
+   "p": 227.74,
+   "c": 2.46,
+   "a50": 214.61,
+   "a200": 198.61,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 218.88,
-   "r": 54.2
+   "a20": 219.53,
+   "r": 58.5
   },
   {
    "s": "TSLA",
-   "p": 364.27,
-   "c": -0.53,
-   "a50": 350.25,
-   "a200": 397.33,
+   "p": 375.11,
+   "c": 2.98,
+   "a50": 349.59,
+   "a200": 397.05,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 359.6,
-   "r": 53.8
+   "a20": 360.21,
+   "r": 58.5
   },
   {
    "s": "META",
-   "p": 665.75,
-   "c": -2.43,
-   "a50": 607.38,
-   "a200": 624.16,
-   "yh": 778.38,
+   "p": 746.64,
+   "c": 12.15,
+   "a50": 608.93,
+   "a200": 624.66,
+   "yh": 765.16,
    "yl": 525.72,
-   "a20": 614.61,
-   "r": 65.8
+   "a20": 624.45,
+   "r": 78.4
   },
   {
    "s": "^TWII",
-   "p": 47718.84,
-   "c": 1.14,
-   "a50": 45066.14,
-   "a200": 38308.45,
+   "p": 47180.75,
+   "c": 1.93,
+   "a50": 45019.38,
+   "a200": 38202.38,
    "yh": 47741.51,
    "yl": 25580.32,
-   "a20": 46405.53,
-   "r": 62.7
+   "a20": 46257.71,
+   "r": 59.6
   },
   {
    "s": "^GSPC",
-   "p": 7650.5,
-   "c": 0.17,
-   "a50": 7617.24,
-   "a200": 7183.05,
+   "p": 7772.54,
+   "c": 1.6,
+   "a50": 7621.18,
+   "a200": 7187.77,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7658.89,
-   "r": 50.7
+   "a20": 7663.8,
+   "r": 59.8
   },
   {
    "s": "^VIX",
-   "p": 14.86,
-   "c": 0.34,
+   "p": 15.04,
+   "c": 1.55,
    "a50": 16.13,
-   "a200": 18.08,
+   "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.66,
-   "r": 45.4
+   "a20": 15.67,
+   "r": 46.2
   },
   {
    "s": "BZ=F",
-   "p": 101.16,
-   "c": -2.61,
-   "a50": 92.25,
-   "a200": 85.89,
+   "p": 96.13,
+   "c": -7.45,
+   "a50": 92.15,
+   "a200": 85.87,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.08,
-   "r": 56.2
+   "a20": 97.83,
+   "r": 48.2
   },
   {
    "s": "GC=F",
-   "p": 4394.3,
-   "c": -0.69,
-   "a50": 4330.86,
-   "a200": 4554.22,
+   "p": 4387.9,
+   "c": -0.84,
+   "a50": 4330.73,
+   "a200": 4554.19,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4477.77,
-   "r": 47.7
+   "a20": 4477.45,
+   "r": 47.2
   },
   {
    "s": "HG=F",
-   "p": 6.83,
-   "c": 3.24,
+   "p": 6.78,
+   "c": 2.45,
    "a50": 6.5,
    "a200": 6.06,
-   "yh": 6.83,
+   "yh": 6.8,
    "yl": 4.57,
    "a20": 6.57,
-   "r": 62.5
+   "r": 60.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03153579,
-   "c": 0.43,
+   "p": 0.03152585,
+   "c": 0.42,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -332,76 +332,76 @@
  ],
  "news": [
   {
-   "t": "高端疫苗跨足越南市場　賽諾菲與超肽開拓生醫創新應用",
+   "t": "美中貿易會談釋放正面訊號　歐洲股市收高",
    "pub": "中央社財經",
-   "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210262.aspx"
+   "d": "2026-09-22",
+   "u": "https://www.cna.com.tw/news/afe/202609220002.aspx"
   },
   {
-   "t": "Interview: Revolut chief banking officer Sid Jajodia on growth, margins and  IPO plans",
+   "t": "Jim Cramer sends strong signal to Apple stock investors",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/interview-revolut-chief-banking-officer-124943682.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-signal-163300406.html"
   },
   {
-   "t": "台新證券攜手刑事警察局　共築反詐騙防護網",
+   "t": "AI需求帶動　超微躋身市值1兆美元俱樂部",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210251.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609210329.aspx"
   },
   {
-   "t": "SanDisk Corp’s (SNDK) Impact on Small/Mid Cap Returns",
+   "t": "Like ‘a rabbi buying a church’: Delta once bought an entire oil refinery because it got tired of guessing at fuel prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corp-sndk-impact-small-123955859.html"
+   "u": "https://finance.yahoo.com/energy/articles/rabbi-buying-church-delta-once-094500330.html"
   },
   {
-   "t": "熱浪乾旱衝擊法國葡萄酒業　今年產量恐跌至70年新低",
+   "t": "宏碁首款Googlebook筆電搭載主動式AI",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/aopl/202609210247.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210326.aspx"
   },
   {
-   "t": "Veeco Instruments (VECO): Results Far Exceed Expectations Amid Memory Capacity Boom",
+   "t": "Ray Dalio was fired from Wall Street before he built one of the world's largest hedge funds out of his apartment",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/veeco-instruments-veco-results-far-123608566.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-fired-wall-street-100000215.html"
   },
   {
-   "t": "安邦生技攻大腸直腸癌免疫治療缺口　三藥療法進臨床",
+   "t": "大億董事長吳俊億辭任　邁向專業經理人經營體制",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210245.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210325.aspx"
   },
   {
-   "t": "This Strategy Sees Value in Methanex (MEOH) Despite a Near-Term Cash Flow Pullback",
+   "t": "Best CD rates today, Sunday, September 20, 2026: Lock in up to 4.40% APY",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/strategy-sees-value-methanex-meoh-123337498.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-20-2026-lock-in-up-to-440-apy-100000852.html"
   },
   {
-   "t": "外資大舉敲進面板雙虎　連4日加碼聯發科助攻新天價",
+   "t": "聯茂爆違約交割3.19億元　今年單次違約最高金額",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210238.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210323.aspx"
   },
   {
-   "t": "How Montgomery v. Caribe Supercharges Knight-Swift’s (KNX) Scale Advantage",
+   "t": "Mortgage and refinance interest rates today, Sunday, September 20, 2026: Mortgage rates moved higher again compared to last week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/montgomery-v-caribe-supercharges-knight-123210361.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-20-2026-mortgage-rates-moved-higher-again-compared-to-last-week-100000702.html"
   },
   {
-   "t": "智捷AI醫療影像進算力中心　許添財談精準健康新模式",
+   "t": "新壽捐贈健身器材予北市警局　盼完善訓練空間",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210234.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202609210321.aspx"
   },
   {
-   "t": "Barilla to shake-up domestic pasta production",
+   "t": "Burger chain cancels breakfast at hundreds of restaurants",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/barilla-shake-domestic-pasta-production-124922948.html"
+   "u": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html"
   }
  ],
  "inst": {
