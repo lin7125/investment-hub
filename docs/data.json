@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22 04:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-22 04:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -267,9 +267,9 @@
   },
   {
    "s": "^GSPC",
-   "p": 7764.79,
+   "p": 7764.7,
    "c": 1.49,
-   "a50": 7621.03,
+   "a50": 7621.02,
    "a200": 7187.73,
    "yh": 7798.99,
    "yl": 6343.72,
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 14.86,
-   "c": 0.34,
+   "p": 14.78,
+   "c": -0.2,
    "a50": 16.13,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.66,
-   "r": 45.4
+   "r": 45.0
   },
   {
    "s": "BZ=F",
-   "p": 96.16,
-   "c": -7.42,
+   "p": 96.04,
+   "c": -7.54,
    "a50": 92.15,
    "a200": 85.87,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 97.83,
-   "r": 48.2
+   "r": 48.1
   },
   {
    "s": "GC=F",
-   "p": 4383.8,
-   "c": -0.93,
-   "a50": 4330.65,
-   "a200": 4554.17,
+   "p": 4380.2,
+   "c": -1.01,
+   "a50": 4330.58,
+   "a200": 4554.15,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4477.25,
-   "r": 46.9
+   "a20": 4477.07,
+   "r": 46.6
   },
   {
    "s": "HG=F",
    "p": 6.78,
-   "c": 2.52,
+   "c": 2.5,
    "a50": 6.5,
    "a200": 6.06,
    "yh": 6.8,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
-   "c": 0.46,
+   "p": 0.03153579,
+   "c": 0.45,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609210329.aspx"
   },
   {
-   "t": "Paying off your mortgage before retirement could be your ticket to financial security — especially in Trump’s economy",
+   "t": "Borderlands Mexico: Tesla plans massive Texas distribution center",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/paying-off-mortgage-retirement-could-105500710.html"
+   "u": "https://finance.yahoo.com/economy/articles/borderlands-mexico-tesla-plans-massive-110000895.html"
   },
   {
    "t": "宏碁首款Googlebook筆電搭載主動式AI",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210325.aspx"
   },
   {
-   "t": "Borderlands Mexico: Tesla plans massive Texas distribution center",
+   "t": "Where would you put an extra $1,000? It depends. Here are what financial advisors say are your best options",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/borderlands-mexico-tesla-plans-massive-110000895.html"
+   "u": "https://finance.yahoo.com/markets/articles/where-put-extra-1-000-111500711.html"
   },
   {
    "t": "聯茂爆違約交割3.19億元　今年單次違約最高金額",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210323.aspx"
   },
   {
-   "t": "Where would you put an extra $1,000? It depends. Here are what financial advisors say are your best options",
+   "t": "Paying off your mortgage before retirement could be your ticket to financial security — especially in Trump’s economy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/where-put-extra-1-000-111500711.html"
+   "u": "https://finance.yahoo.com/economy/articles/paying-off-mortgage-retirement-could-105500710.html"
   },
   {
    "t": "新壽捐贈健身器材予北市警局　盼完善訓練空間",
