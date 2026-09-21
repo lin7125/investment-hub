@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21 18:00（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-21 18:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 14.95,
-   "c": 0.95,
+   "p": 14.91,
+   "c": 0.68,
    "a50": 16.13,
-   "a200": 18.09,
+   "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.66,
-   "r": 45.8
+   "r": 45.6
   },
   {
    "s": "BZ=F",
-   "p": 97.36,
-   "c": -6.27,
-   "a50": 92.18,
+   "p": 97.25,
+   "c": -6.37,
+   "a50": 92.17,
    "a200": 85.87,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 97.89,
-   "r": 49.9
+   "r": 49.8
   },
   {
    "s": "GC=F",
-   "p": 4383.2,
-   "c": -0.94,
-   "a50": 4330.64,
-   "a200": 4554.16,
+   "p": 4384.0,
+   "c": -0.92,
+   "a50": 4330.66,
+   "a200": 4554.17,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4477.22,
+   "a20": 4477.26,
    "r": 46.9
   },
   {
    "s": "HG=F",
    "p": 6.77,
-   "c": 2.37,
+   "c": 2.38,
    "a50": 6.5,
    "a200": 6.06,
    "yh": 6.8,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03152585,
-   "c": 0.43,
+   "c": 0.41,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609210216.aspx"
   },
   {
-   "t": "Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/same-conference-same-day-same-094121233.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html"
   },
   {
    "t": "外資回頭股匯雙漲　新台幣連3升收31.758元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210213.aspx"
   },
   {
-   "t": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
+   "t": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/sam-altman-dropped-stanford-build-093000834.html"
+   "u": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html"
   },
   {
    "t": "汽車業關注美製車零關稅政策　估明年台灣車市小幅成長",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210197.aspx"
   },
   {
-   "t": "Novo Nordisk stock gets drilled on pipeline concerns— its CEO sees this as the main problem",
+   "t": "Best CD rates today, Monday, September 21, 2026: Lock in up to 4.40% APY",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns-its-ceo-sees-this-as-the-main-problem-091933221.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-21-2026-lock-in-up-to-440-apy-100000956.html"
   },
   {
    "t": "貿聯-KY攜手ams OSRAM　推光學互連方案搶AI商機",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210192.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
+   "t": "HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html"
   },
   {
    "t": "青安3.0上路首月開門紅　受理4605戶月增18%",
