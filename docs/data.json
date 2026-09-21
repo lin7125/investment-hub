@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22 02:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-22 03:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,8 +212,8 @@
   },
   {
    "s": "AAPL",
-   "p": 338.73,
-   "c": 0.77,
+   "p": 338.66,
+   "c": 0.75,
    "a50": 320.61,
    "a200": 286.6,
    "yh": 340.08,
@@ -223,35 +223,35 @@
   },
   {
    "s": "NVDA",
-   "p": 227.87,
-   "c": 2.52,
+   "p": 227.68,
+   "c": 2.44,
    "a50": 214.61,
    "a200": 198.61,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.54,
-   "r": 58.6
+   "a20": 219.53,
+   "r": 58.5
   },
   {
    "s": "TSLA",
-   "p": 375.67,
-   "c": 3.13,
+   "p": 375.63,
+   "c": 3.12,
    "a50": 349.6,
    "a200": 397.06,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 360.24,
-   "r": 58.8
+   "r": 58.7
   },
   {
    "s": "META",
-   "p": 746.17,
-   "c": 12.08,
-   "a50": 608.92,
+   "p": 745.87,
+   "c": 12.03,
+   "a50": 608.91,
    "a200": 624.65,
    "yh": 765.16,
    "yl": 525.72,
-   "a20": 624.42,
+   "a20": 624.41,
    "r": 78.3
   },
   {
@@ -267,36 +267,36 @@
   },
   {
    "s": "^GSPC",
-   "p": 7774.01,
+   "p": 7773.79,
    "c": 1.61,
    "a50": 7621.21,
    "a200": 7187.78,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7663.87,
+   "a20": 7663.86,
    "r": 59.8
   },
   {
    "s": "^VIX",
-   "p": 15.01,
-   "c": 1.35,
+   "p": 15.0,
+   "c": 1.28,
    "a50": 16.13,
    "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.67,
-   "r": 46.1
+   "r": 46.0
   },
   {
    "s": "BZ=F",
-   "p": 96.26,
-   "c": -7.33,
-   "a50": 92.15,
+   "p": 96.45,
+   "c": -7.14,
+   "a50": 92.16,
    "a200": 85.87,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.84,
-   "r": 48.4
+   "a20": 97.85,
+   "r": 48.6
   },
   {
    "s": "GC=F",
@@ -311,19 +311,19 @@
   },
   {
    "s": "HG=F",
-   "p": 6.77,
-   "c": 2.4,
+   "p": 6.78,
+   "c": 2.46,
    "a50": 6.5,
    "a200": 6.06,
    "yh": 6.8,
    "yl": 4.57,
    "a20": 6.57,
-   "r": 60.7
+   "r": 60.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03152585,
-   "c": 0.42,
+   "p": 0.03154574,
+   "c": 0.46,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609210329.aspx"
   },
   {
-   "t": "Like ‘a rabbi buying a church’: Delta once bought an entire oil refinery because it got tired of guessing at fuel prices",
+   "t": "Ray Dalio was fired from Wall Street before he built one of the world's largest hedge funds out of his apartment",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/rabbi-buying-church-delta-once-094500330.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-fired-wall-street-100000215.html"
   },
   {
    "t": "宏碁首款Googlebook筆電搭載主動式AI",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210326.aspx"
   },
   {
-   "t": "Ray Dalio was fired from Wall Street before he built one of the world's largest hedge funds out of his apartment",
+   "t": "Like ‘a rabbi buying a church’: Delta once bought an entire oil refinery because it got tired of guessing at fuel prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-fired-wall-street-100000215.html"
+   "u": "https://finance.yahoo.com/energy/articles/rabbi-buying-church-delta-once-094500330.html"
   },
   {
    "t": "大億董事長吳俊億辭任　邁向專業經理人經營體制",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210325.aspx"
   },
   {
-   "t": "Best CD rates today, Sunday, September 20, 2026: Lock in up to 4.40% APY",
+   "t": "Trump said American seniors would pay ‘no tax’ on Social Security benefits, but not everyone got in. Are you covered?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-20-2026-lock-in-up-to-440-apy-100000852.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/trump-said-american-seniors-pay-102500055.html"
   },
   {
    "t": "聯茂爆違約交割3.19億元　今年單次違約最高金額",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210323.aspx"
   },
   {
-   "t": "Mortgage and refinance interest rates today, Sunday, September 20, 2026: Mortgage rates moved higher again compared to last week",
+   "t": "She retired at 35 ready to hear ‘you must have rich parents’ — but the hardest part was something she didn't expect",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-20-2026-mortgage-rates-moved-higher-again-compared-to-last-week-100000702.html"
+   "u": "https://finance.yahoo.com/small-business/articles/she-retired-35-ready-hear-103000745.html"
   },
   {
    "t": "新壽捐贈健身器材予北市警局　盼完善訓練空間",
