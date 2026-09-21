@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21 14:15（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-21 14:25（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.65,
-   "c": 1.11,
+   "p": 45.7,
+   "c": 1.22,
    "a50": 48.52,
    "a200": 45.98,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 47.82,
-   "r": 43.5
+   "r": 43.7
   },
   {
    "s": "6223.TWO",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.16,
-   "c": -5.5,
-   "a50": 92.19,
+   "p": 97.73,
+   "c": -5.91,
+   "a50": 92.18,
    "a200": 85.88,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.93,
-   "r": 51.1
+   "a20": 97.91,
+   "r": 50.5
   },
   {
    "s": "GC=F",
-   "p": 4387.9,
-   "c": -0.84,
-   "a50": 4330.73,
-   "a200": 4554.19,
+   "p": 4390.8,
+   "c": -0.77,
+   "a50": 4330.79,
+   "a200": 4554.2,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4477.45,
-   "r": 47.2
+   "a20": 4477.6,
+   "r": 47.5
   },
   {
    "s": "HG=F",
-   "p": 6.72,
-   "c": 1.66,
+   "p": 6.73,
+   "c": 1.74,
    "a50": 6.5,
    "a200": 6.06,
    "yh": 6.8,
    "yl": 4.57,
    "a20": 6.57,
-   "r": 58.9
+   "r": 59.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03147624,
-   "c": 0.26,
+   "p": 0.03148615,
+   "c": 0.27,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210105.aspx"
   },
   {
-   "t": "Garmin’s (GRMN) New Autopilot Signals Where Growth Is Headed",
+   "t": "Franco-Nevada’s (FNV) Record Quarter Hides A Two-Year Question Mark",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/garmin-grmn-autopilot-signals-where-184731033.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-quarter-185639565.html"
   },
   {
    "t": "115年觀光工廠特色評選揭曉　33家入選",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210102.aspx"
   },
   {
-   "t": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
+   "t": "Atlassian (TEAM) Just Turned Jira Into an AI Coding Command Center",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/atlassian-team-just-turned-jira-190413386.html"
   },
   {
    "t": "外資上週賣超184億連3賣　逆勢加碼力積電、聯電",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210090.aspx"
   },
   {
-   "t": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act",
+   "t": "Fifth Third’s (FITB) Comerica Merger Is Done, Now Comes The Payoff",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-fitb-comerica-merger-190743312.html"
   },
   {
    "t": "0056規模衝破8千億元　穩居高股息ETF龍頭",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210084.aspx"
   },
   {
-   "t": "Franco-Nevada’s (FNV) Record Quarter Hides A Two-Year Question Mark",
+   "t": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-quarter-185639565.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html"
   },
   {
    "t": "台泥10月開股東臨時會　紀念品推水泥袋造型斜背包",
