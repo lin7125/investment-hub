@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21 14:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-21 14:15（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.7,
-   "c": 1.22,
+   "p": 45.65,
+   "c": 1.11,
    "a50": 48.52,
    "a200": 45.98,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 47.82,
-   "r": 43.7
+   "r": 43.5
   },
   {
    "s": "6223.TWO",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.13,
-   "c": -5.53,
+   "p": 98.16,
+   "c": -5.5,
    "a50": 92.19,
    "a200": 85.88,
    "yh": 118.35,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4392.1,
-   "c": -0.74,
-   "a50": 4330.82,
-   "a200": 4554.21,
+   "p": 4387.9,
+   "c": -0.84,
+   "a50": 4330.73,
+   "a200": 4554.19,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4477.66,
-   "r": 47.6
+   "a20": 4477.45,
+   "r": 47.2
   },
   {
    "s": "HG=F",
    "p": 6.72,
-   "c": 1.65,
+   "c": 1.66,
    "a50": 6.5,
    "a200": 6.06,
    "yh": 6.8,
@@ -323,8 +323,8 @@
   {
    "s": "TWDUSD",
    "p": 0.03147624,
-   "c": 0.24,
-   "a50": 0.03125,
+   "c": 0.26,
+   "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
    "yl": 0.030864
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210105.aspx"
   },
   {
-   "t": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
+   "t": "Garmin’s (GRMN) New Autopilot Signals Where Growth Is Headed",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/garmin-grmn-autopilot-signals-where-184731033.html"
   },
   {
    "t": "115年觀光工廠特色評選揭曉　33家入選",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210102.aspx"
   },
   {
-   "t": "AMETEK’s (AME) $5B Deal Bets Big On A Hot Streak",
+   "t": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ametek-ame-5b-deal-bets-183135450.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html"
   },
   {
    "t": "外資上週賣超184億連3賣　逆勢加碼力積電、聯電",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210090.aspx"
   },
   {
-   "t": "Sempra (SRE) Just Locked In Two Decades of LNG Demand",
+   "t": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/sempra-sre-just-locked-two-183448167.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html"
   },
   {
    "t": "0056規模衝破8千億元　穩居高股息ETF龍頭",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210084.aspx"
   },
   {
-   "t": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
+   "t": "Franco-Nevada’s (FNV) Record Quarter Hides A Two-Year Question Mark",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-quarter-185639565.html"
   },
   {
    "t": "台泥10月開股東臨時會　紀念品推水泥袋造型斜背包",
