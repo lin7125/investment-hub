@@ -1,213 +1,213 @@
 {
- "generatedAt": "2026-09-19 07:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-21 13:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2460.0,
-   "c": 1.44,
-   "a50": 2390.1,
-   "a200": 2063.35,
+   "p": 2475.0,
+   "c": 0.61,
+   "a50": 2390.8,
+   "a200": 2068.65,
    "yh": 2510.0,
-   "yl": 1265.0,
-   "a20": 2416.75,
-   "r": 57.3
+   "yl": 1295.0,
+   "a20": 2421.75,
+   "r": 59.1
   },
   {
    "s": "2317.TW",
-   "p": 250.5,
-   "c": 0.0,
-   "a50": 249.69,
-   "a200": 236.44,
+   "p": 250.0,
+   "c": -0.2,
+   "a50": 249.96,
+   "a200": 236.6,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 250.05,
-   "r": 50.0
+   "a20": 250.38,
+   "r": 49.3
   },
   {
    "s": "2308.TW",
-   "p": 1735.0,
-   "c": 2.97,
-   "a50": 1753.4,
-   "a200": 1619.7,
+   "p": 1875.0,
+   "c": 8.07,
+   "a50": 1753.1,
+   "a200": 1624.52,
    "yh": 2520.0,
    "yl": 848.0,
-   "a20": 1749.0,
-   "r": 49.0
+   "a20": 1756.0,
+   "r": 59.0
   },
   {
    "s": "2454.TW",
-   "p": 4710.0,
-   "c": 4.67,
-   "a50": 3994.1,
-   "a200": 2819.72,
-   "yh": 4760.0,
+   "p": 4990.0,
+   "c": 5.94,
+   "a50": 4017.4,
+   "a200": 2838.75,
+   "yh": 4990.0,
    "yl": 1145.0,
-   "a20": 4334.75,
-   "r": 63.2
+   "a20": 4396.0,
+   "r": 69.0
   },
   {
    "s": "2327.TW",
-   "p": 550.0,
-   "c": 3.97,
-   "a50": 593.27,
-   "a200": 469.31,
+   "p": 557.0,
+   "c": 1.27,
+   "a50": 588.09,
+   "a200": 470.95,
    "yh": 1140.0,
-   "yl": 158.0,
-   "a20": 552.2,
-   "r": 46.5
+   "yl": 166.0,
+   "a20": 552.5,
+   "r": 47.9
   },
   {
    "s": "1802.TW",
-   "p": 58.8,
-   "c": 0.51,
-   "a50": 56.5,
-   "a200": 55.83,
+   "p": 60.0,
+   "c": 2.04,
+   "a50": 56.41,
+   "a200": 55.97,
    "yh": 76.6,
-   "yl": 25.85,
-   "a20": 59.17,
-   "r": 51.4
+   "yl": 25.95,
+   "a20": 59.32,
+   "r": 55.1
   },
   {
    "s": "6862.TW",
-   "p": 131.0,
-   "c": 0.77,
-   "a50": 141.31,
-   "a200": 172.13,
+   "p": 138.0,
+   "c": 5.34,
+   "a50": 140.62,
+   "a200": 172.02,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 136.7,
-   "r": 36.8
+   "a20": 136.75,
+   "r": 50.2
   },
   {
    "s": "3701.TW",
-   "p": 41.1,
-   "c": -0.36,
-   "a50": 40.26,
-   "a200": 49.67,
+   "p": 42.8,
+   "c": 4.14,
+   "a50": 40.31,
+   "a200": 49.73,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 40.9,
-   "r": 51.2
+   "a20": 41.05,
+   "r": 57.0
   },
   {
    "s": "4722.TW",
-   "p": 189.5,
-   "c": 3.55,
-   "a50": 206.67,
-   "a200": 202.61,
+   "p": 192.5,
+   "c": 1.58,
+   "a50": 205.58,
+   "a200": 202.82,
    "yh": 306.5,
-   "yl": 138.5,
-   "a20": 197.45,
-   "r": 43.1
+   "yl": 148.5,
+   "a20": 196.95,
+   "r": 45.6
   },
   {
    "s": "6706.TW",
-   "p": 149.5,
-   "c": 3.1,
-   "a50": 119.84,
-   "a200": 132.9,
+   "p": 164.0,
+   "c": 9.7,
+   "a50": 120.5,
+   "a200": 133.3,
    "yh": 216.5,
    "yl": 66.1,
-   "a20": 130.05,
-   "r": 66.4
+   "a20": 132.52,
+   "r": 73.2
   },
   {
    "s": "2305.TW",
-   "p": 58.7,
-   "c": 8.1,
-   "a50": 32.9,
-   "a200": 21.53,
+   "p": 57.4,
+   "c": -2.21,
+   "a50": 33.26,
+   "a200": 21.76,
    "yh": 58.7,
    "yl": 10.25,
-   "a20": 36.43,
-   "r": 87.9
+   "a20": 37.97,
+   "r": 83.9
   },
   {
    "s": "6442.TW",
-   "p": 1575.0,
-   "c": 4.3,
-   "a50": 1483.7,
-   "a200": 1671.72,
+   "p": 1520.0,
+   "c": -3.49,
+   "a50": 1486.6,
+   "a200": 1672.78,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1639.75,
-   "r": 48.6
+   "a20": 1642.75,
+   "r": 45.4
   },
   {
    "s": "6515.TW",
-   "p": 6435.0,
-   "c": 5.15,
-   "a50": 6559.9,
-   "a200": 6520.35,
+   "p": 5795.0,
+   "c": -9.95,
+   "a50": 6528.3,
+   "a200": 6536.75,
    "yh": 10795.0,
-   "yl": 1845.0,
-   "a20": 6642.0,
-   "r": 45.9
+   "yl": 2015.0,
+   "a20": 6624.5,
+   "r": 37.6
   },
   {
    "s": "6446.TW",
-   "p": 1180.0,
-   "c": -1.26,
-   "a50": 1297.9,
-   "a200": 820.52,
+   "p": 1155.0,
+   "c": -2.12,
+   "a50": 1296.0,
+   "a200": 824.1,
    "yh": 1585.0,
    "yl": 408.82,
-   "a20": 1348.75,
-   "r": 38.4
+   "a20": 1332.75,
+   "r": 36.7
   },
   {
    "s": "3324.TWO",
-   "p": 1480.0,
-   "c": 6.86,
-   "a50": 1088.64,
-   "a200": 1027.56,
-   "yh": 1485.0,
+   "p": 1515.0,
+   "c": 2.36,
+   "a50": 1100.84,
+   "a200": 1030.76,
+   "yh": 1515.0,
    "yl": 815.0,
-   "a20": 1300.25,
-   "r": 64.6
+   "a20": 1325.25,
+   "r": 66.1
   },
   {
    "s": "3491.TWO",
-   "p": 1565.0,
-   "c": 5.39,
-   "a50": 1304.24,
-   "a200": 1309.63,
+   "p": 1525.0,
+   "c": -2.56,
+   "a50": 1309.54,
+   "a200": 1314.87,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1425.75,
-   "r": 61.1
+   "a20": 1437.5,
+   "r": 58.0
   },
   {
    "s": "3585.TWO",
-   "p": 45.15,
-   "c": 1.35,
-   "a50": 48.82,
-   "a200": 45.82,
+   "p": 45.6,
+   "c": 1.0,
+   "a50": 48.52,
+   "a200": 45.98,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 48.04,
-   "r": 42.1
+   "a20": 47.81,
+   "r": 43.4
   },
   {
    "s": "6223.TWO",
-   "p": 5800.0,
-   "c": 5.45,
-   "a50": 5689.3,
-   "a200": 4459.0,
+   "p": 5500.0,
+   "c": -5.17,
+   "a50": 5666.5,
+   "a200": 4476.2,
    "yh": 7380.0,
-   "yl": 1555.0,
-   "a20": 5421.5,
-   "r": 54.7
+   "yl": 1635.0,
+   "a20": 5418.25,
+   "r": 48.5
   },
   {
    "s": "6750.TWO",
    "p": 57.1,
-   "c": 0.53,
-   "a50": 56.61,
-   "a200": 58.48,
+   "c": 0.0,
+   "a50": 56.48,
+   "a200": 58.56,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 56.94,
+   "a20": 57.05,
    "r": 49.0
   },
   {
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 46288.0,
-   "c": 0.96,
-   "a50": 44982.86,
-   "a200": 38098.65,
+   "p": 47656.75,
+   "c": 1.01,
+   "a50": 45064.9,
+   "a200": 38308.14,
    "yh": 47741.51,
-   "yl": 25578.37,
-   "a20": 46159.89,
-   "r": 53.5
+   "yl": 25580.32,
+   "a20": 46402.43,
+   "r": 62.4
   },
   {
    "s": "^GSPC",
@@ -289,119 +289,119 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.77,
-   "c": -5.77,
-   "a50": 91.65,
-   "a200": 85.67,
+   "p": 97.73,
+   "c": -5.91,
+   "a50": 92.18,
+   "a200": 85.88,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.49,
-   "r": 52.7
+   "a20": 97.91,
+   "r": 50.5
   },
   {
    "s": "GC=F",
-   "p": 4415.9,
-   "c": 0.37,
-   "a50": 4325.07,
-   "a200": 4553.31,
+   "p": 4397.6,
+   "c": -0.62,
+   "a50": 4330.93,
+   "a200": 4554.24,
    "yh": 5318.4,
-   "yl": 3678.3,
-   "a20": 4491.64,
-   "r": 49.6
+   "yl": 3768.1,
+   "a20": 4477.94,
+   "r": 48.0
   },
   {
    "s": "HG=F",
-   "p": 6.72,
-   "c": 1.96,
-   "a50": 6.49,
-   "a200": 6.05,
+   "p": 6.73,
+   "c": 1.71,
+   "a50": 6.5,
+   "a200": 6.06,
    "yh": 6.8,
-   "yl": 4.54,
+   "yl": 4.57,
    "a20": 6.57,
-   "r": 58.3
+   "r": 59.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03148615,
-   "c": 0.3,
+   "p": 0.03146633,
+   "c": 0.23,
    "a50": 0.03125,
-   "a200": 0.03154574,
+   "a200": 0.03153579,
    "yh": 0.032873,
    "yl": 0.030864
   }
  ],
  "news": [
   {
-   "t": "沙烏地出口前景喜憂參半　油價續挫",
+   "t": "台積電領軍電子權值勁揚　台股盤中漲逾500點",
    "pub": "中央社財經",
-   "d": "2026-09-19",
-   "u": "https://www.cna.com.tw/news/afe/202609190009.aspx"
+   "d": "2026-09-21",
+   "u": "https://www.cna.com.tw/news/afe/202609210040.aspx"
   },
   {
-   "t": "Nokia Investors Won’t Like This: Jim Cramer Says NOK Stock Is a Buy",
+   "t": "80-year-old discount fashion chain closing 120 stores",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nokia-investors-won-t-jim-161549917.html"
+   "u": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html"
   },
   {
-   "t": "全球央行調控通膨　美股漲跌互見",
+   "t": "傳英特爾有意攜手友達推先進封裝　友達早盤漲逾8%",
    "pub": "中央社財經",
-   "d": "2026-09-19",
-   "u": "https://www.cna.com.tw/news/afe/202609190007.aspx"
+   "d": "2026-09-21",
+   "u": "https://www.cna.com.tw/news/afe/202609210034.aspx"
   },
   {
-   "t": "Student loans are quietly gutting your retirement — especially in your 40s",
+   "t": "BJ’s Wholesale Club (BJ) Formalizes Investment-Grade Financial Policy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/article/student-loans-are-quietly-gutting-your-retirement--especially-in-your-40s-160955696.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-bj-formalizes-180906005.html"
   },
   {
-   "t": "中國市場艱困和重整成本增加　福斯大幅下修全年財測",
+   "t": "調查：近8成民眾估1年後通膨逾2%　主要受外食等影響",
    "pub": "中央社財經",
-   "d": "2026-09-19",
-   "u": "https://www.cna.com.tw/news/afe/202609190004.aspx"
+   "d": "2026-09-21",
+   "u": "https://www.cna.com.tw/news/afe/202609210031.aspx"
   },
   {
-   "t": "Corning Just Signed a Multibillion-Dollar Fiber Deal for AI and Broadband With Verizon. What That Means for GLW Stock.",
+   "t": "PureCycle (PCT) Expands PureFive Use as Regulatory Tailwinds Meet Execution Risk",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/corning-just-signed-multibillion-dollar-162101149.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-expands-purefive-regulatory-182105336.html"
   },
   {
-   "t": "美日歐央行升息因應高通膨　歐股收黑",
+   "t": "台積電翻紅電子勁揚　台股早盤上漲349點",
    "pub": "中央社財經",
-   "d": "2026-09-19",
-   "u": "https://www.cna.com.tw/news/afe/202609190003.aspx"
+   "d": "2026-09-21",
+   "u": "https://www.cna.com.tw/news/afe/202609210025.aspx"
   },
   {
-   "t": "SpaceX (SPCX)’s Space Data Center Dream Runs into Four Very Earthly Problems",
+   "t": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-space-data-center-160856877.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html"
   },
   {
-   "t": "富采取得友達7.3萬張持股　深化策略結盟綜效",
+   "t": "金融時報：美國短債發行增　未來1年舉債上看1兆美元",
    "pub": "中央社財經",
-   "d": "2026-09-18",
-   "u": "https://www.cna.com.tw/news/afe/202609180307.aspx"
+   "d": "2026-09-21",
+   "u": "https://www.cna.com.tw/news/aopl/202609210022.aspx"
   },
   {
-   "t": "BioCryst (BCRX) Turns its First Profit and Now Wants to Go Shopping for Rare Disease Drugs",
+   "t": "AMETEK’s (AME) $5B Deal Bets Big On A Hot Streak",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/biocryst-bcrx-turns-first-profit-160606434.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ametek-ame-5b-deal-bets-183135450.html"
   },
   {
-   "t": "今彩539第115227期　頭獎槓龜",
+   "t": "台股開盤漲26.55點",
    "pub": "中央社財經",
-   "d": "2026-09-18",
-   "u": "https://www.cna.com.tw/news/ahel/202609180305.aspx"
+   "d": "2026-09-21",
+   "u": "https://www.cna.com.tw/news/afe/202609210021.aspx"
   },
   {
-   "t": "World Bank Grows Footprint With More Private Capital",
+   "t": "Key Christmas retailer files for Chapter 11 bankrutpcy",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/finance/investing/world-bank-grows-footprint-with-more-private-capital-2b56df71?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html"
   }
  ],
  "inst": {
