@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21 17:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-21 17:19（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,14 +278,14 @@
   },
   {
    "s": "^VIX",
-   "p": 14.94,
-   "c": 0.88,
+   "p": 14.98,
+   "c": 1.15,
    "a50": 16.13,
    "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.66,
-   "r": 45.8
+   "a20": 15.67,
+   "r": 45.9
   },
   {
    "s": "BZ=F",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4390.4,
-   "c": -0.78,
-   "a50": 4330.78,
+   "p": 4390.9,
+   "c": -0.77,
+   "a50": 4330.79,
    "a200": 4554.2,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4477.58,
-   "r": 47.4
+   "a20": 4477.6,
+   "r": 47.5
   },
   {
    "s": "HG=F",
-   "p": 6.79,
-   "c": 2.71,
+   "p": 6.8,
+   "c": 2.83,
    "a50": 6.5,
    "a200": 6.06,
    "yh": 6.8,
    "yl": 4.57,
    "a20": 6.57,
-   "r": 61.3
+   "r": 61.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03151592,
-   "c": 0.38,
+   "p": 0.03152585,
+   "c": 0.4,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210170.aspx"
   },
   {
-   "t": "Jim Cramer on Hub Group (HUBG): “Got to Wait Till Oil Calms Down”",
+   "t": "My mom opened a credit card in my name to help me build credit — then maxed it out, leaving a $40,000 balance. What now?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-hub-group-hubg-080851735.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/mom-opened-credit-card-name-090000564.html"
   },
   {
    "t": "芝加哥工具機展台灣首設旗艦館　促成5180萬美元商機",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210167.aspx"
   },
   {
-   "t": "Nvidia's CEO Huang says there's a ‘0% chance’ AI ends the world — 4 AI giants are sued over an alleged pact to slow it",
+   "t": "Brookfield eyes small tickets, high returns with its $5B Catalytic Transition Fund",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/nvidias-ceo-huang-says-theres-073500742.html"
+   "u": "https://finance.yahoo.com/energy/articles/brookfield-eyes-small-tickets-high-090000623.html"
   },
   {
    "t": "新台幣升5分　收31.758元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210164.aspx"
   },
   {
-   "t": "H World (HTHT) Cleared Its $2B Promise Early, Then Topped It",
+   "t": "Jim Cramer on Hub Group (HUBG): “Got to Wait Till Oil Calms Down”",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/h-world-htht-cleared-2b-054407002.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-hub-group-hubg-080851735.html"
   },
   {
    "t": "上半年房貸市場兩樣情　保險房貸翻倍、銀行反減",
