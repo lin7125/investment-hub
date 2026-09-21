@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21 17:29（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-21 17:40（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.97,
-   "c": 1.08,
+   "p": 14.95,
+   "c": 0.95,
    "a50": 16.13,
    "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.67,
-   "r": 45.9
+   "a20": 15.66,
+   "r": 45.8
   },
   {
    "s": "BZ=F",
-   "p": 97.8,
-   "c": -5.84,
+   "p": 97.69,
+   "c": -5.95,
    "a50": 92.18,
-   "a200": 85.88,
+   "a200": 85.87,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 97.91,
-   "r": 50.6
+   "r": 50.4
   },
   {
    "s": "GC=F",
-   "p": 4389.3,
-   "c": -0.8,
-   "a50": 4330.76,
-   "a200": 4554.19,
+   "p": 4384.7,
+   "c": -0.91,
+   "a50": 4330.67,
+   "a200": 4554.17,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4477.52,
-   "r": 47.4
+   "a20": 4477.29,
+   "r": 47.0
   },
   {
    "s": "HG=F",
-   "p": 6.8,
-   "c": 2.82,
+   "p": 6.79,
+   "c": 2.68,
    "a50": 6.5,
    "a200": 6.06,
    "yh": 6.8,
    "yl": 4.57,
    "a20": 6.57,
-   "r": 61.6
+   "r": 61.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03151592,
-   "c": 0.4,
+   "p": 0.03150599,
+   "c": 0.36,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210174.aspx"
   },
   {
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
+   "t": "Novo Nordisk stock gets drilled on pipeline concerns— its CEO sees this as the main problem",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns-its-ceo-sees-this-as-the-main-problem-091933221.html"
   },
   {
    "t": "合庫投信發聲明回應爭議　啟動調查強化內控維護職場性平",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210170.aspx"
   },
   {
-   "t": "My mom opened a credit card in my name to help me build credit — then maxed it out, leaving a $40,000 balance. What now?",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/mom-opened-credit-card-name-090000564.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html"
   },
   {
    "t": "芝加哥工具機展台灣首設旗艦館　促成5180萬美元商機",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210167.aspx"
   },
   {
-   "t": "Brookfield eyes small tickets, high returns with its $5B Catalytic Transition Fund",
+   "t": "My mom opened a credit card in my name to help me build credit — then maxed it out, leaving a $40,000 balance. What now?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/brookfield-eyes-small-tickets-high-090000623.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/mom-opened-credit-card-name-090000564.html"
   },
   {
    "t": "新台幣升5分　收31.758元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609210164.aspx"
   },
   {
-   "t": "Jim Cramer on Hub Group (HUBG): “Got to Wait Till Oil Calms Down”",
+   "t": "Brookfield eyes small tickets, high returns with its $5B Catalytic Transition Fund",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-hub-group-hubg-080851735.html"
+   "u": "https://finance.yahoo.com/energy/articles/brookfield-eyes-small-tickets-high-090000623.html"
   },
   {
    "t": "上半年房貸市場兩樣情　保險房貸翻倍、銀行反減",
