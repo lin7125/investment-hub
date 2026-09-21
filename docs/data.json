@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21 13:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-21 14:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.4,
-   "c": 0.55,
+   "p": 45.7,
+   "c": 1.22,
    "a50": 48.52,
    "a200": 45.98,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 47.8,
-   "r": 42.8
+   "a20": 47.82,
+   "r": 43.7
   },
   {
    "s": "6223.TWO",
@@ -289,24 +289,24 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.88,
-   "c": -5.77,
+   "p": 98.13,
+   "c": -5.53,
    "a50": 92.19,
    "a200": 85.88,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.92,
-   "r": 50.7
+   "a20": 97.93,
+   "r": 51.1
   },
   {
    "s": "GC=F",
-   "p": 4392.5,
-   "c": -0.73,
-   "a50": 4330.83,
+   "p": 4392.1,
+   "c": -0.74,
+   "a50": 4330.82,
    "a200": 4554.21,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4477.68,
+   "a20": 4477.66,
    "r": 47.6
   },
   {
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03144654,
-   "c": 0.17,
+   "p": 0.03147624,
+   "c": 0.24,
    "a50": 0.03125,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "台積電領軍電子權值勁揚　台股盤中漲逾500點",
+   "t": "台積電領軍電子權值股強勢　台股漲538點收47718點",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210040.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210108.aspx"
   },
   {
    "t": "80-year-old discount fashion chain closing 120 stores",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html"
   },
   {
-   "t": "傳英特爾有意攜手友達推先進封裝　友達早盤漲逾8%",
+   "t": "林宜敬：台灣日均遭資安攻擊260萬次　盼化威脅為商機",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210034.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210105.aspx"
   },
   {
    "t": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html"
   },
   {
-   "t": "調查：近8成民眾估1年後通膨逾2%　主要受外食等影響",
+   "t": "115年觀光工廠特色評選揭曉　33家入選",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210031.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210102.aspx"
   },
   {
    "t": "AMETEK’s (AME) $5B Deal Bets Big On A Hot Streak",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/ametek-ame-5b-deal-bets-183135450.html"
   },
   {
-   "t": "台積電翻紅電子勁揚　台股早盤上漲349點",
+   "t": "外資上週賣超184億連3賣　逆勢加碼力積電、聯電",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210025.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210090.aspx"
   },
   {
    "t": "Sempra (SRE) Just Locked In Two Decades of LNG Demand",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/energy/articles/sempra-sre-just-locked-two-183448167.html"
   },
   {
-   "t": "金融時報：美國短債發行增　未來1年舉債上看1兆美元",
+   "t": "0056規模衝破8千億元　穩居高股息ETF龍頭",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/aopl/202609210022.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210084.aspx"
   },
   {
    "t": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html"
   },
   {
-   "t": "台股開盤漲26.55點",
+   "t": "台泥10月開股東臨時會　紀念品推水泥袋造型斜背包",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210021.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210083.aspx"
   },
   {
    "t": "Key Christmas retailer files for Chapter 11 bankrutpcy",
