@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22 06:57（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-22 07:08（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4394.1,
-   "c": -0.7,
-   "a50": 4330.86,
-   "a200": 4554.22,
+   "p": 4402.2,
+   "c": -0.51,
+   "a50": 4331.02,
+   "a200": 4554.26,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4477.76,
-   "r": 47.7
+   "a20": 4478.17,
+   "r": 48.4
   },
   {
    "s": "HG=F",
-   "p": 6.79,
-   "c": 2.71,
+   "p": 6.8,
+   "c": 2.79,
    "a50": 6.5,
    "a200": 6.06,
    "yh": 6.8,
    "yl": 4.57,
    "a20": 6.57,
-   "r": 61.4
+   "r": 61.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03151592,
-   "c": 0.37,
+   "c": 0.24,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "美中貿易會談釋放正面訊號　歐洲股市收高",
+   "t": "那斯達克創歷史新高　超微擠進1兆美元俱樂部",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220002.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220013.aspx"
   },
   {
    "t": "Jim Cramer sends strong signal to Apple stock investors",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-signal-163300406.html"
   },
   {
-   "t": "AI需求帶動　超微躋身市值1兆美元俱樂部",
+   "t": "國際油價重跌　美股收漲那斯達克指數創歷史新高",
    "pub": "中央社財經",
-   "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/aopl/202609210329.aspx"
+   "d": "2026-09-22",
+   "u": "https://www.cna.com.tw/news/afe/202609220012.aspx"
   },
   {
    "t": "Nebius’s Price Hike Suggests Michael Burry Made a Mistake and Is Shorting the Best Neocloud Stock",
@@ -356,22 +356,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/nebius-price-hike-suggests-michael-142209026.html"
   },
   {
-   "t": "宏碁首款Googlebook筆電搭載主動式AI",
+   "t": "沙烏地透過荷莫茲海峽提高出口　國際油價重挫",
    "pub": "中央社財經",
-   "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210326.aspx"
-  },
-  {
-   "t": "Don’t even think about retiring if this is you in 2026 — 5 red flags to watch (especially with Trump in the White House)",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/don-t-even-think-retiring-141500099.html"
-  },
-  {
-   "t": "大億董事長吳俊億辭任　邁向專業經理人經營體制",
-   "pub": "中央社財經",
-   "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210325.aspx"
+   "d": "2026-09-22",
+   "u": "https://www.cna.com.tw/news/afe/202609220009.aspx"
   },
   {
    "t": "Domino's Pizza Stock Is Dirt Cheap, With 30% Potential Upside - What's the Best Play?",
@@ -380,10 +368,22 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/dominos-pizza-stock-dirt-cheap-143002535.html"
   },
   {
-   "t": "聯茂爆違約交割3.19億元　今年單次違約最高金額",
+   "t": "派拉蒙與美國12州和解　為收購華納兄弟探索掃除障礙",
    "pub": "中央社財經",
-   "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210323.aspx"
+   "d": "2026-09-22",
+   "u": "https://www.cna.com.tw/news/aopl/202609220008.aspx"
+  },
+  {
+   "t": "Don’t even think about retiring if this is you in 2026 — 5 red flags to watch (especially with Trump in the White House)",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/articles/don-t-even-think-retiring-141500099.html"
+  },
+  {
+   "t": "美中貿易會談釋放正面訊號　歐洲股市收高",
+   "pub": "中央社財經",
+   "d": "2026-09-22",
+   "u": "https://www.cna.com.tw/news/afe/202609220002.aspx"
   },
   {
    "t": "AVAX Eyes 90% Price Rally As Wall Street Tests Avalanche for 24/7 Tokenized Trading",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/avax-eyes-90-price-rally-140455182.html"
   },
   {
-   "t": "新壽捐贈健身器材予北市警局　盼完善訓練空間",
+   "t": "AI需求帶動　超微躋身市值1兆美元俱樂部",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/ahel/202609210321.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609210329.aspx"
   },
   {
    "t": "Burger chain cancels breakfast at hundreds of restaurants",
