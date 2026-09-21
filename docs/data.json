@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21 16:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-21 16:59（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.91,
-   "c": 0.68,
+   "p": 14.92,
+   "c": 0.74,
    "a50": 16.13,
-   "a200": 18.08,
+   "a200": 18.09,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.66,
-   "r": 45.6
+   "r": 45.7
   },
   {
    "s": "BZ=F",
-   "p": 97.37,
-   "c": -6.26,
+   "p": 97.57,
+   "c": -6.07,
    "a50": 92.18,
    "a200": 85.87,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.89,
-   "r": 49.9
+   "a20": 97.9,
+   "r": 50.2
   },
   {
    "s": "GC=F",
-   "p": 4392.5,
-   "c": -0.73,
-   "a50": 4330.83,
+   "p": 4393.0,
+   "c": -0.72,
+   "a50": 4330.84,
    "a200": 4554.21,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4477.68,
+   "a20": 4477.71,
    "r": 47.6
   },
   {
    "s": "HG=F",
    "p": 6.78,
-   "c": 2.46,
+   "c": 2.52,
    "a50": 6.5,
    "a200": 6.06,
    "yh": 6.8,
    "yl": 4.57,
    "a20": 6.57,
-   "r": 60.8
+   "r": 60.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03152585,
-   "c": 0.43,
+   "p": 0.03151592,
+   "c": 0.38,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "台積電領軍電子權值股強勢　台股漲538點收47718點",
+   "t": "研調：成本高需求弱　估第4季電視面板需求量季減4%",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210108.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210177.aspx"
   },
   {
    "t": "80-year-old discount fashion chain closing 120 stores",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html"
   },
   {
-   "t": "林宜敬：台灣日均遭資安攻擊260萬次　盼化威脅為商機",
+   "t": "研調：電視等3大面板應用9月價格估持平",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210105.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210174.aspx"
   },
   {
    "t": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/energy/articles/energy-giants-betting-billions-world-230000196.html"
   },
   {
-   "t": "115年觀光工廠特色評選揭曉　33家入選",
+   "t": "合庫投信發聲明回應爭議　啟動調查強化內控維護職場性平",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210102.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210170.aspx"
   },
   {
    "t": "Radiant Logistics (RLGT): Citizens Turns Bullish on a Quarter the Full Year Doesn’t Back Up",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-rlgt-citizens-turns-014812401.html"
   },
   {
-   "t": "外資上週賣超184億連3賣　逆勢加碼力積電、聯電",
+   "t": "芝加哥工具機展台灣首設旗艦館　促成5180萬美元商機",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210090.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210167.aspx"
   },
   {
    "t": "Can Max Turn AI Adoption into Continued Growth for ServiceTitan (TTAN) Stock?",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/max-turn-ai-adoption-continued-020418395.html"
   },
   {
-   "t": "0056規模衝破8千億元　穩居高股息ETF龍頭",
+   "t": "新台幣升5分　收31.758元",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210084.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210164.aspx"
   },
   {
    "t": "Re-Energized EV Market Grapples With Growing Drain on Profitability",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/markets/commodities/articles/energized-ev-market-grapples-growing-040100779.html"
   },
   {
-   "t": "台泥10月開股東臨時會　紀念品推水泥袋造型斜背包",
+   "t": "上半年房貸市場兩樣情　保險房貸翻倍、銀行反減",
    "pub": "中央社財經",
    "d": "2026-09-21",
-   "u": "https://www.cna.com.tw/news/afe/202609210083.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609210153.aspx"
   },
   {
    "t": "Key Christmas retailer files for Chapter 11 bankrutpcy",
