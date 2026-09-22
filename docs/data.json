@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22 07:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-22 08:09（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 338.98,
-   "c": 0.85,
-   "a50": 320.62,
-   "a200": 286.61,
+   "p": 336.13,
+   "c": -0.26,
+   "a50": 320.14,
+   "a200": 286.34,
    "yh": 340.08,
    "yl": 245.27,
-   "a20": 324.12,
-   "r": 66.3
+   "a20": 322.64,
+   "r": 64.3
   },
   {
    "s": "NVDA",
-   "p": 227.38,
-   "c": 2.3,
-   "a50": 214.6,
-   "a200": 198.61,
+   "p": 222.27,
+   "c": 1.34,
+   "a50": 214.27,
+   "a200": 198.38,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 219.51,
-   "r": 58.2
+   "a20": 218.88,
+   "r": 54.2
   },
   {
    "s": "TSLA",
-   "p": 375.3,
-   "c": 3.03,
-   "a50": 349.6,
-   "a200": 397.06,
+   "p": 364.27,
+   "c": -0.53,
+   "a50": 350.25,
+   "a200": 397.33,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 360.22,
-   "r": 58.6
+   "a20": 359.6,
+   "r": 53.8
   },
   {
    "s": "META",
-   "p": 741.24,
-   "c": 11.34,
-   "a50": 608.82,
-   "a200": 624.63,
+   "p": 665.75,
+   "c": -2.43,
+   "a50": 607.38,
+   "a200": 624.16,
    "yh": 765.16,
    "yl": 525.72,
-   "a20": 624.18,
-   "r": 77.8
+   "a20": 614.61,
+   "r": 65.8
   },
   {
    "s": "^TWII",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 96.15,
-   "c": -7.43,
+   "p": 96.25,
+   "c": -7.34,
    "a50": 92.15,
    "a200": 85.87,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 97.83,
-   "r": 48.2
+   "a20": 97.84,
+   "r": 48.4
   },
   {
    "s": "GC=F",
-   "p": 4405.1,
-   "c": -0.45,
-   "a50": 4331.08,
-   "a200": 4554.27,
+   "p": 4407.0,
+   "c": -0.4,
+   "a50": 4331.12,
+   "a200": 4554.28,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4478.31,
-   "r": 48.6
+   "a20": 4478.41,
+   "r": 48.8
   },
   {
    "s": "HG=F",
    "p": 6.8,
-   "c": 2.77,
+   "c": 2.85,
    "a50": 6.5,
    "a200": 6.06,
    "yh": 6.8,
    "yl": 4.57,
    "a20": 6.57,
-   "r": 61.5
+   "r": 61.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03149606,
-   "c": 0.2,
+   "p": 0.03150599,
+   "c": 0.21,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220012.aspx"
   },
   {
-   "t": "NextEra’s Nuclear Bet Just Got a $1.9 Billion Boost",
+   "t": "NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/nextera-nuclear-bet-just-got-152438612.html"
+   "u": "https://finance.yahoo.com/energy/articles/nextera-nee-dominion-d-unveil-153356972.html"
   },
   {
    "t": "沙烏地透過荷莫茲海峽提高出口　國際油價重挫",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220009.aspx"
   },
   {
-   "t": "Morgan Stanley Sees Shell (SHEL) Hitting New Highs",
+   "t": "BMO Capital Bets on a Rebound for Enbridge (ENB)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-shell-shel-152036523.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-bets-rebound-enbridge-152940861.html"
   },
   {
    "t": "派拉蒙與美國12州和解　為收購華納兄弟探索掃除障礙",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609220008.aspx"
   },
   {
-   "t": "Chevron (CVX) Supercharges its Venezuela Bet with More Oil Rigs",
+   "t": "‘Even Though It’s Bad for Berkshire’ Billionaire Charlie Munger Said to Skip Insurance Because ‘You’re Paying for the Other Fellow’s Frauds’",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/chevron-cvx-supercharges-venezuela-bet-151837921.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/even-though-bad-berkshire-billionaire-153002379.html"
   },
   {
    "t": "美中貿易會談釋放正面訊號　歐洲股市收高",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220002.aspx"
   },
   {
-   "t": "BMO Capital Bets on a Rebound for Enbridge (ENB)",
+   "t": "Morgan Stanley Sees More Fuel for Valero’s (VLO) Rally",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-bets-rebound-enbridge-152940861.html"
+   "u": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-more-fuel-153825351.html"
   },
   {
    "t": "AI需求帶動　超微躋身市值1兆美元俱樂部",
