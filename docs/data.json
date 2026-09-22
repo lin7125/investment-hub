@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 03:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 03:13（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,31 +212,31 @@
   },
   {
    "s": "AAPL",
-   "p": 340.24,
-   "c": 0.37,
-   "a50": 321.07,
+   "p": 340.35,
+   "c": 0.4,
+   "a50": 321.08,
    "a200": 286.89,
-   "yh": 340.24,
+   "yh": 340.35,
    "yl": 245.27,
    "a20": 325.62,
-   "r": 67.2
+   "r": 67.3
   },
   {
    "s": "NVDA",
-   "p": 229.27,
-   "c": 0.83,
+   "p": 229.52,
+   "c": 0.94,
    "a50": 215.12,
    "a200": 198.86,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.55,
-   "r": 59.7
+   "a20": 220.56,
+   "r": 59.8
   },
   {
    "s": "TSLA",
-   "p": 379.66,
-   "c": 1.16,
-   "a50": 349.29,
+   "p": 379.71,
+   "c": 1.18,
+   "a50": 349.3,
    "a200": 396.72,
    "yh": 489.88,
    "yl": 298.32,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 738.64,
-   "c": -0.35,
-   "a50": 610.46,
+   "p": 738.01,
+   "c": -0.44,
+   "a50": 610.45,
    "a200": 625.12,
    "yh": 765.16,
    "yl": 525.72,
-   "a20": 633.16,
-   "r": 76.8
+   "a20": 633.13,
+   "r": 76.6
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7768.47,
-   "c": 0.05,
-   "a50": 7626.09,
-   "a200": 7192.32,
+   "p": 7770.34,
+   "c": 0.07,
+   "a50": 7626.12,
+   "a200": 7192.33,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7669.19,
-   "r": 59.5
+   "a20": 7669.28,
+   "r": 59.6
   },
   {
    "s": "^VIX",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 99.36,
-   "c": -0.98,
+   "p": 99.39,
+   "c": -0.95,
    "a50": 92.56,
    "a200": 86.07,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.4,
-   "r": 52.9
+   "r": 53.0
   },
   {
    "s": "GC=F",
-   "p": 4391.1,
-   "c": 0.16,
-   "a50": 4338.36,
+   "p": 4391.4,
+   "c": 0.17,
+   "a50": 4338.37,
    "a200": 4554.96,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4461.92,
+   "a20": 4461.93,
    "r": 47.6
   },
   {
    "s": "HG=F",
-   "p": 6.89,
-   "c": 3.07,
+   "p": 6.9,
+   "c": 3.14,
    "a50": 6.52,
    "a200": 6.07,
-   "yh": 6.89,
+   "yh": 6.9,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 64.8
+   "r": 64.9
   },
   {
    "s": "TWDUSD",
    "p": 0.03156566,
-   "c": 0.39,
+   "c": 0.4,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
-   "t": "Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG",
+   "t": "What Had Commodities Moving to Start the New Week?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/same-conference-same-day-same-094121233.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/had-commodities-moving-start-week-103335330.html"
   },
   {
    "t": "歐盟小包裹課稅有效　Shein等中資電商法國流量下滑",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220348.aspx"
   },
   {
-   "t": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
+   "t": "‘Bull crap’: Why Dave Ramsey says moving to conservative bond investments in old age is mathematically stupid",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/sam-altman-dropped-stanford-build-093000834.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bull-crap-why-dave-ramsey-103500321.html"
   },
   {
    "t": "健康幣10月開跑　壽險業者響應祭加碼回饋、規劃推新保單",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220345.aspx"
   },
   {
-   "t": "Novo Nordisk stock gets drilled on pipeline concerns — its CEO sees a main problem",
+   "t": "U.S. Stock Futures Climb as Oil Falls, Optimism Builds Ahead of Trump-Xi Summit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns--its-ceo-sees-a-main-problem-091933221.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-climb-oil-103605406.html"
   }
  ],
  "inst": {
