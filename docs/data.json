@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22 15:52（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-22 16:03（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.68,
-   "c": -1.28,
+   "p": 14.69,
+   "c": -1.21,
    "a50": 16.09,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.62,
-   "r": 44.6
+   "r": 44.7
   },
   {
    "s": "BZ=F",
-   "p": 101.27,
-   "c": 0.93,
-   "a50": 92.59,
+   "p": 101.66,
+   "c": 1.32,
+   "a50": 92.6,
    "a200": 86.08,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.5,
-   "r": 56.1
+   "a20": 98.52,
+   "r": 56.7
   },
   {
    "s": "GC=F",
-   "p": 4347.0,
-   "c": -0.84,
-   "a50": 4337.48,
-   "a200": 4554.74,
+   "p": 4340.4,
+   "c": -0.99,
+   "a50": 4337.35,
+   "a200": 4554.71,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4459.71,
-   "r": 44.1
+   "a20": 4459.38,
+   "r": 43.6
   },
   {
    "s": "HG=F",
    "p": 6.82,
-   "c": 1.95,
+   "c": 2.03,
    "a50": 6.51,
    "a200": 6.07,
    "yh": 6.82,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 62.4
+   "r": 62.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315557,
-   "c": 0.36,
+   "p": 0.03153579,
+   "c": 0.31,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220156.aspx"
   },
   {
-   "t": "Halliburton (HAL) Wins Integrated Cyprus Contract. Can Broader Services Improve Returns?",
+   "t": "Lennar (LEN) Cuts Delivery Forecast. Can Construction Savings Offset Heavy Incentives?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/halliburton-hal-wins-integrated-cyprus-203555402.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/lennar-len-cuts-delivery-forecast-204510657.html"
   },
   {
    "t": "台股衝高後漲勢收斂　終場上漲81點創收盤新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220155.aspx"
   },
   {
-   "t": "RB Global (RBA) Doubles its Buyback Authorization. Can Cash Generation Support it?",
+   "t": "Halliburton (HAL) Wins Integrated Cyprus Contract. Can Broader Services Improve Returns?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rb-global-rba-doubles-buyback-204211476.html"
+   "u": "https://finance.yahoo.com/energy/articles/halliburton-hal-wins-integrated-cyprus-203555402.html"
   },
   {
    "t": "10月台股期指漲190點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220154.aspx"
   },
   {
-   "t": "Red Violet (RDVT) Expands FOREWARN Reach Through This Latest Partnership",
+   "t": "LuxExperience (LUXE) Reports NET-A-PORTER and MR PORTER Growth. Are Customers Returning?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/red-violet-rdvt-expands-forewarn-202948729.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/luxexperience-luxe-reports-net-porter-205013606.html"
   },
   {
    "t": "台股漲81.33點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220149.aspx"
   },
   {
-   "t": "HCA Healthcare (HCA) Acquires a Healthcare College. Can Training Capacity Improve Staffing?",
+   "t": "RB Global (RBA) Doubles its Buyback Authorization. Can Cash Generation Support it?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/hca-healthcare-hca-acquires-healthcare-203355980.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rb-global-rba-doubles-buyback-204211476.html"
   },
   {
    "t": "南山人壽發行3.33億美元次順位債　超額認購逾4倍",
