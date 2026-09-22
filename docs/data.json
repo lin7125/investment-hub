@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 04:14（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 04:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 14.29,
-   "c": -3.9,
+   "p": 14.24,
+   "c": -4.24,
    "a50": 16.08,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.6,
-   "r": 43.1
+   "r": 42.9
   },
   {
    "s": "BZ=F",
-   "p": 98.42,
-   "c": -1.91,
+   "p": 98.43,
+   "c": -1.9,
    "a50": 92.54,
    "a200": 86.07,
    "yh": 118.35,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4400.5,
-   "c": 0.38,
-   "a50": 4338.55,
-   "a200": 4555.01,
+   "p": 4396.5,
+   "c": 0.29,
+   "a50": 4338.47,
+   "a200": 4554.99,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4462.39,
-   "r": 48.4
+   "a20": 4462.19,
+   "r": 48.1
   },
   {
    "s": "HG=F",
    "p": 6.9,
-   "c": 3.25,
+   "c": 3.23,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.9,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03159558,
-   "c": 0.49,
+   "c": 0.52,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609220350.aspx"
   },
   {
-   "t": "‘I just want out’: Billionaire Jeffrey Gundlach says you should have ‘almost nothing’ in AI stocks — what to buy instead",
+   "t": "“Who Can Imagine What Action One Might Take”: Musk’s Latest Non-Answer Sends Tesla and SpaceX Higher",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/just-want-billionaire-jeffrey-gundlach-113000010.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/imagine-action-one-might-musk-113510252.html"
   },
   {
    "t": "納斯達克創新高後　美股早盤續揚",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
-   "t": "Is Synchrony Financial Stock Underperforming the Nasdaq?",
+   "t": "Is Packaging Corporation Underperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/synchrony-financial-stock-underperforming-nasdaq-112721927.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/packaging-corporation-underperforming-nasdaq-114239106.html"
   },
   {
    "t": "歐盟小包裹課稅有效　Shein等中資電商法國流量下滑",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220348.aspx"
   },
   {
-   "t": "“Who Can Imagine What Action One Might Take”: Musk’s Latest Non-Answer Sends Tesla and SpaceX Higher",
+   "t": "Is Regions Financial Stock Underperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/imagine-action-one-might-musk-113510252.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/regions-financial-stock-underperforming-p-113729907.html"
   },
   {
    "t": "健康幣10月開跑　壽險業者響應祭加碼回饋、規劃推新保單",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220345.aspx"
   },
   {
-   "t": "Is Regions Financial Stock Underperforming the S&P 500?",
+   "t": "Is J.B. Hunt Transport Services Stock Outperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/regions-financial-stock-underperforming-p-113729907.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/j-b-hunt-transport-services-114815246.html"
   }
  ],
  "inst": {
