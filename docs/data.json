@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 03:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 04:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 339.88,
-   "c": 0.27,
-   "a50": 321.07,
+   "p": 339.75,
+   "c": 0.23,
+   "a50": 321.06,
    "a200": 286.88,
    "yh": 340.08,
    "yl": 245.27,
-   "a20": 325.6,
-   "r": 67.0
+   "a20": 325.59,
+   "r": 66.9
   },
   {
    "s": "NVDA",
-   "p": 229.74,
-   "c": 1.04,
-   "a50": 215.13,
-   "a200": 198.86,
+   "p": 228.87,
+   "c": 0.66,
+   "a50": 215.11,
+   "a200": 198.85,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.57,
-   "r": 60.0
+   "a20": 220.53,
+   "r": 59.4
   },
   {
    "s": "TSLA",
-   "p": 380.21,
-   "c": 1.31,
-   "a50": 349.31,
+   "p": 378.9,
+   "c": 0.96,
+   "a50": 349.28,
    "a200": 396.72,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 361.79,
-   "r": 60.6
+   "a20": 361.72,
+   "r": 60.1
   },
   {
    "s": "META",
-   "p": 739.91,
-   "c": -0.18,
-   "a50": 610.48,
-   "a200": 625.13,
-   "yh": 765.16,
+   "p": 736.59,
+   "c": -0.63,
+   "a50": 610.42,
+   "a200": 625.11,
+   "yh": 760.66,
    "yl": 525.72,
-   "a20": 633.22,
-   "r": 77.3
+   "a20": 633.06,
+   "r": 76.0
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7776.89,
-   "c": 0.16,
-   "a50": 7626.25,
-   "a200": 7192.37,
+   "p": 7764.75,
+   "c": 0.0,
+   "a50": 7626.01,
+   "a200": 7192.31,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7669.61,
-   "r": 60.1
+   "a20": 7669.0,
+   "r": 59.3
   },
   {
    "s": "^VIX",
-   "p": 14.22,
-   "c": -4.37,
+   "p": 14.24,
+   "c": -4.24,
    "a50": 16.08,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.6,
-   "r": 42.8
+   "r": 42.9
   },
   {
    "s": "BZ=F",
-   "p": 97.77,
-   "c": -2.56,
-   "a50": 92.52,
-   "a200": 86.06,
+   "p": 98.27,
+   "c": -2.06,
+   "a50": 92.53,
+   "a200": 86.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.32,
-   "r": 50.2
+   "a20": 98.35,
+   "r": 51.1
   },
   {
    "s": "GC=F",
-   "p": 4406.5,
-   "c": 0.52,
-   "a50": 4338.67,
-   "a200": 4555.04,
+   "p": 4405.9,
+   "c": 0.5,
+   "a50": 4338.66,
+   "a200": 4555.03,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4462.69,
-   "r": 49.0
+   "a20": 4462.66,
+   "r": 48.9
   },
   {
    "s": "HG=F",
-   "p": 6.92,
-   "c": 3.55,
+   "p": 6.91,
+   "c": 3.39,
    "a50": 6.52,
    "a200": 6.07,
-   "yh": 6.92,
+   "yh": 6.91,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 65.7
+   "r": 65.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03159558,
-   "c": 0.51,
+   "p": 0.0315856,
+   "c": 0.47,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609220350.aspx"
   },
   {
-   "t": "What Had Commodities Moving to Start the New Week?",
+   "t": "Forget the growth-stage funding gap, Europe is facing an early-stage crisis",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/had-commodities-moving-start-week-103335330.html"
+   "u": "https://finance.yahoo.com/small-business/articles/forget-growth-stage-funding-gap-104940880.html"
   },
   {
    "t": "納斯達克創新高後　美股早盤續揚",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
-   "t": "‘Bull crap’: Why Dave Ramsey says moving to conservative bond investments in old age is mathematically stupid",
+   "t": "Peter Schiff's father sold $4.2 million in books claiming income tax is illegal. He died in federal prison",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bull-crap-why-dave-ramsey-103500321.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/peter-schiffs-father-sold-4-110000968.html"
   },
   {
    "t": "歐盟小包裹課稅有效　Shein等中資電商法國流量下滑",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220348.aspx"
   },
   {
-   "t": "U.S. Stock Futures Climb as Oil Falls, Optimism Builds Ahead of Trump-Xi Summit",
+   "t": "Another aspect of Montgomery: it might make human brokers more valuable",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-climb-oil-103605406.html"
+   "u": "https://finance.yahoo.com/small-business/articles/another-aspect-montgomery-might-human-110000308.html"
   },
   {
    "t": "健康幣10月開跑　壽險業者響應祭加碼回饋、規劃推新保單",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220345.aspx"
   },
   {
-   "t": "Morning Bid: Summiteering",
+   "t": "5 easy ways US boomers become poor in retirement (after having a fairly fat nest egg) — are you making these mistakes?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/morning-bid-summiteering-104146934.html"
+   "u": "https://finance.yahoo.com/markets/articles/5-easy-ways-us-boomers-110500674.html"
   }
  ],
  "inst": {
