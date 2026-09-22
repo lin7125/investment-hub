@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22 08:40（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-22 08:50（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 96.48,
-   "c": -7.11,
+   "p": 96.59,
+   "c": -7.01,
    "a50": 92.16,
    "a200": 85.87,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 97.85,
-   "r": 48.7
+   "r": 48.8
   },
   {
    "s": "GC=F",
-   "p": 4395.8,
-   "c": -0.66,
-   "a50": 4330.89,
-   "a200": 4554.23,
+   "p": 4387.9,
+   "c": -0.84,
+   "a50": 4330.73,
+   "a200": 4554.19,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4477.85,
-   "r": 47.9
+   "a20": 4477.45,
+   "r": 47.2
   },
   {
    "s": "HG=F",
    "p": 6.8,
-   "c": 2.86,
+   "c": 2.83,
    "a50": 6.5,
    "a200": 6.06,
    "yh": 6.8,
    "yl": 4.57,
    "a20": 6.57,
-   "r": 61.7
+   "r": 61.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03151592,
-   "c": 0.24,
+   "c": 0.26,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220013.aspx"
   },
   {
-   "t": "Meta’s New AI Agent Could Be the Missing Piece for META Stock",
+   "t": "How the 3M Stock Turnaround Is Happening Faster Than Expected",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agent-could-missing-130002359.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3m-stock-turnaround-happening-faster-131505697.html"
   },
   {
    "t": "國際油價重跌　美股收漲那斯達克指數創歷史新高",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220012.aspx"
   },
   {
-   "t": "Scott Bessent helped George Soros net $1 billion breaking the Bank of England — now he's fighting a U.S. bond selloff",
+   "t": "How to Play AAPL Stock Amid Reports Apple Is Building Its Own AI Server",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/scott-bessent-helped-george-soros-130000046.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/play-aapl-stock-amid-reports-130641806.html"
   },
   {
    "t": "沙烏地透過荷莫茲海峽提高出口　國際油價重挫",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220009.aspx"
   },
   {
-   "t": "Dick Portillo sold his restaurant empire for nearly $1B, but says he was happier before the deal",
+   "t": "Are you ‘secretly broke’? Here are the 7 worst habits keeping Americans in the red",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/dick-portillo-sold-restaurant-empire-130000099.html"
+   "u": "https://finance.yahoo.com/markets/articles/secretly-broke-7-worst-habits-130500678.html"
   },
   {
    "t": "派拉蒙與美國12州和解　為收購華納兄弟探索掃除障礙",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609220008.aspx"
   },
   {
-   "t": "Are you ‘secretly broke’? Here are the 7 worst habits keeping Americans in the red",
+   "t": "Scott Bessent helped George Soros net $1 billion breaking the Bank of England — now he's fighting a U.S. bond selloff",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/secretly-broke-7-worst-habits-130500678.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/scott-bessent-helped-george-soros-130000046.html"
   },
   {
    "t": "美中貿易會談釋放正面訊號　歐洲股市收高",
