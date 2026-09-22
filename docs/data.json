@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 06:19（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 06:29（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.71,
-   "c": -1.62,
+   "p": 98.53,
+   "c": -1.8,
    "a50": 92.54,
    "a200": 86.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.37,
-   "r": 51.8
+   "a20": 98.36,
+   "r": 51.5
   },
   {
    "s": "GC=F",
-   "p": 4399.8,
-   "c": 0.36,
-   "a50": 4338.54,
-   "a200": 4555.0,
+   "p": 4401.2,
+   "c": 0.39,
+   "a50": 4338.56,
+   "a200": 4555.01,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4462.35,
-   "r": 48.4
+   "a20": 4462.42,
+   "r": 48.5
   },
   {
    "s": "HG=F",
    "p": 6.9,
-   "c": 3.19,
+   "c": 3.18,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.9,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03157562,
-   "c": 0.45,
+   "c": 0.42,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230003.aspx"
   },
   {
-   "t": "Applied Optoelectronics (AAOI): Hyperscaler Capex Surge Fuels Unprecedented Demand for Optical Infrastructure",
+   "t": "Oura publicly files for initial public offering, looks to raise $2.2 billion",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-hyperscaler-capex-135615291.html"
+   "u": "https://finance.yahoo.com/technology/article/oura-publicly-files-for-initial-public-offering-looks-to-raise-22-billion-140523751.html"
   },
   {
    "t": "金管會：資產管理專區需有特色　擬專法予專區法律地位",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220352.aspx"
   },
   {
-   "t": "Nike gets hit with yet another bearish Wall Street hot take",
+   "t": "Stocks Supported by Lower Crude Prices and Bond Yields",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/nike-gets-hit-with-yet-another-bearish-wall-street-hot-take-135125963.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-lower-crude-prices-140825214.html"
   },
   {
    "t": "大樂透頭獎連4槓　下期獎金上看1.6億元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609220350.aspx"
   },
   {
-   "t": "AI build-out Strengthens Credo Technology Group Holding Ltd (CRDO)",
+   "t": "Here’s What Lifted BrightSpring Health Services (BTSG)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/ai-build-strengthens-credo-technology-135854858.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/lifted-brightspring-health-services-btsg-140139645.html"
   },
   {
    "t": "納斯達克創新高後　美股早盤續揚",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
-   "t": "Grayscale's Zcash ETF To Undergo 3-For-1 Split",
+   "t": "AI build-out Strengthens Credo Technology Group Holding Ltd (CRDO)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/grayscales-zcash-etf-undergo-3-135000698.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/ai-build-strengthens-credo-technology-135854858.html"
   }
  ],
  "inst": {
