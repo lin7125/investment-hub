@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 02:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 02:11（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 341.15,
-   "c": 0.64,
+   "p": 340.9,
+   "c": 0.57,
    "a50": 321.09,
    "a200": 286.89,
-   "yh": 341.15,
+   "yh": 340.9,
    "yl": 245.27,
-   "a20": 325.66,
-   "r": 67.8
+   "a20": 325.65,
+   "r": 67.7
   },
   {
    "s": "NVDA",
-   "p": 228.9,
-   "c": 0.67,
+   "p": 229.0,
+   "c": 0.71,
    "a50": 215.11,
    "a200": 198.85,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.53,
-   "r": 59.4
+   "a20": 220.54,
+   "r": 59.5
   },
   {
    "s": "TSLA",
-   "p": 379.08,
-   "c": 1.01,
-   "a50": 349.28,
-   "a200": 396.72,
+   "p": 378.43,
+   "c": 0.83,
+   "a50": 349.27,
+   "a200": 396.71,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 361.73,
-   "r": 60.2
+   "a20": 361.7,
+   "r": 59.9
   },
   {
    "s": "META",
-   "p": 740.5,
-   "c": -0.1,
-   "a50": 610.5,
-   "a200": 625.13,
+   "p": 744.21,
+   "c": 0.4,
+   "a50": 610.57,
+   "a200": 625.15,
    "yh": 765.16,
    "yl": 525.72,
-   "a20": 633.25,
-   "r": 77.5
+   "a20": 633.44,
+   "r": 78.1
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7768.51,
-   "c": 0.05,
-   "a50": 7626.09,
-   "a200": 7192.32,
+   "p": 7771.09,
+   "c": 0.08,
+   "a50": 7626.14,
+   "a200": 7192.34,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7669.19,
-   "r": 59.5
+   "a20": 7669.32,
+   "r": 59.7
   },
   {
    "s": "^VIX",
-   "p": 14.22,
-   "c": -4.37,
+   "p": 14.24,
+   "c": -4.24,
    "a50": 16.08,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.6,
-   "r": 42.8
+   "r": 42.9
   },
   {
    "s": "BZ=F",
-   "p": 99.7,
-   "c": -0.64,
-   "a50": 92.56,
+   "p": 98.68,
+   "c": -1.65,
+   "a50": 92.54,
    "a200": 86.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.42,
-   "r": 53.5
+   "a20": 98.37,
+   "r": 51.7
   },
   {
    "s": "GC=F",
-   "p": 4377.9,
-   "c": -0.14,
-   "a50": 4338.1,
-   "a200": 4554.89,
+   "p": 4386.2,
+   "c": 0.05,
+   "a50": 4338.26,
+   "a200": 4554.94,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4461.26,
-   "r": 46.4
+   "a20": 4461.67,
+   "r": 47.1
   },
   {
    "s": "HG=F",
-   "p": 6.84,
-   "c": 2.33,
+   "p": 6.85,
+   "c": 2.48,
    "a50": 6.51,
    "a200": 6.07,
-   "yh": 6.84,
+   "yh": 6.85,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 63.2
+   "r": 63.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03156566,
-   "c": 0.42,
+   "p": 0.03157562,
+   "c": 0.45,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220352.aspx"
   },
   {
-   "t": "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+   "t": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html"
+   "u": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html"
   },
   {
    "t": "大樂透頭獎連4槓　下期獎金上看1.6億元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609220350.aspx"
   },
   {
-   "t": "Mortgage and refinance rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%",
+   "t": "Ask an Advisor: Is an Independent Advisor or Large Firm Better for Managing My Money?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/ask-advisor-better-independent-advisor-110000428.html"
   },
   {
    "t": "納斯達克創新高後　美股早盤續揚",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Skids As Trump Threatens Iran; Medical Diagnostics Plays Swoon (Live Coverage)",
+   "t": "Brookfield eyes small tickets, high returns with its $5B Catalytic Transition Fund",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/energy/articles/brookfield-eyes-small-tickets-high-090000623.html"
   },
   {
    "t": "歐盟小包裹課稅有效　Shein等中資電商法國流量下滑",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220348.aspx"
   },
   {
-   "t": "Paramount Settlement Triggers WBD Breakout. How It Compares To Past Media Mergers.",
+   "t": "My mom opened a credit card in my name to help me build credit — then maxed it out, leaving a $40,000 balance. What now?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/paramount-skydance-warner-bros-discovery-disney-fox-netflix-media-mergers/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/mom-opened-credit-card-name-090000564.html"
   },
   {
    "t": "健康幣10月開跑　壽險業者響應祭加碼回饋、規劃推新保單",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220345.aspx"
   },
   {
-   "t": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
+   "t": "Novo Nordisk stock gets drilled on pipeline concerns — its CEO sees a main problem",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns--its-ceo-sees-a-main-problem-091933221.html"
   }
  ],
  "inst": {
