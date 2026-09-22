@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 06:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 07:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4402.6,
-   "c": 0.43,
-   "a50": 4338.59,
-   "a200": 4555.02,
+   "p": 4400.7,
+   "c": 0.38,
+   "a50": 4338.55,
+   "a200": 4555.01,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4462.49,
-   "r": 48.6
+   "a20": 4462.4,
+   "r": 48.5
   },
   {
    "s": "HG=F",
    "p": 6.9,
-   "c": 3.24,
+   "c": 3.22,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.9,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 65.1
+   "r": 65.0
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230003.aspx"
   },
   {
-   "t": "Is Expeditors Stock Outperforming the S&P 500?",
+   "t": "This Fund Exits American Healthcare REIT (AHR) Despite Bullish Outlook",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/expeditors-stock-outperforming-p-500-143033324.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/bullish-american-healthcare-reit-ahr-143612697.html"
   },
   {
    "t": "金管會：資產管理專區需有特色　擬專法予專區法律地位",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220352.aspx"
   },
   {
-   "t": "Baron Capital Sees Blackstone Mortgage Trust (BXMT) as a Compelling Opportunity",
+   "t": "The Fed Just Raised Rates for the First Time Since 2023. CoreWeave’s CEO Sees an ‘Inflection Point,’ But Its $51 Billion Debt Problem Just Got Worse.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/baron-capital-sees-blackstone-mortgage-143030157.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/fed-just-raised-rates-first-143638934.html"
   },
   {
    "t": "大樂透頭獎連4槓　下期獎金上看1.6億元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609220350.aspx"
   },
   {
-   "t": "Is Baxter Stock Underperforming the Nasdaq?",
+   "t": "Dollar Gains and Gold Falls on Hawkish Fed Comments",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/baxter-stock-underperforming-nasdaq-143204719.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-gains-gold-falls-hawkish-143351060.html"
   },
   {
    "t": "納斯達克創新高後　美股早盤續揚",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
-   "t": "Work from home? Here are 5 ways to save money on remote work expenses.",
+   "t": "Make This 1 Trade Now as U.S.-Canada Trade Friction Drags On",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-money-working-from-home-142616852.html"
+   "u": "https://finance.yahoo.com/markets/currencies/articles/1-trade-now-u-canada-143711016.html"
   }
  ],
  "inst": {
