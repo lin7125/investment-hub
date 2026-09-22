@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 07:00（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 07:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,31 +300,31 @@
   },
   {
    "s": "GC=F",
-   "p": 4400.7,
+   "p": 4400.6,
    "c": 0.38,
    "a50": 4338.55,
    "a200": 4555.01,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4462.4,
+   "a20": 4462.39,
    "r": 48.5
   },
   {
    "s": "HG=F",
    "p": 6.9,
-   "c": 3.22,
+   "c": 3.23,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.9,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 65.0
+   "r": 65.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03157562,
-   "c": 0.42,
-   "a50": 0.03125977,
+   "p": 0.03156566,
+   "c": 0.19,
+   "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
    "yl": 0.030864
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230003.aspx"
   },
   {
-   "t": "This Fund Exits American Healthcare REIT (AHR) Despite Bullish Outlook",
+   "t": "What Makes Curbline Properties (CURB) an Attractive Bet?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/bullish-american-healthcare-reit-ahr-143612697.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/makes-curbline-properties-curb-attractive-144558288.html"
   },
   {
    "t": "金管會：資產管理專區需有特色　擬專法予專區法律地位",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220352.aspx"
   },
   {
-   "t": "The Fed Just Raised Rates for the First Time Since 2023. CoreWeave’s CEO Sees an ‘Inflection Point,’ But Its $51 Billion Debt Problem Just Got Worse.",
+   "t": "How Is Domino's Pizza’s Stock Performance Compared to Other Consumer Discretionary Stocks?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/fed-just-raised-rates-first-143638934.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/dominos-pizza-stock-performance-compared-144515849.html"
   },
   {
    "t": "大樂透頭獎連4槓　下期獎金上看1.6億元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609220350.aspx"
   },
   {
-   "t": "Dollar Gains and Gold Falls on Hawkish Fed Comments",
+   "t": "Here’s What Pressured Vail Resorts (MTN) in Q2",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/dollar-gains-gold-falls-hawkish-143351060.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/pressured-vail-resorts-mtn-q2-144137984.html"
   },
   {
    "t": "納斯達克創新高後　美股早盤續揚",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
-   "t": "Make This 1 Trade Now as U.S.-Canada Trade Friction Drags On",
+   "t": "Did Jim Cramer Just Give GameStop Stock the Kiss of Death When He Said the Turnaround Is Working?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/1-trade-now-u-canada-143711016.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/did-jim-cramer-just-gamestop-144914863.html"
   }
  ],
  "inst": {
