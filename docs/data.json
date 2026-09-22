@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 07:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 07:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4401.7,
-   "c": 0.41,
-   "a50": 4338.57,
+   "p": 4402.1,
+   "c": 0.42,
+   "a50": 4338.58,
    "a200": 4555.01,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4462.45,
-   "r": 48.5
+   "a20": 4462.47,
+   "r": 48.6
   },
   {
    "s": "HG=F",
    "p": 6.91,
-   "c": 3.27,
+   "c": 3.32,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.91,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 65.2
+   "r": 65.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03156566,
-   "c": 0.18,
+   "p": 0.03154574,
+   "c": 0.12,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "市場評估沙烏地油管重啟與中東局勢　國際油價收低",
+   "t": "投資人關注美伊發展　美股漲跌互見那指創新高",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230014.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230016.aspx"
   },
   {
    "t": "Bank of America says buy tumbling shares of aviation giant",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html"
   },
   {
-   "t": "天然氣價格飆漲　英力士關閉3座英國工廠",
+   "t": "市場評估沙烏地油管重啟與中東局勢　國際油價收低",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230012.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230014.aspx"
   },
   {
    "t": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
@@ -356,22 +356,22 @@
    "u": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html"
   },
   {
+   "t": "天然氣價格飆漲　英力士關閉3座英國工廠",
+   "pub": "中央社財經",
+   "d": "2026-09-23",
+   "u": "https://www.cna.com.tw/news/afe/202609230012.aspx"
+  },
+  {
+   "t": "Stocks and Bonds Climb as Slumping Crude Prices Ease Inflation Risks",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-bonds-climb-slumping-crude-151325897.html"
+  },
+  {
    "t": "美伊談判預期升溫油價跌　科技股漲勢消退歐股分歧",
    "pub": "中央社財經",
    "d": "2026-09-23",
    "u": "https://www.cna.com.tw/news/afe/202609230003.aspx"
-  },
-  {
-   "t": "Cipher Digital Just Scored a Huge AI Infrastructure Breakthrough. What It Will Take for the Stock to Reclaim $30.",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-just-scored-huge-151220507.html"
-  },
-  {
-   "t": "金管會：資產管理專區需有特色　擬專法予專區法律地位",
-   "pub": "中央社財經",
-   "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220352.aspx"
   },
   {
    "t": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act – Corrected",
@@ -380,28 +380,28 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html"
   },
   {
+   "t": "金管會：資產管理專區需有特色　擬專法予專區法律地位",
+   "pub": "中央社財經",
+   "d": "2026-09-22",
+   "u": "https://www.cna.com.tw/news/afe/202609220352.aspx"
+  },
+  {
+   "t": "Cipher Digital Just Scored a Huge AI Infrastructure Breakthrough. What It Will Take for the Stock to Reclaim $30.",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-just-scored-huge-151220507.html"
+  },
+  {
    "t": "大樂透頭獎連4槓　下期獎金上看1.6億元",
    "pub": "中央社財經",
    "d": "2026-09-22",
    "u": "https://www.cna.com.tw/news/ahel/202609220350.aspx"
   },
   {
-   "t": "Is VeriSign Stock Underperforming the Dow?",
+   "t": "Trump demands 1% rates because the US has the ‘Best Credit in the World’ — the Fed hiked rates anyway. So who’s right?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/verisign-stock-underperforming-dow-145907668.html"
-  },
-  {
-   "t": "納斯達克創新高後　美股早盤續揚",
-   "pub": "中央社財經",
-   "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
-  },
-  {
-   "t": "Stocks and Bonds Climb as Slumping Crude Prices Ease Inflation Risks",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-bonds-climb-slumping-crude-151325897.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/trump-demands-1-rates-because-153000828.html"
   }
  ],
  "inst": {
