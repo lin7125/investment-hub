@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 02:52（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 03:02（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 340.12,
-   "c": 0.34,
+   "p": 340.24,
+   "c": 0.37,
    "a50": 321.07,
-   "a200": 286.88,
-   "yh": 340.12,
+   "a200": 286.89,
+   "yh": 340.24,
    "yl": 245.27,
-   "a20": 325.61,
-   "r": 67.1
+   "a20": 325.62,
+   "r": 67.2
   },
   {
    "s": "NVDA",
-   "p": 229.55,
-   "c": 0.96,
+   "p": 229.27,
+   "c": 0.83,
    "a50": 215.12,
    "a200": 198.86,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.57,
-   "r": 59.9
+   "a20": 220.55,
+   "r": 59.7
   },
   {
    "s": "TSLA",
-   "p": 379.35,
-   "c": 1.08,
+   "p": 379.66,
+   "c": 1.16,
    "a50": 349.29,
    "a200": 396.72,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 361.74,
-   "r": 60.3
+   "a20": 361.76,
+   "r": 60.4
   },
   {
    "s": "META",
-   "p": 740.96,
-   "c": -0.04,
-   "a50": 610.5,
-   "a200": 625.14,
+   "p": 738.64,
+   "c": -0.35,
+   "a50": 610.46,
+   "a200": 625.12,
    "yh": 765.16,
    "yl": 525.72,
-   "a20": 633.27,
-   "r": 77.7
+   "a20": 633.16,
+   "r": 76.8
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7771.32,
-   "c": 0.09,
-   "a50": 7626.14,
-   "a200": 7192.34,
+   "p": 7768.47,
+   "c": 0.05,
+   "a50": 7626.09,
+   "a200": 7192.32,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7669.33,
-   "r": 59.7
+   "a20": 7669.19,
+   "r": 59.5
   },
   {
    "s": "^VIX",
-   "p": 14.27,
-   "c": -4.03,
+   "p": 14.22,
+   "c": -4.37,
    "a50": 16.08,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.6,
-   "r": 43.0
+   "r": 42.8
   },
   {
    "s": "BZ=F",
-   "p": 99.56,
-   "c": -0.78,
+   "p": 99.36,
+   "c": -0.98,
    "a50": 92.56,
    "a200": 86.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.41,
-   "r": 53.3
+   "a20": 98.4,
+   "r": 52.9
   },
   {
    "s": "GC=F",
-   "p": 4388.5,
-   "c": 0.1,
-   "a50": 4338.31,
-   "a200": 4554.95,
+   "p": 4391.1,
+   "c": 0.16,
+   "a50": 4338.36,
+   "a200": 4554.96,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4461.79,
-   "r": 47.4
+   "a20": 4461.92,
+   "r": 47.6
   },
   {
    "s": "HG=F",
-   "p": 6.87,
-   "c": 2.74,
-   "a50": 6.51,
+   "p": 6.89,
+   "c": 3.07,
+   "a50": 6.52,
    "a200": 6.07,
-   "yh": 6.87,
+   "yh": 6.89,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 64.1
+   "r": 64.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03156566,
-   "c": 0.41,
+   "c": 0.39,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609220350.aspx"
   },
   {
-   "t": "Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG",
+   "t": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/same-conference-same-day-same-094121233.html"
+   "u": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html"
   },
   {
    "t": "納斯達克創新高後　美股早盤續揚",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
-   "t": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
+   "t": "Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html"
+   "u": "https://finance.yahoo.com/energy/articles/same-conference-same-day-same-094121233.html"
   },
   {
    "t": "歐盟小包裹課稅有效　Shein等中資電商法國流量下滑",
