@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 03:33（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 03:43（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,30 +212,30 @@
   },
   {
    "s": "AAPL",
-   "p": 340.56,
-   "c": 0.47,
-   "a50": 321.08,
-   "a200": 286.89,
-   "yh": 340.56,
+   "p": 339.97,
+   "c": 0.29,
+   "a50": 321.07,
+   "a200": 286.88,
+   "yh": 340.08,
    "yl": 245.27,
-   "a20": 325.63,
-   "r": 67.4
+   "a20": 325.6,
+   "r": 67.0
   },
   {
    "s": "NVDA",
-   "p": 229.75,
-   "c": 1.04,
-   "a50": 215.13,
+   "p": 229.23,
+   "c": 0.81,
+   "a50": 215.11,
    "a200": 198.86,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.57,
-   "r": 60.0
+   "a20": 220.55,
+   "r": 59.6
   },
   {
    "s": "TSLA",
-   "p": 379.43,
-   "c": 1.1,
+   "p": 379.57,
+   "c": 1.14,
    "a50": 349.29,
    "a200": 396.72,
    "yh": 489.88,
@@ -245,14 +245,14 @@
   },
   {
    "s": "META",
-   "p": 739.54,
-   "c": -0.23,
+   "p": 739.84,
+   "c": -0.19,
    "a50": 610.48,
    "a200": 625.13,
    "yh": 765.16,
    "yl": 525.72,
-   "a20": 633.2,
-   "r": 77.2
+   "a20": 633.22,
+   "r": 77.3
   },
   {
    "s": "^TWII",
@@ -267,14 +267,14 @@
   },
   {
    "s": "^GSPC",
-   "p": 7777.43,
-   "c": 0.16,
-   "a50": 7626.27,
-   "a200": 7192.37,
+   "p": 7774.44,
+   "c": 0.13,
+   "a50": 7626.21,
+   "a200": 7192.35,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7669.64,
-   "r": 60.1
+   "a20": 7669.49,
+   "r": 59.9
   },
   {
    "s": "^VIX",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.96,
-   "c": -1.38,
-   "a50": 92.55,
-   "a200": 86.07,
+   "p": 98.02,
+   "c": -2.31,
+   "a50": 92.53,
+   "a200": 86.06,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.38,
-   "r": 52.2
+   "a20": 98.33,
+   "r": 50.6
   },
   {
    "s": "GC=F",
-   "p": 4394.9,
-   "c": 0.25,
-   "a50": 4338.44,
-   "a200": 4554.98,
+   "p": 4405.2,
+   "c": 0.49,
+   "a50": 4338.64,
+   "a200": 4555.03,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4462.11,
-   "r": 47.9
+   "a20": 4462.62,
+   "r": 48.9
   },
   {
    "s": "HG=F",
-   "p": 6.9,
-   "c": 3.2,
+   "p": 6.91,
+   "c": 3.41,
    "a50": 6.52,
    "a200": 6.07,
-   "yh": 6.9,
+   "yh": 6.91,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 65.0
+   "r": 65.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03157562,
-   "c": 0.44,
+   "p": 0.03160556,
+   "c": 0.52,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
-   "t": "U.S. Stock Futures Climb as Oil Falls, Optimism Builds Ahead of Trump-Xi Summit",
+   "t": "‘Bull crap’: Why Dave Ramsey says moving to conservative bond investments in old age is mathematically stupid",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-climb-oil-103605406.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bull-crap-why-dave-ramsey-103500321.html"
   },
   {
    "t": "歐盟小包裹課稅有效　Shein等中資電商法國流量下滑",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220348.aspx"
   },
   {
-   "t": "‘Bull crap’: Why Dave Ramsey says moving to conservative bond investments in old age is mathematically stupid",
+   "t": "U.S. Stock Futures Climb as Oil Falls, Optimism Builds Ahead of Trump-Xi Summit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bull-crap-why-dave-ramsey-103500321.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-climb-oil-103605406.html"
   },
   {
    "t": "健康幣10月開跑　壽險業者響應祭加碼回饋、規劃推新保單",
