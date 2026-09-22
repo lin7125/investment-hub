@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 02:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 02:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 341.06,
-   "c": 0.61,
-   "a50": 321.09,
-   "a200": 286.89,
-   "yh": 341.06,
+   "p": 340.12,
+   "c": 0.34,
+   "a50": 321.07,
+   "a200": 286.88,
+   "yh": 340.12,
    "yl": 245.27,
-   "a20": 325.66,
-   "r": 67.8
+   "a20": 325.61,
+   "r": 67.1
   },
   {
    "s": "NVDA",
-   "p": 229.26,
-   "c": 0.83,
+   "p": 229.55,
+   "c": 0.96,
    "a50": 215.12,
    "a200": 198.86,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.55,
-   "r": 59.6
+   "a20": 220.57,
+   "r": 59.9
   },
   {
    "s": "TSLA",
-   "p": 379.27,
-   "c": 1.06,
+   "p": 379.35,
+   "c": 1.08,
    "a50": 349.29,
    "a200": 396.72,
    "yh": 489.88,
    "yl": 298.32,
    "a20": 361.74,
-   "r": 60.2
+   "r": 60.3
   },
   {
    "s": "META",
-   "p": 740.29,
-   "c": -0.13,
-   "a50": 610.49,
-   "a200": 625.13,
+   "p": 740.96,
+   "c": -0.04,
+   "a50": 610.5,
+   "a200": 625.14,
    "yh": 765.16,
    "yl": 525.72,
-   "a20": 633.24,
-   "r": 77.4
+   "a20": 633.27,
+   "r": 77.7
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7769.56,
-   "c": 0.06,
-   "a50": 7626.11,
-   "a200": 7192.33,
+   "p": 7771.32,
+   "c": 0.09,
+   "a50": 7626.14,
+   "a200": 7192.34,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7669.24,
-   "r": 59.6
+   "a20": 7669.33,
+   "r": 59.7
   },
   {
    "s": "^VIX",
-   "p": 14.29,
-   "c": -3.9,
+   "p": 14.27,
+   "c": -4.03,
    "a50": 16.08,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.6,
-   "r": 43.1
+   "r": 43.0
   },
   {
    "s": "BZ=F",
-   "p": 99.29,
-   "c": -1.05,
-   "a50": 92.55,
+   "p": 99.56,
+   "c": -0.78,
+   "a50": 92.56,
    "a200": 86.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.4,
-   "r": 52.8
+   "a20": 98.41,
+   "r": 53.3
   },
   {
    "s": "GC=F",
-   "p": 4392.9,
-   "c": 0.21,
-   "a50": 4338.4,
-   "a200": 4554.97,
+   "p": 4388.5,
+   "c": 0.1,
+   "a50": 4338.31,
+   "a200": 4554.95,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4462.01,
-   "r": 47.8
+   "a20": 4461.79,
+   "r": 47.4
   },
   {
    "s": "HG=F",
    "p": 6.87,
-   "c": 2.79,
+   "c": 2.74,
    "a50": 6.51,
    "a200": 6.07,
    "yh": 6.87,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 64.2
+   "r": 64.1
   },
   {
    "s": "TWDUSD",
    "p": 0.03156566,
-   "c": 0.4,
+   "c": 0.41,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
-   "t": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
+   "t": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/sam-altman-dropped-stanford-build-093000834.html"
+   "u": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html"
   },
   {
    "t": "歐盟小包裹課稅有效　Shein等中資電商法國流量下滑",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220348.aspx"
   },
   {
-   "t": "Novo Nordisk stock gets drilled on pipeline concerns — its CEO sees a main problem",
+   "t": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns--its-ceo-sees-a-main-problem-091933221.html"
+   "u": "https://finance.yahoo.com/technology/articles/sam-altman-dropped-stanford-build-093000834.html"
   },
   {
    "t": "健康幣10月開跑　壽險業者響應祭加碼回饋、規劃推新保單",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220345.aspx"
   },
   {
-   "t": "Ask an Advisor: Is an Independent Advisor or Large Firm Better for Managing My Money?",
+   "t": "Novo Nordisk stock gets drilled on pipeline concerns — its CEO sees a main problem",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/ask-advisor-better-independent-advisor-110000428.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns--its-ceo-sees-a-main-problem-091933221.html"
   }
  ],
  "inst": {
