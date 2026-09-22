@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22 17:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-22 17:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.79,
-   "c": -0.54,
-   "a50": 16.09,
+   "p": 14.87,
+   "c": 0.0,
+   "a50": 16.1,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.63,
-   "r": 45.1
+   "r": 45.4
   },
   {
    "s": "BZ=F",
-   "p": 98.74,
-   "c": -1.59,
-   "a50": 92.54,
+   "p": 99.39,
+   "c": -0.95,
+   "a50": 92.56,
    "a200": 86.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.37,
-   "r": 51.8
+   "a20": 98.4,
+   "r": 53.0
   },
   {
    "s": "GC=F",
-   "p": 4369.9,
-   "c": -0.32,
-   "a50": 4337.94,
-   "a200": 4554.85,
+   "p": 4355.1,
+   "c": -0.66,
+   "a50": 4337.64,
+   "a200": 4554.78,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4460.86,
-   "r": 45.8
+   "a20": 4460.12,
+   "r": 44.7
   },
   {
    "s": "HG=F",
-   "p": 6.84,
-   "c": 2.22,
+   "p": 6.82,
+   "c": 2.07,
    "a50": 6.51,
    "a200": 6.07,
-   "yh": 6.84,
+   "yh": 6.82,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 63.0
+   "r": 62.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03156566,
-   "c": 0.39,
+   "p": 0.03157562,
+   "c": 0.42,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220216.aspx"
   },
   {
-   "t": "Burger chain cancels breakfast at hundreds of restaurants",
+   "t": "Bank of America says buy tumbling shares of aviation giant",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html"
   },
   {
    "t": "畢業生求職影響　8月失業率3.41%連3月走升",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220214.aspx"
   },
   {
-   "t": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
+   "t": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/asml-asml-chip-giants-tsmc-214129428.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html"
   },
   {
    "t": "新台幣升5分　收31.708元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220213.aspx"
   },
   {
-   "t": "Nokia (NOK) Gets a Buy Rating, But Q2 Operating Loss Raises Questions",
+   "t": "As Trump and Xi meet, investors play both sides of AI divide",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nokia-nok-gets-buy-rating-214509281.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/trump-xi-meet-investors-play-085656582.html"
   },
   {
    "t": "金管會：不會用LINE聯繫民眾　慎防二次詐騙",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220202.aspx"
   },
   {
-   "t": "KeyBanc Raises AppFolio (APPF) Price Target: What Investors Need to Know",
+   "t": "Oil prices climb ahead of potential US-Iran talks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/keybanc-raises-appfolio-appf-price-213318180.html"
+   "u": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html"
   },
   {
    "t": "房仲調查：看跌房價者降至近3成　逾2成仍傾向先投資股市",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220200.aspx"
   },
   {
-   "t": "Amazon (AMZN)’s Debut Sterling Bond Sale Prices Bigger, But Demand Cools from Alphabet’s",
+   "t": "Soaring Oil and Gas Prices Push Europe’s Inflation Fight Into 2027",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-debut-sterling-bond-215111018.html"
+   "u": "https://finance.yahoo.com/energy/articles/soaring-oil-gas-prices-push-080000656.html"
   },
   {
    "t": "COMPUTEX 2027明年6/1登場　聚焦實體AI應用",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220199.aspx"
   },
   {
-   "t": "Bank of America says buy tumbling shares of aviation giant",
+   "t": "Burger chain cancels breakfast at hundreds of restaurants",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html"
+   "u": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html"
   }
  ],
  "inst": {
