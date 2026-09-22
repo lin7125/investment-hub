@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 05:17（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 05:24（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.0315856,
-   "c": 0.47,
+   "c": 0.46,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "美伊談判預期升溫油價跌　科技股漲勢消退歐股分歧",
+   "t": "市場評估沙烏地油管重啟與中東局勢　國際油價收低",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230003.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230014.aspx"
   },
   {
    "t": "Bank of America says buy tumbling shares of aviation giant",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html"
   },
   {
-   "t": "金管會：資產管理專區需有特色　擬專法予專區法律地位",
+   "t": "天然氣價格飆漲　英力士關閉3座英國工廠",
    "pub": "中央社財經",
-   "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220352.aspx"
+   "d": "2026-09-23",
+   "u": "https://www.cna.com.tw/news/afe/202609230012.aspx"
   },
   {
    "t": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html"
   },
   {
-   "t": "大樂透頭獎連4槓　下期獎金上看1.6億元",
+   "t": "美伊談判預期升溫油價跌　科技股漲勢消退歐股分歧",
    "pub": "中央社財經",
-   "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/ahel/202609220350.aspx"
+   "d": "2026-09-23",
+   "u": "https://www.cna.com.tw/news/afe/202609230003.aspx"
   },
   {
    "t": "Solana Price Prediction: Bull Market Begins for SOL With Next Target Set at $149",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/solana-price-prediction-bull-market-125519968.html"
   },
   {
-   "t": "納斯達克創新高後　美股早盤續揚",
+   "t": "金管會：資產管理專區需有特色　擬專法予專區法律地位",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220352.aspx"
   },
   {
    "t": "Is Interactive Brokers Stock Outperforming the S&P 500?",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-stock-outperforming-p-124733322.html"
   },
   {
-   "t": "歐盟小包裹課稅有效　Shein等中資電商法國流量下滑",
+   "t": "大樂透頭獎連4槓　下期獎金上看1.6億元",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220348.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202609220350.aspx"
   },
   {
    "t": "SanDisk Corp’s (SNDK) Impact on Small/Mid Cap Returns",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corp-sndk-impact-small-123955859.html"
   },
   {
-   "t": "健康幣10月開跑　壽險業者響應祭加碼回饋、規劃推新保單",
+   "t": "納斯達克創新高後　美股早盤續揚",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220345.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
    "t": "Veeco Instruments (VECO): Results Far Exceed Expectations Amid Memory Capacity Boom",
