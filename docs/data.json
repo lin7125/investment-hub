@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 04:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 04:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 14.24,
-   "c": -4.24,
+   "p": 14.21,
+   "c": -4.44,
    "a50": 16.08,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.6,
-   "r": 42.9
+   "r": 42.8
   },
   {
    "s": "BZ=F",
-   "p": 98.43,
-   "c": -1.9,
+   "p": 98.64,
+   "c": -1.69,
    "a50": 92.54,
    "a200": 86.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.35,
-   "r": 51.3
+   "a20": 98.36,
+   "r": 51.7
   },
   {
    "s": "GC=F",
-   "p": 4396.5,
-   "c": 0.29,
-   "a50": 4338.47,
-   "a200": 4554.99,
+   "p": 4398.6,
+   "c": 0.34,
+   "a50": 4338.51,
+   "a200": 4555.0,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4462.19,
-   "r": 48.1
+   "a20": 4462.29,
+   "r": 48.3
   },
   {
    "s": "HG=F",
    "p": 6.9,
-   "c": 3.23,
+   "c": 3.25,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.9,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03159558,
-   "c": 0.52,
+   "c": 0.5,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609220350.aspx"
   },
   {
-   "t": "“Who Can Imagine What Action One Might Take”: Musk’s Latest Non-Answer Sends Tesla and SpaceX Higher",
+   "t": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/imagine-action-one-might-musk-113510252.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/four-launches-100-rocket-lab-115117949.html"
   },
   {
    "t": "納斯達克創新高後　美股早盤續揚",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
-   "t": "Is Packaging Corporation Underperforming the Nasdaq?",
+   "t": "Boeing and Lockheed Martin Both Cash In on the Pentagon’s Contract Calendar",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/packaging-corporation-underperforming-nasdaq-114239106.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/boeing-lockheed-martin-both-cash-114654499.html"
   },
   {
    "t": "歐盟小包裹課稅有效　Shein等中資電商法國流量下滑",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220348.aspx"
   },
   {
-   "t": "Is Regions Financial Stock Underperforming the S&P 500?",
+   "t": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/regions-financial-stock-underperforming-p-113729907.html"
+   "u": "https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/?src=A00220&yptr=yahoo"
   },
   {
    "t": "健康幣10月開跑　壽險業者響應祭加碼回饋、規劃推新保單",
@@ -405,79 +405,79 @@
   }
  ],
  "inst": {
-  "date": "2026-09-22",
+  "date": "2026-09-21",
   "byCode": {
-   "2327": {
-    "f": 7871,
-    "t": 185,
-    "all": 9128
-   },
-   "2317": {
-    "f": 6811,
-    "t": -19,
-    "all": 7725
-   },
-   "2454": {
-    "f": 1541,
-    "t": 373,
-    "all": 1972
-   },
-   "2305": {
-    "f": 1878,
-    "t": 0,
-    "all": 1879
-   },
    "2308": {
-    "f": -1324,
-    "t": 1642,
-    "all": 311
-   },
-   "4722": {
-    "f": 8,
-    "t": 0,
-    "all": 0
-   },
-   "6862": {
-    "f": -34,
-    "t": 0,
-    "all": -37
-   },
-   "6446": {
-    "f": -212,
-    "t": -51,
-    "all": -225
-   },
-   "6515": {
-    "f": 93,
-    "t": -321,
-    "all": -228
-   },
-   "6442": {
-    "f": 40,
-    "t": -270,
-    "all": -236
-   },
-   "3701": {
-    "f": -285,
-    "t": 0,
-    "all": -282
-   },
-   "6706": {
-    "f": -1789,
-    "t": 0,
-    "all": -1777
+    "f": 2274,
+    "t": 3392,
+    "all": 6566
    },
    "1802": {
-    "f": -1383,
-    "t": 0,
-    "all": -2061
+    "f": 4389,
+    "t": 4,
+    "all": 5463
    },
    "2330": {
-    "f": -4330,
-    "t": -406,
-    "all": -4268
+    "f": 2689,
+    "t": 734,
+    "all": 4038
+   },
+   "2454": {
+    "f": 3156,
+    "t": 312,
+    "all": 3816
+   },
+   "6706": {
+    "f": 2590,
+    "t": 0,
+    "all": 2592
+   },
+   "2327": {
+    "f": 1155,
+    "t": 687,
+    "all": 2248
+   },
+   "3701": {
+    "f": 348,
+    "t": 0,
+    "all": 353
+   },
+   "4722": {
+    "f": 157,
+    "t": 0,
+    "all": 168
+   },
+   "2305": {
+    "f": 148,
+    "t": 0,
+    "all": 121
+   },
+   "6862": {
+    "f": -14,
+    "t": 0,
+    "all": -9
+   },
+   "6446": {
+    "f": -627,
+    "t": 2,
+    "all": -639
+   },
+   "6442": {
+    "f": -278,
+    "t": -463,
+    "all": -749
+   },
+   "6515": {
+    "f": -364,
+    "t": -454,
+    "all": -806
+   },
+   "2317": {
+    "f": -5704,
+    "t": 406,
+    "all": -5302
    }
   },
-  "totalNetE": 608.1
+  "totalNetE": 478.0
  }
 }
