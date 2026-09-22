@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 02:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 02:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 341.23,
+   "p": 341.2,
    "c": 0.66,
    "a50": 321.09,
    "a200": 286.89,
-   "yh": 341.23,
+   "yh": 341.2,
    "yl": 245.27,
-   "a20": 325.67,
+   "a20": 325.66,
    "r": 67.9
   },
   {
    "s": "NVDA",
-   "p": 229.21,
-   "c": 0.81,
-   "a50": 215.11,
+   "p": 229.4,
+   "c": 0.89,
+   "a50": 215.12,
    "a200": 198.86,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.55,
-   "r": 59.6
+   "a20": 220.56,
+   "r": 59.7
   },
   {
    "s": "TSLA",
-   "p": 379.74,
-   "c": 1.18,
-   "a50": 349.3,
+   "p": 379.08,
+   "c": 1.01,
+   "a50": 349.28,
    "a200": 396.72,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 361.76,
-   "r": 60.4
+   "a20": 361.73,
+   "r": 60.2
   },
   {
    "s": "META",
-   "p": 740.87,
-   "c": -0.05,
-   "a50": 610.5,
-   "a200": 625.14,
+   "p": 739.9,
+   "c": -0.18,
+   "a50": 610.48,
+   "a200": 625.13,
    "yh": 765.16,
    "yl": 525.72,
-   "a20": 633.27,
-   "r": 77.7
+   "a20": 633.22,
+   "r": 77.3
   },
   {
    "s": "^TWII",
@@ -267,19 +267,19 @@
   },
   {
    "s": "^GSPC",
-   "p": 7771.76,
+   "p": 7771.57,
    "c": 0.09,
    "a50": 7626.15,
    "a200": 7192.34,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7669.35,
+   "a20": 7669.34,
    "r": 59.7
   },
   {
    "s": "^VIX",
-   "p": 14.3,
-   "c": -3.83,
+   "p": 14.29,
+   "c": -3.9,
    "a50": 16.08,
    "a200": 18.08,
    "yh": 31.05,
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.67,
-   "c": -1.66,
-   "a50": 92.54,
+   "p": 99.11,
+   "c": -1.23,
+   "a50": 92.55,
    "a200": 86.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.37,
-   "r": 51.7
+   "a20": 98.39,
+   "r": 52.5
   },
   {
    "s": "GC=F",
-   "p": 4397.1,
-   "c": 0.3,
-   "a50": 4338.48,
-   "a200": 4554.99,
+   "p": 4395.2,
+   "c": 0.26,
+   "a50": 4338.44,
+   "a200": 4554.98,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4462.22,
-   "r": 48.1
+   "a20": 4462.12,
+   "r": 48.0
   },
   {
    "s": "HG=F",
    "p": 6.87,
-   "c": 2.71,
+   "c": 2.74,
    "a50": 6.51,
    "a200": 6.07,
    "yh": 6.87,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 64.0
+   "r": 64.1
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609220350.aspx"
   },
   {
-   "t": "My mom opened a credit card in my name to help me build credit — then maxed it out, leaving a $40,000 balance. What now?",
+   "t": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/currencies/articles/mom-opened-credit-card-name-090000564.html"
+   "u": "https://finance.yahoo.com/technology/articles/sam-altman-dropped-stanford-build-093000834.html"
   },
   {
    "t": "納斯達克創新高後　美股早盤續揚",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
-   "t": "Brookfield eyes small tickets, high returns with its $5B Catalytic Transition Fund",
+   "t": "Novo Nordisk stock gets drilled on pipeline concerns — its CEO sees a main problem",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/brookfield-eyes-small-tickets-high-090000623.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns--its-ceo-sees-a-main-problem-091933221.html"
   },
   {
    "t": "歐盟小包裹課稅有效　Shein等中資電商法國流量下滑",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220348.aspx"
   },
   {
-   "t": "Ask an Advisor: Is an Independent Advisor or Large Firm Better for Managing My Money?",
+   "t": "Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/ask-advisor-better-independent-advisor-110000428.html"
+   "u": "https://finance.yahoo.com/energy/articles/same-conference-same-day-same-094121233.html"
   },
   {
    "t": "健康幣10月開跑　壽險業者響應祭加碼回饋、規劃推新保單",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220345.aspx"
   },
   {
-   "t": "Novo Nordisk stock gets drilled on pipeline concerns — its CEO sees a main problem",
+   "t": "Brookfield eyes small tickets, high returns with its $5B Catalytic Transition Fund",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns--its-ceo-sees-a-main-problem-091933221.html"
+   "u": "https://finance.yahoo.com/energy/articles/brookfield-eyes-small-tickets-high-090000623.html"
   }
  ],
  "inst": {
