@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22 18:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-22 19:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,53 +278,53 @@
   },
   {
    "s": "^VIX",
-   "p": 14.82,
-   "c": -0.34,
+   "p": 14.7,
+   "c": -1.14,
    "a50": 16.09,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.63,
-   "r": 45.2
+   "a20": 15.62,
+   "r": 44.7
   },
   {
    "s": "BZ=F",
-   "p": 99.23,
-   "c": -1.11,
-   "a50": 92.55,
+   "p": 98.38,
+   "c": -1.95,
+   "a50": 92.54,
    "a200": 86.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.39,
-   "r": 52.7
+   "a20": 98.35,
+   "r": 51.2
   },
   {
    "s": "GC=F",
-   "p": 4363.2,
-   "c": -0.47,
-   "a50": 4337.8,
-   "a200": 4554.82,
+   "p": 4354.3,
+   "c": -0.68,
+   "a50": 4337.63,
+   "a200": 4554.78,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4460.52,
-   "r": 45.3
+   "a20": 4460.08,
+   "r": 44.6
   },
   {
    "s": "HG=F",
    "p": 6.84,
-   "c": 2.33,
+   "c": 2.36,
    "a50": 6.51,
    "a200": 6.07,
    "yh": 6.84,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 63.2
+   "r": 63.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03163556,
-   "c": 0.62,
-   "a50": 0.03126954,
+   "p": 0.03159558,
+   "c": 0.5,
+   "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
    "yl": 0.030864
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "8月外銷訂單1029億美元創新高　年增71%連19紅",
+   "t": "iPhone 18 Pro熱賣　電信業3天銷量增7成",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220216.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220308.aspx"
   },
   {
    "t": "Bank of America says buy tumbling shares of aviation giant",
@@ -344,64 +344,64 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html"
   },
   {
-   "t": "畢業生求職影響　8月失業率3.41%連3月走升",
+   "t": "帛琉副總統歐宜樓訪災防科技中心　借鏡台灣經驗、深化合作",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220214.aspx"
+   "u": "https://www.cna.com.tw/news/ait/202609220307.aspx"
   },
   {
-   "t": "Best high-yield savings interest rates today, Tuesday, September 22, 2026: Earn up to 4.10% APY",
+   "t": "AARP: Social Security proposal could ‘erode’ checks for 80% of recipients. 3 moves to protect your retirement income now",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-september-22-2026-earn-up-to-410-apy-100000921.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/aarp-social-security-proposal-could-113000944.html"
   },
   {
-   "t": "新台幣升5分　收31.708元",
+   "t": "防投資人過度槓桿　銀行券商跨業信用查詢機制10月底上線",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220213.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220305.aspx"
   },
   {
-   "t": "HELOC and home equity loan rates today, Tuesday, September 22, 2026: Besides rates, how to choose between a HELOC or home equity loan",
+   "t": "12 S&P 500 Stocks Hit Trillion-Dollar Club — What Could Go Wrong?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-september-22-2026-besides-rates-how-to-choose-between-a-heloc-or-home-equity-loan-100000210.html"
+   "u": "https://www.investors.com/etfs-and-funds/sectors/sp-500-stocks-hit-trillion-dollar-club-what-could-go-wrong/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "金管會：不會用LINE聯繫民眾　慎防二次詐騙",
+   "t": "東擎擬10月下旬掛牌上市　AI產品與大型專案助攻營運",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220202.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220299.aspx"
   },
   {
-   "t": "Mortgage and refinance interest rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%",
+   "t": "Credo Technology (CRDO) Just Cleared a Key PCIe 6.0 Milestone. What Comes Next?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/credo-technology-crdo-just-cleared-112133583.html"
   },
   {
-   "t": "房仲調查：看跌房價者降至近3成　逾2成仍傾向先投資股市",
+   "t": "完成機車駕訓有回饋　明年投保強制險可領超商禮券200元",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220200.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220293.aspx"
   },
   {
-   "t": "Best CD rates today, Tuesday, September 22, 2026: Lock in up to 4.40% APY",
+   "t": "Silver price today, Tuesday, September 22, 2026: Silver prices hit high mark ahead of U.S.- China talks this week",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-september-22-2026-lock-in-up-to-440-apy-100000744.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-tuesday-september-22-2026-silver-prices-hit-high-mark-ahead-of-us--china-talks-this-week-111536074.html"
   },
   {
-   "t": "COMPUTEX 2027明年6/1登場　聚焦實體AI應用",
+   "t": "嘉晶搶進AI電源管理和光通訊　今年營收估增逾35%",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220199.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220292.aspx"
   },
   {
-   "t": "Burger chain cancels breakfast at hundreds of restaurants",
+   "t": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html"
+   "u": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html"
   }
  ],
  "inst": {
@@ -417,15 +417,15 @@
     "t": -19,
     "all": 7725
    },
+   "2454": {
+    "f": 1541,
+    "t": 373,
+    "all": 1972
+   },
    "2305": {
     "f": 1878,
     "t": 0,
     "all": 1879
-   },
-   "2454": {
-    "f": 1541,
-    "t": 216,
-    "all": 1815
    },
    "2308": {
     "f": -1324,
@@ -474,8 +474,8 @@
    },
    "2330": {
     "f": -4330,
-    "t": -397,
-    "all": -4260
+    "t": -406,
+    "all": -4268
    }
   },
   "totalNetE": 608.2
