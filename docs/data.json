@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 04:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 04:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.64,
-   "c": -1.69,
+   "p": 98.79,
+   "c": -1.54,
    "a50": 92.54,
    "a200": 86.07,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.36,
-   "r": 51.7
+   "a20": 98.37,
+   "r": 51.9
   },
   {
    "s": "GC=F",
-   "p": 4398.6,
-   "c": 0.34,
-   "a50": 4338.51,
-   "a200": 4555.0,
+   "p": 4396.9,
+   "c": 0.3,
+   "a50": 4338.48,
+   "a200": 4554.99,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4462.29,
-   "r": 48.3
+   "a20": 4462.21,
+   "r": 48.1
   },
   {
    "s": "HG=F",
    "p": 6.9,
-   "c": 3.25,
+   "c": 3.21,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.9,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 65.1
+   "r": 65.0
   },
   {
    "s": "TWDUSD",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609220350.aspx"
   },
   {
-   "t": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride",
+   "t": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/four-launches-100-rocket-lab-115117949.html"
+   "u": "https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/?src=A00220&yptr=yahoo"
   },
   {
    "t": "納斯達克創新高後　美股早盤續揚",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220349.aspx"
   },
   {
-   "t": "Boeing and Lockheed Martin Both Cash In on the Pentagon’s Contract Calendar",
+   "t": "How Is Coinbase Global Stock Performance Compared to Other Financial Data And Stock Exchanges' Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/boeing-lockheed-martin-both-cash-114654499.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/coinbase-global-stock-performance-compared-120117135.html"
   },
   {
    "t": "歐盟小包裹課稅有效　Shein等中資電商法國流量下滑",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220348.aspx"
   },
   {
-   "t": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
+   "t": "Kevin O'Leary sold his software company for $4.2 billion, so why did he only walk away with about $11 million?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/kevin-oleary-sold-software-company-115500725.html"
   },
   {
    "t": "健康幣10月開跑　壽險業者響應祭加碼回饋、規劃推新保單",
@@ -398,86 +398,86 @@
    "u": "https://www.cna.com.tw/news/afe/202609220345.aspx"
   },
   {
-   "t": "Is J.B. Hunt Transport Services Stock Outperforming the S&P 500?",
+   "t": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/j-b-hunt-transport-services-114815246.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/four-launches-100-rocket-lab-115117949.html"
   }
  ],
  "inst": {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "byCode": {
-   "2308": {
-    "f": 2274,
-    "t": 3392,
-    "all": 6566
-   },
-   "1802": {
-    "f": 4389,
-    "t": 4,
-    "all": 5463
-   },
-   "2330": {
-    "f": 2689,
-    "t": 734,
-    "all": 4038
-   },
-   "2454": {
-    "f": 3156,
-    "t": 312,
-    "all": 3816
-   },
-   "6706": {
-    "f": 2590,
-    "t": 0,
-    "all": 2592
-   },
    "2327": {
-    "f": 1155,
-    "t": 687,
-    "all": 2248
-   },
-   "3701": {
-    "f": 348,
-    "t": 0,
-    "all": 353
-   },
-   "4722": {
-    "f": 157,
-    "t": 0,
-    "all": 168
-   },
-   "2305": {
-    "f": 148,
-    "t": 0,
-    "all": 121
-   },
-   "6862": {
-    "f": -14,
-    "t": 0,
-    "all": -9
-   },
-   "6446": {
-    "f": -627,
-    "t": 2,
-    "all": -639
-   },
-   "6442": {
-    "f": -278,
-    "t": -463,
-    "all": -749
-   },
-   "6515": {
-    "f": -364,
-    "t": -454,
-    "all": -806
+    "f": 7871,
+    "t": 185,
+    "all": 9128
    },
    "2317": {
-    "f": -5704,
-    "t": 406,
-    "all": -5302
+    "f": 6811,
+    "t": -19,
+    "all": 7725
+   },
+   "2454": {
+    "f": 1541,
+    "t": 373,
+    "all": 1972
+   },
+   "2305": {
+    "f": 1878,
+    "t": 0,
+    "all": 1879
+   },
+   "2308": {
+    "f": -1324,
+    "t": 1642,
+    "all": 311
+   },
+   "4722": {
+    "f": 8,
+    "t": 0,
+    "all": 0
+   },
+   "6862": {
+    "f": -34,
+    "t": 0,
+    "all": -37
+   },
+   "6446": {
+    "f": -212,
+    "t": -51,
+    "all": -225
+   },
+   "6515": {
+    "f": 93,
+    "t": -321,
+    "all": -228
+   },
+   "6442": {
+    "f": 40,
+    "t": -270,
+    "all": -236
+   },
+   "3701": {
+    "f": -285,
+    "t": 0,
+    "all": -282
+   },
+   "6706": {
+    "f": -1789,
+    "t": 0,
+    "all": -1777
+   },
+   "1802": {
+    "f": -1383,
+    "t": 0,
+    "all": -2061
+   },
+   "2330": {
+    "f": -4330,
+    "t": -406,
+    "all": -4268
    }
   },
-  "totalNetE": 478.0
+  "totalNetE": 608.1
  }
 }
