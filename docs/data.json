@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22 13:29（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-22 13:39（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -25,14 +25,14 @@
   },
   {
    "s": "2308.TW",
-   "p": 1910.0,
-   "c": 1.87,
-   "a50": 1754.2,
-   "a200": 1629.35,
+   "p": 1900.0,
+   "c": 1.33,
+   "a50": 1754.0,
+   "a200": 1629.3,
    "yh": 2520.0,
    "yl": 848.0,
-   "a20": 1766.0,
-   "r": 61.0
+   "a20": 1765.5,
+   "r": 60.5
   },
   {
    "s": "2454.TW",
@@ -47,25 +47,25 @@
   },
   {
    "s": "2327.TW",
-   "p": 574.0,
-   "c": 3.05,
-   "a50": 584.01,
+   "p": 573.0,
+   "c": 2.87,
+   "a50": 583.99,
    "a200": 472.66,
    "yh": 1140.0,
    "yl": 166.0,
-   "a20": 554.0,
-   "r": 51.2
+   "a20": 553.95,
+   "r": 51.0
   },
   {
    "s": "1802.TW",
-   "p": 59.1,
-   "c": -1.66,
+   "p": 59.0,
+   "c": -1.83,
    "a50": 56.35,
    "a200": 56.11,
    "yh": 76.6,
    "yl": 25.95,
    "a20": 59.38,
-   "r": 51.8
+   "r": 51.5
   },
   {
    "s": "6862.TW",
@@ -80,14 +80,14 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.8,
-   "c": -2.11,
+   "p": 41.85,
+   "c": -1.99,
    "a50": 40.31,
    "a200": 49.78,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 41.1,
-   "r": 53.1
+   "r": 53.3
   },
   {
    "s": "4722.TW",
@@ -113,36 +113,36 @@
   },
   {
    "s": "2305.TW",
-   "p": 59.3,
-   "c": 0.85,
-   "a50": 33.73,
+   "p": 59.6,
+   "c": 1.36,
+   "a50": 33.74,
    "a200": 22.01,
-   "yh": 59.3,
+   "yh": 59.6,
    "yl": 10.25,
-   "a20": 39.59,
-   "r": 88.1
+   "a20": 39.61,
+   "r": 88.3
   },
   {
    "s": "6442.TW",
-   "p": 1515.0,
-   "c": -0.66,
-   "a50": 1490.7,
-   "a200": 1673.8,
+   "p": 1510.0,
+   "c": -0.98,
+   "a50": 1490.6,
+   "a200": 1673.78,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1638.5,
-   "r": 45.1
+   "a20": 1638.25,
+   "r": 44.8
   },
   {
    "s": "6515.TW",
-   "p": 5730.0,
-   "c": -1.12,
-   "a50": 6502.1,
-   "a200": 6552.18,
+   "p": 5775.0,
+   "c": -0.35,
+   "a50": 6503.0,
+   "a200": 6552.4,
    "yh": 10795.0,
    "yl": 2015.0,
-   "a20": 6598.25,
-   "r": 36.9
+   "a20": 6600.5,
+   "r": 37.4
   },
   {
    "s": "6446.TW",
@@ -157,58 +157,58 @@
   },
   {
    "s": "3324.TWO",
-   "p": 1610.0,
-   "c": 5.92,
-   "a50": 1115.86,
-   "a200": 1034.41,
-   "yh": 1610.0,
+   "p": 1615.0,
+   "c": 6.25,
+   "a50": 1115.96,
+   "a200": 1034.44,
+   "yh": 1615.0,
    "yl": 815.0,
-   "a20": 1352.75,
-   "r": 69.9
+   "a20": 1353.0,
+   "r": 70.1
   },
   {
    "s": "3491.TWO",
-   "p": 1505.0,
-   "c": -0.99,
-   "a50": 1315.64,
-   "a200": 1319.92,
+   "p": 1495.0,
+   "c": -1.64,
+   "a50": 1315.44,
+   "a200": 1319.87,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1449.0,
-   "r": 56.5
+   "a20": 1448.5,
+   "r": 55.7
   },
   {
    "s": "3585.TWO",
-   "p": 46.1,
-   "c": 0.88,
-   "a50": 48.3,
+   "p": 45.7,
+   "c": 0.0,
+   "a50": 48.29,
    "a200": 46.15,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 47.59,
-   "r": 44.8
+   "a20": 47.57,
+   "r": 43.7
   },
   {
    "s": "6223.TWO",
-   "p": 5335.0,
-   "c": -2.91,
-   "a50": 5646.3,
-   "a200": 4492.35,
+   "p": 5330.0,
+   "c": -3.0,
+   "a50": 5646.2,
+   "a200": 4492.32,
    "yh": 7380.0,
    "yl": 1635.0,
-   "a20": 5404.75,
-   "r": 45.5
+   "a20": 5404.5,
+   "r": 45.4
   },
   {
    "s": "6750.TWO",
-   "p": 57.2,
-   "c": 0.18,
+   "p": 57.1,
+   "c": 0.0,
    "a50": 56.38,
    "a200": 58.65,
    "yh": 74.3,
    "yl": 37.6,
    "a20": 57.2,
-   "r": 49.6
+   "r": 49.0
   },
   {
    "s": "AAPL",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 47920.04,
-   "c": 0.42,
-   "a50": 45129.79,
-   "a200": 38413.49,
-   "yh": 47920.04,
+   "p": 47890.72,
+   "c": 0.36,
+   "a50": 45129.2,
+   "a200": 38413.34,
+   "yh": 47890.72,
    "yl": 25580.32,
-   "a20": 46543.06,
-   "r": 63.8
+   "a20": 46541.6,
+   "r": 63.7
   },
   {
    "s": "^GSPC",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.54,
-   "c": -2.79,
+   "p": 97.49,
+   "c": -2.84,
    "a50": 92.52,
    "a200": 86.06,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.31,
-   "r": 49.9
+   "r": 49.8
   },
   {
    "s": "GC=F",
-   "p": 4380.0,
-   "c": -0.09,
-   "a50": 4338.14,
-   "a200": 4554.9,
+   "p": 4369.3,
+   "c": -0.33,
+   "a50": 4337.93,
+   "a200": 4554.85,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4461.36,
-   "r": 46.6
+   "a20": 4460.83,
+   "r": 45.8
   },
   {
    "s": "HG=F",
-   "p": 6.83,
-   "c": 2.15,
+   "p": 6.82,
+   "c": 1.99,
    "a50": 6.51,
    "a200": 6.07,
-   "yh": 6.83,
+   "yh": 6.82,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 62.9
+   "r": 62.5
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220102.aspx"
   },
   {
-   "t": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
+   "t": "CoreWeave Rises After Going Live With Vera Rubin Racks. What This Means for CRWV Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-rfil-reports-stronger-174049668.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/coreweave-rises-going-live-vera-183002237.html"
   },
   {
    "t": "新台幣午盤升4.1分　暫收31.717元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220100.aspx"
   },
   {
-   "t": "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
+   "t": "Forgent Power (FPS) Reports $3B Backlog. Can Manufacturing Keep Up?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/sempra-sre-adds-20-lng-173718056.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-fps-reports-3b-183008960.html"
   },
   {
    "t": "技鋼首座算力中心落腳新北土城　布局AI基礎建設驗證",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220099.aspx"
   },
   {
-   "t": "Forgent Power (FPS) Reports $3B Backlog. Can Manufacturing Keep Up?",
+   "t": "Trip.com (TCOM) Books RMB5.2 Billion Penalty. Can Overseas Growth Offset Domestic Pressure?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-fps-reports-3b-183008960.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-books-rmb5-183136873.html"
   },
   {
    "t": "中國內需低迷、對歐順差創高 歐商會：難以為繼",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609220098.aspx"
   },
   {
-   "t": "CoreWeave Rises After Going Live With Vera Rubin Racks. What This Means for CRWV Stock.",
+   "t": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/coreweave-rises-going-live-vera-183002237.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-rfil-reports-stronger-174049668.html"
   },
   {
    "t": "向國銀查資金荒　央行：市場不缺錢但分配不均",
