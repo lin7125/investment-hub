@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22 15:22（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-22 15:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.87,
-   "c": 0.41,
-   "a50": 16.13,
+   "p": 14.64,
+   "c": -1.55,
+   "a50": 16.09,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.66,
-   "r": 45.4
+   "a20": 15.62,
+   "r": 44.5
   },
   {
    "s": "BZ=F",
-   "p": 97.39,
-   "c": -2.94,
-   "a50": 92.52,
+   "p": 97.29,
+   "c": -3.04,
+   "a50": 92.51,
    "a200": 86.06,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.3,
-   "r": 49.6
+   "r": 49.5
   },
   {
    "s": "GC=F",
-   "p": 4357.6,
-   "c": -0.6,
-   "a50": 4337.69,
-   "a200": 4554.79,
+   "p": 4359.0,
+   "c": -0.57,
+   "a50": 4337.72,
+   "a200": 4554.8,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4460.24,
-   "r": 44.8
+   "a20": 4460.31,
+   "r": 45.0
   },
   {
    "s": "HG=F",
    "p": 6.83,
-   "c": 2.08,
+   "c": 2.12,
    "a50": 6.51,
    "a200": 6.07,
    "yh": 6.83,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 62.7
+   "r": 62.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03153579,
-   "c": 0.32,
+   "p": 0.0315557,
+   "c": 0.38,
    "a50": 0.03125977,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220156.aspx"
   },
   {
-   "t": "Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity?",
+   "t": "Finfluencers Make Money Even When You Lose",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/orion-energy-oesx-raises-guidance-195100572.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/finfluencers-money-even-lose-202400885.html"
   },
   {
    "t": "台股衝高後漲勢收斂　終場上漲81點創收盤新高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220154.aspx"
   },
   {
-   "t": "Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost?",
+   "t": "Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/axon-enterprise-axon-prices-1b-194719659.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/orion-energy-oesx-raises-guidance-195100572.html"
   },
   {
    "t": "台股漲81.33點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609220149.aspx"
   },
   {
-   "t": "Finfluencers Make Money Even When You Lose",
+   "t": "Apple Wants to Enter the AI Inference Market. It Will Have to Swallow Its Pride First.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/finfluencers-money-even-lose-202400885.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/apple-wants-enter-ai-inference-203003873.html"
   },
   {
    "t": "南山人壽發行3.33億美元次順位債　超額認購逾4倍",
