@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22 16:23（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-22 16:34（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,47 +278,47 @@
   },
   {
    "s": "^VIX",
-   "p": 14.81,
-   "c": -0.4,
-   "a50": 16.09,
+   "p": 14.87,
+   "c": 0.0,
+   "a50": 16.1,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.63,
-   "r": 45.2
+   "r": 45.4
   },
   {
    "s": "BZ=F",
-   "p": 101.51,
-   "c": 1.17,
+   "p": 101.42,
+   "c": 1.08,
    "a50": 92.6,
    "a200": 86.08,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.51,
-   "r": 56.5
+   "a20": 98.5,
+   "r": 56.4
   },
   {
    "s": "GC=F",
-   "p": 4346.9,
-   "c": -0.84,
-   "a50": 4337.48,
-   "a200": 4554.74,
+   "p": 4338.4,
+   "c": -1.04,
+   "a50": 4337.31,
+   "a200": 4554.7,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4459.71,
-   "r": 44.1
+   "a20": 4459.28,
+   "r": 43.4
   },
   {
    "s": "HG=F",
-   "p": 6.83,
-   "c": 2.09,
+   "p": 6.8,
+   "c": 1.67,
    "a50": 6.51,
    "a200": 6.07,
-   "yh": 6.83,
+   "yh": 6.8,
    "yl": 4.57,
    "a20": 6.58,
-   "r": 62.7
+   "r": 61.8
   },
   {
    "s": "TWDUSD",
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "龔明鑫：競爭力輔導團助升級　1.3萬家中小微企業受惠",
+   "t": "8月外銷訂單1029億美元創新高　年增71%連19紅",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220163.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220216.aspx"
   },
   {
    "t": "Burger chain cancels breakfast at hundreds of restaurants",
@@ -344,58 +344,58 @@
    "u": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html"
   },
   {
-   "t": "10月電子期漲　金融期跌",
+   "t": "畢業生求職影響　8月失業率3.41%連3月走升",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220156.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220214.aspx"
   },
   {
-   "t": "Semtech’s (SMTC) LoRa Plus Expansion Is Bigger Than Two New Chips",
+   "t": "Bally’s (BALY)’s Casino Building Spree Triggers a ‘Going Concern’ Warning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/articles/semtech-smtc-lora-plus-expansion-205447567.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bally-baly-casino-building-spree-210836644.html"
   },
   {
-   "t": "台股衝高後漲勢收斂　終場上漲81點創收盤新高",
+   "t": "新台幣升5分　收31.708元",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220155.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220213.aspx"
   },
   {
-   "t": "Chord Energy (CHRD) Signs $550 Million Marcellus Sale. Is Greater Focus Worth it?",
+   "t": "MDA Space (MDA) Bets on Homegrown Innovation with New LaunchPad Ventures Program",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/chord-energy-chrd-signs-550-205447338.html"
+   "u": "https://finance.yahoo.com/small-business/articles/mda-space-mda-bets-homegrown-210735201.html"
   },
   {
-   "t": "10月台股期指漲190點",
+   "t": "金管會：不會用LINE聯繫民眾　慎防二次詐騙",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220154.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220202.aspx"
   },
   {
-   "t": "Willis Lease Finance (WLFC) Bets on Malaysia for Next Phase of Global Expansion",
+   "t": "Jersey Mike’s (JMKE) Owns the Sub Business. Winning Over Younger Diners is the Next Fight",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-bets-205718056.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jersey-mike-jmke-owns-sub-211057214.html"
   },
   {
-   "t": "台股漲81.33點",
+   "t": "房仲調查：看跌房價者降至近3成　逾2成仍傾向先投資股市",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220149.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220200.aspx"
   },
   {
-   "t": "LuxExperience (LUXE) Reports NET-A-PORTER and MR PORTER Growth. Are Customers Returning?",
+   "t": "Bitdeer (BTDR) Fully Contracts A102. Can Signed Demand Become Profitable AI Revenue?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/luxexperience-luxe-reports-net-porter-205013606.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/bitdeer-btdr-fully-contracts-a102-210458313.html"
   },
   {
-   "t": "南山人壽發行3.33億美元次順位債　超額認購逾4倍",
+   "t": "COMPUTEX 2027明年6/1登場　聚焦實體AI應用",
    "pub": "中央社財經",
    "d": "2026-09-22",
-   "u": "https://www.cna.com.tw/news/afe/202609220144.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609220199.aspx"
   },
   {
    "t": "Bank of America says buy tumbling shares of aviation giant",
