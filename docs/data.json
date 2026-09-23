@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 15:50（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 16:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 14.19,
-   "c": -4.57,
+   "p": 14.18,
+   "c": -4.64,
    "a50": 16.08,
    "a200": 18.08,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.38,
-   "c": -3.9,
+   "p": 95.32,
+   "c": -3.96,
    "a50": 92.77,
    "a200": 86.23,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.74,
-   "r": 46.3
+   "a20": 98.73,
+   "r": 46.2
   },
   {
    "s": "GC=F",
-   "p": 4359.0,
-   "c": -0.4,
-   "a50": 4343.85,
+   "p": 4360.2,
+   "c": -0.37,
+   "a50": 4343.88,
    "a200": 4555.47,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4444.41,
-   "r": 44.9
+   "a20": 4444.47,
+   "r": 45.0
   },
   {
    "s": "HG=F",
-   "p": 6.83,
-   "c": 1.01,
+   "p": 6.84,
+   "c": 1.18,
    "a50": 6.52,
    "a200": 6.07,
-   "yh": 6.83,
+   "yh": 6.84,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 62.9
+   "r": 63.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03152585,
-   "c": 0.07,
+   "p": 0.03153579,
+   "c": 0.1,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230166.aspx"
   },
   {
-   "t": "HP Stock Drops After PC Maker Forecasts Industry Sales Decline",
+   "t": "Stocks Settle Sharply Higher as Crude Prices Plunge and Chipmakers Soar",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/hpq-stock-hp-forecasts-pc-industry-sales-decline/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-sharply-higher-crude-203423357.html"
   },
   {
    "t": "10月台指期111點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230164.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High",
+   "t": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo"
+   "u": "https://www.investors.com/news/technology/chip-stocks-amd-stock-four-new-names-join-sox-index/?src=A00220&yptr=yahoo"
   },
   {
    "t": "券商公會成立推廣信任金融工作小組　落實金融回饋",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230162.aspx"
   },
   {
-   "t": "Evercore Just Upgraded Ciena Stock. Here's Why.",
+   "t": "Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/evercore-just-upgraded-ciena-stock-201045130.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股開高走高　漲357.12點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230158.aspx"
   },
   {
-   "t": "Meta stock soars 11% on price target increase, Muse AI downloads",
+   "t": "HP Stock Drops After PC Maker Forecasts Industry Sales Decline",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/meta-stock-soars-11-on-price-target-increase-muse-ai-downloads-180423756.html"
+   "u": "https://www.investors.com/news/technology/hpq-stock-hp-forecasts-pc-industry-sales-decline/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股上漲357點　收48157點再創歷史新高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230154.aspx"
   },
   {
-   "t": "Why Is Vertiv Stock Up Sharply Over The Past Year Yet Well Below Its Peak?",
+   "t": "Critical Metals Surges 38% and These Greenland Stocks Soar on Trump’s Security Deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/why-vertiv-stock-sharply-over-202248626.html"
+   "u": "https://www.barrons.com/articles/critical-metals-stock-greenland-denmark-trump-09d1eee4?siteid=yhoof2&yptr=yahoo"
   }
  ],
  "inst": {
