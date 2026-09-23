@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 15:20（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 15:30（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 47718.84,
-   "c": 1.14,
-   "a50": 45066.14,
-   "a200": 38308.45,
-   "yh": 47741.51,
+   "p": 48157.29,
+   "c": 0.92,
+   "a50": 45134.53,
+   "a200": 38414.67,
+   "yh": 48157.29,
    "yl": 25580.32,
-   "a20": 46405.53,
-   "r": 62.7
+   "a20": 46554.93,
+   "r": 65.1
   },
   {
    "s": "^GSPC",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.87,
-   "c": 0.41,
-   "a50": 16.13,
+   "p": 14.16,
+   "c": -4.77,
+   "a50": 16.08,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.66,
-   "r": 45.4
+   "a20": 15.6,
+   "r": 42.6
   },
   {
    "s": "BZ=F",
-   "p": 98.66,
-   "c": -0.59,
-   "a50": 92.83,
+   "p": 98.97,
+   "c": -0.28,
+   "a50": 92.84,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.9,
-   "r": 51.6
+   "a20": 98.91,
+   "r": 52.2
   },
   {
    "s": "GC=F",
-   "p": 4364.9,
-   "c": -0.26,
-   "a50": 4343.97,
-   "a200": 4555.5,
+   "p": 4362.9,
+   "c": -0.31,
+   "a50": 4343.93,
+   "a200": 4555.49,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4444.7,
-   "r": 45.3
+   "a20": 4444.6,
+   "r": 45.2
   },
   {
    "s": "HG=F",
-   "p": 6.81,
-   "c": 0.69,
+   "p": 6.82,
+   "c": 0.82,
    "a50": 6.52,
    "a200": 6.07,
-   "yh": 6.81,
+   "yh": 6.82,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 62.2
+   "r": 62.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03151592,
-   "c": 0.03,
+   "p": 0.03152585,
+   "c": 0.06,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230166.aspx"
   },
   {
-   "t": "What is a cash advance on a credit card?",
+   "t": "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-is-a-cash-advance-on-a-credit-card-195622056.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html"
   },
   {
    "t": "10月台指期111點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230164.aspx"
   },
   {
-   "t": "Jefferies Just Upgraded Arhaus Stock. Here's Why.",
+   "t": "Summer's Hottest Stocks: These Winners Rose 50% Or More In A Lackluster Stock Market",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jefferies-just-upgraded-arhaus-stock-195924792.html"
+   "u": "https://www.investors.com/news/stock-market-autumn-equinox-summer-sp-500/?src=A00220&yptr=yahoo"
   },
   {
    "t": "券商公會成立推廣信任金融工作小組　落實金融回饋",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230162.aspx"
   },
   {
-   "t": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening",
+   "t": "AI-Fueled Precision Oncology Firm Guardant Health Is In Focus. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/where-opec-riyadh-moscow-silence-200000768.html"
+   "u": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/guardant-health-gh-stock-diagnoses-breakout/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股開高走高　漲357.12點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230158.aspx"
   },
   {
-   "t": "AI-Fueled Precision Oncology Firm Guardant Health Is In Focus. Here's Why.",
+   "t": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/guardant-health-gh-stock-diagnoses-breakout/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/energy/articles/where-opec-riyadh-moscow-silence-200000768.html"
   },
   {
    "t": "台股上漲357點　收48157點再創歷史新高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230154.aspx"
   },
   {
-   "t": "How Far Could Zoom Communications Stock Fall In A Real Market Shock?",
+   "t": "Can Accenture Stock Keep Rising On Growth It Has To Buy?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/far-could-zoom-communications-stock-195415457.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/accenture-stock-keep-rising-growth-200515668.html"
   }
  ],
  "inst": {
