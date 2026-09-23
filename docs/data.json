@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 04:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 04:59（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,24 +289,24 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.46,
-   "c": -0.8,
+   "p": 98.42,
+   "c": -0.84,
    "a50": 92.83,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.89,
-   "r": 51.3
+   "r": 51.2
   },
   {
    "s": "GC=F",
-   "p": 4321.5,
+   "p": 4321.8,
    "c": -1.25,
-   "a50": 4343.1,
+   "a50": 4343.11,
    "a200": 4555.28,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.53,
+   "a20": 4442.55,
    "r": 42.0
   },
   {
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03146633,
-   "c": -0.15,
+   "c": -0.14,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "Why AMD's new $1 trillion valuation makes perfect sense",
+   "t": "Multifamily REITs Are Finally Showing Signs of Recovery — Why Baron Increased UDR (UDR)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/multifamily-reits-finally-showing-signs-122342590.html"
   },
   {
    "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "'SICK conspiracy': Trump dismisses calls to rein in AI as his sons cash in on AI-linked defence and tech investments",
+   "t": "Why AMD's new $1 trillion valuation makes perfect sense",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/sick-conspiracy-trump-dismisses-calls-123000393.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "3M’s CEO Says the Turnaround Is Ahead of Schedule, But PFAS Litigation Keeps Resurfacing",
+   "t": "Saudi Arabia Reportedly Restarts East-West Pipeline",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/3m-ceo-says-turnaround-ahead-122451020.html"
+   "u": "https://finance.yahoo.com/energy/articles/saudi-arabia-reportedly-restarts-east-122302773.html"
   }
  ],
  "inst": {
