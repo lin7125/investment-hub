@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 13:37（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 13:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -14,14 +14,14 @@
   },
   {
    "s": "2317.TW",
-   "p": 256.5,
-   "c": 1.38,
-   "a50": 250.66,
+   "p": 256.0,
+   "c": 1.19,
+   "a50": 250.65,
    "a200": 236.85,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 251.38,
-   "r": 57.4
+   "a20": 251.35,
+   "r": 56.8
   },
   {
    "s": "2308.TW",
@@ -47,14 +47,14 @@
   },
   {
    "s": "2327.TW",
-   "p": 572.0,
-   "c": 0.18,
-   "a50": 579.43,
-   "a200": 474.33,
+   "p": 571.0,
+   "c": 0.0,
+   "a50": 579.41,
+   "a200": 474.32,
    "yh": 1140.0,
    "yl": 166.0,
-   "a20": 555.6,
-   "r": 50.9
+   "a20": 555.55,
+   "r": 50.7
   },
   {
    "s": "1802.TW",
@@ -69,25 +69,25 @@
   },
   {
    "s": "6862.TW",
-   "p": 139.0,
-   "c": 0.36,
-   "a50": 139.55,
+   "p": 138.5,
+   "c": 0.0,
+   "a50": 139.54,
    "a200": 171.8,
    "yh": 228.0,
    "yl": 117.0,
-   "a20": 137.05,
-   "r": 50.8
+   "a20": 137.02,
+   "r": 50.2
   },
   {
    "s": "3701.TW",
-   "p": 41.2,
-   "c": -0.96,
-   "a50": 40.28,
+   "p": 41.6,
+   "c": 0.0,
+   "a50": 40.29,
    "a200": 49.83,
    "yh": 78.6,
    "yl": 29.4,
-   "a20": 41.08,
-   "r": 50.8
+   "a20": 41.1,
+   "r": 52.3
   },
   {
    "s": "4722.TW",
@@ -113,13 +113,13 @@
   },
   {
    "s": "2305.TW",
-   "p": 64.0,
-   "c": 6.67,
-   "a50": 34.33,
+   "p": 63.8,
+   "c": 6.33,
+   "a50": 34.32,
    "a200": 22.28,
-   "yh": 64.0,
+   "yh": 63.8,
    "yl": 10.25,
-   "a20": 41.28,
+   "a20": 41.27,
    "r": 90.0
   },
   {
@@ -179,25 +179,25 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.0,
-   "c": -2.07,
-   "a50": 47.99,
+   "p": 45.35,
+   "c": -1.31,
+   "a50": 48.0,
    "a200": 46.31,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 47.29,
-   "r": 42.2
+   "a20": 47.3,
+   "r": 43.0
   },
   {
    "s": "6223.TWO",
-   "p": 5565.0,
-   "c": 4.12,
-   "a50": 5631.2,
-   "a200": 4509.5,
+   "p": 5600.0,
+   "c": 4.77,
+   "a50": 5631.9,
+   "a200": 4509.68,
    "yh": 7380.0,
    "yl": 1635.0,
-   "a20": 5431.5,
-   "r": 50.2
+   "a20": 5433.25,
+   "r": 50.8
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 48108.24,
-   "c": 0.82,
-   "a50": 45133.55,
-   "a200": 38414.43,
-   "yh": 48108.24,
+   "p": 48086.28,
+   "c": 0.77,
+   "a50": 45133.11,
+   "a200": 38414.32,
+   "yh": 48086.28,
    "yl": 25580.32,
-   "a20": 46552.47,
-   "r": 64.8
+   "a20": 46551.38,
+   "r": 64.7
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.53,
-   "c": -0.73,
+   "p": 98.74,
+   "c": -0.51,
    "a50": 92.83,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.89,
-   "r": 51.4
+   "a20": 98.9,
+   "r": 51.8
   },
   {
    "s": "GC=F",
-   "p": 4379.4,
-   "c": 0.07,
-   "a50": 4344.26,
-   "a200": 4555.57,
+   "p": 4374.1,
+   "c": -0.05,
+   "a50": 4344.16,
+   "a200": 4555.54,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4445.43,
-   "r": 46.6
+   "a20": 4445.16,
+   "r": 46.1
   },
   {
    "s": "HG=F",
    "p": 6.82,
-   "c": 0.94,
+   "c": 0.85,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.82,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 62.8
+   "r": 62.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03152585,
-   "c": 0.05,
+   "p": 0.03154574,
+   "c": 0.11,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230089.aspx"
   },
   {
-   "t": "Loren Finegold, Ed Comber Join Vinson & Elkins NY Practice, Finance & Infrastructure Growth",
+   "t": "Uranium Stocks Are Rallying. Why NXE Got Initiated At Overweight.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/loren-finegold-ed-comber-join-173054582.html"
+   "u": "https://www.investors.com/news/nuclear-smr-stocks-rally-nexgen-energy-nxe-initiated-overweight/?src=A00220&yptr=yahoo"
   },
   {
    "t": "電子水泥強勢　台股盤中揚升541點攀高至48341點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230079.aspx"
   },
   {
-   "t": "SpaceX Has Huge, Unusual Put Options Volume - Is SPCX Set to Fall or Rise From Here?",
+   "t": "Behind the Ticker: Crossmark's Values-Based ETFs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/spacex-huge-unusual-put-options-173002150.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/behind-ticker-crossmarks-values-based-174055390.html"
   },
   {
    "t": "AI熱潮帶動　亞銀上修台灣今年經濟成長至11%",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230071.aspx"
   },
   {
-   "t": "Signal Says This Software Stock Could Soon Break Out",
+   "t": "USAR Stock Alert: USA Rare Earths Jumps on Trump's Greenland Deal Announcement",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/signal-says-software-stock-could-173505415.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/usar-stock-alert-usa-rare-175912959.html"
   },
   {
    "t": "臻鼎-KY完成8億美元ECB訂價　續攻AI高階產品",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230063.aspx"
   },
   {
-   "t": "Halliburton Signs Deals to Expand Venezuela Energy Presence",
+   "t": "Why General Motors Is Now in the Missile Manufacturing Business and What It Means for GM Stock",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/halliburton-signs-deals-expand-venezuela-172503667.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/why-general-motors-now-missile-175953953.html"
   },
   {
    "t": "台積電上漲40元　台股早盤突破48300點漲逾500點",
