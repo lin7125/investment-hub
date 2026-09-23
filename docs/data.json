@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 14:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 14:59（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.45,
-   "c": -0.81,
+   "p": 98.41,
+   "c": -0.85,
    "a50": 92.83,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.89,
-   "r": 51.3
+   "r": 51.2
   },
   {
    "s": "GC=F",
-   "p": 4370.1,
-   "c": -0.14,
-   "a50": 4344.08,
-   "a200": 4555.52,
+   "p": 4373.6,
+   "c": -0.06,
+   "a50": 4344.15,
+   "a200": 4555.54,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4444.96,
-   "r": 45.8
+   "a20": 4445.14,
+   "r": 46.1
   },
   {
    "s": "HG=F",
    "p": 6.82,
-   "c": 0.85,
+   "c": 0.92,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.82,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 62.6
+   "r": 62.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315557,
-   "c": 0.14,
+   "p": 0.03152585,
+   "c": 0.06,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230089.aspx"
   },
   {
-   "t": "‘Substantially Higher Than a Car’: XPeng’s CEO on What Each Robot Could Earn. First It Has to Survive a Brutal Price War.",
+   "t": "Improved Crude Flows Through the Strait of Hormuz Sink Oil Prices",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/substantially-higher-car-xpeng-ceo-190125193.html"
+   "u": "https://finance.yahoo.com/energy/articles/improved-crude-flows-strait-hormuz-191555763.html"
   },
   {
    "t": "電子水泥強勢　台股盤中揚升541點攀高至48341點",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230071.aspx"
   },
   {
-   "t": "Needham Just Upped Its Price Target on OKTA Stock. Here's Why.",
+   "t": "Jim Cramer Says KB Home (KBH) Could Report Weaker Numbers Like Lennar (LEN)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/needham-just-upped-price-target-185554859.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/jim-cramer-says-kb-home-192344492.html"
   },
   {
    "t": "臻鼎-KY完成8億美元ECB訂價　續攻AI高階產品",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230063.aspx"
   },
   {
-   "t": "Livestock Futures Bears Are Growling with Lean Hog Prices Leading the Downside",
+   "t": "Jim Cramer on GameStop (GME): “I’m Willing to Say That That Stock Is a Buy”",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/livestock-futures-bears-growling-lean-190003864.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-gamestop-gme-m-193001444.html"
   },
   {
    "t": "台積電上漲40元　台股早盤突破48300點漲逾500點",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230046.aspx"
   },
   {
-   "t": "SpaceX IPO’d at $1.8 Trillion, Crashed 32%, and Morgan Stanley Still Sees It Doubling",
+   "t": "Paramount reaches historic settlement with states, clearing way for WBD deal",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-d-1-8-190058258.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/paramount-reaches-historic-settlement-states-163136478.html"
   }
  ],
  "inst": {
