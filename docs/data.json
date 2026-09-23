@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 03:26（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 03:36（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 336.39,
-   "c": -0.76,
-   "a50": 321.0,
-   "a200": 286.87,
+   "p": 336.44,
+   "c": -0.97,
+   "a50": 321.5,
+   "a200": 287.16,
    "yh": 340.08,
    "yl": 245.27,
-   "a20": 325.42,
-   "r": 62.8
+   "a20": 326.92,
+   "r": 62.1
   },
   {
    "s": "NVDA",
-   "p": 225.26,
-   "c": -0.93,
-   "a50": 215.04,
-   "a200": 198.84,
+   "p": 225.4,
+   "c": -1.52,
+   "a50": 215.38,
+   "a200": 199.06,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.35,
-   "r": 56.0
+   "a20": 221.15,
+   "r": 55.6
   },
   {
    "s": "TSLA",
-   "p": 380.26,
-   "c": 1.32,
-   "a50": 349.31,
-   "a200": 396.72,
+   "p": 379.76,
+   "c": 0.23,
+   "a50": 348.95,
+   "a200": 396.34,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 361.79,
-   "r": 60.6
+   "a20": 363.2,
+   "r": 60.4
   },
   {
    "s": "META",
-   "p": 747.47,
-   "c": 0.84,
-   "a50": 610.63,
-   "a200": 625.17,
+   "p": 750.04,
+   "c": 1.82,
+   "a50": 612.2,
+   "a200": 625.56,
    "yh": 760.66,
    "yl": 525.72,
-   "a20": 633.6,
-   "r": 78.5
+   "a20": 642.06,
+   "r": 77.6
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7705.68,
-   "c": -0.76,
-   "a50": 7624.83,
-   "a200": 7192.01,
+   "p": 7709.36,
+   "c": -0.71,
+   "a50": 7624.9,
+   "a200": 7192.03,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7666.05,
-   "r": 54.1
+   "a20": 7666.23,
+   "r": 54.3
   },
   {
    "s": "^VIX",
-   "p": 14.96,
-   "c": 0.61,
+   "p": 15.11,
+   "c": 1.61,
    "a50": 16.1,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.64,
-   "r": 45.9
+   "r": 46.6
   },
   {
    "s": "BZ=F",
-   "p": 98.41,
-   "c": -0.85,
+   "p": 98.46,
+   "c": -0.8,
    "a50": 92.83,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.89,
-   "r": 51.2
+   "r": 51.3
   },
   {
    "s": "GC=F",
-   "p": 4320.4,
-   "c": -1.28,
-   "a50": 4343.08,
-   "a200": 4555.27,
+   "p": 4322.3,
+   "c": -1.24,
+   "a50": 4343.12,
+   "a200": 4555.28,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.48,
-   "r": 41.9
+   "a20": 4442.57,
+   "r": 42.1
   },
   {
    "s": "HG=F",
    "p": 6.77,
-   "c": 0.13,
+   "c": 0.16,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 60.7
+   "r": 60.8
   },
   {
    "s": "TWDUSD",
    "p": 0.03147624,
-   "c": -0.1,
+   "c": -0.11,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "Is Bunge Global Stock Outperforming the S&P 500?",
+   "t": "Stock Index Futures Muted as Chip Rally Stalls; Oil Falls on Report Iran Offered to Reopen Hormuz",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/bunge-global-stock-outperforming-p-102357974.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-muted-chip-102850723.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "Mastercard Is Letting AI Agents Spend Your Money. Its Partner Says ‘The Checkout Button Is Dying,’ and a Separate $1.8 Billion Bet Shows Why Mastercard Believes It.",
+   "t": "Roivant (ROIV): $9 Billion Sales Potential Faces a Commercialization Test",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/mastercard-letting-ai-agents-spend-103044038.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/roivant-roiv-9-billion-sales-102730498.html"
   },
   {
    "t": "今彩539第115231期開獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609230339.aspx"
   },
   {
-   "t": "1 in 5 Americans thinks sports betting is an ‘investment’ — but the data says something different",
+   "t": "Airlines are cutting capacity again amid $1B surge in Q4 fuel costs — here's what that means for travelers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/1-5-americans-thinks-sports-101500032.html"
+   "u": "https://finance.yahoo.com/economy/articles/airlines-cutting-capacity-again-amid-103000279.html"
   }
  ],
  "inst": {
