@@ -300,25 +300,25 @@
   },
   {
    "s": "GC=F",
-   "p": 4320.3,
+   "p": 4320.4,
    "c": -1.28,
    "a50": 4343.08,
    "a200": 4555.27,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.47,
+   "a20": 4442.48,
    "r": 41.9
   },
   {
    "s": "HG=F",
    "p": 6.78,
-   "c": 0.33,
+   "c": 0.29,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 61.2
+   "r": 61.1
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240003.aspx"
   },
   {
-   "t": "As Amazon Stock Prospers, Traders Might Consider This Option Play",
+   "t": "Nvidia Stock is Historically Cheap. The Decade-Low Multiple Reflects Risks, But This Looks Like a Can't-Miss Buy Opportunity for NVDA.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/amazon-amzn-stock-bull-put-spread-options/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-historically-cheap-decade-160406626.html"
   },
   {
    "t": "今彩539第115231期　頭獎3注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609230358.aspx"
   },
   {
-   "t": "Nvidia Stock is Historically Cheap. The Decade-Low Multiple Reflects Risks, But This Looks Like a Can't-Miss Buy Opportunity for NVDA.",
+   "t": "As Amazon Stock Prospers, Traders Might Consider This Option Play",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-historically-cheap-decade-160406626.html"
+   "u": "https://www.investors.com/research/options/amazon-amzn-stock-bull-put-spread-options/?src=A00220&yptr=yahoo"
   },
   {
    "t": "鑫創營運虧損擬調整業務方向　11/23起分批資遣部分員工",
