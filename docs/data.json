@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 02:45（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 02:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,41 +212,41 @@
   },
   {
    "s": "AAPL",
-   "p": 336.87,
-   "c": -0.62,
+   "p": 337.18,
+   "c": -0.53,
    "a50": 321.01,
    "a200": 286.87,
    "yh": 340.08,
    "yl": 245.27,
-   "a20": 325.45,
-   "r": 63.4
+   "a20": 325.46,
+   "r": 63.8
   },
   {
    "s": "NVDA",
-   "p": 225.35,
-   "c": -0.89,
+   "p": 225.27,
+   "c": -0.93,
    "a50": 215.04,
    "a200": 198.84,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 220.36,
-   "r": 56.1
+   "a20": 220.35,
+   "r": 56.0
   },
   {
    "s": "TSLA",
-   "p": 380.18,
-   "c": 1.3,
-   "a50": 349.3,
+   "p": 379.55,
+   "c": 1.13,
+   "a50": 349.29,
    "a200": 396.72,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 361.78,
-   "r": 60.6
+   "a20": 361.75,
+   "r": 60.3
   },
   {
    "s": "META",
-   "p": 748.18,
-   "c": 0.93,
+   "p": 748.24,
+   "c": 0.94,
    "a50": 610.65,
    "a200": 625.17,
    "yh": 760.66,
@@ -267,58 +267,58 @@
   },
   {
    "s": "^GSPC",
-   "p": 7708.55,
+   "p": 7708.74,
    "c": -0.72,
    "a50": 7624.89,
-   "a200": 7192.02,
+   "a200": 7192.03,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7666.19,
+   "a20": 7666.2,
    "r": 54.3
   },
   {
    "s": "^VIX",
-   "p": 14.95,
-   "c": 0.54,
+   "p": 15.09,
+   "c": 1.48,
    "a50": 16.1,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.63,
-   "r": 45.8
+   "a20": 15.64,
+   "r": 46.5
   },
   {
    "s": "BZ=F",
-   "p": 98.61,
-   "c": -0.64,
+   "p": 98.67,
+   "c": -0.58,
    "a50": 92.83,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.9,
-   "r": 51.5
+   "r": 51.6
   },
   {
    "s": "GC=F",
-   "p": 4322.6,
-   "c": -1.23,
-   "a50": 4343.13,
-   "a200": 4555.28,
+   "p": 4319.9,
+   "c": -1.29,
+   "a50": 4343.07,
+   "a200": 4555.27,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.59,
-   "r": 42.1
+   "a20": 4442.45,
+   "r": 41.9
   },
   {
    "s": "HG=F",
    "p": 6.75,
-   "c": -0.07,
+   "c": -0.1,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 60.1
+   "r": 59.9
   },
   {
    "s": "TWDUSD",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609230358.aspx"
   },
   {
-   "t": "How Is News Corporation's Stock Performance Compared to Other Communication Services Stocks?",
+   "t": "How Is AES Corporation's Stock Performance Compared to Other Utility Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/news-corporations-stock-performance-compared-094348036.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/aes-corporations-stock-performance-compared-094200159.html"
   },
   {
    "t": "鑫創營運虧損擬調整業務方向　11/23起分批資遣部分員工",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "How Is AES Corporation's Stock Performance Compared to Other Utility Stocks",
+   "t": "How Is News Corporation's Stock Performance Compared to Other Communication Services Stocks?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/aes-corporations-stock-performance-compared-094200159.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/news-corporations-stock-performance-compared-094348036.html"
   },
   {
    "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "Expedia Group Stock: Is EXPE Outperforming the Consumer Cyclical Sector?",
+   "t": "Mark Cuban says healthcare companies are sued daily, usually lose and are 'too big to care.' He has a better solution",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-stock-expe-outperforming-092050152.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/mark-cuban-says-healthcare-companies-100000881.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "Nvidia CEO Jensen Huang says ‘nothing would give me more joy’ than to pay more taxes: ‘I'm just afraid of being poor’",
+   "t": "Dogecoin Targets 30% Surge Following $12.66M Short Squeeze",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/policy/articles/nvidia-ceo-jensen-huang-says-091500918.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-targets-30-surge-following-100106959.html"
   },
   {
    "t": "今彩539第115231期開獎",
