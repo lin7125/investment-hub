@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 04:28（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 04:38（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 15.17,
-   "c": 2.02,
+   "p": 15.18,
+   "c": 2.08,
    "a50": 16.1,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.65,
-   "r": 46.9
+   "r": 47.0
   },
   {
    "s": "BZ=F",
-   "p": 98.63,
-   "c": -0.62,
+   "p": 98.61,
+   "c": -0.64,
    "a50": 92.83,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.9,
-   "r": 51.6
+   "r": 51.5
   },
   {
    "s": "GC=F",
-   "p": 4321.8,
-   "c": -1.25,
-   "a50": 4343.11,
-   "a200": 4555.28,
+   "p": 4320.3,
+   "c": -1.28,
+   "a50": 4343.08,
+   "a200": 4555.27,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.55,
-   "r": 42.0
+   "a20": 4442.47,
+   "r": 41.9
   },
   {
    "s": "HG=F",
    "p": 6.78,
-   "c": 0.29,
+   "c": 0.27,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03146633,
-   "c": -0.13,
+   "c": -0.14,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "市場評估美伊協議可能性　歐股收跌油價走高",
+   "t": "美PMI強勁添升息疑慮　10年期美債殖利率創19年新高",
    "pub": "中央社財經",
    "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/afe/202609240003.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609240008.aspx"
   },
   {
    "t": "Kalshi asks CFTC to allow margin trading on prediction markets",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html"
   },
   {
-   "t": "今彩539第115231期　頭獎3注中獎",
+   "t": "市場評估美伊協議可能性　歐股收跌油價走高",
    "pub": "中央社財經",
-   "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/ahel/202609230358.aspx"
+   "d": "2026-09-24",
+   "u": "https://www.cna.com.tw/news/afe/202609240003.aspx"
   },
   {
    "t": "Bessent just picked the one wage measure still rising",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html"
   },
   {
-   "t": "鑫創營運虧損擬調整業務方向　11/23起分批資遣部分員工",
+   "t": "今彩539第115231期　頭獎3注中獎",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202609230358.aspx"
   },
   {
    "t": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
@@ -368,16 +368,28 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html"
   },
   {
+   "t": "鑫創營運虧損擬調整業務方向　11/23起分批資遣部分員工",
+   "pub": "中央社財經",
+   "d": "2026-09-23",
+   "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
+  },
+  {
+   "t": "Favorable Supply/Demand Backdrop Positions Essex Property Trust (ESS) For Growth",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/real-estate/articles/favorable-supply-demand-backdrop-positions-120256791.html"
+  },
+  {
    "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
    "pub": "中央社財經",
    "d": "2026-09-23",
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "MiniMed (MMED): Nine Analysts Raised Targets, But Cash Flow Still Has a Catch",
+   "t": "Is Fox Corporation Stock Underperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/minimed-mmed-nine-analysts-raised-115543360.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fox-corporation-stock-underperforming-p-121812686.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
@@ -386,22 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "How Is Workday’s Stock Performance Compared to Other Software Stocks",
+   "t": "Netskope (NTSK): Eight Analysts Raised Targets on the AI Security Opportunity, But the Cash Burn Is Real",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/workday-stock-performance-compared-other-115141761.html"
-  },
-  {
-   "t": "今彩539第115231期開獎",
-   "pub": "中央社財經",
-   "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/ahel/202609230339.aspx"
-  },
-  {
-   "t": "VS&Co (VSXY): Wall Street Debates Whether the Turnaround Is Already Priced In",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/vs-co-vsxy-wall-street-115740561.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-eight-analysts-raised-120822344.html"
   }
  ],
  "inst": {
