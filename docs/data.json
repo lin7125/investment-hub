@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 16:31（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 16:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.63,
-   "c": -3.65,
-   "a50": 92.77,
+   "p": 95.96,
+   "c": -3.31,
+   "a50": 92.78,
    "a200": 86.23,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.75,
-   "r": 46.7
+   "a20": 98.76,
+   "r": 47.1
   },
   {
    "s": "GC=F",
-   "p": 4357.0,
-   "c": -0.44,
-   "a50": 4343.81,
-   "a200": 4555.46,
+   "p": 4354.3,
+   "c": -0.5,
+   "a50": 4343.76,
+   "a200": 4555.44,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4444.31,
-   "r": 44.7
+   "a20": 4444.17,
+   "r": 44.5
   },
   {
    "s": "HG=F",
    "p": 6.83,
-   "c": 1.11,
+   "c": 0.99,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.83,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 63.2
+   "r": 62.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03150599,
-   "c": 0.01,
+   "p": 0.0315557,
+   "c": 0.14,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230216.aspx"
   },
   {
-   "t": "Stocks Settle Sharply Higher as Crude Prices Plunge and Chipmakers Soar",
+   "t": "AMD Stock Alert: Advanced Micro Devices Joins the Trillion-Dollar Club",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-sharply-higher-crude-203423357.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-alert-advanced-micro-205135877.html"
   },
   {
    "t": "鈊象：下半年營運優於上半年　美國列短期發展重心",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230215.aspx"
   },
   {
-   "t": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
+   "t": "Wells Fargo Cuts Netflix (NFLX) to Underweight as its 2026 Slide Deepens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/news/technology/chip-stocks-amd-stock-four-new-names-join-sox-index/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-cuts-netflix-nflx-205315969.html"
   },
   {
    "t": "星宇航空攜手美國航空聯營　延伸北美內陸航點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230208.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Up, Nasdaq Roars To Record As Micron Does This; AMD Hits New High",
+   "t": "How to Play CrowdStrike Stock at All-Time Highs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/play-crowdstrike-stock-time-highs-205405169.html"
   },
   {
    "t": "台北紡織展10/6登場　聚焦永續、機能與智慧製造",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230205.aspx"
   },
   {
-   "t": "Bitcoin Price Climbs Above $86,000",
+   "t": "Google, Apple's new job postings go viral",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/bitcoin-climbs-above-85-000-after-etf-inflows-strategy-purchases-qgos9wls2EyYjd7Wbcs4?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/google-apples-job-postings-viral-204740368.html"
   }
  ],
  "inst": {
