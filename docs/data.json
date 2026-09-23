@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 03:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 03:26（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,14 +212,14 @@
   },
   {
    "s": "AAPL",
-   "p": 336.52,
-   "c": -0.73,
+   "p": 336.39,
+   "c": -0.76,
    "a50": 321.0,
    "a200": 286.87,
    "yh": 340.08,
    "yl": 245.27,
-   "a20": 325.43,
-   "r": 62.9
+   "a20": 325.42,
+   "r": 62.8
   },
   {
    "s": "NVDA",
@@ -234,20 +234,20 @@
   },
   {
    "s": "TSLA",
-   "p": 379.99,
-   "c": 1.25,
-   "a50": 349.3,
+   "p": 380.26,
+   "c": 1.32,
+   "a50": 349.31,
    "a200": 396.72,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 361.77,
-   "r": 60.5
+   "a20": 361.79,
+   "r": 60.6
   },
   {
    "s": "META",
-   "p": 747.52,
-   "c": 0.85,
-   "a50": 610.64,
+   "p": 747.47,
+   "c": 0.84,
+   "a50": 610.63,
    "a200": 625.17,
    "yh": 760.66,
    "yl": 525.72,
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7707.63,
-   "c": -0.73,
-   "a50": 7624.87,
-   "a200": 7192.02,
+   "p": 7705.68,
+   "c": -0.76,
+   "a50": 7624.83,
+   "a200": 7192.01,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7666.15,
-   "r": 54.2
+   "a20": 7666.05,
+   "r": 54.1
   },
   {
    "s": "^VIX",
-   "p": 14.94,
-   "c": 0.47,
+   "p": 14.96,
+   "c": 0.61,
    "a50": 16.1,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.63,
-   "r": 45.8
+   "a20": 15.64,
+   "r": 45.9
   },
   {
    "s": "BZ=F",
-   "p": 98.25,
-   "c": -1.01,
-   "a50": 92.82,
+   "p": 98.41,
+   "c": -0.85,
+   "a50": 92.83,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.88,
-   "r": 50.9
+   "a20": 98.89,
+   "r": 51.2
   },
   {
    "s": "GC=F",
-   "p": 4325.0,
-   "c": -1.17,
-   "a50": 4343.17,
-   "a200": 4555.3,
+   "p": 4320.4,
+   "c": -1.28,
+   "a50": 4343.08,
+   "a200": 4555.27,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.71,
-   "r": 42.2
+   "a20": 4442.48,
+   "r": 41.9
   },
   {
    "s": "HG=F",
-   "p": 6.75,
-   "c": -0.08,
+   "p": 6.77,
+   "c": 0.13,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 60.0
+   "r": 60.7
   },
   {
    "s": "TWDUSD",
    "p": 0.03147624,
-   "c": -0.11,
+   "c": -0.1,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
+   "t": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html"
   },
   {
    "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "Stellantis (STLA) Reportedly Eyes $1.16 Billion France Van Investment",
+   "t": "Is Bunge Global Stock Outperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stla-reportedly-eyes-1-100646836.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bunge-global-stock-outperforming-p-102357974.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "1 in 5 Americans thinks sports betting is an ‘investment’ — but the data says something different",
+   "t": "Mastercard Is Letting AI Agents Spend Your Money. Its Partner Says ‘The Checkout Button Is Dying,’ and a Separate $1.8 Billion Bet Shows Why Mastercard Believes It.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/1-5-americans-thinks-sports-101500032.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/mastercard-letting-ai-agents-spend-103044038.html"
   },
   {
    "t": "今彩539第115231期開獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609230339.aspx"
   },
   {
-   "t": "As Trump and Xi meet, investors play both sides of AI divide",
+   "t": "1 in 5 Americans thinks sports betting is an ‘investment’ — but the data says something different",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/trump-xi-meet-investors-play-085656582.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/1-5-americans-thinks-sports-101500032.html"
   }
  ],
  "inst": {
