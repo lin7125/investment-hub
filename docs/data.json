@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 17:23（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 17:33（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.14,
-   "c": -4.91,
+   "p": 14.15,
+   "c": -4.84,
    "a50": 16.08,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.59,
-   "r": 42.5
+   "r": 42.6
   },
   {
    "s": "BZ=F",
-   "p": 95.77,
-   "c": -3.51,
+   "p": 95.48,
+   "c": -3.8,
    "a50": 92.77,
    "a200": 86.23,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.75,
-   "r": 46.9
+   "a20": 98.74,
+   "r": 46.4
   },
   {
    "s": "GC=F",
-   "p": 4356.6,
-   "c": -0.45,
-   "a50": 4343.81,
+   "p": 4355.1,
+   "c": -0.49,
+   "a50": 4343.78,
    "a200": 4555.45,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4444.29,
-   "r": 44.7
+   "a20": 4444.21,
+   "r": 44.5
   },
   {
    "s": "HG=F",
    "p": 6.84,
-   "c": 1.2,
+   "c": 1.12,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.84,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 63.4
+   "r": 63.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315856,
-   "c": 0.25,
+   "p": 0.03159558,
+   "c": 0.29,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230215.aspx"
   },
   {
-   "t": "Work from home? Here are 5 ways to save money on remote work expenses.",
+   "t": "Weekly survey of mortgage lenders with the lowest rates: Sub-6% rates disappearing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-money-working-from-home-142616852.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-september-21-170834159.html"
   },
   {
    "t": "星宇航空攜手美國航空聯營　延伸北美內陸航點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230208.aspx"
   },
   {
-   "t": "Weekly survey of mortgage lenders with the lowest rates: Sub-6% rates disappearing",
+   "t": "Work from home? Here are 5 ways to save money on remote work expenses.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-september-21-170834159.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-money-working-from-home-142616852.html"
   },
   {
    "t": "台北紡織展10/6登場　聚焦永續、機能與智慧製造",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230205.aspx"
   },
   {
-   "t": "Celsius Insiders Just Bought $1.8M of Stock Near Multi-Year Lows. Is the Worst Priced In?",
+   "t": "Robotaxis crash less. So why isn't your insurance cheaper?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/celsius-insiders-just-bought-1-232118652.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/robotaxis-crash-less-why-isnt-232416976.html"
   }
  ],
  "inst": {
