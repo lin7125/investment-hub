@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 07:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 07:13（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.9,
-   "c": -1.36,
+   "p": 97.87,
+   "c": -1.39,
    "a50": 92.82,
    "a200": 86.24,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.86,
-   "r": 50.3
+   "r": 50.2
   },
   {
    "s": "GC=F",
-   "p": 4323.5,
-   "c": -1.21,
-   "a50": 4343.14,
+   "p": 4324.1,
+   "c": -1.2,
+   "a50": 4343.16,
    "a200": 4555.29,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.63,
-   "r": 42.1
+   "a20": 4442.66,
+   "r": 42.2
   },
   {
    "s": "HG=F",
    "p": 6.79,
-   "c": 0.44,
+   "c": 0.43,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03145643,
-   "c": -0.35,
+   "c": -0.34,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "Marram Exits PayPal Holdings (PYPL) Due to Thesis Breakdown",
+   "t": "Soybean Oil Prices Are Falling as Crude Sells Off. 1 Trade to Make Here.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/marram-exits-paypal-holdings-pypl-150511889.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/soybean-oil-prices-falling-crude-152215339.html"
   },
   {
    "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "Huawei Is Ramping Up to New Chips in 2027. What That Means for Nvidia Stock Now.",
+   "t": "Is News Corporation Stock Underperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/huawei-ramping-chips-2027-means-150002001.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/news-corporation-stock-underperforming-p-152219343.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "Why Muse just added billions to Meta's market cap",
+   "t": "Maximus’ (MMS) Tech Capabilities and Beaten-Down Valuation Point to M&A Upside",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/article/why-muse-just-added-billions-to-metas-market-cap-094853229.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/maximus-mms-tech-capabilities-beaten-152142153.html"
   }
  ],
  "inst": {
