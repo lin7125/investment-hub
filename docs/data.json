@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 06:21（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 06:32（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,36 +289,36 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.22,
-   "c": -1.04,
-   "a50": 92.82,
+   "p": 98.3,
+   "c": -0.96,
+   "a50": 92.83,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.88,
-   "r": 50.8
+   "r": 51.0
   },
   {
    "s": "GC=F",
-   "p": 4323.9,
-   "c": -1.2,
-   "a50": 4343.15,
-   "a200": 4555.29,
+   "p": 4322.7,
+   "c": -1.23,
+   "a50": 4343.13,
+   "a200": 4555.28,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.65,
-   "r": 42.2
+   "a20": 4442.59,
+   "r": 42.1
   },
   {
    "s": "HG=F",
    "p": 6.79,
-   "c": 0.43,
+   "c": 0.4,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 61.5
+   "r": 61.4
   },
   {
    "s": "TWDUSD",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "Will the housing market crash this year? What to expect for the rest of 2026.",
+   "t": "GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-this-year-what-to-expect-for-the-rest-of-2026-170038540.html"
+   "u": "https://finance.yahoo.com/markets/article/gamestop-stock-jumps-as-ceo-ryan-cohen-buys-26-million-in-shares-142827905.html"
   },
   {
    "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "Sonida Senior Living (SNDA) Poised for Strong Performance Over the Next Several Years",
+   "t": "How Is Gen Digital's Stock Performance Compared to Other Software - Infrastructure Stocks?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/sonida-senior-living-snda-poised-141451416.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/gen-digitals-stock-performance-compared-142916396.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "Stocks Supported as Crude Oil Prices Ease",
+   "t": "This Fund Trimmed Murphy USA (MUSA) Amid Fuel Margin Strengths",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-crude-oil-prices-141506095.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-murphy-usa-musa-142800363.html"
   }
  ],
  "inst": {
