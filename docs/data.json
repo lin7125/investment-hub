@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 17:53（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 19:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 14.14,
-   "c": -4.91,
-   "a50": 16.08,
+   "p": 14.35,
+   "c": -3.5,
+   "a50": 16.09,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.59,
-   "r": 42.5
+   "a20": 15.61,
+   "r": 43.3
   },
   {
    "s": "BZ=F",
-   "p": 95.76,
-   "c": -3.52,
-   "a50": 92.77,
-   "a200": 86.23,
+   "p": 96.19,
+   "c": -3.08,
+   "a50": 92.78,
+   "a200": 86.24,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.75,
-   "r": 46.8
+   "a20": 98.78,
+   "r": 47.5
   },
   {
    "s": "GC=F",
-   "p": 4351.7,
-   "c": -0.56,
-   "a50": 4343.71,
-   "a200": 4555.43,
+   "p": 4343.0,
+   "c": -0.76,
+   "a50": 4343.53,
+   "a200": 4555.39,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4444.04,
-   "r": 44.3
+   "a20": 4443.61,
+   "r": 43.6
   },
   {
    "s": "HG=F",
-   "p": 6.82,
-   "c": 0.91,
+   "p": 6.8,
+   "c": 0.64,
    "a50": 6.52,
    "a200": 6.07,
-   "yh": 6.82,
+   "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 62.7
+   "r": 62.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03154574,
-   "c": 0.12,
+   "p": 0.03157562,
+   "c": 0.23,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "AI需求暢旺　8月工業生產指數創新高、年增23.47%",
+   "t": "永續揭露門檻調整　金管會：強制適用家數降至560家",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230221.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230320.aspx"
   },
   {
    "t": "Kalshi asks CFTC to allow margin trading on prediction markets",
@@ -344,64 +344,64 @@
    "u": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html"
   },
   {
-   "t": "聯合再生能源攜手中美晶赴美設廠　拚明年第3季量產",
+   "t": "童子賢稱讚東擎業績拚200分　喻上市如放風箏要飛得漂亮",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230217.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230317.aspx"
   },
   {
-   "t": "Best Wells Fargo credit cards (2026)",
+   "t": "Bitcoin and ethereum prices today, Wednesday, September 23, 2026: Crypto prices open near 8-month highs. Is the crypto winter over?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-wells-fargo-credit-cards-164310496.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-23-2026-crypto-prices-open-near-8-month-highs-is-the-crypto-winter-over-113908671.html"
   },
   {
-   "t": "新台幣貶0.8分　收31.716元",
+   "t": "童子賢：代理式AI加速應用落地　台灣製造業持續受惠",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230216.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230316.aspx"
   },
   {
-   "t": "How to start buying crypto with $100",
+   "t": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-crypto-with-100-155125790.html"
+   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo"
   },
   {
-   "t": "鈊象：下半年營運優於上半年　美國列短期發展重心",
+   "t": "8月批發業營業額1.8兆元創新高　經部估9月首破2兆元",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230215.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230315.aspx"
   },
   {
-   "t": "Weekly survey of mortgage lenders with the lowest rates: Sub-6% rates disappearing",
+   "t": "A 70-year-old owes $200,000 in parent student loans for his kids — experts warn against draining retirement to pay it",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-september-21-170834159.html"
+   "u": "https://finance.yahoo.com/small-business/articles/70-old-owes-200-000-113000217.html"
   },
   {
-   "t": "星宇航空攜手美國航空聯營　延伸北美內陸航點",
+   "t": "台股散戶信心回流　8月證券劃撥存款餘額衝4.57兆創高",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230208.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230312.aspx"
   },
   {
-   "t": "Vicor (VICR) Licenses its Power Patents to Another AI System Maker. Shares Jump 18%",
+   "t": "Silver price today, Wednesday, September 23, 2026:  Silver prices settle ahead of key U.S.-China summit",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/vicor-vicr-licenses-power-patents-232418002.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-23-2026-silver-prices-settle-ahead-of-key-us-china-summit-111845856.html"
   },
   {
-   "t": "台北紡織展10/6登場　聚焦永續、機能與智慧製造",
+   "t": "燁輝投入8.04億認購燁聯私募　強化上游料源",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230205.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230309.aspx"
   },
   {
-   "t": "Fidelity Says the Average 401(k) Balance Hit $155,800. As Much as $34,000 of That Belongs to the IRS, and the Bill Grows Every Year It Sits Untouched",
+   "t": "My Prediction: American Stock Ownership Will Drop to 54% by 2030. One Sector Is Driving It.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/articles/fidelity-says-average-401-k-233948786.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/prediction-american-stock-ownership-drop-114200885.html"
   }
  ],
  "inst": {
@@ -414,8 +414,8 @@
    },
    "2330": {
     "f": 7123,
-    "t": -974,
-    "all": 6473
+    "t": -1143,
+    "all": 6304
    },
    "2454": {
     "f": 496,
@@ -424,8 +424,8 @@
    },
    "2308": {
     "f": -140,
-    "t": 190,
-    "all": 114
+    "t": 211,
+    "all": 135
    },
    "4722": {
     "f": 55,
@@ -478,6 +478,6 @@
     "all": -5434
    }
   },
-  "totalNetE": 389.2
+  "totalNetE": 383.8
  }
 }
