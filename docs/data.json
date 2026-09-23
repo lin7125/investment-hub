@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 06:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 06:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.3,
-   "c": -0.96,
-   "a50": 92.83,
+   "p": 98.21,
+   "c": -1.05,
+   "a50": 92.82,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.88,
-   "r": 51.0
+   "r": 50.8
   },
   {
    "s": "GC=F",
-   "p": 4322.7,
-   "c": -1.23,
-   "a50": 4343.13,
-   "a200": 4555.28,
+   "p": 4323.3,
+   "c": -1.21,
+   "a50": 4343.14,
+   "a200": 4555.29,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.59,
+   "a20": 4442.62,
    "r": 42.1
   },
   {
    "s": "HG=F",
    "p": 6.79,
-   "c": 0.4,
+   "c": 0.46,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 61.4
+   "r": 61.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03145643,
-   "c": -0.18,
+   "c": -0.16,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares",
+   "t": "Meta’s Muse Is Dominating the App Store. What This Means for META Stock.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/gamestop-stock-jumps-as-ceo-ryan-cohen-buys-26-million-in-shares-142827905.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/meta-muse-dominating-app-store-144019978.html"
   },
   {
    "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "How Is Gen Digital's Stock Performance Compared to Other Software - Infrastructure Stocks?",
+   "t": "Trump Accounts could help lower-income families most. Few have signed up.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/gen-digitals-stock-performance-compared-142916396.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "This Fund Trimmed Murphy USA (MUSA) Amid Fuel Margin Strengths",
+   "t": "GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-murphy-usa-musa-142800363.html"
+   "u": "https://finance.yahoo.com/markets/article/gamestop-stock-jumps-as-ceo-ryan-cohen-buys-26-million-in-shares-142827905.html"
   }
  ],
  "inst": {
