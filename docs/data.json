@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 15:09（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 15:20（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 45.15,
-   "c": -1.74,
+   "p": 45.1,
+   "c": -1.85,
    "a50": 47.99,
    "a200": 46.31,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 47.29,
-   "r": 42.5
+   "r": 42.4
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 48157.29,
-   "c": 0.92,
-   "a50": 45134.53,
-   "a200": 38414.67,
-   "yh": 48157.29,
+   "p": 47718.84,
+   "c": 1.14,
+   "a50": 45066.14,
+   "a200": 38308.45,
+   "yh": 47741.51,
    "yl": 25580.32,
-   "a20": 46554.93,
-   "r": 65.1
+   "a20": 46405.53,
+   "r": 62.7
   },
   {
    "s": "^GSPC",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.76,
-   "c": -0.49,
+   "p": 98.66,
+   "c": -0.59,
    "a50": 92.83,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.9,
-   "r": 51.8
+   "r": 51.6
   },
   {
    "s": "GC=F",
-   "p": 4368.0,
-   "c": -0.19,
-   "a50": 4344.03,
-   "a200": 4555.51,
+   "p": 4364.9,
+   "c": -0.26,
+   "a50": 4343.97,
+   "a200": 4555.5,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4444.86,
-   "r": 45.6
+   "a20": 4444.7,
+   "r": 45.3
   },
   {
    "s": "HG=F",
    "p": 6.81,
-   "c": 0.72,
+   "c": 0.69,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.81,
@@ -322,8 +322,8 @@
   },
   {
    "s": "TWDUSD",
-   "p": 0.03153579,
-   "c": 0.08,
+   "p": 0.03151592,
+   "c": 0.03,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230166.aspx"
   },
   {
-   "t": "Improved Crude Flows Through the Strait of Hormuz Sink Oil Prices",
+   "t": "What is a cash advance on a credit card?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/improved-crude-flows-strait-hormuz-191555763.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/what-is-a-cash-advance-on-a-credit-card-195622056.html"
   },
   {
    "t": "10月台指期111點",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230164.aspx"
   },
   {
-   "t": "Moderna (MRNA) Soars to Fresh High Ahead of Pipeline Updates This Week",
+   "t": "Jefferies Just Upgraded Arhaus Stock. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/moderna-mrna-soars-fresh-high-191331309.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jefferies-just-upgraded-arhaus-stock-195924792.html"
   },
   {
    "t": "券商公會成立推廣信任金融工作小組　落實金融回饋",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230162.aspx"
   },
   {
-   "t": "Jim Cramer Says KB Home (KBH) Could Report Weaker Numbers Like Lennar (LEN)",
+   "t": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/jim-cramer-says-kb-home-192344492.html"
+   "u": "https://finance.yahoo.com/energy/articles/where-opec-riyadh-moscow-silence-200000768.html"
   },
   {
    "t": "台股開高走高　漲357.12點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230158.aspx"
   },
   {
-   "t": "Jim Cramer on GameStop (GME): “I’m Willing to Say That That Stock Is a Buy”",
+   "t": "AI-Fueled Precision Oncology Firm Guardant Health Is In Focus. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-gamestop-gme-m-193001444.html"
+   "u": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/guardant-health-gh-stock-diagnoses-breakout/?src=A00220&yptr=yahoo"
   },
   {
    "t": "台股上漲357點　收48157點再創歷史新高",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230154.aspx"
   },
   {
-   "t": "Paramount reaches historic settlement with states, clearing way for WBD deal",
+   "t": "How Far Could Zoom Communications Stock Fall In A Real Market Shock?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/paramount-reaches-historic-settlement-states-163136478.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/far-could-zoom-communications-stock-195415457.html"
   }
  ],
  "inst": {
