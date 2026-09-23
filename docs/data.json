@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 04:48（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 04:58（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.71,
-   "c": -0.54,
+   "p": 98.46,
+   "c": -0.8,
    "a50": 92.83,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.9,
-   "r": 51.7
+   "a20": 98.89,
+   "r": 51.3
   },
   {
    "s": "GC=F",
-   "p": 4319.7,
-   "c": -1.3,
-   "a50": 4343.07,
-   "a200": 4555.27,
+   "p": 4321.5,
+   "c": -1.25,
+   "a50": 4343.1,
+   "a200": 4555.28,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.44,
-   "r": 41.9
+   "a20": 4442.53,
+   "r": 42.0
   },
   {
    "s": "HG=F",
    "p": 6.78,
-   "c": 0.33,
+   "c": 0.37,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 61.2
+   "r": 61.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03147624,
-   "c": -0.09,
+   "p": 0.03146633,
+   "c": -0.15,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "Favorable Supply/Demand Backdrop Positions Essex Property Trust (ESS) For Growth",
+   "t": "Why AMD's new $1 trillion valuation makes perfect sense",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/favorable-supply-demand-backdrop-positions-120256791.html"
+   "u": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html"
   },
   {
    "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "Is Fox Corporation Stock Underperforming the S&P 500?",
+   "t": "'SICK conspiracy': Trump dismisses calls to rein in AI as his sons cash in on AI-linked defence and tech investments",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/fox-corporation-stock-underperforming-p-121812686.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/sick-conspiracy-trump-dismisses-calls-123000393.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "Netskope (NTSK): Eight Analysts Raised Targets on the AI Security Opportunity, But the Cash Burn Is Real",
+   "t": "3M’s CEO Says the Turnaround Is Ahead of Schedule, But PFAS Litigation Keeps Resurfacing",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-eight-analysts-raised-120822344.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/3m-ceo-says-turnaround-ahead-122451020.html"
   }
  ],
  "inst": {
