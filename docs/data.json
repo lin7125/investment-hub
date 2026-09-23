@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 17:43（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 17:53（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 14.13,
-   "c": -4.98,
+   "p": 14.14,
+   "c": -4.91,
    "a50": 16.08,
    "a200": 18.08,
    "yh": 31.05,
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.71,
-   "c": -3.57,
+   "p": 95.76,
+   "c": -3.52,
    "a50": 92.77,
    "a200": 86.23,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4353.3,
-   "c": -0.53,
-   "a50": 4343.74,
-   "a200": 4555.44,
+   "p": 4351.7,
+   "c": -0.56,
+   "a50": 4343.71,
+   "a200": 4555.43,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4444.12,
-   "r": 44.4
+   "a20": 4444.04,
+   "r": 44.3
   },
   {
    "s": "HG=F",
-   "p": 6.83,
-   "c": 1.0,
+   "p": 6.82,
+   "c": 0.91,
    "a50": 6.52,
    "a200": 6.07,
-   "yh": 6.83,
+   "yh": 6.82,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 62.9
+   "r": 62.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315856,
-   "c": 0.24,
+   "p": 0.03154574,
+   "c": 0.12,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230208.aspx"
   },
   {
-   "t": "Work from home? Here are 5 ways to save money on remote work expenses.",
+   "t": "Vicor (VICR) Licenses its Power Patents to Another AI System Maker. Shares Jump 18%",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-money-working-from-home-142616852.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/vicor-vicr-licenses-power-patents-232418002.html"
   },
   {
    "t": "台北紡織展10/6登場　聚焦永續、機能與智慧製造",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230205.aspx"
   },
   {
-   "t": "Johnson & Johnson May Offload Its Orthopedics Unit for $20 Billion -- and Investors Shouldn't Miss What That Could Signal",
+   "t": "Fidelity Says the Average 401(k) Balance Hit $155,800. As Much as $34,000 of That Belongs to the IRS, and the Bill Grows Every Year It Sits Untouched",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-may-offload-orthopedics-233500062.html"
+   "u": "https://finance.yahoo.com/markets/articles/fidelity-says-average-401-k-233948786.html"
   }
  ],
  "inst": {
