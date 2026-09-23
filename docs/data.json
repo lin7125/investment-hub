@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 07:13（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 07:23（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.87,
-   "c": -1.39,
+   "p": 97.92,
+   "c": -1.34,
    "a50": 92.82,
    "a200": 86.24,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.86,
-   "r": 50.2
+   "r": 50.3
   },
   {
    "s": "GC=F",
-   "p": 4324.1,
-   "c": -1.2,
-   "a50": 4343.16,
-   "a200": 4555.29,
+   "p": 4326.3,
+   "c": -1.14,
+   "a50": 4343.2,
+   "a200": 4555.3,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.66,
-   "r": 42.2
+   "a20": 4442.77,
+   "r": 42.3
   },
   {
    "s": "HG=F",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "Soybean Oil Prices Are Falling as Crude Sells Off. 1 Trade to Make Here.",
+   "t": "Obama says AI flipped from 90% human-taught to 50/50 in under a year — the six-figure jobs he says go first",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/soybean-oil-prices-falling-crude-152215339.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/obama-says-ai-flipped-90-153000409.html"
   },
   {
    "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "Is News Corporation Stock Underperforming the S&P 500?",
+   "t": "Nvidia Just Gave Einride Stock a Big Boost. How to Play ENRD Here.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/news-corporation-stock-underperforming-p-152219343.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-gave-einride-stock-154207385.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "Maximus’ (MMS) Tech Capabilities and Beaten-Down Valuation Point to M&A Upside",
+   "t": "Crude Oil Prices Pressured by Diplomatic Hopes in the Middle East",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/maximus-mms-tech-capabilities-beaten-152142153.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-pressured-diplomatic-154210848.html"
   }
  ],
  "inst": {
