@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 03:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 03:46（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 336.44,
-   "c": -0.97,
+   "p": 336.54,
+   "c": -0.94,
    "a50": 321.5,
    "a200": 287.16,
    "yh": 340.08,
    "yl": 245.27,
    "a20": 326.92,
-   "r": 62.1
+   "r": 62.3
   },
   {
    "s": "NVDA",
-   "p": 225.4,
-   "c": -1.52,
+   "p": 225.34,
+   "c": -1.54,
    "a50": 215.38,
    "a200": 199.06,
    "yh": 235.74,
    "yl": 165.17,
    "a20": 221.15,
-   "r": 55.6
+   "r": 55.5
   },
   {
    "s": "TSLA",
-   "p": 379.76,
-   "c": 0.23,
-   "a50": 348.95,
+   "p": 379.13,
+   "c": 0.06,
+   "a50": 348.94,
    "a200": 396.34,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 363.2,
-   "r": 60.4
+   "a20": 363.16,
+   "r": 60.2
   },
   {
    "s": "META",
-   "p": 750.04,
-   "c": 1.82,
-   "a50": 612.2,
-   "a200": 625.56,
+   "p": 747.65,
+   "c": 1.5,
+   "a50": 612.15,
+   "a200": 625.54,
    "yh": 760.66,
    "yl": 525.72,
-   "a20": 642.06,
-   "r": 77.6
+   "a20": 641.94,
+   "r": 77.4
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7709.36,
-   "c": -0.71,
-   "a50": 7624.9,
-   "a200": 7192.03,
+   "p": 7706.59,
+   "c": -0.75,
+   "a50": 7624.85,
+   "a200": 7192.01,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7666.23,
-   "r": 54.3
+   "a20": 7666.09,
+   "r": 54.1
   },
   {
    "s": "^VIX",
-   "p": 15.11,
-   "c": 1.61,
+   "p": 15.15,
+   "c": 1.88,
    "a50": 16.1,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.64,
-   "r": 46.6
+   "r": 46.8
   },
   {
    "s": "BZ=F",
-   "p": 98.46,
-   "c": -0.8,
+   "p": 98.56,
+   "c": -0.7,
    "a50": 92.83,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.89,
-   "r": 51.3
+   "r": 51.5
   },
   {
    "s": "GC=F",
-   "p": 4322.3,
-   "c": -1.24,
-   "a50": 4343.12,
+   "p": 4320.9,
+   "c": -1.27,
+   "a50": 4343.09,
    "a200": 4555.28,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.57,
-   "r": 42.1
+   "a20": 4442.5,
+   "r": 42.0
   },
   {
    "s": "HG=F",
    "p": 6.77,
-   "c": 0.16,
+   "c": 0.09,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 60.8
+   "r": 60.6
   },
   {
    "s": "TWDUSD",
    "p": 0.03147624,
-   "c": -0.11,
+   "c": -0.1,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "Stock Index Futures Muted as Chip Rally Stalls; Oil Falls on Report Iran Offered to Reopen Hormuz",
+   "t": "BWX Technologies (BWXT) Wins $4 Million Y-12 Design Contract. Could Construction Follow?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-muted-chip-102850723.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-wins-4-104356882.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "Roivant (ROIV): $9 Billion Sales Potential Faces a Commercialization Test",
+   "t": "APLD’s 250MW Question: The Deal That Could Unlock Applied Digital Stock’s Next Leg Up",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/roivant-roiv-9-billion-sales-102730498.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/apld-250mw-deal-could-unlock-104614371.html"
   },
   {
    "t": "今彩539第115231期開獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609230339.aspx"
   },
   {
-   "t": "Airlines are cutting capacity again amid $1B surge in Q4 fuel costs — here's what that means for travelers",
+   "t": "What Does Last Night's Trade Tell Us About Tuesday's Session?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/airlines-cutting-capacity-again-amid-103000279.html"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/does-last-nights-trade-tell-104706206.html"
   }
  ],
  "inst": {
