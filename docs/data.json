@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 02:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 03:05（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,20 +212,20 @@
   },
   {
    "s": "AAPL",
-   "p": 337.18,
-   "c": -0.53,
+   "p": 336.83,
+   "c": -0.64,
    "a50": 321.01,
    "a200": 286.87,
    "yh": 340.08,
    "yl": 245.27,
-   "a20": 325.46,
-   "r": 63.8
+   "a20": 325.45,
+   "r": 63.3
   },
   {
    "s": "NVDA",
-   "p": 225.27,
-   "c": -0.93,
-   "a50": 215.04,
+   "p": 225.21,
+   "c": -0.95,
+   "a50": 215.03,
    "a200": 198.84,
    "yh": 235.74,
    "yl": 165.17,
@@ -234,24 +234,24 @@
   },
   {
    "s": "TSLA",
-   "p": 379.55,
-   "c": 1.13,
+   "p": 379.66,
+   "c": 1.16,
    "a50": 349.29,
    "a200": 396.72,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 361.75,
-   "r": 60.3
+   "a20": 361.76,
+   "r": 60.4
   },
   {
    "s": "META",
-   "p": 748.24,
-   "c": 0.94,
+   "p": 748.48,
+   "c": 0.98,
    "a50": 610.65,
    "a200": 625.17,
    "yh": 760.66,
    "yl": 525.72,
-   "a20": 633.64,
+   "a20": 633.65,
    "r": 78.6
   },
   {
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7708.74,
-   "c": -0.72,
-   "a50": 7624.89,
-   "a200": 7192.03,
+   "p": 7707.41,
+   "c": -0.74,
+   "a50": 7624.86,
+   "a200": 7192.02,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7666.2,
-   "r": 54.3
+   "a20": 7666.14,
+   "r": 54.2
   },
   {
    "s": "^VIX",
-   "p": 15.09,
-   "c": 1.48,
+   "p": 14.97,
+   "c": 0.67,
    "a50": 16.1,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.64,
-   "r": 46.5
+   "r": 45.9
   },
   {
    "s": "BZ=F",
-   "p": 98.67,
-   "c": -0.58,
+   "p": 98.4,
+   "c": -0.86,
    "a50": 92.83,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.9,
-   "r": 51.6
+   "a20": 98.89,
+   "r": 51.2
   },
   {
    "s": "GC=F",
-   "p": 4319.9,
-   "c": -1.29,
-   "a50": 4343.07,
-   "a200": 4555.27,
+   "p": 4325.2,
+   "c": -1.17,
+   "a50": 4343.18,
+   "a200": 4555.3,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.45,
-   "r": 41.9
+   "a20": 4442.72,
+   "r": 42.3
   },
   {
    "s": "HG=F",
    "p": 6.75,
-   "c": -0.1,
+   "c": -0.07,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 59.9
+   "r": 60.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03146633,
-   "c": -0.12,
+   "p": 0.03145643,
+   "c": -0.15,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609230358.aspx"
   },
   {
-   "t": "How Is AES Corporation's Stock Performance Compared to Other Utility Stocks",
+   "t": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/aes-corporations-stock-performance-compared-094200159.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html"
   },
   {
    "t": "鑫創營運虧損擬調整業務方向　11/23起分批資遣部分員工",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "How Is News Corporation's Stock Performance Compared to Other Communication Services Stocks?",
+   "t": "As Trump and Xi meet, investors play both sides of AI divide",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/news-corporations-stock-performance-compared-094348036.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/trump-xi-meet-investors-play-085656582.html"
   },
   {
    "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "Mark Cuban says healthcare companies are sued daily, usually lose and are 'too big to care.' He has a better solution",
+   "t": "Stellantis (STLA) Reportedly Eyes $1.16 Billion France Van Investment",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/mark-cuban-says-healthcare-companies-100000881.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stla-reportedly-eyes-1-100646836.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
