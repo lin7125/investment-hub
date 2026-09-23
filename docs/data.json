@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 17:02（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 17:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 95.7,
-   "c": -3.58,
+   "p": 95.68,
+   "c": -3.6,
    "a50": 92.77,
    "a200": 86.23,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.75,
-   "r": 46.8
+   "r": 46.7
   },
   {
    "s": "GC=F",
-   "p": 4354.2,
-   "c": -0.51,
-   "a50": 4343.76,
-   "a200": 4555.44,
+   "p": 4355.7,
+   "c": -0.47,
+   "a50": 4343.79,
+   "a200": 4555.45,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4444.17,
-   "r": 44.5
+   "a20": 4444.24,
+   "r": 44.6
   },
   {
    "s": "HG=F",
-   "p": 6.83,
-   "c": 1.09,
+   "p": 6.84,
+   "c": 1.19,
    "a50": 6.52,
    "a200": 6.07,
-   "yh": 6.83,
+   "yh": 6.84,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 63.1
+   "r": 63.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.0315557,
-   "c": 0.16,
+   "p": 0.03157562,
+   "c": 0.23,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230217.aspx"
   },
   {
-   "t": "The Energy Transition Has a Speed Advantage That Cost Models Miss",
+   "t": "Work from home? Here are 5 ways to save money on remote work expenses.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/energy-transition-speed-advantage-cost-210000319.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-money-working-from-home-142616852.html"
   },
   {
    "t": "新台幣貶0.8分　收31.716元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230216.aspx"
   },
   {
-   "t": "Daily ETF Flows: COWZ Gobbles Up Assets",
+   "t": "Best Wells Fargo credit cards (2026)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-cowz-gobbles-210028745.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-wells-fargo-credit-cards-164310496.html"
   },
   {
    "t": "鈊象：下半年營運優於上半年　美國列短期發展重心",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230215.aspx"
   },
   {
-   "t": "A Record ETF Year Takes Shape as Inflows Near $1.5 Trillion",
+   "t": "How to start buying crypto with $100",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/record-etf-takes-shape-inflows-210017196.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-crypto-with-100-155125790.html"
   },
   {
    "t": "星宇航空攜手美國航空聯營　延伸北美內陸航點",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230208.aspx"
   },
   {
-   "t": "ETF League Tables: Vanguard Loses $13B",
+   "t": "Oura's $2.2B IPO is a major payday for three VCs",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-vanguard-loses-210005560.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/ouras-2-2b-ipo-mostly-230019467.html"
   },
   {
    "t": "台北紡織展10/6登場　聚焦永續、機能與智慧製造",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230205.aspx"
   },
   {
-   "t": "AMD Hits Milestone on Strong Day for Tech Stocks",
+   "t": "Jim Cramer drops another stock market warning",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/amd-hits-milestone-on-strong-day-for-tech-stocks-o7UlcpMFFVjyALTAvLTX?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-drops-another-stock-230000240.html"
   }
  ],
  "inst": {
