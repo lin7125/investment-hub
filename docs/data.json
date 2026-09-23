@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 07:33（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 07:43（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.89,
-   "c": -1.37,
-   "a50": 92.82,
+   "p": 97.74,
+   "c": -1.52,
+   "a50": 92.81,
    "a200": 86.24,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.86,
-   "r": 50.3
+   "a20": 98.85,
+   "r": 50.0
   },
   {
    "s": "GC=F",
-   "p": 4325.7,
-   "c": -1.16,
-   "a50": 4343.19,
-   "a200": 4555.3,
+   "p": 4321.9,
+   "c": -1.25,
+   "a50": 4343.11,
+   "a200": 4555.28,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.74,
-   "r": 42.3
+   "a20": 4442.55,
+   "r": 42.0
   },
   {
    "s": "HG=F",
-   "p": 6.79,
-   "c": 0.38,
+   "p": 6.78,
+   "c": 0.31,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 61.4
+   "r": 61.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03147624,
-   "c": -0.3,
+   "p": 0.03145643,
+   "c": -0.34,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "美PMI強勁添升息疑慮　10年期美債殖利率創19年新高",
+   "t": "國際油價走高　布倫特原油回升至100美元以上",
    "pub": "中央社財經",
    "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/afe/202609240008.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609240016.aspx"
   },
   {
    "t": "Kalshi asks CFTC to allow margin trading on prediction markets",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html"
   },
   {
-   "t": "市場評估美伊協議可能性　歐股收跌油價走高",
+   "t": "國際油價與美債殖利率齊揚　美股收低",
    "pub": "中央社財經",
    "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/afe/202609240003.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609240015.aspx"
   },
   {
    "t": "Bessent just picked the one wage measure still rising",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html"
   },
   {
-   "t": "今彩539第115231期　頭獎3注中獎",
+   "t": "美PMI強勁添升息疑慮　10年期美債殖利率創19年新高",
    "pub": "中央社財經",
-   "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/ahel/202609230358.aspx"
+   "d": "2026-09-24",
+   "u": "https://www.cna.com.tw/news/afe/202609240008.aspx"
   },
   {
    "t": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
@@ -368,22 +368,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html"
   },
   {
-   "t": "鑫創營運虧損擬調整業務方向　11/23起分批資遣部分員工",
+   "t": "市場評估美伊協議可能性　歐股收跌油價走高",
    "pub": "中央社財經",
-   "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
-  },
-  {
-   "t": "Crude Oil Prices Pressured by Diplomatic Hopes in the Middle East",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-pressured-diplomatic-154210848.html"
-  },
-  {
-   "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
-   "pub": "中央社財經",
-   "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
+   "d": "2026-09-24",
+   "u": "https://www.cna.com.tw/news/afe/202609240003.aspx"
   },
   {
    "t": "Nvidia Just Gave Einride Stock a Big Boost. How to Play ENRD Here.",
@@ -392,16 +380,28 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-gave-einride-stock-154207385.html"
   },
   {
-   "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
+   "t": "今彩539第115231期　頭獎3注中獎",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202609230358.aspx"
   },
   {
-   "t": "Obama says AI flipped from 90% human-taught to 50/50 in under a year — the six-figure jobs he says go first",
+   "t": "Crude Oil Prices Pressured by Diplomatic Hopes in the Middle East",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/obama-says-ai-flipped-90-153000409.html"
+   "u": "https://finance.yahoo.com/energy/articles/crude-oil-prices-pressured-diplomatic-154210848.html"
+  },
+  {
+   "t": "鑫創營運虧損擬調整業務方向　11/23起分批資遣部分員工",
+   "pub": "中央社財經",
+   "d": "2026-09-23",
+   "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
+  },
+  {
+   "t": "As Amazon Stock Prospers, Traders Might Consider This Option Play",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/research/options/amazon-amzn-stock-bull-put-spread-options/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
