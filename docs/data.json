@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 03:05（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 03:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,20 +212,20 @@
   },
   {
    "s": "AAPL",
-   "p": 336.83,
-   "c": -0.64,
-   "a50": 321.01,
+   "p": 336.52,
+   "c": -0.73,
+   "a50": 321.0,
    "a200": 286.87,
    "yh": 340.08,
    "yl": 245.27,
-   "a20": 325.45,
-   "r": 63.3
+   "a20": 325.43,
+   "r": 62.9
   },
   {
    "s": "NVDA",
-   "p": 225.21,
-   "c": -0.95,
-   "a50": 215.03,
+   "p": 225.26,
+   "c": -0.93,
+   "a50": 215.04,
    "a200": 198.84,
    "yh": 235.74,
    "yl": 165.17,
@@ -234,25 +234,25 @@
   },
   {
    "s": "TSLA",
-   "p": 379.66,
-   "c": 1.16,
-   "a50": 349.29,
+   "p": 379.99,
+   "c": 1.25,
+   "a50": 349.3,
    "a200": 396.72,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 361.76,
-   "r": 60.4
+   "a20": 361.77,
+   "r": 60.5
   },
   {
    "s": "META",
-   "p": 748.48,
-   "c": 0.98,
-   "a50": 610.65,
+   "p": 747.52,
+   "c": 0.85,
+   "a50": 610.64,
    "a200": 625.17,
    "yh": 760.66,
    "yl": 525.72,
-   "a20": 633.65,
-   "r": 78.6
+   "a20": 633.6,
+   "r": 78.5
   },
   {
    "s": "^TWII",
@@ -267,63 +267,63 @@
   },
   {
    "s": "^GSPC",
-   "p": 7707.41,
-   "c": -0.74,
-   "a50": 7624.86,
+   "p": 7707.63,
+   "c": -0.73,
+   "a50": 7624.87,
    "a200": 7192.02,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7666.14,
+   "a20": 7666.15,
    "r": 54.2
   },
   {
    "s": "^VIX",
-   "p": 14.97,
-   "c": 0.67,
+   "p": 14.94,
+   "c": 0.47,
    "a50": 16.1,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.64,
-   "r": 45.9
+   "a20": 15.63,
+   "r": 45.8
   },
   {
    "s": "BZ=F",
-   "p": 98.4,
-   "c": -0.86,
-   "a50": 92.83,
+   "p": 98.25,
+   "c": -1.01,
+   "a50": 92.82,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.89,
-   "r": 51.2
+   "a20": 98.88,
+   "r": 50.9
   },
   {
    "s": "GC=F",
-   "p": 4325.2,
+   "p": 4325.0,
    "c": -1.17,
-   "a50": 4343.18,
+   "a50": 4343.17,
    "a200": 4555.3,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.72,
-   "r": 42.3
+   "a20": 4442.71,
+   "r": 42.2
   },
   {
    "s": "HG=F",
    "p": 6.75,
-   "c": -0.07,
+   "c": -0.08,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 60.1
+   "r": 60.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03145643,
-   "c": -0.15,
+   "p": 0.03147624,
+   "c": -0.11,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609230358.aspx"
   },
   {
-   "t": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
+   "t": "Bessent just picked the one wage measure still rising",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html"
+   "u": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html"
   },
   {
    "t": "鑫創營運虧損擬調整業務方向　11/23起分批資遣部分員工",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "As Trump and Xi meet, investors play both sides of AI divide",
+   "t": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/trump-xi-meet-investors-play-085656582.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html"
   },
   {
    "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "Dogecoin Targets 30% Surge Following $12.66M Short Squeeze",
+   "t": "1 in 5 Americans thinks sports betting is an ‘investment’ — but the data says something different",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-targets-30-surge-following-100106959.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/1-5-americans-thinks-sports-101500032.html"
   },
   {
    "t": "今彩539第115231期開獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609230339.aspx"
   },
   {
-   "t": "Bessent just picked the one wage measure still rising",
+   "t": "As Trump and Xi meet, investors play both sides of AI divide",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/trump-xi-meet-investors-play-085656582.html"
   }
  ],
  "inst": {
