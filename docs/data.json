@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23 14:59（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-23 15:09（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.41,
-   "c": -0.85,
+   "p": 98.76,
+   "c": -0.49,
    "a50": 92.83,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.89,
-   "r": 51.2
+   "a20": 98.9,
+   "r": 51.8
   },
   {
    "s": "GC=F",
-   "p": 4373.6,
-   "c": -0.06,
-   "a50": 4344.15,
-   "a200": 4555.54,
+   "p": 4368.0,
+   "c": -0.19,
+   "a50": 4344.03,
+   "a200": 4555.51,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4445.14,
-   "r": 46.1
+   "a20": 4444.86,
+   "r": 45.6
   },
   {
    "s": "HG=F",
-   "p": 6.82,
-   "c": 0.92,
+   "p": 6.81,
+   "c": 0.72,
    "a50": 6.52,
    "a200": 6.07,
-   "yh": 6.82,
+   "yh": 6.81,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 62.7
+   "r": 62.2
   },
   {
    "s": "TWDUSD",
-   "p": 0.03152585,
-   "c": 0.06,
+   "p": 0.03153579,
+   "c": 0.08,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "詐團假冒電商通知點數到期　數產署籲勿點不明連結",
+   "t": "台股量縮震盪上漲357點　創48157點收盤新高",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/ahel/202609230104.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230169.aspx"
   },
   {
    "t": "Kalshi asks CFTC to allow margin trading on prediction markets",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html"
   },
   {
-   "t": "KPMG：全球金融科技投資攀升　上半年達1031億美元",
+   "t": "10月電子期漲　金融期跌",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230089.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230166.aspx"
   },
   {
    "t": "Improved Crude Flows Through the Strait of Hormuz Sink Oil Prices",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/energy/articles/improved-crude-flows-strait-hormuz-191555763.html"
   },
   {
-   "t": "電子水泥強勢　台股盤中揚升541點攀高至48341點",
+   "t": "10月台指期111點",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230079.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230164.aspx"
   },
   {
    "t": "Moderna (MRNA) Soars to Fresh High Ahead of Pipeline Updates This Week",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/healthcare/articles/moderna-mrna-soars-fresh-high-191331309.html"
   },
   {
-   "t": "AI熱潮帶動　亞銀上修台灣今年經濟成長至11%",
+   "t": "券商公會成立推廣信任金融工作小組　落實金融回饋",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230071.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230162.aspx"
   },
   {
    "t": "Jim Cramer Says KB Home (KBH) Could Report Weaker Numbers Like Lennar (LEN)",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/real-estate/articles/jim-cramer-says-kb-home-192344492.html"
   },
   {
-   "t": "臻鼎-KY完成8億美元ECB訂價　續攻AI高階產品",
+   "t": "台股開高走高　漲357.12點",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230063.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230158.aspx"
   },
   {
    "t": "Jim Cramer on GameStop (GME): “I’m Willing to Say That That Stock Is a Buy”",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-gamestop-gme-m-193001444.html"
   },
   {
-   "t": "台積電上漲40元　台股早盤突破48300點漲逾500點",
+   "t": "台股上漲357點　收48157點再創歷史新高",
    "pub": "中央社財經",
    "d": "2026-09-23",
-   "u": "https://www.cna.com.tw/news/afe/202609230046.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609230154.aspx"
   },
   {
    "t": "Paramount reaches historic settlement with states, clearing way for WBD deal",
