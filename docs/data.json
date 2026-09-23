@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 06:11（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 06:21（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.36,
-   "c": -0.9,
-   "a50": 92.83,
+   "p": 98.22,
+   "c": -1.04,
+   "a50": 92.82,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 98.88,
-   "r": 51.1
+   "r": 50.8
   },
   {
    "s": "GC=F",
-   "p": 4325.0,
-   "c": -1.17,
-   "a50": 4343.17,
-   "a200": 4555.3,
+   "p": 4323.9,
+   "c": -1.2,
+   "a50": 4343.15,
+   "a200": 4555.29,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.71,
+   "a20": 4442.65,
    "r": 42.2
   },
   {
    "s": "HG=F",
-   "p": 6.78,
-   "c": 0.32,
+   "p": 6.79,
+   "c": 0.43,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 61.2
+   "r": 61.5
   },
   {
    "s": "TWDUSD",
    "p": 0.03145643,
-   "c": -0.17,
+   "c": -0.18,
    "a50": 0.03126954,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "Is International Paper Stock Underperforming the Dow?",
+   "t": "Will the housing market crash this year? What to expect for the rest of 2026.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/international-paper-stock-underperforming-dow-135035800.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-this-year-what-to-expect-for-the-rest-of-2026-170038540.html"
   },
   {
    "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "Elon Musk’s X Offers Crypto Trading To Users",
+   "t": "Sonida Senior Living (SNDA) Poised for Strong Performance Over the Next Several Years",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-x-offers-crypto-134900718.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sonida-senior-living-snda-poised-141451416.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "Mid-America Apartment Communities Stock: Is MAA Underperforming the Real Estate Sector?",
+   "t": "Stocks Supported as Crude Oil Prices Ease",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/news/mid-america-apartment-communities-stock-134620864.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-crude-oil-prices-141506095.html"
   }
  ],
  "inst": {
