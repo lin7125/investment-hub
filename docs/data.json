@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 06:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 06:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.21,
-   "c": -1.05,
+   "p": 98.07,
+   "c": -1.19,
    "a50": 92.82,
    "a200": 86.25,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.88,
-   "r": 50.8
+   "a20": 98.87,
+   "r": 50.6
   },
   {
    "s": "GC=F",
-   "p": 4323.3,
-   "c": -1.21,
-   "a50": 4343.14,
-   "a200": 4555.29,
+   "p": 4325.4,
+   "c": -1.17,
+   "a50": 4343.18,
+   "a200": 4555.3,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.62,
-   "r": 42.1
+   "a20": 4442.73,
+   "r": 42.3
   },
   {
    "s": "HG=F",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "Meta’s Muse Is Dominating the App Store. What This Means for META Stock.",
+   "t": "Bitcoin ETFs Attract Nearly $1 Billion As Crypto Rally Strengthens",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/meta-muse-dominating-app-store-144019978.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-attract-nearly-1-145600491.html"
   },
   {
    "t": "研華北美下半年迎爆發性成長　今年全年營收挑戰10億美元",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230354.aspx"
   },
   {
-   "t": "Trump Accounts could help lower-income families most. Few have signed up.",
+   "t": "This Fund Trimmed Matson (MATX) on Strength",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-matson-matx-strength-145040552.html"
   },
   {
    "t": "AI落地遇記憶體供需失衡　群聯潘健成：好像只有宏碁不苦",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230348.aspx"
   },
   {
-   "t": "GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares",
+   "t": "Continued AI Disruption Concerns Weigh on CCC Intelligent Solutions Holdings (CCC)",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/article/gamestop-stock-jumps-as-ceo-ryan-cohen-buys-26-million-in-shares-142827905.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/continued-ai-disruption-concerns-weigh-144822190.html"
   }
  ],
  "inst": {
