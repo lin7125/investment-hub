@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 15:24（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 15:35（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 48157.29,
-   "c": 0.92,
-   "a50": 45134.53,
-   "a200": 38414.67,
+   "p": 48024.6,
+   "c": -0.28,
+   "a50": 45182.39,
+   "a200": 38517.75,
    "yh": 48157.29,
    "yl": 25580.32,
-   "a20": 46554.93,
-   "r": 65.1
+   "a20": 46664.52,
+   "r": 63.7
   },
   {
    "s": "^GSPC",
@@ -278,41 +278,41 @@
   },
   {
    "s": "^VIX",
-   "p": 15.18,
-   "c": 2.08,
-   "a50": 16.1,
+   "p": 15.84,
+   "c": 4.35,
+   "a50": 16.11,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.65,
-   "r": 47.0
+   "a20": 15.68,
+   "r": 50.2
   },
   {
    "s": "BZ=F",
-   "p": 98.32,
-   "c": -4.62,
+   "p": 98.27,
+   "c": -4.67,
    "a50": 93.19,
    "a200": 86.44,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 99.64,
-   "r": 50.3
+   "r": 50.2
   },
   {
    "s": "GC=F",
-   "p": 4318.8,
-   "c": 0.01,
-   "a50": 4348.38,
-   "a200": 4555.64,
+   "p": 4316.2,
+   "c": -0.05,
+   "a50": 4348.33,
+   "a200": 4555.63,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4425.65,
-   "r": 41.8
+   "a20": 4425.52,
+   "r": 41.6
   },
   {
    "s": "HG=F",
    "p": 6.78,
-   "c": 1.5,
+   "c": 1.48,
    "a50": 6.53,
    "a200": 6.08,
    "yh": 6.8,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03142678,
-   "c": -0.46,
+   "c": -0.45,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240092.aspx"
   },
   {
-   "t": "VKTX Stock Soars as Viking Therapeutics Announces Positive GLP-1 Trial Results",
+   "t": "How to invest in gold in 7 steps",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/vktx-stock-soars-viking-therapeutics-191823501.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-gold-181632105.html"
   },
   {
    "t": "聯卡中心推信用卡簽帳單電子化　遠東SOGO率先導入",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609240060.aspx"
   },
   {
-   "t": "How to invest in gold in 7 steps",
+   "t": "CRCL Stock Alert: What to Know as Circle Lands $100 Billion Deal With Binance",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-gold-181632105.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/crcl-stock-alert-know-circle-192527429.html"
   },
   {
    "t": "桃園煉油廠經理涉收賄　中油：配合調查並發掘異常情資",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240046.aspx"
   },
   {
-   "t": "CRCL Stock Alert: What to Know as Circle Lands $100 Billion Deal With Binance",
+   "t": "“Pattern of misconduct”: Bialostozky faces another Chicago foreclosure as alleged mortgage fraud widens across multiple states",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/crcl-stock-alert-know-circle-192527429.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/pattern-misconduct-bialostozky-faces-another-193000936.html"
   }
  ],
  "inst": {
