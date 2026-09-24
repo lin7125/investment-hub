@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 15:45（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 15:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.25,
-   "c": -4.69,
+   "p": 98.21,
+   "c": -4.72,
    "a50": 93.19,
    "a200": 86.44,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 99.64,
-   "r": 50.2
+   "r": 50.1
   },
   {
    "s": "GC=F",
-   "p": 4318.8,
-   "c": 0.01,
-   "a50": 4348.38,
-   "a200": 4555.64,
+   "p": 4319.4,
+   "c": 0.02,
+   "a50": 4348.39,
+   "a200": 4555.65,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4425.65,
-   "r": 41.8
+   "a20": 4425.68,
+   "r": 41.9
   },
   {
    "s": "HG=F",
-   "p": 6.78,
-   "c": 1.6,
+   "p": 6.79,
+   "c": 1.73,
    "a50": 6.53,
    "a200": 6.08,
    "yh": 6.8,
    "yl": 4.7,
    "a20": 6.58,
-   "r": 60.1
+   "r": 60.4
   },
   {
    "s": "TWDUSD",
    "p": 0.03144654,
-   "c": -0.39,
+   "c": -0.36,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240098.aspx"
   },
   {
-   "t": "Bessent just picked the one wage measure still rising",
+   "t": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html"
+   "u": "https://finance.yahoo.com/technology/article/qualcomm-reveals-2-new-smartphone-chips-focusing-on-agentic-ai-200000608.html"
   },
   {
    "t": "新台幣午盤重貶1.24角　暫收31.84元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240097.aspx"
   },
   {
-   "t": "How to invest in gold in 7 steps",
+   "t": "SHOP Stock Jumps as Meta Expands Shopify Partnership",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-gold-181632105.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/shop-stock-jumps-meta-expands-200743785.html"
   },
   {
    "t": "台股連假前震盪台積電疲軟　盤中48000點保衛戰",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240092.aspx"
   },
   {
-   "t": "Nebius Stock Spikes 4% on Higher Computer Prices. How to Play NBIS Stock Here.",
+   "t": "Stock market today: Dow slips, Nasdaq posts fresh record with AI trade, Trump diplomacy in focus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-spikes-4-higher-194050887.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html"
   },
   {
    "t": "聯卡中心推信用卡簽帳單電子化　遠東SOGO率先導入",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609240060.aspx"
   },
   {
-   "t": "12 S&P 500 Stocks Join Trillion-Dollar Club — What Could Go Wrong?",
+   "t": "A $26 Million Reason Why GameStop Stock Is Up Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/etfs-and-funds/sectors/sp-500-stocks-hit-trillion-dollar-club-what-could-go-wrong/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/26-million-reason-why-gamestop-201630953.html"
   },
   {
    "t": "桃園煉油廠經理涉收賄　中油：配合調查並發掘異常情資",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240046.aspx"
   },
   {
-   "t": "What is the prime rate, and how does it affect you?",
+   "t": "How Low Can PG&E Stock Go When The Risk Is Its Own?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-prime-rate-155310130.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/low-pg-e-stock-risk-195308432.html"
   }
  ],
  "inst": {
