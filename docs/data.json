@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 16:36（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 16:47（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.23,
-   "c": 6.92,
+   "p": 16.2,
+   "c": 6.72,
    "a50": 16.11,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.7,
-   "r": 51.9
+   "r": 51.7
   },
   {
    "s": "BZ=F",
-   "p": 100.45,
-   "c": -2.55,
+   "p": 100.62,
+   "c": -2.39,
    "a50": 93.23,
    "a200": 86.45,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 99.75,
-   "r": 53.6
+   "a20": 99.76,
+   "r": 53.9
   },
   {
    "s": "GC=F",
-   "p": 4297.9,
-   "c": -0.47,
-   "a50": 4347.96,
-   "a200": 4555.54,
+   "p": 4299.8,
+   "c": -0.43,
+   "a50": 4348.0,
+   "a200": 4555.55,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4424.61,
-   "r": 40.3
+   "a20": 4424.7,
+   "r": 40.4
   },
   {
    "s": "HG=F",
-   "p": 6.74,
-   "c": 0.92,
+   "p": 6.75,
+   "c": 1.05,
    "a50": 6.53,
    "a200": 6.08,
    "yh": 6.8,
    "yl": 4.7,
    "a20": 6.58,
-   "r": 58.3
+   "r": 58.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": -0.46,
+   "p": 0.03140704,
+   "c": -0.51,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/acn/202609240212.aspx"
   },
   {
-   "t": "Novo Nordisk Has a Fresh New Name -- but It Still Faces the Same Old Problems",
+   "t": "Accordia Bank review (2026): Top rates on savings and CD accounts with low minimum deposits",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-fresh-name-still-203500178.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/review/accordia-bank-review-190954959.html"
   },
   {
    "t": "龔明鑫：上市櫃公司布局全球　讓台灣成經濟日不落國",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240211.aspx"
   },
   {
-   "t": "Stocks Settle Mixed as Chipmakers Climb and Financial Stocks Fall",
+   "t": "Jim Cramer Notes Snowflake (SNOW) “Caught Fire in Recent Months”",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-mixed-chipmakers-climb-203442164.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-snowflake-snow-204239978.html"
   },
   {
    "t": "三大法人賣超台股438.73億元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240178.aspx"
   },
   {
-   "t": "Generac Rallies on Power Deal With Amazon. How to Play GNRC Stock Now.",
+   "t": "AutoZone, Inc. Q4 2026 Earnings Call Summary",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/generac-rallies-power-deal-amazon-203530300.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/autozone-inc-q4-2026-earnings-205114740.html"
   },
   {
    "t": "歷經26年推動24日動工　台電：松湖變電所擬於2029年完工",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240176.aspx"
   },
   {
-   "t": "Accordia Bank review (2026): Top rates on savings and CD accounts with low minimum deposits",
+   "t": "Tempus AI (TEM) Has a $75 Goldman Sachs Target, But Its Data Business Faces a Bigger Test",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/review/accordia-bank-review-190954959.html"
+   "u": "https://finance.yahoo.com/healthcare/articles/tempus-ai-tem-75-goldman-204805322.html"
   },
   {
    "t": "日股連假後開市　日經隨AI走高東證小跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240174.aspx"
   },
   {
-   "t": "Stock Market Today: Dow Skids But Apple Eyes A Buy Point; Filing Says Trump Makes These Trades",
+   "t": "'Let's not send out the diesel': Trump floats ban on US diesel exports",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/energy/article/lets-not-send-out-the-diesel-trump-floats-ban-on-us-diesel-exports-190158139.html"
   },
   {
    "t": "為OpenAI投資籌資　軟銀將發行111億美元債券",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609240171.aspx"
   },
   {
-   "t": "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today’s Market",
+   "t": "Nucor (NUE): Strong Shipments, but Q3 Guidance Raises Earnings Questions",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.barrons.com/articles/stock-movers-328a306e?siteid=yhoof2&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nucor-nue-strong-shipments-q3-205941798.html"
   }
  ],
  "inst": {
