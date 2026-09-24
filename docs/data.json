@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 17:38（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 17:48（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,8 +278,8 @@
   },
   {
    "s": "^VIX",
-   "p": 16.28,
-   "c": 7.25,
+   "p": 16.29,
+   "c": 7.31,
    "a50": 16.11,
    "a200": 18.08,
    "yh": 31.05,
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 100.14,
-   "c": -2.85,
-   "a50": 93.22,
-   "a200": 86.45,
+   "p": 105.33,
+   "c": 2.18,
+   "a50": 93.33,
+   "a200": 86.48,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 99.74,
-   "r": 53.1
+   "a20": 99.99,
+   "r": 61.4
   },
   {
    "s": "GC=F",
-   "p": 4292.7,
-   "c": -0.6,
-   "a50": 4347.86,
-   "a200": 4555.51,
+   "p": 4291.0,
+   "c": -0.63,
+   "a50": 4347.83,
+   "a200": 4555.5,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4424.35,
-   "r": 39.9
+   "a20": 4424.26,
+   "r": 39.8
   },
   {
    "s": "HG=F",
-   "p": 6.75,
-   "c": 1.08,
+   "p": 6.74,
+   "c": 0.9,
    "a50": 6.53,
    "a200": 6.08,
    "yh": 6.8,
    "yl": 4.7,
    "a20": 6.58,
-   "r": 58.7
+   "r": 58.3
   },
   {
    "s": "TWDUSD",
-   "p": 0.03140704,
-   "c": -0.5,
+   "p": 0.03142678,
+   "c": -0.45,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240211.aspx"
   },
   {
-   "t": "Trump Accounts could help lower-income families most. Few have signed up.",
+   "t": "What is a good savings account interest rate in 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-good-savings-account-interest-rate-173915779.html"
   },
   {
    "t": "三大法人賣超台股438.73億元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240178.aspx"
   },
   {
-   "t": "What is a good savings account interest rate in 2026?",
+   "t": "Should you apply for multiple credit cards at once?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-good-savings-account-interest-rate-173915779.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/should-you-apply-for-multiple-credit-cards-at-once-180015761.html"
   },
   {
    "t": "歷經26年推動24日動工　台電：松湖變電所擬於2029年完工",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240176.aspx"
   },
   {
-   "t": "Should you apply for multiple credit cards at once?",
+   "t": "Trump Accounts could help lower-income families most. Few have signed up.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/should-you-apply-for-multiple-credit-cards-at-once-180015761.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html"
   },
   {
    "t": "日股連假後開市　日經隨AI走高東證小跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240174.aspx"
   },
   {
-   "t": "Will the housing market crash this year? What to expect for the rest of 2026.",
+   "t": "What is the prime rate, and how does it affect you?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-this-year-what-to-expect-for-the-rest-of-2026-170038540.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-prime-rate-155310130.html"
   },
   {
    "t": "為OpenAI投資籌資　軟銀將發行111億美元債券",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609240171.aspx"
   },
   {
-   "t": "Jim Cramer Says Paychex (PAYX) is Entering Earnings With a “Full Head of Steam”",
+   "t": "3 Monthly Income ETFs to Buy Once That Have Paid You Every Single Month for More Than a Decade",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/jim-cramer-says-paychex-payx-212246691.html"
+   "u": "https://finance.yahoo.com/markets/options/articles/3-monthly-income-etfs-buy-214544827.html"
   }
  ],
  "inst": {
