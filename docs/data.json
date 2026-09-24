@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 17:07（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 17:17（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.27,
-   "c": 7.18,
+   "p": 16.21,
+   "c": 6.79,
    "a50": 16.11,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.7,
-   "r": 52.0
+   "r": 51.8
   },
   {
    "s": "BZ=F",
-   "p": 100.6,
-   "c": -2.41,
+   "p": 100.26,
+   "c": -2.74,
    "a50": 93.23,
    "a200": 86.45,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 99.76,
-   "r": 53.9
+   "a20": 99.74,
+   "r": 53.3
   },
   {
    "s": "GC=F",
-   "p": 4295.5,
+   "p": 4295.7,
    "c": -0.53,
    "a50": 4347.92,
    "a200": 4555.53,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4424.49,
+   "a20": 4424.5,
    "r": 40.1
   },
   {
    "s": "HG=F",
-   "p": 6.74,
-   "c": 0.99,
+   "p": 6.75,
+   "c": 1.11,
    "a50": 6.53,
    "a200": 6.08,
    "yh": 6.8,
    "yl": 4.7,
    "a20": 6.58,
-   "r": 58.5
+   "r": 58.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03139717,
-   "c": -0.53,
+   "p": 0.03140704,
+   "c": -0.52,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/acn/202609240212.aspx"
   },
   {
-   "t": "Accordia Bank review (2026): Top rates on savings and CD accounts with low minimum deposits",
+   "t": "Trump Accounts could help lower-income families most. Few have signed up.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/review/accordia-bank-review-190954959.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html"
   },
   {
    "t": "龔明鑫：上市櫃公司布局全球　讓台灣成經濟日不落國",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240211.aspx"
   },
   {
-   "t": "Nike Shares Holding Steady After S&P 100 Drop",
+   "t": "What credit score do you need for a balance transfer credit card?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nike-shares-holding-steady-p-205933919.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-score-needed-for-balance-transfer-card-165714139.html"
   },
   {
    "t": "三大法人賣超台股438.73億元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240178.aspx"
   },
   {
-   "t": "Daily ETF Flows: ARKK Enters Top 10",
+   "t": "What is a good savings account interest rate in 2026?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/daily-etf-flows-arkk-enters-210004371.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-a-good-savings-account-interest-rate-173915779.html"
   },
   {
    "t": "歷經26年推動24日動工　台電：松湖變電所擬於2029年完工",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240176.aspx"
   },
   {
-   "t": "Nucor (NUE): Strong Shipments, but Q3 Guidance Raises Earnings Questions",
+   "t": "Will the housing market crash this year? What to expect for the rest of 2026.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nucor-nue-strong-shipments-q3-205941798.html"
+   "u": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-this-year-what-to-expect-for-the-rest-of-2026-170038540.html"
   },
   {
    "t": "日股連假後開市　日經隨AI走高東證小跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240174.aspx"
   },
   {
-   "t": "ETF League Tables: Schwab Sheds Almost $15B",
+   "t": "Should you apply for multiple credit cards at once?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-schwab-sheds-210033913.html"
+   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/should-you-apply-for-multiple-credit-cards-at-once-180015761.html"
   },
   {
    "t": "為OpenAI投資籌資　軟銀將發行111億美元債券",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609240171.aspx"
   },
   {
-   "t": "Kraft Heinz’s Bull Case Runs Into Its Own Recent Reversal",
+   "t": "Coinbase's IPO move sends stock to four month high",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-bull-case-runs-210901221.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/coinbases-ipo-move-sends-stock-211331084.html"
   }
  ],
  "inst": {
