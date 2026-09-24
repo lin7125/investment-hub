@@ -1,71 +1,71 @@
 {
- "generatedAt": "2026-09-24 13:32（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 13:42（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2480.0,
-   "c": -0.8,
-   "a50": 2393.1,
-   "a200": 2084.3,
+   "p": 2485.0,
+   "c": -0.6,
+   "a50": 2393.2,
+   "a200": 2084.32,
    "yh": 2510.0,
    "yl": 1300.0,
-   "a20": 2432.75,
-   "r": 57.7
+   "a20": 2433.0,
+   "r": 58.5
   },
   {
    "s": "2317.TW",
-   "p": 250.5,
-   "c": -2.15,
-   "a50": 250.81,
+   "p": 251.0,
+   "c": -1.95,
+   "a50": 250.82,
    "a200": 236.98,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 251.28,
-   "r": 49.3
+   "a20": 251.3,
+   "r": 49.9
   },
   {
    "s": "2308.TW",
-   "p": 1910.0,
-   "c": 0.53,
-   "a50": 1754.3,
-   "a200": 1638.98,
+   "p": 1915.0,
+   "c": 0.79,
+   "a50": 1754.4,
+   "a200": 1639.0,
    "yh": 2520.0,
    "yl": 848.0,
-   "a20": 1780.0,
-   "r": 61.1
+   "a20": 1780.25,
+   "r": 61.5
   },
   {
    "s": "2454.TW",
-   "p": 5255.0,
-   "c": 1.35,
-   "a50": 4108.2,
-   "a200": 2896.78,
-   "yh": 5255.0,
+   "p": 5270.0,
+   "c": 1.64,
+   "a50": 4108.5,
+   "a200": 2896.85,
+   "yh": 5270.0,
    "yl": 1145.0,
-   "a20": 4600.75,
-   "r": 73.4
+   "a20": 4601.5,
+   "r": 73.6
   },
   {
    "s": "2327.TW",
-   "p": 578.0,
-   "c": 0.87,
-   "a50": 575.49,
-   "a200": 476.05,
+   "p": 580.0,
+   "c": 1.22,
+   "a50": 575.53,
+   "a200": 476.06,
    "yh": 1140.0,
    "yl": 166.0,
-   "a20": 556.8,
-   "r": 52.1
+   "a20": 556.9,
+   "r": 52.5
   },
   {
    "s": "1802.TW",
-   "p": 58.2,
-   "c": 1.04,
-   "a50": 56.16,
+   "p": 58.4,
+   "c": 1.39,
+   "a50": 56.17,
    "a200": 56.34,
    "yh": 76.6,
    "yl": 26.15,
-   "a20": 59.21,
-   "r": 49.1
+   "a20": 59.22,
+   "r": 49.7
   },
   {
    "s": "6862.TW",
@@ -113,36 +113,36 @@
   },
   {
    "s": "2305.TW",
-   "p": 62.8,
-   "c": -1.26,
+   "p": 62.9,
+   "c": -1.1,
    "a50": 34.89,
    "a200": 22.54,
    "yh": 63.6,
    "yl": 10.25,
-   "a20": 42.92,
-   "r": 87.3
+   "a20": 42.93,
+   "r": 87.6
   },
   {
    "s": "6442.TW",
-   "p": 1525.0,
-   "c": 0.66,
-   "a50": 1495.8,
-   "a200": 1676.75,
+   "p": 1530.0,
+   "c": 0.99,
+   "a50": 1495.9,
+   "a200": 1676.78,
    "yh": 2370.0,
    "yl": 765.0,
-   "a20": 1630.0,
-   "r": 46.0
+   "a20": 1630.25,
+   "r": 46.4
   },
   {
    "s": "6515.TW",
-   "p": 5840.0,
-   "c": -2.59,
-   "a50": 6459.7,
-   "a200": 6583.62,
+   "p": 5830.0,
+   "c": -2.75,
+   "a50": 6459.5,
+   "a200": 6583.58,
    "yh": 10795.0,
    "yl": 2020.0,
-   "a20": 6585.25,
-   "r": 39.6
+   "a20": 6584.75,
+   "r": 39.5
   },
   {
    "s": "6446.TW",
@@ -157,25 +157,25 @@
   },
   {
    "s": "3324.TWO",
-   "p": 1720.0,
-   "c": 7.84,
-   "a50": 1146.0,
-   "a200": 1041.97,
-   "yh": 1720.0,
+   "p": 1705.0,
+   "c": 6.9,
+   "a50": 1145.7,
+   "a200": 1041.9,
+   "yh": 1705.0,
    "yl": 815.0,
-   "a20": 1411.25,
-   "r": 73.7
+   "a20": 1410.5,
+   "r": 73.2
   },
   {
    "s": "3491.TWO",
-   "p": 1540.0,
-   "c": -1.6,
-   "a50": 1327.14,
-   "a200": 1330.24,
+   "p": 1545.0,
+   "c": -1.28,
+   "a50": 1327.24,
+   "a200": 1330.27,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1464.5,
-   "r": 57.5
+   "a20": 1464.75,
+   "r": 57.9
   },
   {
    "s": "3585.TWO",
@@ -190,14 +190,14 @@
   },
   {
    "s": "6223.TWO",
-   "p": 5385.0,
-   "c": -4.18,
-   "a50": 5615.6,
-   "a200": 4525.35,
+   "p": 5400.0,
+   "c": -3.91,
+   "a50": 5615.9,
+   "a200": 4525.42,
    "yh": 7380.0,
    "yl": 1635.0,
-   "a20": 5449.0,
-   "r": 46.8
+   "a20": 5449.75,
+   "r": 47.1
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 47991.08,
-   "c": -0.35,
-   "a50": 45181.72,
-   "a200": 38517.58,
+   "p": 48108.46,
+   "c": -0.1,
+   "a50": 45184.07,
+   "a200": 38518.17,
    "yh": 48157.29,
    "yl": 25580.32,
-   "a20": 46662.85,
-   "r": 63.4
+   "a20": 46668.72,
+   "r": 64.6
   },
   {
    "s": "^GSPC",
@@ -289,8 +289,8 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.61,
-   "c": -5.31,
+   "p": 97.6,
+   "c": -5.32,
    "a50": 93.17,
    "a200": 86.44,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4323.0,
-   "c": 0.11,
-   "a50": 4348.47,
-   "a200": 4555.66,
+   "p": 4320.9,
+   "c": 0.06,
+   "a50": 4348.42,
+   "a200": 4555.65,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4425.86,
-   "r": 42.3
+   "a20": 4425.76,
+   "r": 42.0
   },
   {
    "s": "HG=F",
-   "p": 6.76,
-   "c": 1.29,
+   "p": 6.77,
+   "c": 1.35,
    "a50": 6.53,
    "a200": 6.08,
    "yh": 6.8,
    "yl": 4.7,
    "a20": 6.58,
-   "r": 59.3
+   "r": 59.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03145643,
-   "c": -0.36,
+   "p": 0.03143666,
+   "c": -0.4,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "台股連假前震盪台積電疲軟　盤中48000點保衛戰",
+   "t": "美聯準會釋鷹派訊號推升美元　金價跌逾1%",
    "pub": "中央社財經",
    "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/afe/202609240092.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609240105.aspx"
   },
   {
    "t": "Bessent just picked the one wage measure still rising",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html"
   },
   {
-   "t": "聯卡中心推信用卡簽帳單電子化　遠東SOGO率先導入",
+   "t": "川習會將登場　張建一：不會改變台美AI合作",
    "pub": "中央社財經",
    "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/ahel/202609240060.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609240098.aspx"
   },
   {
    "t": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
@@ -356,10 +356,34 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html"
   },
   {
-   "t": "桃園煉油廠經理涉收賄　中油：配合調查並發掘異常情資",
+   "t": "新台幣午盤重貶1.24角　暫收31.84元",
    "pub": "中央社財經",
    "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/afe/202609240046.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609240097.aspx"
+  },
+  {
+   "t": "Will Lowe's Stock Keep Falling? Unusually Heavy LOW Put Options Activity May Imply This - Or Does It?",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/options/articles/lowes-stock-keep-falling-unusually-173002768.html"
+  },
+  {
+   "t": "台股連假前震盪台積電疲軟　盤中48000點保衛戰",
+   "pub": "中央社財經",
+   "d": "2026-09-24",
+   "u": "https://www.cna.com.tw/news/afe/202609240092.aspx"
+  },
+  {
+   "t": "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-amazon-stock-amzn-key-level/?src=A00220&yptr=yahoo"
+  },
+  {
+   "t": "聯卡中心推信用卡簽帳單電子化　遠東SOGO率先導入",
+   "pub": "中央社財經",
+   "d": "2026-09-24",
+   "u": "https://www.cna.com.tw/news/ahel/202609240060.aspx"
   },
   {
    "t": "Soybean Bulls Pushing Higher at Midday",
@@ -368,40 +392,16 @@
    "u": "https://finance.yahoo.com/markets/commodities/articles/soybean-bulls-pushing-higher-midday-172246256.html"
   },
   {
-   "t": "台股早盤跌逾400點　台積電疲軟、AI族群輪動",
+   "t": "桃園煉油廠經理涉收賄　中油：配合調查並發掘異常情資",
    "pub": "中央社財經",
    "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/afe/202609240044.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609240046.aspx"
   },
   {
    "t": "Corn Slipping Back on Tuesday",
    "pub": "Yahoo Finance",
    "d": "",
    "u": "https://finance.yahoo.com/markets/commodities/articles/corn-slipping-back-tuesday-172246595.html"
-  },
-  {
-   "t": "財部：前8月出口集中度逾8成　電腦及其附屬單元躍第1大",
-   "pub": "中央社財經",
-   "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/afe/202609240042.aspx"
-  },
-  {
-   "t": "Piston raises $15M to expand cardless fuel payments network",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/small-business/articles/piston-raises-15m-expand-cardless-172134521.html"
-  },
-  {
-   "t": "新台幣開盤貶3.4分　為31.75元",
-   "pub": "中央社財經",
-   "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/afe/202609240039.aspx"
-  },
-  {
-   "t": "Private markets dealmaking is starting to mirror Greater China's K-shaped economy",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/private-markets-dealmaking-starting-mirror-172112209.html"
   }
  ],
  "inst": {
