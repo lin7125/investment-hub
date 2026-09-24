@@ -1,49 +1,49 @@
 {
- "generatedAt": "2026-09-24 13:42（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 13:52（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
-   "p": 2485.0,
-   "c": -0.6,
-   "a50": 2393.2,
-   "a200": 2084.32,
+   "p": 2475.0,
+   "c": -1.0,
+   "a50": 2393.0,
+   "a200": 2084.28,
    "yh": 2510.0,
    "yl": 1300.0,
-   "a20": 2433.0,
-   "r": 58.5
+   "a20": 2432.5,
+   "r": 56.9
   },
   {
    "s": "2317.TW",
-   "p": 251.0,
-   "c": -1.95,
-   "a50": 250.82,
+   "p": 250.5,
+   "c": -2.15,
+   "a50": 250.81,
    "a200": 236.98,
    "yh": 309.0,
    "yl": 187.5,
-   "a20": 251.3,
-   "r": 49.9
+   "a20": 251.28,
+   "r": 49.3
   },
   {
    "s": "2308.TW",
-   "p": 1915.0,
-   "c": 0.79,
-   "a50": 1754.4,
-   "a200": 1639.0,
+   "p": 1910.0,
+   "c": 0.53,
+   "a50": 1754.3,
+   "a200": 1638.98,
    "yh": 2520.0,
    "yl": 848.0,
-   "a20": 1780.25,
-   "r": 61.5
+   "a20": 1780.0,
+   "r": 61.1
   },
   {
    "s": "2454.TW",
-   "p": 5270.0,
-   "c": 1.64,
-   "a50": 4108.5,
-   "a200": 2896.85,
-   "yh": 5270.0,
+   "p": 5285.0,
+   "c": 1.93,
+   "a50": 4108.8,
+   "a200": 2896.92,
+   "yh": 5285.0,
    "yl": 1145.0,
-   "a20": 4601.5,
-   "r": 73.6
+   "a20": 4602.25,
+   "r": 73.8
   },
   {
    "s": "2327.TW",
@@ -80,36 +80,36 @@
   },
   {
    "s": "3701.TW",
-   "p": 41.3,
-   "c": 0.12,
+   "p": 41.25,
+   "c": 0.0,
    "a50": 40.28,
    "a200": 49.88,
    "yh": 78.6,
    "yl": 29.4,
    "a20": 41.05,
-   "r": 51.2
+   "r": 51.0
   },
   {
    "s": "4722.TW",
-   "p": 183.5,
-   "c": -2.91,
-   "a50": 201.03,
+   "p": 184.0,
+   "c": -2.65,
+   "a50": 201.04,
    "a200": 203.06,
    "yh": 306.5,
    "yl": 148.5,
-   "a20": 193.52,
-   "r": 39.0
+   "a20": 193.55,
+   "r": 39.4
   },
   {
    "s": "6706.TW",
-   "p": 144.0,
-   "c": 0.0,
-   "a50": 121.71,
-   "a200": 134.23,
+   "p": 143.0,
+   "c": -0.69,
+   "a50": 121.69,
+   "a200": 134.22,
    "yh": 216.5,
    "yl": 66.1,
-   "a20": 135.88,
-   "r": 56.1
+   "a20": 135.82,
+   "r": 55.4
   },
   {
    "s": "2305.TW",
@@ -135,14 +135,14 @@
   },
   {
    "s": "6515.TW",
-   "p": 5830.0,
-   "c": -2.75,
-   "a50": 6459.5,
-   "a200": 6583.58,
+   "p": 5850.0,
+   "c": -2.42,
+   "a50": 6459.9,
+   "a200": 6583.68,
    "yh": 10795.0,
    "yl": 2020.0,
-   "a20": 6584.75,
-   "r": 39.5
+   "a20": 6585.75,
+   "r": 39.8
   },
   {
    "s": "6446.TW",
@@ -157,47 +157,47 @@
   },
   {
    "s": "3324.TWO",
-   "p": 1705.0,
-   "c": 6.9,
-   "a50": 1145.7,
-   "a200": 1041.9,
-   "yh": 1705.0,
+   "p": 1710.0,
+   "c": 7.21,
+   "a50": 1145.8,
+   "a200": 1041.92,
+   "yh": 1710.0,
    "yl": 815.0,
-   "a20": 1410.5,
-   "r": 73.2
+   "a20": 1410.75,
+   "r": 73.4
   },
   {
    "s": "3491.TWO",
-   "p": 1545.0,
-   "c": -1.28,
-   "a50": 1327.24,
-   "a200": 1330.27,
+   "p": 1555.0,
+   "c": -0.64,
+   "a50": 1327.44,
+   "a200": 1330.32,
    "yh": 2200.0,
    "yl": 420.5,
-   "a20": 1464.75,
-   "r": 57.9
+   "a20": 1465.25,
+   "r": 58.7
   },
   {
    "s": "3585.TWO",
-   "p": 46.3,
-   "c": 2.55,
-   "a50": 47.79,
+   "p": 46.15,
+   "c": 2.21,
+   "a50": 47.78,
    "a200": 46.48,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 47.13,
-   "r": 46.1
+   "a20": 47.12,
+   "r": 45.6
   },
   {
    "s": "6223.TWO",
-   "p": 5400.0,
-   "c": -3.91,
-   "a50": 5615.9,
-   "a200": 4525.42,
+   "p": 5415.0,
+   "c": -3.65,
+   "a50": 5616.2,
+   "a200": 4525.5,
    "yh": 7380.0,
    "yl": 1635.0,
-   "a20": 5449.75,
-   "r": 47.1
+   "a20": 5450.5,
+   "r": 47.3
   },
   {
    "s": "6750.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 48108.46,
-   "c": -0.1,
-   "a50": 45184.07,
-   "a200": 38518.17,
+   "p": 48024.6,
+   "c": -0.28,
+   "a50": 45182.39,
+   "a200": 38517.75,
    "yh": 48157.29,
    "yl": 25580.32,
-   "a20": 46668.72,
-   "r": 64.6
+   "a20": 46664.52,
+   "r": 63.7
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.6,
-   "c": -5.32,
-   "a50": 93.17,
+   "p": 98.2,
+   "c": -4.73,
+   "a50": 93.19,
    "a200": 86.44,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 99.61,
-   "r": 49.3
+   "a20": 99.64,
+   "r": 50.1
   },
   {
    "s": "GC=F",
-   "p": 4320.9,
-   "c": 0.06,
-   "a50": 4348.42,
-   "a200": 4555.65,
+   "p": 4317.3,
+   "c": -0.03,
+   "a50": 4348.35,
+   "a200": 4555.63,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4425.76,
-   "r": 42.0
+   "a20": 4425.58,
+   "r": 41.7
   },
   {
    "s": "HG=F",
    "p": 6.77,
-   "c": 1.35,
+   "c": 1.31,
    "a50": 6.53,
    "a200": 6.08,
    "yh": 6.8,
    "yl": 4.7,
    "a20": 6.58,
-   "r": 59.4
+   "r": 59.3
   },
   {
    "s": "TWDUSD",
    "p": 0.03143666,
-   "c": -0.4,
+   "c": -0.41,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240097.aspx"
   },
   {
-   "t": "Will Lowe's Stock Keep Falling? Unusually Heavy LOW Put Options Activity May Imply This - Or Does It?",
+   "t": "Tabi Connect, Kleinschmidt partner to automate freight quoting",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/lowes-stock-keep-falling-unusually-173002768.html"
+   "u": "https://finance.yahoo.com/technology/articles/tabi-connect-kleinschmidt-partner-automate-174105793.html"
   },
   {
    "t": "台股連假前震盪台積電疲軟　盤中48000點保衛戰",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240092.aspx"
   },
   {
-   "t": "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
+   "t": "This Stock Is Trading at New All-Time Highs and Looks Like a Great Long-Term Winner",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-amazon-stock-amzn-key-level/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/stock-trading-time-highs-looks-175002793.html"
   },
   {
    "t": "聯卡中心推信用卡簽帳單電子化　遠東SOGO率先導入",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609240060.aspx"
   },
   {
-   "t": "Soybean Bulls Pushing Higher at Midday",
+   "t": "Leveraged loan fund assets rise as Fed turns hawkish",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/soybean-bulls-pushing-higher-midday-172246256.html"
+   "u": "https://finance.yahoo.com/economy/policy/articles/leveraged-loan-fund-assets-rise-175112734.html"
   },
   {
    "t": "桃園煉油廠經理涉收賄　中油：配合調查並發掘異常情資",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240046.aspx"
   },
   {
-   "t": "Corn Slipping Back on Tuesday",
+   "t": "Caris Life Sciences Coasts Past A Buy Point; Why This Texas Biotech Researcher Deserves A Look",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/commodities/articles/corn-slipping-back-tuesday-172246595.html"
+   "u": "https://www.investors.com/research/caris-life-sciences-cai-stock-biotech-texas/?src=A00220&yptr=yahoo"
   }
  ],
  "inst": {
