@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 15:35（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 15:45（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,19 +278,19 @@
   },
   {
    "s": "^VIX",
-   "p": 15.84,
-   "c": 4.35,
-   "a50": 16.11,
+   "p": 15.82,
+   "c": 4.22,
+   "a50": 16.1,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.68,
-   "r": 50.2
+   "r": 50.1
   },
   {
    "s": "BZ=F",
-   "p": 98.27,
-   "c": -4.67,
+   "p": 98.25,
+   "c": -4.69,
    "a50": 93.19,
    "a200": 86.44,
    "yh": 118.35,
@@ -300,30 +300,30 @@
   },
   {
    "s": "GC=F",
-   "p": 4316.2,
-   "c": -0.05,
-   "a50": 4348.33,
-   "a200": 4555.63,
+   "p": 4318.8,
+   "c": 0.01,
+   "a50": 4348.38,
+   "a200": 4555.64,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4425.52,
-   "r": 41.6
+   "a20": 4425.65,
+   "r": 41.8
   },
   {
    "s": "HG=F",
    "p": 6.78,
-   "c": 1.48,
+   "c": 1.6,
    "a50": 6.53,
    "a200": 6.08,
    "yh": 6.8,
    "yl": 4.7,
    "a20": 6.58,
-   "r": 59.8
+   "r": 60.1
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": -0.45,
+   "p": 0.03144654,
+   "c": -0.39,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240097.aspx"
   },
   {
-   "t": "What is the prime rate, and how does it affect you?",
+   "t": "How to invest in gold in 7 steps",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-prime-rate-155310130.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-gold-181632105.html"
   },
   {
    "t": "台股連假前震盪台積電疲軟　盤中48000點保衛戰",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240092.aspx"
   },
   {
-   "t": "How to invest in gold in 7 steps",
+   "t": "Nebius Stock Spikes 4% on Higher Computer Prices. How to Play NBIS Stock Here.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-gold-181632105.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-spikes-4-higher-194050887.html"
   },
   {
    "t": "聯卡中心推信用卡簽帳單電子化　遠東SOGO率先導入",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609240060.aspx"
   },
   {
-   "t": "CRCL Stock Alert: What to Know as Circle Lands $100 Billion Deal With Binance",
+   "t": "12 S&P 500 Stocks Join Trillion-Dollar Club — What Could Go Wrong?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/crcl-stock-alert-know-circle-192527429.html"
+   "u": "https://www.investors.com/etfs-and-funds/sectors/sp-500-stocks-hit-trillion-dollar-club-what-could-go-wrong/?src=A00220&yptr=yahoo"
   },
   {
    "t": "桃園煉油廠經理涉收賄　中油：配合調查並發掘異常情資",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240046.aspx"
   },
   {
-   "t": "“Pattern of misconduct”: Bialostozky faces another Chicago foreclosure as alleged mortgage fraud widens across multiple states",
+   "t": "What is the prime rate, and how does it affect you?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/pattern-misconduct-bialostozky-faces-another-193000936.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-prime-rate-155310130.html"
   }
  ],
  "inst": {
