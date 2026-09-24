@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 16:16（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 16:26（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.96,
-   "c": 5.14,
+   "p": 16.09,
+   "c": 5.99,
    "a50": 16.11,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
-   "a20": 15.68,
-   "r": 50.7
+   "a20": 15.69,
+   "r": 51.3
   },
   {
    "s": "BZ=F",
-   "p": 99.4,
-   "c": -3.57,
-   "a50": 93.21,
-   "a200": 86.45,
+   "p": 100.76,
+   "c": -2.25,
+   "a50": 93.24,
+   "a200": 86.46,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 99.7,
-   "r": 51.9
+   "a20": 99.77,
+   "r": 54.2
   },
   {
    "s": "GC=F",
-   "p": 4318.5,
-   "c": 0.0,
-   "a50": 4348.38,
-   "a200": 4555.64,
+   "p": 4306.3,
+   "c": -0.28,
+   "a50": 4348.13,
+   "a200": 4555.58,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4425.64,
-   "r": 41.8
+   "a20": 4425.03,
+   "r": 40.9
   },
   {
    "s": "HG=F",
-   "p": 6.77,
-   "c": 1.41,
+   "p": 6.76,
+   "c": 1.18,
    "a50": 6.53,
    "a200": 6.08,
    "yh": 6.8,
    "yl": 4.7,
    "a20": 6.58,
-   "r": 59.6
+   "r": 59.0
   },
   {
    "s": "TWDUSD",
-   "p": 0.03142678,
-   "c": -0.45,
+   "p": 0.0314169,
+   "c": -0.46,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240211.aspx"
   },
   {
-   "t": "SHOP Stock Jumps as Meta Expands Shopify Partnership",
+   "t": "Viking Therapeutics Skyrockets On Obesity Drug Data. Lilly Rises, But Novo Falls.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/shop-stock-jumps-meta-expands-200743785.html"
+   "u": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo"
   },
   {
    "t": "三大法人賣超台股438.73億元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240178.aspx"
   },
   {
-   "t": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
+   "t": "Netflix Stock Downgraded As YouTube Swipes Viewers",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/article/qualcomm-reveals-2-new-smartphone-chips-focusing-on-agentic-ai-200000608.html"
+   "u": "https://www.investors.com/news/technology/netflix-stock-downgraded-as-youtube-swipes-viewers/?src=A00220&yptr=yahoo"
   },
   {
    "t": "歷經26年推動24日動工　台電：松湖變電所擬於2029年完工",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240176.aspx"
   },
   {
-   "t": "A $26 Million Reason Why GameStop Stock Is Up Today",
+   "t": "Microsoft Scores Positive Reviews On AI Momentum",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/26-million-reason-why-gamestop-201630953.html"
+   "u": "https://www.investors.com/news/technology/microsoft-stock-positive-reviews-ai-momentum/?src=A00220&yptr=yahoo"
   },
   {
    "t": "日股連假後開市　日經隨AI走高東證小跌",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240174.aspx"
   },
   {
-   "t": "Stock market today: Dow slips, Nasdaq posts fresh record with AI trade, Trump diplomacy in focus",
+   "t": "A $26 Million Reason Why GameStop Stock Is Up Today",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/26-million-reason-why-gamestop-201630953.html"
   },
   {
    "t": "為OpenAI投資籌資　軟銀將發行111億美元債券",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609240171.aspx"
   },
   {
-   "t": "Bill Miller IV says stop trading Bitcoin on Fed meetings, it’s a $1.6 million coin",
+   "t": "AMD Stock Has Blown Past Nvidia This Year. Is It Still the Better Buy?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/bill-miller-iv-says-stop-200643123.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-blown-past-nvidia-202001129.html"
   }
  ],
  "inst": {
