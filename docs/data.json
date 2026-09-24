@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 16:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 16:16（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.84,
-   "c": 4.35,
+   "p": 15.96,
+   "c": 5.14,
    "a50": 16.11,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.68,
-   "r": 50.2
+   "r": 50.7
   },
   {
    "s": "BZ=F",
-   "p": 98.63,
-   "c": -4.32,
-   "a50": 93.19,
-   "a200": 86.44,
+   "p": 99.4,
+   "c": -3.57,
+   "a50": 93.21,
+   "a200": 86.45,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 99.66,
-   "r": 50.8
+   "a20": 99.7,
+   "r": 51.9
   },
   {
    "s": "GC=F",
-   "p": 4314.4,
-   "c": -0.09,
-   "a50": 4348.29,
-   "a200": 4555.62,
+   "p": 4318.5,
+   "c": 0.0,
+   "a50": 4348.38,
+   "a200": 4555.64,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4425.43,
-   "r": 41.5
+   "a20": 4425.64,
+   "r": 41.8
   },
   {
    "s": "HG=F",
-   "p": 6.78,
-   "c": 1.59,
+   "p": 6.77,
+   "c": 1.41,
    "a50": 6.53,
    "a200": 6.08,
    "yh": 6.8,
    "yl": 4.7,
    "a20": 6.58,
-   "r": 60.0
+   "r": 59.6
   },
   {
    "s": "TWDUSD",
-   "p": 0.03144654,
-   "c": -0.39,
+   "p": 0.03142678,
+   "c": -0.45,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "美聯準會釋鷹派訊號推升美元　金價跌逾1%",
+   "t": "川習會將登場  外界對中國新增波音飛機採購預期降溫",
    "pub": "中央社財經",
    "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/aopl/202609240105.aspx"
+   "u": "https://www.cna.com.tw/news/acn/202609240212.aspx"
   },
   {
    "t": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
@@ -344,22 +344,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html"
   },
   {
-   "t": "川習會將登場　張建一：不會改變台美AI合作",
+   "t": "龔明鑫：上市櫃公司布局全球　讓台灣成經濟日不落國",
    "pub": "中央社財經",
    "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/afe/202609240098.aspx"
-  },
-  {
-   "t": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
-   "pub": "Yahoo Finance",
-   "d": "",
-   "u": "https://finance.yahoo.com/technology/article/qualcomm-reveals-2-new-smartphone-chips-focusing-on-agentic-ai-200000608.html"
-  },
-  {
-   "t": "新台幣午盤重貶1.24角　暫收31.84元",
-   "pub": "中央社財經",
-   "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/afe/202609240097.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609240211.aspx"
   },
   {
    "t": "SHOP Stock Jumps as Meta Expands Shopify Partnership",
@@ -368,22 +356,22 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/shop-stock-jumps-meta-expands-200743785.html"
   },
   {
-   "t": "台股連假前震盪台積電疲軟　盤中48000點保衛戰",
+   "t": "三大法人賣超台股438.73億元",
    "pub": "中央社財經",
    "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/afe/202609240092.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609240178.aspx"
   },
   {
-   "t": "Stock market today: Dow slips, Nasdaq posts fresh record with AI trade, Trump diplomacy in focus",
+   "t": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html"
+   "u": "https://finance.yahoo.com/technology/article/qualcomm-reveals-2-new-smartphone-chips-focusing-on-agentic-ai-200000608.html"
   },
   {
-   "t": "聯卡中心推信用卡簽帳單電子化　遠東SOGO率先導入",
+   "t": "歷經26年推動24日動工　台電：松湖變電所擬於2029年完工",
    "pub": "中央社財經",
    "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/ahel/202609240060.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609240176.aspx"
   },
   {
    "t": "A $26 Million Reason Why GameStop Stock Is Up Today",
@@ -392,92 +380,104 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/26-million-reason-why-gamestop-201630953.html"
   },
   {
-   "t": "桃園煉油廠經理涉收賄　中油：配合調查並發掘異常情資",
+   "t": "日股連假後開市　日經隨AI走高東證小跌",
    "pub": "中央社財經",
    "d": "2026-09-24",
-   "u": "https://www.cna.com.tw/news/afe/202609240046.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609240174.aspx"
   },
   {
-   "t": "Media One Acquires Premex Solutions",
+   "t": "Stock market today: Dow slips, Nasdaq posts fresh record with AI trade, Trump diplomacy in focus",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/media-advertising/articles/media-one-acquires-premex-solutions-195703710.html"
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html"
+  },
+  {
+   "t": "為OpenAI投資籌資　軟銀將發行111億美元債券",
+   "pub": "中央社財經",
+   "d": "2026-09-24",
+   "u": "https://www.cna.com.tw/news/aopl/202609240171.aspx"
+  },
+  {
+   "t": "Bill Miller IV says stop trading Bitcoin on Fed meetings, it’s a $1.6 million coin",
+   "pub": "Yahoo Finance",
+   "d": "",
+   "u": "https://finance.yahoo.com/markets/crypto/articles/bill-miller-iv-says-stop-200643123.html"
   }
  ],
  "inst": {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "byCode": {
-   "2317": {
-    "f": 5860,
-    "t": 967,
-    "all": 7773
-   },
-   "2330": {
-    "f": 7123,
-    "t": -1143,
-    "all": 6304
+   "2327": {
+    "f": 2132,
+    "t": -266,
+    "all": 2338
    },
    "2454": {
-    "f": 496,
-    "t": -18,
-    "all": 519
-   },
-   "2308": {
-    "f": -140,
-    "t": 211,
-    "all": 135
-   },
-   "4722": {
-    "f": 55,
-    "t": 0,
-    "all": 54
-   },
-   "3701": {
-    "f": 27,
-    "t": 0,
-    "all": 26
-   },
-   "6862": {
-    "f": 11,
-    "t": 0,
-    "all": 11
-   },
-   "6442": {
-    "f": 172,
-    "t": -215,
-    "all": -48
-   },
-   "6515": {
-    "f": -59,
-    "t": -25,
-    "all": -78
-   },
-   "6706": {
-    "f": -125,
-    "t": 0,
-    "all": -210
-   },
-   "2305": {
-    "f": -388,
-    "t": 0,
-    "all": -360
-   },
-   "6446": {
-    "f": -534,
-    "t": 16,
-    "all": -453
+    "f": 826,
+    "t": -256,
+    "all": 703
    },
    "1802": {
-    "f": -5152,
-    "t": 4,
-    "all": -5414
+    "f": 507,
+    "t": 0,
+    "all": 397
    },
-   "2327": {
-    "f": -5207,
-    "t": -335,
-    "all": -5434
+   "2305": {
+    "f": 393,
+    "t": 0,
+    "all": 396
+   },
+   "2308": {
+    "f": -328,
+    "t": 430,
+    "all": 244
+   },
+   "4722": {
+    "f": 21,
+    "t": 0,
+    "all": 15
+   },
+   "6862": {
+    "f": 0,
+    "t": 0,
+    "all": 0
+   },
+   "6442": {
+    "f": 148,
+    "t": -179,
+    "all": -18
+   },
+   "3701": {
+    "f": -22,
+    "t": 0,
+    "all": -25
+   },
+   "6515": {
+    "f": -116,
+    "t": -37,
+    "all": -158
+   },
+   "6446": {
+    "f": -422,
+    "t": -16,
+    "all": -438
+   },
+   "6706": {
+    "f": -639,
+    "t": 0,
+    "all": -642
+   },
+   "2330": {
+    "f": -4668,
+    "t": -1014,
+    "all": -5439
+   },
+   "2317": {
+    "f": -23873,
+    "t": -263,
+    "all": -24232
    }
   },
-  "totalNetE": 383.8
+  "totalNetE": -438.7
  }
 }
