@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 15:55（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 16:06（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.82,
-   "c": 4.22,
-   "a50": 16.1,
+   "p": 15.84,
+   "c": 4.35,
+   "a50": 16.11,
    "a200": 18.08,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.68,
-   "r": 50.1
+   "r": 50.2
   },
   {
    "s": "BZ=F",
-   "p": 98.21,
-   "c": -4.72,
+   "p": 98.63,
+   "c": -4.32,
    "a50": 93.19,
    "a200": 86.44,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 99.64,
-   "r": 50.1
+   "a20": 99.66,
+   "r": 50.8
   },
   {
    "s": "GC=F",
-   "p": 4319.4,
-   "c": 0.02,
-   "a50": 4348.39,
-   "a200": 4555.65,
+   "p": 4314.4,
+   "c": -0.09,
+   "a50": 4348.29,
+   "a200": 4555.62,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4425.68,
-   "r": 41.9
+   "a20": 4425.43,
+   "r": 41.5
   },
   {
    "s": "HG=F",
-   "p": 6.79,
-   "c": 1.73,
+   "p": 6.78,
+   "c": 1.59,
    "a50": 6.53,
    "a200": 6.08,
    "yh": 6.8,
    "yl": 4.7,
    "a20": 6.58,
-   "r": 60.4
+   "r": 60.0
   },
   {
    "s": "TWDUSD",
    "p": 0.03144654,
-   "c": -0.36,
+   "c": -0.39,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240046.aspx"
   },
   {
-   "t": "How Low Can PG&E Stock Go When The Risk Is Its Own?",
+   "t": "Media One Acquires Premex Solutions",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/low-pg-e-stock-risk-195308432.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/media-one-acquires-premex-solutions-195703710.html"
   }
  ],
  "inst": {
