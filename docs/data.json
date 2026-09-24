@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 07:54（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 08:04（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -212,47 +212,47 @@
   },
   {
    "s": "AAPL",
-   "p": 337.02,
-   "c": -0.8,
-   "a50": 321.51,
-   "a200": 287.16,
+   "p": 339.75,
+   "c": 0.23,
+   "a50": 321.06,
+   "a200": 286.88,
    "yh": 340.08,
    "yl": 245.27,
-   "a20": 326.95,
-   "r": 62.9
+   "a20": 325.59,
+   "r": 66.9
   },
   {
    "s": "NVDA",
-   "p": 225.51,
-   "c": -1.47,
-   "a50": 215.38,
-   "a200": 199.06,
+   "p": 228.87,
+   "c": 0.66,
+   "a50": 215.11,
+   "a200": 198.85,
    "yh": 235.74,
    "yl": 165.17,
-   "a20": 221.15,
-   "r": 55.7
+   "a20": 220.53,
+   "r": 59.4
   },
   {
    "s": "TSLA",
-   "p": 380.12,
-   "c": 0.32,
-   "a50": 348.96,
-   "a200": 396.34,
+   "p": 378.9,
+   "c": 0.96,
+   "a50": 349.28,
+   "a200": 396.72,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 363.21,
-   "r": 60.6
+   "a20": 361.72,
+   "r": 60.1
   },
   {
    "s": "META",
-   "p": 744.1,
-   "c": 1.02,
-   "a50": 612.08,
-   "a200": 625.53,
+   "p": 736.6,
+   "c": -0.63,
+   "a50": 610.42,
+   "a200": 625.11,
    "yh": 760.66,
    "yl": 525.72,
-   "a20": 641.76,
-   "r": 77.0
+   "a20": 633.06,
+   "r": 76.0
   },
   {
    "s": "^TWII",
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.81,
-   "c": -1.45,
-   "a50": 92.82,
+   "p": 97.76,
+   "c": -1.5,
+   "a50": 92.81,
    "a200": 86.24,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.86,
-   "r": 50.1
+   "a20": 98.85,
+   "r": 50.0
   },
   {
    "s": "GC=F",
-   "p": 4320.4,
-   "c": -1.28,
-   "a50": 4343.08,
-   "a200": 4555.27,
+   "p": 4325.6,
+   "c": -1.16,
+   "a50": 4343.19,
+   "a200": 4555.3,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.48,
-   "r": 41.9
+   "a20": 4442.74,
+   "r": 42.3
   },
   {
    "s": "HG=F",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240003.aspx"
   },
   {
-   "t": "Nvidia Stock is Historically Cheap. The Decade-Low Multiple Reflects Risks, But This Looks Like a Can't-Miss Buy Opportunity for NVDA.",
+   "t": "Is FactSet Stock Underperforming the Nasdaq?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-historically-cheap-decade-160406626.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/factset-stock-underperforming-nasdaq-160607471.html"
   },
   {
    "t": "今彩539第115231期　頭獎3注中獎",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "Is FactSet Stock Underperforming the Nasdaq?",
+   "t": "Saudi Pipeline Restart Fails to End Oil Market Tightness",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/factset-stock-underperforming-nasdaq-160607471.html"
+   "u": "https://finance.yahoo.com/energy/articles/saudi-pipeline-restart-fails-end-161000625.html"
   }
  ],
  "inst": {
