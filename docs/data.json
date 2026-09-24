@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 14:33（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 14:43（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,25 +289,25 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.35,
-   "c": -4.59,
-   "a50": 93.19,
+   "p": 98.71,
+   "c": -4.24,
+   "a50": 93.2,
    "a200": 86.44,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 99.65,
-   "r": 50.3
+   "a20": 99.66,
+   "r": 50.9
   },
   {
    "s": "GC=F",
-   "p": 4320.3,
-   "c": 0.04,
-   "a50": 4348.41,
-   "a200": 4555.65,
+   "p": 4316.4,
+   "c": -0.05,
+   "a50": 4348.33,
+   "a200": 4555.63,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4425.73,
-   "r": 42.0
+   "a20": 4425.53,
+   "r": 41.6
   },
   {
    "s": "HG=F",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240097.aspx"
   },
   {
-   "t": "Should you apply for multiple credit cards at once?",
+   "t": "SanDisk Just Scored a New 'Buy' Rating. Here's Why.",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/personal-finance/credit-cards/article/should-you-apply-for-multiple-credit-cards-at-once-180015761.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/sandisk-just-scored-buy-rating-184617334.html"
   },
   {
    "t": "台股連假前震盪台積電疲軟　盤中48000點保衛戰",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240092.aspx"
   },
   {
-   "t": "Corporate bond buyers get picky with flood of AI debt",
+   "t": "CRCL Stock Alert: What to Know as Circle Lands $100 Billion Deal With Binance",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/crcl-stock-alert-know-circle-192527429.html"
   },
   {
    "t": "聯卡中心推信用卡簽帳單電子化　遠東SOGO率先導入",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609240060.aspx"
   },
   {
-   "t": "Arm Stock: Too Good to Sell, Too Expensive to Buy",
+   "t": "How to invest in gold in 7 steps",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-too-good-sell-182431532.html"
+   "u": "https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-gold-181632105.html"
   },
   {
    "t": "桃園煉油廠經理涉收賄　中油：配合調查並發掘異常情資",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240046.aspx"
   },
   {
-   "t": "Ollie’s (OLLI): Wall Street Calls Q2 “Better Than Feared,” But Nobody’s Fully Convinced",
+   "t": "Netskope (NTSK) Is Tackling a Major AI Agent Security Gap. Can Skylight Deepen Its Edge?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/ollie-olli-wall-street-calls-185951157.html"
+   "u": "https://finance.yahoo.com/technology/ai/articles/netskope-ntsk-tackling-major-ai-185139812.html"
   }
  ],
  "inst": {
