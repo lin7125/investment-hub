@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 08:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 08:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 97.76,
-   "c": -1.5,
-   "a50": 92.81,
+   "p": 97.98,
+   "c": -1.28,
+   "a50": 92.82,
    "a200": 86.24,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 98.85,
-   "r": 50.0
+   "a20": 98.87,
+   "r": 50.4
   },
   {
    "s": "GC=F",
-   "p": 4325.6,
-   "c": -1.16,
-   "a50": 4343.19,
-   "a200": 4555.3,
+   "p": 4324.0,
+   "c": -1.2,
+   "a50": 4343.15,
+   "a200": 4555.29,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4442.74,
-   "r": 42.3
+   "a20": 4442.66,
+   "r": 42.2
   },
   {
    "s": "HG=F",
-   "p": 6.78,
-   "c": 0.29,
+   "p": 6.77,
+   "c": 0.21,
    "a50": 6.52,
    "a200": 6.07,
    "yh": 6.8,
    "yl": 4.58,
    "a20": 6.58,
-   "r": 61.1
+   "r": 60.9
   },
   {
    "s": "TWDUSD",
-   "p": 0.03145643,
-   "c": -0.34,
+   "p": 0.03146633,
+   "c": -0.32,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240008.aspx"
   },
   {
-   "t": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
+   "t": "Xpeng’s Tech-Licensing Expansion Meets a Core Auto Business Still Losing Money",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/xpeng-tech-licensing-expansion-meets-123610355.html"
   },
   {
    "t": "市場評估美伊協議可能性　歐股收跌油價走高",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240003.aspx"
   },
   {
-   "t": "Is FactSet Stock Underperforming the Nasdaq?",
+   "t": "How Is CF Industries Stock Performance Compared to Other Agricultural Stocks",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/factset-stock-underperforming-nasdaq-160607471.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/cf-industries-stock-performance-compared-123532860.html"
   },
   {
    "t": "今彩539第115231期　頭獎3注中獎",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609230358.aspx"
   },
   {
-   "t": "As Amazon Stock Prospers, Traders Might Consider This Option Play",
+   "t": "Soybeans Fading Back After Monday’s Rally",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://www.investors.com/research/options/amazon-amzn-stock-bull-put-spread-options/?src=A00220&yptr=yahoo"
+   "u": "https://finance.yahoo.com/markets/commodities/articles/soybeans-fading-back-monday-rally-123810668.html"
   },
   {
    "t": "鑫創營運虧損擬調整業務方向　11/23起分批資遣部分員工",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609230355.aspx"
   },
   {
-   "t": "Saudi Pipeline Restart Fails to End Oil Market Tightness",
+   "t": "Is IDEX Corporation Stock Outperforming the S&P 500?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/energy/articles/saudi-pipeline-restart-fails-end-161000625.html"
+   "u": "https://finance.yahoo.com/markets/stocks/articles/idex-corporation-stock-outperforming-p-123232001.html"
   }
  ],
  "inst": {
