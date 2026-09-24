@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24 15:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-24 15:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 46.45,
-   "c": 2.88,
+   "p": 46.5,
+   "c": 2.99,
    "a50": 47.79,
    "a200": 46.48,
    "yh": 165.0,
    "yl": 11.65,
    "a20": 47.14,
-   "r": 46.5
+   "r": 46.7
   },
   {
    "s": "6223.TWO",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 48024.6,
-   "c": -0.28,
-   "a50": 45182.39,
-   "a200": 38517.75,
+   "p": 48157.29,
+   "c": 0.92,
+   "a50": 45134.53,
+   "a200": 38414.67,
    "yh": 48157.29,
    "yl": 25580.32,
-   "a20": 46664.52,
-   "r": 63.7
+   "a20": 46554.93,
+   "r": 65.1
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.74,
-   "c": -4.21,
-   "a50": 93.2,
-   "a200": 86.45,
+   "p": 98.59,
+   "c": -4.36,
+   "a50": 93.19,
+   "a200": 86.44,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 99.67,
-   "r": 50.9
+   "a20": 99.66,
+   "r": 50.7
   },
   {
    "s": "GC=F",
-   "p": 4312.3,
-   "c": -0.14,
-   "a50": 4348.25,
-   "a200": 4555.61,
+   "p": 4313.7,
+   "c": -0.11,
+   "a50": 4348.28,
+   "a200": 4555.62,
    "yh": 5318.4,
    "yl": 3768.1,
-   "a20": 4425.33,
-   "r": 41.3
+   "a20": 4425.4,
+   "r": 41.4
   },
   {
    "s": "HG=F",
-   "p": 6.75,
-   "c": 1.09,
+   "p": 6.77,
+   "c": 1.33,
    "a50": 6.53,
    "a200": 6.08,
    "yh": 6.8,
    "yl": 4.7,
    "a20": 6.58,
-   "r": 58.8
+   "r": 59.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.0314169,
-   "c": -0.47,
+   "p": 0.03143666,
+   "c": -0.42,
    "a50": 0.03127932,
    "a200": 0.03153579,
    "yh": 0.032873,
@@ -338,10 +338,10 @@
    "u": "https://www.cna.com.tw/news/aopl/202609240105.aspx"
   },
   {
-   "t": "Bessent just picked the one wage measure still rising",
+   "t": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html"
+   "u": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html"
   },
   {
    "t": "川習會將登場　張建一：不會改變台美AI合作",
@@ -350,10 +350,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240098.aspx"
   },
   {
-   "t": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
+   "t": "Bessent just picked the one wage measure still rising",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html"
+   "u": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html"
   },
   {
    "t": "新台幣午盤重貶1.24角　暫收31.84元",
@@ -362,10 +362,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240097.aspx"
   },
   {
-   "t": "Netskope (NTSK) Is Tackling a Major AI Agent Security Gap. Can Skylight Deepen Its Edge?",
+   "t": "Best Practices in Sports Investing: 2nd LA CorpGov Forum",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/technology/ai/articles/netskope-ntsk-tackling-major-ai-185139812.html"
+   "u": "https://finance.yahoo.com/media-advertising/articles/best-practices-sports-investing-2nd-191154115.html"
   },
   {
    "t": "台股連假前震盪台積電疲軟　盤中48000點保衛戰",
@@ -374,10 +374,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240092.aspx"
   },
   {
-   "t": "Dear Microsoft Stock Fans, Mark Your Calendars for September 24",
+   "t": "What is the prime rate, and how does it affect you?",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/dear-microsoft-stock-fans-mark-185339421.html"
+   "u": "https://finance.yahoo.com/personal-finance/banking/article/what-is-prime-rate-155310130.html"
   },
   {
    "t": "聯卡中心推信用卡簽帳單電子化　遠東SOGO率先導入",
@@ -386,10 +386,10 @@
    "u": "https://www.cna.com.tw/news/ahel/202609240060.aspx"
   },
   {
-   "t": "“Pattern of misconduct”: Bialostozky faces another Chicago foreclosure as alleged mortgage fraud widens across multiple states",
+   "t": "Integra ready to deploy $250M after closing multifamily fund",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/real-estate/articles/pattern-misconduct-bialostozky-faces-another-193000936.html"
+   "u": "https://finance.yahoo.com/real-estate/articles/integra-ready-deploy-250m-closing-191212523.html"
   },
   {
    "t": "桃園煉油廠經理涉收賄　中油：配合調查並發掘異常情資",
@@ -398,10 +398,10 @@
    "u": "https://www.cna.com.tw/news/afe/202609240046.aspx"
   },
   {
-   "t": "CRCL Stock Alert: What to Know as Circle Lands $100 Billion Deal With Binance",
+   "t": "Diplomatic Hopes in the Middle East Knock Crude Prices Lower",
    "pub": "Yahoo Finance",
    "d": "",
-   "u": "https://finance.yahoo.com/markets/crypto/articles/crcl-stock-alert-know-circle-192527429.html"
+   "u": "https://finance.yahoo.com/energy/articles/diplomatic-hopes-middle-east-knock-191435224.html"
   }
  ],
  "inst": {
