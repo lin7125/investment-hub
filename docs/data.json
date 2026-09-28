@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29 06:44（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-29 06:55（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -289,30 +289,30 @@
   },
   {
    "s": "BZ=F",
-   "p": 98.63,
-   "c": -5.45,
+   "p": 98.67,
+   "c": -5.42,
    "a50": 93.97,
    "a200": 86.88,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 101.26,
-   "r": 49.3
+   "r": 49.4
   },
   {
    "s": "GC=F",
-   "p": 4155.0,
-   "c": -3.85,
-   "a50": 4357.27,
-   "a200": 4555.65,
+   "p": 4156.7,
+   "c": -3.81,
+   "a50": 4357.31,
+   "a200": 4555.66,
    "yh": 5318.4,
    "yl": 3855.2,
-   "a20": 4388.73,
-   "r": 32.3
+   "a20": 4388.81,
+   "r": 32.4
   },
   {
    "s": "HG=F",
    "p": 6.62,
-   "c": -1.17,
+   "c": -1.16,
    "a50": 6.54,
    "a200": 6.09,
    "yh": 6.8,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "美國與伊朗談判未能緩解供應疑慮　國際油價小漲",
+   "t": "中東戰事未落幕、美債殖利率攀升　華爾街股市收低",
    "pub": "中央社財經",
    "d": "2026-09-29",
-   "u": "https://www.cna.com.tw/news/afe/202609290010.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609290012.aspx"
   },
   {
    "t": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html"
   },
   {
-   "t": "川普拒絕伊朗停火提案　歐股收盤基本持平",
+   "t": "超微將砸82億美元　收購AI企業World Labs",
    "pub": "中央社財經",
    "d": "2026-09-29",
-   "u": "https://www.cna.com.tw/news/afe/202609290003.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202609290011.aspx"
   },
   {
    "t": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html"
   },
   {
-   "t": "摩根大通估全球AI題材回檔後有望復甦　看多半導體股",
+   "t": "美國與伊朗談判未能緩解供應疑慮　國際油價小漲",
    "pub": "中央社財經",
-   "d": "2026-09-28",
-   "u": "https://www.cna.com.tw/news/afe/202609280244.aspx"
+   "d": "2026-09-29",
+   "u": "https://www.cna.com.tw/news/afe/202609290010.aspx"
   },
   {
    "t": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html"
   },
   {
-   "t": "宏碁50週年音樂劇　台積電魏哲家現身力挺",
+   "t": "川普拒絕伊朗停火提案　歐股收盤基本持平",
    "pub": "中央社財經",
-   "d": "2026-09-28",
-   "u": "https://www.cna.com.tw/news/afe/202609280242.aspx"
+   "d": "2026-09-29",
+   "u": "https://www.cna.com.tw/news/afe/202609290003.aspx"
   },
   {
    "t": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html"
   },
   {
-   "t": "今彩539第115235期　頭獎1注中獎",
+   "t": "摩根大通估全球AI題材回檔後有望復甦　看多半導體股",
    "pub": "中央社財經",
    "d": "2026-09-28",
-   "u": "https://www.cna.com.tw/news/ahel/202609280235.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609280244.aspx"
   },
   {
    "t": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html"
   },
   {
-   "t": "川普拒伊朗和平方案致油價飆漲　美股開低",
+   "t": "宏碁50週年音樂劇　台積電魏哲家現身力挺",
    "pub": "中央社財經",
    "d": "2026-09-28",
-   "u": "https://www.cna.com.tw/news/afe/202609280234.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609280242.aspx"
   },
   {
    "t": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
