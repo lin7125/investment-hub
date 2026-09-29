@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29 14:58（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-29 15:01（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 54.0,
-   "c": -3.57,
-   "a50": 56.06,
-   "a200": 58.87,
+   "p": 55.7,
+   "c": -0.54,
+   "a50": 56.09,
+   "a200": 58.88,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 57.44,
-   "r": 34.4
+   "a20": 57.53,
+   "r": 41.5
   },
   {
    "s": "AAPL",
@@ -289,9 +289,9 @@
   },
   {
    "s": "BZ=F",
-   "p": 99.48,
-   "c": -5.51,
-   "a50": 94.3,
+   "p": 99.52,
+   "c": -5.47,
+   "a50": 94.31,
    "a200": 87.1,
    "yh": 118.35,
    "yl": 58.92,
@@ -300,19 +300,19 @@
   },
   {
    "s": "GC=F",
-   "p": 4173.6,
-   "c": -3.42,
-   "a50": 4357.64,
-   "a200": 4555.74,
+   "p": 4172.3,
+   "c": 0.09,
+   "a50": 4360.67,
+   "a200": 4555.45,
    "yh": 5318.4,
    "yl": 3855.2,
-   "a20": 4389.66,
-   "r": 33.2
+   "a20": 4373.94,
+   "r": 33.4
   },
   {
    "s": "HG=F",
    "p": 6.63,
-   "c": 0.96,
+   "c": 0.97,
    "a50": 6.55,
    "a200": 6.1,
    "yh": 6.8,
@@ -323,7 +323,7 @@
   {
    "s": "TWDUSD",
    "p": 0.03136763,
-   "c": -0.32,
+   "c": -0.3,
    "a50": 0.0313087,
    "a200": 0.03152585,
    "yh": 0.032765,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "300億對300億  分析：美中經貿關係短期內不再大起大落",
+   "t": "美好市多獲58.5億關稅退款　商品降價台灣未表態跟進",
    "pub": "中央社財經",
    "d": "2026-09-29",
-   "u": "https://www.cna.com.tw/news/acn/202609290111.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202609290150.aspx"
   },
   {
    "t": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html"
   },
   {
-   "t": "9月消費信心升至1年半高點　股房信心同步回溫",
+   "t": "高本益比族群領跌　台股下挫392點收47631點",
    "pub": "中央社財經",
    "d": "2026-09-29",
-   "u": "https://www.cna.com.tw/news/afe/202609290100.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609290143.aspx"
   },
   {
    "t": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html"
   },
   {
-   "t": "中秋連假帶動聚餐潮　王品4天營收衝3.59億",
+   "t": "10月台股期指跌358點",
    "pub": "中央社財經",
    "d": "2026-09-29",
-   "u": "https://www.cna.com.tw/news/afe/202609290099.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609290135.aspx"
   },
   {
    "t": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html"
   },
   {
-   "t": "新台幣午盤貶2.2分　暫收31.802元",
+   "t": "10月電子期金融期齊跌",
    "pub": "中央社財經",
    "d": "2026-09-29",
-   "u": "https://www.cna.com.tw/news/afe/202609290093.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609290133.aspx"
   },
   {
    "t": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html"
   },
   {
-   "t": "與台積電合作碳封存　台塑化林克彥：不是1年、2年的事",
+   "t": "台股終場跌392點收47631點　失守5日線",
    "pub": "中央社財經",
    "d": "2026-09-29",
-   "u": "https://www.cna.com.tw/news/afe/202609290079.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609290132.aspx"
   },
   {
    "t": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html"
   },
   {
-   "t": "台股盤中跌逾400點　聯發科、台達電回檔",
+   "t": "台股跌392.64點",
    "pub": "中央社財經",
    "d": "2026-09-29",
-   "u": "https://www.cna.com.tw/news/afe/202609290077.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609290130.aspx"
   },
   {
    "t": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
