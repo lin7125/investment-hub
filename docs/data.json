@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30 15:04（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-09-30 15:14（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -256,14 +256,14 @@
   },
   {
    "s": "^TWII",
-   "p": 47940.13,
-   "c": 0.65,
-   "a50": 45434.92,
-   "a200": 38821.99,
+   "p": 47631.96,
+   "c": -0.82,
+   "a50": 45325.11,
+   "a200": 38719.0,
    "yh": 48157.29,
    "yl": 25820.54,
-   "a20": 46911.38,
-   "r": 61.7
+   "a20": 46820.8,
+   "r": 59.6
   },
   {
    "s": "^GSPC",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 96.41,
-   "c": -6.02,
+   "p": 96.0,
+   "c": -6.42,
    "a50": 94.47,
    "a200": 87.29,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 102.28,
-   "r": 45.3
+   "a20": 102.26,
+   "r": 44.8
   },
   {
    "s": "GC=F",
-   "p": 4224.1,
-   "c": 1.06,
-   "a50": 4363.77,
-   "a200": 4555.05,
+   "p": 4225.8,
+   "c": 1.1,
+   "a50": 4363.8,
+   "a200": 4555.06,
    "yh": 5318.4,
    "yl": 3868.1,
-   "a20": 4365.69,
-   "r": 38.8
+   "a20": 4365.78,
+   "r": 39.0
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 1.42,
+   "p": 6.63,
+   "c": 1.39,
    "a50": 6.55,
    "a200": 6.11,
    "yh": 6.8,
    "yl": 4.8,
    "a20": 6.59,
-   "r": 52.8
+   "r": 52.7
   },
   {
    "s": "TWDUSD",
-   "p": 0.03138732,
-   "c": -0.24,
+   "p": 0.0314169,
+   "c": -0.15,
    "a50": 0.03131851,
    "a200": 0.03152585,
    "yh": 0.032744,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "新台幣午盤升0.2分　暫收31.874元",
+   "t": "台電綠電彈性分配計畫採4時段月結制　預計10月上路",
    "pub": "中央社財經",
    "d": "2026-09-30",
-   "u": "https://www.cna.com.tw/news/afe/202609300087.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609300160.aspx"
   },
   {
    "t": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html"
   },
   {
-   "t": "醫療照護走入家中　壽險業接力推在宅醫療保單",
+   "t": "台股第3季先蹲後跳上漲1814點　法人看好第4季衝5萬點",
    "pub": "中央社財經",
    "d": "2026-09-30",
-   "u": "https://www.cna.com.tw/news/afe/202609300077.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609300154.aspx"
   },
   {
    "t": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html"
   },
   {
-   "t": "宏碁平板標案需求回溫　跨足電子紙搶攻第二螢幕商機",
+   "t": "遠百：台灣經濟挹注買氣　週年慶業績估增3.5%",
    "pub": "中央社財經",
    "d": "2026-09-30",
-   "u": "https://www.cna.com.tw/news/afe/202609300042.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609300144.aspx"
   },
   {
    "t": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html"
   },
   {
-   "t": "科技股強勢　台股盤中大漲逾700點站回48000點大關",
+   "t": "10月電子期漲　金融期跌",
    "pub": "中央社財經",
    "d": "2026-09-30",
-   "u": "https://www.cna.com.tw/news/afe/202609300040.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609300142.aspx"
   },
   {
    "t": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html"
   },
   {
-   "t": "泰山通過投標街口支付股權拍賣　油安事件恐衝擊明年配息",
+   "t": "10月台股期指漲549點",
    "pub": "中央社財經",
    "d": "2026-09-30",
-   "u": "https://www.cna.com.tw/news/afe/202609300036.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609300139.aspx"
   },
   {
    "t": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html"
   },
   {
-   "t": "鴻海員工分紅獎金入帳　表現優異者逾百萬元入袋",
+   "t": "因應算力需求　龔明鑫：10年內新增25部大型燃氣機組上線",
    "pub": "中央社財經",
    "d": "2026-09-30",
-   "u": "https://www.cna.com.tw/news/afe/202609300025.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202609300136.aspx"
   },
   {
    "t": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
