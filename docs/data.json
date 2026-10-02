@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-02 14:49（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-10-02 15:00（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 63.7,
-   "c": 28.82,
-   "a50": 48.1,
-   "a200": 47.24,
+   "p": 62.2,
+   "c": 25.78,
+   "a50": 48.07,
+   "a200": 47.23,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 48.23,
-   "r": 71.3
+   "a20": 48.15,
+   "r": 70.1
   },
   {
    "s": "6223.TWO",
@@ -201,14 +201,14 @@
   },
   {
    "s": "6750.TWO",
-   "p": 55.0,
-   "c": -0.54,
+   "p": 55.3,
+   "c": 0.0,
    "a50": 55.94,
    "a200": 59.06,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 57.45,
-   "r": 41.2
+   "a20": 57.47,
+   "r": 42.6
   },
   {
    "s": "AAPL",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 101.44,
-   "c": -0.85,
+   "p": 101.42,
+   "c": -0.87,
    "a50": 94.8,
    "a200": 87.73,
    "yh": 118.35,
    "yl": 58.92,
    "a20": 103.27,
-   "r": 52.2
+   "r": 52.1
   },
   {
    "s": "GC=F",
-   "p": 4213.8,
-   "c": 0.27,
-   "a50": 4367.3,
-   "a200": 4553.62,
+   "p": 4210.4,
+   "c": 0.19,
+   "a50": 4367.23,
+   "a200": 4553.61,
    "yh": 5318.4,
    "yl": 3868.1,
-   "a20": 4336.9,
-   "r": 38.1
+   "a20": 4336.73,
+   "r": 37.7
   },
   {
    "s": "HG=F",
    "p": 6.57,
-   "c": 1.4,
+   "c": 1.32,
    "a50": 6.55,
    "a200": 6.12,
    "yh": 6.8,
    "yl": 4.85,
    "a20": 6.58,
-   "r": 50.0
+   "r": 49.8
   },
   {
    "s": "TWDUSD",
-   "p": 0.03136763,
-   "c": -0.04,
+   "p": 0.03135779,
+   "c": -0.05,
    "a50": 0.03133814,
    "a200": 0.03152585,
    "yh": 0.032744,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "阿拉斯加LNG成本遠超美國同業　韓國先評估投資可行性",
+   "t": "油價漲與美伊局勢緊張拖累　日股收跌",
    "pub": "中央社財經",
    "d": "2026-10-02",
-   "u": "https://www.cna.com.tw/news/aopl/202610020120.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610020153.aspx"
   },
   {
    "t": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html"
   },
   {
-   "t": "新台幣午盤貶5.9分　暫收31.901元",
+   "t": "柏瑞投信易主　10月正式更名大都會投信",
    "pub": "中央社財經",
    "d": "2026-10-02",
-   "u": "https://www.cna.com.tw/news/afe/202610020098.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610020152.aspx"
   },
   {
    "t": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html"
   },
   {
-   "t": "台灣機車9月掛牌增　第4季買氣估續熱絡",
+   "t": "10月電子期金融期齊跌",
    "pub": "中央社財經",
    "d": "2026-10-02",
-   "u": "https://www.cna.com.tw/news/afe/202610020097.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610020142.aspx"
   },
   {
    "t": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html"
   },
   {
-   "t": "何志偉：2040年前助百萬家中小微企業智慧化",
+   "t": "10月台指期跌27點",
    "pub": "中央社財經",
    "d": "2026-10-02",
-   "u": "https://www.cna.com.tw/news/afe/202610020094.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610020141.aspx"
   },
   {
    "t": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html"
   },
   {
-   "t": "傳產需求弱、廠商看法轉保守　8月製造業景氣燈號退至綠燈",
+   "t": "台股震盪收漲122點　48475點再創收盤新高",
    "pub": "中央社財經",
    "d": "2026-10-02",
-   "u": "https://www.cna.com.tw/news/afe/202610020074.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610020135.aspx"
   },
   {
    "t": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html"
   },
   {
-   "t": "台股盤中翻紅　漲逾百點站上48400點",
+   "t": "台股震盪走高　收漲122點",
    "pub": "中央社財經",
    "d": "2026-10-02",
-   "u": "https://www.cna.com.tw/news/afe/202610020073.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610020132.aspx"
   },
   {
    "t": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
