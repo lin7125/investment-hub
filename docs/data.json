@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-02 17:03（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-10-02 17:13（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 15.96,
-   "c": -2.62,
+   "p": 15.93,
+   "c": -2.81,
    "a50": 15.8,
    "a200": 18.06,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.95,
-   "r": 50.9
+   "r": 50.8
   },
   {
    "s": "BZ=F",
-   "p": 99.22,
-   "c": -3.02,
-   "a50": 94.75,
+   "p": 99.67,
+   "c": -2.58,
+   "a50": 94.76,
    "a200": 87.72,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 103.16,
-   "r": 48.4
+   "a20": 103.18,
+   "r": 49.1
   },
   {
    "s": "GC=F",
-   "p": 4212.3,
-   "c": 0.24,
-   "a50": 4367.27,
-   "a200": 4553.62,
+   "p": 4210.7,
+   "c": 0.2,
+   "a50": 4367.24,
+   "a200": 4553.61,
    "yh": 5318.4,
    "yl": 3868.1,
-   "a20": 4336.83,
-   "r": 37.9
+   "a20": 4336.75,
+   "r": 37.7
   },
   {
    "s": "HG=F",
-   "p": 6.57,
-   "c": 1.33,
+   "p": 6.56,
+   "c": 1.2,
    "a50": 6.55,
    "a200": 6.12,
    "yh": 6.8,
    "yl": 4.85,
    "a20": 6.58,
-   "r": 49.8
+   "r": 49.4
   },
   {
    "s": "TWDUSD",
-   "p": 0.03138732,
-   "c": 0.03,
+   "p": 0.03139717,
+   "c": 0.04,
    "a50": 0.03133814,
    "a200": 0.03152585,
    "yh": 0.032744,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "油價漲與美伊局勢緊張拖累　日股收跌",
+   "t": "華泰：AI帶動記憶體供需失衡　IC封測和EMS業務看佳",
    "pub": "中央社財經",
    "d": "2026-10-02",
-   "u": "https://www.cna.com.tw/news/afe/202610020153.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610020204.aspx"
   },
   {
    "t": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html"
   },
   {
-   "t": "柏瑞投信易主　10月正式更名大都會投信",
+   "t": "服務業缺工持續　連鎖加盟協會籲開放5%外籍人力",
    "pub": "中央社財經",
    "d": "2026-10-02",
-   "u": "https://www.cna.com.tw/news/afe/202610020152.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610020202.aspx"
   },
   {
    "t": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html"
   },
   {
-   "t": "10月電子期金融期齊跌",
+   "t": "聚陽前9月營收265億元年增0.17%　全年拚正成長",
    "pub": "中央社財經",
    "d": "2026-10-02",
-   "u": "https://www.cna.com.tw/news/afe/202610020142.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610020199.aspx"
   },
   {
    "t": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html"
   },
   {
-   "t": "10月台指期跌27點",
+   "t": "新台幣升1.2分　收31.83元",
    "pub": "中央社財經",
    "d": "2026-10-02",
-   "u": "https://www.cna.com.tw/news/afe/202610020141.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610020195.aspx"
   },
   {
    "t": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html"
   },
   {
-   "t": "台股震盪收漲122點　48475點再創收盤新高",
+   "t": "Nike預告營收續跌將裁員　大中華區銷售大減22%",
    "pub": "中央社財經",
    "d": "2026-10-02",
-   "u": "https://www.cna.com.tw/news/afe/202610020135.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202610020188.aspx"
   },
   {
    "t": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html"
   },
   {
-   "t": "台股震盪走高　收漲122點",
+   "t": "川普稱台晶片公司投資美國5千億美元　經部：以公司說明為宜",
    "pub": "中央社財經",
    "d": "2026-10-02",
-   "u": "https://www.cna.com.tw/news/afe/202610020132.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610020180.aspx"
   },
   {
    "t": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
