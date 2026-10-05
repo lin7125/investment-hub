@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05 16:01（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-10-05 16:12（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -278,52 +278,52 @@
   },
   {
    "s": "^VIX",
-   "p": 16.31,
-   "c": 6.53,
+   "p": 16.28,
+   "c": 6.34,
    "a50": 15.74,
    "a200": 18.05,
    "yh": 31.05,
    "yl": 13.47,
    "a20": 15.97,
-   "r": 52.7
+   "r": 52.6
   },
   {
    "s": "BZ=F",
-   "p": 101.26,
-   "c": -0.97,
+   "p": 100.96,
+   "c": -1.26,
    "a50": 94.9,
    "a200": 87.95,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 103.56,
-   "r": 51.7
+   "a20": 103.54,
+   "r": 51.1
   },
   {
    "s": "GC=F",
-   "p": 4189.2,
-   "c": 0.65,
-   "a50": 4368.64,
-   "a200": 4552.65,
+   "p": 4192.1,
+   "c": 0.72,
+   "a50": 4368.7,
+   "a200": 4552.66,
    "yh": 5318.4,
    "yl": 3960.5,
-   "a20": 4319.96,
-   "r": 37.4
+   "a20": 4320.1,
+   "r": 37.7
   },
   {
    "s": "HG=F",
    "p": 6.59,
-   "c": 1.54,
+   "c": 1.57,
    "a50": 6.56,
    "a200": 6.12,
    "yh": 6.8,
    "yl": 4.85,
    "a20": 6.58,
-   "r": 51.4
+   "r": 51.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03151592,
-   "c": 0.49,
+   "p": 0.03150599,
+   "c": 0.47,
    "a50": 0.03134796,
    "a200": 0.03152585,
    "yh": 0.032744,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "日銀：AI熱潮帶動需求　金融環境轉寬鬆但有回檔風險",
+   "t": "聯發科攜手達發　加速電信業AI網路基礎建設升級",
    "pub": "中央社財經",
    "d": "2026-10-05",
-   "u": "https://www.cna.com.tw/news/aopl/202610050105.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610050173.aspx"
   },
   {
    "t": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html"
   },
   {
-   "t": "反應物價走升　明年遺贈稅免稅額可望調高",
+   "t": "證交所開放創新板股票得為權證標的　優化權證制度",
    "pub": "中央社財經",
    "d": "2026-10-05",
-   "u": "https://www.cna.com.tw/news/afe/202610050081.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610050172.aspx"
   },
   {
    "t": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html"
   },
   {
-   "t": "新台幣午盤升5分　暫收31.78元",
+   "t": "雷虎鐵三角無人機彈射成功　邁向中長程無人機平台",
    "pub": "中央社財經",
    "d": "2026-10-05",
-   "u": "https://www.cna.com.tw/news/afe/202610050080.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610050169.aspx"
   },
   {
    "t": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html"
   },
   {
-   "t": "台彩10月推兩檔刮刮樂新品　總獎金逾21.1億",
+   "t": "三大法人買超台股764.49億元",
    "pub": "中央社財經",
    "d": "2026-10-05",
-   "u": "https://www.cna.com.tw/news/ahel/202610050078.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610050161.aspx"
   },
   {
    "t": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html"
   },
   {
-   "t": "矽谷台美產業科技協會年會  王美花：合作更深做全世界生意",
+   "t": "群電第3季營收旺季不旺　看好衛星電源第4季動能強",
    "pub": "中央社財經",
    "d": "2026-10-05",
-   "u": "https://www.cna.com.tw/news/afe/202610050072.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610050158.aspx"
   },
   {
    "t": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html"
   },
   {
-   "t": "AI股與南亞強攻　台股盤中飆漲1294點衝49770點新高",
+   "t": "台股盤中收盤雙創高突破49700點　台積電收2575元新天價",
    "pub": "中央社財經",
    "d": "2026-10-05",
-   "u": "https://www.cna.com.tw/news/afe/202610050063.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610050148.aspx"
   },
   {
    "t": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
@@ -405,79 +405,79 @@
   }
  ],
  "inst": {
-  "date": "2026-10-02",
+  "date": "2026-10-05",
   "byCode": {
-   "1802": {
-    "f": 4761,
-    "t": 15,
-    "all": 5203
-   },
-   "2327": {
-    "f": -2787,
-    "t": 3822,
-    "all": 2497
-   },
-   "2305": {
-    "f": 1679,
-    "t": -2,
-    "all": 1613
-   },
-   "6442": {
-    "f": 365,
-    "t": 56,
-    "all": 537
-   },
-   "3701": {
-    "f": 298,
-    "t": 0,
-    "all": 271
-   },
-   "6515": {
-    "f": 98,
-    "t": -2,
-    "all": 101
-   },
-   "6862": {
-    "f": 4,
-    "t": 0,
-    "all": 3
-   },
-   "6706": {
-    "f": -221,
-    "t": 0,
-    "all": -233
-   },
-   "6446": {
-    "f": -247,
-    "t": -20,
-    "all": -263
-   },
-   "4722": {
-    "f": -430,
-    "t": 0,
-    "all": -363
-   },
-   "2454": {
-    "f": -1472,
-    "t": 224,
-    "all": -1253
-   },
-   "2308": {
-    "f": -1541,
-    "t": 84,
-    "all": -1436
+   "2317": {
+    "f": 13072,
+    "t": -64,
+    "all": 13383
    },
    "2330": {
-    "f": -5914,
-    "t": 253,
-    "all": -5344
+    "f": 9770,
+    "t": 439,
+    "all": 10701
    },
-   "2317": {
-    "f": -15147,
-    "t": 223,
-    "all": -14908
+   "2308": {
+    "f": 7962,
+    "t": 29,
+    "all": 8351
+   },
+   "1802": {
+    "f": 3253,
+    "t": 0,
+    "all": 3407
+   },
+   "2454": {
+    "f": 1297,
+    "t": -62,
+    "all": 1357
+   },
+   "2305": {
+    "f": 899,
+    "t": 0,
+    "all": 771
+   },
+   "3701": {
+    "f": 320,
+    "t": 0,
+    "all": 526
+   },
+   "6446": {
+    "f": 468,
+    "t": -2,
+    "all": 508
+   },
+   "4722": {
+    "f": 83,
+    "t": 0,
+    "all": 122
+   },
+   "6515": {
+    "f": 11,
+    "t": -7,
+    "all": 5
+   },
+   "6862": {
+    "f": 2,
+    "t": 0,
+    "all": 1
+   },
+   "6706": {
+    "f": -257,
+    "t": 0,
+    "all": -189
+   },
+   "6442": {
+    "f": -176,
+    "t": 0,
+    "all": -190
+   },
+   "2327": {
+    "f": -12366,
+    "t": 3094,
+    "all": -9285
    }
   },
-  "totalNetE": 104.2
+  "totalNetE": 764.5
  }
 }
