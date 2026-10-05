@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05 23:06（台北時間・盤中更新 Yahoo＋證交所數據）",
+ "generatedAt": "2026-10-06 05:10（台北時間・盤中更新 Yahoo＋證交所數據）",
  "quotes": [
   {
    "s": "2330.TW",
@@ -179,14 +179,14 @@
   },
   {
    "s": "3585.TWO",
-   "p": 74.3,
-   "c": 18.69,
+   "p": 74.2,
+   "c": 18.53,
    "a50": 48.58,
    "a200": 47.53,
    "yh": 165.0,
    "yl": 11.65,
-   "a20": 49.16,
-   "r": 78.1
+   "a20": 49.15,
+   "r": 78.0
   },
   {
    "s": "6223.TWO",
@@ -201,80 +201,80 @@
   },
   {
    "s": "6750.TWO",
-   "p": 55.2,
-   "c": -0.18,
+   "p": 55.0,
+   "c": -0.54,
    "a50": 55.9,
    "a200": 59.12,
    "yh": 74.3,
    "yl": 37.6,
-   "a20": 57.26,
-   "r": 42.1
+   "a20": 57.25,
+   "r": 41.1
   },
   {
    "s": "AAPL",
-   "p": 333.57,
-   "c": -0.04,
-   "a50": 322.43,
+   "p": 332.89,
+   "c": -0.24,
+   "a50": 322.41,
    "a200": 289.45,
    "yh": 341.07,
    "yl": 245.27,
-   "a20": 332.58,
-   "r": 54.6
+   "a20": 332.54,
+   "r": 53.8
   },
   {
    "s": "NVDA",
-   "p": 237.29,
-   "c": 1.43,
-   "a50": 218.89,
-   "a200": 201.01,
-   "yh": 237.29,
+   "p": 238.9,
+   "c": 2.12,
+   "a50": 218.92,
+   "a200": 201.02,
+   "yh": 238.9,
    "yl": 165.17,
-   "a20": 224.13,
-   "r": 65.7
+   "a20": 224.21,
+   "r": 66.9
   },
   {
    "s": "TSLA",
-   "p": 378.07,
-   "c": 2.02,
-   "a50": 348.88,
-   "a200": 392.62,
+   "p": 378.73,
+   "c": 2.2,
+   "a50": 348.9,
+   "a200": 392.63,
    "yh": 489.88,
    "yl": 298.32,
-   "a20": 366.07,
-   "r": 58.5
+   "a20": 366.1,
+   "r": 58.8
   },
   {
    "s": "META",
-   "p": 745.79,
-   "c": 2.43,
-   "a50": 628.05,
-   "a200": 628.83,
+   "p": 741.9,
+   "c": 1.9,
+   "a50": 627.97,
+   "a200": 628.81,
    "yh": 777.59,
    "yl": 525.72,
-   "a20": 702.37,
-   "r": 64.6
+   "a20": 702.17,
+   "r": 64.0
   },
   {
    "s": "^TWII",
-   "p": 49712.04,
-   "c": 2.55,
-   "a50": 45687.55,
-   "a200": 39138.93,
-   "yh": 49712.04,
+   "p": 48475.74,
+   "c": 0.25,
+   "a50": 45590.33,
+   "a200": 39029.35,
+   "yh": 48475.74,
    "yl": 26434.94,
-   "a20": 47289.89,
-   "r": 71.9
+   "a20": 47097.17,
+   "r": 65.2
   },
   {
    "s": "^GSPC",
-   "p": 7755.88,
-   "c": 0.43,
-   "a50": 7664.52,
-   "a200": 7230.6,
+   "p": 7773.95,
+   "c": 0.66,
+   "a50": 7664.88,
+   "a200": 7230.69,
    "yh": 7798.99,
    "yl": 6343.72,
-   "a20": 7671.92,
-   "r": 57.6
+   "a20": 7672.82,
+   "r": 59.0
   },
   {
    "s": "^VIX",
@@ -289,41 +289,41 @@
   },
   {
    "s": "BZ=F",
-   "p": 101.96,
-   "c": -0.28,
-   "a50": 94.92,
-   "a200": 87.95,
+   "p": 100.32,
+   "c": -1.89,
+   "a50": 94.88,
+   "a200": 87.94,
    "yh": 118.35,
    "yl": 58.92,
-   "a20": 103.59,
-   "r": 53.1
+   "a20": 103.51,
+   "r": 49.9
   },
   {
    "s": "GC=F",
-   "p": 4171.9,
-   "c": 0.23,
-   "a50": 4368.29,
-   "a200": 4552.56,
+   "p": 4167.6,
+   "c": 0.13,
+   "a50": 4368.21,
+   "a200": 4552.54,
    "yh": 5318.4,
    "yl": 3960.5,
-   "a20": 4319.09,
-   "r": 35.3
+   "a20": 4318.88,
+   "r": 34.8
   },
   {
    "s": "HG=F",
-   "p": 6.64,
-   "c": 2.28,
+   "p": 6.63,
+   "c": 2.16,
    "a50": 6.56,
    "a200": 6.12,
    "yh": 6.8,
    "yl": 4.85,
    "a20": 6.58,
-   "r": 53.8
+   "r": 53.5
   },
   {
    "s": "TWDUSD",
-   "p": 0.03153579,
-   "c": 0.55,
+   "p": 0.03152585,
+   "c": 0.54,
    "a50": 0.03134796,
    "a200": 0.03152585,
    "yh": 0.032744,
@@ -332,10 +332,10 @@
  ],
  "news": [
   {
-   "t": "龔明鑫：無人機很可能成護國神山　發揮實質護國效果",
+   "t": "國際油價回落　歐洲股市多收漲",
    "pub": "中央社財經",
-   "d": "2026-10-05",
-   "u": "https://www.cna.com.tw/news/afe/202610050280.aspx"
+   "d": "2026-10-06",
+   "u": "https://www.cna.com.tw/news/afe/202610060003.aspx"
   },
   {
    "t": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
@@ -344,10 +344,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html"
   },
   {
-   "t": "研調：2035年人形機器人年出貨量增至260萬台",
+   "t": "美舉債成本居20年高點　政府3力道應對恐難逃刺激通膨",
    "pub": "中央社財經",
    "d": "2026-10-05",
-   "u": "https://www.cna.com.tw/news/afe/202610050279.aspx"
+   "u": "https://www.cna.com.tw/news/aopl/202610050321.aspx"
   },
   {
    "t": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
@@ -356,10 +356,10 @@
    "u": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html"
   },
   {
-   "t": "外資買超逾718億元登今年第9大　加碼主動式ETF",
+   "t": "市場關注殖利率與經濟數據  那指盤中再創新高",
    "pub": "中央社財經",
    "d": "2026-10-05",
-   "u": "https://www.cna.com.tw/news/afe/202610050276.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610050319.aspx"
   },
   {
    "t": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
@@ -368,10 +368,10 @@
    "u": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html"
   },
   {
-   "t": "外資前9月淨匯入1083億美元　創同期新高",
+   "t": "今彩539第115241期　頭獎4注中獎",
    "pub": "中央社財經",
    "d": "2026-10-05",
-   "u": "https://www.cna.com.tw/news/afe/202610050274.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202610050309.aspx"
   },
   {
    "t": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
@@ -380,10 +380,10 @@
    "u": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html"
   },
   {
-   "t": "北士科等重大建設挹注　國產八里與台北港廠出貨拚新高",
+   "t": "威力彩第115080期　頭獎槓龜",
    "pub": "中央社財經",
    "d": "2026-10-05",
-   "u": "https://www.cna.com.tw/news/afe/202610050271.aspx"
+   "u": "https://www.cna.com.tw/news/ahel/202610050307.aspx"
   },
   {
    "t": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
@@ -392,10 +392,10 @@
    "u": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html"
   },
   {
-   "t": "日企正以空前速度撤離中國　受經濟放緩外交不睦影響",
+   "t": "科技股漲勢暫歇　美股開平盤",
    "pub": "中央社財經",
    "d": "2026-10-05",
-   "u": "https://www.cna.com.tw/news/aopl/202610050267.aspx"
+   "u": "https://www.cna.com.tw/news/afe/202610050305.aspx"
   },
   {
    "t": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
